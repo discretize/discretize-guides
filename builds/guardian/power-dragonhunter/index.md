@@ -14,7 +14,7 @@ boons:
   - name: Fury
     uptime: 80%
     variant: group
-code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
   - 3
@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-29T09:51:24.501Z
+date: 2022-05-01T07:56:02.596Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -204,7 +204,7 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="162 AR (Banner)" gear={{
+<Character advanced title="162 AR (Banner)" gear={{
    "profession":"Guardian",
    "weight":"Heavy",
    "gear":[
