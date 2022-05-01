@@ -2,6 +2,7 @@
 title: Power Willbender
 hidden: false
 archive: false
+hasBeginner: true
 rating: Good
 role: Power Damage
 profession: Guardian
@@ -14,17 +15,38 @@ boons:
   - name: Fury
     uptime: 80%
     variant: party
-code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 4
   - 3
   - 2
   - 4
-date: 2022-04-29T09:46:55.887Z
+date: 2022-05-01T04:24:41.835Z
 ---
 
-The <Specialization name="Willbender" text="Power Willbender"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="62532"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>. It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
+
+The <Specialization text="Power Willbender" name="Willbender"/> has access to blocks with <Skill name="Shield of Wrath"/>, <Skill name="Crashing Courage"/> and a very strong heal skill (<Skill name="Litany of Wrath"/>). It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+
+While this build has less burst damage than the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>, it comes with some other nice benefits:
+- Swapping out <Skill name="Whirling Light"/> for another utility to support your group comes at almost no DPS loss.
+- If boons are lacking in your group, you can take 2 optional traits (<Trait name="Zealous Scepter"/> and <Trait name="Holy Reckoning"/>) to ensure permanent <Boon name="Might"/> uptime on yourself.
+- The Elite skill <Skill name="Heavens Palm"/> provides great extra CC on top of <Skill name="Bane Signet"/>.
+
+<Beginner>
+
+Before progressing to the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You should be able to hit consistently high DPS, which you can verify with [arc-dps](https://www.deltaconnected.com/arcdps/). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
+
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
+
+</Beginner>
 
 <Divider text="Equipment"/>
 
@@ -457,6 +479,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="65" traits3="Willbender" traits3SelectedIds="2190,2197,2201"/>
 
+<Advanced>
 <Card title="Virtues">
 
 If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance trait line for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
@@ -464,6 +487,7 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from s
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
 </Card>
+</Advanced>
 
 <Card title="CC skills">
 
@@ -480,7 +504,23 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from s
 </GridItem>
 
 <GridItem sm="5">
+
 <Card title="Situational Skills">
+<Beginner>
+
+You should drop <Skill name="Whirling Light"/> first.
+
+|                                                   |                                                                                          |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| <Skill id="9153" size="big" disableText/>         | When <Boon name="Stability"/> or a stunbreak is needed.                                  |
+| <Skill id="9125" size="big" disableText/>         | Deals an additional 200 defiance bar damage.                                             |
+| <Skill id="9251" size="big" disableText/>         | A stationary reflect lasting for 10 seconds.                                             |
+| <Skill name="Sanctuary" size="big" disableText/>  | Huge CC and projectile destruction.                                                      |
+
+</Beginner>
+
+<Advanced>
+
 If you need to use a different skill you can swap <Skill name="Whirling Light"/> without losing much damage.
 
 |                                                        |                                                                                                                                 |
@@ -496,6 +536,7 @@ If you need to use a different skill you can swap <Skill name="Whirling Light"/>
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                             |
 | <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                             |
 
+</Advanced>
 </Card>
 </GridItem>
 </Grid>
@@ -509,7 +550,8 @@ Generally it is important to apply <Boon name="Resolution"/> when you are about 
 <Divider text="Rotation / Skill Usage"/>
 
 <Grid>
-<GridItem xs="12" sm="6">
+<GridItem xs="12" sm="7">
+<Advanced>
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
@@ -529,9 +571,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 7.  Blast a fire field with <Skill name="Holy Strike"/> again
 
 </Card>
-</GridItem>
 
-<GridItem xs="12" sm="6">
 <Card title="Notes on skill usage:">
 
 - Always start on sword
@@ -543,9 +583,99 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 - Don't waste your key skills on meaningless adds.
 
 </Card>
+</Advanced>
+
+<Beginner>
+
+<Information>
+
+This build plays very similar to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> and therefore the rotation as well as step-by-step explanation will be very similar.
+
+</Information>
+
+<Card title="Step-by-Step Rotation">
+
+**Step 0: Bane Signet**
+
+The <Skill name="Bane Signet"/> grants you a passive boost to your <Attribute name="Power"/>. Its active effect (when clicked) will inflict a high amount of CC (300 CC) on your target and share the passive with your allies for 10 seconds through <Trait name="Perfect Inscriptions"/>. Therefore, you want to do the following:
+
+- If a Mistlock Singularity is present, cast <Skill name="Bane Signet"/> there to share its buff right before you run into the fight, then take the singularity.
+- If a boss starts with a break bar, you should cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
+- If a boss does not get a break bar early into the fight, you can use <Skill name="Bane Signet"/> before the fight starts to share the passive and start right with your burst when the boss spawns.
+
+**Step 1: Greatsword Skills**
+
+The first step consists of using <Skill name="Symbol of Resolution"/>, <Skill name="Whirling Wrath"/> and <Skill name="Binding Blade"/> off-cooldown (in this order of priority if multiple come up at the same time).
+
+- <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword.
+- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox.
+- <Skill name="Binding Blade"/> will deal more damage if you are in the hitbox while there are extra enemies around.
+
+**Step 2: Virtue Skills and Whirling Light**
+
+Next up, it is time to incorporate <Skill name="Rushing Justice"/> and <Skill name="Whirling Light"/>.
+
+- Using <Skill name="Rushing Justice"/> will create <Skill name="Willbender Flames"/> and makes you inflict <Condition name="Burning"/> every few hits. This will grant you a stacking buff from <Trait name="Lethal Tempo"/>. You want to use this skill as soon as possible to start stacking the buff.
+- If you precast another Virtue before the fight, you can delay this skill a bit.
+- Whenever you need healing or <Boon name="Aegis"/>/<Boon name="Stability"/>, you can use <Skill name="Flowing Resolve"/> or <Skill name="Crashing Courage"/> instead.
+- <Skill name="Whirling Light"/> deals high damage and can safely be used off-cooldown. It has lower priority than most of your other skills.
+- If you kill certain enemies, your <Skill name="Rushing Justice"/> will reset due to <Trait name="Renewed Justice"/>. In this case, your other skills will still take priority until the current <Skill name="Rushing Justice"/> runs out.
+The opener at this step looks like this:
+
+1. <Skill name="Rushing Justice"/>
+2. <Skill name="Symbol of Resolution"/>
+3. <Skill name="Whirling Wrath"/>
+4. <Skill name="Binding Blade"/>
+5. <Skill name="Whirling Light"/>
+
+**Step 3: Sword of Justice**
+
+Now it is time to incorporate another strong utility skill, <Skill name="Sword of Justice"/>.
+
+- <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
+- Make sure to use one charge right at the start to help ramping up <Condition name="Vulnerability"/>.
+- Afterwards, you can freely use this skill at any point of the rotation.
+
+**Step 4: Sword skills**
+
+This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important in fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> at the start of the fight, then swap to Greatsword and do our regular rotation.
+
+The opener should now look like this:
+
+1. <Skill name="Sword of Justice"/>
+2. <Skill name="Rushing Justice"/>
+3. <Skill name="Symbol of Blades"/>
+4. <Skill name="Zealots Defense"/>
+5. Swap to Greatsword
+6. <Skill name="Symbol of Resolution"/>
+7. <Skill name="Whirling Wrath"/>
+8. <Skill name="Binding Blade"/>
+9. <Skill name="Whirling Light"/>
+
+</Card>
+
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great burst damage and good consistent damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+The additional steps are:
+
+- Incorporate your Focus skills into the rotation, namely <Skill name="Ray of Judgment"/> and <Skill name="Shield of Wrath"/>.
+- Weapon swap more often on fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="Zealots Defense"/> twice on the respective weapon set.
+- Precasts: You can cast lasting skills such as <Skill name="Symbol of Blades"/> before the fight starts to get your damage up earlier and have 1 less cast in your opener.
+
+</Card>
+
+
+</Beginner>
+
 </GridItem>
 
-<GridItem xs="12" sm="6">
+<GridItem xs="12" sm="5">
+
+<Advanced>
 <Card title="Opener">
 
 **Rotation:**
@@ -570,14 +700,16 @@ This is just a suggested opener. Depending on the encounter and the length of th
 16. If the phase lasts longer than this, continue with the [SC rotation](https://snowcrows.com/builds/guardian/willbender/power-willbender).
 
 </Card>
-</GridItem>
+</Advanced>
 
-<GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
 <Video youtube="-OiH1BLuJpo" caption="by Nagy"/>
 </Card>
+
 </GridItem>
+
+
 </Grid>
 
 <Divider text="Underwater combat"/>
