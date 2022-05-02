@@ -105,9 +105,9 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 ## Blizzard path (Forest)
 
-You will need to enlighten four _bonfires_ on the path to progress to the end boss, **the _Enlighten_ charges have unlimited use so this can be soloed** but if you want to be safe simply wait for everyone.
+You will need to enlighten four _bonfires_ on the path to progress to the end boss. **The _Enlighten_ special action key has unlimited charges, which means the forest may be solod.** 
 
-You can stack <Effect name="Stealth"/> to skip the mobs though it usually is not necessary.Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
+You could stack <Effect name="Stealth"/> to skip the mobs although it usually is not necessary. Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
 </GridItem>
 </Grid>
 
