@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-05-01T15:23:14.242Z
+date: 2022-05-02T13:25:08.948Z
 cmGuide: ""
 ---
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. It offers large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
@@ -281,10 +281,11 @@ Next up, we want to incorporate <Skill name="Enter Shadow Shroud"/>. This will b
 - When at low Initiative, use <Skill name="Enter Shadow Shroud"/> as soon as possible.
 - This will trigger <Trait name="Quick Pockets"/> and give you back some Initiative (unless you recently weapon swapped before).
 - Use Skills 2,4 and 5 off-cooldown in Shroud.
-There is 2 options to track how long you want to stay in Shroud:
+There are 2 options to track how long you want to stay in Shroud:
 1. Leave Shroud when your Initiative is almost full.
-2. Leave Shroud after the 3rd time casting skill 2 (if you entered at 3-4 Initiative) or after casting 2 additional auto-attacks after the 2nd time (if you entered at 0-1 initiative).
-The 2nd way is more future-proof due to being independant of <Trait name="Quick Pockets"/> timings if you have to swap to Pistol during the fight or when you move on to using a 2nd Dagger to trigger <Trait name="Quick Pockets"/> at different times..
+2. Leave Shroud after the 3rd time casting skill 2 (if you entered at 0-1 Initiative) or after casting 2 additional auto-attacks after the 2nd time (if you entered at 3-4 initiative).
+
+The 2nd way is more future-proof due to being independent of <Trait name="Quick Pockets"/> timings if you have to swap to Pistol during the fight or when you move on to using the 2nd Dagger to trigger <Trait name="Quick Pockets"/> at different times.
 
 **Step 3: Venoms**
 
@@ -299,8 +300,8 @@ The first utility skills we will incorporate will be the venoms, namely <Skill n
 
 Lastly, you have <Skill name="Prepare Thousand Needles"/>.
 - Using this skill will place a trap on the ground that will take 3 seconds until you can use it again to trigger the trap dealing damage and inflicting conditions in the area.
-- Use it off-cooldown unless you know the boss will move soon. You can place it on the boss location before the boss becomes attackable. The cooldown will start when you first place it, not when you trigger it.
-- Due to its stationary nature, this skill can easily get wasted on bosses that move around a lot. You can consider <Skill name="Devourer Venom"/> as an alternative on enemies that move around a lot. In that case, use it like the other 2 venoms in step 3.
+- Use it off-cooldown unless you know the boss will move soon. You can place it on the boss's location before the boss becomes attackable. The cooldown will start when you first place it, not when you trigger it.
+- Due to its stationary nature, this skill can easily get wasted on bosses that move around a lot. You can consider <Skill name="Devourer Venom"/> as an alternative to enemies that move around a lot. In that case, use it like the other 2 venoms in step 3.
 
 </Card>
 
@@ -312,7 +313,7 @@ There will be a few additional things on the advanced page to improve further bu
 
 The additional steps are:
 - Using weapon swap more actively when not running a Pistol off-hand in order to maximize the efficiency of <Trait name="Quick Pockets"/> and <Item type="Sigil" name="Doom"/>.
-- You can slightly shift priority of certain skills to maximize their usage like casting <Skill name="Siphon"/> as soon as you go below 9 Initiative instead of when you run out of it.
+- You can slightly shift the priority of certain skills to maximize their usage like casting <Skill name="Siphon"/> as soon as you go below 9 Initiative instead of when you run out of it.
 
 </Card>
 
@@ -360,7 +361,9 @@ This video shows the step-by-step approach to the rotation listed on the left.
 <Card title="Golem rotation">
 
 <Beginner>
+
 This video shows the full golem rotation. It optimizes the use of <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
+
 </Beginner>
 
 <Video youtube="7ZjQJmms_Dw" caption="by Incera"/>
