@@ -63,7 +63,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before the four _K1T-A golems_ and kill them to spawn the Chaos Anomaly. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength, the final single golem at 25% health has about 1.5m health. Always the golem that gets killed last will bee eliminated.
+Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. Always the golem that gets killed last will be eliminated and not reappear in the next phase.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 
