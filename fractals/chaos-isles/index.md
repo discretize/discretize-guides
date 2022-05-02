@@ -40,7 +40,7 @@ record:
 
 ## Start: You think this is Cliffside
 
-Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person can rush ahead and move to the next checkpoint at the _Chaos Anomaly_, everyone else can `/gg` and resurrect at the checkpoint there.
+Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person may rush ahead and move to the next checkpoint at the _Chaos Anomaly_, which involves a small jumping puzzle and kitty golems that <Control name="Knockback" /> the player off the platforms. As soon as one person reached the checkpoint, everyone else can `/gg` and resurrect at the checkpoint at the _Chaos Anomaly_.
 
 While the video showcases the skip for <Specialization name="Thief"/> any class can execute the skip effectively with the help of blocks and reflects.
 
