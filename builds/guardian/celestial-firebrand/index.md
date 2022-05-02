@@ -40,6 +40,9 @@ test3
 
 yoo this is another comment from the new editor
 
+
+soemthing from gh ui
+
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
 
 The general idea of these builds is to leverage the Celestial stat combo (<Attribute name="Power"/>, <Attribute name="Precision"/>, <Attribute name="Toughness"/>, <Attribute name="Vitality"/>, <Attribute name="Ferocity"/>,<br/> <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/>, <Attribute name="Concentration"/>, <Attribute name="Expertise"/>) and the Seraph stat combo (<Attribute name="Precision"/>, <Attribute name="Healing Power"/>, <Attribute name="Condition Damage"/> and <Attribute name="Concentration"/>). This gives a high amount of <Attribute name="Healing Power"/> and <Attribute name="Condition Damage"/>. They then uses Runes, Sigils and Food to cap <Condition name="Burning"/> duration allowing you to deal a good amount of damage.
