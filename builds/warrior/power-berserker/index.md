@@ -12,7 +12,7 @@ conditions:
     uptime: 5 stacks
 boons:
   - name: Might
-    uptime: '12 stacks '
+    uptime: '12 stacks'
     variant: (using For Great Justice)
 code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
