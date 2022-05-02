@@ -2,6 +2,7 @@
 title: Condi Willbender
 hidden: false
 archive: false
+hasBeginner: true
 rating: Good
 role: Condi Damage
 profession: Guardian
@@ -15,14 +16,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 3
-date: 2022-04-29T09:41:26.581Z
+date: 2022-05-02T04:24:52.310Z
 ---
 
 The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC, and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
@@ -144,16 +145,13 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
 }} 
 >
 
+<Advanced>
 Many different gear variations can be run on this build that varies damage-wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
+</Advanced>
+
+The 3rd utility skill slot is flexible. Look at te Situational Skills below for common options.
 
 This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
-
-If you need to swap a utility out, <Skill name="Signet of Wrath"/> is a minor DPS increase and should be swapped out when other skills suit the encounter better.
-You will want the following weapons to swap to during fractal runs:
-
-- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
-- A staff for <Boon name="Might"/> pre-stacking.
-- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
 
 </Character> 
 </CharacterWithAr>
@@ -162,22 +160,25 @@ You will want the following weapons to swap to during fractal runs:
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
+<Advanced>
+<Card title="Extra Weapons">
 
-<Card title="Defiance Bar Damage">
+You will want the following weapons to swap to during fractal runs:
 
-|                                               |                                                                                |
-| --------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
-| <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
-| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
 
 </Card>
+</Advanced>
+
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
+
 </GridItem>
 
 <GridItem sm="5">
+
+<Advanced>
 <Card title="Situational Skills">
 
 |                                                         |                                                                                     |
@@ -195,13 +196,44 @@ You will want the following weapons to swap to during fractal runs:
 | <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
 
 </Card>
+</Advanced>
+
+<Beginner>
+<Card title="Situational Skills">
+
+|                                                         |                                                                                     |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>                               |
+| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                 |
+| <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed.                                 |
+| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                             |
+| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                        |
+| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                        |
+
+</Card>
+
+<Card title="Defiance Bar Damage">
+
+|                                               |                                                                                |
+| --------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
+| <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
+| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
+
+</Card>
+
+
+</Beginner>
 </GridItem>
 </Grid>
 
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
-<GridItem sm="6">
+<GridItem sm="7">
+<Advanced>
 <Card title="Skill Priority">
 
 In general for fractals there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. In general though make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
@@ -227,19 +259,74 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 
 You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
 </Card>
-</GridItem>
+</Advanced>
 
-<GridItem sm="6">
-<Card title="Golem rotation">
+<Beginner>
 
-<Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
+<Card title="Step-by-Step Rotation">
 
-Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+**Step 1: Basic Priority**
 
-<Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
+The <Specialization text="Condition Willbender" name="Willbender"/> has a rather simple, mostly priority-based rotation. In the first step, we will use 4 basic abilities off-cooldown in the following priority:
+1. <Skill name="Rushing Justice"/>
+2. <Skill name="Purging Flames"/>
+3. <Skill name="Symbol of Punishment"/>
+4. <Skill name="Whirling Light"/>
+ 
+Use these skills in this order once at the start, then use them off-cooldown with the same priority if multiple come up at the same time. The hardest part of this should be the opening where all 4 skills are up at the same time.
 
-Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+**Step 2: Torch 4**
+
+<Skill name="Zealots Flame"/> is the most intricate skill we will use in this rotation. If you want a visual example of how it is used based on the text below, check out one of the videos on the right side.
+
+Using <Skill name="Zealots Flame"/> will give a stack of <Skill name="Zealots Fire"/> that we can then throw at the target.
+- <Trait name="Radiant Fire"/> will give an additional <Skill name="Zealots Fire"/> once every 10 seconds.
+- Since we have a few seconds to throw the <Skill name="Zealots Fire"/>, we can use this time to press other priority skills first if any are up.
+
+We will use this skill in the following way:
+- In the opening, press <Skill name="Zealots Flame"/> while casting the first skill. You will then gain an additional stack from <Trait name="Radiant Fire"/>. After using the priority skills from step 1, we can throw both stacks at the target.
+- If you are a bit slow with the opening, you can throw the <Skill name="Zealots Fire"/> before casting <Skill name="Whirling Light"/>.
+- After the opening, we will cast <Skill name="Zealots Flame"/> off-cooldown and throw <Skill name="Zealots Fire"/> (from both sources) as soon as possible (delaying it slightly if another priority skill is up).
+- After the opening, the 2 stacks of <Skill name="Zealots Fire"/> will often not align anymore due to <Trait name="Restorative Virtues"/> reducing your weapon cooldown, but not the trait cooldown.
+
+**Step 3: Torch 5**
+
+Finally, we will add <Skill name="Cleansing Flame"/> into the rotation. This skill has a very long channel (approx. 2.5 seconds) and has less of a priority than the other skills we have used so far.
+
+Therefore we will only use this skill when there is at least a 2.5 second gap between other abilities so we do not delay anything more important. Ideally, there should never be another priority skill coming off-cooldown in the middle of the cast of <Skill name="Cleansing Flame"/> if used correctly.
 
 </Card>
+
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+There is only one additional step (besides learning the rest of the utility you can situationally bring):
+- Incorporating the Sword weapon set into the rotation. There, we will prioritize <Skill name="Symbol of Blades"/> over <Skill name="Zealots Defense"/>.
+- For the most part, the idea is to use the <Skill name="Symbol of Blades"/>/<Skill name="Zealots Defense"/> and <Skill name="Symbol of Punishment"/> twice on the respective weapon set.
+
+</Card>
+</Beginner>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Golem rotation">
+
+
+Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+<Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
+</Card>
+
+<Advanced>
+<Card title="Greatsword Golem Rotation">
+
+Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
+<Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
+
+</Card>
+</Advanced>
+
 </GridItem>
 </Grid>
