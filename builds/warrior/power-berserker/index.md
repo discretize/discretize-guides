@@ -6,6 +6,7 @@ rating: Good
 role: Power Damage
 profession: Warrior
 specialization: Berserker
+hasBeginner: true
 conditions:
   - name: Vulnerability
     uptime: 5 stacks
@@ -24,13 +25,27 @@ classification:
 date: 2022-04-29T11:43:11.788Z
 ---
 
-The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
+The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
-Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
+The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo. 
 
-The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
+Unfortunately, this builds requires a lot of Assassin pieces or other runes than <Item name="scholar" /> due to receiving very little <Attribute name="Precision" /> from traits. This is also the reason why the <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher <Attribute name="Agony Resistance" />.
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+
+<Beginner>
+
+Before progressing to the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You should be able to hit consistently high DPS, which you can verify with [arc-dps](https://www.deltaconnected.com/arcdps/). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
+
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Warrior"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
+
+</Beginner>
 
 <Divider text="Equipment" />
 
