@@ -119,9 +119,9 @@ You could stack <Effect name="Stealth"/> to skip the mobs although it usually is
 ## Legendary Brazen Gladiator
 
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.  
-He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or simply do not stand in front of him when it hits. Learn to recognize the animation.
+He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or - most commonly - bring permanent <Boon name="Stability" />. It may also be avoided by not standing in front of him when his attack hits. Learn to recognize the animation.
 
-By bringing permanent <Boon name="Stability"/>, enough DPS or a dedicated healer the fight can be very easily cheesed.
+By bringing permanent <Boon name="Stability"/> and reflects, enough DPS or a dedicated healer the fight can be easily cheesed.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
 Another trick is to bypass the damage from purple zones by repeated jumping.
