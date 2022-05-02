@@ -28,7 +28,7 @@ date: 2022-04-29T11:42:22.579Z
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-This build has less burst than the <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
+This build has less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
 
 Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have a high awareness of the encounters and good class knowledge before picking up this build. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/> since taking one hit of <Instability name="We Bleed Fire"/> will remove significant amounts of HP.
 
