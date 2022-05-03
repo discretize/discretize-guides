@@ -23,9 +23,9 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-05-03T10:34:00.536Z
+date: 2022-05-03T11:46:38.248Z
 ---
-The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
+The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC, and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
 
 <Advanced>
 
@@ -35,9 +35,9 @@ Compared to the <Specialization name="Firebrand" text="Condi Firebrand"/>, this 
 
 <Beginner>
 
-This build comes with a very simple priority-based rotation as well as the ability to adapt to your group by having various different utility options. It also has a great amount of self-sustain and can even bring <Boon name="Might" /> for itself if needed through <Trait name="holyreckoning" />. It is therefore a great build to get started with in fractals. On top of this, it also shares gear with the <Specialization name="Firebrand" text="Condi Firebrand"/> allowing you to easily swap between the 2 builds if you want more variety or situationally use some of the utility that is unique to <Specialization name="Firebrand"/>.
+This build comes with a very simple priority-based rotation as well as the ability to adapt to your group by having various utility options. It also has a great amount of self-sustain and can even bring <Boon name="Might" /> for itself if needed through <Trait name="holyreckoning" />. It is therefore a great build to get started within fractals. On top of this, it also shares gear with the <Specialization name="Firebrand" text="Condi Firebrand"/> allowing you to easily swap between the 2 builds if you want more variety or situationally use some of the utility that is unique to <Specialization name="Firebrand"/>.
 
-Before reading the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently as well as  execute the basic step-by-step rotation provided below without spending too much thought on it.
+Before reading the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently as well as executing the basic step-by-step rotation provided below without spending too much thought on it.
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
 
@@ -288,6 +288,7 @@ You can also precast stacks of <Trait name="lethal tempo"/> using your virtue sk
 **Step 1: Basic Priority**
 
 The <Specialization text="Condition Willbender" name="Willbender"/> has a rather simple, mostly priority-based rotation. In the first step, we will use 4 basic abilities off-cooldown in the following order of priority:
+
 1. <Skill name="Rushing Justice"/>
 2. <Skill name="Purging Flames"/>
 3. <Skill name="Symbol of Punishment"/>
@@ -304,6 +305,7 @@ Using <Skill name="Zealots Flame"/> will give a stack of <Skill name="Zealots Fi
 - Since we have a few seconds to throw the <Skill name="Zealots Fire"/>, we can use this time to press other priority skills first if any are up.
 
 We will use this skill in the following way:
+
 - In the opening, we will press <Skill name="Zealots Flame"/> while casting the first skill. We will then gain an additional stack from <Trait name="Radiant Fire"/>. After using the priority skills from step 1, we can throw both stacks at the target.
 - You can also throw the <Skill name="Zealots Fire"/> before casting <Skill name="Whirling Light"/>.
 - After the opening, we will cast <Skill name="Zealots Flame"/> off-cooldown and throw <Skill name="Zealots Fire"/> (from both sources) as soon as possible, only delaying it slightly if another priority skill is up.
@@ -313,7 +315,7 @@ We will use this skill in the following way:
 
 Finally, we will add <Skill name="Cleansing Flame"/> into the rotation. This skill has a very long channel (approx. 2.5 seconds) and has less of a priority than the other skills we have used so far.
 
-Therefore we will only use this skill when there is at least a 2.5 second gap between other abilities so we do not delay anything more important. Ideally, there should never be another priority skill coming off-cooldown in the middle of the cast of <Skill name="Cleansing Flame"/> if used correctly.
+Therefore we will only use this skill when there is at least a 2.5-second gap between other abilities so we do not delay anything more important. Ideally, there should never be another priority skill coming off-cooldown in the middle of the cast of <Skill name="Cleansing Flame"/> if used correctly.
 
 </Card>
 
@@ -324,6 +326,7 @@ Once you are comfortable with the above steps, you are already doing most of the
 There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
 
 There is only one additional step (besides learning the rest of the utility you can situationally bring):
+
 - Incorporating the Sword weapon set into the rotation. There, we will prioritize <Skill name="Symbol of Blades"/> over <Skill name="Zealots Defense"/>.
 - For the most part, the idea is to use the <Skill name="Symbol of Blades"/>/<Skill name="Zealots Defense"/> and <Skill name="Symbol of Punishment"/> twice on the respective weapon set.
 
