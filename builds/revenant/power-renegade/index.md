@@ -479,7 +479,7 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 <GridItem sm="4">
 <Card title="Burst Rotation">
 
-While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
 
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Citadel Bombardment"/>
@@ -528,12 +528,12 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of Battle Scars, which make your next attack(s) steal health.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
 - <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
-- <Trait name="Vindication"/> - Increases <Skill name="Citadel Bombardment"/> max ordnance count to 15.
+- <Trait name="Vindication"/> - Increases the missile count of <Skill name="Citadel Bombardment"/> to 15.
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
 
