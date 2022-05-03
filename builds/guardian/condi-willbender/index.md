@@ -23,9 +23,9 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-05-03T10:25:06.054Z
+date: 2022-05-03T10:34:00.536Z
 ---
-The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC and great mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
+The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
 
 <Advanced>
 
@@ -229,25 +229,23 @@ You will want the following weapons to swap to during fractal runs:
 | <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                 |
 | <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed.                                 |
 | <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9125" size="big" disableText/>               | Deals an additional 200 defiance bar damage.                                        |
 | <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                        |
 
 </Card>
+</Beginner>
 
 <Card title="Defiance Bar Damage">
 
 |                                               |                                                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
 | <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
 | <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
 | <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
 | <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
 
 </Card>
 
-
-</Beginner>
 </GridItem>
 </Grid>
 
@@ -289,7 +287,7 @@ You can also precast stacks of <Trait name="lethal tempo"/> using your virtue sk
 
 **Step 1: Basic Priority**
 
-The <Specialization text="Condition Willbender" name="Willbender"/> has a rather simple, mostly priority-based rotation. In the first step, we will use 4 basic abilities off-cooldown in the following priority:
+The <Specialization text="Condition Willbender" name="Willbender"/> has a rather simple, mostly priority-based rotation. In the first step, we will use 4 basic abilities off-cooldown in the following order of priority:
 1. <Skill name="Rushing Justice"/>
 2. <Skill name="Purging Flames"/>
 3. <Skill name="Symbol of Punishment"/>
@@ -306,10 +304,10 @@ Using <Skill name="Zealots Flame"/> will give a stack of <Skill name="Zealots Fi
 - Since we have a few seconds to throw the <Skill name="Zealots Fire"/>, we can use this time to press other priority skills first if any are up.
 
 We will use this skill in the following way:
-- In the opening, press <Skill name="Zealots Flame"/> while casting the first skill. You will then gain an additional stack from <Trait name="Radiant Fire"/>. After using the priority skills from step 1, we can throw both stacks at the target.
-- If you are a bit slow with the opening, you can throw the <Skill name="Zealots Fire"/> before casting <Skill name="Whirling Light"/>.
-- After the opening, we will cast <Skill name="Zealots Flame"/> off-cooldown and throw <Skill name="Zealots Fire"/> (from both sources) as soon as possible (delaying it slightly if another priority skill is up).
-- After the opening, the 2 stacks of <Skill name="Zealots Fire"/> will often not align anymore due to <Trait name="Restorative Virtues"/> reducing your weapon cooldown, but not the trait cooldown.
+- In the opening, we will press <Skill name="Zealots Flame"/> while casting the first skill. We will then gain an additional stack from <Trait name="Radiant Fire"/>. After using the priority skills from step 1, we can throw both stacks at the target.
+- You can also throw the <Skill name="Zealots Fire"/> before casting <Skill name="Whirling Light"/>.
+- After the opening, we will cast <Skill name="Zealots Flame"/> off-cooldown and throw <Skill name="Zealots Fire"/> (from both sources) as soon as possible, only delaying it slightly if another priority skill is up.
+- After the opening, the 2 stacks of <Skill name="Zealots Fire"/> will often not align anymore due to <Trait name="Restorative Virtues"/> reducing our weapon cooldown, but not the trait cooldown.
 
 **Step 3: Torch 5**
 
