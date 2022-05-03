@@ -23,10 +23,32 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-05-02T04:24:52.310Z
+date: 2022-05-03T10:25:06.054Z
 ---
+The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC and great mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
 
-The <Specialization name="Willbender" text="Condition Willbender"/> is a strong build for guardian. It has high damage, CC, and mobility making it a strong choice for all groups. It also can easily slot more supportive utility skills allowing you to provide yourself and your party with <Boon name="Stability"/>, <Boon name="Aegis"/> and reflects.
+<Advanced>
+
+Compared to the <Specialization name="Firebrand" text="Condi Firebrand"/>, this build has even greater self-sustain and can provide a large amount of <Boon name="Might" /> for itself if needed by taking <Trait name="holyreckoning" />. It can also provide more CC due to <Skill name="heavenspalm" />. However, it lacks the utility the Tomes can provide as well as the option to bring a significant amount of <Boon name="Quickness" />.
+
+</Advanced>
+
+<Beginner>
+
+This build comes with a very simple priority-based rotation as well as the ability to adapt to your group by having various different utility options. It also has a great amount of self-sustain and can even bring <Boon name="Might" /> for itself if needed through <Trait name="holyreckoning" />. It is therefore a great build to get started with in fractals. On top of this, it also shares gear with the <Specialization name="Firebrand" text="Condi Firebrand"/> allowing you to easily swap between the 2 builds if you want more variety or situationally use some of the utility that is unique to <Specialization name="Firebrand"/>.
+
+Before reading the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently as well as  execute the basic step-by-step rotation provided below without spending too much thought on it.
+
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
+
+</Beginner>
+
 
 <Divider text="Equipment"/>
 
@@ -149,7 +171,7 @@ The <Specialization name="Willbender" text="Condition Willbender"/> is a strong 
 Many different gear variations can be run on this build that varies damage-wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
 </Advanced>
 
-The 3rd utility skill slot is flexible. Look at te Situational Skills below for common options.
+The 3rd utility skill slot is flexible. Look at the Situational Skills below for common options.
 
 This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
 
@@ -312,8 +334,20 @@ There is only one additional step (besides learning the rest of the utility you 
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Golem rotation">
 
+<Beginner>
+
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="5229dOYuERI" caption="by Ascers"/>
+
+</Card>
+
+</Beginner>
+
+<Card title="Golem rotation">
 
 Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 <Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
