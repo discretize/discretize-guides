@@ -22,10 +22,10 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-05-01T07:56:20.062Z
+date: 2022-05-03T10:00:02.384Z
 ---
 
-The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
+The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
 
 The <Specialization text="Power Willbender" name="Willbender"/> has access to blocks with <Skill name="Shield of Wrath"/>, <Skill name="Crashing Courage"/> and a very strong heal skill (<Skill name="Litany of Wrath"/>). It benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
