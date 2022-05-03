@@ -67,7 +67,7 @@ Keep in mind that with each phase more cannons start shooting at you, the fight 
 <Tabs>
 <Tab specialization="Revenant">
 
-It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. Alternatively, if more protection isn't needed, you can run <Skill name="Legendary Dwarf Stance"/> to give <Boon name="Stability"/> with <Skill name="Inspiring Reinforcement"/>. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
+It is favorable to run <Skill name="Legendary Centaur Stance"/> for projectile absorption with <Skill name="Protective Solace"/> and condition cleanse with <Skill name=" Purifying Essence"/>. If you use staff attack sequence inside <Skill name="protectivesolace" />, it will also spawn cleansing bolts. Alternatively, if more protection isn't needed, you can run <Skill name="Legendary Dwarf Stance"/> to give <Boon name="Stability"/> with <Skill name="Inspiring Reinforcement"/>. Do not forget that <Skill name="Warding Rift"/> (Staff 3) can block Horrik's projectile if you stand into it!
 
 </Tab>
 <Tab specialization="Soulbeast">
