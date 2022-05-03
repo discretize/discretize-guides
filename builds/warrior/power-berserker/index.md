@@ -453,7 +453,7 @@ For that reason, you can find a video with openers, that are efficient to use he
 - Precast damage skills:
   - (optional) <Skill name="Flames of War"/>
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
-  - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
+  - Cast <Skill name="Mending"/> just before the boss becomes vulnerable.
 - If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
 - With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
   - <Skill name="Tremor" />, you can precast it and cancel the aftercast animation.
