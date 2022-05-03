@@ -28,15 +28,15 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 5
   - 4
   - 5
   - 2
   - 3
-date: 2022-04-30T10:47:11.566Z
+date: 2022-05-03T08:41:43.056Z
 ---
 
 <Beginner>
@@ -801,7 +801,21 @@ The additional steps are:
 </GridItem>
 
 <GridItem sm="5">
+
+<Beginner>
+
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="dUk20EZ_zsE" caption="by Ascers"/>
+</Card>
+
+</Beginner>
+
 <Card title="Golem rotation">
+
+This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
 
 <Video youtube="AvtmpM3jJDQ" caption="by Support Hero"/>
 </Card>
