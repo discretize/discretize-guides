@@ -1,5 +1,8 @@
 ---
 title: Condi (Alac) Renegade
+hidden: false
+archive: false
+hasBeginner: false
 rating: Meta
 role: Condi Damage
 author: PineappleMan.1430
@@ -11,7 +14,7 @@ conditions:
   - name: Torment
   - name: Burning
   - name: Bleeding
-  - name: Poison
+  - name: Poisoned
 boons:
   - name: Alacrity
     uptime: 100%
@@ -27,14 +30,12 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-03-20T15:00:35.036Z
-archive: false
-hidden: false
+date: 2022-04-29T10:49:23.013Z
 ---
 
 <Warning>
 
-This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support and being more versatile.
+This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, and more versatility.
 
 </Warning>
 
@@ -152,7 +153,7 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
@@ -265,7 +266,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
@@ -357,7 +358,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
@@ -394,7 +395,7 @@ If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can b
 - <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
 - <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
 - <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
-- <Skill id="41220"/>: very good CC skill that does a total of 600 breakbar damage
+- <Skill id="41220"/>: very good CC skill that does a total of 600 break bar damage
 - <Skill id="45773"/>: a situational skill that allows your party members to quickly replenish their health at the cost of damage when you are attuned to <Skill id="41858"/>
 
 <Skill id="28494"/> skills:
@@ -489,7 +490,7 @@ When you swap your legend first and then your weapon, you will be able to proc S
 <GridItem sm="6">
 <Card title="Precasting">
 
-In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boonstripping thing.
+In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boon-stripping.
 
 1.  If you can get in combat prestack <Item id="24609"/>
 2.  Be in <Skill id="28134"/> and press <Skill id="26937"/>

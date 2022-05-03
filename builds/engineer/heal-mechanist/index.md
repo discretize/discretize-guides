@@ -37,7 +37,7 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-29T10:32:43.174Z
+date: 2022-04-30T21:32:51.548Z
 ---
 
 <Warning>
@@ -159,7 +159,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "utility3Id": 63262,
     "eliteId": 30800
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -208,7 +208,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 |                                                               |                                                                                                                     |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
-| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                               |
+| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase,                               |
 | <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
 | <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                           |
 | <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                            |
@@ -289,7 +289,7 @@ Your jade mech is your main source of <Boon name="Alacrity"/> generation, while 
 - <Skill id="63293"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
 - <Skill id="63141"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
-- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead.
+- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead. Alternatively if <Skill name="Shift Signet"/> is availible, this can be used to port your Mech to your target.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
 
 <Skill name="Med Kit"/>:
@@ -336,7 +336,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - <Boon name="Stability"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill id="63293"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Aegis"/> is lacking on <Specialization name="Mechanist" text="Heal Mechanist"/>, with <Skill id="63293"/> providing 1 stack on a 24 second cooldown (with <Boon name="Alacrity"/>).
 - <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
-- <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill name="Barrier Burst"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
+- <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill id="63141"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
 
 </Card>
 
@@ -366,7 +366,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 <Card title="Burst Healing">
 
 - <Skill name="Vital Burst"/> and <Skill name="Bandage Blast"/> can be used for some burst healing.
-- Aditionally you have 21 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
+- Aditionally you have 2 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
 - If you don't have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
 - If you are anticipating a large amount of incoming damage using <Skill name="Super Elixir"/> or <Skill name="Elixir Shell"/> before for strong healing over time can be useful.
 

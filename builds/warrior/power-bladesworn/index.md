@@ -1,7 +1,7 @@
 ---
 title: Banner Bladesworn
-archive: false
 hidden: false
+archive: false
 rating: Good
 role: Power Damage
 profession: Warrior
@@ -13,7 +13,8 @@ conditions:
     uptime: 7 stacks
 boons:
   - name: Might
-    uptime: 12 Stacks (using For Great Justice)
+    uptime: '12 Stacks '
+    variant: (using For Great Justice)
 code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
@@ -21,10 +22,10 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-03-28T17:47:07.547Z
+date: 2022-04-29T10:54:54.519Z
 ---
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favour of short damage spikes. Unfortunately if enemies dont phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favor of short damage spikes. Unfortunately, if enemies don't phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
 
 Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
@@ -117,7 +118,7 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
@@ -209,7 +210,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
@@ -301,7 +302,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Banner of Discipline",
       "elite": "Signet of Rage"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -379,7 +380,7 @@ Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason you can find a video with openers, that are efficient to use here.
+For that reason, you can find a video with openers, that are efficient to use here.
 
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
 

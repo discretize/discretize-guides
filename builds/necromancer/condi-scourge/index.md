@@ -1,13 +1,12 @@
 ---
 title: Condi Scourge
+hidden: false
+archive: false
 rating: Good
 role: Condi Damage
 author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
-boons:
-  - name: Might
-    uptime: 20 stacks
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -15,6 +14,10 @@ conditions:
   - name: Bleeding
   - name: Burning
   - name: Poisoned
+boons:
+  - name: Might
+    uptime: 20 stacks
+    variant: party
 code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: ''
 classification:
@@ -23,12 +26,10 @@ classification:
   - 4
   - 2
   - 3
-date: 2022-03-28T17:31:00.066Z
-archive: false
-hidden: false
+date: 2022-04-29T10:42:43.962Z
 ---
 
-The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic traitline (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
 The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
 skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
@@ -36,9 +37,9 @@ skill options, like using <Control name="Pull" />, corrupt boons for <Instabilit
 , etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
 itself to fit many given situations in fractals.
 
-This build also does not have a formal rotation, and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
+This build also does not have a formal rotation and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
 
-Due to being a condition based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
+Due to being a condition-based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
 
 <Divider text="Equipment"/>
 
@@ -139,12 +140,12 @@ Due to being a condition based build, it will not benefit as highly from slaying
         "utility3": "Signet of Undeath",
         "elite": "Plaguelands"
       },
-      "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+      "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
-Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:
+Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoints. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:
 
-- <Item id="24688"/> can be purchased from the trading post and are a minor dps loss compared to <Item id="24848"/>
+- <Item id="24688"/> can be purchased from the trading post and are a minor DPS loss compared to <Item id="24848"/>
 - <Item id="83502" /> works best for using and utilizing <Skill name="Epidemic" />, as its damage will be maximized with this rune. Note that you will have a loss of condition duration with this rune choice.
 
 </Character>  
@@ -197,7 +198,7 @@ Note that the build does not rely on precision as much as Power builds and you c
 
 <Card title="Blood Magic">
 
-Running Blood Magic instead of Soul Reaping can be an option if you really need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
+Running Blood Magic instead of Soul Reaping can be an option if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
 
 <Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
 <Warning>
@@ -231,7 +232,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 
 **Precasting:**
 
-You can pre-emptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>. <Skill name="Desert Shroud"/> can be precasted for the increase damage modifier and to transfer the conditions from <Skill name="Blood is Power"/> as the first cast of fight.
+You can pre-emptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>. <Skill name="Desert Shroud"/> can be precasted for the increased damage modifier and to transfer the conditions from <Skill name="Blood is Power"/> as the first cast of the fight.
 
 **Prioritization: [Weapon/Utility Skills]**
 
@@ -265,7 +266,7 @@ While you perform the above prioritization, you'll be using your shade skills to
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
 - While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
-- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within range from your shade abilities.
+- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within the range of your shade abilities.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
 

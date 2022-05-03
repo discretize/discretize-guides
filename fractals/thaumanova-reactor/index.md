@@ -229,7 +229,7 @@ Alternate the special _Hex Shield_ skill between players for her _Gaze_ attack (
 
 <Tab specialization="guardian">
 
-On 50% the Anomaly will fire projectiles, use <MissingSkill name="Chapter 3: Valiant Bulwark"/> (Tome 3) there or give <Boon name="aegis"/> to your party to block this attack.
+On 50% the Anomaly will fire projectiles, use <Skill name="Chapter 3: Valiant Bulwark"/> (Tome 3) there or give <Boon name="aegis"/> to your party to block this attack.
 </Tab>
 </Tabs>
 </GridItem>

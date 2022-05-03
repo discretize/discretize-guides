@@ -3,7 +3,7 @@ title: Power Dragonhunter
 hidden: false
 archive: false
 hasBeginner: true
-rating: Power Meta
+rating: Meta
 role: Power Damage
 profession: Guardian
 specialization: Dragonhunter
@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-29T09:51:24.501Z
+date: 2022-05-01T07:56:02.596Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -159,7 +159,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "utility3Id": 9093,
     "eliteId": 29965
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -204,7 +204,7 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="162 AR (Banner)" gear={{
+<Character advanced title="162 AR (Banner)" gear={{
    "profession":"Guardian",
    "weight":"Heavy",
    "gear":[
@@ -456,7 +456,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -562,7 +562,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
@@ -804,7 +804,6 @@ The additional steps are:
 </Card>
 </Advanced>
 
-
 <Beginner>
 
 <Card title="Step-by-Step Video">
@@ -813,8 +812,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 <Video youtube="03nlPL24KWE" caption="by Ascers"/>
 
-</Card> 
-
+</Card>
 
 </Beginner>
 

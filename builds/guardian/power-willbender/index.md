@@ -14,7 +14,7 @@ boons:
   - name: Fury
     uptime: 80%
     variant: party
-code: "[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQLio6QSYmDwAA3hoAAEgBTAH+ABYB6Ro3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 4
@@ -123,7 +123,7 @@ The <Specialization name="Willbender" text="Power Willbender"/> has great burst 
       "utility3": "Bane Signet",
       "eliteId": 62561
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -228,7 +228,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "eliteId": 62561
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
@@ -333,7 +333,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "eliteId": 62561
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -439,7 +439,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "eliteId": 62561
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.

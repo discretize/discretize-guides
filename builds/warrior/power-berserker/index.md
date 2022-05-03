@@ -1,17 +1,19 @@
 ---
 title: Banner Berserker
+hidden: false
+archive: false
 rating: Good
 role: Power Damage
 profession: Warrior
 specialization: Berserker
+hasBeginner: true
 conditions:
   - name: Vulnerability
     uptime: 5 stacks
 boons:
-  - name: Quickness
-    uptime: 50% (Self)
   - name: Might
-    uptime: 12 stacks (using For Great Justice)
+    uptime: '12 stacks'
+    variant: (using For Great Justice)
 code: '[&DQIEHzMWEhenAAAAAAAAAKwACgCqAKIBwhKcAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
@@ -20,18 +22,30 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-03-20T17:27:31.785Z
-archive: false
-hidden: false
+date: 2022-04-29T11:43:11.788Z
 ---
 
-The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals.
+The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
 
-Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
+The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo. 
 
-The <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone.
+Unfortunately, this builds requires a lot of Assassin pieces or other runes than <Item name="scholar" /> due to receiving very little <Attribute name="Precision" /> from traits. This is also the reason why the <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher <Attribute name="Agony Resistance" />.
 
 Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>. As a <Specialization text="Banner Berserker" name="Berserker"/> your focus is to maintain your unique party buffs and instantly contribute to breaking defiance bars, all while making DPS players sweat nervously when they glance at their DPS meter.
+
+<Beginner>
+
+Before progressing to the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You should be able to hit consistently high DPS, which you can verify with [arc-dps](https://www.deltaconnected.com/arcdps/). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
+
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Warrior"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
+
+<Information>
+
+Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+
+</Information>
+
+</Beginner>
 
 <Divider text="Equipment" />
 
@@ -124,7 +138,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item name="I
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
@@ -219,7 +233,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
@@ -314,7 +328,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3": "Banner of Discipline",
     "elite": "Head Butt"
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -376,7 +390,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 - Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase.
 - Keep in mind that <Skill name="Crushing Blow"/> inflicts <Condition name="Vulnerability" count={10}/>! This can be often used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst. If the foe is disabled it even inflicts <Condition name="Vulnerability" count={20} />
-- It is important that you are in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
+- You must be in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
 - Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
 **Extra notes:**
@@ -418,7 +432,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason you can find a video with openers, that are efficient to use here.
+For that reason, you can find a video with openers, that are efficient to use here.
 
 </Card>
 

@@ -155,7 +155,7 @@ The build benefits heavily from slaying potions and sigils such as <Item id="500
     "utility3Id": 5539,
     "eliteId": 5516
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -316,7 +316,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "utility3Id": 5539,
     "eliteId": 5516
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"

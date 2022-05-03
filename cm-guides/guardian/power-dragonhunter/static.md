@@ -438,7 +438,7 @@ You don't have to worry about dodging the expanding circle <Control name="Knockb
 
 If done correctly, you should be able to fit in atleast 2x <Skill name="Swordofjustice"/> in the rotation. Make sure your rotation is fast so you can be on greatsword just before Artsariiv's expanding circle attack hits otherwise you lose out on <Skill name="symbol of resolution"/> hits.
 
-After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv and finish the phase in the corner. In case the team is slow, the <Specialization name="Firebrand"/> can reflect Artsariiv's `Taw Shot` attack with <MissingSkill name="Chapter 3: Valiant Bulwark"/>.
+After the mid burst, use your <SpecialActionKey name="hypernovalaunch"/> to jump to Artsariiv and finish the phase in the corner. In case the team is slow, the <Specialization name="Firebrand"/> can reflect Artsariiv's `Taw Shot` attack with <Skill name="Chapter 3: Valiant Bulwark"/>.
 
 </InformationBlock>
 
