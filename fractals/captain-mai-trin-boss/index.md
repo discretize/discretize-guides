@@ -58,7 +58,7 @@ You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning e
 
 Mai Trin is protected by ten stacks of _Captain's Shield_, each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horrik's alternating projectiles. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player.
 
-The key is to stack on Mai Trin during the whole fight: this way she will always be in an electric field, even if she teleports to the furthest player away.
+The key is to stack on Mai Trin during the whole fight: this way she will always be in an electric field, even if she teleports to the furthest player away. The bolt she shoots to teleport to a player is also reflectable.
 
 Every 25% health, Mai Trin disappears and additional enemies will spawn while fiery cannons start shooting. Change your target to Horrik and bring him down by 25% of his health to make Mai Trin return. Use <Control name="Pull"/>s to stack the adds together and cleave them down.
 
