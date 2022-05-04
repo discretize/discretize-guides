@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-05-04T08:01:24.307Z
+date: 2022-05-04T08:06:17.958Z
 ---
 
 The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -477,6 +477,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Grid>
 <GridItem sm="7">
+
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="65" traits3="Willbender" traits3SelectedIds="2190,2197,2201"/>
 
 <Advanced>
@@ -489,18 +490,6 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from s
 </Card>
 </Advanced>
 
-<Card title="CC skills">
-
-|                                               |                                                     |
-| --------------------------------------------- | --------------------------------------------------- |
-| <Skill id="9093"/>                            | 300 damage                                          |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                          |
-| <Skill name="chainsoflight"/>                 | 250 damage                                          |
-| <Skill name="hammerofwisdom"/>                | 200 damage                                          |
-| <Skill name="sanctuary"/>                     | 750 damage                                          |
-| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback) |
-
-</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -538,14 +527,29 @@ If you need to use a different skill you can swap <Skill name="Whirling Light"/>
 
 </Advanced>
 </Card>
+<Card title="CC skills">
+
+|                                               |                                                     |
+| --------------------------------------------- | --------------------------------------------------- |
+| <Skill id="9093"/>                            | 300 damage                                          |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                          |
+| <Skill name="chainsoflight"/>                 | 250 damage                                          |
+| <Skill name="hammerofwisdom"/>                | 200 damage                                          |
+| <Skill name="sanctuary"/>                     | 750 damage                                          |
+| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback) |
+
+</Card>
 </GridItem>
 </Grid>
 
+<Advanced>
 <Divider text="Details"/>
 
 As a <Specialization name="Willbender" text="Power Willbender"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
 Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> has a low cooldown it lines up well with your burst. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+
+</Advanced>
 
 <Divider text="Rotation / Skill Usage"/>
 
