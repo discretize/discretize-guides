@@ -25,7 +25,7 @@ classification:
 date: 2022-04-29T11:43:11.788Z
 ---
 
-The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>. The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo. 
+The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>. The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo.
 
 Unfortunately, this builds requires a lot of Assassin pieces or other runes than <Item name="scholar" /> due to receiving very little <Attribute name="Precision" /> from traits. This is also the reason why the <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher <Attribute name="Agony Resistance" />.
 
@@ -344,7 +344,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 Absolutely mandatory: a greatsword for mobility and cleave.
 
-
 <Advanced>
 
 Nice to have:
@@ -365,13 +364,12 @@ Nice to have:
 
 <Beginner>
 
-|                                                           |                                                                                                                                                                                              |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                                                                                                            |
-| <Skill name="bloodreckoning" size="big" disableText/>     | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build.                                                                                           |
-| <Skill name="Wild Blow" size="big" disableText/>          | 332 CC and 4s <Skill name="berserk"/> extension.         
-| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |                                                                                                                   |
-
+|                                                           |                                                                                                    |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --- |
+| <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                  |
+| <Skill name="bloodreckoning" size="big" disableText/>     | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build. |
+| <Skill name="Wild Blow" size="big" disableText/>          | 332 CC and 4s <Skill name="berserk"/> extension.                                                   |
+| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.          |     |
 
 </Beginner>
 
@@ -477,7 +475,6 @@ For that reason, you find suggestions for pressing your axe skills in different 
 
 <Card title="Precasting">
 
-
 <Beginner>
 
 - Stack <Boon name="Might"/>: Use both charges of <Skill name="For Great Justice!"/>.
@@ -502,6 +499,7 @@ For that reason, you find suggestions for pressing your axe skills in different 
 - With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
   - <Skill name="Tremor" />, you can precast it and cancel the aftercast animation.
   - <Skill name="Headbutt" /> with <Item name="Paralyzation" type="Sigil" /> for a total of 390 CC.
+
 </Advanced>
 
 </Card>
