@@ -648,6 +648,7 @@ You should drop <Skill name="Swordofjustice"/> first.
 </Grid>
 
 <Advanced>
+  
 <Divider text="Details"/>
 
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
