@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-05-01T07:56:02.596Z
+date: 2022-05-04T08:07:50.682Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -647,11 +647,15 @@ You should drop <Skill name="Swordofjustice"/> first.
 </GridItem>
 </Grid>
 
+<Advanced>
+  
 <Divider text="Details"/>
 
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
 Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+
+</Advanced>
 
 <Divider text="Rotation / Skill Usage"/>
 
