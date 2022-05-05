@@ -593,7 +593,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Information>
 
-This build plays very similar to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> and therefore the rotation as well as step-by-step explanation will be very similar.
+This build plays very similar to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> and therefore the rotation, as well as a step-by-step explanation, will be very similar.
 
 </Information>
 
@@ -622,7 +622,7 @@ Next up, it is time to incorporate <Skill name="Rushing Justice"/> and <Skill na
 - Using <Skill name="Rushing Justice"/> will create <Skill name="Willbender Flames"/> and makes you inflict <Condition name="Burning"/> every few hits. This will grant you a stacking buff from <Trait name="Lethal Tempo"/>. You want to use this skill as soon as possible to start stacking the buff.
 - If you precast another Virtue before the fight, you can delay this skill a bit.
 - Whenever you need healing or <Boon name="Aegis"/>/<Boon name="Stability"/>, you can use <Skill name="Flowing Resolve"/> or <Skill name="Crashing Courage"/> instead.
-- <Skill name="Whirling Light"/> deals high damage and can safely be used off-cooldown. It has lower priority than most of your other skills.
+- <Skill name="Whirling Light"/> deals high damage and can safely be used off-cooldown. It has a lower priority than most of your other skills.
 - If you kill certain enemies, your <Skill name="Rushing Justice"/> will reset due to <Trait name="Renewed Justice"/>. In this case, your other skills will still take priority until the current <Skill name="Rushing Justice"/> runs out.
 The opener at this step looks like this:
 
@@ -637,7 +637,7 @@ The opener at this step looks like this:
 Now it is time to incorporate another strong utility skill, <Skill name="Sword of Justice"/>.
 
 - <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
-- Make sure to use one charge right at the start to help ramping up <Condition name="Vulnerability"/>.
+- Make sure to use one charge right at the start to help ramp up <Condition name="Vulnerability"/>.
 - Afterwards, you can freely use this skill at any point of the rotation.
 
 **Step 4: Sword skills**
