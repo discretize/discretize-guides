@@ -25,9 +25,7 @@ classification:
 date: 2022-04-29T11:43:11.788Z
 ---
 
-The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
-
-The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo. 
+The <Specialization text="Banner Berserker" name="Berserker"/> is the strongest build for <Specialization name="Warrior"/> in fractals. Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/> and having excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>. The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo. 
 
 Unfortunately, this builds requires a lot of Assassin pieces or other runes than <Item name="scholar" /> due to receiving very little <Attribute name="Precision" /> from traits. This is also the reason why the <Specialization text="Banner Berserker" name="Berserker"/> is one of the classes that benefit a lot from higher <Attribute name="Agony Resistance" />.
 
@@ -51,7 +49,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 
 <CharacterWithAr>
 
-<Character title="162 AR + Scholar Rune" gear={{
+<Character advanced title="162 AR + Scholar Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -241,7 +239,7 @@ Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Crit
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="222 AR" gear={{
+<Character advanced title="222 AR" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
@@ -344,18 +342,40 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Card title="Extra Weapons">
 
+Absolutely mandatory: a greatsword for mobility and cleave.
+
+
+<Advanced>
+
+Nice to have:
+
 - Axes with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 - Warhorn for pre-stacking <Boon name="Might"/>.
 - Sword for out of combat mobility.
-- Greatsword for mobility and cleave.
 - Rifle for Siax (coordinated).
 - Torch (trade CC for DPS or a fire field).
+
+</Advanced>
 
 </Card>
 </GridItem>
 
 <GridItem sm="5">
 <Card title="Situational Skills">
+
+<Beginner>
+
+|                                                           |                                                                                                                                                                                              |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="For Great Justice!" size="big" disableText/> | Whenever you notice less than 25 stacks of <Boon name="Might"/> on your buff bar.                                                                                                            |
+| <Skill name="bloodreckoning" size="big" disableText/>     | For double <Skill name="arcdivider"/> or the situational <Specialization name="Berserker"/> build.                                                                                           |
+| <Skill name="Wild Blow" size="big" disableText/>          | 332 CC and 4s <Skill name="berserk"/> extension.         
+| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                                    |                                                                                                                   |
+
+
+</Beginner>
+
+<Advanced>
 
 |                                                           |                                                                                                                                                                                              |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -369,6 +389,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="outrage" size="big" disableText/>            | Very strong in conjunction with <Skill name="headbutt"/> for <Skill name="berserk"/> extension.                                                                                              |
 | <Skill name="Wild Blow" size="big" disableText/>          | 332 CC and 4s <Skill name="berserk"/> extension.                                                                                                                                             |
 | <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                               |
+
+</Advanced>
 
 </Card>
 </GridItem>
@@ -387,18 +409,23 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   3.  <Skill name="whirlingaxe" />.
 - Get three <Skill name="decapitate"/> before pressing <Skill name="Whirling axe"/>.
 - If the boss has a breakbar, make sure to use <Skill name="Tremor"/> to proc <Item name="severance"/>, then swap to Axe/Axe.
+
+<Advanced>
+
 - Only use <Skill name="Throw axe" profession="warrior"/> outside <Skill name="Berserk"/> to prevent its ammo count fully recharging.
 - Interrupting your auto-attack chain to use <Skill name="Decapitate"/> or enter <Skill name="Berserk"/> is a DPS increase.
 - Keep in mind that <Skill name="Crushing Blow"/> inflicts <Condition name="Vulnerability" count={10}/>! This can be often used with no DPS loss if you are on your mace set waiting to CC. Especially useful if you apply the <Condition name="Vulnerability"/> to adds for a quick burst. If the foe is disabled it even inflicts <Condition name="Vulnerability" count={20} />
 - You must be in <Skill name="Berserk"/> mode for as many burn phases as possible for maximum DPS. Pay attention to your group's phase times and your <Skill name="Berserk"/> extensions. It is better for <Skill name="Berserk"/> to drop when the boss isn’t <Effect name="Exposed"/> if that means it will be back up right before another burst window.
 - Think ahead when CC is needed and swap to Maces earlier to avoid losing invaluable <Skill name="Berserk"/> time.
 
+</Advanced>
+
 **Extra notes:**
 
 - If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!
 - If you expect your party to be slow it can make sense to bring <Trait name="smashbrawler"/> and eat the initial <Control name="Stun"/> of <Skill name="headbutt"/>.
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
-- Entering <Skill name="Berserk"/> grants 3 stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants 1. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>, try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
+- Entering <Skill name="Berserk"/> grants three stacks of <Trait name="Berserkers Power"/>, while <Skill name="Decapitate"/> only grants one. You will find <Trait name="Berserkers Power"/> starting to run low when out of <Skill name="Berserk"/>. Try to make sure you are in <Skill name="Berserk"/> for burn phases while also not delaying <Skill name="Berserk"/> where possible.
 
 </GridItem>
 
@@ -431,20 +458,37 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem xs="12" sm="6">
 <Card title="Information">
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason, you can find a video with openers, that are efficient to use here.
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+For that reason, you find suggestions for pressing your axe skills in different estimated phase lengths here.
 
 </Card>
+
+<Advanced>
 
 <Card title="Berserker openers">
 
 <Video caption="by Decados [dT], edited by Vince [dT]" youtube="6z6ZvHxHXek"/>
 </Card>
+</Advanced>
+
 </GridItem>
 
 <GridItem xs="12" sm="6">
 
 <Card title="Precasting">
+
+
+<Beginner>
+
+- Stack <Boon name="Might"/>: Use both charges of <Skill name="For Great Justice!"/>.
+- If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
+- With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
+  - <Skill name="Tremor" />, you can precast it and cancel the aftercast animation.
+  - <Skill name="Headbutt" /> with <Item name="Paralyzation" type="Sigil" /> for a total of 390 CC.
+
+</Beginner>
+
+<Advanced>
 
 - Stack <Boon name="Might"/>:
   - Use both charges of <Skill name="For Great Justice!"/>.
@@ -453,11 +497,12 @@ For that reason, you can find a video with openers, that are efficient to use he
 - Precast damage skills:
   - (optional) <Skill name="Flames of War"/>
   - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
-  - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
+  - Cast <Skill name="Mending"/> just before the boss becomes vulnerable.
 - If there is a defiance bar present immediately at the start of the fight, start on your Mace set - otherwise swap to it when necessary.
 - With <Item name="Paralyzation" type="Sigil"/> you can deal 690 defiance bar damage with:
   - <Skill name="Tremor" />, you can precast it and cancel the aftercast animation.
   - <Skill name="Headbutt" /> with <Item name="Paralyzation" type="Sigil" /> for a total of 390 CC.
+</Advanced>
 
 </Card>
 
