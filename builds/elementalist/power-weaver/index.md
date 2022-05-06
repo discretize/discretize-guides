@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-05-05T08:38:19.304Z
+date: 2022-05-06T08:00:35.948Z
 ---
 <Advanced>
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -33,7 +33,7 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 
 The <Specialization text="Power Weaver" name="Weaver"/> is a build that offers high burst damage and good consistent DPS while bringing some utility in the form of sharing conjures like <Skill name="conjurefierygreatsword" /> as well as providing some <Condition name="Vulnerability" /> and some <Boon name="Might" /> through placing and blasting fire fields.
 
-Due to its lack of self-generation of boons as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. In order to rely less on defensive support from your group and to counteract how squishy the build can be, the Beginner version recommends <Skill name="arcaneshield" /> as a defnsive utility instead of <Skill name="arcaneblast" /> until you get more comfortable with the class and the mechanics of the fractals.
+Due to the build lacking any form of boon self-generation as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. In order to rely less on defensive support from your group and to counteract how squishy the build can be, the Beginner version recommends <Skill name="arcaneshield" /> as a defnsive utility instead of <Skill name="arcaneblast" /> until you get more comfortable with the class and the mechanics of the fractals.
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Elementalist" /> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
@@ -846,7 +846,7 @@ If you have neither, use the 222 AR (No Banner) build or use <Item id="12486"/>.
 
 <Grid>
 <GridItem sm="7">
-
+<Advanced>
 <Card title="Swap Weapons">
 
 - Dagger with <Item name="Night" type="Sigil"/>
@@ -856,6 +856,7 @@ If you have neither, use the 222 AR (No Banner) build or use <Item id="12486"/>.
 - A staff to precast <Skill name="Meteor Shower"/> on some encounters
 
 </Card>
+</Advanced>
 
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Weaver" traits3Selected="Masters Fortitude,Swift Revenge,Elements of Rage"/>
 
@@ -1142,7 +1143,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 
 **Step 1: Attunement Rotation + Dual Attacks**
 
-We will start with the basic rotation of attunements as well as pressing skill 3 off-cooldown. As a <Specialization name="Weaver" />, we will be attuned to 2 elements at once with the main one deciding our 1st and 2nd skill, the secondary one deciding our 4th and 5th skill and the combination deciding our 3rd skill.
+We will start with the basic rotation of attunements as well as pressing the 3rd skill off-cooldown. As a <Specialization name="Weaver" />, we will be attuned to 2 elements at once with the main one deciding our 1st and 2nd skill, the secondary one deciding our 4th and 5th skill and the combination deciding our 3rd skill.
 
 1. We will start the rotation in <Skill name="airattunement" disableText/>/<Skill name="airattunement" disableText/>.
 2. Then we will swap through <Skill name="fireattunement" disableText/>/<Skill name="airattunement" disableText/>
@@ -1175,7 +1176,7 @@ So to maximize the damage, we will use 1 charge each time after swapping to <Ski
 Lastly, we will try to improve our burst damage significantly by using <Skill name="firestorm" profession="bundle" /> and <Skill name="glyphofstorms" /> in <Skill name="airattunement" /> at the start of the fight or slightly before the fight starts. They are also great to cast at the beginning of a new phase if they are off-cooldown.
 
 - Both of these skills can be cast shortly before the fight starts as their effects will persist.
-- <Skill name="glyphofstorms" /> will be used in <Skill name="airattunement" />. This skill can also be quite useful in <Skill name="earthattunement" /> outside of boss fights to <Condition name="Blinded" /> multiple enemies.
+- <Skill name="glyphofstorms" /> will be used in <Skill name="airattunement" />. This skill can also be quite useful in <Skill name="earthattunement" /> outside of boss fights to inflict <Condition name="Blinded" /> on multiple enemies.
 - If a Mistlock Signularity is present, you can cast <Skill name="conjurefierygreatsword" /> there to have another one during the fight. Otherwise you can cast it before a boss or on the way to the boss as it is also great for mobility. Use <Skill name="firestorm" profession="bundle" />, then drop it and use <Skill name="glyphofstorms" />.
 
 
@@ -1189,7 +1190,7 @@ There will be a few additional things on the advanced page to improve further bu
 The additional steps are:
 - Finishing auto-attack chains when possible, <Skill name="calllightning" profession="elementalist" /> in <Skill name="airattunement" /> and <Skill name="searingslash" /> in <Skill name="fireattunement" />.
 - Incorporating <Skill name="arcaneblast" /> into the rotation.
-- Learning when to use different utility skills for extra DPS depending no hitbox size/phase timings such as <Skill name="unravel" /> or <Skill name="conjurelightninghammer" />.
+- Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" /> or <Skill name="unravel" />.
 
 
 </Card>
