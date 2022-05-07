@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-05-07T17:13:23.068Z
+date: 2022-05-07T17:15:03.572Z
 ---
 
 <Warning>
@@ -158,6 +158,7 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
+If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 </Character>  
 <Character title="80% BD, 222 AR" gear={{
   "profession": "Revenant",
@@ -369,6 +370,7 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
 
 If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
 
+If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 </Character>
 
 </CharacterWithAr>
