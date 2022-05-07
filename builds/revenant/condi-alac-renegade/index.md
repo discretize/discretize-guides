@@ -22,15 +22,15 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 5
-date: 2022-04-29T10:49:23.013Z
+date: 2022-05-07T17:13:23.068Z
 ---
 
 <Warning>
@@ -179,14 +179,14 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     "Ritualist"
   ],
   "attributes": {
-    "Health": 27492,
+    "Health": 29832,
     "Armor": 2640,
     "Power": 1838,
     "Precision": 1396,
     "Toughness": 1369,
-    "Vitality": 2157,
-    "Ferocity": 186,
-    "Condition Damage": 2334,
+    "Vitality": 2391,
+    "Ferocity": 36,
+    "Condition Damage": 2371,
     "Expertise": 739,
     "Concentration": 975,
     "Healing Power": 36,
@@ -194,59 +194,63 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     "Condition Duration": 0.8426666666666667,
     "Boon Duration": 0.8,
     "Critical Chance": 0.7685714285714287,
-    "Critical Damage": 1.624,
-    "Power Coefficient": 1973,
-    "Burning Coefficient": 5,
-    "Bleeding Coefficient": 14.1,
-    "Poison Coefficient": 4.2,
-    "Torment Coefficient": 18.4,
+    "Critical Damage": 1.524,
+    "Power Coefficient": 1945.2625,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 5.15,
+    "Bleeding Coefficient": 13.09,
+    "Poison Coefficient": 1.97,
+    "Torment Coefficient": 18.54,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Bleeding Duration": 0.25,
-    "Effective Power": 4894.000032970287,
-    "Power DPS": 3718.083197940076,
-    "Bleeding Damage": 334.2075,
-    "Bleeding Stacks": 28.2,
-    "Bleeding DPS": 9424.6515,
-    "Burning Damage": 813.0705,
-    "Burning Stacks": 9.213333333333333,
-    "Burning DPS": 7491.08954,
-    "Confusion Damage": 316.5459,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 4639.781484016715,
+    "Power DPS": 3475.3919634393783,
+    "Power2 DPS": 0,
+    "Siphon DPS": 163.50750000000002,
+    "Bleeding Damage": 338.78625,
+    "Bleeding Stacks": 26.18,
+    "Bleeding DPS": 8869.424025,
+    "Burning Damage": 822.5332500000001,
+    "Burning Stacks": 9.489733333333334,
+    "Burning DPS": 7805.621200300001,
+    "Confusion Damage": 320.75835000000006,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 286.341,
-    "Poison Stacks": 7.7392,
-    "Poison DPS": 2216.0502672000002,
-    "Torment Damage": 438.97590000000014,
-    "Torment Stacks": 33.90506666666666,
-    "Torment DPS": 14883.507154560002,
-    "Damage": 37733.38165970008,
-    "Effective Health": 144435582.08955225,
-    "Survivability": 73429.37574456139,
+    "Poison Damage": 290.004,
+    "Poison Stacks": 3.630053333333333,
+    "Poison DPS": 1052.72998688,
+    "Torment Damage": 445.0198500000001,
+    "Torment Stacks": 34.163039999999995,
+    "Torment DPS": 15203.230936344,
+    "Damage": 36569.905611963375,
+    "Effective Health": 156729313.43283585,
+    "Survivability": 79679.36625970302,
     "Effective Healing": 400.8,
     "Healing": 400.8
   },
   "runeId": 24691,
   "runeName": "Traveler",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
   ],
     "weapons": {
       "weapon1MainType": "Mace",
@@ -259,7 +263,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
     },
     "consumables": {
       "foodId": 91878,
-      "utility": "Tuning Icicle",
+      "utilityId": 81079,
       "infusion": "Malign +9 Agony Infusion"
     },
     "legends": {
@@ -270,6 +274,8 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
 }}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+
+If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 
 </Character>
 
