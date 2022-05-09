@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-05-04T08:31:12.335Z
+date: 2022-05-06T07:54:13.032Z
 ---
 
 The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -593,7 +593,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Information>
 
-This build plays very similar to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> and therefore the rotation, as well as a step-by-step explanation, will be very similar.
+This build plays very similar to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/> and therefore the rotation, as well as the step-by-step explanation, will be very similar.
 
 </Information>
 
@@ -731,7 +731,7 @@ This video shows the full rotation on the golem. It will slightly vary from the 
 
 <Divider text="Underwater combat"/>
 
-It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Willbender" name="Willbender"/>. If you still want to play <Specialization text="Power Willbender" name="Willbender"/> for whatever reason follow these rough guidelines.
+It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> underwater since it provides much better DPS compared to the <Specialization text="Power Willbender" name="Willbender"/>. If you still want to play <Specialization text="Power Willbender" name="Willbender"/>, follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
