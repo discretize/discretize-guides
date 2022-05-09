@@ -50,15 +50,15 @@ record:
 
 **Option 2:** Anyone with a <Item id="78978"/> skips alone and teleports the team to the holding area.
 
-**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot. All of the harpy attacks are classified as projectiles and therefore can be reflected.
+**Option 3:** Proceed as a group and either kill the Harpies or skip them. <Boon name="Aegis"/> and <Boon name="Stability"/> helps a lot. All attacks of the harpies are classified as projectiles and therefore can be reflected.
 
 ## Holding Area
 
-Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in the structure on the left side of the room break line of sight so the adds converge on you.
+Stack <Boon name="Might"/> while destroying the _Power Generator_, then stack in the structure on the left side of the room to break line of sight so that the adds converge on you.
 
 Proceed with killing the Rabbit, the Bandit Saboteur, the Flame Legion Fire Shaman and finally the Ettin. Try to keep all mobs together on the Flame Legion Fire Shaman to maximize cleave damage, but do not get caught in the Ettin's _Massive Smash_ attack nor the Fire Shaman's _Dragon Punch_. Both of these abilities deal high amounts of damage and CC in an AoE.
 
-Reflects are strong here as well, especially against the Fire Shaman's projectiles. Well timed <Boon name="Aegis"/> helps out against the hard hitting Ettin attacks and use of <Boon name="Stability"/> is encouraged to prevent knockbacks from both the Ettin and the Fire Shaman. Try to break the defiance bars to maximize your damage.
+Reflects are strong here as well, especially against the Fire Shaman's projectiles. Well timed <Boon name="Aegis"/> helps out against the hard hitting Ettin attacks and use of <Boon name="Stability"/> is encouraged to prevent <Control name="Knockback" />s from both the Ettin and the Fire Shaman. Try to break the defiance bars to maximize your damage with <Effect name="Exposed" />.
 
 <Tabs>
 <Tab specialization="Weaver">
@@ -163,7 +163,7 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <Tab specialization="Firebrand">
 
-Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use <MissingSkill name="Chapter 3: Valiant Bulwark"/> to help avoiding the projectiles and reduce incoming damage with <MissingSkill name="Epilogue: Unbroken Lines"/>.
+Drop a <Skill name="Wall of Reflection"/> first on Raving Asura, slightly offset towards your party. Once all four golems become active at the same time, go into <Skill name="Tome of Courage"/> and use <Skill name="Chapter 3: Valiant Bulwark"/> to help avoiding the projectiles and reduce incoming damage with <Skill name="Epilogue: Unbroken Lines"/>.
 </Tab>
 </Tabs>
 </GridItem>

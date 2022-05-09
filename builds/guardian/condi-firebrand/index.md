@@ -36,7 +36,7 @@ classification:
   - 5
   - 2
   - 3
-date: 2022-04-29T11:29:40.010Z
+date: 2022-05-03T08:41:43.056Z
 ---
 
 <Beginner>
@@ -181,7 +181,7 @@ There are several different gear, utility, and trait setups that allow you to ma
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
@@ -288,7 +288,7 @@ You will want the following weapons to swap to during fractal runs:
     "utility3Id": 9128,
     "eliteId": 29965
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
@@ -397,7 +397,7 @@ You will want the following weapons to swap to during fractal runs:
       "utility3": "Sanctuary",
       "elite": "Mantra of Liberation"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 <Advanced>
@@ -527,7 +527,7 @@ You will want the following weapons to swap to during fractal runs:
     "utility3Id": 9128,
     "eliteId": 29965
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -652,14 +652,14 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 
 <Card title="Defiance Bar Damage">
 
-|                                                                                       |                                                                                |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill id="45402"/>                                                                   | 150 damage                                                                     |
-| <Skill name="Hammer of Wisdom"/>                                                      | 200 damage                                                                     |
-| <MissingSkill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                                                                     |
-| <Skill name="Sanctuary"/>                                                             | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Chains of light"/>                                                       | <Condition name="Immobile"/> 50/s                                              |
-| <MissingSkill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
+|                                                                                |                                                                                |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| <Skill id="45402"/>                                                            | 150 damage                                                                     |
+| <Skill name="Hammer of Wisdom"/>                                               | 200 damage                                                                     |
+| <Skill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/>    | 150 damage                                                                     |
+| <Skill name="Sanctuary"/>                                                      | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Chains of light"/>                                                | <Condition name="Immobile"/> 50/s                                              |
+| <Skill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
 
 </Card>
 </GridItem>
@@ -682,22 +682,22 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 <Skill name="Tome of Resolve" />:
 
 - Use this Tome for emergency healing and cleansing.
-- <MissingSkill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
-- <MissingSkill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
-- <MissingSkill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
-- <MissingSkill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
-- <MissingSkill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
+- <Skill name="Chapter 1: Desert Bloom"/> heals in a cone in front of you.
+- <Skill name="Chapter 2: Radiant Recovery"/> heals and cleanses conditions.
+- <Skill name="Chapter 3: Azure Sun"/> gives some boons but will rarely be used.
+- <Skill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
+- <Skill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
 - When running Virtues entering this Tome also cleanses conditions.
 - Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
 <Skill name="Tome of Courage" />:
 
 - Use this Tome for massive <Boon name="Stability"/>, <Boon name="Resistance"/> or a reflect.
-- <MissingSkill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
-- <MissingSkill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
-- <MissingSkill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
-- <MissingSkill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
-- <MissingSkill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
+- <Skill name="Chapter 1: Unflinching Charge"/> grants <Boon name="Stability"/>.
+- <Skill name="Chapter 2: Daring Challenge"/> inflicts 1 second of <Condition name="Taunt"/> on the enemy which is a 75/s soft CC.
+- <Skill name="Chapter 3: Valiant Bulwark"/> places a bubble that reflects incoming projectiles.
+- <Skill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
+- <Skill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
 - You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example, a 2nd reflect. However only do this when needed as you will not have access to the boons and healing your weapon skills provide.
 
@@ -718,19 +718,19 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 
 Starting on Axe:
 
-1.  <Skill name="purgingflames"/>
+1.  <Skill name="Symbol of Vengeance"/> (Axe 2)
 2.  <Skill id="9104"/> (Torch 4)
-3.  <Skill name="Symbol of Vengeance"/> (Axe 2)
-4.  <Skill id="9089"/> (Torch 4)
-5.  Weapon Swap
-6.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-7.  <Skill id="9089"/> (Torch 4)
-8.  <Skill name="Tome of Justice"/> (F1)
-9.  <MissingSkill name="Chapter 2: Ignite Burst"/>
-10. <MissingSkill name="Chapter 4: Scorched Aftermath"/>
-11. <MissingSkill name="Epilogue: Ashes of the Just"/>
-12. <MissingSkill name="Chapter 1: Searing Spell"/>
-13. <MissingSkill name="Chapter 2: Ignite Burst"/>
+3.  <Skill name="purgingflames"/>
+4.  Weapon Swap
+5.  <Skill name="Symbol of Punishment"/> (Scepter 2)
+6.  <Skill name="Tome of Justice"/> (F1)
+7.  <Skill name="Chapter 2: Igniting Burst"/>
+8.  <Skill name="Epilogue: Ashes of the Just"/>
+9.  <Skill name="Chapter 4: Scorched Aftermath"/>
+10. <Skill name="Chapter 1: Searing Spell"/>
+11. <Skill name="Chapter 2: Igniting Burst"/>
+12. <Skill id="9089"/> (Torch 4)
+13. <Skill id="9089"/> (Torch 4)
 14. <Skill name="Cleansing Flame"/> (Torch 5)
 15. <Skill name="Symbol of Punishment"/> (Scepter 2)
 16. <Skill id="9104"/> (Torch 4)
@@ -764,11 +764,11 @@ Start by using the following 3 skills off-cooldown in this order of priority:
 
 Whenever your <Skill name="Tome of Justice"/> is up, enter it and do the following rotation:
 
-1. <MissingSkill name="Chapter 2: Ignite Burst"/>
-2. <MissingSkill name="Chapter 4: Scorched Aftermath"/>
-3. <MissingSkill name="Epilogue: Ashes of the Just"/>
-4. <MissingSkill name="Chapter 1: Searing Spell"/>
-5. <MissingSkill name="Chapter 2: Ignite Burst"/>
+1. <Skill name="Chapter 2: Igniting Burst"/>
+2. <Skill name="Chapter 4: Scorched Aftermath"/>
+3. <Skill name="Epilogue: Ashes of the Just"/>
+4. <Skill name="Chapter 1: Searing Spell"/>
+5. <Skill name="Chapter 2: Igniting Burst"/>
 
 **Step 4: Torch 4**
 
@@ -801,9 +801,23 @@ The additional steps are:
 </GridItem>
 
 <GridItem sm="5">
+
+<Beginner>
+
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="dUk20EZ_zsE" caption="by Ascers"/>
+</Card>
+
+</Beginner>
+
 <Card title="Golem rotation">
 
-<Video youtube="XbbfgCUGwlY" caption="by Frenzy"/>
+This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
+
+<Video youtube="AvtmpM3jJDQ" caption="by Support Hero"/>
 </Card>
 
 <Advanced>
@@ -818,7 +832,7 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
 3.  While casting: Use 3 charges of <Skill name="mantraofpotence"/> and share <Skill name="mantraofsolace"/> (keep in mind that <Skill name="mantraofsolace"/> only shares <Boon name="Quickness"/> once every 7 seconds thanks to <Trait name=" liberators vow"/>)
 4.  Use <Skill name="Feelmywrath"/>
-5.  Open <Skill id="44364"/> and use <MissingSkill name="Epilogue: Ashes of the Just"/>
+5.  Open <Skill id="44364"/> and use <Skill name="Epilogue: Ashes of the Just"/>
 6.  Take the _Mistlock Singularity_
 7.  Use <Skill name="Feelmywrath"/> again
 

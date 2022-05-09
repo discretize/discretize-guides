@@ -118,7 +118,7 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "utility3": "Signet of Fire",
       "elite": "Weave Self"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 5542, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 5542, "type": "Skill"}]
 }}>
 
 Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance. This build requires 15x <Item name="malignagonyinfusion"/> and 3x <Item name="spitefulagonyinfusion"/>.

@@ -37,12 +37,12 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-29T11:30:58.165Z
+date: 2022-05-09T13:59:24.184Z
 ---
 
 <Warning>
 
-This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/teamcomp101/). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities.
 
 </Warning>
 
@@ -159,7 +159,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "utility3Id": 63262,
     "eliteId": 30800
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -208,7 +208,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 |                                                               |                                                                                                                     |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
-| <Skill name="Shift Signet" size="big" disableText/>           | Allows extra mobility when running through trash mobs and provides a useful stunbreak                               |
+| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase,                               |
 | <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
 | <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                           |
 | <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                            |
@@ -289,7 +289,7 @@ Your jade mech is your main source of <Boon name="Alacrity"/> generation, while 
 - <Skill id="63293"/> grants <Boon name="Alacrity"/>, <Boon name="Protection"/>, <Boon name="Stability"/> and <Boon name="Aegis"/> to 5 targets. It also is a condition cleanse and a stun break.
 - <Skill id="63141"/> pulses <Boon name="Might"/> abd <Boon name="Fury"/> to 5 targets resulting in 30 seconds of <Boon name="Might" text="15 Might"/> and <Boon name="Fury"/> being shared. It also generates a large amount of <Effect name="Barrier"/> which in turn generates <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - You can summon your Mech using <Skill name="Crash Down"/> and recall it with <Skill name="Recall Mech"/>
-- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead.
+- Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead. Alternatively if <Skill name="Shift Signet"/> is availible, this can be used to port your Mech to your target.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
 
 <Skill name="Med Kit"/>:
@@ -327,7 +327,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Standard Boons">
 
-- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill id="63293"/>, which should be preseed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
+- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill id="63293"/>, which should be pressed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
 - <Boon name="Might"/> is mainly generated from <Skill id="63141"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
 - <Boon name="Fury" /> will be provided through pressing <Skill id="63141"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% uptime.
 - <Boon name="Swiftness"/> is provided mainly through <Skill name="Glob Shot"/> and <Skill name="Infusion Bomb"/>.
@@ -366,7 +366,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 <Card title="Burst Healing">
 
 - <Skill name="Vital Burst"/> and <Skill name="Bandage Blast"/> can be used for some burst healing.
-- Aditionally you have 21 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
+- Aditionally you have 2 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
 - If you don't have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
 - If you are anticipating a large amount of incoming damage using <Skill name="Super Elixir"/> or <Skill name="Elixir Shell"/> before for strong healing over time can be useful.
 

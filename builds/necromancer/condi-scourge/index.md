@@ -4,7 +4,7 @@ hidden: false
 archive: false
 rating: Good
 role: Condi Damage
-author: "Discord: Amerikajinn#9784"
+author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
 specialization: Scourge
 conditions:
@@ -18,8 +18,8 @@ boons:
   - name: Might
     uptime: 20 stacks
     variant: party
-code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
@@ -140,7 +140,7 @@ Due to being a condition-based build, it will not benefit as highly from slaying
         "utility3": "Signet of Undeath",
         "elite": "Plaguelands"
       },
-      "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+      "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 Note that the build does not rely on precision as much as Power builds and you can build your Agony Resistance around the 150 breakpoints. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. Situational Runes:

@@ -157,7 +157,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
     "utility3Id": 14405,
     "eliteId": 14419
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -318,7 +318,7 @@ Furthermore, the build is able to use damage modifying sigils like <Item id="248
     "utility3Id": 14405,
     "eliteId": 14419
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"

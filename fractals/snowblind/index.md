@@ -100,7 +100,7 @@ With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </Tab>
 <Tab specialization="Guardian">
 
-When cast on top of the Elemental Source, skills like <Skill name="Sanctuary"/>, <Skill name="Wall of Reflection"/> and <MissingSkill name="Chapter 3: Valiant Bulwark"/> will block the projectiles from putting off the bonfires and frees up a legend for your <Specialization name="Renegade"/>.
+When cast on top of the Elemental Source, skills like <Skill name="Sanctuary"/>, <Skill name="Wall of Reflection"/> and <Skill name="Chapter 3: Valiant Bulwark"/> will block the projectiles from putting off the bonfires and frees up a legend for your <Specialization name="Renegade"/>.
 </Tab>
 </Tabs>
 </GridItem>

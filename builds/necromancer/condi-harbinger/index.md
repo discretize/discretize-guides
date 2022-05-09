@@ -13,11 +13,11 @@ conditions:
     uptime: 20 stacks
   - name: Torment
   - name: Bleeding
-  - name: Poison
+  - name: Poisoned
   - name: Burning
 boons:
   - name: Quickness
-    uptime: 100% (using Quickness variant)
+    uptime: 100%
     variant: (using Quickness variant)
   - name: Fury
     uptime: 100%
@@ -26,12 +26,12 @@ boons:
     uptime: 6 stacks
     variant: (13 stacks on Quickness variant)
   - name: Swiftness
-    uptime: "65% "
+    uptime: '65%'
     variant: (using Quickness variant)
   - name: Regeneration
-    uptime: "50% "
+    uptime: '50%'
     variant: (using Quickness variant)
-code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -160,7 +160,7 @@ Due to being a condition-based build, it will not benefit from slaying potions o
     "utility3Id": 10544,
     "eliteId": 10549
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item id="86113"/> to cap Bleeding Duration.
@@ -281,7 +281,7 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
     "utility3Id": 10544,
     "eliteId": 10549
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"
@@ -428,7 +428,7 @@ This build is only very slightly behind the Nightmare Runes setup in terms of DP
     "utility3Id": 10544,
     "eliteId": 10549
   },
-  "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
 }}>
 
 This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait id="2220"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.

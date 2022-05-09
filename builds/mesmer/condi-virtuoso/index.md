@@ -10,7 +10,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
   - name: Bleeding
-code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -146,7 +146,7 @@ There are many different gear setups that work very similarly on <Specialization
     "utility3Id": 10234,
     "eliteId": 29519
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -295,7 +295,7 @@ We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigi
     "utility3Id": 10234,
     "eliteId": 29519
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
     {
       "id": "might",
       "type": "Boon"

@@ -3,7 +3,7 @@ title: Power Dragonhunter
 hidden: false
 archive: false
 hasBeginner: true
-rating: Power Meta
+rating: Meta
 role: Power Damage
 profession: Guardian
 specialization: Dragonhunter
@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-04-29T09:51:24.501Z
+date: 2022-05-04T08:07:50.682Z
 ---
 
 The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -159,7 +159,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "utility3Id": 9093,
     "eliteId": 29965
   },
-  "assumedBuffs": [
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
     {
       "id": "might",
       "type": "Boon"
@@ -204,7 +204,7 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="162 AR (Banner)" gear={{
+<Character advanced title="162 AR (Banner)" gear={{
    "profession":"Guardian",
    "weight":"Heavy",
    "gear":[
@@ -456,7 +456,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
@@ -562,7 +562,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
       "utility3": "Bane Signet",
       "elite": "Dragons Maw"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
 }}>
 
 This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
@@ -647,11 +647,15 @@ You should drop <Skill name="Swordofjustice"/> first.
 </GridItem>
 </Grid>
 
+<Advanced>
+  
 <Divider text="Details"/>
 
 As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
 
 Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+
+</Advanced>
 
 <Divider text="Rotation / Skill Usage"/>
 
@@ -804,7 +808,6 @@ The additional steps are:
 </Card>
 </Advanced>
 
-
 <Beginner>
 
 <Card title="Step-by-Step Video">
@@ -813,8 +816,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 <Video youtube="03nlPL24KWE" caption="by Ascers"/>
 
-</Card> 
-
+</Card>
 
 </Beginner>
 

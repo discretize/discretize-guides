@@ -17,7 +17,7 @@ classification:
   - 5
 date: 2022-03-29T01:54:06.400Z
 title: Power Alac Renegade
-rating: Power Meta
+rating: Meta
 role: Power Damage
 profession: Revenant
 conditions:
@@ -124,102 +124,11 @@ To see how the <Specialization name="Renegade"/> is played in Pick Up Groups ref
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-
-</Character>
-<Character title="50% BD - 162 AR" gear={{
-    "profession": "Revenant",
-    "weight": "Heavy",
-    "gear": [
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Diviner",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Diviner",
-      "Diviner"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2514,
-      "Power": 3413,
-      "Precision": 2158,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 1260,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 755,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.50333333333333336,
-      "Critical Chance": 1.1314285714285714,
-      "Critical Damage": 2.34,
-      "Effective Power": 27353.702627550432,
-      "Power DPS": 38897.660301711105,
-      "Burning Damage": 438.86875,
-      "Burning Stacks": 1.7,
-      "Burning DPS": 746.076875,
-      "Bleeding Damage": 118.925,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Poison Damage": 139.3375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 176.2575,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 118.925,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 39643.7371767111,
-      "Effective Health": 55038373.5,
-      "Survivability": 27980.87112353838,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "impact",
-      "weapon2MainType": "Staff",
-      "weapon2MainSigil1": "force",
-      "weapon2MainSigil2": "severance"
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-}}>
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+Check the CM-guides for information on when to play a more aggressive build. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration. Diviner's gear is extremely stat efficient for classes like <Specialization name="Renegade" /> and therefore replacing Berserker gear with it isn't that big of a DPS loss.
 
 </Character>
 <Character title="80% BD - 222 AR" gear={{
@@ -306,102 +215,11 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
-
-</Character>
-<Character title="50% BD - 222 AR" gear={{
-    "profession": "Revenant",
-    "weight": "Heavy",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Diviner",
-      "Diviner"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2604,
-      "Power": 3429,
-      "Precision": 2275,
-      "Toughness": 1333,
-      "Vitality": 1000,
-      "Ferocity": 1287,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 751,
-      "Healing Power": 0,
-      "Agony Resistance": 222,
-      "Condition Duration": 0,
-      "Boon Duration": 0.5006666666666667,
-      "Critical Chance": 1.1871428571428572,
-      "Critical Damage": 2.358,
-      "Effective Power": 27693.335136228063,
-      "Power DPS": 39380.62636045061,
-      "Burning Damage": 438.86875,
-      "Burning Stacks": 1.7,
-      "Burning DPS": 746.076875,
-      "Bleeding Damage": 118.925,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Poison Damage": 139.3375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 176.2575,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 118.925,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 40126.70323545061,
-      "Effective Health": 57008721,
-      "Survivability": 28982.572953736653,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "impact",
-      "weapon2MainType": "Staff",
-      "weapon2MainSigil1": "force",
-      "weapon2MainSigil2": "severance"
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-}}>
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-Check the CM-guides for information on when to play 50% and 80% boon duration. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration.
+Check the CM-guides for information on when to play a more aggressive build. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration. Diviner's gear is extremely stat efficient for classes like <Specialization name="Renegade" /> and therefore replacing Berserker gear with it isn't that big of a DPS loss.
 
 </Character>
 </CharacterWithAr>
@@ -410,7 +228,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Incensed Response,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 
 <Card title="Defiance Bar">
 
@@ -442,7 +260,7 @@ Check the CM-guides for information on when to play 50% and 80% boon duration. F
 |                                           |                                                                                                                                                                         |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. |
-| <Trait id="1781" size="big" disableText/> | If you can't profit from <Trait id="1774"/> and your <Boon name="Might"/> uptimes are low.                                                                              |
+| <Trait name="Spirit Boon" size="big" disableText/> | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                              |
 
 </Card>
 <Card title="Situational Skills">
@@ -479,7 +297,7 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 <GridItem sm="4">
 <Card title="Burst Rotation">
 
-While <Skill name="Impossibleodds"/>, <Skill name="Embrace the darkness"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
 
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Citadel Bombardment"/>
@@ -528,12 +346,12 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which makes your attack steal health.
+- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which make your next attack(s) steal health.
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
 - <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
 - <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
 - <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
-- <Trait name="Vindication"/> - Increases <Skill name="Citadel Bombardment"/> max ordnance count to 15.
+- <Trait name="Vindication"/> - Increases the missile count of <Skill name="Citadel Bombardment"/> to 15.
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
 
@@ -640,7 +458,7 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 
 <div style={{marginBottom: "16px"}} />
 
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the stability, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
 </GridItem>
 
