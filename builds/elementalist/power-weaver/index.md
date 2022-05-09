@@ -18,14 +18,14 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-05-06T08:00:35.948Z
+date: 2022-05-09T14:04:23.181Z
 ---
 <Advanced>
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
+Unfortunately, this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
 
-Also this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+Also, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 </Advanced>
 
 
@@ -33,7 +33,7 @@ Also this build depends pretty much on supports and boon uptimes, as it can't pr
 
 The <Specialization text="Power Weaver" name="Weaver"/> is a build that offers high burst damage and good consistent DPS while bringing some utility in the form of sharing conjures like <Skill name="conjurefierygreatsword" /> as well as providing some <Condition name="Vulnerability" /> and some <Boon name="Might" /> through placing and blasting fire fields.
 
-Due to the build lacking any form of boon self-generation as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. In order to rely less on defensive support from your group and to counteract how squishy the build can be, the Beginner version recommends <Skill name="arcaneshield" /> as a defnsive utility instead of <Skill name="arcaneblast" /> until you get more comfortable with the class and the mechanics of the fractals.
+Due to the build lacking any form of boon self-generation as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. To rely less on defensive support from your group and to counteract how squishy the build can be, the Beginner version recommends <Skill name="arcaneshield" /> as a defensive utility instead of <Skill name="arcaneblast" /> until you get more comfortable with the class and the mechanics of the fractals.
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Elementalist" /> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
@@ -940,7 +940,7 @@ If you have neither, use the 222 AR (No Banner) build or use <Item id="12486"/>.
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason you can find a video with openers, that are efficient to use here.
+For that reason, you can find a video with openers, that are efficient to use here.
 </Card>
 
 <Card title="Weaver openers">
@@ -976,7 +976,7 @@ When you have enough time to use all those skills within phase time/<Effect name
 
 - <Skill name="Ring of Fire"/> -> <Skill name="Cauterizing Strike"/> -> <Skill name="Fire Grab"/>
 
-When there are a lot of adds around and you have to time to hit both burst skills within <Effect name="exposed"/>/phase time. That option gives additional <Trait name="persisting flames"/> stacks before burst.
+When there are a lot of adds around and you have time to hit both burst skills within <Effect name="exposed"/>/phase time. That option gives additional <Trait name="persisting flames"/> stacks before burst.
 
 ### **Other**
 
@@ -1002,7 +1002,7 @@ There are two possible ways to precast boons as <Specialization name="elementali
 - Equip a staff and cast <Skill id="5516"/> while attuning to <Skill id="5494"/>/<Skill id="5492"/>.
 - Take the _Mistlock Singularity_.
 
-It is recommended to use separate precast templates to easily make use of different utility skills and weapons.Allowing you to precast multiple buffs, boons and skills easily.
+It is recommended to use separate precast templates to easily make use of different utility skills and weapons. Allowing you to precast multiple buffs, boons, and skills easily.
 
 ### **Other advice**
 
@@ -1143,7 +1143,7 @@ With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill
 
 **Step 1: Attunement Rotation + Dual Attacks**
 
-We will start with the basic rotation of attunements as well as pressing the 3rd skill off-cooldown. As a <Specialization name="Weaver" />, we will be attuned to 2 elements at once with the main one deciding our 1st and 2nd skill, the secondary one deciding our 4th and 5th skill and the combination deciding our 3rd skill.
+We will start with the basic rotation of attunements as well as pressing the 3rd skill off-cooldown. As a <Specialization name="Weaver" />, we will be attuned to 2 elements at once with the main one deciding our 1st and 2nd skill, the secondary one deciding our 4th and 5th skill, and the combination deciding our 3rd skill.
 
 1. We will start the rotation in <Skill name="airattunement" disableText/>/<Skill name="airattunement" disableText/>.
 2. Then we will swap through <Skill name="fireattunement" disableText/>/<Skill name="airattunement" disableText/>
@@ -1173,11 +1173,11 @@ So to maximize the damage, we will use 1 charge each time after swapping to <Ski
 
 **Step 4: Glyph of Storms and Fiery Greatsword**
 
-Lastly, we will try to improve our burst damage significantly by using <Skill name="firestorm" profession="bundle" /> and <Skill name="glyphofstorms" /> in <Skill name="airattunement" /> at the start of the fight or slightly before the fight starts. They are also great to cast at the beginning of a new phase if they are off-cooldown.
+Lastly, we will try to improve our burst damage significantly by using <Skill name="firestorm" profession="bundle" /> and <Skill name="glyphofstorms" /> in <Skill name="airattunement" /> at the start of the fight or slightly before the fight starts. They are also great to cast at the beginning of a new phase if they are off-cool down.
 
 - Both of these skills can be cast shortly before the fight starts as their effects will persist.
 - <Skill name="glyphofstorms" /> will be used in <Skill name="airattunement" />. This skill can also be quite useful in <Skill name="earthattunement" /> outside of boss fights to inflict <Condition name="Blinded" /> on multiple enemies.
-- If a Mistlock Signularity is present, you can cast <Skill name="conjurefierygreatsword" /> there to have another one during the fight. Otherwise you can cast it before a boss or on the way to the boss as it is also great for mobility. Use <Skill name="firestorm" profession="bundle" />, then drop it and use <Skill name="glyphofstorms" />.
+- If a Mistlock Singularity is present, you can cast <Skill name="conjurefierygreatsword" /> there to have another one during the fight. Otherwise, you can cast it before a boss or on the way to the boss as it is also great for mobility. Use <Skill name="firestorm" profession="bundle" />, then drop it and use <Skill name="glyphofstorms" />.
 
 
 </Card>
