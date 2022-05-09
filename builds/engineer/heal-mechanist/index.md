@@ -37,12 +37,12 @@ classification:
   - 2
   - 1
   - 2
-date: 2022-04-30T21:32:51.548Z
+date: 2022-05-09T13:59:24.184Z
 ---
 
 <Warning>
 
-This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/meta-explained). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/teamcomp101/). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities.
 
 </Warning>
 
@@ -327,7 +327,7 @@ While not every skill is commonly used, it still provides some slow CC and has a
 
 <Card title="Standard Boons">
 
-- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill id="63293"/>, which should be preseed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
+- <Boon name="Alacrity"/> is applied by two methods. The first is <Skill id="63293"/>, which should be pressed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
 - <Boon name="Might"/> is mainly generated from <Skill id="63141"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
 - <Boon name="Fury" /> will be provided through pressing <Skill id="63141"/> off cooldown. As long as you have at least 62.5% <Attribute name="Boon Duration"/> you will be able to maintain 100% uptime.
 - <Boon name="Swiftness"/> is provided mainly through <Skill name="Glob Shot"/> and <Skill name="Infusion Bomb"/>.
