@@ -1,24 +1,23 @@
 ---
 title: New Player Guide
-date: 2022-04-29T11:04:07.502Z
+date: 2022-05-30T18:11:19.608Z
 image: ./images/lobby.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
 ---
-
 ## Introduction to fractals
 
 <Grid>
 
 <GridItem xs="12" sm="7">
 
-Fractals of the mists, frequently called "fracs" are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. 100 levels are structured into 4 different tiers, each consisting of 25 levels.
+Fractals of The Mists, frequently called *"fractals"*, or simply *"fracs"*, are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. 100 levels are structured into 4 different tiers, each consisting of 25 levels.
 
 As you move up in fractal level, the content becomes more difficult – but also more rewarding.
 
 You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
 
-Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
+Starting at level 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
 </GridItem>
 
@@ -32,7 +31,7 @@ Starting atlevel 20, players need to deal with <Effect name="Agony"/> which requ
 
 <Warning>
 
-Be aware of <Effect name="Agony"/>; it reduces your healing and barriers by 70% per stack. Never use your heal skill while you are under the effect of <Effect name="Agony"/>.
+Be aware of <Effect name="Agony"/>; it reduces your healing and barriers by 70% per stack. Try to avoid using your heal skill while you are under the effect of <Effect name="Agony"/>.
 
 </Warning>
 
@@ -48,9 +47,9 @@ Starting with tier 2, the heroes begin encountering _Mistlock instabilities_ whi
 
 <GridItem sm="9">
 
-Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns, or applies movement impaling conditions) a chunk of the bar gets removed. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break this bar and then burst. Ideally, everyone in the team contributes to breaking the bar as it appears.
+Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns, or applies movement impairing conditions) a chunk of the bar gets removed. The bar is called a *defiance bar* or more commonly in pugs a *break bar*. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break the defiance bar and then burst. Ideally, everyone in the team contributes to breaking the bar as it appears.
 
-Skills that apply damage to the break bar are highlighted turquoise in the tooltip. Bosses have varying sizes of CC bars. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest instead consulting the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) for finding out the exact values.
+Skills that damage the defiance bar are highlighted turquoise in the tooltip. Bosses have varying sizes of CC bars. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest instead consulting the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) for finding out the exact values.
 
 </GridItem>
 <GridItem sm="3">
@@ -73,7 +72,7 @@ Read more about breaking Defiance bars here: [CC-distribution examples](/guides/
 
 There are quite a few differences that set fractals apart from other PvE content in Guild Wars 2. Most prominently is the length of a single level: One level is usually completed in 5-10 minutes. The levels do not only contain bosses but also other encounters such as small puzzles or fighting mobs. Many levels can be sped up by thinking outside the box and using smart tricks.
 
-The fractal-specific potions influence the way builds are designed. Each of them grants 1.5 times of your <Attribute name="Agony Resistance"/> in a specific stat. This allows builds to be played a lot more offensive compared to elsewhere. Our [builds](/builds) are optimized for multiple amounts of <Attribute name="Agony Resistance"/> since you will acquire more than 162 <Attribute name="Agony Resistance"/> over the course of your fractal journey due to <Augmentation name="Mist Attunement 1"/> and higher augmentations.
+The fractal-specific potions influence the way builds are designed. Each of them grant 1.5 times of your <Attribute name="Agony Resistance"/> in a specific stat. This allows builds to be played a lot more offensive compared to elsewhere. Our [builds](/builds) are optimized for multiple amounts of <Attribute name="Agony Resistance"/> since you will acquire more than 162 <Attribute name="Agony Resistance"/> over the course of your fractal journey due to <Augmentation name="Mist Attunement 1"/> and higher augmentations.
 
 | Potion             | Stat                              | Gain on 162 <Attribute name="Agony Resistance"/>                                |
 | ------------------ | --------------------------------- | ------------------------------------------------------------------------------- |
@@ -81,7 +80,7 @@ The fractal-specific potions influence the way builds are designed. Each of them
 | <Item id="76150"/> | <Attribute name="Toughness"/>     | 243 <Attribute name="Toughness"/>                                               |
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
 
-These potions are invaluable and later on starting at T3 or T4 highly recommended to use as the fractals get harder. Hover over the items to read about the other effects of each potion. Keep in mind, that each large potion stacks up to three times.
+These potions are invaluable and later on starting at T3 or T4 highly recommended to use as the fractals get harder. Hover over the items to read about the other effects of each potion. Keep in mind, that each large potion grants you five stacks.
 
 ---
 
@@ -90,7 +89,7 @@ These potions are invaluable and later on starting at T3 or T4 highly recommende
 The Discretize website has three main categories of guides: General builds and fractals. For new players, all categories should be equally relevant.
 
 - [General](/guides/): Learn more about the mechanics you encounter in fractals and how to deal with them.
-- [Builds](/builds/): A collection of builds, which work reasonably well. Please note, that the builds are incomplete due to missing contributors. The quality of the build pages is of utmost importance to us; we'd rather have fewer builds but higher quality ones, than listing only rudimentary information about all possible builds. Most build pages also contain variations. For example, there is no dedicated page for DPS condi firebrand, as it is played almost the same as the <Boon name="Quickness"/> version.
+- [Builds](/builds/): A collection of builds, which work reasonably well. Please note that the builds are incomplete due to missing contributors. The quality of the build pages is of utmost importance to us; we'd rather have fewer builds but higher quality ones, than listing only rudimentary information about all possible builds. Most build pages also contain variations. For example, there is no dedicated page for DPS Condi Firebrand, as it is played almost the same as the <Boon name="Quickness"/> version.
 - [Fractals](/fractals/): An overview of each fractal including possible skips and shortcuts. Also mentions what kind of utility should be brought to mitigate damage at specific encounters.
 
 ---
@@ -467,3 +466,4 @@ For more information, check out their [website](https://www.gw2university.com/)
 </Grid>
 
 If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.gg/Qdt7nFY) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
+
