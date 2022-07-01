@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2022-01-31T15:39:17.801Z
+date: 2022-07-01T17:31:17.700Z
 title: Molten Boss
 image: ./images/header.jpg
 group: T4
@@ -20,17 +20,26 @@ consumables:
   - 8764
   - 8801
 record:
-  time: 2 min 39 sec
+  time: 2 min 10 sec
   by:
     - name: Discretize
       tag: dT
   youtube:
-    - id: dUzFUuhu5IQ
-      name: Delay
-      specialization: Soulbeast
-    - id: 6FPJ4fLlN6k
-      name: Seatek
+    - id: https://youtu.be/LTMAnPsi8Kc
+      name: Hyp
+      specialization: Thief
+    - id: https://youtu.be/1Erti5D_Vsc
+      name: Inky
       specialization: Renegade
+    - id: https://youtu.be/XL4UrjanHgg
+      name: Maarten
+      specialization: Guardian
+    - id: https://youtu.be/Y7X7_puBIkY
+      name: Jetrell
+      specialization: Soulbeast
+    - id: https://youtu.be/Y7X7_puBIkY
+      name: Roach
+      specialization: Soulbeast
 ---
 
 ## Start area <Item id="50082" disableText/>
