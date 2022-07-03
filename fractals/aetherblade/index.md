@@ -4,7 +4,7 @@ potions:
   - id: 50082
   - id: 8887
     description: against the golems in the final room
-date: 2022-01-31T15:38:02.821Z
+date: 2022-07-01T17:40:25.400Z
 title: Aetherblade
 image: ./images/header.jpg
 group: T4
@@ -19,17 +19,23 @@ sigils:
   - id: 24672
     description: against the golems in the final room
 record:
-  time: 2 min 34 sec
+  time: 0 min 53 sec
   by:
     - name: Discretize
       tag: dT
   youtube:
-    - id: PWoxS6xSSCc
-      name: Seatek
-      specialization: Renegade
-    - id: yWlIQAVaSQA
-      name: Delay
-      specialization: Reaper
+    - id: https://youtu.be/XtS-Ol_LxNs
+      name: Hyp
+      specialization: Dragonhunter
+    - id: https://youtu.be/sPVlWuroBl4
+      name: Maarten
+      specialization: Firebrand
+    - id: https://youtu.be/uJXizog-2p8
+      name: Jetrell
+      specialization: Soulbeast
+    - id: https://youtu.be/cuJ1r6V8qk8
+      name: Inky
+      specialization: Dragonhunter
 ---
 
 ## Start (water tunnel) <Item id="50082" disableText/>
