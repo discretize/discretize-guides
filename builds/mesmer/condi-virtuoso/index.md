@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: 2022-07-22T11:11:26.412Z
+date: 2022-07-22T11:18:05.762Z
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -187,7 +187,7 @@ For fractals you need 150 agony ressistance. Gear going to stay the same for any
 
 Check out the [gear optimizer](https://optimizer.discretize.eu/) for more variants.
 
-We chose the <Item type="Sigil" name="Agony"/> variant over the <Item type="Sigil" name="Bursting"/> or <Item type="Sigil" name="Geomancy"/> variant since they perform basically identically in fractals but the <Item type="Sigil" name="Agony"/> variant does not rely on <Item name="Writ of Masterful Accuracy"/> to reach crit-cap. This means you will not go below crit-cap when not running a Writ or going below 90% health.
+
 
 
 </Character>
@@ -374,6 +374,15 @@ There is a basic opener used on the golem for sustained DPS, you will need to ad
 
 </Card>
 
+<Card title="Golem Rotation">
+
+This video shows the full rotation on the golem. 
+
+<Video caption="by 
+REMagic " youtube="6sKo5qnT4gg"/>
+</Card>
+
 </GridItem>
+
 
 </Grid>
