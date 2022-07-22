@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-07-22T09:57:59.779Z
+date: 2022-07-22T10:21:16.748Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -258,8 +258,7 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
 | <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
-| <Skill name="Signet of Inspiration" size="big" disableText/>   | For precasting before the boss.                                                                                                                                                            |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                                                        |
 | <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
 | **Skips**                                                      |                                                                                                                                                                                            |
