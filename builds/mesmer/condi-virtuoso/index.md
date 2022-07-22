@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: 2022-07-22T11:06:58.293Z
+date: 2022-07-22T11:11:26.412Z
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -62,8 +62,8 @@ There are many different gear setups that work very similarly on <Specialization
     "Precision": 2155,
     "Toughness": 1243,
     "Vitality": 1478,
-    "Ferocity": 319.15,
-    "Condition Damage": 2637,
+    "Ferocity": 205.15,
+    "Condition Damage": 2605,
     "Expertise": 451,
     "Concentration": 243,
     "Healing Power": 0,
@@ -71,7 +71,7 @@ There are many different gear setups that work very similarly on <Specialization
     "Condition Duration": 0.30066666666666664,
     "Boon Duration": 0.162,
     "Critical Chance": 1,
-    "Critical Damage": 1.7127666666666665,
+    "Critical Damage": 1.6367666666666667,
     "Power Coefficient": 2806,
     "Power DPS": 10238.111397819332,
     "Power2 Coefficient": 883,
