@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-07-22T10:21:16.748Z
+date: 2022-07-22T11:52:14.278Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -157,9 +157,9 @@ The advanced page provides a more complete overview of all the utilities the <Sp
     },
   "skills": {
     "healId": 21750,
-    "utility1Id": 10267,
-    "utility2Id": 45425,
-    "utility3Id": 10211,
+    "utility1Id": 45425,
+    "utility2Id": 10211,
+    "utility3Id": 10267,
     "elite": "Signet of Humility"
   },
   "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
