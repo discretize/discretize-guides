@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: 2022-07-22T11:05:16.571Z
+date: 2022-07-22T11:06:58.293Z
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -71,14 +71,14 @@ There are many different gear setups that work very similarly on <Specialization
     "Condition Duration": 0.30066666666666664,
     "Boon Duration": 0.162,
     "Critical Chance": 1,
-    "Critical Damage": 1.7103333333333333,
+    "Critical Damage": 1.7127666666666665,
     "Power Coefficient": 2806,
     "Power DPS": 10238.111397819332,
     "Power2 Coefficient": 883,
     "Power2 DPS": 2492.111919028165,
     "Flat DPS": 0,
     "Bleeding Duration": 0.7,
-    "Effective Power": 9581.56372712842,
+    "Effective Power": 9475.54358522338,
     "Siphon DPS": 0,
     "Bleeding Coefficient": 37.2325,
     "Bleeding Damage": 322.9884447656251,
@@ -101,7 +101,7 @@ There are many different gear setups that work very similarly on <Specialization
     "Torment Stacks": 10.405333333333333,
     "Torment DPS": 4014.1458729015008,
     "Damage": 42217.3827838732,
-    "Effective Health": 80360437.81094529,
+    "Effective Health": 91047601.99004976,
     "Survivability": 46287.545495704,
     "Effective Healing": 390,
     "Healing": 390,
