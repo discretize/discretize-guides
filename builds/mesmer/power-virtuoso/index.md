@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-07-22T11:52:14.278Z
+date: 2022-07-22T13:43:23.326Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -444,7 +444,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
 
-<Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
+<Video caption="by Tipcat [CnD]" youtube="A2GXvVGew8o"/>
 </Card>
 
 <Beginner>
