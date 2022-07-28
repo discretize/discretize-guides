@@ -3,7 +3,7 @@ cycle: Night
 potions:
   - id: 8885
     description: for the Jade enemies
-date: 2021-11-05T00:13:07.577Z
+date: 2022-07-01T17:24:30.000Z
 title: Solid Ocean
 image: ./images/header.jpg
 group: T4
@@ -16,6 +16,27 @@ sigils:
   - id: 36053
   - id: 24661
     description: for the Jade enemies
+record:
+  time: 3 min 00 sec
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: https://youtu.be/A5DE6K4Y4OY
+      name: Maarten
+      specialization: Mesmer
+    - id: https://youtu.be/urWnJ6H7j3o
+      name: Hyp
+      specialization: Firebrand
+    - id: https://youtu.be/DOWbGXuyMfk
+      name: Seatek
+      specialization: Dragonhunter
+    - id: https://youtu.be/Q-q7ELFb20w
+      name: Jetrell
+      specialization: Soulbeast
+    - id: https://youtu.be/oAltdvLk53o
+      name: Inky
+      specialization: Virtuoso
 ---
 
 <Grid>

@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 8881
-date: 2022-01-28T02:30:37.889Z
+date: 2022-07-01T17:36:08.700Z
 title: Cliffside
 image: ./images/header.jpg
 group: T4
@@ -17,22 +17,25 @@ sigils:
 consumables:
   - 78978
 record:
-  time: 3 min 0 sec
+  time: 2 min 33 sec
   by:
-    - name: Invicta Luna
-      tag: iV
+    - name: Discretize
+      tag: dT
   youtube:
-    - id: yV9JYwr5Tx0
-      name: Delay
-      specialization: Necromancer
-    - id: lT7bpb6v63o
-      name: PineappleMan
-      specialization: Berserker
-    - id: JVJNb-uzIQs
-      name: MagicBot
+    - id: https://youtu.be/zZwnpMTZa88
+      name: Magic
       specialization: Daredevil
-    - id: clm7GF7bxWI
-      name: BlackHawk
+    - id: https://youtu.be/tajqViDzL6I
+      name: Maarten
+      specialization: Daredevil
+    - id: https://youtu.be/RlFHHkr8NOU
+      name: Jetrell
+      specialization: Berserker
+    - id: https://youtu.be/kxrUon3bXtc
+      name: Hyp
+      specialization: Scrapper
+    - id: https://youtu.be/850emcnLMFc
+      name: Inky
       specialization: Renegade
 ---
 

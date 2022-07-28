@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-01-28T09:57:48.815Z
+date: 2022-07-01T17:28:27.800Z
 title: Deepstone
 image: ./images/header.jpg
 group: T4
@@ -15,6 +15,26 @@ sigils:
 consumables:
   - 49940
 record:
+  time: 5 min 28 sec
+  by:
+    - name: discretize
+      tag: dT
+  youtube:
+    - id: https://youtu.be/tn0P9TyvZpA
+      name: Princeps
+      specialization: Guardian
+    - id: https://youtu.be/KqpzUafSx8Q
+      name: Maarten
+      specialization: Virtuoso
+    - id: https://youtu.be/g6ekokU7G30
+      name: Inky
+      specialization: Renegade
+    - id: https://youtu.be/5fj7bJ-LOeA
+      name: Roach
+      specialization: Guardian
+    - id: https://youtu.be/GKvsIjhlSg0
+      name: Hyp
+      specialization: Specter
 ---
 
 <Grid>

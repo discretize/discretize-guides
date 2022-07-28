@@ -1,9 +1,10 @@
 ---
+cycle: Day
 potions:
   - id: 50082
     description: only for the Krait at the beginning
+date: 2022-07-01T17:21:58.200Z
 title: Aquatic Ruins
-date: 2021-02-24
 image: ./images/header.jpg
 group: T4
 api: 2956
@@ -11,22 +12,30 @@ bosses: 1
 difficulties:
   - level: 76
     ar: 107
-cycle: Day
-consumables:
-  - 78978
-record:
-  time: 2 min 13 sec
-  by:
-    - name: Happens
-      tag: hP
-  youtube:
-    - id: cRKap-6_W48
-      name: Guts
-      specialization: Chronomancer
 sigils:
   - id: 24658
     description: null
   - id: 24615
+consumables:
+  - 78978
+record:
+  time: 2 min 43 sec
+  by:
+    - name: Discretize
+      tag: dT
+  youtube:
+    - id: https://youtu.be/zP5azR-riH0
+      name: Hyp
+      specialization: Harbinger
+    - id: https://youtu.be/MO76IvaqSxw
+      name: Jetrell
+      specialization: Firebrand
+    - id: https://youtu.be/74PtaJBVQRk
+      name: Inky
+      specialization: Renegade
+    - id: https://youtu.be/1oOtwtS9ipY
+      name: Maarten
+      specialization: Chronomancer
 ---
 
 <Grid>
