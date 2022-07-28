@@ -1,5 +1,5 @@
 ---
-title: Banner Bladesworn
+title: Power Bladesworn
 hidden: false
 archive: false
 rating: Good
