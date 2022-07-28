@@ -1,7 +1,7 @@
 ---
 title: Power Holosmith
 hidden: false
-archive: false
+archive: true
 rating: Good
 role: Power Damage
 author: Ascers.6082
