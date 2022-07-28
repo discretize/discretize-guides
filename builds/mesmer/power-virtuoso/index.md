@@ -39,13 +39,10 @@ The beginner version of the guide will focus on the most important utility optio
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Mesmer"/> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
-
-</Beginner>
-
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="DPS" gear={{
+<Character title="Beginner Virtuoso" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -54,13 +51,148 @@ The advanced page provides a more complete overview of all the utilities the <Sp
     "Berserker",
     "Assassin",
     "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 20702,
+    "Armor": 2210,
+    "Power": 3418,
+    "Precision": 2155,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1459,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1,
+    "Critical Damage": 2.4726666666666666,
+    "Clone Critical Chance": 0.6000000000000001,
+    "Phantasm Critical Chance": 0.95,
+    "Phantasm Critical Damage": 2.4726666666666666,
+    "Power Coefficient": 2964,
+    "Power2 Coefficient": 1118,
+    "Burning Coefficient": 0.53,
+    "Bleeding Coefficient": 8.834999999999999,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.59,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 28975.97147741972,
+    "Power DPS": 33070.766060482114,
+    "Phantasm Effective Power": 11787.350404166667,
+    "Power2 DPS": 5074.41576890964,
+    "Siphon DPS": 146.7375,
+    "Bleeding Damage": 126.41015625,
+    "Bleeding Stacks": 8.834999999999999,
+    "Bleeding DPS": 1116.83373046875,
+    "Burning Damage": 373.19296875,
+    "Burning Stacks": 0.53,
+    "Burning DPS": 197.7922734375,
+    "Confusion Damage": 124.59890625,
+    "Confusion Stacks": 0.59,
+    "Confusion DPS": 73.5133546875,
+    "Poison Damage": 118.48593749999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 149.8809375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 39680.058687985504,
+    "Effective Health": 91047601.99004976,
+    "Survivability": 46287.545495704,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+      "weapon1MainType": "Dagger",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Sword",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+  "consumables": {
+      "foodId": 91709,
+      "utilityId": 9443
+    },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 45425,
+    "utility2Id": 10211,
+    "utility3Id": 10267,
+    "elite": "Signet of Humility"
+  },
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
+}}>
+
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
+
+</CharacterWithAr>
+
+</Beginner>
+
+<Advanced>
+
+<Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character title="Power Virtuoso" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
     "Assassin",
     "Berserker",
     "Berserker",
     "Berserker",
-    "Assassin",
     "Berserker",
     "Assassin",
+    "Assassin",
+    "Berserker",
     "Berserker",
     "Berserker"
   ],
@@ -165,7 +297,7 @@ The advanced page provides a more complete overview of all the utilities the <Sp
   "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
 }}>
 
-For fractals you need 150 agony ressistance. Gear going to stay the same for any amount of agony ressistance!
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -173,6 +305,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Character>
 
 </CharacterWithAr>
+
+</Advanced>
 
 <Divider text="Build"/>
 
@@ -257,10 +391,10 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                                                        |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                               |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                              
 | <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
+| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                               |
 | **Skips**                                                      |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
 | <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |
@@ -270,7 +404,7 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |
 | <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                        |
 
 </Advanced>
 
