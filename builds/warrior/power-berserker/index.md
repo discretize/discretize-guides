@@ -1,7 +1,7 @@
 ---
 title: Banner Berserker
 hidden: false
-archive: false
+archive: true
 rating: Good
 role: Power Damage
 profession: Warrior
