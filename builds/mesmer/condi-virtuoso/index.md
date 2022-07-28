@@ -36,7 +36,7 @@ There are many different gear setups that work very similarly on <Specialization
 </Warning>
 
 <CharacterWithAr>
-<Character title="DPS" gear={{
+<Character title="Condi Virtuoso" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -179,11 +179,9 @@ There are many different gear setups that work very similarly on <Specialization
   ]
 }}>
 
-This is the default setup when using the <Item type="Sigil" name="Agony"/> .
+This is the default setup when using <Item type="Sigil" name="Agony"/>.
 
-This setup using 2 x <Item id="37132"/> !
-
-For fractals you need 150 agony ressistance. Gear going to stay the same for any amount of agony ressistance!
+This setup uses 2 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
 
 Check out the [gear optimizer](https://optimizer.discretize.eu/) for more variants.
 
@@ -351,6 +349,12 @@ At the boss (pre spawned bosses)
 
 </Card>
 
+<Card title="Rotation Guide">
+
+<Video caption="by Ascers " youtube="8a1lh8IiW0c"/>
+
+</Card>
+
 </GridItem>
 
 <GridItem sm="6">
@@ -373,13 +377,8 @@ There is a basic opener used on the golem for sustained DPS, you will need to ad
 11. <Skill name="Signet of Illusions"/>
 
 </Card>
-
 <Card title="Golem Rotation">
-
-This video shows the full rotation on the golem. 
-
-<Video caption="by 
-REMagic " youtube="6sKo5qnT4gg"/>
+<Video caption="by REMagic " youtube="6sKo5qnT4gg"/>
 </Card>
 
 </GridItem>

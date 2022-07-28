@@ -1,7 +1,7 @@
 ---
 title: Power (Quick) Catalyst
 hidden: false
-archive: false
+archive: true
 rating: Good
 role: Power Damage
 profession: Elementalist

@@ -22,7 +22,7 @@ benchmark:
     dps: 34302
     by: Westet
     youtube: I1Tjyfk-DKI
-archive: false
+archive: true
 hidden: false
 ---
 

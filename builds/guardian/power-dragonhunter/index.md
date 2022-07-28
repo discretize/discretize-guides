@@ -1,7 +1,7 @@
 ---
 title: Power Dragonhunter
 hidden: false
-archive: false
+archive: true
 hasBeginner: true
 rating: Meta
 role: Power Damage

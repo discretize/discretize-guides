@@ -1,7 +1,7 @@
 ---
 title: Power (Quick) Firebrand
 hidden: false
-archive: false
+archive: true
 rating: Meta
 role: Power Damage
 author: ganymed.3541
