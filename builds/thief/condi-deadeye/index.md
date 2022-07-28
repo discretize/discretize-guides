@@ -1,5 +1,5 @@
 ---
-archive: false
+archive: true
 classification:
   - 3
   - 5
