@@ -176,11 +176,6 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
       "type": "Boon"
     },
     {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
       "id": "vulnerability",
       "type": "Condition"
     }
