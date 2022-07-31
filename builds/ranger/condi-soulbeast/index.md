@@ -21,12 +21,12 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-04-29T11:40:09.644Z
+date: 2022-07-31T11:40:09.644Z
 ---
 
 <Warning>
 
-This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
+This build is strong in full condi groups ([team comps](/guides/effective-comp)), especially on Ensolyss, 100CM and some T4 bosses. In power groups and other bosses this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart. 
 
 </Warning>
 
@@ -48,10 +48,12 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
 
 <Divider text="Equipment"/>
 
+<Beginner>
+
 <CharacterWithAr>
 <Character title="Krait Runes" gear={{
   "profession": "Ranger",
-  "weight": "medium",
+  "weight": "Medium",
   "gear": [
     "Viper",
     "Viper",
@@ -69,52 +71,54 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
     "Viper"
   ],
   "attributes": {
-    "Health": 19472,
+    "Health": 21902,
     "Armor": 2361,
     "Power": 2923,
-    "Precision": 1976,
+    "Precision": 1733,
     "Toughness": 1243,
-    "Vitality": 1355,
-    "Ferocity": 150,
-    "Condition Damage": 2732,
+    "Vitality": 1598,
+    "Ferocity": 0,
+    "Condition Damage": 2642,
     "Expertise": 797,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0.5313333333333333,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.8147619047619048,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 1591,
+    "Critical Chance": 0.7490476190476191,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2165.1,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 2.42,
-    "Bleeding Coefficient": 27.82755714285714,
-    "Poison Coefficient": 16.41,
+    "Bleeding Coefficient": 28.0878619047619,
+    "Poison Coefficient": 16.42,
     "Torment Coefficient": 0.16,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Bleeding Duration": 0.5,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 8223.37864866964,
-    "Power DPS": 5037.888113220408,
-    "Siphon DPS": 5037.888113220408,
-    "Bleeding Damage": 384.81953999999996,
-    "Bleeding Stacks": 55.65511428571428,
-    "Bleeding DPS": 21417.175478076,
-    "Burning Damage": 862.878375,
+    "Effective Power": 7768.035831324402,
+    "Power DPS": 6476.154939699832,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 373.6425524999999,
+    "Bleeding Stacks": 56.1757238095238,
+    "Bleeding DPS": 20989.640832725494,
+    "Burning Damage": 841.1686874999999,
     "Burning Stacks": 3.705826666666667,
-    "Burning DPS": 3197.6776921650003,
-    "Confusion Damage": 341.298075,
+    "Burning DPS": 3117.2253533025,
+    "Confusion Damage": 331.6337625,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 384.04359374999996,
-    "Poison Stacks": 25.12918,
-    "Poison DPS": 9650.700595190625,
-    "Torment Damage": 432.1395,
+    "Poison Damage": 373.53890624999997,
+    "Poison Stacks": 25.144493333333337,
+    "Poison DPS": 9392.44653794375,
+    "Torment Damage": 419.53387499999997,
     "Torment Stacks": 0.24501333333333336,
-    "Torment DPS": 105.87993936000001,
-    "Damage": 39549.07181801203,
-    "Effective Health": 91489337.31343284,
-    "Survivability": 46512.11861384486,
+    "Torment DPS": 102.79139316,
+    "Damage": 40218.00905683157,
+    "Effective Health": 102906710.44776121,
+    "Survivability": 52316.57877364576,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -141,27 +145,26 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
     49432
   ],
   "weapons": {
-    "weapon1MainType": "Short Bow",
+    "weapon1MainType": "Dagger",
     "weapon1MainSigil1Id": 44944,
-    "weapon1MainSigil2Id": 24560,
-    "weapon2MainType": "Dagger",
+    "weapon1OffType": "Torch",
+    "weapon1OffSigilId": 24560,
+    "weapon2MainType": "Short Bow",
     "weapon2MainSigil1Id": 44944,
-    "weapon2OffType": "Torch",
-    "weapon2OffSigilId": 24560
+    "weapon2MainSigil2Id": 24560
   },
   "consumables": {
     "foodId": 91878,
-    "utilityId": 48917,
-    "infusion": "Malign +9 Agony Infusion"
+    "utilityId": 48917
   },
   "skills": {
     "healId": 31914,
-    "utility1Id": 40498,
+    "utility1Id": "",
     "utility2Id": 12537,
-    "utility3Id": 12498,
+    "utility3Id": 40498,
     "eliteId": 45717
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -179,17 +182,14 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
       "type": "Condition"
     },
     {
-      "id": "jade-bot-base",
-      "type": "Text"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
 }}>
@@ -197,9 +197,16 @@ This guide will focus on the Shortbow + Dagger/Torch variant of the build with <
 If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower duration on your non-bleeding conditions but the build does not change!
 
 </Character>
+</CharacterWithAr>
+
+</Beginner>
+
+<Advanced>
+
+<CharacterWithAr>
 <Character advanced title="Afflicted Runes" gear={{
   "profession": "Ranger",
-  "weight": "medium",
+  "weight": "Medium",
   "gear": [
     "Viper",
     "Viper",
@@ -217,13 +224,13 @@ If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower dura
     "Viper"
   ],
   "attributes": {
-    "Health": 19472,
+    "Health": 21902,
     "Armor": 2361,
     "Power": 2923,
-    "Precision": 1976,
+    "Precision": 1733,
     "Toughness": 1243,
-    "Vitality": 1355,
-    "Ferocity": 150,
+    "Vitality": 1598,
+    "Ferocity": 0,
     "Condition Damage": 2632,
     "Expertise": 897,
     "Concentration": 243,
@@ -231,24 +238,26 @@ If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower dura
     "Agony Resistance": 162,
     "Condition Duration": 0.798,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.8147619047619048,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 1591,
+    "Critical Chance": 0.7490476190476191,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2165.1,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 2.42,
-    "Bleeding Coefficient": 27.66755714285714,
-    "Poison Coefficient": 16.25,
+    "Bleeding Coefficient": 27.9278619047619,
+    "Poison Coefficient": 16.26,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Bleeding Duration": 0.2,
     "Poison Duration": 0.1,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 8223.37864866964,
-    "Power DPS": 5037.888113220408,
-    "Siphon DPS": 5037.888113220408,
+    "Effective Power": 7768.035831324402,
+    "Power DPS": 6476.154939699832,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 357.44481499999995,
-    "Bleeding Stacks": 55.27977917142857,
-    "Bleeding DPS": 19759.470439172135,
+    "Bleeding Stacks": 55.79986808571428,
+    "Bleeding DPS": 19945.373524922543,
     "Burning Damage": 805.0715,
     "Burning Stacks": 4.35116,
     "Burning DPS": 3502.9949079400003,
@@ -256,60 +265,61 @@ If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower dura
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
     "Poison Damage": 357.41703125,
-    "Poison Stacks": 30.8425,
-    "Poison DPS": 11023.634786328124,
+    "Poison Stacks": 30.861480000000004,
+    "Poison DPS": 11030.418561581251,
     "Torment Damage": 401.34075,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 39463.738246660665,
-    "Effective Health": 91489337.31343284,
-    "Survivability": 46512.11861384486,
+    "Damage": 41094.69193414362,
+    "Effective Health": 102906710.44776121,
+    "Survivability": 52316.57877364576,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24687,
   "runeName": "Afflicted",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37130,
+    37130,
+    37130,
+    37130,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113,
+    86113
   ],
   "weapons": {
-    "weapon1MainType": "Short Bow",
+    "weapon1MainType": "Dagger",
     "weapon1MainSigil1Id": 44950,
-    "weapon1MainSigil2Id": 24560,
-    "weapon2MainType": "Dagger",
+    "weapon1OffType": "Torch",
+    "weapon1OffSigilId": 24560,
+    "weapon2MainType": "Short Bow",
     "weapon2MainSigil1Id": 44950,
-    "weapon2OffType": "Torch",
-    "weapon2OffSigilId": 24560
+    "weapon2MainSigil2Id": 24560
   },
   "consumables": {
     "foodId": 91876,
-    "utilityId": 48917
+    "utilityId": 48917,
+    "infusionId": 86113
   },
   "skills": {
     "healId": 31914,
-    "utility1Id": 40498,
+    "utility1Id": "",
     "utility2Id": 12537,
-    "utility3Id": 12498,
+    "utility3Id": 40498,
     "eliteId": 45717
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -327,27 +337,173 @@ If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower dura
       "type": "Condition"
     },
     {
-      "id": "jade-bot-base",
-      "type": "Text"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
 }}>
 
-This builds damage depends on the amount of <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. The build deals similar DPS with 2 <Specialization name="Soulbeast" text="Condi Soulbeasts"/>, and outperforms the Krait build if you have 3 <Specialization name="Soulbeast" text="Condi Soulbeasts"/> in the party. If you are going to be on your own, run the Krait rune setup!
+This builds damage depends on the <Skill name="Vulture Stance"/> uptime you and your party have. The higher the uptime, the better it will preform. In general it is around the same damage as the Krait rune build with higher potential damage, depending on boss and comp. Choose the build you are more comfortable with, they are both good choices.
 
 This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Spiteful +9 Agony Infusion"/> to cap Bleeding duration. If you do not have the Jade Core, run all 18 <Item name="Spiteful +9 Agony Infusion"/>.
 
-</Character> 
+</Character>
+<Character title="Krait Runes" gear={{
+  "profession": "Ranger",
+  "weight": "Medium",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
+  "attributes": {
+    "Health": 21902,
+    "Armor": 2361,
+    "Power": 2923,
+    "Precision": 1733,
+    "Toughness": 1243,
+    "Vitality": 1598,
+    "Ferocity": 0,
+    "Condition Damage": 2732,
+    "Expertise": 797,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.5313333333333333,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.7490476190476191,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2165.1,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 2.42,
+    "Bleeding Coefficient": 28.0878619047619,
+    "Poison Coefficient": 16.42,
+    "Torment Coefficient": 0.16,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Bleeding Duration": 0.5,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 7768.035831324402,
+    "Power DPS": 6476.154939699832,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 384.81953999999996,
+    "Bleeding Stacks": 56.1757238095238,
+    "Bleeding DPS": 21617.516195547996,
+    "Burning Damage": 862.878375,
+    "Burning Stacks": 3.705826666666667,
+    "Burning DPS": 3197.6776921650003,
+    "Confusion Damage": 341.298075,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 384.04359374999996,
+    "Poison Stacks": 25.144493333333337,
+    "Poison DPS": 9656.581582756251,
+    "Torment Damage": 432.1395,
+    "Torment Stacks": 0.24501333333333336,
+    "Torment DPS": 105.87993936000001,
+    "Damage": 41193.56034952908,
+    "Effective Health": 102906710.44776121,
+    "Survivability": 52316.57877364576,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24762,
+  "runeName": "Krait",
+  "infusions": [
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
+  ],
+  "weapons": {
+    "weapon1MainType": "Dagger",
+    "weapon1MainSigil1Id": 44944,
+    "weapon1OffType": "Torch",
+    "weapon1OffSigilId": 24560,
+    "weapon2MainType": "Short Bow",
+    "weapon2MainSigil1Id": 44944,
+    "weapon2MainSigil2Id": 24560
+  },
+  "consumables": {
+    "foodId": 91878,
+    "utilityId": 48917,
+    "infusionId": 37130
+  },
+  "skills": {
+    "healId": 31914,
+    "utility1Id": "",
+    "utility2Id": 12537,
+    "utility3Id": 40498,
+    "eliteId": 45717
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+If you do not have a Jade Bot Core: Tier 10, you will have a slightly lower duration on your non-bleeding conditions but the build does not change!
+
+</Character>
 </CharacterWithAr>
+
+</Advanced>
 
 <Divider text="Build"/>
 
@@ -377,9 +533,10 @@ This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Sp
 
 |                                                       |                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sun Spirit" size="big" disableText/>     | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                          |
-| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Vulture Stance"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
-| <Skill name="Vipers Nest" size="big" disableText/>    | A replacement for <Skill name="Sun Spirit"/>. Only taken if you do not need to provide <Skill name="Sun Spirit"/> or <Skill name="Moa Stance"/>.                                                                                                                                        |
+| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Vipers Nest"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
+| <Skill name="Vipers Nest" size="big" disableText/>    | Your standard 3rd utility. Only taken if you do not need to use a more supportive skill.                                                                                                                                        |
+| <Skill name="Dolyak Stance" size="big" disableText/>    | Can be used to share <Boon name="Stability"/>.                                                                                                                                        |
+| <Skill name="Spike Trap" size="big" disableText/>    | Can be taken to for extra CC, while being used in rotation for <Condition name="Bleeding"/> stacks.                                                                                                                                        |
 | <Skill name="Bear stance" size="big" disableText/>    | A party-wide condi cleanse through <Trait name="leaderofthepack"/>.                                                                                                                                                                                                                     |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                                                                                                                       |
 
@@ -435,8 +592,10 @@ Running an off-hand Dagger is similar DPS to Torch providing you can flank perma
 | ------------------------------------------ | --------------------------------------------------------------------------------- |
 | <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>)                                            |
 | <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5)                                                           |
+| <Skill name="Spike Trap" size="big" disableText/> | 232 damage       |
 | <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
 | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
+
 
 </Card>
 </GridItem>
