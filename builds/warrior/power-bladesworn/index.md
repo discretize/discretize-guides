@@ -396,6 +396,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
   - Precast <Trait name="Fierce as Fire"/> stacks using ammo skills.
   - Precast flow using <Skill name="Flow Stabilizer"/> and <Skill name="To the Limit"/>.
   - Use <Skill name="Tactical Reload"/> to reload precasted ammo and charge <Skill name="Dragon Trigger"/> quicker.
+  
 </Card>
 
 </GridItem>
