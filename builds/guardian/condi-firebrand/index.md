@@ -174,7 +174,7 @@ There are several different gear, utility, and trait setups that allow you to ma
     },
     "consumables": {
       "foodId": 91878,
-      "utility": "Toxic Focusing Crystal",
+      "utility": "Toxic Focusing Crystal"
     },
     "skills": {
       "heal": "Mantra of Solace",
