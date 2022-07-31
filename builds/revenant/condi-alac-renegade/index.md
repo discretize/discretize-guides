@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-05-07T17:15:03.572Z
+date: 2022-07-31T17:15:03.572Z
 ---
 
 <Warning>
@@ -55,10 +55,10 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
     "Ritualist",
     "Ritualist",
     "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
     "Viper",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
     "Ritualist",
     "Ritualist",
     "Ritualist",
@@ -66,173 +66,59 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
     "Ritualist"
   ],
   "attributes": {
-    "Health": 27072,
+    "Health": 31192,
     "Armor": 2550,
-    "Power": 1880,
-    "Precision": 1331,
+    "Power": 1946,
+    "Precision": 1122,
     "Toughness": 1279,
-    "Vitality": 2115,
-    "Ferocity": 186,
-    "Condition Damage": 2269,
+    "Vitality": 2527,
+    "Ferocity": 36,
+    "Condition Damage": 2369,
     "Expertise": 739,
-    "Concentration": 978,
+    "Concentration": 826,
     "Healing Power": 36,
     "Agony Resistance": 162,
-    "Condition Duration": 0.8426666666666667,
-    "Boon Duration": 0.802,
-    "Critical Chance": 0.7376190476190477,
-    "Critical Damage": 1.624,
-    "Power Coefficient": 1973,
-    "Burning Coefficient": 5,
-    "Bleeding Coefficient": 14.1,
-    "Poison Coefficient": 4.2,
-    "Torment Coefficient": 18.4,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.25,
-    "Effective Power": 4940.4872148171435,
-    "Power DPS": 3753.4005678992007,
-    "Bleeding Damage": 326.16375,
-    "Bleeding Stacks": 28.2,
-    "Bleeding DPS": 9197.81775,
-    "Burning Damage": 796.4467500000001,
-    "Burning Stacks": 9.213333333333333,
-    "Burning DPS": 7337.92939,
-    "Confusion Damage": 309.14565000000005,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 279.906,
-    "Poison Stacks": 7.7392,
-    "Poison DPS": 2166.2485152,
-    "Torment Damage": 428.3581500000001,
-    "Torment Stacks": 33.90506666666666,
-    "Torment DPS": 14523.51163296,
-    "Damage": 36978.9078560592,
-    "Effective Health": 137380298.5074627,
-    "Survivability": 69842.55135102324,
-    "Effective Healing": 400.8,
-    "Healing": 400.8
-  },
-  "runeId": 24691,
-  "runeName": "Traveler",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-    "weapons": {
-      "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
-      "weapon1OffType": "Axe",
-      "weapon1OffSigil": "geomancy",
-      "weapon2MainType": "Short Bow",
-      "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "geomancy"
-    },
-    "consumables": {
-      "foodId": 91878,
-      "utilityId": 48916,
-      "infusion": "Malign +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendarydemonstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
-}}>
-
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
-
-If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
-</Character>  
-<Character title="80% BD, 222 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Viper",
-    "Ritualist",
-    "Ritualist"
-  ],
-  "attributes": {
-    "Health": 29832,
-    "Armor": 2640,
-    "Power": 1838,
-    "Precision": 1396,
-    "Toughness": 1369,
-    "Vitality": 2391,
-    "Ferocity": 36,
-    "Condition Damage": 2371,
-    "Expertise": 739,
-    "Concentration": 975,
-    "Healing Power": 36,
-    "Agony Resistance": 222,
-    "Condition Duration": 0.8426666666666667,
-    "Boon Duration": 0.8,
-    "Critical Chance": 0.7685714285714287,
+    "Condition Duration": 0.7426666666666666,
+    "Boon Duration": 0.8006666666666667,
+    "Critical Chance": 0.6880952380952381,
     "Critical Damage": 1.524,
-    "Power Coefficient": 1945.2625,
+    "Power Coefficient": 1928,
     "Power2 Coefficient": 0,
     "Burning Coefficient": 5.15,
-    "Bleeding Coefficient": 13.09,
+    "Bleeding Coefficient": 14.69,
     "Poison Coefficient": 1.97,
-    "Torment Coefficient": 18.54,
+    "Torment Coefficient": 16.64,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Bleeding Duration": 0.25,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 4639.781484016715,
-    "Power DPS": 3475.3919634393783,
+    "Effective Power": 4674.4321954,
+    "Power DPS": 3470.2754226920288,
     "Power2 DPS": 0,
     "Siphon DPS": 163.50750000000002,
-    "Bleeding Damage": 338.78625,
-    "Bleeding Stacks": 26.18,
-    "Bleeding DPS": 8869.424025,
-    "Burning Damage": 822.5332500000001,
-    "Burning Stacks": 9.489733333333334,
-    "Burning DPS": 7805.621200300001,
-    "Confusion Damage": 320.75835000000006,
+    "Bleeding Damage": 338.53875,
+    "Bleeding Stacks": 29.27227333333333,
+    "Bleeding DPS": 9909.798823924999,
+    "Burning Damage": 822.0217500000001,
+    "Burning Stacks": 8.974733333333333,
+    "Burning DPS": 7377.426000450001,
+    "Confusion Damage": 320.53065000000004,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 290.004,
-    "Poison Stacks": 3.630053333333333,
-    "Poison DPS": 1052.72998688,
-    "Torment Damage": 445.0198500000001,
-    "Torment Stacks": 34.163039999999995,
-    "Torment DPS": 15203.230936344,
-    "Damage": 36569.905611963375,
-    "Effective Health": 156729313.43283585,
-    "Survivability": 79679.36625970302,
+    "Poison Damage": 289.806,
+    "Poison Stacks": 3.433053333333333,
+    "Poison DPS": 994.9194543199999,
+    "Torment Damage": 444.69315000000006,
+    "Torment Stacks": 28.997973333333334,
+    "Torment DPS": 12895.200105216001,
+    "Damage": 34811.127306603026,
+    "Effective Health": 158287761.19402987,
+    "Survivability": 80471.66303712754,
     "Effective Healing": 400.8,
     "Healing": 400.8
   },
-  "runeId": 24691,
-  "runeName": "Traveler",
+  "runeId": 70600,
+  "runeName": "Leadership",
   "infusions": [
     37130,
     37130,
@@ -271,12 +157,184 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
+</Character>  
+<Character title="80% BD, 222 AR" gear={{
+  "profession": "Revenant",
+  "weight": "Heavy",
+  "gear": [
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist",
+    "Viper",
+    "Ritualist",
+    "Ritualist"
+  ],
+  "attributes": {
+    "Health": 33172,
+    "Armor": 2640,
+    "Power": 1838,
+    "Precision": 1063,
+    "Toughness": 1369,
+    "Vitality": 2725,
+    "Ferocity": 36,
+    "Condition Damage": 2342,
+    "Expertise": 669,
+    "Concentration": 975,
+    "Healing Power": 36,
+    "Agony Resistance": 222,
+    "Condition Duration": 0.796,
+    "Boon Duration": 0.8,
+    "Critical Chance": 0.66,
+    "Critical Damage": 1.524,
+    "Power Coefficient": 1928,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 5.15,
+    "Bleeding Coefficient": 14.69,
+    "Poison Coefficient": 1.97,
+    "Torment Coefficient": 16.64,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Bleeding Duration": 0.25,
+    "Torment Duration": 0.15,
+    "Effective Power": 4367.23599576,
+    "Power DPS": 3242.21447817685,
+    "Power2 DPS": 0,
+    "Siphon DPS": 0,
+    "Bleeding Damage": 335.1975,
+    "Bleeding Stacks": 29.38,
+    "Bleeding DPS": 9848.10255,
+    "Burning Damage": 815.1165000000001,
+    "Burning Stacks": 9.249400000000001,
+    "Burning DPS": 7539.338555100002,
+    "Confusion Damage": 317.45670000000007,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 287.133,
+    "Poison Stacks": 3.53812,
+    "Poison DPS": 1015.91100996,
+    "Torment Damage": 440.2827000000001,
+    "Torment Stacks": 32.381440000000005,
+    "Torment DPS": 14256.987833088006,
+    "Damage": 35902.55442632486,
+    "Effective Health": 174276776.119403,
+    "Survivability": 88600.29289242654,
+    "Effective Healing": 400.8,
+    "Healing": 400.8
+  },
+  "runeId": 24691,
+  "runeName": "Traveler",
+  "infusions": [
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
+  ],
+    "weapons": {
+      "weapon1MainType": "Mace",
+      "weapon1MainSigil1": "earth",
+      "weapon1OffType": "Axe",
+      "weapon1OffSigil": "geomancy",
+      "weapon2MainType": "Short Bow",
+      "weapon2MainSigil1": "torment",
+      "weapon2MainSigil2": "geomancy"
+    },
+    "consumables": {
+      "foodId": 95942,
+      "utilityId": 81079,
+      "infusion": "Malign +9 Agony Infusion"
+    },
+    "legends": {
+      "legend1": "legendarydemonstance",
+      "legend2": "legendaryrenegadestance"
+    },
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+
+<Item id="91878"/> can also be used instead of <Item name="Meaty Asparagus Skewer"/>. The difference between is minimal.
 
 </Character>
 
@@ -300,43 +358,54 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
     "Viper"
   ],
   "attributes": {
-    "Health": 15922,
+    "Health": 20702,
     "Armor": 2514,
-    "Power": 2923,
-    "Precision": 1876,
+    "Power": 3013,
+    "Precision": 1633,
     "Toughness": 1243,
-    "Vitality": 1000,
-    "Ferocity": 150,
-    "Condition Damage": 2522,
+    "Vitality": 1478,
+    "Ferocity": 0,
+    "Condition Damage": 2435,
     "Expertise": 703,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.9186666666666666,
+    "Condition Duration": 0.9186666666666667,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9971428571428572,
-    "Critical Damage": 1.6,
+    "Critical Chance": 0.9314285714285715,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2122,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 5.24,
+    "Bleeding Coefficient": 14.2,
+    "Poison Coefficient": 1.83,
+    "Torment Coefficient": 17.87,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
     "Bleeding Duration": 0.25,
-    "Effective Power": 9527.055504629467,
-    "Power DPS": 10378.144021023012,
-    "Bleeding Damage": 368.98203125,
-    "Bleeding Stacks": 19.2,
-    "Bleeding DPS": 7084.454999999999,
-    "Burning Damage": 888.8779687500002,
-    "Burning Stacks": 8.250266666666667,
-    "Burning DPS": 7333.480276312501,
-    "Confusion Damage": 348.83065625,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 8092.129239642859,
+    "Power DPS": 6612.05169292343,
+    "Power2 DPS": 0,
+    "Siphon DPS": 170.49500000000003,
+    "Bleeding Damage": 359.8390625,
+    "Bleeding Stacks": 28.4,
+    "Bleeding DPS": 10219.429375,
+    "Burning Damage": 870.6778125000001,
+    "Burning Stacks": 10.053813333333334,
+    "Burning DPS": 8753.63220035,
+    "Confusion Damage": 340.47068750000005,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 314.7715625,
-    "Poison Stacks": 8.634,
-    "Poison DPS": 2717.737670625,
-    "Torment Damage": 484.80815624999997,
-    "Torment Stacks": 32.2336,
-    "Torment DPS": 15627.1121853,
-    "Damage": 43140.92915326051,
-    "Effective Health": 79657528.35820897,
-    "Survivability": 40496.964086532265,
+    "Poison Damage": 307.565,
+    "Poison Stacks": 3.5111600000000003,
+    "Poison DPS": 1079.9099254,
+    "Torment Damage": 472.7270625000001,
+    "Torment Stacks": 34.28657333333334,
+    "Torment DPS": 16208.191095057506,
+    "Damage": 43043.70928873094,
+    "Effective Health": 103571797.01492539,
+    "Survivability": 52654.70107520356,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -365,7 +434,34 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
       "legend1": "legendarydemonstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
@@ -387,6 +483,8 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
 <Card title="Situational Traits">
 
 - Take <Trait id="1774"/> if your <Boon name="Might"/> uptime is good enough without <Trait id="1781"/>.
+- If your party doesn't have <Boon name="Protection"/> and is struggling to survive, you can take <Trait name="All For One"/>.
+- if your group has another source of <Boon name="Alacrity"/> and you are sharing, you can consider taking <Trait name="Lasting Legacy"/> for more damage and <Boon name="Might"/> generation.
 
 </Card>
 </GridItem>
@@ -491,7 +589,7 @@ When you swap your legend first and then your weapon, you will be able to proc S
 
 <Card title="Raid Golem Rotation">
 
-<Video youtube="fBYzCIj7RAU" caption="by Le Mós "/>
+<Video youtube="" caption=""/>
 </Card>
 </GridItem>
 
