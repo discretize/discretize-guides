@@ -73,23 +73,24 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "Minstrel"
   ],
   "attributes": {
-    "Health": 20182,
+    "Health": 24782,
     "Armor": 3140,
     "Power": 2189,
-    "Precision": 1225,
+    "Precision": 1000,
     "Toughness": 2022,
-    "Vitality": 1426,
-    "Ferocity": 150,
+    "Vitality": 1886,
+    "Ferocity": 0,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 1276,
-    "Healing Power": 1597,
+    "Healing Power": 1727,
     "Agony Resistance": 150,
     "Condition Duration": 0,
     "Boon Duration": 1.0006666666666666,
-    "Critical Chance": 0.35714285714285715,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 3000,
+    "Critical Chance": 0.3,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 0,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 0,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
@@ -97,8 +98,10 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Outgoing Healing": 0.5535000000000001,
-    "Effective Power": 3820.977678571429,
-    "Power DPS": 4413.913375323175,
+    "Effective Power": 3618.6906249999997,
+    "Power DPS": 0,
+    "Power2 DPS": 0,
+    "Siphon DPS": 0,
     "Bleeding Damage": 96.3125,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -114,21 +117,21 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     "Torment Damage": 142.74375,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 4413.913375323175,
-    "Effective Health": 135023980.73870477,
-    "Survivability": 68644.62671006852,
-    "Effective Healing": 1350.1468499999999,
-    "Healing": 1350.1468499999999
+    "Damage": 0,
+    "Effective Health": 184221599.59185752,
+    "Survivability": 93656.12587283047,
+    "Effective Healing": 1410.7333500000002,
+    "Healing": 1410.7333500000002
   },
   "runeId": 24842,
   "runeName": "Monk",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
+    49430,
+    49430,
+    49430,
+    49430,
+    49430,
+    49430,
     49432,
     49432,
     49432,
@@ -175,11 +178,6 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
     {
       "id": "vulnerability",
       "type": "Condition"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
     }
   ]
 }}>
@@ -210,10 +208,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
 | <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase,                               |
 | <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
-| <Skill name="Flame Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Might"/>                           |
-| <Skill name="Rifle Turret" size="big" disableText/>           | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Fury"/>                            |
 | <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                       |
-| <Skill name="Rocket Turret" size="big" disableText/>          | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Resolution"/>                      |
 | <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                    |
 | <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                            |
 | <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                      |
@@ -379,3 +374,32 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - If you have a high amount of condition pressure you can use <Skill name="Cleansing Field"/> or <Skill name="Super Elixir"/> for a longer-lasting condition cleanse over time.
 
 </Card>
+
+<Divider text="Underwater Guide"/>
+
+When underwater, <Specialization name="Mechanist" text="Heal Alacrity Mechanist"/> is unplayable due to your <Skill name="Crash Down" text="Jade Mech"/> skills not being availible, which leaves you with a couple of options. You can either swap class to a <Boon name="Alacrity"/> provider that will work underwater (<Specialization name="Renegade"/> or <Specialization name="Tempest"/>). Alternatively, if you want to stay as an <Specialization name="Engineer"/> your best option is to swap to <Specialization name="Scrapper" text="Heal Quickness Scrapper"/>.
+<Grid>
+<GridItem sm="7">
+
+<Card title="Traits">
+
+<Traits traits1Id="43" traits1="Scrapper" traits1SelectedIds="1917,1954,2052" unembossed/>
+
+Your other trait lines remain the same as on land.
+</Card>
+
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Skills">
+<Skills healId={5802} utility1Id={5933} utility2Id={31248} utility3Id={29739} eliteId={30800}/>
+</Card>
+<Card title="Underwater Gear">
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Minstrel" weapon1MainSigil1="Transference" weapon1MainSigil2="Water" weapon1MainInfusion1Id={49432} weapon1MainInfusion2Id={49432}/>
+The rest of your gear will remain the same as on land.
+<Warning>
+Remember to equip a <Item id="24842"/> to your Aquabreather, so you will get the 6th bonus underwater!
+</Warning>
+</Card>
+</GridItem>
+</Grid>
