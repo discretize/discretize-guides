@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-08-01T11:33:35.373Z
+date: 2022-08-01T18:17:41.195Z
 ---
 
 <Warning>
@@ -187,7 +187,9 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
   ]
 }}>
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). 
+
+If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 </Character>  
@@ -332,7 +334,9 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
   ]
 }}>
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/).
+
+If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 <Item id="91878"/> can also be used instead of <Item name="Meaty Asparagus Skewer"/>. The difference between is minimal.
 
@@ -464,7 +468,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
   ]
 }}>
 
-If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
+If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 </Character>
@@ -551,7 +555,7 @@ Mace/Axe skills:
 <Card title="When to use Order From Above">
 
 - If you use the 80% Boon Duration build use your <Skill id="45537"/> off cooldown
-- If you use the 30% Boon Duration build you will want to use your <Skill id="45537"/> whenever you see <Skill id="45970"/> on your bar
+- If you share <Boon name="Alacrity" /> with a <Specialization name="Specter" /> or <Specialization name="Mirage" /> you will need to pay attention to when you will need to share. Depending on their build, you may get away with only pressing <Skill name="ordersfromabove" /> in <Skill name="legendaryrenegadestance" />, but if <Boon name="Alacrity" /> is dropping you will have to press it more regularly.
 - If you use the 3rd build (Double Renegade) always use <Skill id="45537"/> during a <Skill id="41858"/> rotation
 
 <Warning>
