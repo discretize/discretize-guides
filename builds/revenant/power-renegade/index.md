@@ -1,6 +1,15 @@
 ---
+title: Power Alac Renegade
+hidden: false
+archive: false
+rating: Meta
+role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
+profession: Revenant
 specialization: Renegade
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -8,27 +17,18 @@ boons:
   - name: Might
     uptime: 10 stacks
     variant: party
-code: '[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]'
+code: "[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: pug
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-07-31T01:54:06.400Z
-title: Power Alac Renegade
-rating: Meta
-role: Power Damage
-profession: Revenant
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
-cmGuide: pug
-archive: false
-hidden: false
+date: 2022-08-01T11:28:14.600Z
 ---
 
-The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
+The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other damage dealing classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
@@ -521,7 +521,7 @@ For more information about advanced rotation and gameplay refer to [Static Reneg
 
 <Warning>
 
-Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
+Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>.
 </Warning>
 
 <Grid>
