@@ -1,6 +1,6 @@
 ---
 title: Power Quick Herald
-hidden: false
+hidden: true
 archive: false
 rating: Meta
 role: Power Damage
@@ -26,7 +26,7 @@ boons:
     uptime: ???
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2022-08-01T17:39:08.174Z
+date: 2022-08-01T18:34:24.601Z
 ---
 WIP DO NOT MAKE THIS PUBLIC 
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/>. 
