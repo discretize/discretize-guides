@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-07-31T17:15:03.572Z
+date: 2022-08-01T18:33:11.663Z
 ---
 
 <Warning>
@@ -187,7 +187,9 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
   ]
 }}>
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). 
+
+If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 </Character>  
@@ -332,7 +334,9 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
   ]
 }}>
 
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). If you have a <Specialization name="Soulbeast"/> that has <Skill id="45970"/>, you can play Condi DPS Renegade and take <Item id="91847"/> and <Item id="48916"/>, you want to aim for just over 30% boon duration.
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/).
+
+If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 <Item id="91878"/> can also be used instead of <Item name="Meaty Asparagus Skewer"/>. The difference between is minimal.
 
@@ -464,7 +468,7 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
   ]
 }}>
 
-If you have 2 <Specialization name="Renegade" text="Condi Renegades"/> you can both play <Trait name="Righteous Rebel"/> to provide <Boon name="alacrity"/>,
+If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 </Character>
@@ -506,7 +510,7 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
 
 <Skill id="28494"/> skills:
 
-- <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
+- <Skill id="27505"/>: Removes three boons from up to five unique enemies in a line and applies <Condition name="Chilled"/> on enemies hit. 
 - <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
 - <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
 
@@ -551,7 +555,7 @@ Mace/Axe skills:
 <Card title="When to use Order From Above">
 
 - If you use the 80% Boon Duration build use your <Skill id="45537"/> off cooldown
-- If you use the 30% Boon Duration build you will want to use your <Skill id="45537"/> whenever you see <Skill id="45970"/> on your bar
+- If you share <Boon name="Alacrity" /> with a <Specialization name="Specter" /> or <Specialization name="Mirage" /> you will need to pay attention to when you will need to share. Depending on their build, you may get away with only pressing <Skill name="ordersfromabove" /> in <Skill name="legendaryrenegadestance" />, but if <Boon name="Alacrity" /> is dropping you will have to press it more regularly.
 - If you use the 3rd build (Double Renegade) always use <Skill id="45537"/> during a <Skill id="41858"/> rotation
 
 <Warning>
@@ -596,10 +600,19 @@ When you swap your legend first and then your weapon, you will be able to proc S
 <GridItem sm="6">
 <Card title="Precasting">
 
+
+1.  If you can get in combat prestack <Item id="24609"/>
+2.  <Skill name="ordersfromabove" />
+3.  Blast <Boon name="Might" /> with <Skill name="echoingeruption" /> or <Skill name="renewingwave" />
+4.  Take _Mistlock Singularity_
+5.  <Skill name="ordersfromabove" />
+6.  Blast <Boon name="Might" /> with <Skill name="echoingeruption" /> or <Skill name="renewingwave" />
+7.  Swap to <Skill name="legendaryassassinstance" /> and cast <Skill name="enchanteddaggers" />
+8.  Swap back to <Skill name="legendaryrenegadestance" />. 
 In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boon-stripping.
 
 1.  If you can get in combat prestack <Item id="24609"/>
-2.  Be in <Skill id="28134"/> and press <Skill id="26937"/>
+2.  Be in <Skill name="legendaryassassinstance" /> and cast <Skill id="26937"/>
 3.  <Skill id="45537"/>
 4.  _UI Swap_ to <Skill id="28494"/>
 5.  Take the _Mistlock Singularity_
