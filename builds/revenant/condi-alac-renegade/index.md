@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-07-31T17:15:03.572Z
+date: 2022-08-01T11:33:35.373Z
 ---
 
 <Warning>
@@ -506,7 +506,7 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
 
 <Skill id="28494"/> skills:
 
-- <Skill id="27505"/>: not extremely useful on [Sunqua Peak CM](/fractals/sunqua-peak) as most of groups run condition builds (which are less affected by <Boon name="Protection"/> than power builds), still a good skill to boonstrip quickly
+- <Skill id="27505"/>: Removes three boons from up to five unique enemies in a line and applies <Condition name="Chilled"/> on enemies hit. 
 - <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
 - <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
 
