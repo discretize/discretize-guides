@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-08-01T18:17:41.195Z
+date: 2022-08-01T18:33:11.663Z
 ---
 
 <Warning>
@@ -600,10 +600,19 @@ When you swap your legend first and then your weapon, you will be able to proc S
 <GridItem sm="6">
 <Card title="Precasting">
 
+
+1.  If you can get in combat prestack <Item id="24609"/>
+2.  <Skill name="ordersfromabove" />
+3.  Blast <Boon name="Might" /> with <Skill name="echoingeruption" /> or <Skill name="renewingwave" />
+4.  Take _Mistlock Singularity_
+5.  <Skill name="ordersfromabove" />
+6.  Blast <Boon name="Might" /> with <Skill name="echoingeruption" /> or <Skill name="renewingwave" />
+7.  Swap to <Skill name="legendaryassassinstance" /> and cast <Skill name="enchanteddaggers" />
+8.  Swap back to <Skill name="legendaryrenegadestance" />. 
 In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boon-stripping.
 
 1.  If you can get in combat prestack <Item id="24609"/>
-2.  Be in <Skill id="28134"/> and press <Skill id="26937"/>
+2.  Be in <Skill name="legendaryassassinstance" /> and cast <Skill id="26937"/>
 3.  <Skill id="45537"/>
 4.  _UI Swap_ to <Skill id="28494"/>
 5.  Take the _Mistlock Singularity_
