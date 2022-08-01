@@ -26,7 +26,7 @@ boons:
     uptime: ???
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2022-08-01T11:13:57.980Z
+date: 2022-08-01T12:02:47.766Z
 ---
 WIP DO NOT MAKE THIS PUBLIC 
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/>. 
@@ -262,6 +262,119 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 
 </Card>
 </GridItem>
+</Grid>
 
+<Divider text="Details"/>
+<Grid>
+<GridItem sm="12">
+<Card title="Abilities">
+**Facet/Consume Skills:**
+- <Skill name="facetofnature" />
+  - <Skill name="truenature" /> - (Dragon) 
+- <Skill name="facetofnature" />
+  - <Skill name="truenature" /> - (Assasin)
+- <Skill name="facetofnature" />
+  - <Skill name="truenature" /> - (Dwarf)
+- <Skill name="facetofnature" />
+  - <Skill name="truenature" /> - (Centaur)
+- <Skill name="facetofnature" />
+  - <Skill name="truenature" /> - (Demon)
 
+---
+
+**Sword Skills:**
+
+- <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
+- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
+- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
+- <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
+- <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
+
+**Staff Skills:**
+
+- <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
+- <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
+- <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
+- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
+- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
+
+---
+
+**Notable Traits:**
+
+- <Trait name="roilingmists" /> - 25% Critical-hit chance increase when under the effect of <Boon name="Fury" />
+- <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
+- <Trait name="sharedempowerment" /> When applying Boons to an ally you also apply <Boon name="Might" />. 
+- <Trait name="reinforcedpotency" /> - Gain Concentration and deal increased strike damage for each active Boon you have. 
+- <Trait name="draconicecho" /> - Consume Skills grant <Boon name="Quickness" /> and retain the facets passive effect for 6s.
+
+</Card>
+</GridItem>
+
+</Grid>
+
+<Grid>
+<GridItem sm="12">
+<Card title="Legends">
+
+**<Skill name="Legendary Dragon Stance"/>**
+
+- <Skill name="facetoflight" />
+  - <Skill name="infuselight" />
+- <Skill name="facetofdarkness" />
+  - <Skill name="gazeofdarkness" />
+- <Skill name="facetofelements" />
+  - <Skill name="elementalblast" />
+- <Skill name="facetofstrength" />
+  - <Skill name="burstofstrength" />
+- <Skill name="facetofchaos" />
+  - <Skill name="chaoticrelease" />
+
+---
+
+**<Skill name="Legendary Assassin Stance"/>**
+
+- <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
+- <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
+- <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
+- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
+- <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
+
+---
+
+**<Skill name="Legendary Dwarf Stance"/>**
+
+- <Skill name="Soothing Stone"/> - Powerful self-heal and condition cleanse.
+- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
+- <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
+- <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
+- <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
+
+---
+
+**<Skill name="Legendary Demon Stance"/>**
+
+- <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
+- <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
+- <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
+- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
+- <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
+
+---
+
+**<Skill name="Legendary Centaur Stance"/>**
+
+- <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
+- <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
+- <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
+- <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
+- <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
+- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
+
+</Card>
+</GridItem>
+
+<GridItem sm="12">
+
+</GridItem>
 </Grid>
