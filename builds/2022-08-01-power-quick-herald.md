@@ -26,7 +26,7 @@ boons:
     uptime: ???
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2022-08-01T12:02:47.766Z
+date: 2022-08-01T17:23:02.621Z
 ---
 WIP DO NOT MAKE THIS PUBLIC 
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/>. 
@@ -36,6 +36,293 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
+
+<Character title="24% BD - 162 AR" gear={{
+  "profession": "Revenant",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 22772,
+    "Armor": 2514,
+    "Power": 3880,
+    "Precision": 1961,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1256,
+    "Condition Damage": 500,
+    "Expertise": 0,
+    "Concentration": 363,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.242,
+    "Critical Chance": 1.0076190476190476,
+    "Critical Damage": 2.3373333333333335,
+    "Power Coefficient": 2971,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.15,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Maximum Health": 0.10000000000000009,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 26044.993075386294,
+    "Power DPS": 29795.79300229984,
+    "Power2 DPS": 0,
+    "Siphon DPS": 160.01375000000002,
+    "Bleeding Damage": 84.175,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 337.509375,
+    "Burning Stacks": 1.15,
+    "Burning DPS": 388.1357812499999,
+    "Confusion Damage": 105.704375,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 102.79062499999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 124.32,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 30343.942533549838,
+    "Effective Health": 113927976.119403,
+    "Survivability": 57919.662490799696,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Staff",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 84505
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "legends": {
+      "legend1": "legendaryassassinstance",
+      "legend2": "legendarydragonstance"
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+</Character>
+
+<Character title="45% BD - 162 AR" gear={{
+  "profession": "Revenant",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Assassin",
+    "Assassin"
+  ],
+  "attributes": {
+    "Health": 22772,
+    "Armor": 2514,
+    "Power": 3744,
+    "Precision": 1945,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1170,
+    "Condition Damage": 500,
+    "Expertise": 0,
+    "Concentration": 680,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.45333333333333337,
+    "Critical Chance": 1,
+    "Critical Damage": 2.2800000000000002,
+    "Power Coefficient": 2971,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.15,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Maximum Health": 0.10000000000000009,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 24515.60160004957,
+    "Power DPS": 28046.150309490673,
+    "Power2 DPS": 0,
+    "Siphon DPS": 160.01375000000002,
+    "Bleeding Damage": 84.175,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 337.509375,
+    "Burning Stacks": 1.15,
+    "Burning DPS": 388.1357812499999,
+    "Confusion Damage": 105.704375,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 102.79062499999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 124.32,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 28594.29984074067,
+    "Effective Health": 113927976.119403,
+    "Survivability": 57919.662490799696,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Staff",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 84505
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "legends": {
+      "legend1": "legendaryassassinstance",
+      "legend2": "legendarydragonstance"
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+</Character>
+
 
 <Character title="30% BD - 222 AR" gear={{
   "profession": "Revenant",
@@ -59,7 +346,7 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
   "attributes": {
     "Health": 23762,
     "Armor": 2604,
-    "Power": 3746,
+    "Power": 3880,
     "Precision": 1961,
     "Toughness": 1333,
     "Vitality": 1568,
@@ -141,7 +428,7 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 9443,
+    "utilityId": 77569,
     "infusion": "Mighty +9 Agony Infusion"
   },
   "legends": {
@@ -179,7 +466,155 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
 }}>
 
 </Character>
+
+<Character title="45% BD - 222 AR" gear={{
+  "profession": "Revenant",
+  "weight": "Heavy",
+  "gear": [
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 23762,
+    "Armor": 2604,
+    "Power": 3790,
+    "Precision": 1944,
+    "Toughness": 1333,
+    "Vitality": 1568,
+    "Ferocity": 1195,
+    "Condition Damage": 500,
+    "Expertise": 0,
+    "Concentration": 678,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.452,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.296666666666667,
+    "Power Coefficient": 2971,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.15,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Maximum Health": 0.10000000000000009,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 24991.49687365345,
+    "Power DPS": 28590.580366432194,
+    "Power2 DPS": 0,
+    "Siphon DPS": 160.01375000000002,
+    "Bleeding Damage": 84.175,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 337.509375,
+    "Burning Stacks": 1.15,
+    "Burning DPS": 388.1357812499999,
+    "Confusion Damage": 105.704375,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 102.79062499999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 124.32,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 29138.72989768219,
+    "Effective Health": 123136811.94029853,
+    "Survivability": 62601.3278801721,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Staff",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 84505
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "legends": {
+      "legend1": "legendaryassassinstance",
+      "legend2": "legendarydragonstance"
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+</Character>
+
+
+
 </CharacterWithAr>
+
+
 
 <Divider text="Build"/>
 <Grid>
