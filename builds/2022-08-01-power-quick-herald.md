@@ -26,7 +26,7 @@ boons:
     uptime: ???
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2022-08-01T17:23:02.621Z
+date: 2022-08-01T17:39:08.174Z
 ---
 WIP DO NOT MAKE THIS PUBLIC 
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/>. 
@@ -754,16 +754,16 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 
 **<Skill name="Legendary Dragon Stance"/>**
 
-- <Skill name="facetoflight" />
-  - <Skill name="infuselight" />
-- <Skill name="facetofdarkness" />
-  - <Skill name="gazeofdarkness" />
-- <Skill name="facetofelements" />
-  - <Skill name="elementalblast" />
-- <Skill name="facetofstrength" />
-  - <Skill name="burstofstrength" />
-- <Skill name="facetofchaos" />
-  - <Skill name="chaoticrelease" />
+- <Skill name="facetoflight" /> - Pulse <Boon name="Regeneration" /> every few seconds.
+  - <Skill name="infuselight" /> - Covert incoming damage to heal for a few seconds.
+- <Skill name="facetofdarkness" /> - Pulse <Boon name="Fury" /> every few seconds.
+  - <Skill name="gazeofdarkness"/> - Apply <Condition name="Blinded" /> and <Effect name="Revealed" /> to nearby enemies. 
+- <Skill name="facetofelements" /> - Pulse <Boon name="Swiftness" /> every few seconds.
+  - <Skill name="elementalblast" /> - Deal Damage in an Area and apply <Condition name="Burning" />, <Condition name="Chilled" /> and <Condition name="Weakness" />.
+- <Skill name="facetofstrength" /> - Pulse <Boon name="Might" /> every few seconds.
+  - <Skill name="burstofstrength" /> - Gain a 25% Damage Boost for 5s.
+- <Skill name="facetofchaos" /> - Pulse <Boon name="Protection" /> every few seconds. 
+  - <Skill name="chaoticrelease" /> - Knock enemies back and grant <Effect name="Superspeed" /> to allies. 
 
 ---
 
