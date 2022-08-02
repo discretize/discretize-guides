@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: 2022-08-01T17:57:39.125Z
+date: 2022-05-01T17:57:39.125Z
 image: ./images/preview.png
 description: Everything around compositions in fractals
 ---
@@ -133,6 +133,24 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 </Tab>
 </Tabs>
 
+<Card title="Hybrid Comp Overview">
+<Warning>
+This table shows the common swaps for builds, traits and notable skills for the <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/> comp we use in fractal CMs. The CC distributions for each boss we use can be found [Here](/guides/cc-distribution). While this setup works for us, we would advise you to play around and find a setup that works for your party.
+</Warning>
+
+
+| | <Specialization name="Renegade"/> | <Specialization name="Firebrand" text="Quickshare Firebrand 1"/> | <Specialization name="Firebrand" text="Quickshare Firebrand 2"/> | <Specialization name="Specter"/> | <Specialization name="Soulbeast"/> |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| **Skorvald** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Mantra of Liberation"/>, <Skill name="Sword of Justice"/> | <Skill name="Mantra of Liberation"/>, <Skill name="Sword of Justice"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/>, <Skill id="43636" text="Rock Gazelle"/> |
+| **Artsariv** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> or <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Hammer of Wisdom"/>, <Skill name="Tome of Justice"/> for <Boon name="Aegis"/> (P2), <Skill name="Mantra of Liberation"/>  | <Skill name="Hammer of Wisdom"/>, <Skill name="Tome of Justice"/> for <Boon name="Aegis"/> (P3), <Skill name="Mantra of Liberation"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Item id="72239" text="Pistol"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/> (<Trait name="Oppressive Superiority"/> if you have to reflect), <Skill id="43636" text="Rock Gazelle"/>  |
+| **Arkk** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Sword of Justice"/> | <Skill name="Sword of Justice"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/>, <Skill id="44617" text="Red Moa"/> |
+| **MAMA** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Hammer of Wisdom"/> | <Skill name="Sword of Justice"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Item id="72239" text="Pistol"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/> <Skill id="43636" text="Rock Gazelle"/> |
+| **Siax** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="sanctuary"/> | <Skill name="sanctuary"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/>, <Skill id="43636" text="Rock Gazelle"/> |
+| **Ensolyss** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>, <Boon name="Alacrity"/> share | <Skill name="Mantra of Flame"/> | <Skill name="Mantra of Flame"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Boon name="Alacrity"/> share | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, <Skill id="41206" text="Bristleback"/> |
+| **Light AI** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>. <Boon name="Alacrity"/> share | <Skill name="sanctuary"/> | <Skill name="sanctuary"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Boon name="Alacrity"/> share | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> or <Specialization name="Soulbeast" text="Hybrid Soulbeast"/> <Skill id="41206" text="Bristleback"/> |
+| **Dark AI** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>, <Boon name="Alacrity"/> share | <Skill name="sanctuary"/> | <Skill name="sanctuary"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Boon name="Alacrity"/> share | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> or <Specialization name="Soulbeast" text="Hybrid Soulbeast"/>, <Skill id="41206" text="Bristleback"/> |
+
+</Card>
 
 <Card title="Daily Comps Comparison">
 <Warning>
