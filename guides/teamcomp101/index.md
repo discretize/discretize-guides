@@ -59,6 +59,30 @@ Another difference is that PuGs often claim, that CC is solely the job of the <S
 
 Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization name="Scourge"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please don't be afraid to run more supportive skills such as <Skill name="Sanctuary"/> or <Skill name="Spectral Grasp"/>! It is more worth it than the +500 DPS you gain from having a minor dps utility instead.
 
+<Card title="Trouble finding groups?">
+
+<Grid>
+<GridItem sm="1" md="1">
+
+<MDImage src="images/LS-Logo.jpg" caption="[LS]"/>
+
+</GridItem>
+
+<GridItem sm="11" md="11">
+
+Low Standards \[LS] is a community discord server, that is operating as a second, more restricted LFG for high-end daily runs.
+
+Thanks to different pingable roles and class-emojis, members are able to organize their run without the commitment of a static or any need of LFG waiting times.
+
+In order to guarantee a high level of play, everyone needs to be capable of executing advanced strategies inside of a no-heal environment with at least one of the meta-classes.
+For evaluation, we are going to ask new applicants for arcdps logs as a requirement.
+
+All information is available on their [discord](https://dsc.gg/low-standards).
+
+</GridItem>
+</Grid>
+</Card>
+
 ## What are strong comps for organised groups?
 
 <Warning>
