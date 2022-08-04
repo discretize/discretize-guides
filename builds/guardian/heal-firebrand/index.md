@@ -38,7 +38,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2022-04-29T11:55:35.374Z
+date: 2022-08-03T11:55:35.374Z
 ---
 
 <Warning>
@@ -51,78 +51,86 @@ The <Specialization name="Firebrand" text="Heal Firebrand" /> provides a good am
 
 It offers a decent amount of healing through symbols, dodges, <Skill name="Mantra of Solace"/>, <Boon name="Regeneration"/>, <Skill name="Bow of Truth"/>, etc.
 
-This build can provide good offensive support by sharing the 216 <Attribute name="Power"/> from <Skill name="Bane Signet"/> or 216 <Attribute name="Condition Damage"/> from <Skill name="Signet of Wrath"/> through <Trait name="Perfect Inscriptions"/> when running the Radiance trait line.
-
 The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
 <Character title="Heal Firebrand" gear={{
-    "profession": "Guardian",
-    "weight": "Heavy",
-    "gear": [
-      "Harrier",
-      "Harrier",
-      "Harrier",
-      "Harrier",
-      "Harrier",
-      "Harrier",
-      "Harrier",
-      "Cleric",
-      "Harrier",
-      "Cleric",
-      "Cleric",
-      "Cleric",
-      "Harrier",
-      "Harrier"
-    ],
-    "attributes": {
-      "Health": 14145,
-      "Armor": 2787,
-      "Power": 2995,
-      "Precision": 1243,
-      "Toughness": 1516,
-      "Vitality": 1250,
-      "Ferocity": 150,
-      "Condition Damage": 1162,
-      "Expertise": 0,
-      "Concentration": 1121,
-      "Healing Power": 1712,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.9973333333333333,
-      "Critical Chance": 0.3657142857142857,
-      "Critical Damage": 1.6,
-      "Outgoing Healing": 0.8133600000000001,
-      "Resolution Duration": 0.25,
-      "Effective Power": 5670.022757142858,
-      "Power DPS": 0,
-      "Bleeding Damage": 131.8475,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Burning Damage": 447.22062500000004,
-      "Burning Stacks": 0,
-      "Burning DPS": 0,
-      "Confusion Damage": 159.530875,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 148.37875,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 196.04625,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 0,
-      "Effective Health": 78451970.14925374,
-      "Survivability": 39884.07226703291,
-      "Effective Healing": 1638.5520960000001,
-      "Healing": 1638.5520960000001
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Harrier",
+    "Harrier",
+    "Harrier",
+    "Harrier",
+    "Harrier",
+    "Harrier",
+    "Minstrel",
+    "Harrier",
+    "Harrier",
+    "Minstrel",
+    "Minstrel",
+    "Minstrel",
+    "Harrier",
+    "Harrier"
+  ],
+  "attributes": {
+    "Health": 20705,
+    "Armor": 2865,
+    "Power": 2691,
+    "Precision": 1000,
+    "Toughness": 1594,
+    "Vitality": 1906,
+    "Ferocity": 0,
+    "Condition Damage": 1219,
+    "Expertise": 0,
+    "Concentration": 1276,
+    "Healing Power": 1649,
+    "Agony Resistance": 150,
+    "Condition Duration": 0,
+    "Boon Duration": 1.0006666666666666,
+    "Critical Chance": 0.3,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 0,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Resolution Duration": 0.25,
+    "Outgoing Healing": 0.82342,
+    "Effective Power": 4804.444124999999,
+    "Power DPS": 0,
+    "Power2 DPS": 0,
+    "Siphon DPS": 0,
+    "Bleeding Damage": 136.76375,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 459.9209375,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 165.18456250000003,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 153.295,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 203.42062499999997,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 0,
+    "Effective Health": 118049402.98507464,
+    "Survivability": 60014.948136794424,
+    "Effective Healing": 1613.1796740000002,
+    "Healing": 1613.1796740000002
     },
     "runeId": 24842,
     "runeName": "Monk",
     "infusions": [
-      37125, 37125, 37125, 37125, 37125, 37125, 37125,
+      37123, 37123, 37123, 37123, 37123, 37123, 37125,
       37125, 37125, 37125, 37125, 37125, 37125, 37125,
       37125, 37125, 37125, 37125
     ],
@@ -130,10 +138,10 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
       "weapon1MainType": "Axe",
       "weapon1MainSigil1": "transference",
       "weapon1OffType": "Shield",
-      "weapon1OffSigil": "concentration",
+      "weapon1OffSigil": "Renewal",
       "weapon2MainType": "Staff",
       "weapon2MainSigil1": "transference",
-      "weapon2MainSigil2": "concentration"
+      "weapon2MainSigil2": "Renewal"
     },
     "consumables": {
       "foodId": 91690,
@@ -146,7 +154,34 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
       "utility3": "Sanctuary",
       "elite": "Feel My Wrath"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -166,23 +201,12 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 <Divider text="Situational Traits and Skills"/>
 
-<Card title="Radiance">
-<Traits unembossed traits1="Radiance" traits1Selected="Healers Resolution, Wrath of justice, Perfect Inscriptions" />
-
-If you can afford to give up some healing for extra group DPS, you can swap out Virtues
-for Radiance. Your 3rd utility will then be either <Skill name="Bane Signet" /> or <Skill name="Signet of Wrath"/> to share the passive through <Trait name="Perfect Inscriptions"/> . In Condition-based groups you can also take advantage of the extra shared 216 <Attribute name="Condition Damage" /> from triggering <Trait name="Wrath of Justice" />.
-The advantage of this trait line is the increased group DPS. It gives up some passive healing from Virtues, the lower cooldown on Tomes, and the 3rd open utility slot to achieve this.
-
-</Card>
-  
 <Grid>
 <GridItem sm="6">
 <Card title="Common Utility Skills">
 
 |                                                           |                                                                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Bane Signet" size="big" disableText/>        | Can be run with Radiance in Power-based groups to share 216 <Attribute name="Power"/> through <Trait name="Perfect Inscriptions"/>. Provides good instant CC.                                 |
-| <Skill name="Signet of Wrath" size="big" disableText/>    | Can be run with Radiance in Condition-based groups to share 216 <Attribute name="Condition Damage"/> through <Trait name="Perfect Inscriptions"/>.                                            |
 | <Skill name="Sanctuary" size="big" disableText/>          | Strong CC over time for mostly stationary enemies with a defiance bar.                                                                                                                        |
 | <Skill name="Bow of Truth" size="big" disableText/>       | A strong AoE heal for 5 seconds.                                                                                                                                                              |
 | <Skill name="Mantra of Lore" size="big" disableText/>     | A strong condition cleanse to counterplay <Instability name="Afflicted"/>. Also offers extra passive healing through <Boon name="Regeneration"/>.                                             |
