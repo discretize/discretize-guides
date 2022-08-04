@@ -47,7 +47,7 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 </GridItem>
 
 <GridItem>
-<GifPlayer caption="" url="https://cdn.discordapp.com/attachments/725436950831562793/909040759775297607/clown_pepe.mp4"/>
+<MDImage src="https://cdn.discordapp.com/attachments/962370365089271822/1004821906437963887/chadbrand-1.png" caption=""/>
 </GridItem>
 </Grid>
 
@@ -184,6 +184,9 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 | <Skill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s |
 
 </Card>
+<GridItem>
+<MDImage src="https://cdn.discordapp.com/attachments/962370365089271822/1004821905401987082/received_444206874051809.webp" caption=""/>
+</GridItem>
 </GridItem>
 </Grid>
 
