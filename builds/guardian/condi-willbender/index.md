@@ -23,7 +23,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-05-03T11:46:38.248Z
+date: 2022-08-03T11:46:38.248Z
 ---
 The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC, and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
 
@@ -52,8 +52,9 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 
 <Divider text="Equipment"/>
 
+<Beginner>
 <CharacterWithAr> 
-<Character title="162 Agony Resistance" gear={{
+<Character title="Condi Willbender" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
@@ -73,52 +74,56 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "Viper"
   ],
   "attributes": {
-    "Health": 14460,
+    "Health": 18068,
     "Armor": 2514,
     "Power": 2909,
-    "Precision": 2085,
+    "Precision": 1842,
     "Toughness": 1243,
-    "Vitality": 1150,
-    "Ferocity": 300,
-    "Condition Damage": 2947,
+    "Vitality": 1478,
+    "Ferocity": 150,
+    "Condition Damage": 2868,
     "Expertise": 451,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0.30066666666666664,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.8666666666666666,
-    "Critical Damage": 1.7,
-    "Power Coefficient": 2715,
-    "Burning Coefficient": 14.65,
-    "Bleeding Coefficient": 1.14,
+    "Critical Chance": 0.800952380952381,
+    "Critical Damage": 1.6,
+    "Power Coefficient": 2742.6,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 14.219999999999999,
+    "Bleeding Coefficient": 1.2,
     "Poison Coefficient": 0,
-    "Torment Coefficient": 1.33,
+    "Torment Coefficient": 1.18,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Burning Duration": 0.7,
-    "Maximum Health": 0.10000000000000009,
     "Resolution Duration": 0.25,
-    "Effective Power": 10976.97384612,
-    "Power DPS": 11475.735075939852,
-    "Bleeding Damage": 603.91575,
-    "Bleeding Stacks": 1.4827599999999999,
-    "Bleeding DPS": 895.46211747,
-    "Burning Damage": 2053.206478125,
-    "Burning Stacks": 29.3,
-    "Burning DPS": 60158.949809062506,
-    "Confusion Damage": 711.2093625,
+    "Maximum Health": 0.10000000000000009,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 7965.763737428574,
+    "Power DPS": 8412.361812195459,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 327.51,
+    "Bleeding Stacks": 1.5608,
+    "Bleeding DPS": 511.17760799999996,
+    "Burning Damage": 1068.346125,
+    "Burning Stacks": 28.439999999999998,
+    "Burning DPS": 30383.763795,
+    "Confusion Damage": 385.91775,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 638.847,
+    "Poison Damage": 346.91625,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 902.2286250000001,
-    "Torment Stacks": 1.7298866666666668,
-    "Torment DPS": 1560.7532686725003,
-    "Damage": 74090.90027114486,
-    "Effective Health": 72343164.17910449,
-    "Survivability": 36778.426120541175,
+    "Torment Damage": 489.24,
+    "Torment Stacks": 1.5347866666666665,
+    "Torment DPS": 750.8790287999999,
+    "Damage": 40197.932243995456,
+    "Effective Health": 90393934.32835822,
+    "Survivability": 45955.22843332904,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -154,6 +159,133 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     },
   "consumables": {
       "foodId": 91878,
+      "utility": "toxic-focusing-crystal"
+  },
+  "skills": {
+    "healId": 62622,
+    "utility1Id": 62565,
+    "utility2Id": 9187,
+    "eliteId": 62561
+  },
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 9151, "type": "Skill"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
+}} 
+>
+
+The 3rd utility skill slot is flexible. Look at the Situational Skills below for common options.
+
+This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
+
+</Character> 
+</CharacterWithAr>
+</Beginner>
+
+<Advanced>
+<CharacterWithAr> 
+<Character title="Condi Willbender" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Sinister",
+    "Sinister",
+    "Sinister",
+    "Viper",
+    "Viper"
+  ],
+  "attributes": {
+    "Health": 18068,
+    "Armor": 2514,
+    "Power": 2909,
+    "Precision": 1842,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 150,
+    "Condition Damage": 2958,
+    "Expertise": 451,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.30066666666666664,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.800952380952381,
+    "Critical Damage": 1.6,
+    "Power Coefficient": 2742.6,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 14.219999999999999,
+    "Bleeding Coefficient": 1.2,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 1.18,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.7,
+    "Resolution Duration": 0.25,
+    "Maximum Health": 0.10000000000000009,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 7965.763737428574,
+    "Power DPS": 8412.361812195459,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 336.6225,
+    "Bleeding Stacks": 1.5608,
+    "Bleeding DPS": 525.400398,
+    "Burning Damage": 1094.2408125000002,
+    "Burning Stacks": 28.439999999999998,
+    "Burning DPS": 31120.2087075,
+    "Confusion Damage": 396.3971250000001,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 356.02875,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 502.90874999999994,
+    "Torment Stacks": 1.5347866666666665,
+    "Torment DPS": 771.8576440499999,
+    "Damage": 40969.57856174546,
+    "Effective Health": 90393934.32835822,
+    "Survivability": 45955.22843332904,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24765,
+  "runeName": "Balthazar",
+  "infusions": [
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
+  ],
+    "weapons": {
+      "weapon1MainType": "Sword",
+      "weapon1MainSigil1Id": 48911,
+      "weapon1OffType": "Torch",
+      "weapon1OffSigilId": 44944,
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil1Id": 24605
+    },
+  "consumables": {
+      "foodId": 91878,
       "utility": "toxic-focusing-crystal",
       "infusion": "Malign +9 Agony Infusion"
   },
@@ -177,6 +309,7 @@ This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condi
 
 </Character> 
 </CharacterWithAr>
+</Advanced>
 
 <Divider text="Build"/>
 
