@@ -1,61 +1,49 @@
 ---
 title: Crit Cap
-date: 2022-03-08T23:55:00.885Z
+date: 2022-08-02T23:55:00.885Z
 image: ./images/crit.png
 description: Learn how to achieve crit cap on various Guild Wars 2 professions.
 ---
 
 ## Reasoning
 
-Achieving 100% Critical Chance is desirable for most power-based Guild Wars 2 builds. As your Critical Damage will be much higher due to large amounts of Ferocity, the value of Critical Chance (and therefore Precision) exceeds other attributes like Power.
+Achieving <Attribute name="Critical Chance" text="100% Critical Chance"/> is desirable for most **power-based** Guild Wars 2 builds. As your Critical Damage will be much higher due to large amounts of <Attribute name="Ferocity"/>, the value of <Attribute name="Critical Chance"/> (and therefore <Attribute name="Precision"/>) exceeds other attributes like Power.
 
-At level 80, the conversion formula to calculate Critical Chance from Precision is:
+At level 80, the conversion formula to calculate <Attribute name="Critical Chance"/> from <Attribute name="Precision"/> is:
 
 > `Critical Chance = (Precision - 895) / 21`
 
-From the above equation, it follows that **2995 Precision** is enough to reach 100% Critical Chance.
+From the above equation, it follows that **<Attribute name="Precision" text="2995 Precision"/>** is enough to reach <Attribute name="Critical Chance" text="100% Critical Chance"/>.
 
 You can subtract the following values in general:
 
-- **1000 base Precision** at level 80
+- **<Attribute name="Precision" text="1000 base Precision"/>** at level 80
+- <Attribute name="Critical Chance" text="25% Critical Chance"/> from **<Boon name="Fury"/>** ( **<Attribute name="Precision" text="525 Precision"/>**)
 
-- 20% Critical Chance from **<Boon name="Fury"/>** (= **420 Precision**)
-
-- In groups with a <Specialization name="Berserker"/>: **100 Precision** from **<Skill name="Banner of Discipline"/>**
-
-- In groups with a <Specialization name="Druid"/> or <Specialization name="Soulbeast"/>: **100 Precision** from **<Trait name="Spotter"/>**
-
-Which brings it down to **1475 Precision** or **1375 Precision** required (with <Trait name="Spotter"/>).
-
-Apart from that, the <Item id="79722"/> grants Precision, Concentration and Toughness as high as `1.5 * Agony Resistance`.  
-So **with 150 Agony Resistance you'd receive 225 additional Precision**.
-
-Now we only need **1250 Precision** (without <Trait name="Spotter"/>) or **1150 Precision** (with <Trait name="Spotter"/>) to achieve 100% Critical Chance (`2995 - 1000 - 420 - 100 - 225` and `-100`)!  
-We have two options to accomplish that - via items or skills/traits.
+Which brings it down to **<Attribute name="Precision" text="1470 Precision"/>**, without any traits, gear, upgrades or consumables.
 
 ---
 
-### Items
+### Gear
 
-The most obvious choice would be <Item name="Accuracy" type="Sigil"/>, but in Fractals we want to take <Item name="Impact" type="Sigil"/> (and <Item name="Force" type="Sigil"/>) to benefit from frequently broken defiance bars.  
-Which leaves us with item affixes and runes as other sources of Precision.
+Runes and Sigils are our next step to consider increasing <Attribute name="Precision"/> The most obvious choice would be <Item name="Accuracy" type="Sigil"/>, but in Fractals we want to take <Item name="Impact" type="Sigil"/> (and <Item name="Force" type="Sigil"/>) to benefit from frequently broken defiance bars. Which leaves us with item affixes and runes as other sources of <Attribute name="Precision"/>.
 
-A full ascended set of **Berserker** items is equal to **961 Precision** (dual wield) or **960 Precision** (two-handed).  
-So you'll only need a few more points of Precision to reach 100% Critical Chance:
+A full ascended set of **Berserker** items is equal to **<Attribute name="Precision" text="961 Precision"/>** (dual wield) or **<Attribute name="Precision" text="960 Precision"/>** (two-handed).  
+So you'll <Attribute name="Precision" text="509 Precision"/> (dual wield) or <Attribute name="Precision" text="510 Precision"/> (two-handed) to reach <Attribute name="Critical Chance" text="100% Critical Chance"/>. The next source of <Attribute name="Precision"/> we should consider our our runes:
 
-| Agony Resistance                                                                                                                         | Without <Trait name="Spotter"/> + Dual Wield | Without <Trait name="Spotter"/> + Two-handed | With <Trait name="Spotter"/> + Dual Wield | With <Trait name="Spotter"/> + Two-handed |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| 150 (Standard)                                                                                                                           | 289                                          | 290                                          | 189                                       | 190                                       |
-| 162 (18x <Item id="37131" disableText/>, no [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                      | 271                                          | 272                                          | 171                                       | 172                                       |
-| 207 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation))                     | 203                                          | 204                                          | 103                                       | 104                                       |
-| 222 (18x <Item id="37131" disableText/>, all [Augmentations](https://wiki.guildwars2.com/wiki/Account_Augmentation), <Item id="70596"/>) | 181                                          | 182                                          | 81                                        | 82                                        |
+| Common Power Rune Choices | <Attribute name="Precision" text="Precision Required Dual Wield"/>  | <Attribute name="Precision"text="Precision Required Two-Handed"/> |
+| ----------------- | ---- | ----|
+| <Item id="24836"/> | 509 | 510 |
+| <Item id="24818"/> | 209 | 210 |
+| <Item id="24723"/> | 334 | 335 |                        
 
-In general, you want to stack as much Agony Resistance as possible to benefit from the Precision conversion if you're not crit capped with profession-specific traits. <Item id="37131"/> is usually the way to go as better regular infusions (e.g. <Item id="49439"/>) are very expensive.  
-After that, you need to swap Berserker items (Major: Power; Minor: Precision, Ferocity) for Assassins (Major: Precision; Minor: Power, Ferocity) to gain more Precision.
+If your chosen Rune doesn't have you reaching <Attribute name="Critical Chance" text="100% Critical Chance"/>, thye next step is to swap Berserker's items (Major: <Attribute name="Power"/>; Minor: <Attribute name="Precision"/>, <Attribute name="Ferocity"/>) for Assassin's (Major: <Attribute name="Precision"/>; Minor: <Attribute name="Power"/>, <Attribute name="Ferocity"/>) to gain more Precision. Additionally some condition builds such as <Buildlink build="Condi Virtuoso" specialization="Virtuoso"/> benefit from incresed <Attribute name="Precision"/>. In this case Viper's items (Major: <Attribute name="Condition Damage"/>, <Attribute name="Power"/>; Minor: <Attribute name="Expertise"/>, <Attribute name="Precision"/>) are swapped for Sinister (Major: <Attribute name="Condition Damage"/>; Minor: <Attribute name="Power"/>, <Attribute name="Precision"/>) and Rampager;s (Major: <Attribute name="Precision"/>; Minor: <Attribute name="Power"/>, <Attribute name="Condition Damage"/>) items. 
 
-Keep in mind that you can also take <Item id="37132"/> but normally it is easier to calculate with a full set of Power infusions.
+Our final gear choice we can make to increase <Attribute name="Precision"/> is to use Consumables and Infusions. Most pwer builds use <Item id="91805"/> for food. However <Item id="91709"/> can be a good choice if you miss a small amount of <Attribute name="Precision"/> to crit cap. Also availible to use is <Item id="12486"/> can be used but we would recmomend taking an extra Assassin's items if possible to be able to benefit from Acsended Feasts. 
 
-Use our [Gear Optimizer](https://optimizer.discretize.eu/) to calculate the optimal distribution of Assassin's items.
+Keep in mind that you can also take <Item id="39621"/> (Or its +7 and +9 counterparts), but normally it is easier to calculate with a full set of Power infusions.
+
+Use our [Gear Optimizer](https://optimizer.discretize.eu/) to calculate the optimal setup of Runes, Sigils, Stats and Consumables.
 
 ---
 
@@ -100,6 +88,8 @@ Below are some popular trait choices to push Critical Chance.
 | <Specialization name="Revenant"/>     | Invocation       | <Trait name="Roiling Mists"/>       | <Boon name="Fury"/> has increased effectiveness             | 20%             | 420        |
 | <Specialization name="Revenant"/>     | Renegade         | <Trait name="Brutal Momentum"/>     | Player must have full endurance                             | 33%             | 693        |
 | <Specialization name="Mesmer"/>     | Virtuoso         | <Trait name="Quiet Intensity"/>     | Player must have <Boon name="Fury"/>                               | 10%             | 210        |
+| <Specialization name="Warrior"/>     | Strength         | <Trait name="Pinnacle of Strength"/>     | -                               | 5%             | 105        |
+| <Specialization name="Warrior"/>     | Arms         | <Trait name="Furious Burst"/>     | Player must have <Boon name="Fury"/>                               | 5%             | 105        |
 
 ---
 
@@ -107,8 +97,8 @@ Below are some popular trait choices to push Critical Chance.
 
 | Profession                            | Specialization | Trait                                 | Note                                                                  | Precision |
 | ------------------------------------- | -------------- | ------------------------------------- | --------------------------------------------------------------------- | --------- |
-| <Specialization name="Warrior"/>      | Discipline     | <Trait name="Doubled Standards"/>     | <Skill name="Banner of Discipline"/> (this only applies to yourself!) | 50        |
+| <Specialization name="Soulbeast"/>      | Beastmastery     | <Trait name="Pack Alpha"/>     | This will only apply to yourself if you are in <Skill name="Beastmode"/> | 150        |
 | <Specialization name="Thief"/>        | Deadeye        | <Trait name="Be Quick or Be Killed"/> | Target must be marked                                                 | 200       |
 | <Specialization name="Elementalist"/> | Weaver         | <Trait name="Elements of Rage"/>      | Converts 13% of your Vitality to Precision                            |           |
 
-_Note: Conversion traits only take flat modifiers from items, runes, food and infusions into consideration. Things like boons (e.g. <Boon name="Might"/>), traits (e.g. other conversions), skills (e.g. <Skill name="Signet of Fury"/>), group buffs (e.g. <Skill name="Banner of Strength"/>) or the <Item id="79722"/> are not included._
+_Note: Conversion traits only take flat modifiers from items, runes, food and infusions into consideration. Things like boons (e.g. <Boon name="Might"/>), traits (e.g. other conversions), skills (e.g. <Skill name="Signet of Fury"/>) or the <Item id="79722"/> are not included._
