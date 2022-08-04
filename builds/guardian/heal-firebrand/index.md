@@ -130,7 +130,7 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
     "runeId": 24842,
     "runeName": "Monk",
     "infusions": [
-      37125, 37125, 37125, 37125, 37125, 37125, 37125,
+      37123, 37123, 37123, 37123, 37123, 37123, 37125,
       37125, 37125, 37125, 37125, 37125, 37125, 37125,
       37125, 37125, 37125, 37125
     ],
