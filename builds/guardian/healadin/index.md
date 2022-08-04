@@ -47,7 +47,7 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 </GridItem>
 
 <GridItem>
-<MDImage src="https://cdn.discordapp.com/attachments/962370365089271822/1004821906437963887/chadbrand-1.png" caption=""/>
+<MDImage src="images/chadbrand.png" caption=""/>
 </GridItem>
 </Grid>
 
@@ -185,7 +185,7 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 
 </Card>
 <GridItem>
-<MDImage src="https://cdn.discordapp.com/attachments/962370365089271822/1004821905401987082/received_444206874051809.webp" caption=""/>
+<MDImage src="images/healingismypassion.png" caption=""/>
 </GridItem>
 </GridItem>
 </Grid>
