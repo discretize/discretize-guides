@@ -18,6 +18,10 @@ These guides provide an in depth description on how to deal damage in CMs. Our g
 </GridItem>
 </Grid>
 
+<Warning>
+These guides have not been updated for multiple patches. The information you find here might be outdated, irrelevant or reffering to build variations that are no longer used. However plenty of the information here is usable or can be adapted to current patch, making them worth keeping.
+</Warning>
+
 ## Pick up Group Guides
 
 This guides are meant to be applied to slower groups (what you commonly find in LFG).
