@@ -52,46 +52,57 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "Viper"
     ],
     "attributes": {
-      "Health": 11645,
-      "Armor": 2210,
-      "Power": 3272.6,
-      "Precision": 2186,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 184.8,
-      "Condition Damage": 2692,
-      "Expertise": 748,
-      "Concentration": 243,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0.7986666666666666,
-      "Boon Duration": 0.162,
-      "Critical Chance": 0.9147619047619048,
-      "Critical Damage": 1.6232,
-      "Burning Duration": 0.2,
-      "Bleeding Duration": 0.2,
-      "Effective Power": 9298.886304280046,
-      "Power DPS": 9767.948339651894,
-      "Bleeding Damage": 295.926,
-      "Bleeding Stacks": 32.578266666666664,
-      "Bleeding DPS": 9640.756141599999,
-      "Burning Damage": 884.06925,
-      "Burning Stacks": 25.782799999999998,
-      "Burning DPS": 22793.7806589,
-      "Confusion Damage": 349.18365000000006,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 314.46975,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 441.954,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 42202.48514015189,
-      "Effective Health": 56905362.07849641,
-      "Survivability": 28930.02647610392,
-      "Effective Healing": 390,
-      "Healing": 390
+    "Health": 16425,
+    "Armor": 2210,
+    "Power": 3272.6,
+    "Precision": 1974,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 34.8,
+    "Condition Damage": 2692,
+    "Expertise": 748,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.7986666666666666,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.8638095238095238,
+    "Critical Damage": 1.5232,
+    "Power Coefficient": 2745.2625,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 11.78,
+    "Bleeding Coefficient": 19.9,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Burning Duration": 0.2,
+    "Bleeding Duration": 0.2,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 8506.615766299201,
+    "Power DPS": 8992.257707019622,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 320.05888,
+    "Bleeding Stacks": 39.773466666666664,
+    "Bleeding DPS": 12729.851195050665,
+    "Burning Damage": 956.16544,
+    "Burning Stacks": 23.544293333333332,
+    "Burning DPS": 22512.239594555733,
+    "Confusion Damage": 377.659712,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 340.11487999999997,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 477.99552,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 44374.09849662602,
+    "Effective Health": 80263681.59203981,
+    "Survivability": 40805.125364534724,
+    "Effective Healing": 390,
+    "Healing": 390
     },
     "runeId": 24800,
     "runeName": "Elementalist",
@@ -118,7 +129,34 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
       "utility3": "Signet of Fire",
       "elite": "Weave Self"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 5542, "type": "Skill"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance. This build requires 15x <Item name="malignagonyinfusion"/> and 3x <Item name="spitefulagonyinfusion"/>.
