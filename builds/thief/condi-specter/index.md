@@ -1,5 +1,5 @@
 ---
-title: Condi Specter
+title: Condi (Alac) Specter
 hidden: false
 archive: false
 hasBeginner: true

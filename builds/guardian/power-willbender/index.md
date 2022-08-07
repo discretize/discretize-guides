@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2022-05-06T07:54:13.032Z
+date: 2022-08-05T07:54:13.032Z
 ---
 
 The <Specialization name="Willbender" text="Power Willbender"/> is an easy to play build for fractals. It has many similarities with the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. It has great burst options and deals high consistent damage while providing medium defiance bar damage and <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
@@ -50,34 +50,35 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 
 <Divider text="Equipment"/>
 
+<Beginner>
 <CharacterWithAr>  
-<Character title="162 AR (No Banner)" gear={{
+<Character title="162 AR Perfect Inscriptions" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
     "Berserker",
     "Assassin",
     "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
     "Berserker",
     "Assassin",
     "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
+    "Assassin",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
-    "Health": 11645,
+    "Health": 16425,
     "Armor": 2514,
-    "Power": 3988,
-    "Precision": 2364,
+    "Power": 3847,
+    "Precision": 2260,
     "Toughness": 1243,
-    "Vitality": 1000,
-    "Ferocity": 1556,
+    "Vitality": 1478,
+    "Ferocity": 1406,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
@@ -85,17 +86,21 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9995238095238095,
-    "Critical Damage": 2.5373333333333337,
+    "Critical Chance": 1,
+    "Critical Damage": 2.437333333333333,
     "Power Coefficient": 3361,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 1.92,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 32425.958877010824,
-    "Power DPS": 41965.209004864606,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 27223.649792817025,
+    "Power DPS": 35232.45550776204,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 96.3125,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -111,367 +116,391 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "Torment Damage": 142.74375,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 42647.61900486461,
-    "Effective Health": 58259761.19402986,
-    "Survivability": 29618.58728725463,
+    "Damage": 36054.61550776204,
+    "Effective Health": 82174029.85074627,
+    "Survivability": 41776.324275925916,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Focus",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569
+  },
+  "skills": {
+    "healId": 21664,
+    "utility1Id": 30364,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 30273
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "Litany of Wrath",
-      "utility1": "Whirling Light",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "eliteId": 62561
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
-
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-
-<Character advanced title="162 AR (Banner)" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Dragon",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 11915,
-    "Armor": 2514,
-    "Power": 4055,
-    "Precision": 2371,
-    "Toughness": 1243,
-    "Vitality": 1027,
-    "Ferocity": 1568,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.002857142857143,
-    "Critical Damage": 2.5453333333333332,
-    "Power Coefficient": 3361,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Effective Power": 33084.227304123226,
-    "Power DPS": 42817.13052335702,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 43499.54052335702,
-    "Effective Health": 59610567.16417911,
-    "Survivability": 30305.321384941082,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Focus",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Litany of Wrath",
-      "utility1": "Whirling Light",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "eliteId": 62561
-    },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
-}}>
-
-This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
-
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>
-
-<Character advanced title="222 AR (No Banner)" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 11645,
-    "Armor": 2604,
-    "Power": 4066,
-    "Precision": 2374,
-    "Toughness": 1333,
-    "Vitality": 1000,
-    "Ferocity": 1556,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 333,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.222,
-    "Critical Chance": 1.0042857142857144,
-    "Critical Damage": 2.5373333333333337,
-    "Power Coefficient": 3361,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Effective Power": 33069.70887074973,
-    "Power DPS": 42798.34097596836,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 43480.75097596837,
-    "Effective Health": 60345432.835820906,
-    "Survivability": 30678.91857438785,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Focus",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Litany of Wrath",
-      "utility1": "Whirling Light",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "eliteId": 62561
-    },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
-}}>
-
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
-
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>
-
-<Character advanced title="222 AR (Banner)" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Dragon",
-    "Dragon",
-    "Dragon",
-    "Berserker",
-    "Berserker",
-    "Dragon",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 13745,
-    "Armor": 2604,
-    "Power": 3993,
-    "Precision": 2366,
-    "Toughness": 1333,
-    "Vitality": 1210,
-    "Ferocity": 1635,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 333,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.222,
-    "Critical Chance": 1.0004761904761905,
-    "Critical Damage": 2.59,
-    "Power Coefficient": 3361,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Effective Power": 33150.0773960285,
-    "Power DPS": 42902.35276397836,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 43584.76276397836,
-    "Effective Health": 71227820.8955224,
-    "Survivability": 36211.398523397256,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weight": "Heavy",
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Focus",
-      "weapon1OffSigilId": 24868,
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1Id": 24615,
-      "weapon2MainSigil2Id": 24868
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Litany of Wrath",
-      "utility1": "Whirling Light",
-      "utility2": "Sword of Justice",
-      "utility3": "Bane Signet",
-      "eliteId": 62561
-    },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
-}}>
-
-This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
-
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>  
 </CharacterWithAr>
+</Beginner>
+<Advanced>
+<CharacterWithAr>  
+<Character title="Perfect Inscriptions" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 16425,
+    "Armor": 2514,
+    "Power": 3937,
+    "Precision": 2260,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1406,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1,
+    "Critical Damage": 2.437333333333333,
+    "Power Coefficient": 3361,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.92,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 27881.04943900794,
+    "Power DPS": 36083.252662497376,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 1.92,
+    "Burning DPS": 682.41,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 36905.41266249738,
+    "Effective Health": 82174029.85074627,
+    "Survivability": 41776.324275925916,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 21664,
+    "utility1Id": 30364,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 30273
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+<Character title="Righteous Instincts" gear={{
+  "profession": "Guardian",
+  "weight": "Heavy",
+  "gear": [
+    "Dragon",
+    "Berserker",
+    "Dragon",
+    "Berserker",
+    "Dragon",
+    "Berserker",
+    "Dragon",
+    "Dragon",
+    "Dragon",
+    "Dragon",
+    "Dragon",
+    "Dragon",
+    "Dragon",
+    "Dragon"
+  ],
+  "attributes": {
+    "Health": 22095,
+    "Armor": 2514,
+    "Power": 3966,
+    "Precision": 1749,
+    "Toughness": 1243,
+    "Vitality": 2045,
+    "Ferocity": 1600,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1.0066666666666666,
+    "Critical Damage": 2.5666666666666664,
+    "Power Coefficient": 3361,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.92,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 29583.583458283087,
+    "Power DPS": 38286.64767165555,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 1.92,
+    "Burning DPS": 682.41,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 39108.80767165555,
+    "Effective Health": 110540955.22388062,
+    "Survivability": 56197.740327341446,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Focus",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 21664,
+    "utility1Id": 30364,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 30273
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+</CharacterWithAr>
+</Advanced>
 
 <Divider text="Build"/>
 

@@ -178,7 +178,153 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the ha
   ]
 }}>
 
-This is the default build. Due to <Item id="24818"/> this build requires you to flank. If you can't reliably flank the <Item id="24723"/> build will perform better.
+This is the default build. Due to <Item id="24818"/> this build requires you to flank. If you can't reliably flank the <Item id="24836"/> or <Item id="24723"/> build will perform better.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+<Character title="162 AR + Scholar Rune" gear={{
+  "profession": "Warrior",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 26522,
+    "Armor": 2514,
+    "Power": 3665,
+    "Precision": 2251,
+    "Toughness": 1243,
+    "Vitality": 1731,
+    "Ferocity": 1463.75,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.9457142857142856,
+    "Critical Damage": 2.475833333333333,
+    "Power Coefficient": 4659,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 25103.660014103898,
+    "Power DPS": 45035.79206996922,
+    "Power2 DPS": 0,
+    "Siphon DPS": 153.72500000000002,
+    "Bleeding Damage": 105.94375,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 390.96406249999995,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 130.5321875,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 124.12812499999998,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 157.01812499999997,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 45189.51706996922,
+    "Effective Health": 132689170.14925376,
+    "Survivability": 67457.63606977822,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Axe",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Pistol",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91709,
+    "utilityId": 77569,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 14401,
+    "utility1Id": "",
+    "utility2Id": 62967,
+    "utility3Id": 68085,
+    "eliteId": 62901
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+This build should be used if you cannot benefit from the flanking bonus from <Item id="24818"/>. If you cannot maintain <Item id="24836"/> uptime or don't want to run as much Assassin gear, use the <Item id="24723"/> variant.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -426,7 +572,7 @@ Make sure to cast <Skill name="Tactical Reload"/> and <Skill id="68085"/> before
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="" caption="by Costa Primo"/>
+<Video youtube="yNXwsIXsakg" caption="by Evo"/>
 </Card>
 </GridItem>
 </Grid>

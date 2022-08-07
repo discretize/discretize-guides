@@ -538,7 +538,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 <Card title="Golem rotation">
 
 Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
-<Video youtube="x76DgzoGCnA" caption="Sword rotation by Support Hero"/>
+<Video youtube="MkEqyxM44VI" caption="Sword rotation by Support Hero"/>
 </Card>
 
 <Advanced>

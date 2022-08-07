@@ -4,7 +4,6 @@ hidden: false
 archive: true
 rating: Meta
 role: Power Damage
-author: ganymed.3541
 profession: Guardian
 specialization: Firebrand
 conditions:
@@ -28,7 +27,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-04-29T09:45:27.587Z
+date: 2022-08-05T09:45:27.587Z
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.
@@ -47,51 +46,55 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
 
 <CharacterWithAr>
 
-<Character title="162 AR (No Banner)" gear={{
+<Character title="162 AR Perfect Inscriptions" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
     "Berserker",
+    "Berserker",
     "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Diviner",
-    "Assassin",
-    "Diviner",
-    "Assassin",
-    "Diviner",
+    "Berserker",
     "Diviner",
     "Berserker",
-    "Berserker"
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Assassin",
+    "Berserker",
+    "Diviner",
+    "Assassin",
+    "Assassin"
   ],
   "attributes": {
-    "Health": 14145,
+    "Health": 18925,
     "Armor": 2514,
-    "Power": 3806,
-    "Precision": 2363,
+    "Power": 3641,
+    "Precision": 2260,
     "Toughness": 1243,
-    "Vitality": 1250,
-    "Ferocity": 1452,
+    "Vitality": 1728,
+    "Ferocity": 1304,
     "Condition Damage": 1000,
     "Expertise": 0,
-    "Concentration": 626,
+    "Concentration": 615,
     "Healing Power": 250,
     "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.41733333333333333,
-    "Critical Chance": 0.999047619047619,
-    "Critical Damage": 2.468,
+    "Boon Duration": 0.41,
+    "Critical Chance": 1,
+    "Critical Damage": 2.3693333333333335,
     "Power Coefficient": 3390,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 1.1,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 22655.491807678365,
-    "Power DPS": 29573.399009637913,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 19464.31154734317,
+    "Power DPS": 25407.784422600445,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 117.875,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -107,18 +110,33 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
     "Torment Damage": 175.0875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 30025.636509637912,
-    "Effective Health": 70767223.88059703,
-    "Survivability": 35977.23633990698,
+    "Damage": 25999.771922600445,
+    "Effective Health": 94681492.53731345,
+    "Survivability": 48134.973328578264,
     "Effective Healing": 465,
     "Healing": 465
   },
-  "runeId": 24836,
-  "runeName": "Scholar",
+  "runeId": 24723,
+  "runeName": "Eagle",
   "infusions": [
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Sword",
@@ -131,20 +149,45 @@ Its worth mentioning that <Specialization text="Power Quickness Firebrand" name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
+    "utilityId": 77569,
+    "infusionId": 37131
   },
   "skills": {
-    "heal": "Mantra of Solace",
-    "utility1": "Mantra of Potence",
-    "utility2": "Sword of Justice",
-    "utility3": "Bane Signet",
-    "elite": "Feel my Wrath"
+    "healId": 41714,
+    "utility1Id": 40915,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 29965
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
-
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
@@ -154,51 +197,55 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-<Character title="162 AR (Banner)" gear={{
+<Character title="162 AR Righteous Instincts" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
     "Berserker",
-    "Assassin",
     "Berserker",
     "Berserker",
-    "Assassin",
     "Berserker",
-    "Diviner",
-    "Assassin",
-    "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
     "Berserker",
     "Diviner",
-    "Diviner",
     "Berserker",
-    "Berserker"
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Diviner"
   ],
   "attributes": {
-    "Health": 14145,
+    "Health": 18925,
     "Armor": 2514,
-    "Power": 3905,
-    "Precision": 2361,
+    "Power": 3956,
+    "Precision": 1937,
     "Toughness": 1243,
-    "Vitality": 1250,
-    "Ferocity": 1452,
+    "Vitality": 1728,
+    "Ferocity": 1302,
     "Condition Damage": 1000,
     "Expertise": 0,
-    "Concentration": 626,
+    "Concentration": 617,
     "Healing Power": 250,
     "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.41733333333333333,
-    "Critical Chance": 0.998095238095238,
-    "Critical Damage": 2.468,
+    "Boon Duration": 0.41133333333333333,
+    "Critical Chance": 1.0961904761904762,
+    "Critical Damage": 2.368,
     "Power Coefficient": 3390,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 1.1,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 23231.621118997784,
-    "Power DPS": 30325.45074832595,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 21136.35939695281,
+    "Power DPS": 27590.3959783096,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 117.875,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -214,18 +261,33 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 175.0875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 30777.68824832595,
-    "Effective Health": 70767223.88059703,
-    "Survivability": 35977.23633990698,
+    "Damage": 28182.3834783096,
+    "Effective Health": 94681492.53731345,
+    "Survivability": 48134.973328578264,
     "Effective Healing": 465,
     "Healing": 465
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Sword",
@@ -238,20 +300,45 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
+    "utilityId": 77569,
+    "infusionId": 37131
   },
   "skills": {
-    "heal": "Mantra of Solace",
-    "utility1": "Mantra of Potence",
-    "utility2": "Sword of Justice",
-    "utility3": "Bane Signet",
-    "elite": "Feel my Wrath"
+    "healId": 41714,
+    "utility1Id": 40915,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 29965
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
-
-This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
@@ -260,51 +347,55 @@ If you cannot maintain good <Boon name="Resolution"/> uptime during your bursts,
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="222 AR (No Banner)" gear={{
+<Character title="222 AR Perfect Inscriptions" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
     "Berserker",
-    "Berserker",
+    "Assassin",
+    "Diviner",
+    "Diviner",
+    "Diviner",
     "Diviner",
     "Berserker",
-    "Diviner",
-    "Diviner",
+    "Assassin",
+    "Berserker",
     "Berserker",
     "Berserker",
     "Berserker",
     "Assassin",
-    "Assassin",
-    "Diviner",
-    "Berserker",
-    "Berserker"
+    "Assassin"
   ],
   "attributes": {
-    "Health": 14145,
+    "Health": 19825,
     "Armor": 2604,
-    "Power": 3938,
-    "Precision": 2364,
+    "Power": 3685,
+    "Precision": 2259,
     "Toughness": 1333,
-    "Vitality": 1250,
-    "Ferocity": 1474,
+    "Vitality": 1818,
+    "Ferocity": 1325,
     "Condition Damage": 1000,
     "Expertise": 0,
-    "Concentration": 627,
+    "Concentration": 615,
     "Healing Power": 250,
     "Agony Resistance": 222,
     "Condition Duration": 0,
-    "Boon Duration": 0.418,
+    "Boon Duration": 0.41,
     "Critical Chance": 0.9995238095238095,
-    "Critical Damage": 2.482666666666667,
+    "Critical Damage": 2.3833333333333333,
     "Power Coefficient": 3390,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 1.1,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 23587.192354090024,
-    "Power DPS": 30789.5964883963,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 19810.454156625958,
+    "Power DPS": 25859.62248400539,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 117.875,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -320,18 +411,33 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 175.0875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 31241.833988396298,
-    "Effective Health": 73300656.71641792,
-    "Survivability": 37265.20422797048,
+    "Damage": 26451.60998400539,
+    "Effective Health": 102734925.37313434,
+    "Survivability": 52229.24523291019,
     "Effective Healing": 465,
     "Healing": 465
   },
-  "runeId": 24836,
-  "runeName": "Scholar",
+  "runeId": 24723,
+  "runeName": "Eagle",
   "infusions": [
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Sword",
@@ -344,20 +450,45 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
+    "utilityId": 77569,
+    "infusionId": 37131
   },
   "skills": {
-    "heal": "Mantra of Solace",
-    "utility1": "Mantra of Potence",
-    "utility2": "Sword of Justice",
-    "utility3": "Bane Signet",
-    "elite": "Feel my Wrath"
+    "healId": 41714,
+    "utility1Id": 40915,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 29965
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 9093, "type": "Skill"}]
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
-
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
@@ -366,51 +497,55 @@ If you cannot maintain good <Boon name="resolution"/> uptime during your bursts,
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="222 AR (Banner)" gear={{
+<Character title="222 AR Righteous Instincts" gear={{
   "profession": "Guardian",
   "weight": "Heavy",
   "gear": [
     "Berserker",
     "Berserker",
     "Diviner",
-    "Berserker",
     "Diviner",
     "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Dragon",
     "Diviner",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
-    "Health": 14635,
+    "Health": 19825,
     "Armor": 2604,
-    "Power": 3991,
-    "Precision": 2367,
+    "Power": 3975,
+    "Precision": 1960,
     "Toughness": 1333,
-    "Vitality": 1299,
-    "Ferocity": 1492,
+    "Vitality": 1818,
+    "Ferocity": 1325,
     "Condition Damage": 1000,
     "Expertise": 0,
-    "Concentration": 627,
+    "Concentration": 615,
     "Healing Power": 250,
     "Agony Resistance": 222,
     "Condition Duration": 0,
-    "Boon Duration": 0.418,
-    "Critical Chance": 1.000952380952381,
-    "Critical Damage": 2.494666666666667,
+    "Boon Duration": 0.41,
+    "Critical Chance": 1.1071428571428572,
+    "Critical Damage": 2.3833333333333333,
     "Power Coefficient": 3390,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 1.1,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Effective Power": 24027.019438095947,
-    "Power DPS": 31363.725797129482,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 21375.39377801954,
+    "Power DPS": 27902.420064492202,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 117.875,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
@@ -426,18 +561,33 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Torment Damage": 175.0875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 31815.96329712948,
-    "Effective Health": 75839880.59701493,
-    "Survivability": 38556.11621607267,
+    "Damage": 28494.4075644922,
+    "Effective Health": 102734925.37313434,
+    "Survivability": 52229.24523291019,
     "Effective Healing": 465,
     "Healing": 465
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131, 37131, 37131, 37131,
-    37131, 37131, 37131, 37131
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Sword",
@@ -450,20 +600,45 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 9443,
-    "infusion": "Mighty +9 Agony Infusion"
+    "utilityId": 77569,
+    "infusionId": 37131
   },
   "skills": {
-    "heal": "Mantra of Solace",
-    "utility1": "Mantra of Potence",
-    "utility2": "Sword of Justice",
-    "utility3": "Bane Signet",
-    "elite": "Feel my Wrath"
+    "healId": 41714,
+    "utility1Id": 40915,
+    "utility2Id": 9168,
+    "utility3Id": 9093,
+    "eliteId": 29965
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}, {"gw2id": 9093, "type": "Skill"}]
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
-
-This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
 
 If you are unable to provide enough <Boon name="Quickness"/> with that, **please swap Berserker items for Diviner's until you reach 100% <Boon name="Quickness"/> uptime**.
 
@@ -478,7 +653,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Radiance" traits1Selected="Healers Resolution,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Right Hand Strength,Retribution,Perfect Inscriptions" traits2="Zeal" traits2Selected="Fiery Wrath,Zealous Blade,Symbolic Avenger" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
 
 <Card title="Defiance Bar Damage">
 

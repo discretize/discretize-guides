@@ -1052,7 +1052,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
 
-<Video youtube="AvtmpM3jJDQ" caption="by Support Hero"/>
+<Video youtube="2phGf78VtaU" caption="by Support Hero"/>
 </Card>
 
 <Advanced>
