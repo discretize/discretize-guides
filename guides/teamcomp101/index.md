@@ -159,7 +159,7 @@ As mentioned above this comp is ran for an easy daily clear without class swappi
 
 <Card title="Hybrid Comp CM Boss Overview">
 <Warning>
-This table shows the common swaps for builds, traits and notable skills for the <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/> comp we use in fractal CMs. The CC distributions for each boss we use can be found [Here](/guides/cc-distribution). While this setup works for us, we would advise you to play around and find a setup that works for your party.
+This table shows the common swaps for builds, traits and notable skills for the <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/> comp we use in fractal CMs. The CC distributions for each boss we use can be found [here](/guides/cc-distribution). While this setup works for us, it may not be suitable or optimal for every group, you should play around and find a setup that works for your party.
 </Warning>
 
 
