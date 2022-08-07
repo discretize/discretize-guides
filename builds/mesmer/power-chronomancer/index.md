@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-04-29T10:35:34.916Z
+date: 2022-08-05T10:35:34.916Z
 ---
 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
@@ -54,190 +54,458 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character gear={{
-    "profession": "Mesmer",
-    "weight": "Light",
-    "gear": [
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Assassin",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2210,
-      "Power": 3231,
-      "Precision": 2569,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 1556,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 243,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.162,
-      "Critical Chance": 0.9971428571428571,
-      "Critical Damage": 2.5373333333333337,
-      "Effective Power": 28226.698155882983,
-      "Power DPS": 41921.59213986934,
-      "Bleeding Damage": 96.3125,
-      "Bleeding Stacks": 24,
-      "Bleeding DPS": 2311.5,
-      "Burning Damage": 355.421875,
-      "Burning Stacks": 0.63,
-      "Burning DPS": 223.91578125,
-      "Confusion Damage": 118.665625,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Poison Damage": 112.84375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 142.74375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Damage": 44457.00792111934,
-      "Effective Health": 77805682.697623,
-      "Survivability": 39555.50721790696,
-      "Effective Healing": 390,
-      "Healing": 390
-    },
-      "runeId": 24836,
-      "runeName": "Scholar",
-      "infusions": [
-        37131, 37131, 37131, 37131, 37131, 37131, 37131,
-        37131, 37131, 37131, 37131, 37131, 37131, 37131,
-        37131, 37131, 37131, 37131
-      ],
-      "weapons": {
-        "weapon1MainType": "Sword",
-        "weapon1MainSigil1Id": 24615,
-        "weapon1OffType": "Sword",
-        "weapon1OffSigilId": 24868,
-        "weapon2OffType": "Focus",
-        "weapon2OffSigilId": 24868
-      },
-      "consumables": {
-        "foodId": 91805,
-        "utilityId": 9443,
-        "infusion": "Mighty +9 Agony Infusion"
-      },
-      "skills": {
-        "heal": "Signet of the Ether",
-        "utility1": "Mantra of Pain",
-        "utility2": "Phantasmal Disenchanter",
-        "utility3": "MIrror Images",
-        "elite": "Signet of Humility"
-      }
-}}>
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-This is a budget variant, aim for as much Agony Resistance as possible.
-Utilize the gear optimizer if you are somewhere between 162 and 212 Agony Resistance.
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
-
-</Character>  
-<Character gear={{
+<Character title="Thief Runes" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
     "Berserker",
-    "Berserker",
-    "Berserker",
+    "Assassin",
     "Berserker",
     "Assassin",
     "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
     "Berserker",
     "Assassin",
     "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker"
+    "Assassin"
   ],
   "attributes": {
-    "Health": 15922,
-    "Armor": 2300,
-    "Power": 3454,
-    "Precision": 2575,
-    "Toughness": 1333,
-    "Vitality": 1000,
-    "Ferocity": 1556,
+    "Health": 20702,
+    "Armor": 2210,
+    "Power": 3248,
+    "Precision": 2470,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1181,
+    "Condition Damage": 850,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1,
+    "Critical Damage": 2.287333333333333,
+    "Clone Critical Chance": 0.75,
+    "Phantasm Critical Chance": 1,
+    "Phantasm Critical Damage": 2.287333333333333,
+    "Power Coefficient": 2976,
+    "Power2 Coefficient": 1332,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 25.235000000000003,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.83,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 25413.2342355344,
+    "Power DPS": 29121.981164786437,
+    "Phantasm Effective Power": 18689.22883333333,
+    "Power2 DPS": 9585.696113207545,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 104.9375,
+    "Bleeding Stacks": 25.235000000000003,
+    "Bleeding DPS": 2648.0978125,
+    "Burning Damage": 377.703125,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 128.58437500000002,
+    "Confusion Stacks": 0.83,
+    "Confusion DPS": 106.72503125000001,
+    "Poison Damage": 121.46875,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 155.68125,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 41602.25012174398,
+    "Effective Health": 91047601.99004976,
+    "Survivability": 46287.545495704,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24818,
+  "runeName": "Thief",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 10267,
+    "utility2Id": 30525,
+    "utility3Id": 10211,
+    "eliteId": 29519
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+This build is the highest DPS variant assuming you have a high flanking uptime. If you cannot flank you will be better off running the <Item id="24836"/> or <Item id="24723"/> variant.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>  
+<Character title="Scholar Runes" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin"
+  ],
+  "attributes": {
+    "Health": 20702,
+    "Armor": 2210,
+    "Power": 3202,
+    "Precision": 2470,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1336,
     "Condition Damage": 750,
     "Expertise": 0,
-    "Concentration": 333,
+    "Concentration": 243,
     "Healing Power": 0,
-    "Agony Resistance": 222,
+    "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.222,
+    "Boon Duration": 0.162,
     "Critical Chance": 1,
-    "Critical Damage": 2.5373333333333337,
-    "Effective Power": 27484.599893184964,
-    "Power DPS": 40819.44620254694,
+    "Critical Damage": 2.3906666666666667,
+    "Clone Critical Chance": 0.75,
+    "Phantasm Critical Chance": 1,
+    "Phantasm Critical Damage": 2.3906666666666667,
+    "Power Coefficient": 2976,
+    "Power2 Coefficient": 1332,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 25.235000000000003,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.83,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 24994.901377681304,
+    "Power DPS": 28642.59780515193,
+    "Phantasm Effective Power": 19256.89470833333,
+    "Power2 DPS": 9876.85165633423,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 24,
-    "Bleeding DPS": 2311.5,
+    "Bleeding Stacks": 25.235000000000003,
+    "Bleeding DPS": 2430.4459375,
     "Burning Damage": 355.421875,
-    "Burning Stacks": 0.63,
-    "Burning DPS": 223.91578125,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
     "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
+    "Confusion Stacks": 0.83,
+    "Confusion DPS": 98.49246875,
     "Poison Damage": 112.84375,
     "Poison Stacks": 0,
     "Poison DPS": 0,
     "Torment Damage": 142.74375,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 43354.86198379694,
-    "Effective Health": 72876815.92039803,
-    "Survivability": 37049.72848012101,
+    "Damage": 41188.137867736164,
+    "Effective Health": 91047601.99004976,
+    "Survivability": 46287.545495704,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Sword",
-      "weapon1OffSigilId": 24868,
-      "weapon2OffType": "Focus",
-      "weapon2OffSigilId": 24868
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132,
+    37132
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91709,
+    "utilityId": 77569,
+    "infusionId": 37132
+  },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 10267,
+    "utility2Id": 30525,
+    "utility3Id": 10211,
+    "eliteId": 29519
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "Signet of the Ether",
-      "utility1": "Mantra of Pain",
-      "utility2": "Phantasmal Disenchanter",
-      "utility3": "MIrror Images",
-      "elite": "Signet of Humility"
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
+  ]
 }}>
 
-If you are going to play without <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/> you will be missing 100 precision. To [crit cap](/guides/crit-cap/) you can either adjust your gear using our gear optimizer linked below, or simply use <Item id="12486"/>.
+This build should be used if you cannot benefit from the flanking bonus from <Item id="24818"/>. If you cannot maintain <Item id="24836"/> uptime or don't want to run as much Assassin gear, use the <Item id="24723"/> variant.
+
+It also relies on <Item id="39621"/> to reach <Attribute name="Critical chance" text="100% critical chance"/>. If you dont use them, playing with full Assassins gear will get you to <Attribute name="Critical chance" text="99% critical chance"/>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+<Character title="Eagle Runes" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 20702,
+    "Armor": 2210,
+    "Power": 3202,
+    "Precision": 2470,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1336,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1,
+    "Critical Damage": 2.3906666666666667,
+    "Clone Critical Chance": 0.75,
+    "Phantasm Critical Chance": 1,
+    "Phantasm Critical Damage": 2.3906666666666667,
+    "Power Coefficient": 2976,
+    "Power2 Coefficient": 1332,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 25.235000000000003,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.83,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 24994.901377681304,
+    "Power DPS": 28642.59780515193,
+    "Phantasm Effective Power": 19256.89470833333,
+    "Power2 DPS": 9876.85165633423,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 25.235000000000003,
+    "Bleeding DPS": 2430.4459375,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0.83,
+    "Confusion DPS": 98.49246875,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 41188.137867736164,
+    "Effective Health": 91047601.99004976,
+    "Survivability": 46287.545495704,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24723,
+  "runeName": "Eagle",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Sword",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainType": "Greatsword",
+    "weapon2MainSigil1Id": 24615,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91709,
+    "utilityId": 77569,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 10267,
+    "utility2Id": 30525,
+    "utility3Id": 10211,
+    "eliteId": 29519
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -259,7 +527,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - Shield for CC, blocks, and precasting.
 
 </Card>
-<Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Empowered Illusions,Egotism,Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up,Improved Alacrity,Chronophantasma"/>
+<Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Bountiful Blades,Egotism,Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up,Improved Alacrity,Chronophantasma"/>
 <Card title="Situational Traits">
 
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
@@ -268,7 +536,7 @@ You can go this Illusions variant over the Domination traitline when you're faci
 
 |                                                         |                                                     |
 | ------------------------------------------------------- | --------------------------------------------------- |
-| <Trait name="Bountiful Blades" size="big" disableText/> | If you're playing with Greatsword instead of Focus. |
+| <Trait name="Empowered Illusions" size="big" disableText/> | If you're playing with Focus instead of Greatsword. |
 
 <Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
