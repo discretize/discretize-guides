@@ -652,7 +652,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance,Great Fortitude,Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint,Doubled Standards,Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct,Blood Reaction,Bloody Roar"/>
+<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance,Great Fortitude,Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint,Destruction of the Empowered,Axe Mastery" traits3Id="18" traits3="Berserker" traits3Selected="Savage Instinct,Blood Reaction,Bloody Roar"/>
 
 <Card title="Extra Weapons">
 
