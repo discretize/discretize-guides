@@ -24,6 +24,9 @@ boons:
   - name: Might
     uptime: 10 Stacks
     variant: Party
+  - name: Fury
+    uptime: 90%
+    variant: Party
   - name: Stability
     uptime: On Demand
     variant: Party
@@ -44,7 +47,7 @@ classification:
   - 3
   - 2
   - 2
-date: 2022-04-05T22:39:42.575Z
+date: 2022-08-05T22:39:42.575Z
 ---
 
 The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
@@ -66,41 +69,43 @@ Feel free to run full Harrier if you are confident that you don't need the extra
     "Harrier",
     "Harrier",
     "Harrier",
-    "Cleric",
-    "Cleric",
-    "Cleric",
+    "Harrier",
+    "Harrier",
+    "Harrier",
     "Harrier",
     "Harrier",
     "Harrier",
     "Harrier"
   ],
   "attributes": {
-    "Health": 18272,
-    "Armor": 2758,
-    "Power": 3014,
-    "Precision": 1343,
-    "Toughness": 1487,
-    "Vitality": 1235,
-    "Ferocity": 150,
+    "Health": 20702,
+    "Armor": 2514,
+    "Power": 3131,
+    "Precision": 1000,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 0,
     "Condition Damage": 750,
     "Expertise": 0,
-    "Concentration": 1130,
-    "Healing Power": 1563,
+    "Concentration": 1375,
+    "Healing Power": 1446,
     "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 1.0033333333333334,
-    "Critical Chance": 0.7433333333333334,
-    "Critical Damage": 1.6,
+    "Boon Duration": 1.0666666666666667,
+    "Critical Chance": 0.63,
+    "Critical Damage": 1.5,
     "Power Coefficient": 0,
+    "Power2 Coefficient": 0,
     "Burning Coefficient": 0,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Outgoing Healing": 0.9494600000000001,
-    "Effective Power": 8887.651223343753,
+    "Outgoing Healing": 0.76924,
+    "Effective Power": 8693.540715234372,
     "Power DPS": 0,
+    "Power2 DPS": 0,
     "Siphon DPS": 0,
     "Bleeding Damage": 109.921875,
     "Bleeding Stacks": 0,
@@ -118,40 +123,40 @@ Feel free to run full Harrier if you are confident that you don't need the extra
     "Torment Stacks": 0,
     "Torment DPS": 0,
     "Damage": 0,
-    "Effective Health": 100286917.41293533,
-    "Survivability": 50984.70636143128,
-    "Effective Healing": 1674.391194,
-    "Healing": 1674.391194
+    "Effective Health": 103571797.01492539,
+    "Survivability": 52654.70107520356,
+    "Effective Healing": 1457.4999119999998,
+    "Healing": 1457.4999119999998
   },
   "runeId": 24842,
   "runeName": "Monk",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125,
+    37125
   ],
   "weapons": {
     "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 72339,
+    "weapon1MainSigil1Id": 44947,
     "weapon1OffType": "Sword",
     "weapon1OffSigilId": 74326,
     "weapon2MainType": "Staff",
-    "weapon2MainSigil1Id": 72339,
+    "weapon2MainSigil1Id": 44947,
     "weapon2MainSigil2Id": 74326
   },
   "consumables": {
@@ -162,7 +167,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
       "legend1": "legendarycentaurstance",
       "legend2": "legendaryrenegadestance"
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -180,27 +185,14 @@ Feel free to run full Harrier if you are confident that you don't need the extra
       "type": "Condition"
     },
     {
-      "id": "spotter",
-      "gw2id": 1016,
-      "type": "Trait"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "frostSpirit",
-      "gw2id": 12497,
-      "type": "Skill"
-    },
-    {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
 }}>
