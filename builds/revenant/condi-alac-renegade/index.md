@@ -192,6 +192,8 @@ For more variations to suit your needs/Agony Resistance check our [Gear Optimize
 If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
+
+If <Instability name="No Pain No Gain"/> is present you may find it beneficial to run <Item id="72872"/> on your Axe to help boonstrip. <Skill name="Banish Enchantment"/> is also a DPS increase over you and your party losing damage to <Boon name="Protection"/> and <Boon name="Resolution"/>.
 </Character>  
 <Character title="80% BD, 222 AR" gear={{
   "profession": "Revenant",
@@ -340,6 +342,8 @@ If you have another class in your party that can provide some <Boon name="Alacri
 
 <Item id="91878"/> can also be used instead of <Item name="Meaty Asparagus Skewer"/>. The difference between is minimal.
 
+If <Instability name="No Pain No Gain"/> is present you may find it beneficial to run <Item id="72872"/> on your Axe to help boonstrip. <Skill name="Banish Enchantment"/> is also a DPS increase over you and your party losing damage to <Boon name="Protection"/> and <Boon name="Resolution"/>.
+
 </Character>
 
 <Character title="Condi DPS" gear={{
@@ -471,6 +475,9 @@ If you have another class in your party that can provide some <Boon name="Alacri
 If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
+
+If <Instability name="No Pain No Gain"/> is present you may find it beneficial to run <Item id="72872"/> on your Axe to help boonstrip. <Skill name="Banish Enchantment"/> is also a DPS increase over you and your party losing damage to <Boon name="Protection"/> and <Boon name="Resolution"/>.
+
 </Character>
 
 </CharacterWithAr>
