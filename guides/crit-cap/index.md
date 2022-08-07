@@ -31,7 +31,7 @@ Runes and Sigils are our next step to consider increasing <Attribute name="Preci
 A full ascended set of **Berserker** items is equal to **<Attribute name="Precision" text="961 Precision"/>** (dual wield) or **<Attribute name="Precision" text="960 Precision"/>** (two-handed).  
 So you'll <Attribute name="Precision" text="509 Precision"/> (dual wield) or <Attribute name="Precision" text="510 Precision"/> (two-handed) to reach <Attribute name="Critical Chance" text="100% Critical Chance"/>. The next source of <Attribute name="Precision"/> we should consider our our runes:
 
-| Common Power Rune Choices | <Attribute name="Precision" text="Precision Required Dual Wield"/>  | <Attribute name="Precision"text="Precision Required Two-Handed"/> |
+| Common Power Rune Choices | <Attribute name="Precision" text="Precision Required Dual Wield"/>  | <Attribute name="Precision" text="Precision Required Two-Handed"/> |
 | ----------------- | ---- | ----|
 | <Item id="24836"/> | 509 | 510 |
 | <Item id="24818"/> | 209 | 210 |
