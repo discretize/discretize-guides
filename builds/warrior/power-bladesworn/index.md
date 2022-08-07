@@ -572,7 +572,7 @@ Make sure to cast <Skill name="Tactical Reload"/> and <Skill id="68085"/> before
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="" caption="by Costa Primo"/>
+<Video youtube="yNXwsIXsakg" caption="by Evo"/>
 </Card>
 </GridItem>
 </Grid>
