@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: 2022-08-07T13:24:22.253Z
+date: 2022-08-08T12:18:52.374Z
 image: ./images/preview.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -161,7 +161,7 @@ Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance
 
 | **Phase**           | **CC Required** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Specter" specialization="Specter"/>                                                       | **Total** |
 | ------------------- | --------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------- |
-| **Phase 2 + 4 + 6** | **1800**        | <Skill name="Surge of the Mists"/> (9 hits) <br/> 1350 damage <br/> <Skill name="Darkrazor's Daring"/> (2 hits) <br/> 200 damage <br/> <SpecialActionKey name="hypernovalaunch"/> (SAK) <br/> 232 damage      |     |    |    |  | **1782**  |
+| **Phase 2 + 4 + 6** | **1800**        | <Skill name="Surge of the Mists"/> (9 hits) <br/> 1350 damage <br/> <Skill name="Darkrazor's Daring"/> (2 hits) <br/> 200 damage <br/> <SpecialActionKey name="hypernovalaunch"/>  <br/> 232 damage      | <SpecialActionKey name="hypernovalaunch"/>  <br/> 232 damage    | <SpecialActionKey name="hypernovalaunch"/>  <br/> 232 damage   | <SpecialActionKey name="hypernovalaunch"/>  <br/> 232 damage  | <SpecialActionKey name="hypernovalaunch"/>  <br/> 232 damage  | **2710**  |
 
 <Boss name="LightAi" hideRotation>
 
