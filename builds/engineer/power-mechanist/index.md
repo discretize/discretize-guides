@@ -21,7 +21,7 @@ boons:
     variant: Alac
   - name: Protection
     variant: Alac
-    uptime: 100%
+    uptime: 40%
   - name: Might
     uptime: 5-10 Stacks
     variant: DPS
