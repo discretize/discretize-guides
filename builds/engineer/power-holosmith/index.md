@@ -143,7 +143,7 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
     "weapon1MainType": "Sword",
     "weapon1MainSigil1Id": 24615,
     "weapon1OffType": "Shield",
-    "weapon1OffSigilId": 24868,
+    "weapon1OffSigilId": 24868
   },
   "consumables": {
     "foodId": 91805,
