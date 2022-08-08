@@ -816,7 +816,9 @@ You will want the following weapons to swap to during fractal runs:
 <GridItem sm="7">
   
 <Advanced>
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster"/>
+<Card title="Quickshare Traits">
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
+</Card>
 </Advanced>
 
 <Beginner>
@@ -827,7 +829,7 @@ You will want the following weapons to swap to during fractal runs:
 
 <Warning>
 
-This build provides permanent <Boon name="Quickness"/>. For different variants, such as multiple DPS Firebrands or full DPS, see below.
+This trait setup provides roughly 50% <Boon name="Quickness"/> uptime and is best run with a second <Specialization name="Firebrand" text="Quick Share Firebrand"/>. This allows for more support and damage done than one solo <Boon name="Quickness"/> and one DPS firebrand.  For different variants, such as DPS Firebrand or Solo <Boon name="Quickness"/>, see below.
 </Warning>
 </Advanced>
 
@@ -838,19 +840,19 @@ This build provides permanent <Boon name="Quickness"/>. For different variants, 
 
 You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
 
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="" utility3="Sanctuary" elite="Mantra of Liberation" unembossed/>
 
 <Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Loremaster" unembossed/>
 
 </Card>
 
-<Card title="Quickness Share Variant">
+<Card title="Solo Quickness Variant">
 
 This build assumes you are playing in a comp with multiple <Specialization name="Firebrand" text="Condi Firebrands"/> and allows <Trait name="Legendary Lore"/> and <Skill name="Renewed Focus"/> to be played for more DPS and an additional Tome reset. You need at least 2 <Specialization name="Firebrand" text="Firebrands"/> to play this build to maintain <Boon name="Quickness"/>!
 
 <Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
 
-<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
+<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Weighty Terms,Loremaster" unembossed/>
 
 </Card>
 
