@@ -490,33 +490,38 @@ For that reason you can find a video below with openers for each of the CM bosse
 
 <Card title="Golem Rotation">
 
-<Video youtube="jUyBMhlq13o" caption="by Ares [EoE]"/>
+<Video youtube="kHk1W5KpYG0" caption="by vpo"/>
 
 Note: The golem benchmark uses a different build setup than the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 </Card>
 
 <Card title="Golem Rotation">
 
-1.  <Skill name="Barrage"/>
+1.  <Skill name="Barrage"/> (Lonbow 5)
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-3.  <Skill name="One Wolf Pack"/>
-4.  <Skill name="Point Blank Shot"/>
-5.  <Skill name="Frost Trap"/>
-6.  <Skill name="worldlyimpact"/>
-7.  <Skill name="Frenzied Attack"/>
-8.  <Skill name="Rapid Fire"/>
-9.  `Weapon Swap`
-10. <Skill name="Path of scars"/>
-11. <Skill name="Whirling Defense"/>
-12. `Autoattack chain x5`
-13. <Skill name="Path of scars"/>
-14. `Weapon Swap`
-15. <Skill name="Rapid Fire"/>
-16. <Skill name="Long Range Shot"/> `Auto Attack x6`
-17. <Skill name="Point Blank Shot"/>
-18. <Skill name="Barrage"/>
-19. <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-20. Repeat from `Step 5`
+3.  <Skill name="Point Blank Shot"/> (Longbow 4)
+4.  <Skill name="Frost Trap"/>
+5.  <Skill name="One Wolf Pack"/>
+6.  <Skill name="Worldly Impact"/> (F3)
+7.  <Skill id="41524"/> (F1)
+8.  <Skill name="Rapid Fire"/> (Longbow 2)
+9.  <Skill name="Splitblade"/> (Axe 2)
+10. <Skill name="Winters Bite"/> (Axe 3)
+11. <Skill name="Path of Scars"/> (Axe 4)
+12. <Skill name="Whirling Defense"/> (Axe 5)
+13. <Skill id="45743"/> (F2)
+14. <Skill name="Splitblade"/> (Axe 2)
+15. <Skill id="41524"/> (F1)
+16. <Skill name="Ricochet"/> `Auto Attack x8` (Axe 1)
+17. <Skill name="Winters Bite"/> (Axe 3)
+18. <Skill name="Splitblade"/> (Axe 2)
+19. <Skill name="Path of Scars"/> (Axe 4)
+20. <Skill name="Rapid Fire"/> (Longbow 2)
+21. <Skill id="41524"/> (F1)
+22. <Skill name="Long Range Shot"/> `Auto Attack x5` (Longbow 1)
+23. <Skill name="Point Blank Shot"/> (Longbow 4)
+24. <Skill name="Barrage"/> (Lonbow 5)
+25. `Repeat from step 4`
 
 </Card>
 </GridItem>
