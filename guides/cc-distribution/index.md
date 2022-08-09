@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: 2022-08-09T17:11:44.505Z
+date: 2022-08-09T18:52:03.653Z
 image: ./images/preview.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -93,7 +93,7 @@ At 2000 Siax has a medium-sized defiance bar that will need to be broken twice i
 
 <Boss name="Ensolyss" hideRotation>
 
-At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you want to delay them to maximize the times your conditions have to ramp up. In phase 1 ideally, you will break just before Ensolyss does his slam attack. In phase 2+3 ideally, you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars, but since condi is now played here you want to delay them to maximize the times your conditions have to ramp up. In phase 1 ideally, you will break just before Ensolyss does his slam attack. In phase 2+3 ideally, you want to break just before the second pizza attack goes off, this also means in phase 3 you should have enough damage to get Ensolyss below 15% during exposed, meaning you will skip the bubble attack where Ensolyss cleanses all conditions on him.
 
 **Due to the fact you gain a substantial amount of slow CC from conditions and the fact that depending on your group's DPS changes the time you want to CC. There is no schedule below because it will vary between groups; instead the common CC skills you have available .**
 
@@ -116,7 +116,9 @@ At 2200, Skorvald the Shattered has one of the largest defiance bars out of all 
 
 <Boss name="Artsariiv" hideRotation>
 
-At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good news is if you do mid strat (which you should do if you are an organized group) you get to completely ignore it, this means you can focus your CC on the split phases. On the first split, each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
+At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if you want to skip the anomaly. The good new is, if you are fast enough you can completely ignore the CC in Phase 1 and purely focus your cc on the split phases. Slower groups should consider breaking P1 using the distribution below. 
+
+On the first split, each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
 
 </Boss>
 
@@ -161,9 +163,9 @@ At 2100 Artsariiv has a large defiance bar that needs to be broken quickly if yo
 
 <Boss name="Arkk" hideRotation>
 
-At 1800, Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50%, and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favor, providing a 232 damage CC. **Everyone** should use this to CC! But be ready to use other skills if the bar doesn't break.
+At 1800, Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50%, and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favor, providing a 232 damage CC. **Everyone** should use this to CC, if breakbars are slow on Arkk, the Archdiviner and the Gladiator, but be ready to use other skills if the bar doesn't break.
 
-Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>. The <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/> is a 232 CC ability and should be used by **EVERYONE** if breakbars are slow on Arkk, the Archdiviner and the Gladiator.
+Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>.
 
 </Boss>
 
@@ -173,7 +175,7 @@ Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance
 
 <Boss name="LightAi" hideRotation>
 
-At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen, you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like Ensolyss this cc schedule should be adjusted to fit your group's DPS. Also if you want to go for faster times on this boss, replacing a <BuildLink build="Condi Firebrand" specialization="Firebrand"/> with a <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> will decrease your kill time.
+At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen, you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. Like Ensolyss this cc schedule should be adjusted to fit your group's DPS.
 
 </Boss>
 
