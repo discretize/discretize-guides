@@ -36,7 +36,7 @@ classification:
 date: 2022-08-07T10:33:54.297Z
 ---
 
-<Specialization name="Mechanist" text="Power Mechanist"/> is a great build for new players. It is very easy to play, dealing resaonable damage, that is able to be almost entirely ranged if needed. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
+The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play, dealing resaonable damage, that is able to be almost entirely ranged if needed. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
 
 <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> is the boon support counterpart. It generates 100% <Boon name="Alacrity"/>, a large amount of offensive boons (25 <Boon name="Might"/> and 100% <Boon name="Fury"/>) and the same benefits of an easy, ranged rotation as seen with <Specialization name="Mechanist" text="Power Mechanist"/>. Alongside the offensive boons it also provides some <Boon name="Protection"/> and <Effect name="Barrier"/>, with 1 stack of <Boon name="Stability"/> amd <Boon name="Aegis"/> on a fairly long cooldown. While the build has fantastic offensive support, it is lacking in defensive support and CC compared to <BuildLink build="Power Alac Renegade" specialization="Renegade"/>, so it is important to make sure other members of you party can help to cover the gaps.
 
@@ -413,8 +413,10 @@ If you need to swap out a utility skill, <Skill name="Grenade Kit"/> should firs
 <Grid>
 <GridItem sm="7">
 <Card title="General Rotation">
+As previously mentioned, <Specialization name="Mechanist" text="Power Mechanist"/> has an extremely simple rotation, that consists of pressing certain skills pretty much off cooldown past your opener.
+
 ### Opener
-As previously mentioned, <Specialization name="Mechanist" text="Power Mechanist"/> has an extremely simple rotation, that consists of pressing certain skills pretty much off cooldown past your opener. Your general opener is as follows, this applies to most encounters and phases that start with a CC bar:
+Your general opener is as follows, this applies to most encounters and phases that start with a CC bar:
 1. <Skill id="63345"/> (Jade mech F2)
 2. <Skill name="Overcharged Shot"/> (Rifle 4)
 3. <Skill name="Blunderbuss"/> (Rifle 2)
