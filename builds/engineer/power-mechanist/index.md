@@ -413,6 +413,7 @@ If you need to swap out a utility skill, <Skill name="Grenade Kit"/> should firs
 <Grid>
 <GridItem sm="7">
 <Card title="General Rotation">
+
 As previously mentioned, <Specialization name="Mechanist" text="Power Mechanist"/> has an extremely simple rotation, that consists of pressing certain skills pretty much off cooldown past your opener.
 
 ### Opener
@@ -449,6 +450,7 @@ In <Skill name="Grenade Kit"/>
 
 <GridItem sm="5">
 <Card title="Alacrity Mechanist">
+  
 As a <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> your general weapon rotation does not change. However you do gain a new set of Jade Mech skills. Theese should be used with the following priority in mind:
 1.  <Skill id="63293"/> (Jade mech F2)
 2.  <Skill id="63141"/> (Jade mech F3)
