@@ -5,7 +5,7 @@ archive: false
 rating: Good
 role: Power Damage
 profession: Engineer
-specialization: Holosmith
+specialization: Mechanist
 conditions:
   - name: Vulnerability
     uptime: 5 Stacks
