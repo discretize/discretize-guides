@@ -405,3 +405,58 @@ If you need to swap out a utility skill, <Skill name="Grenade Kit"/> should firs
 </Card>
 </GridItem>
 </Grid>
+
+<Divider text="Rotation / Skill Usage"/>
+
+
+
+<Grid>
+<GridItem sm="7">
+<Card title="General Rotation">
+### Opener
+As previously mentioned, <Specialization name="Mechanist" text="Power Mechanist"/> has an extremely simple rotation, that consists of pressing certain skills pretty much off cooldown past your opener. Your general opener is as follows, this applies to most encounters and phases that start with a CC bar:
+1. <Skill id="63345"/> (Jade mech F2)
+2. <Skill name="Overcharged Shot"/> (Rifle 4)
+3. <Skill name="Blunderbuss"/> (Rifle 2)
+4. <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2)
+5. <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5)
+6. <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4)
+7. <Skill name="Net Shot"/> (Rifle 3)
+8. <Skill name="Jump Shot"/> (Rifle 5)
+9. <Skill id="6003"/> (Rifle 1)
+
+### Jade Mech Priority
+Your Jade Mech skills should be pressed in most stuations off cooldown with the priority below. However, these should be delayed in needed, for example saving <Skill id="63345"/> to CC with.
+1.  <Skill id="63345"/> (Jade mech F2)
+2.  <Skill id="63121"/> (Jade mech F3)
+3.  <Skill id="63188"/> (Jade mech F1)
+4.  <Skill id="63095"/> (Elite Skill)
+
+### General Rotation
+On Rifle
+- Use <Skill name="Blunderbuss"/> (Rifle 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2)
+- Press your other rifle skills off cooldown
+- In low gravity, skip <Skill name="Jump Shot"/> (Rifle 5)
+
+In <Skill name="Grenade Kit"/>
+- Use <Skill name="Freeze Grenade"/> (Skill 4) and <Skill name="Poison Grenade"/> (Skill 5) when off cooldown
+- Use <Skill name="Shrapnel Grenade"/> (Skill 2) after using <Skill name="Blunderbuss"/> (Rifle 2)
+
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Alacrity Mechanist">
+As a <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> your general weapon rotation does not change. However you do gain a new set of Jade Mech skills. Theese should be used with the following priority in mind:
+1.  <Skill id="63293"/> (Jade mech F2)
+2.  <Skill id="63141"/> (Jade mech F3)
+3.  <Skill id="63365"/> (Jade mech F1)
+4.  <Skill id="63095"/> (Elite Skill)
+
+Your boon generation is mostly passive and will be maintained by attacking and pressing your Jade Bot skills off cooldown. However if you are starting from zero stacks of <Boon name="Might"/>, you can instantly ramp to 25 stacks by using <Skill id="63141"/> and <Skill name="Blunderbuss"/>.
+
+If you are on movement heavy fights, traveliing through portals or using forced movement mechanics like the updrafts on Skorvald, you mech may get left behind. Remember to let it catch up, ressumon it or use <Skill name="Shift Signet"/> to port it before sharing boons.
+
+</Card>
+</GridItem>
+</Grid>
