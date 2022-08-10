@@ -1,24 +1,24 @@
 ---
-title: Power Virtuoso
 hidden: false
 archive: false
 hasBeginner: true
-rating: Good
-role: Power Damage
-profession: Mesmer
 specialization: Virtuoso
-conditions:
-  - name: Vulnerability
-    uptime: 25 stacks
 boons: []
-code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: 2022-04-29T11:43:43.231Z
+date: 2022-07-22T13:43:23.326Z
+title: Power Virtuoso
+rating: Good
+role: Power Damage
+profession: Mesmer
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 ---
 
 <Advanced>
@@ -39,44 +39,171 @@ The beginner version of the guide will focus on the most important utility optio
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Mesmer"/> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
-<Information>
+<Divider text="Equipment"/>
 
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+<CharacterWithAr>  
+<Character title="Beginner Virtuoso" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 20702,
+    "Armor": 2210,
+    "Power": 3418,
+    "Precision": 2155,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1459,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1,
+    "Critical Damage": 2.4726666666666666,
+    "Clone Critical Chance": 0.6000000000000001,
+    "Phantasm Critical Chance": 0.95,
+    "Phantasm Critical Damage": 2.4726666666666666,
+    "Power Coefficient": 2964,
+    "Power2 Coefficient": 1118,
+    "Burning Coefficient": 0.53,
+    "Bleeding Coefficient": 8.834999999999999,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0.59,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 28975.97147741972,
+    "Power DPS": 33070.766060482114,
+    "Phantasm Effective Power": 11787.350404166667,
+    "Power2 DPS": 5074.41576890964,
+    "Siphon DPS": 146.7375,
+    "Bleeding Damage": 126.41015625,
+    "Bleeding Stacks": 8.834999999999999,
+    "Bleeding DPS": 1116.83373046875,
+    "Burning Damage": 373.19296875,
+    "Burning Stacks": 0.53,
+    "Burning DPS": 197.7922734375,
+    "Confusion Damage": 124.59890625,
+    "Confusion Stacks": 0.59,
+    "Confusion DPS": 73.5133546875,
+    "Poison Damage": 118.48593749999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 149.8809375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 39680.058687985504,
+    "Effective Health": 91047601.99004976,
+    "Survivability": 46287.545495704,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432,
+    49432
+  ],
+  "weapons": {
+      "weapon1MainType": "Dagger",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Sword",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+  "consumables": {
+      "foodId": 91709,
+      "utilityId": 9443
+    },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 45425,
+    "utility2Id": 10211,
+    "utility3Id": 10267,
+    "elite": "Signet of Humility"
+  },
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
+}}>
 
-</Information>
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
+
+</CharacterWithAr>
 
 </Beginner>
+
+<Advanced>
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="162 AR (No Banner)" gear={{
+<Character title="Power Virtuoso" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
     "Berserker",
     "Assassin",
+    "Berserker",
+    "Assassin",
     "Assassin",
     "Berserker",
     "Berserker",
     "Berserker",
-    "Assassin",
-    "Berserker",
     "Berserker",
     "Assassin",
-    "Berserker",
     "Assassin",
+    "Berserker",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
-    "Health": 15922,
+    "Health": 20702,
     "Armor": 2210,
-    "Power": 3474,
-    "Precision": 2365,
+    "Power": 3508,
+    "Precision": 2156,
     "Toughness": 1243,
-    "Vitality": 1000,
-    "Ferocity": 1626,
+    "Vitality": 1478,
+    "Ferocity": 1460,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
@@ -85,58 +212,66 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "Condition Duration": 0,
     "Boon Duration": 0.162,
     "Critical Chance": 1,
-    "Critical Damage": 2.584,
-    "Power Coefficient": 3539,
-    "Burning Coefficient": 0.53,
-    "Bleeding Coefficient": 7.11,
+    "Critical Damage": 2.473  ,
+    "Power Coefficient": 3013,
+    "Power2 Coefficient": 1172,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 8.325,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
-    "Confusion Coefficient": 0.24,
+    "Confusion Coefficient": 0.21,
     "Flat DPS": 0,
-    "Effective Power": 32515.756952458334,
-    "Power DPS": 44310.07464564885,
-    "Bleeding Damage": 126.41015625,
-    "Bleeding Stacks": 7.11,
-    "Bleeding DPS": 898.7762109375001,
+    "Effective Power": 29738.943224923456,
+    "Power DPS": 34502.67074959352,
+    "Power2 DPS": 5459.581863855729,
+    "Bleeding Damage": 1052.3645507812498,
+    "Bleeding Stacks": 8.325,
+    "Bleeding DPS": 126.41015625,
     "Burning Damage": 373.19296875,
-    "Burning Stacks": 0.53,
-    "Burning DPS": 197.7922734375,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
     "Confusion Damage": 124.59890625,
     "Confusion Stacks": 0.24,
-    "Confusion DPS": 29.9037375,
+    "Confusion DPS": 26.165770312499998,
     "Poison Damage": 118.48593749999999,
     "Poison Stacks": 0,
     "Poison DPS": 0,
     "Torment Damage": 149.8809375,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 45436.54686752385,
+    "Damage": 41187.520434543,
     "Effective Health": 70025114.4278607,
-    "Survivability": 35599.95649611627,
+    "Survivability": 46287.545495704,
     "Effective Healing": 390,
-    "Healing": 390
+    "Healing": 390,
+    "Siphon Base Coefficient": 139.75,
+    "Siphon DPS": 146.7375,
+    "Phantasm Critical Chance": 0.95,
+    "Phantasm Critical Damage": 2.4726666666666666,
+    "Phantasm Effective Power": 12097.725341666664
+    
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
       "weapon1MainType": "Dagger",
@@ -148,377 +283,30 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
       "weapon2MainSigil2": "Impact"
     },
   "consumables": {
-      "foodId": 91805,
+      "foodId": 91709,
       "utilityId": 9443,
       "infusion": "Mighty +9 Agony Infusion"
     },
   "skills": {
     "healId": 21750,
-    "utility1Id": 10267,
-    "utility2Id": 45425,
-    "utility3Id": 10211,
+    "utility1Id": 45425,
+    "utility2Id": 10211,
+    "utility3Id": 10267,
     "elite": "Signet of Humility"
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
 }}>
 
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 
 </Character>
-<Character advanced title="162 AR (Banner)" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 15922,
-    "Armor": 2210,
-    "Power": 3573,
-    "Precision": 2363,
-    "Toughness": 1243,
-    "Vitality": 1000,
-    "Ferocity": 1626,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 0.999047619047619,
-    "Critical Damage": 2.584,
-    "Power Coefficient": 3539,
-    "Burning Coefficient": 0.53,
-    "Bleeding Coefficient": 7.11,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0.24,
-    "Flat DPS": 0,
-    "Effective Power": 33420.72961528832,
-    "Power DPS": 45543.30462399129,
-    "Bleeding Damage": 126.41015625,
-    "Bleeding Stacks": 7.11,
-    "Bleeding DPS": 898.7762109375001,
-    "Burning Damage": 373.19296875,
-    "Burning Stacks": 0.53,
-    "Burning DPS": 197.7922734375,
-    "Confusion Damage": 124.59890625,
-    "Confusion Stacks": 0.24,
-    "Confusion DPS": 29.9037375,
-    "Poison Damage": 118.48593749999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 149.8809375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 46669.77684586629,
-    "Effective Health": 70025114.4278607,
-    "Survivability": 35599.95649611627,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-      "weapon1MainType": "Dagger",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-  "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 10267,
-    "utility2Id": 45425,
-    "utility3Id": 10211,
-    "elite": "Signet of Humility"
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
-}}>
 
-This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>  
-<Character advanced title="222 AR (No Banner)" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 15922,
-    "Armor": 2300,
-    "Power": 3560,
-    "Precision": 2366,
-    "Toughness": 1333,
-    "Vitality": 1000,
-    "Ferocity": 1626,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 333,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.222,
-    "Critical Chance": 1.0004761904761905,
-    "Critical Damage": 2.584,
-    "Power Coefficient": 3539,
-    "Burning Coefficient": 0.53,
-    "Bleeding Coefficient": 7.11,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0.24,
-    "Flat DPS": 0,
-    "Effective Power": 33320.69509232921,
-    "Power DPS": 45406.98495639318,
-    "Bleeding Damage": 126.41015625,
-    "Bleeding Stacks": 7.11,
-    "Bleeding DPS": 898.7762109375001,
-    "Burning Damage": 373.19296875,
-    "Burning Stacks": 0.53,
-    "Burning DPS": 197.7922734375,
-    "Confusion Damage": 124.59890625,
-    "Confusion Stacks": 0.24,
-    "Confusion DPS": 29.9037375,
-    "Poison Damage": 118.48593749999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 149.8809375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 46533.45717826818,
-    "Effective Health": 72876815.92039803,
-    "Survivability": 37049.72848012101,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-      "weapon1MainType": "Dagger",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-  "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 10267,
-    "utility2Id": 45425,
-    "utility3Id": 10211,
-    "elite": "Signet of Humility"
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
-}}>
-
-This build assumes you have neither <Skill name="Banner of Discipline"/> nor <Trait name="Spotter"/>.
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>  
-<Character advanced title="222 AR (Banner)" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Dragon",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 16482,
-    "Armor": 2300,
-    "Power": 3611,
-    "Precision": 2365,
-    "Toughness": 1333,
-    "Vitality": 1056,
-    "Ferocity": 1651,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 333,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.222,
-    "Critical Chance": 1,
-    "Critical Damage": 2.6006666666666667,
-    "Power Coefficient": 3539,
-    "Burning Coefficient": 0.53,
-    "Bleeding Coefficient": 7.11,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0.24,
-    "Flat DPS": 0,
-    "Effective Power": 34016.03775652977,
-    "Power DPS": 46354.54663856714,
-    "Bleeding Damage": 126.41015625,
-    "Bleeding Stacks": 7.11,
-    "Bleeding DPS": 898.7762109375001,
-    "Burning Damage": 373.19296875,
-    "Burning Stacks": 0.53,
-    "Burning DPS": 197.7922734375,
-    "Confusion Damage": 124.59890625,
-    "Confusion Stacks": 0.24,
-    "Confusion DPS": 29.9037375,
-    "Poison Damage": 118.48593749999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 149.8809375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 47481.01886044214,
-    "Effective Health": 75440000.00000001,
-    "Survivability": 38352.82155566854,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-      "weapon1MainType": "Dagger",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-  "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 10267,
-    "utility2Id": 45425,
-    "utility3Id": 10211,
-    "elite": "Signet of Humility"
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 1016, "type": "Trait"}]
-}}>
-
-This build assumes you have either <Skill name="Banner of Discipline"/> or <Trait name="Spotter"/>.
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>  
 </CharacterWithAr>
+
+</Advanced>
 
 <Divider text="Build"/>
 
@@ -603,11 +391,10 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
-| <Skill name="Signet of Inspiration" size="big" disableText/>   | For precasting before the boss.                                                                                                                                                            |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                               |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                              
 | <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
+| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                               |
 | **Skips**                                                      |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
 | <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |
@@ -617,7 +404,7 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |
 | <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                        |
 
 </Advanced>
 
@@ -791,7 +578,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
 
-<Video caption="by Tipcat [CnD]" youtube="92FJUY1IKh4"/>
+<Video caption="by Tipcat [CnD]" youtube="A2GXvVGew8o"/>
 </Card>
 
 <Beginner>

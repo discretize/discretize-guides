@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-01-31T15:45:07.750Z
+date: 2022-07-01T17:26:44.300Z
 title: Thaumanova Reactor
 image: ./images/header.jpg
 group: T4
@@ -16,26 +16,26 @@ consumables:
   - 78978
   - 49940
 record:
-  time: 2 min 2 sec
+  time: 1 min 42 sec
   by:
-    - name: Snow Crows
-      tag: SC
+    - name: discretize
+      tag: dT
   youtube:
-    - id: lxkzfx4iOYo
-      name: Trace
+    - id: https://youtu.be/d8qBXt6FFtI
+      name: Roach
       specialization: Thief
-    - id: DT4GWaM3bUw
-      name: Nika
-      specialization: Mesmer
-    - id: bYvbWGXh0kg
-      name: Tobi
+    - id: https://youtu.be/RvXdCd5CtGM
+      name: Maarten
       specialization: Guardian
-    - id: 1wI2nI8O8oU
-      name: Max
-      specialization: Guardian
-    - id: eg1lAdxwsJk
-      name: Skii
+    - id: https://youtu.be/r9xYuFK85UI
+      name: Inky
       specialization: Renegade
+    - id: https://youtu.be/XDKpDohqF-8
+      name: Hyp
+      specialization: Thief
+    - id: https://youtu.be/nt9Wi6TJrwA
+      name: Jetrell
+      specialization: Soulbeast
 ---
 
 <Grid>

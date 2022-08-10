@@ -1,6 +1,15 @@
 ---
+title: Power Alac Renegade
+hidden: false
+archive: false
+rating: Meta
+role: Power Damage
 author: Casual Sophie - Jin Su Liang.9036
+profession: Revenant
 specialization: Renegade
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -8,27 +17,18 @@ boons:
   - name: Might
     uptime: 10 stacks
     variant: party
-code: '[&DQkDJg8mPz3cEdwR1BHUESsSKxIGEgYSyhHKEQUCAgPUESsSBhIGEtQRKxI=]'
+code: "[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: pug
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-03-29T01:54:06.400Z
-title: Power Alac Renegade
-rating: Meta
-role: Power Damage
-profession: Revenant
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
-cmGuide: pug
-archive: false
-hidden: false
+date: 2022-08-01T11:28:14.600Z
 ---
 
-The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, a unique buff over 150 <Attribute name="Ferocity"/> with <Trait name="Assassins Presence"/> and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
+The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other damage dealing classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
@@ -41,63 +41,74 @@ To see how the <Specialization name="Renegade"/> is played in Pick Up Groups ref
 <CharacterWithAr>
 
 <Character title="80% BD - 162 AR" gear={{
-    "profession": "Revenant",
-    "weight": "Heavy",
-    "gear": [
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Diviner",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Diviner",
-      "Diviner",
-      "Diviner"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2514,
-      "Power": 3327,
-      "Precision": 2037,
-      "Toughness": 1243,
-      "Vitality": 1000,
-      "Ferocity": 1139,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 1204,
-      "Healing Power": 0,
-      "Agony Resistance": 162,
-      "Condition Duration": 0,
-      "Boon Duration": 0.8026666666666667,
-      "Critical Chance": 1.0738095238095238,
-      "Critical Damage": 2.2593333333333334,
-      "Effective Power": 25745.248386407973,
-      "Power DPS": 36610.39749364831,
-      "Burning Damage": 438.86875,
-      "Burning Stacks": 1.7,
-      "Burning DPS": 746.076875,
-      "Bleeding Damage": 118.925,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Poison Damage": 139.3375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 176.2575,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 118.925,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 37356.474368648305,
-      "Effective Health": 55038373.5,
-      "Survivability": 27980.87112353838,
-      "Effective Healing": 390,
-      "Healing": 390
+  "profession": "Revenant",
+  "weight": "Heavy",
+  "gear": [
+    "Diviner",
+    "Assassin",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner"
+  ],
+  "attributes": {
+    "Health": 20702,
+    "Armor": 2514,
+    "Power": 3661,
+    "Precision": 1687,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 969,
+    "Condition Damage": 500,
+    "Expertise": 0,
+    "Concentration": 1270,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.8466666666666667,
+    "Critical Chance": 0.9571428571428572,
+    "Critical Damage": 2.146,
+    "Power Coefficient": 3299,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.72,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 21898.376809424775,
+    "Power DPS": 27817.76861543794,
+    "Power2 DPS": 0,
+    "Siphon DPS": 173.98875,
+    "Bleeding Damage": 90.675,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 363.571875,
+    "Burning Stacks": 1.72,
+    "Burning DPS": 625.343625,
+    "Confusion Damage": 113.866875,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 110.72812499999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 133.92,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 28617.100990437943,
+    "Effective Health": 103571797.01492539,
+    "Survivability": 52654.70107520356,
+    "Effective Healing": 390,
+    "Healing": 390
     },
     "runeId": 24836,
     "runeName": "Scholar",
@@ -124,7 +135,34 @@ To see how the <Specialization name="Renegade"/> is played in Pick Up Groups ref
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -133,62 +171,73 @@ Check the CM-guides for information on when to play a more aggressive build. For
 </Character>
 <Character title="80% BD - 222 AR" gear={{
     "profession": "Revenant",
-    "weight": "Heavy",
-    "gear": [
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Berserker",
-      "Diviner",
-      "Diviner",
-      "Diviner",
-      "Berserker",
-      "Berserker",
-      "Diviner",
-      "Diviner",
-      "Diviner"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2604,
-      "Power": 3345,
-      "Precision": 2152,
-      "Toughness": 1333,
-      "Vitality": 1000,
-      "Ferocity": 1164,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 1202,
-      "Healing Power": 0,
-      "Agony Resistance": 222,
-      "Condition Duration": 0,
-      "Boon Duration": 0.8013333333333334,
-      "Critical Chance": 1.1285714285714286,
-      "Critical Damage": 2.276,
-      "Effective Power": 26075.48262151496,
-      "Power DPS": 37079.9989685232,
-      "Burning Damage": 438.86875,
-      "Burning Stacks": 1.7,
-      "Burning DPS": 746.076875,
-      "Bleeding Damage": 118.925,
-      "Bleeding Stacks": 0,
-      "Bleeding DPS": 0,
-      "Poison Damage": 139.3375,
-      "Poison Stacks": 0,
-      "Poison DPS": 0,
-      "Torment Damage": 176.2575,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 118.925,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 37826.0758435232,
-      "Effective Health": 57008721,
-      "Survivability": 28982.572953736653,
-      "Effective Healing": 390,
-      "Healing": 390
+  "weight": "Heavy",
+  "gear": [
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Berserker",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Assassin",
+    "Diviner",
+    "Diviner"
+  ],
+  "attributes": {
+    "Health": 21602,
+    "Armor": 2604,
+    "Power": 3672,
+    "Precision": 1722,
+    "Toughness": 1333,
+    "Vitality": 1568,
+    "Ferocity": 994,
+    "Condition Damage": 500,
+    "Expertise": 0,
+    "Concentration": 1268,
+    "Healing Power": 0,
+    "Agony Resistance": 222,
+    "Condition Duration": 0,
+    "Boon Duration": 0.8453333333333333,
+    "Critical Chance": 0.9738095238095238,
+    "Critical Damage": 2.1626666666666665,
+    "Power Coefficient": 3299,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.72,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 22334.24517303751,
+    "Power DPS": 28371.457383847035,
+    "Power2 DPS": 0,
+    "Siphon DPS": 173.98875,
+    "Bleeding Damage": 90.675,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 363.571875,
+    "Burning Stacks": 1.72,
+    "Burning DPS": 625.343625,
+    "Confusion Damage": 113.866875,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 110.72812499999999,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 133.92,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 29170.789758847037,
+    "Effective Health": 111943498.5074627,
+    "Survivability": 56910.77707547671,
+    "Effective Healing": 390,
+    "Healing": 390
     },
     "runeId": 24836,
     "runeName": "Scholar",
@@ -215,7 +264,34 @@ Check the CM-guides for information on when to play a more aggressive build. For
       "legend1": "legendaryassassinstance",
       "legend2": "legendaryrenegadestance"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -228,7 +304,7 @@ Check the CM-guides for information on when to play a more aggressive build. For
 
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Incensed Response,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Incensed Response,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 
 <Card title="Defiance Bar">
 
@@ -445,7 +521,7 @@ For more information about advanced rotation and gameplay refer to [Static Reneg
 
 <Warning>
 
-Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Holosmith"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>. Since <Instability name="No Pain, No Gain"/> doesn't give the enemy <Boon name="Resolution"/>, you do not need to worry about this instability in a group whose damage mostly consists of condition damage.
+Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>.
 </Warning>
 
 <Grid>

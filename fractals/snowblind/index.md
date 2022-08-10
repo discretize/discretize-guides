@@ -3,7 +3,7 @@ cycle: Night
 potions:
   - id: 8883
     description: for the Svanir & end boss
-date: 2022-01-28T09:20:46.276Z
+date: 2022-07-01T17:34:15.200Z
 title: Snowblind
 image: ./images/header.jpg
 group: T4
@@ -22,23 +22,26 @@ consumables:
   - 78978
   - 49940
 record:
-  time: 3 min 32 sec
+  time: 2 min 52 sec
   by:
-    - name: Snow Crows
-      tag: SC
+    - name: Discretize
+      tag: dT
   youtube:
-    - id: vvW8-vlCAjI
-      name: Yui
-      specialization: Chronomancer
-    - id: 5rJTZVRhEqQ
-      name: Derpy
-      specialization: Tempest
-    - id: WKvibVHOjsY
-      name: Roul
+    - id: https://youtu.be/evRTZaQvAoY
+      name: Hyp
+      specialization: Soulbeast
+    - id: https://youtu.be/ZPOBxCaZ-Hk
+      name: Inky
+      specialization: Engineer
+    - id: https://youtu.be/So9n9a7zAzk
+      name: Roach
+      specialization: Berserker
+    - id: https://youtu.be/4gf7hRl36hk
+      name: Maarten
+      specialization: Firebrand
+    - id: https://youtu.be/ACQlHBKCUxM
+      name: Magic
       specialization: Daredevil
-    - id: 5OW6VHot8WQ
-      name: Cheezy
-      specialization: Druid
 ---
 
 ## Ice Wall <Item id="8883" disableText/><Item id="24667" disableText/>

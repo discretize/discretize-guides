@@ -1,5 +1,5 @@
 ---
-archive: false
+archive: true
 classification:
   - 3
   - 5
@@ -22,7 +22,7 @@ conditions:
   - name: Bleeding
   - name: Torment
 code: '[&DQUsPhwbOh8MAYUAIBcAAD4BAAAvAQAAPRYAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-04-29T10:51:25.961Z
+date: 2022-08-05T10:51:25.961Z
 cmGuide: ''
 ---
 
@@ -47,50 +47,62 @@ We do not recommend running these builds in Shattered Observatory for new player
 
 <CharacterWithAr>  
 <Character title="162 Agony Resistance" gear={{
-    "profession": "Thief",
-    "weight": "Medium",
-    "gear": [
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper"
-    ],
+  "profession": "Thief",
+  "weight": "Medium",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
   "attributes": {
-    "Health": 11645,
+    "Health": 16425,
     "Armor": 2361,
     "Power": 2923,
-    "Precision": 1876,
+    "Precision": 1633,
     "Toughness": 1243,
-    "Vitality": 1000,
-    "Ferocity": 150,
+    "Vitality": 1478,
+    "Ferocity": 0,
     "Condition Damage": 2525,
     "Expertise": 853,
     "Concentration": 423,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.7686666666666666,
+    "Condition Duration": 0.6686666666666666,
     "Boon Duration": 0.282,
-    "Critical Chance": 0.6671428571428571,
-    "Critical Damage": 1.6,
-    "Poison Duration": 0.33,
-    "Effective Power": 9646.035455995714,
-    "Power DPS": 6277.165930162787,
+    "Critical Chance": 0.6014285714285714,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 1690,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0.5,
+    "Bleeding Coefficient": 21.58,
+    "Poison Coefficient": 14.6,
+    "Torment Coefficient": 9.5,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Poison Duration": 0.43000000000000005,
+    "Bleeding Duration": 0.2,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 8807.685069857143,
+    "Power DPS": 5731.608690049508,
+    "Power2 DPS": 0,
+    "Siphon DPS": 160.71249999999998,
     "Bleeding Damage": 365.97656249999994,
-    "Bleeding Stacks": 33.60466666666667,
-    "Bleeding DPS": 12298.520390624999,
+    "Bleeding Stacks": 40.325826666666664,
+    "Bleeding DPS": 14758.307423437496,
     "Burning Damage": 881.5078124999999,
-    "Burning Stacks": 0.8843333333333333,
-    "Burning DPS": 779.5467421874998,
+    "Burning Stacks": 0.8343333333333334,
+    "Burning DPS": 735.4713515625,
     "Confusion Damage": 345.97968749999995,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
@@ -98,40 +110,84 @@ We do not recommend running these builds in Shattered Observatory for new player
     "Poison Stacks": 29.2,
     "Poison DPS": 12124.113749999999,
     "Torment Damage": 437.14687499999997,
-    "Torment Stacks": 16.802333333333333,
-    "Torment DPS": 7345.087509374999,
-    "Damage": 38824.43432235029,
-    "Effective Health": 60793466.00331675,
-    "Survivability": 30906.693443475724,
+    "Torment Stacks": 15.852333333333334,
+    "Torment DPS": 6929.797978125,
+    "Damage": 40440.0116931745,
+    "Effective Health": 85747761.19402985,
+    "Survivability": 43593.16786681741,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "runeId": 24848,
-    "runeName": "Nightmare",
-    "infusions": [
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130
-    ],
-    "weapons": {
-      "weapon1MainType": "Pistol",
-      "weapon1MainSigil1": "bursting",
-      "weapon1OffType": "Dagger",
-      "weapon1OffSigil": "earth"
+  "runeId": 24687,
+  "runeName": "Afflicted",
+  "infusions": [
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
+  ],
+  "weapons": {
+    "weapon1MainType": "Pistol",
+    "weapon1MainSigil1Id": 44944,
+    "weapon1OffType": "Dagger",
+    "weapon1OffSigilId": 24560,
+    "weapon2OffType": "Pistol",
+    "weapon2OffSigilId": 24639
+  },
+  "consumables": {
+    "foodId": 91878,
+    "utilityId": 77567,
+    "infusionId": 37130
+  },
+  "skills": {
+    "healId": 13027,
+    "utility1Id": 41372,
+    "utility2Id": 13037,
+    "utility3Id": 13093,
+    "eliteId": 45508
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91878,
-      "utility": "tuning-icicle",
-      "infusion": "Malign +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "Hide in Shadows",
-      "utility1": "Mercy",
-      "utility2": "Skale Venom",
-      "utility3": "Spider Venom",
-      "elite": "Shadow Meld"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.

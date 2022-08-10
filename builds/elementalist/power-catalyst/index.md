@@ -1,7 +1,7 @@
 ---
 title: Power (Quick) Catalyst
 hidden: false
-archive: false
+archive: true
 rating: Good
 role: Power Damage
 profession: Elementalist
@@ -23,7 +23,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2022-05-04T08:33:15.479Z
+date: 2022-08-08T00:44:27.069Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Quickness"/> and additional <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -38,7 +38,7 @@ This build has one of the harder rotations in the game but is very enjoyable to 
 
 <CharacterWithAr>
 
-<Character title="DPS - 162 AR" gear={{
+<Character title="DPS" gear={{
   "profession": "Elementalist",
   "weight": "Light",
   "gear": [
@@ -57,13 +57,13 @@ This build has one of the harder rotations in the game but is very enjoyable to 
     "Berserker"
   ],
   "attributes": {
-    "Health": 16465,
+    "Health": 18895,
     "Armor": 2410,
-    "Power": 4316,
-    "Precision": 2595,
+    "Power": 4402.9,
+    "Precision": 2352,
     "Toughness": 1443,
-    "Vitality": 1482,
-    "Ferocity": 2171,
+    "Vitality": 1725,
+    "Ferocity": 2029.85,
     "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
@@ -71,62 +71,64 @@ This build has one of the harder rotations in the game but is very enjoyable to 
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 1.1095238095238096,
-    "Critical Damage": 2.947333333333333,
-    "Power Coefficient": 3804,
-    "Burning Coefficient": 6.67,
-    "Bleeding Coefficient": 5.78,
+    "Critical Chance": 1.0938095238095238,
+    "Critical Damage": 2.8532333333333333,
+    "Power Coefficient": 3025,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 3.97,
+    "Bleeding Coefficient": 4.87,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Burning Duration": 0.2,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 41575.06501475929,
-    "Power DPS": 60897.78487337094,
+    "Effective Power": 34277.076135279895,
+    "Power DPS": 39926.12834394366,
+    "Power2 DPS": 0,
     "Siphon DPS": 139.75,
-    "Bleeding Damage": 120.0289715625,
-    "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 693.7674556312501,
-    "Burning Damage": 442.942734609375,
-    "Burning Stacks": 8.004,
-    "Burning DPS": 3545.3136478134375,
-    "Confusion Damage": 147.886441828125,
+    "Bleeding Damage": 120.535562214,
+    "Bleeding Stacks": 4.87,
+    "Bleeding DPS": 587.00818798218,
+    "Burning Damage": 444.8122053345,
+    "Burning Stacks": 4.764,
+    "Burning DPS": 2119.0853462135583,
+    "Confusion Damage": 148.5106068771,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 140.63095921875,
+    "Poison Damage": 141.224501997,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 177.89368471875,
+    "Torment Damage": 178.64449743059998,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 65276.61597681563,
-    "Effective Health": 87740519.62410171,
-    "Survivability": 44606.263154093394,
+    "Damage": 42771.9718781394,
+    "Effective Health": 90620796.01990052,
+    "Survivability": 46070.56228769726,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Hammer",
@@ -136,7 +138,7 @@ This build has one of the harder rotations in the game but is very enjoyable to 
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082,
+    "utilityId": 77569,
     "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
@@ -146,7 +148,7 @@ This build has one of the harder rotations in the game but is very enjoyable to 
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -164,29 +166,17 @@ This build has one of the harder rotations in the game but is very enjoyable to 
       "type": "Condition"
     },
     {
-      "id": "frostSpirit",
-      "gw2id": 12497,
-      "type": "Skill"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
-}} >
-
-This is the default setup for the full DPS variant of the build. Gear does not change with higher AR, <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/>.
-
-You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
+}}>
 
 Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
@@ -196,91 +186,93 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   "profession": "Elementalist",
   "weight": "Light",
   "gear": [
+    "Assassin",
+    "Assassin",
     "Diviner",
-    "Berserker",
+    "Assassin",
     "Diviner",
-    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
     "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
+    "Assassin",
     "Diviner",
-    "Berserker"
+    "Diviner",
+    "Diviner"
   ],
   "attributes": {
-    "Health": 15235,
+    "Health": 17665,
     "Armor": 2310,
-    "Power": 3983,
-    "Precision": 2406,
+    "Power": 3783.3,
+    "Precision": 2154,
     "Toughness": 1343,
-    "Vitality": 1359,
-    "Ferocity": 1946,
+    "Vitality": 1602,
+    "Ferocity": 1698.3,
     "Condition Damage": 750,
     "Expertise": 0,
-    "Concentration": 582,
+    "Concentration": 977,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.38799999999999996,
-    "Critical Chance": 1.0195238095238095,
-    "Critical Damage": 2.7973333333333334,
-    "Power Coefficient": 3804,
-    "Burning Coefficient": 6.67,
-    "Bleeding Coefficient": 5.78,
+    "Boon Duration": 0.6513333333333334,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.6322,
+    "Power Coefficient": 3025,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 3.97,
+    "Bleeding Coefficient": 4.87,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Burning Duration": 0.2,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 36414.702989402,
-    "Power DPS": 53339.05666988264,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 120.0289715625,
-    "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 693.7674556312501,
-    "Burning Damage": 442.942734609375,
-    "Burning Stacks": 8.004,
-    "Burning DPS": 3545.3136478134375,
-    "Confusion Damage": 147.886441828125,
+    "Effective Power": 22365.575096692286,
+    "Power DPS": 26051.545886597676,
+    "Power2 DPS": 0,
+    "Siphon DPS": 125.775,
+    "Bleeding Damage": 99.244443776625,
+    "Bleeding Stacks": 4.87,
+    "Bleeding DPS": 483.3204411921638,
+    "Burning Damage": 366.2416227428438,
+    "Burning Stacks": 4.764,
+    "Burning DPS": 1744.7750907469078,
+    "Confusion Damage": 122.27804229493125,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 140.63095921875,
+    "Poison Damage": 116.27893785768751,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 177.89368471875,
+    "Torment Damage": 147.0891532390875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 57717.887773327326,
-    "Effective Health": 77817247.09784412,
-    "Survivability": 39561.386424933466,
+    "Damage": 28405.416418536748,
+    "Effective Health": 81206268.65671644,
+    "Survivability": 41284.32570244862,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Hammer",
@@ -290,7 +282,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082,
+    "utilityId": 77569,
     "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
@@ -300,7 +292,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -318,130 +310,116 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
       "type": "Condition"
     },
     {
-      "id": "spotter",
-      "gw2id": 1016,
-      "type": "Trait"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "frostSpirit",
-      "gw2id": 12497,
-      "type": "Skill"
-    },
-    {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
-}} >
-
-This version assumes that you have either <Trait name="Spotter"/> or <Skill name="Banner of Discipline"/>. If you have neither, use <Item name="Bowl of Curry Butternut Squash Soup"/> or swap your Shoulders and 1 Ring from Berserker to Assassin.
-
-You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
-
-The build aims for 38% boon duration which is enough to upkeep <Boon name="Quickness"/> while playing with <Trait name="Sphere Specialist"/>, given everyone stands in your <Skill id="62940"/> for its full duration every time you cast it. If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+}}>
 
 Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
+ If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
 </Character>
 
-<Character title="Quick - 222 AR" gear={{
+<Character title="Quick - 222 AR"gear={{
   "profession": "Elementalist",
   "weight": "Light",
   "gear": [
+    "Assassin",
+    "Assassin",
+    "Diviner",
+    "Assassin",
     "Diviner",
     "Berserker",
     "Diviner",
-    "Berserker",
-    "Berserker",
+    "Assassin",
     "Diviner",
     "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
+    "Diviner",
+    "Diviner",
+    "Assassin"
   ],
   "attributes": {
-    "Health": 15235,
+    "Health": 18565,
     "Armor": 2400,
-    "Power": 4002,
-    "Precision": 2422,
+    "Power": 3826.3,
+    "Precision": 2152,
     "Toughness": 1433,
-    "Vitality": 1359,
-    "Ferocity": 1974,
+    "Vitality": 1692,
+    "Ferocity": 1724.3,
     "Condition Damage": 750,
     "Expertise": 0,
-    "Concentration": 570,
+    "Concentration": 976,
     "Healing Power": 0,
     "Agony Resistance": 222,
     "Condition Duration": 0,
-    "Boon Duration": 0.38,
-    "Critical Chance": 1.0271428571428571,
-    "Critical Damage": 2.816,
-    "Power Coefficient": 3804,
-    "Burning Coefficient": 6.67,
-    "Bleeding Coefficient": 5.78,
+    "Boon Duration": 0.6506666666666666,
+    "Critical Chance": 0.9985714285714284,
+    "Critical Damage": 2.6495333333333333,
+    "Power Coefficient": 3025,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 3.97,
+    "Bleeding Coefficient": 4.87,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Burning Duration": 0.2,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 36832.56635743561,
-    "Power DPS": 53951.129158138254,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 120.0289715625,
-    "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 693.7674556312501,
-    "Burning Damage": 442.942734609375,
-    "Burning Stacks": 8.004,
-    "Burning DPS": 3545.3136478134375,
-    "Confusion Damage": 147.886441828125,
+    "Effective Power": 22755.19898343852,
+    "Power DPS": 26505.381950289382,
+    "Power2 DPS": 0,
+    "Siphon DPS": 125.775,
+    "Bleeding Damage": 99.244443776625,
+    "Bleeding Stacks": 4.87,
+    "Bleeding DPS": 483.3204411921638,
+    "Burning Damage": 366.2416227428438,
+    "Burning Stacks": 4.764,
+    "Burning DPS": 1744.7750907469078,
+    "Confusion Damage": 122.27804229493125,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 140.63095921875,
+    "Poison Damage": 116.27893785768751,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 177.89368471875,
+    "Torment Damage": 147.0891532390875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 58329.96026158294,
-    "Effective Health": 80849087.89386402,
-    "Survivability": 41102.739142788014,
+    "Damage": 28859.252482228454,
+    "Effective Health": 88668656.71641792,
+    "Survivability": 45078.11729355258,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Hammer",
@@ -451,7 +429,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082,
+    "utilityId": 77569,
     "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
@@ -461,7 +439,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -479,124 +457,114 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
       "type": "Condition"
     },
     {
-      "id": "frostSpirit",
-      "gw2id": 12497,
-      "type": "Skill"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
-}} >
-
-This version assumes neither <Trait name="Spotter"/> nor <Skill name="Banner of Discipline"/>. If you have one of them, the gear stays the same.
-
-You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
-
-The build aims for 38% boon duration which is enough to upkeep <Boon name="Quickness"/> while playing with <Trait name="Sphere Specialist"/>, given everyone stands in your <Skill id="62940"/> for its full duration every time you cast it. If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+}}>
 
 Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
+ If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
 
-<Character title="Arcane - 162 AR" gear={{
+<Character title="Arcane - 162 AR"gear={{
   "profession": "Elementalist",
   "weight": "Light",
   "gear": [
     "Diviner",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Berserker",
     "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
+    "Assassin",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Diviner",
+    "Assassin"
   ],
   "attributes": {
-    "Health": 15235,
-    "Armor": 2400,
-    "Power": 3762,
-    "Precision": 2472,
-    "Toughness": 1433,
-    "Vitality": 1359,
-    "Ferocity": 2028,
+    "Health": 17665,
+    "Armor": 2310,
+    "Power": 3645,
+    "Precision": 2154,
+    "Toughness": 1343,
+    "Vitality": 1602,
+    "Ferocity": 1752.3,
     "Condition Damage": 750,
     "Expertise": 0,
-    "Concentration": 572,
+    "Concentration": 975,
     "Healing Power": 0,
-    "Agony Resistance": 222,
+    "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.3813333333333333,
-    "Critical Chance": 1.0509523809523809,
-    "Critical Damage": 2.852,
-    "Power Coefficient": 3804,
-    "Burning Coefficient": 6.67,
-    "Bleeding Coefficient": 5.78,
+    "Boon Duration": 0.65,
+    "Critical Chance": 0.9995238095238095,
+    "Critical Damage": 2.6681999999999997,
+    "Power Coefficient": 3025,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 3.97,
+    "Bleeding Coefficient": 4.87,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 34251.096111938925,
-    "Power DPS": 50169.876630656785,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 120.0289715625,
-    "Bleeding Stacks": 5.78,
-    "Bleeding DPS": 693.7674556312501,
-    "Burning Damage": 442.942734609375,
-    "Burning Stacks": 6.67,
-    "Burning DPS": 2954.428039844531,
-    "Confusion Damage": 147.886441828125,
+    "Effective Power": 22082.5394984677,
+    "Power DPS": 25721.864452393067,
+    "Power2 DPS": 0,
+    "Siphon DPS": 125.775,
+    "Bleeding Damage": 99.244443776625,
+    "Bleeding Stacks": 4.87,
+    "Bleeding DPS": 483.3204411921638,
+    "Burning Damage": 366.2416227428438,
+    "Burning Stacks": 3.97,
+    "Burning DPS": 1453.9792422890898,
+    "Confusion Damage": 122.27804229493125,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 140.63095921875,
+    "Poison Damage": 116.27893785768751,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 177.89368471875,
+    "Torment Damage": 147.0891532390875,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 53957.82212613257,
-    "Effective Health": 80849087.89386402,
-    "Survivability": 41102.739142788014,
+    "Damage": 27784.939135874323,
+    "Effective Health": 81206268.65671644,
+    "Survivability": 41284.32570244862,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
   ],
   "weapons": {
     "weapon1MainType": "Hammer",
@@ -606,7 +574,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   },
   "consumables": {
     "foodId": 91805,
-    "utilityId": 50082,
+    "utilityId": 77569,
     "infusion": "Mighty +9 Agony Infusion"
   },
   "skills": {
@@ -616,7 +584,7 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
     "utility3Id": 5734,
     "eliteId": 5516
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -634,38 +602,25 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
       "type": "Condition"
     },
     {
-      "id": "frostSpirit",
-      "gw2id": 12497,
-      "type": "Skill"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
-}} >
+}}>
 
-If you are running Arcane instead of Fire, you can take this setup to reach 38% boon duration due to the extra free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. At 198 or more Agony Resistance, you can run full Berserker.
-
-This version assumes neither <Trait name="Spotter"/> nor <Skill name="Banner of Discipline"/>. If you have one of them, the gear stays the same.
-
-You can swap some Berserker pieces to Dragon for a minor DPS loss (as long as you still reach crit-cap).
-
-The build aims for 38% boon duration which is enough to upkeep <Boon name="Quickness"/> while playing with <Trait name="Sphere Specialist"/>, given everyone stands in your <Skill id="62940"/> for its full duration every time you cast it. If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+If you are running Arcane instead of Fire, you can take this setup to reach 38% boon duration due to the extra free <Attribute name="Concentration" /> from <Trait name="elementalenchantment" />.
 
 Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
-</Character>
+If you want to use more or less boon duration and still crit-cap, use the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
+</Character>
 </CharacterWithAr>
 
 <Divider text="Build"/>

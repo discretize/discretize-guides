@@ -3,7 +3,7 @@ cycle: Day
 potions:
   - id: 8887
     description: for Old Tom and the Raving Asura
-date: 2022-03-22T23:51:43.539Z
+date: 2022-07-01T17:32:24.400Z
 title: Uncategorized
 image: ./images/header.jpg
 group: T4
@@ -34,10 +34,13 @@ record:
       name: Hyp
       specialization: Scourge
     - id: TMaUAVzLx40
-      name: Marty
+      name: Maarten
       specialization: Firebrand
     - id: 1hDaW8FnuH0
       name: Jetrell
+      specialization: Firebrand
+    - id: https://www.youtube.com/watch?v=3DHpBvUIJ-w
+      name: Roach
       specialization: Firebrand
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Power Holosmith
 hidden: false
-archive: false
+archive: true
 rating: Good
 role: Power Damage
 author: Ascers.6082
@@ -10,15 +10,15 @@ specialization: Holosmith
 conditions:
   - name: Vulnerability
     uptime: 20 Stacks
-code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-04-29T10:33:54.297Z
+date: 2022-08-08T00:53:21.189Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -45,97 +45,155 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="150 Agony Resistance" gear={{
-    "profession": "Engineer",
-    "weight": "Medium",
-    "gear": [
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker",
-      "Berserker"
-    ],
-    "attributes": {
-      "Health": 15922,
-      "Armor": 2343,
-      "Power": 3496,
-      "Precision": 2286,
-      "Toughness": 1225,
-      "Vitality": 1000,
-      "Ferocity": 1756,
-      "Condition Damage": 750,
-      "Expertise": 0,
-      "Concentration": 225,
-      "Healing Power": 0,
-      "Agony Resistance": 150,
-      "Condition Duration": 0,
-      "Boon Duration": 0.15,
-      "Critical Chance": 1.1123809523809524,
-      "Critical Damage": 2.6706666666666666,
-      "Bleeding Duration": 0.33,
-      "Effective Power": 30616.976963743986,
-      "Power DPS": 42677.49580621996,
-      "Burning Damage": 355.421875,
-      "Burning Stacks": 4,
-      "Burning DPS": 1421.6875,
-      "Bleeding Damage": 96.3125,
-      "Bleeding Stacks": 15.561,
-      "Bleeding DPS": 1498.7188125,
-      "Poison Damage": 112.84375,
-      "Poison Stacks": 2,
-      "Poison DPS": 225.6875,
-      "Torment Damage": 142.74375,
-      "Torment Stacks": 0,
-      "Torment DPS": 0,
-      "Confusion Damage": 96.3125,
-      "Confusion Stacks": 0,
-      "Confusion DPS": 0,
-      "Damage": 45823.58961871996,
-      "Effective Health": 51294713.25,
-      "Survivability": 26077.637646161667,
-      "Effective Healing": 390,
-      "Healing": 390
+
+<Character gear={{
+  "profession": "Engineer",
+  "weight": "Medium",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 20702,
+    "Armor": 2361,
+    "Power": 3630,
+    "Precision": 1961,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 1606,
+    "Condition Damage": 750,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1.0576190476190477,
+    "Critical Damage": 2.570666666666667,
+    "Power Coefficient": 3153,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 3.09,
+    "Bleeding Coefficient": 13.39,
+    "Poison Coefficient": 2.75,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Bleeding Duration": 0.33,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 30754.068262582907,
+    "Power DPS": 37338.30467151479,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 96.3125,
+    "Bleeding Stacks": 17.8087,
+    "Bleeding DPS": 1715.2004187500002,
+    "Burning Damage": 355.421875,
+    "Burning Stacks": 3.09,
+    "Burning DPS": 1098.25359375,
+    "Confusion Damage": 118.665625,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 112.84375,
+    "Poison Stacks": 2.75,
+    "Poison DPS": 310.3203125,
+    "Torment Damage": 142.74375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 40601.828996514785,
+    "Effective Health": 97268501.49253732,
+    "Survivability": 49450.17869473173,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Sword",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Shield",
+    "weapon1OffSigilId": 24868
+  },
+  "consumables": {
+    "foodId": 91805,
+    "utilityId": 77569,
+    "infusion": "Mighty +9 Agony Infusion"
+  },
+  "skills": {
+    "healId": 21659,
+    "utility1Id": 5805,
+    "utility2Id": 5818,
+    "utility3Id": 42842,
+    "eliteId": 42009
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Shield",
-      "weapon1OffSigil": "Impact"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "Superior Sharpening Stone",
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "A.E.D",
-      "utility1": "Grenade Kit",
-      "utility2": "Rifle Turret",
-      "utility3": "Laser Disk",
-      "elite": "Prime Light Beam"
+    {
+      "id": "vulnerability",
+      "type": "Condition"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}]
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
-Due to the naturally high crit-chance from the Firearms Trait Line, this build does not rely on high Agony Resistance to reach crit-cap. You will only need higher Agony Resistance or Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>. You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
+ You will only need some Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>. 
+ 
+ You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
+
 
 </Character>
+
 </CharacterWithAr>
 
 <Divider text="Build"/>

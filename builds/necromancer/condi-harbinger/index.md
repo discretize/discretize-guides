@@ -26,19 +26,19 @@ boons:
     uptime: 6 stacks
     variant: (13 stacks on Quickness variant)
   - name: Swiftness
-    uptime: '65%'
+    uptime: 65%
     variant: (using Quickness variant)
   - name: Regeneration
-    uptime: '50%'
+    uptime: 50%
     variant: (using Quickness variant)
-code: '[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 4
   - 3
   - 4
-date: 2022-04-29T10:41:46.052Z
+date: 2022-07-31T11:55:48.258Z
 ---
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
@@ -70,88 +70,91 @@ Due to being a condition-based build, it will not benefit from slaying potions o
     "Viper"
   ],
   "attributes": {
-    "Health": 22812,
+    "Health": 26392,
     "Armor": 2210,
     "Power": 2923,
-    "Precision": 2056,
+    "Precision": 1813,
     "Toughness": 1243,
-    "Vitality": 1360,
-    "Ferocity": 150,
-    "Condition Damage": 2987,
-    "Expertise": 870,
+    "Vitality": 1718,
+    "Ferocity": 0,
+    "Condition Damage": 3072,
+    "Expertise": 900,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.78,
+    "Condition Duration": 0.8,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9528571428571428,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 1855,
-    "Burning Coefficient": 2.2,
-    "Bleeding Coefficient": 11.3,
-    "Poison Coefficient": 7,
-    "Torment Coefficient": 21.2,
+    "Critical Chance": 0.8871428571428572,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2271.5,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.805,
+    "Bleeding Coefficient": 12.753787142857144,
+    "Poison Coefficient": 5.83,
+    "Torment Coefficient": 22.169999999999998,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Torment Duration": 0.15,
     "Bleeding Duration": 0.2,
-    "Effective Power": 7264.453605357143,
-    "Power DPS": 5188.89543239796,
-    "Bleeding Damage": 367.8553125,
-    "Bleeding Stacks": 22.374000000000002,
-    "Bleeding DPS": 8230.394761875,
-    "Burning Damage": 1085.8788281250002,
-    "Burning Stacks": 3.9160000000000004,
-    "Burning DPS": 4252.301490937501,
-    "Confusion Damage": 433.0882968750001,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 6593.061383928572,
+    "Power DPS": 5766.7073290696,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 354.71566,
+    "Bleeding Stacks": 25.507574285714288,
+    "Bleeding DPS": 9047.936047756173,
+    "Burning Damage": 1043.85983,
+    "Burning Stacks": 3.249,
+    "Burning DPS": 3391.5005876700006,
+    "Confusion Damage": 417.378884,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 388.87875,
-    "Poison Stacks": 12.46,
-    "Poison DPS": 4845.429225000001,
-    "Torment Damage": 549.5892187500001,
-    "Torment Stacks": 40.916000000000004,
-    "Torment DPS": 22486.992474375005,
-    "Damage": 45004.01338458546,
-    "Effective Health": 100327402.98507464,
-    "Survivability": 51005.288757028284,
+    "Poison Damage": 374.48703500000005,
+    "Poison Stacks": 10.494,
+    "Poison DPS": 3929.8669452900003,
+    "Torment Damage": 530.0103900000001,
+    "Torment Stacks": 39.906,
+    "Torment DPS": 21150.594623340006,
+    "Damage": 43426.35553312578,
+    "Effective Health": 116072278.60696518,
+    "Survivability": 59009.801020317835,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 24848,
   "runeName": "Nightmare",
   "infusions": [
-    86113,
-    86113,
     37130,
     37130,
     37130,
     37130,
     37130,
     37130,
-    86113,
-    86113,
-    86113,
-    86113,
-    86113,
-    86113,
-    86113,
-    86113,
     37130,
-    37130
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    86113
   ],
   "weapons": {
     "weapon1MainType": "Pistol",
     "weapon1MainSigil1": "Torment",
     "weapon1OffType": "Dagger",
-    "weapon1OffSigil": "Bursting",
+    "weapon1OffSigil": "Demons",
     "weapon2MainType": "Scepter",
     "weapon2MainSigil1": "Geomancy"
   },
   "consumables": {
-    "foodId": 95942,
+    "foodId": 91878,
     "utilityId": 48917,
-    "infusion": "Malign +9 Agony Infusion"
+    "infusionId": 37130
   },
   "skills": {
     "healId": 62667,
@@ -160,10 +163,37 @@ Due to being a condition-based build, it will not benefit from slaying potions o
     "utility3Id": 10544,
     "eliteId": 10549
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
-This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 12 <Item id="86113"/> to cap Bleeding Duration.
+This build uses the Jade Bot Core: Tier 10 (and the resulting conversion from <Trait name="Dark Gunslinger"/> ) in combination with 1 <Item id="86113"/> to cap Bleeding Duration.
 
 If you want to cap Bleeding Duration with a lower Tier core (or none), you will need extra <Item id="86113"/>.
 
@@ -190,98 +220,101 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
     "Viper"
   ],
   "attributes": {
-    "Health": 23962,
+    "Health": 26392,
     "Armor": 2210,
     "Power": 2923,
-    "Precision": 2056,
+    "Precision": 1813,
     "Toughness": 1243,
-    "Vitality": 1475,
-    "Ferocity": 150,
+    "Vitality": 1718,
+    "Ferocity": 0,
     "Condition Damage": 3077,
-    "Expertise": 910,
+    "Expertise": 895,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.6066666666666667,
+    "Condition Duration": 0.5966666666666667,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9528571428571428,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 2271,
-    "Burning Coefficient": 1.81,
-    "Bleeding Coefficient": 12.970185714285714,
+    "Critical Chance": 0.8871428571428572,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2271.5,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.805,
+    "Bleeding Coefficient": 12.753787142857144,
     "Poison Coefficient": 5.83,
-    "Torment Coefficient": 24.07,
+    "Torment Coefficient": 22.169999999999998,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
     "Bleeding Duration": 0.2,
     "Torment Duration": 0.5,
-    "Effective Power": 7264.453605357143,
-    "Power DPS": 6352.550688396639,
-    "Siphon DPS": 6352.550688396639,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 6593.061383928572,
+    "Power DPS": 5766.7073290696,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
     "Bleeding Damage": 355.23143500000003,
-    "Bleeding Stacks": 23.43280219047619,
-    "Bleeding DPS": 8324.067948194,
+    "Bleeding Stacks": 22.914304233333336,
+    "Bleeding DPS": 8139.881174833577,
     "Burning Damage": 1045.19224875,
-    "Burning Stacks": 2.9080666666666666,
-    "Burning DPS": 3039.4887388482503,
+    "Burning Stacks": 2.8819833333333333,
+    "Burning DPS": 3012.226641026688,
     "Confusion Damage": 417.97202525,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
     "Poison Damage": 375.00281000000007,
-    "Poison Stacks": 9.366866666666667,
-    "Poison DPS": 3512.601320895334,
+    "Poison Stacks": 9.308566666666668,
+    "Poison DPS": 3490.7386570723343,
     "Torment Damage": 530.7840525,
-    "Torment Stacks": 48.14,
-    "Torment DPS": 25551.94428735,
-    "Damage": 46780.652983684224,
-    "Effective Health": 105385114.4278607,
-    "Survivability": 53576.57062931403,
+    "Torment Stacks": 44.339999999999996,
+    "Torment DPS": 23534.96488785,
+    "Damage": 44084.2686898522,
+    "Effective Health": 116072278.60696518,
+    "Survivability": 59009.801020317835,
     "Effective Healing": 390,
     "Healing": 390
   },
   "runeId": 44956,
   "runeName": "Tormenting",
   "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
   ],
   "weapons": {
     "weapon1MainType": "Pistol",
-    "weapon1MainSigil1Id": 48911,
+    "weapon1MainSigil1": "Torment",
     "weapon1OffType": "Dagger",
-    "weapon1OffSigilId": 44944,
+    "weapon1OffSigil": "Bursting",
     "weapon2MainType": "Scepter",
     "weapon2MainSigil1": "Geomancy"
   },
   "consumables": {
-    "foodId": 86997,
+    "foodId": 91878,
     "utilityId": 48917,
-    "infusion": "Malign +9 Agony Infusion"
+    "infusionId": 37130
   },
   "skills": {
     "healId": 62667,
-    "utility1Id": 62530,
-    "utility2Id": 62662,
+    "utility1Id": 62662,
+    "utility2Id": 62530,
     "utility3Id": 10544,
     "eliteId": 10549
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 },
+  "assumedBuffs": [
     {
       "id": "might",
       "type": "Boon"
@@ -299,17 +332,14 @@ You can also use <Item id="37130"/> if you do not have the Spiteful ones for a m
       "type": "Condition"
     },
     {
-      "id": "jade-bot-base",
-      "type": "Text"
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
     },
     {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    },
-    {
-      "id": "assassinsPresence",
-      "gw2id": 1786,
-      "type": "Trait"
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
     }
   ]
 }}>
@@ -338,51 +368,55 @@ This build is only very slightly behind the Nightmare Runes setup in terms of DP
     "Viper"
   ],
   "attributes": {
-    "Health": 22812,
+    "Health": 26392,
     "Armor": 2210,
     "Power": 2923,
-    "Precision": 2056,
+    "Precision": 1813,
     "Toughness": 1243,
-    "Vitality": 1360,
-    "Ferocity": 150,
-    "Condition Damage": 2793,
+    "Vitality": 1718,
+    "Ferocity": 0,
+    "Condition Damage": 2792,
     "Expertise": 748,
-    "Concentration": 420,
+    "Concentration": 435,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0.49866666666666665,
-    "Boon Duration": 0.28,
-    "Critical Chance": 0.9528571428571428,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 1855,
-    "Burning Coefficient": 2.2,
-    "Bleeding Coefficient": 11.3,
-    "Poison Coefficient": 7,
-    "Torment Coefficient": 21.2,
+    "Boon Duration": 0.29,
+    "Critical Chance": 0.8871428571428572,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2209.5,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 1.7049999999999998,
+    "Bleeding Coefficient": 13.25410142857143,
+    "Poison Coefficient": 5.97,
+    "Torment Coefficient": 18.33,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Torment Duration": 0.5,
     "Bleeding Duration": 0.2,
-    "Effective Power": 7264.453605357143,
-    "Power DPS": 5188.89543239796,
-    "Bleeding Damage": 346.46625,
-    "Bleeding Stacks": 19.194933333333335,
-    "Bleeding DPS": 6650.396571,
-    "Burning Damage": 1030.6237500000002,
-    "Burning Stacks": 3.297066666666667,
-    "Burning DPS": 3398.0352120000007,
-    "Confusion Damage": 408.4908750000001,
+    "Torment Duration": 0.5,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 6593.061383928572,
+    "Power DPS": 5609.30655671551,
+    "Power2 DPS": 0,
+    "Siphon DPS": 139.75,
+    "Bleeding Damage": 325.83226,
+    "Bleeding Stacks": 22.51430029333333,
+    "Bleeding DPS": 7335.885346895463,
+    "Burning Damage": 969.2443800000001,
+    "Burning Stacks": 2.555226666666666,
+    "Burning DPS": 2476.6390862927997,
+    "Confusion Damage": 384.1629740000001,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 367.4896875,
-    "Poison Stacks": 10.490666666666666,
-    "Poison DPS": 3855.2118149999997,
-    "Torment Damage": 517.505625,
-    "Torment Stacks": 42.37173333333333,
-    "Torment DPS": 21927.610341,
-    "Damage": 41020.14937139796,
-    "Effective Health": 100327402.98507464,
-    "Survivability": 51005.288757028284,
+    "Poison Damage": 345.603635,
+    "Poison Stacks": 8.94704,
+    "Poison DPS": 3092.1295464903997,
+    "Torment Damage": 486.68529,
+    "Torment Stacks": 36.63556,
+    "Torment DPS": 17829.9881429124,
+    "Damage": 36483.69867930657,
+    "Effective Health": 116072278.60696518,
+    "Survivability": 59009.801020317835,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -417,8 +451,8 @@ This build is only very slightly behind the Nightmare Runes setup in terms of DP
     "weapon2MainSigil1": "Geomancy"
   },
   "consumables": {
-    "foodId": 12464,
-    "utility": "Tuning Icicle",
+    "foodId": 91876,
+    "utility": "Toxic Focusing Crystal",
     "infusion": "Malign +9 Agony Infusion"
   },
   "skills": {
@@ -428,7 +462,34 @@ This build is only very slightly behind the Nightmare Runes setup in terms of DP
     "utility3Id": 10544,
     "eliteId": 10549
   },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}]
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 This build gains enough boon duration from the <Item id="79722"/> combined with the <Attribute name="Vitality"/> to <Attribute name="Concentration"/> conversion from <Trait id="2220"/>. If you have a higher Tier Jade Bot Core, you will have more boon duration, and therefore more room for error in your rotation.

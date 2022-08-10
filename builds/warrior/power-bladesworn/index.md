@@ -1,5 +1,5 @@
 ---
-title: Banner Bladesworn
+title: Power Bladesworn
 hidden: false
 archive: false
 rating: Good
@@ -12,39 +12,188 @@ conditions:
   - name: Vulnerability
     uptime: 7 stacks
 boons:
+  - name: Quickness
+    uptime: '33%'
+    variant: Party
   - name: Might
-    uptime: '12 Stacks '
-    variant: (using For Great Justice)
-code: '[&DQIEHzMWRCunAAAAAAAAAKwACgCqAKIBnACcAAAAAAAAAAAAAAAAAAAAAAA=]'
+    uptime: '3 Stacks '
+    variant: Party
+  - name: Might
+    uptime: '8 Stacks '
+    variant: Party (Using Empower Allies)
+code: '[&DQIEHwsVRCumAAAA8hoAAP0aCgAAAKIB/BqcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
+  - 4
+  - 5
   - 3
-  - 3
-  - 2
   - 3
   - 4
-date: 2022-04-29T10:54:54.519Z
+date: 2022-07-31T10:54:54.519Z
 ---
 
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a situationally strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses most of its sustained damage in favor of short damage spikes. Unfortunately, if enemies don't phase or die shortly after your burst, your damage drops off hard and you would be better playing <Specialization text="Power Berserker" name="Berserker"/>.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses sustained damage in favor of short damage spikes. Along with this <Specialization text="Power Bladesworn" name="Bladesworn"/> provides a lot of boon support to a party, sharing <Boon name="Might"/> and <Boon name="Quickness"/> from traits along with optional utility skills like  <Skill name="Forgreatjustice"/> which can carry a party with low boon uptime by providing 12 stacks of <Boon name="Might"/> (becomes 20 stacks, taking into account <Boon name="Might"/> from traits) and a high <Boon name="Fury"/> uptime.
 
-Besides providing the group with strong unique damage buffs through the stats of <Skill name="Banner of Strength"/> and <Skill name="Banner of Discipline"/>. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>.
-
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the classes that benefit a lot from higher agony resistance due to not being able to crit cap by buffs and traits alone. Furthermore, the build is able to use damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the harder builds to play in fractals dues to its quick rotation, relying on maintaining damage modifiers and your highest damaging skill locking you in place, requiring good positioning during fights.  Furthermore, the build benefits from damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
 <Divider text="Equipment" />
 
 <CharacterWithAr>
+<Character title="162 AR + Thief Rune" gear={{
+  "profession": "Warrior",
+  "weight": "Heavy",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Berserker"
+  ],
+  "attributes": {
+    "Health": 26532,
+    "Armor": 2514,
+    "Power": 3665,
+    "Precision": 2366,
+    "Toughness": 1243,
+    "Vitality": 1732,
+    "Ferocity": 1239.75,
+    "Condition Damage": 850,
+    "Expertise": 0,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0,
+    "Boon Duration": 0.162,
+    "Critical Chance": 1.0004761904761905,
+    "Critical Damage": 2.3265000000000002,
+    "Power Coefficient": 4659,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 25539.24375948504,
+    "Power DPS": 45817.22629011968,
+    "Power2 DPS": 0,
+    "Siphon DPS": 153.72500000000002,
+    "Bleeding Damage": 115.43124999999999,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 415.47343749999993,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 141.4428125,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 133.615625,
+    "Poison Stacks": 0,
+    "Poison DPS": 0,
+    "Torment Damage": 171.249375,
+    "Torment Stacks": 0,
+    "Torment DPS": 0,
+    "Damage": 45970.95129011968,
+    "Effective Health": 132739200.00000001,
+    "Survivability": 67483.07066598882,
+    "Effective Healing": 390,
+    "Healing": 390
+  },
+  "runeId": 24818,
+  "runeName": "Thief",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Axe",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Pistol",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91709,
+    "utilityId": 9443,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 14401,
+    "utility2Id": 62967,
+    "utility3Id": 68085,
+    "eliteId": 62901
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+
+This is the default build. Due to <Item id="24818"/> this build requires you to flank. If you can't reliably flank the <Item id="24836"/> or <Item id="24723"/> build will perform better.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
 <Character title="162 AR + Scholar Rune" gear={{
   "profession": "Warrior",
   "weight": "Heavy",
   "gear": [
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
     "Berserker",
     "Assassin",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
+    "Berserker",
     "Assassin",
     "Assassin",
     "Assassin",
@@ -54,74 +203,128 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the cl
     "Berserker"
   ],
   "attributes": {
-    "Health": 21732,
+    "Health": 26522,
     "Armor": 2514,
-    "Power": 4010,
-    "Precision": 2575,
+    "Power": 3665,
+    "Precision": 2251,
     "Toughness": 1243,
-    "Vitality": 1252,
-    "Ferocity": 2298,
-    "Condition Damage": 900,
+    "Vitality": 1731,
+    "Ferocity": 1463.75,
+    "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 3.032,
-    "Effective Power": 32183.513399152507,
-    "Power DPS": 46434.972932855,
-    "Bleeding Damage": 120.17499999999998,
+    "Critical Chance": 0.9457142857142856,
+    "Critical Damage": 2.475833333333333,
+    "Power Coefficient": 4659,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 25103.660014103898,
+    "Power DPS": 45035.79206996922,
+    "Power2 DPS": 0,
+    "Siphon DPS": 153.72500000000002,
+    "Bleeding Damage": 105.94375,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
-    "Burning Damage": 427.728125,
-    "Burning Stacks": 0.54,
-    "Burning DPS": 230.9731875,
-    "Confusion Damage": 146.898125,
+    "Burning Damage": 390.96406249999995,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 130.5321875,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 138.35937499999997,
+    "Poison Damage": 124.12812499999998,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 178.36499999999998,
+    "Torment Damage": 157.01812499999997,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 46665.946120355,
-    "Effective Health": 108724871.64179106,
-    "Survivability": 55274.46448489632,
+    "Damage": 45189.51706996922,
+    "Effective Health": 132689170.14925376,
+    "Survivability": 67457.63606977822,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "infusions": [
-      49432, 49432, 49432, 49432, 49432, 49432, 49432,
-      49432, 49432, 49432, 49432, 49432, 49432, 49432,
-      49432, 49432, 49432, 49432
-    ],
-    "weight": "Heavy",
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "weapons": {
-      "weapon1MainType": "Axe",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Pistol",
-      "weapon1OffSigilId": 24868
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Axe",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Pistol",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91709,
+    "utilityId": 77569,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 14401,
+    "utility1Id": "",
+    "utility2Id": 62967,
+    "utility3Id": 68085,
+    "eliteId": 62901
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "Mending",
-      "utility2": "Banner of Strength",
-      "utility3": "Banner of Discipline",
-      "elite": "Signet of Rage"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
-This build is future proof for upgrading to higher <Attribute name="Agony Resistance"/> later without overwriting runes. However, most people would profit more from the <Item name="eagle" text="Eagle"/> rune build due to not relying on the <Item name="scholar" text="Scholar"/> buff. No <Trait name="Spotter"/> assumed.
+This build should be used if you cannot benefit from the flanking bonus from <Item id="24818"/>. If you cannot maintain <Item id="24836"/> uptime or don't want to run as much Assassin gear, use the <Item id="24723"/> variant.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -131,178 +334,139 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
   "weight": "Heavy",
   "gear": [
     "Berserker",
+    "Assassin",
     "Berserker",
+    "Assassin",
     "Berserker",
-    "Berserker",
-    "Berserker",
+    "Assassin",
+    "Assassin",
     "Berserker",
     "Berserker",
     "Assassin",
     "Berserker",
     "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
+    "Assassin",
     "Berserker"
   ],
   "attributes": {
-    "Health": 21742,
+    "Health": 26402,
     "Armor": 2514,
-    "Power": 4015,
-    "Precision": 2570,
+    "Power": 3554,
+    "Precision": 2365,
     "Toughness": 1243,
-    "Vitality": 1253,
-    "Ferocity": 2299,
-    "Condition Damage": 900,
+    "Vitality": 1719,
+    "Ferocity": 1451.75,
+    "Condition Damage": 750,
     "Expertise": 0,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.9976190476190476,
-    "Critical Damage": 3.0326666666666666,
-    "Effective Power": 32179.29227973723,
-    "Power DPS": 46428.882623094105,
-    "Bleeding Damage": 120.17499999999998,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 427.728125,
-    "Burning Stacks": 0.54,
-    "Burning DPS": 230.9731875,
-    "Confusion Damage": 146.898125,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 138.35937499999997,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 178.36499999999998,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 46659.855810594105,
-    "Effective Health": 108774901.49253733,
-    "Survivability": 55299.89908110693,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-    "infusions": [
-      37132, 49432, 49432, 49432, 49432, 49432, 49432,
-      49432, 49432, 49432, 49432, 49432, 49432, 49432,
-      49432, 49432, 49432, 49432
-    ],
-    "weight": "Heavy",
-    "runeId": 24723,
-    "runeName": "Eagle",
-    "weapons": {
-      "weapon1MainType": "Axe",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Pistol",
-      "weapon1OffSigilId": 24868
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mending",
-      "utility2": "Banner of Strength",
-      "utility3": "Banner of Discipline",
-      "elite": "Signet of Rage"
-    },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
-}}>
-
-Optionally 1 <Item id="37132"/>. Without that infusion the <Attribute name="Critical Chance"/> is at 99.76%. No <Trait name="Spotter"/> assumed.
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>
-<Character title="222 AR" gear={{
-  "profession": "Warrior",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 21832,
-    "Armor": 2604,
-    "Power": 4098,
-    "Precision": 2575,
-    "Toughness": 1333,
-    "Vitality": 1262,
-    "Ferocity": 2308,
-    "Condition Damage": 900,
-    "Expertise": 0,
-    "Concentration": 333,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.222,
     "Critical Chance": 1,
-    "Critical Damage": 3.038666666666667,
-    "Effective Power": 32962.10204439076,
-    "Power DPS": 47558.335140674695,
-    "Bleeding Damage": 120.17499999999998,
+    "Critical Damage": 2.467833333333333,
+    "Power Coefficient": 4659,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 0,
+    "Torment Coefficient": 0,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 25076.150102013577,
+    "Power DPS": 44986.439478352426,
+    "Power2 DPS": 0,
+    "Siphon DPS": 153.72500000000002,
+    "Bleeding Damage": 105.94375,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
-    "Burning Damage": 427.728125,
-    "Burning Stacks": 0.54,
-    "Burning DPS": 230.9731875,
-    "Confusion Damage": 146.898125,
+    "Burning Damage": 390.96406249999995,
+    "Burning Stacks": 0,
+    "Burning DPS": 0,
+    "Confusion Damage": 130.5321875,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 138.35937499999997,
+    "Poison Damage": 124.12812499999998,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 178.36499999999998,
+    "Torment Damage": 157.01812499999997,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 47789.308328174695,
-    "Effective Health": 113135379.10447763,
-    "Survivability": 57516.71535560632,
+    "Damage": 45140.164478352424,
+    "Effective Health": 132088811.94029853,
+    "Survivability": 67152.4209152509,
     "Effective Healing": 390,
     "Healing": 390
   },
-    "infusions": [
-      37132, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weight": "Heavy",
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "weapons": {
-      "weapon1MainType": "Axe",
-      "weapon1MainSigil1Id": 24615,
-      "weapon1OffType": "Pistol",
-      "weapon1OffSigilId": 24868
+  "runeId": 24723,
+  "runeName": "Eagle",
+  "infusions": [
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+    "weapon1MainType": "Axe",
+    "weapon1MainSigil1Id": 24615,
+    "weapon1OffType": "Pistol",
+    "weapon1OffSigilId": 24868,
+    "weapon2MainSigil2Id": 24868
+  },
+  "consumables": {
+    "foodId": 91709,
+    "utilityId": 9443,
+    "infusionId": 37131
+  },
+  "skills": {
+    "healId": 14401,
+    "utility2Id": 62967,
+    "utility3Id": 68085,
+    "eliteId": 62901
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
     },
-    "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
+    {
+      "id": "fury",
+      "type": "Boon"
     },
-    "skills": {
-      "heal": "Mending",
-      "utility2": "Banner of Strength",
-      "utility3": "Banner of Discipline",
-      "elite": "Signet of Rage"
+    {
+      "id": "protection",
+      "type": "Boon"
     },
-    "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"gw2id": 12497, "type": "Skill"}, {"gw2id": 14407, "type": "Skill"}, {"gw2id": 14405, "type": "Skill"}, {"gw2id": 14404, "type": "Skill"}]
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
@@ -314,33 +478,14 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance,Great Fortitude,Berserkers Power" traits2="Discipline" traits2Selected="Warriors Sprint,Doubled Standards,Axe Mastery" traits3Id="68" traits3="Bladesworn" traits3Selected="Unseen Sword,Fierce as Fire,Unyielding Dragon"/>
+<Traits traits1Id="4" traits1="Strength" traits1Selected="Peak Performance,Great Fortitude,Berserkers Power" traits2="Tactics" traits2Selected="Leg Specialist,Warriors Cunning,Martial Cadence" traits3Id="68" traits3="Bladesworn" traits3Selected="Unseen Sword,Fierce as Fire,Unyielding Dragon"/>
 
 <Card title="Extra Weapons">
 
 - Axes and Pistols with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 - Warhorn for pre-stacking <Boon name="Might"/>
-- Greatsword for mobility and cleave.
-- Torch (trade CC for DPS or a fire field).
+- Torch (for a fire field).
 
-</Card>
-<Card title="DPS Skills">
-
-If the encounter is short enough to precast Banners and swap to different skills, or you want to play without them, you can play the following skills:
-
-<Skills
-  unembossed
-  heal="Mending"
-  utility1="Signet of Might"
-  utility2="Signet of Fury"
-  utility3="Flow Stabilizer"
-  elite="Signet of Rage"
-/>
-
-<Warning>
-
-Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can adjust your gear using [gear optimizer](https://optimizer.discretize.eu/) to take advantage fo the extra <Attribute name="Precision"/>!
-</Warning>
 </Card>
 </GridItem>
 
@@ -349,25 +494,22 @@ Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can
 
 |                                                           |                                                                                                                                                                                   |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="To The Limit" size="big" disableText/>       | Alternative for extra Flow generation. However you will miss out on the extra damage from <Trait name="Peak Performance"/>.                                                       |
+| <Skill name="To The Limit" size="big" disableText/>       | Alternative heal for extra Flow generation.                                                      |
+| <Skill name="Dragonspike Mine" size="big" disableText/>       | Default 3rd utility skill. Taken for damage if no other utility is needed.                                                    |
 | <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                              |
-| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use as well as additional Flow. |
-| <Skill name="Signet of might" size="big" disableText/>    | Flat 180 power buff. Only take this when no other utility is needed.                                                                                                              |
-| <Skill name="Battle Standard" size="big" disableText/>    | Can be used on Arkk if your <Specialization name="Renegade"/> is able to solo the CC bar.                                                                                         |
+| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use as well as additional Flow. USed for extra burst in short phases |
 | <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                       |
 | <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                                                                                                     |
 | <Skill name="bullscharge" size="big" disableText/>        | 300 CC, gives <Trait name="Peakperformance"/>.                                                                                                                                    |
-| <Skill name="Tactical Reload" size="big" disableText/>    | Used to recharge ammo on your profession skills.                                                                                                                                  |
 
 </Card>
 <Card title="CC skills">
 
-|                             |            |
-| --------------------------- | ---------- |
-| <Skill name="bullscharge"/> | 300 damage |
-| <Skill id="14502"/>         | 150 damage |
-| <Skill id="14415"/>         | 300 damage |
-| <Skill id="14503"/>         | 100 damage |
+|                                   |                                                                                 |
+| --------------------------------- | ------------------------------------------------------------------------------- |
+| <Skill name="bullscharge"/>       | 300 damage                                                                      |
+| <Skill id="14502"/>               | 150 damage                                                                      |
+| <Skill name="Dragonslash-Force"/> | 50 damage per charge up to 10 charges (minimum 100 damage - maximum 500 damage) |
 
 </Card>
 </GridItem>
@@ -379,10 +521,10 @@ Due to not actively using <Skill name="Signet of Fury"/> in the rotation you can
 <GridItem xs="12" sm="6">
 <Card title="Information">
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
-For that reason, you can find a video with openers, that are efficient to use here.
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 
 - Casting <Skill name="Mending"/> for <Trait name="Peak Performance"/> is only a DPS gain if you can’t be hitting something else, use it right before the start of DPS phases but only use it during if you need the heal.
+- <Skill name="Triggerguard"/> and <Skill name="Flicker Step"/> in <Skill name="Dragon Trigger"/> are used in the rotation, but should be saved to use to deal with mechanics if needed.
 
 </Card>
 </GridItem>
@@ -393,11 +535,14 @@ For that reason, you can find a video with openers, that are efficient to use he
 
 - Stack <Boon name="Might"/>:
   - Use both charges of <Skill name="For Great Justice!"/>.
+  - Use <Skill name="Flames of War"/> for a fire field.
   - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand Warhorn to blast <Boon name="Might"/>.
 - Precast damage skills:
-  - (optional) <Skill id="14393"/> for two stacks of a 25% damage modifier
-  - Cast <Skill name="Mending"/> immediately before the boss becomes vulnerable.
-
+  - Cast <Skill name="Mending"/> and <Skill id="68085"/> immediately before the boss becomes vulnerable.
+  - Precast <Trait name="Fierce as Fire"/> stacks using ammo skills.
+  - Precast flow using <Skill name="Flow Stabilizer"/> and <Skill name="To the Limit"/>.
+  - Use <Skill name="Tactical Reload"/> to reload precasted ammo and charge <Skill name="Dragon Trigger"/> quicker.
+  
 </Card>
 
 </GridItem>
@@ -406,17 +551,19 @@ For that reason, you can find a video with openers, that are efficient to use he
 
 <Card title="Opener">
 
-Start in <Skill name="Unsheathe Gunsaber"/>
+Make sure to cast <Skill name="Tactical Reload"/> and <Skill id="68085"/> before entering combat.
 
-1. Cyclone Trigger in <Skill name="Unsheathe Gunsaber"/> (Skill 4)
-2. <Skill name="Sheathe Gunsaber" />
-3. <Skill name="Dragons Roar" />
-4. <Skill name="Cyclone Axe" />
-5. <Skill name="Gunstinger" />
-6. <Skill name="Chop" /> -> <Skill name="Double Chop" /> -> <Skill name="Triple Chop" />
-7. <Skill name="Unsheathe Gunsaber" />
-8. <Skill name="Dragon Trigger" />
-9. Dragon Slash-Force in <Skill name="Dragon Trigger"/> (Skill 1)
+1. <Skill name="Dragons Roar"/> (Pistol 5)
+2. <Skill name="Gunstinger"/> (Pistol 4)
+3. <Skill name="Cyclone Axe" /> (Axe 2)
+4. Charge <Skill name="Dragon Trigger"/>
+5. <Skill name="Triggerguard"/> in <Skill name="Dragon Trigger"/> (Skill 4)
+5. <Skill name="Dragon Slash-Force"/> in <Skill name="Dragon Trigger"/> (Skill 1)
+6. <Skill name="Dragonspike Mine"/>
+7. Charge <Skill name="Dragon Trigger"/>
+8. <Skill name="Flicker Step"/> in <Skill name="Dragon Trigger"/> (Skill 5)
+9. <Skill name="Triggerguard"/> in <Skill name="Dragon Trigger"/> (Skill 4)
+9. <Skill name="Dragon Slash-Force"/> in <Skill name="Dragon Trigger"/> (Skill 1)
 
 </Card>
 
@@ -425,7 +572,7 @@ Start in <Skill name="Unsheathe Gunsaber"/>
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="jT02tOOVGC8" caption="by Costa Primo"/>
+<Video youtube="yNXwsIXsakg" caption="by Evo"/>
 </Card>
 </GridItem>
 </Grid>

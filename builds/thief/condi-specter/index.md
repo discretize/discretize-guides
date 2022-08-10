@@ -1,5 +1,5 @@
 ---
-title: Condi Specter
+title: Condi (Alac) Specter
 hidden: false
 archive: false
 hasBeginner: true
@@ -18,7 +18,7 @@ boons:
     uptime: 75%
     variant: party
   - name: Might
-    uptime: 3 stacks
+    uptime: 5 stacks
     variant: party
   - name: Swiftness
     uptime: 75%
@@ -31,9 +31,16 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-05-02T13:25:08.948Z
+date: 2022-07-31T13:25:08.948Z
 cmGuide: ""
 ---
+
+<Advanced>
+<Warning>
+<Specialization text="Condi Specter" name="Specter"/> is a very strong build, especially in fractal CMs. However, like all condi thief builds it does suffer from a lack of cleave damage, which is important in T4s. We suggest that you also consider gearing <BuildLink build="Power Daredevil" specialization="Daredevil"/> to swap to on certain sections of T4 fractals where cleave is important and power damage is more suited to the boss. By swapping between both builds and also learning skips, you can carry your party and vastly speed up a fractal clear.
+</Warning>
+</Advanced>
+
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great team support options. It offers large amounts of <Effect name="Barrier"/> for your party, some healing and a small amount of <Boon name="Might"/> and <Boon name="Swiftness"/> by targeting allied players.
 
 <Advanced>
@@ -56,11 +63,11 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 </Beginner>
 
 <Divider text="Equipment"/>
-
+<Beginner>
 <CharacterWithAr>  
-<Character title="162 Agony Resistance" gear={{
+<Character title="DPS Specter" gear={{
   "profession": "Thief",
-  "weight": "medium",
+  "weight": "Medium",
   "gear": [
     "Viper",
     "Viper",
@@ -69,61 +76,65 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     "Viper",
     "Viper",
     "Viper",
-    "Sinister",
     "Viper",
-    "Sinister",
-    "Sinister",
+    "Viper",
+    "Viper",
+    "Viper",
     "Viper",
     "Viper",
     "Viper"
   ],
   "attributes": {
-    "Health": 13145,
+    "Health": 16425,
     "Armor": 2361,
-    "Power": 2866,
-    "Precision": 1955,
+    "Power": 2923,
+    "Precision": 1633,
     "Toughness": 1243,
-    "Vitality": 1150,
-    "Ferocity": 150,
-    "Condition Damage": 2548,
-    "Expertise": 779,
+    "Vitality": 1478,
+    "Ferocity": 0,
+    "Condition Damage": 2435,
+    "Expertise": 1014,
     "Concentration": 243,
     "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0.5193333333333333,
+    "Condition Duration": 0.6759999999999999,
     "Boon Duration": 0.162,
-    "Critical Chance": 0.7047619047619047,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 2111,
-    "Burning Coefficient": 0.55,
-    "Bleeding Coefficient": 2.7,
-    "Poison Coefficient": 20.68,
-    "Torment Coefficient": 22.67,
+    "Critical Chance": 0.6014285714285714,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2131,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0.52,
+    "Bleeding Coefficient": 2.59,
+    "Poison Coefficient": 19.782,
+    "Torment Coefficient": 20.25,
     "Confusion Coefficient": 0,
     "Flat DPS": 0,
-    "Torment Duration": 0.5,
-    "Poison Duration": 0.48,
+    "Poison Duration": 0.33,
     "Outgoing Healing": 0.2,
-    "Effective Power": 7977.000851999997,
-    "Power DPS": 6484.192837340005,
-    "Bleeding Damage": 280.6824,
-    "Bleeding Stacks": 4.102200000000001,
-    "Bleeding DPS": 1151.4153412800001,
-    "Burning Damage": 844.1337,
-    "Burning Stacks": 0.8356333333333335,
-    "Burning DPS": 705.3862575100001,
-    "Confusion Damage": 331.61226,
+    "Torment Duration": 0.5,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 7334.034576428571,
+    "Power DPS": 6018.0314525873255,
+    "Power2 DPS": 0,
+    "Siphon DPS": 158.75600000000003,
+    "Bleeding Damage": 280.72700000000003,
+    "Bleeding Stacks": 4.34084,
+    "Bleeding DPS": 1218.5909906800002,
+    "Burning Damage": 849.0697500000001,
+    "Burning Stacks": 0.87152,
+    "Burning DPS": 739.9812685200001,
+    "Confusion Damage": 332.02105000000006,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 397.85606699999994,
-    "Poison Stacks": 41.34621333333333,
-    "Poison DPS": 16449.841822142957,
-    "Torment Damage": 502.91711999999995,
-    "Torment Stacks": 45.34,
-    "Torment DPS": 22802.2622208,
-    "Damage": 47593.09847907296,
-    "Effective Health": 77202350.74626867,
-    "Survivability": 39248.780247213355,
+    "Poison Damage": 398.90956000000006,
+    "Poison Stacks": 39.564,
+    "Poison DPS": 15782.457831840002,
+    "Torment Damage": 460.99515000000014,
+    "Torment Stacks": 40.5,
+    "Torment DPS": 18670.303575000005,
+    "Damage": 42588.121118627336,
+    "Effective Health": 96466231.34328361,
+    "Survivability": 49042.3138501696,
     "Effective Healing": 468,
     "Healing": 468
   },
@@ -160,9 +171,8 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
       "weapon2OffSigil": "Paralyzation"
     },
     "consumables": {
-      "foodId": 97422,
-      "utilityId": 48917,
-      "infusion": "Malign +9 Agony Infusion"
+      "foodId": 91878,
+      "utilityId": 77567
     },
     "skills": {
       "heal": "Hide in Shadows",
@@ -171,23 +181,356 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
       "utility3": "Spider Venom",
       "elite": "Basilisk Venom"
     },
-    "assumedBuffs": [{"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"gw2id": 1786, "type": "Trait"}, {"id": "jade-bot-per-tier", "value": 10, "type": "Text"}]
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
 }}>
-
-<Advanced>
-
-If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
-
-It's recommended to have a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
-
-</Advanced>
-
 The <Skill name="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
 
 If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
 
 </Character>  
 </CharacterWithAr>
+</Beginner>
+<Advanced>
+<CharacterWithAr>  
+<Character title="DPS / Alac Share" gear={{
+  "profession": "Thief",
+  "weight": "Medium",
+  "gear": [
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Viper"
+  ],
+  "attributes": {
+    "Health": 16425,
+    "Armor": 2361,
+    "Power": 2923,
+    "Precision": 1633,
+    "Toughness": 1243,
+    "Vitality": 1478,
+    "Ferocity": 0,
+    "Condition Damage": 2525,
+    "Expertise": 1014,
+    "Concentration": 243,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.6759999999999999,
+    "Boon Duration": 0.162,
+    "Critical Chance": 0.6014285714285714,
+    "Critical Damage": 1.5,
+    "Power Coefficient": 2131,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0.52,
+    "Bleeding Coefficient": 2.59,
+    "Poison Coefficient": 19.782,
+    "Torment Coefficient": 20.25,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Poison Duration": 0.33,
+    "Outgoing Healing": 0.2,
+    "Torment Duration": 0.5,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 7334.034576428571,
+    "Power DPS": 6018.0314525873255,
+    "Power2 DPS": 0,
+    "Siphon DPS": 158.75600000000003,
+    "Bleeding Damage": 289.745,
+    "Bleeding Stacks": 4.34084,
+    "Bleeding DPS": 1257.7366858,
+    "Burning Damage": 872.36625,
+    "Burning Stacks": 0.87152,
+    "Burning DPS": 760.2846342,
+    "Confusion Damage": 342.39175,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 410.90350000000007,
+    "Poison Stacks": 39.564,
+    "Poison DPS": 16256.986074000002,
+    "Torment Damage": 475.87485000000015,
+    "Torment Stacks": 40.5,
+    "Torment DPS": 19272.931425000006,
+    "Damage": 43724.72627158734,
+    "Effective Health": 96466231.34328361,
+    "Survivability": 49042.3138501696,
+    "Effective Healing": 468,
+    "Healing": 468
+  },
+  "runeId": 44956,
+  "runeName": "Tormenting",
+  "infusions": [
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
+  ],
+    "weapons": {
+      "weapon1MainType": "Scepter",
+      "weapon1MainSigil1": "Doom",
+      "weapon1OffType": "Dagger",
+      "weapon1OffSigil": "Bursting",
+      "weapon2MainType": "Scepter",
+      "weapon2MainSigil1": "Doom",
+      "weapon2OffType": "Pistol",
+      "weapon2OffSigil": "Paralyzation"
+    },
+    "consumables": {
+      "foodId": 91878,
+      "utilityId": 77567,
+      "infusionId": 37130
+      
+    },
+    "skills": {
+      "heal": "Hide in Shadows",
+      "utility1": "Thousand Needles",
+      "utility2": "Skale Venom",
+      "utility3": "Spider Venom",
+      "elite": "Basilisk Venom"
+    },
+    "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot",
+      "gw2id": 96613,
+      "type": "Item"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+The <Skill name="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
+
+If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
+
+If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
+
+It's recommended to have a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+</Character>
+<Character title="Alac Specter" gear={{
+  "profession": "Thief",
+  "weight": "Medium",
+  "gear": [
+    "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Viper",
+    "Ritualist",
+    "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Viper",
+    "Viper",
+    "Viper",
+    "Ritualist",
+    "Ritualist",
+    "Ritualist"
+  ],
+  "attributes": {
+    "Health": 23915,
+    "Armor": 2361,
+    "Power": 2174,
+    "Precision": 1228,
+    "Toughness": 1243,
+    "Vitality": 2227,
+    "Ferocity": 100,
+    "Condition Damage": 2498,
+    "Expertise": 1111,
+    "Concentration": 648,
+    "Healing Power": 0,
+    "Agony Resistance": 162,
+    "Condition Duration": 0.7406666666666666,
+    "Boon Duration": 0.43200000000000005,
+    "Critical Chance": 0.4085714285714286,
+    "Critical Damage": 1.5666666666666667,
+    "Power Coefficient": 1878,
+    "Power2 Coefficient": 0,
+    "Burning Coefficient": 0.57,
+    "Bleeding Coefficient": 0,
+    "Poison Coefficient": 17.102,
+    "Torment Coefficient": 18.34,
+    "Confusion Coefficient": 0,
+    "Flat DPS": 0,
+    "Poison Duration": 0.33,
+    "Outgoing Healing": 0.2,
+    "Torment Duration": 0.2,
+    "Siphon Base Coefficient": 139.75,
+    "Effective Power": 5164.574897714285,
+    "Power DPS": 3734.721470122228,
+    "Power2 DPS": 0,
+    "Siphon DPS": 158.75600000000003,
+    "Bleeding Damage": 291.3366,
+    "Bleeding Stacks": 0,
+    "Bleeding DPS": 0,
+    "Burning Damage": 878.3320500000001,
+    "Burning Stacks": 0.9921799999999998,
+    "Burning DPS": 871.4634933689999,
+    "Confusion Damage": 344.35959,
+    "Confusion Stacks": 0,
+    "Confusion DPS": 0,
+    "Poison Damage": 413.40270300000003,
+    "Poison Stacks": 34.204,
+    "Poison DPS": 14140.026053412,
+    "Torment Damage": 434.97090000000003,
+    "Torment Stacks": 35.59182666666666,
+    "Torment DPS": 15481.408877844,
+    "Damage": 34386.37589474723,
+    "Effective Health": 140456007.4626866,
+    "Survivability": 71406.20613253005,
+    "Effective Healing": 468,
+    "Healing": 468
+  },
+  "runeId": 83502,
+  "runeName": "Renegade",
+  "infusions": [
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130,
+    37130
+  ],
+  "weapons": {
+    "weapon1MainType": "Scepter",
+    "weapon1MainSigil1Id": 24583,
+    "weapon1OffType": "Dagger",
+    "weapon1OffSigilId": 24609,
+    "weapon2MainType": "Scepter",
+    "weapon2MainSigil1Id": 24583,
+    "weapon2OffType": "Pistol",
+    "weapon2OffSigilId": 24639
+  },
+  "consumables": {
+    "foodId": 91878,
+    "utilityId": 81079,
+    "infusionId": 37130
+  },
+  "skills": {
+    "healId": 63292,
+    "utility1Id": 63323,
+    "utility2Id": 63276,
+    "utility3Id": 13037,
+    "eliteId": 13132
+  },
+  "assumedBuffs": [
+    {
+      "id": "might",
+      "type": "Boon"
+    },
+    {
+      "id": "fury",
+      "type": "Boon"
+    },
+    {
+      "id": "protection",
+      "type": "Boon"
+    },
+    {
+      "id": "vulnerability",
+      "type": "Condition"
+    },
+    {
+      "id": "jade-bot-base",
+      "type": "Text"
+    },
+    {
+      "id": "jade-bot-per-tier",
+      "type": "Text"
+    },
+    {
+      "id": "omnipotion",
+      "gw2id": 79722,
+      "type": "Item"
+    }
+  ]
+}}>
+This build runns <Attribute name="Boon Duration" text="43% Boon Duration"/>. If you are struggling to maintain <Boon name="Alacrity"/> use the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear. Additionally, when it is <Instability name="Boon Overload"/>, you can also adjust your gear to play a much more offensive variation.
+
+If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
+
+It's recommended to have a short bow for additional movement during downtime and <Boon name="might"/> blasts on the _Mistlock Singularity_.
+</Character>  
+</CharacterWithAr>
+</Advanced>
 
 <Divider text="Build"/>
 
@@ -202,9 +545,22 @@ If you do not need the extra CC you can remove the Pistol so your Dagger counts 
 <Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Bountiful Theft,Quick Pockets" unembossed/>
 
 <Advanced>
-### Alacrity Variant
+### Alacrity Variants
 
-Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alacrity"/> source. You will need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/) to gain at least 43% <Attribute name="Boon Duration"/> if you want to upkeep it permanantly.
+Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alacrity"/> source. Either on its own or sharing generation with another class.
+
+#### Alac Share
+
+Alac share specter is a very strong build to play, especially on Ensolyss and 100CM. It uses the same gear as <Specialization text="Condi DPS Specter" name="Specter"/>. 
+
+The DPS loss for the specter is well worth the DPS gain of taking a <Specialization text="Condi DPS Renegade" name="Renegade"/>, a <Specialization text="Staxe Mirage" name="Mirage"/> or another <Specialization text="Alac Share Specter" name="Specter"/> over a dedicated <Boon name="Alacrity"/> source!
+
+<Traits traits1="Specter" traits1Selected="Consume Shadows,Traversing Dusk,Strength of Shadows" unembossed/>
+<Skills heal="Well of Gloom" utility1="Well of Sorrow" utility2="Devourer Venom" utility3="Spider Venom" elite="Basilisk Venom" unembossed/>
+
+#### Alacrity Specter
+
+This build can maintain <Boon name="Alacrity"/> solo. You will need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/) to gain at least 43% <Attribute name="Boon Duration"/> if you want to upkeep it permanantly.
 
 <Traits traits1="Specter" traits1Selected="Consume Shadows,Traversing Dusk,Strength of Shadows" unembossed/>
 <Skills heal="Well of Gloom" utility1="Well of Bounty" utility2="Well of Sorrow" utility3="Spider Venom" elite="Basilisk Venom" unembossed/>
@@ -248,6 +604,7 @@ Situationally <Specialization name="Specter"/> can be used as a <Boon name="Alac
 |                                            |                                                        |
 | ------------------------------------------ | ------------------------------------------------------ |
 | <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (up to 750 CC).       |
+| <Skill id="63275" size="big" disableText/> | 450 Defiance bar damage.        |
 | <Skill id="63155" size="big" disableText/> | Mind Shock (skill 5) does 150 Defiance bar damage.     |
 | <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
 | <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |

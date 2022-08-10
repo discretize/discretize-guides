@@ -1,6 +1,6 @@
 ---
 cycle: Day (non CM) / Night (CM)
-date: 2022-01-29T01:49:28.096Z
+date: 2022-07-01T17:43:27.300Z
 title: Sunqua Peak
 image: ./images/hero_sunqua2.jpg
 group: Challenge Mode
@@ -15,30 +15,23 @@ sigils:
 consumables:
   - 78978
 record:
-  time: 1 min 9 sec
+  time: 5 min 48 sec
   by:
-    - name: Quantify
-      tag: qT
     - name: Discretize
       tag: dT
-    - name: Seventeen Elitists
-      tag: XVII
   youtube:
-    - id: bX03q6P1IIw
-      name: Tym
-      specialization: Soulbeast
-    - id: KhX6wzYaIdc
-      name: Eupneo
-      specialization: Soulbeast
-    - id: CuD8VoHkWYQ
-      name: Tantor
-      specialization: Firebrand
-    - id: rGp3LjjZQB4
-      name: Roach
-      specialization: Firebrand
-    - id: 5KM5x9mCjyU
-      name: Decados
+    - id: https://youtu.be/4rR_j_fLT2c
+      name: Inky
       specialization: Renegade
+    - id: https://youtu.be/Eb6xWepRbJA
+      name: Maarten
+      specialization: Mesmer
+    - id: https://youtu.be/ON5Z7Kx1ZNE
+      name: Hyp
+      specialization: Engineer
+    - id: https://youtu.be/jWqgOwQLY48
+      name: Jetrell
+      specialization: Guardian
 ---
 
 The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challenge Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss.

@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-01-31T15:30:02.866Z
+date: 2022-07-01T17:41:07.100Z
 title: Chaos Isles
 image: ./images/legendary_brazen_gladiator.jpg
 group: T4
@@ -33,6 +33,9 @@ record:
     - id: 5NXsBD5S5JE
       name: Princeps
       specialization: Firebrand
+    - id: https://youtu.be/kC8D0_69KvE
+      name: Inky
+      specialization: Renegade
 ---
 
 <Grid>
