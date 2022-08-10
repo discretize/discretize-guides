@@ -36,9 +36,9 @@ classification:
 date: 2022-08-07T10:33:54.297Z
 ---
 
-The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play, dealing resaonable damage, that is able to be almost entirely ranged if needed. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
+The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play, dealing reasonable damage, that is able to be almost entirely ranged if needed. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
 
-<Specialization name="Mechanist" text="Power Alacrity Mechanist"/> is the boon support counterpart. It generates 100% <Boon name="Alacrity"/>, a large amount of offensive boons (25 <Boon name="Might"/> and 100% <Boon name="Fury"/>) and the same benefits of an easy, ranged rotation as seen with <Specialization name="Mechanist" text="Power Mechanist"/>. Alongside the offensive boons it also provides some <Boon name="Protection"/> and <Effect name="Barrier"/>, with 1 stack of <Boon name="Stability"/> amd <Boon name="Aegis"/> on a fairly long cooldown. While the build has fantastic offensive support, it is lacking in defensive support and CC compared to <BuildLink build="Power Alac Renegade" specialization="Renegade"/>, so it is important to make sure other members of you party can help to cover the gaps.
+The <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> build is the boon support counterpart. It generates 100% <Boon name="Alacrity"/>, a large amount of offensive boons (25 <Boon name="Might"/> and 100% <Boon name="Fury"/>) and the same benefits of an easy, ranged rotation as seen with <Specialization name="Mechanist" text="Power Mechanist"/>. Alongside the offensive boons it also provides some <Boon name="Protection"/> and <Effect name="Barrier"/>, with 1 stack of <Boon name="Stability"/> and <Boon name="Aegis"/> on a fairly long cooldown. While the build has fantastic offensive support, it is lacking in defensive support and CC compared to <BuildLink build="Power Alac Renegade" specialization="Renegade"/>, so it is important to make sure other members of you party can help to cover the gaps.
 
 <Divider text="Equipment"/>
 
@@ -348,7 +348,7 @@ This build uses 162 <Attribute name="Agony Resistance"/>, if you have more feel 
 
 <Traits traits1Id="70" traits1="Alac Mechanist" traits1SelectedIds="2296,2276,2281" unembossed/>
 
-When playing <Specialization name="Mechanist" text="Power Alacrity Mechanist"/>, your other traitlines remain the same as <Specialization name="Mechanist" text="Power Mechanist"/>. By swapping Mechanist traits, you gain access to new jade bot skills, most importantly <Skill id="63293"/> and <Skill id="63141"/>, which are a larege source of your boon generation.   
+When playing <Specialization name="Mechanist" text="Power Alacrity Mechanist"/>, your other traitlines remain the same as <Specialization name="Mechanist" text="Power Mechanist"/>. By swapping Mechanist traits, you gain access to new jade bot skills, most importantly <Skill id="63293"/> and <Skill id="63141"/>, which are a large source of your boon generation.   
 
 <Traits traits1="Scrapper" traits1Selected="Gyroscopic Acceleration, Kinetic Accelerators" unembossed />
 
@@ -451,15 +451,16 @@ In <Skill name="Grenade Kit"/>
 <GridItem sm="5">
 <Card title="Alacrity Mechanist">
   
-As a <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> your general weapon rotation does not change. However you do gain a new set of Jade Mech skills. Theese should be used with the following priority in mind:
+As a <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> your general weapon rotation does not change. However, you do gain a new set of Jade Mech skills. These should be used with the following priority in mind:
+
 1.  <Skill id="63293"/> (Jade mech F2)
 2.  <Skill id="63141"/> (Jade mech F3)
 3.  <Skill id="63365"/> (Jade mech F1)
 4.  <Skill id="63095"/> (Elite Skill)
 
-Your boon generation is mostly passive and will be maintained by attacking and pressing your Jade Bot skills off cooldown. However if you are starting from zero stacks of <Boon name="Might"/>, you can instantly ramp to 25 stacks by using <Skill id="63141"/> and <Skill name="Blunderbuss"/>.
+Your boon generation is mostly passive and will be maintained by attacking and pressing your Jade Bot skills off cooldown. However, if you are starting from zero stacks of <Boon name="Might"/>, you can instantly ramp to 25 stacks by using <Skill id="63141"/> and <Skill name="Blunderbuss"/>.
 
-If you are on movement heavy fights, traveliing through portals or using forced movement mechanics like the updrafts on Skorvald, you mech may get left behind. Remember to let it catch up, ressumon it or use <Skill name="Shift Signet"/> to port it before sharing boons.
+If you are on movement heavy fights, traveling through portals or using forced movement mechanics like the updrafts on Skorvald, you mech may get left behind. Remember to let it catch up, resummon it or use <Skill name="Shift Signet"/> to port it before sharing boons.
 
 </Card>
 </GridItem>
