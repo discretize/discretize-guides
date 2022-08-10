@@ -1,6 +1,6 @@
 ---
 title: New Player Guide
-date: 2022-08-08T12:29:15.787Z
+date: 2022-08-10T22:09:13.528Z
 image: ./images/lobby.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -15,7 +15,7 @@ Fractals of The Mists, frequently called *"fractals"*, or simply *"fracs"*, are 
 
 As you move up in fractal level, the content becomes more difficult – but also more rewarding.
 
-You can find the portal entrance to fractals in Fort Marriner in Lions Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
+You can find the portal entrance to fractals in Fort Marriner in Lion's Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
 
 Starting at level 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
 
@@ -35,7 +35,7 @@ Be aware of <Effect name="Agony"/>; it reduces your healing and barriers by 70% 
 
 </Warning>
 
-Starting with tier 2, the heroes begin encountering _Mistlock instabilities_ which add another mechanic to play around, and therefore another layer of difficulty. By tier 4, each fractal will apply multiple _Mistlock instabilities_. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
+Starting with tier 2, the players begin encountering _Mistlock instabilities_ which add another mechanic to play around, and therefore another layer of difficulty. By tier 4, each fractal will apply multiple _Mistlock instabilities_. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
 
 ---
 
@@ -163,7 +163,7 @@ For more information, check out their [website](https://www.gw2university.com/)
 
 Players use several tools/add-ons to analyze gameplay more efficiently. Here is a list of common tools:
 
-1. [arc dps](https://www.deltaconnected.com/arcdps/): DPS meter. Almost everybody uses it, no one has gotten banned for using it.
+1. [arcdps](https://www.deltaconnected.com/arcdps/): DPS meter. Almost everybody uses it, no one has gotten banned for using it.
 2. [log manager](https://gw2scratch.com/tools/manager): helps you organize your logs, which can be optionally recorded by arc DPS.
 3. [gw2wingman](https://gw2wingman.nevermindcreations.de/home): compare your performance against the averages of the community
 4. [Fractal farming](https://fast.farming-community.eu/instances/fractals) by [fast]: find out which fractals are best to farm; which daily fractals reward the most
@@ -243,7 +243,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 | ------------------ | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `CFB`              | Condi Firebrand    | `cqfb`, `fb`, `qshare`, `qfb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>                                                                        |
 | `SFB`, `celebrand` | Celestial Firebrand   | `qfb`, `fb`   | <Specialization name="Firebrand" text="Clelestial Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals | <BuildLink build="Celestial Firebrand" specialization="Firebrand"/>                                                                       |
-| `HB`               | Heal Firebrand     | `fb`, `hfb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build               | <BuildLink build="Heal Firebrand" specialization="Firebrand"/>                                                                         |
+| `HB`               | Heal Firebrand     | `hfb`, `fb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build               | <BuildLink build="Heal Firebrand" specialization="Firebrand"/>                                                                         |
 | `Heal Mech`        | Heal Alacrity Mechanist  | `alac`, `HAM` | <Specialization name="Mechanist"/> for <Boon name="Alacrity"/> and healing                        | <BuildLink build="Heal Mechanist" specialization="Mechanist"/> |
 | `Ren`              | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities (can be power or condi)                         | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
 | `Alac`             | Alacrity Provider  | `alac`, `HAM` | Any build that can provide <Boon name="Alacrity"/>. Could be a support or damage build                         |  |
