@@ -1,14 +1,7 @@
 ---
-title: Power (Alac) Mechanist
 hidden: false
 archive: false
-rating: Good
-role: Power Damage
-profession: Engineer
 specialization: Mechanist
-conditions:
-  - name: Vulnerability
-    uptime: 5 Stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -25,18 +18,25 @@ boons:
   - name: Might
     uptime: 5-10 Stacks
     variant: DPS
-code: '[&DQMGNyYvRh8NGwAAhgCNARobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQMGNyYvRh8NGwAAhgCNARobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 2
   - 3
   - 4
   - 1
   - 2
-date: 2022-08-07T10:33:54.297Z
+date: 2022-08-10T22:25:39.750Z
+title: Power (Alac) Mechanist
+rating: Good
+role: Power Damage
+profession: Engineer
+conditions:
+  - name: Vulnerability
+    uptime: 5 Stacks
+cmGuide: ""
 ---
 
-The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play, dealing reasonable damage, that is able to be almost entirely ranged if needed. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
+The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play and deals a reasonable amount of damage, partly even at a range. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
 
 The <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> build is the boon support counterpart. It generates 100% <Boon name="Alacrity"/>, a large amount of offensive boons (25 <Boon name="Might"/> and 100% <Boon name="Fury"/>) and the same benefits of an easy, ranged rotation as seen with <Specialization name="Mechanist" text="Power Mechanist"/>. Alongside the offensive boons it also provides some <Boon name="Protection"/> and <Effect name="Barrier"/>, with 1 stack of <Boon name="Stability"/> and <Boon name="Aegis"/> on a fairly long cooldown. While the build has fantastic offensive support, it is lacking in defensive support and CC compared to <BuildLink build="Power Alac Renegade" specialization="Renegade"/>, so it is important to make sure other members of you party can help to cover the gaps.
 
@@ -392,7 +392,7 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 
 </Card>
 <Card title="Situational Skills">
-If you need to swap out a utility skill, <Skill name="Grenade Kit"/> should first be swapped. However, <Skill name="Shrapnel Grenade"/> is a reasonable amount of your damage and should only be swapped out if necessary.
+If you need to swap out a utility skill, <Skill name="Grenade Kit"/> should first be swapped. However, <Skill name="Shrapnel Grenade"/> is a big part of your damage and should only be swapped out if necessary.
 
 |                                                     |                                                                                                                                                                     |
 |-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
