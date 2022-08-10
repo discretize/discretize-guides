@@ -1,10 +1,6 @@
 ---
-title: Power Quick Herald
 hidden: true
 archive: false
-rating: Meta
-role: Power Damage
-profession: Revenant
 specialization: Herald
 boons:
   - name: "Quickness "
@@ -26,12 +22,14 @@ boons:
     uptime: ???
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2022-08-01T18:34:24.601Z
+date: 2022-08-10T22:34:36.325Z
+title: Power Quick Herald
+rating: Meta
+role: Power Damage
+profession: Revenant
 ---
 WIP DO NOT MAKE THIS PUBLIC 
-The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/>. 
-Good CC with <Skill name="Surge of the mists"/>.
-Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss. 
+The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/> and good CC with <Skill name="Surge of the mists"/>. Can provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss. 
 
 <Divider text="Equipment"/>
 
@@ -622,7 +620,9 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon, Roiling Mists" traits3="Herald" traits3Selected="Elder's Respite, Shared Empowerment, Draconic Echo"/>
 
 <Card title="Defiance Bar">
+
 **Hard Crowd Control:**
+
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
 - <Skill name="Chaotic Release"/> - 232 <Control name="Launch"/>
 - <Skill name="Energy Expulsion"/> - 150 <Control name="Knockback"/>.
@@ -672,10 +672,10 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 
 1. Activate <Skill name="Facet of Nature"/> (Dragon)
 2. Activate and cast all facets to share <Boon name="Quickness"/> (<Skill name="Infuse Light"/>, <Skill name="Gaze of Darkness"/>, <Skill name="Elemental Blast"/>, <Skill name="Burst of Strength"/> and <Skill name="Chaotic Release"/>)  
-3. Bast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
+3. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
 4. Cast <Skill name="True Nature"/> (Dragon) 
 5. Take Mistlock Singularity. 
-6. Bast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
+6. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
 7. Activate <Skill name="Facet of Nature"/> (Dragon)
 8. Activate and cast <Skill name="Infuse Light"/>
 9. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
@@ -693,7 +693,7 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 2.  <Skill name="Shackling Wave"/>
 3.  <Skill name="Deathstrike"/>
 
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+Ideally you would want to do your burst rotation when the enemy is under the effect of <Effect name="Exposed"/>.
 
 </Card>
 </GridItem>
@@ -704,16 +704,16 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 <GridItem sm="12">
 <Card title="Abilities">
 **Facet/Consume Skills:**
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Dragon) 
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Assasin)
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Dwarf)
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Centaur)
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Demon)
+- <Skill name="facetofnature" /> - Increase the duration of boons applied to allies. This effect gives a flat 20% increase to the duration of boons applied to the target. This can go over the 100% boon duration cap, essentially giving your party a possible 120% boon duration.
+  - <Skill name="truenature" /> - (Dragon)  Increase the duration of allies' boons. The current boons get extended by 2 seconds (3 seconds with <Trait name="Core Value"/>).
+- <Skill name="facetofnature" /> - Grants allies the ability to steal life with their strikes.
+  - <Skill name="truenature" /> - (Assasin) Strip boons from nearby enemies. 
+- <Skill name="facetofnature" /> - Reduce incoming damage to allies by 10%. 
+  - <Skill name="truenature" /> - (Dwarf) Grant <Boon name="Stability"/> to nearby allies. 
+- <Skill name="facetofnature" /> - Heal nearby allies every few seconds.
+  - <Skill name="truenature" /> - (Centaur) Cleanse conditions from nearby allies. Heal for each condition removed.
+- <Skill name="facetofnature" /> - Transfer a condition from nearby allies to yourself every few seconds.
+  - <Skill name="truenature" /> - (Demon) Transfer conditions to nearby enemies. Gain <Boon name="Might"/> for each condition transferred. 
 
 ---
 
