@@ -19,17 +19,17 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-Conditions:
-  - name: Burning
-code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: 2022-08-06T09:37:02.199Z
+date: 2022-08-11T15:23:32.933Z
+Conditions:
+  - name: Burning
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -637,7 +637,6 @@ Check the build section for some common gear variations. You can also use our [g
 
 |                                                             |                                                                                                                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="perfect inscriptions" size="big" disableText/> | Taken when playing in a power comp to share <Skill name="Bane Signet"/>.                                                     |
 | <Trait name="pureofheart" size="big" disableText/>          | Taken if the group is struggling with healing.                                                                               |
 | <Trait name="weighty terms" size="big" disableText/>        | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
 
