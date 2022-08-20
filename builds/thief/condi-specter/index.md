@@ -1,18 +1,5 @@
 ---
-title: Condi (Alac) Specter
-hidden: false
 archive: false
-hasBeginner: true
-rating: Good
-role: Condi Damage
-profession: Thief
-specialization: Specter
-conditions:
-  - name: Vulnerability
-    uptime: 20 stacks
-  - name: Poisoned
-  - name: Bleeding
-  - name: Torment
 boons:
   - name: Fury
     uptime: 75%
@@ -23,7 +10,6 @@ boons:
   - name: Swiftness
     uptime: 75%
     variant: party
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
@@ -31,7 +17,21 @@ classification:
   - 2
   - 3
 compositions: null
-date: 2022-07-31T13:25:08.948Z
+hidden: false
+hasBeginner: true
+specialization: Specter
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: 2022-08-20T16:49:30.923Z
+title: Condi (Alac) Specter
+rating: Good
+role: Condi Damage
+profession: Thief
+conditions:
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Poisoned
+  - name: Bleeding
+  - name: Torment
 cmGuide: ""
 ---
 
@@ -210,7 +210,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
     }
   ]
 }}>
-The <Skill name="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
+The <Skill id="21778"/> is a great option to support your party as it brings a tremendous amount of party healing.
 
 If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
 
@@ -366,7 +366,7 @@ If you do not need the extra CC you can remove the Pistol so your Dagger counts 
     }
   ]
 }}>
-The <Skill name="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
+The <Skill id="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
 
 If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
 
