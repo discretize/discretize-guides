@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2022-08-01T18:33:11.663Z
+date: 2022-08-15T12:44:14.714Z
 ---
 
 <Warning>
@@ -595,7 +595,6 @@ Right after you're done with <Skill id="41858"/> skills, swap to <Skill id="2849
 
 You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off cooldown/at key moments. If <Skill id="45537"/> will be off cooldown during a <Skill id="28494"/> Rotation, stop <Skill name="Embrace The Darkness"/> right before **Step 9**. If it will be off cooldown during a <Skill id="41858"/> Rotation, don't use <Skill id="40485"/>.
 
-When you swap your legend first and then your weapon, you will be able to proc Sigil effects twice due to them triggering on legend swap.
 </Card>
 
 <Card title="Raid Golem Rotation">
