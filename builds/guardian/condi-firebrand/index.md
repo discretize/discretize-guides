@@ -77,6 +77,7 @@ There are several different gear, utility, and trait setups that allow you to ma
 
 - <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 41.7%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Feel My Wrath"/> - 69.8%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> and <Skill name="Mantra of Liberation"/> - 70.61bd
 
 </Warning>
 </Advanced>
@@ -848,9 +849,9 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 
 <Card title="Solo Quickness Variant">
 
-This build assumes you are playing in a comp with multiple <Specialization name="Firebrand" text="Condi Firebrands"/> and allows <Trait name="Legendary Lore"/> and <Skill name="Renewed Focus"/> to be played for more DPS and an additional Tome reset. You need at least 2 <Specialization name="Firebrand" text="Firebrands"/> to play this build to maintain <Boon name="Quickness"/>!
+This build assumes you are playing in a comp and need to provide 100% <Boon name="Quickness"/>. If you use the 70% <Attribute name="Boon Duration"/> raid build remember to swap to <Trait name="Legendary Lore"/>
 
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Renewed Focus" unembossed/>
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Feel my Wrath" unembossed/>
 
 <Traits traits1="Firebrand" traits1Selected="Liberators Vow,Weighty Terms,Loremaster" unembossed/>
 
@@ -858,7 +859,9 @@ This build assumes you are playing in a comp with multiple <Specialization name=
 
 <Card title="Solo variant">
 
-If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
+If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.
+
+<Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
 </Card>
 </Advanced>
@@ -959,15 +962,15 @@ Starting on Axe:
 2.  <Skill id="9104"/> (Torch 4)
 3.  <Skill name="purgingflames"/>
 4.  Weapon Swap
-5.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-6.  <Skill name="Tome of Justice"/> (F1)
-7.  <Skill name="Chapter 2: Igniting Burst"/>
-8.  <Skill name="Epilogue: Ashes of the Just"/>
-9.  <Skill name="Chapter 4: Scorched Aftermath"/>
-10. <Skill name="Chapter 1: Searing Spell"/>
-11. <Skill name="Chapter 2: Igniting Burst"/>
-12. <Skill id="9089"/> (Torch 4)
-13. <Skill id="9089"/> (Torch 4)
+5.  <Skill id="9089"/> (Torch 4) 
+6.  <Skill id="9089"/> (Torch 4) 
+7.  <Skill name="Symbol of Punishment"/> (Scepter 2)
+8.  <Skill name="Tome of Justice"/> (F1)
+9.  <Skill name="Chapter 2: Igniting Burst"/>
+10. <Skill name="Epilogue: Ashes of the Just"/>
+11. <Skill name="Chapter 4: Scorched Aftermath"/>
+12. <Skill name="Chapter 1: Searing Spell"/>
+13. <Skill name="Chapter 2: Igniting Burst"/>
 14. <Skill name="Cleansing Flame"/> (Torch 5)
 15. <Skill name="Symbol of Punishment"/> (Scepter 2)
 16. <Skill id="9104"/> (Torch 4)
