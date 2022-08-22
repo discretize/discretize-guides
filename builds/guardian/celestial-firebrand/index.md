@@ -606,7 +606,6 @@ Check the build section for some common gear variations. You can also use our [g
 | <Skill name="Sanctuary"/>                                                   | 750 damage        |
 | <Skill id="45402"/>                                                         | 150 damage        |
 | <Skill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage        |
-| <Skill id="9093"/>                                                          | 300 damage        |
 | <Skill name="Hammer of Wisdom"/>                                            | 200 damage        |
 | <Skill name="Chains of light"/>                                             | 250 damage (50/s) |
 
@@ -622,7 +621,6 @@ Check the build section for some common gear variations. You can also use our [g
 | <Skill id="9251" size="big" disableText/>             | A stationary reflect lasting for 10 seconds.                                                                                                                                     |
 | <Skill name="Bow of Truth" size="big" disableText/>   | A strong AoE heal for 5 seconds.                                                                                                                                                 |
 | <Skill id="9084" size="big" disableText/>             | Provides <Boon name="Aegis"/> to 5 targets.                                                                                                                                      |
-| <Skill name="Bane Signet" size="big" disableText/>    | Provides CC and a 216 power buff to each party member when traited with <Trait name="Perfect Inscriptions"/>. This should be used when playing in power comps with high DPS.     |
 | <Skill id="9125" size="big" disableText/>             | Deals an additional 200 defiance bar damage. A very good replacement for <Skill name="Sanctuary"/> on Artsariiv and MAMA.                                                        |
 | <Skill id="9168" size="big" disableText/>             | Can be used as a source of <Condition name="Vulnerability"/>. If your group's <Condition name="Vulnerability"/> uptime is low, taking this is a DPS increase.                    |
 | <Skill id="43357" size="big" disableText/>            | When <Boon name="Stability"/> or a stunbreak is needed. Only take this if you can upkeep <Boon name="Quickness"/> and <Boon name="Fury"/> without <Skill name="Feel My Wrath"/>. |
@@ -731,7 +729,7 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
   - Blast fire fields with <Skill name="holystrike"/>. If there is no fire field you can put one down with tome1-4
   - Use <Skill name="Symbol of Swiftness"/>
 - Apart from that:
-  - <Skill name="Sanctuary"/> or <Skill name="Bane Signet"/> (if in a power group) to break defiance bars.
+  - <Skill name="Sanctuary"/> or <Skill name="Hammer of Wisdom"/> to break defiance bars.
   - Remember to be smart about your free utility swap and adjust as necessary to the encounter and your party.
 
 Suggested key moments to swap to staff and <Skill name="Empower"/>:
@@ -811,9 +809,8 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 3.  Use <Skill name="Mantra of Potence"/> 3 times and <Skill name="Mantra of Solace"/> once due to the cooldown of <Trait name="Liberators Vow"/>
 4.  Use <Skill name="Empower"/> as you are sharing <Boon name="Quickness"/>.
 5.  Use <Skill name="Feelmywrath"/>
-6.  Use <Skill name="banesignet"/> (If you have it)
-7.  Take _Mistlock Singularity_
-8.  Use <Skill name="Feelmywrath"/>
+6.  Take _Mistlock Singularity_
+7.  Use <Skill name="Feelmywrath"/>
 
 </Card>
 <Video title="Example Rotation by Ares" youtube="a9cnmBvu9G8" caption="The build used here is the 162 Agony Resistance variant."/>
