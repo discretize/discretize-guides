@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-07-22T13:43:23.326Z
+date: 2022-08-30T17:53:16.149Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -578,7 +578,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
 
-<Video caption="by Tipcat [CnD]" youtube="A2GXvVGew8o"/>
+<Video caption="by Beng" youtube="DpBnvYF9ZnE"/>
 </Card>
 
 <Beginner>
@@ -596,26 +596,30 @@ If you are using Sword/Focus instead of Greatsword, follow the same step-by-step
 <Advanced>
 <Card title="Opener">
 
-There is a basic opener, you will need to adapt this depending on the boss and cooldowns.
+There is a basic fractal opener, you will need to adapt this depending on the boss and cooldowns.
 
-- Start on Greatsword
+- Start on Sword
 
-1. <Skill id="62553"/>
-2. <Skill name="Phantasmal Berserker"/>
-3. <Skill name="Bladesong Harmony"/>
+1. <Skill name="Unstable Bladestorm"/>
+2. <Skill name="Bladecall"/>
+3. <Skill name="Phantasmal Swordsman"/>
 4. _Weapon Swap_
-5. <Skill name="Bladecall"/>
-6. <Skill name="Phantasmal Swordsman"/>
-7. <Skill name="Mantra of Pain"/>
-8. <Skill name="Phantasmal Disenchanter"/>
-9. <Skill name="Mantra of Pain"/>
-10. <Skill name="Unstable Bladestorm"/>
-11. <Skill name="Signet of the Ether"/>
-12. <Skill name="Phantasmal Swordsman"/>
-13. <Skill name="Bladesong Sorrow"/>
-14. <Skill name="Bladecall"/>
+5. <Skill name="Bladesong Dissonance"/>
+6. <Skill name="Phantasmal Berserker"/>
+7. <Skill name="Phantasmal Disenchanter"/>
+8. <Skill name="Signet of the Ether"/>
+10. <Skill name="Phantasmal Berserker"/>
+11. <Skill name="Bladesong Harmony"/>
+12. <Skill name="Mirror blade"/>
+13. <Skill name="Mind Stab"/>
+14. <Skill name="Bladesong Sorrow"/>
 15. <Skill name="Phantasmal Disenchanter"/>
-
+17. <Skill name="Mirror Blade"/>
+19. <Skill name="Bladesong Harmony"/>
+21. <Skill name="Mind Stab"/>
+22. <Skill name="Phantasmal Berserker"/>
+23. <Skill name="Mirror Blade"/>
+24. _Weapon Swap_
 </Card>
 </Advanced>
 
