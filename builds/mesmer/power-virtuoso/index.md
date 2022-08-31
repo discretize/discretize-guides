@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-08-30T17:53:16.149Z
+date: 2022-08-31T17:41:56.694Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -177,7 +177,139 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Power Virtuoso" gear={{
+
+<Character title="Power Virtuoso (Eagle)" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+    "Agony Resistance": 162,
+    "Armor": 2210,
+    "Bleeding Coefficient": 9.05,
+    "Bleeding DPS": 1131.37330625,
+    "Bleeding Damage": 125.01362499999999,
+    "Bleeding Stacks": 9.05,
+    "Boon Duration": 0.162,
+    "Burning Coefficient": 0,
+    "Burning DPS": 0,
+    "Burning Damage": 369.070075,
+    "Burning Stacks": 0,
+    "Clone Critical Chance": 0.6000000000000001,
+    "Concentration": 243,
+    "Condition Damage": 750,
+    "Condition Duration": 0,
+    "Confusion Coefficient": 0.26,
+    "Confusion DPS": 32.037820100000005,
+    "Confusion Damage": 123.222385,
+    "Confusion Stacks": 0.26,
+    "Critical Chance": 1,
+    "Critical Damage": 2.467233333333333,
+    "Damage": 44538.89353980745,
+    "Effective Healing": 390,
+    "Effective Health": 91047601.99004976,
+    "Effective Power": 28793.658075219395,
+    "Expertise": 0,
+    "Ferocity": 1450.85,
+    "Flat DPS": 0,
+    "Healing": 390,
+    "Healing Power": 0,
+    "Health": 20702,
+    "NonCrit Effective Power": 9664.947065700753,
+    "Phantasm Critical Chance": 1,
+    "Phantasm Critical Damage": 2.467233333333333,
+    "Phantasm Effective Power": 12207.562129166667,
+    "Poison Coefficient": 0,
+    "Poison DPS": 0,
+    "Poison Damage": 117.17694999999999,
+    "Poison Stacks": 0,
+    "Power": 3442,
+    "Power Coefficient": 3395,
+    "Power DPS": 37641.30503094719,
+    "Power2 Coefficient": 1189,
+    "Power2 DPS": 5589.060982510268,
+    "Precision": 2155,
+    "Siphon Base Coefficient": 139.75,
+    "Siphon DPS": 145.1164,
+    "Survivability": 46287.545495704,
+    "Torment Coefficient": 0,
+    "Torment DPS": 0,
+    "Torment Damage": 148.22511,
+    "Torment Stacks": 0,
+    "Toughness": 1243,
+    "Vitality": 1478
+    
+  },
+  "runeId": 24723,
+  "runeName": "Eagle",
+  "infusions": [
+    37132,
+    37132,
+    37132,
+    37132,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+      "weapon1MainType": "Dagger",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Sword",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+  "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 45425,
+    "utility2Id": 10211,
+    "utility3Id": 10267,
+    "elite": "Signet of Humility"
+  },
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
+}}>
+
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
+
+This setup uses 4 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
+
+<Character title="Power Virtuoso (Scholar)" gear={{
   "profession": "Mesmer",
   "weight": "Light",
   "gear": [
@@ -185,79 +317,212 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     "Assassin",
     "Berserker",
     "Assassin",
+    "Berserker",
     "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
     "Berserker",
     "Assassin",
     "Assassin",
-    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Assassin",
     "Berserker",
     "Berserker"
   ],
   "attributes": {
-    "Health": 20702,
-    "Armor": 2210,
-    "Power": 3508,
-    "Precision": 2156,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1460,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
     "Agony Resistance": 162,
-    "Condition Duration": 0,
+    "Armor": 2210,
+    "Bleeding Coefficient": 9.05,
+    "Bleeding DPS": 1131.37330625,
+    "Bleeding Damage": 125.01362499999999,
+    "Bleeding Stacks": 9.05,
     "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 2.473  ,
-    "Power Coefficient": 3013,
-    "Power2 Coefficient": 1172,
     "Burning Coefficient": 0,
-    "Bleeding Coefficient": 8.325,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0.21,
-    "Flat DPS": 0,
-    "Effective Power": 29738.943224923456,
-    "Power DPS": 34502.67074959352,
-    "Power2 DPS": 5459.581863855729,
-    "Bleeding Damage": 1052.3645507812498,
-    "Bleeding Stacks": 8.325,
-    "Bleeding DPS": 126.41015625,
-    "Burning Damage": 373.19296875,
-    "Burning Stacks": 0,
     "Burning DPS": 0,
-    "Confusion Damage": 124.59890625,
-    "Confusion Stacks": 0.24,
-    "Confusion DPS": 26.165770312499998,
-    "Poison Damage": 118.48593749999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 149.8809375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 41187.520434543,
-    "Effective Health": 70025114.4278607,
-    "Survivability": 46287.545495704,
+    "Burning Damage": 369.070075,
+    "Burning Stacks": 0,
+    "Clone Critical Chance": 0.6000000000000001,
+    "Concentration": 243,
+    "Condition Damage": 750,
+    "Condition Duration": 0,
+    "Confusion Coefficient": 0.26,
+    "Confusion DPS": 32.037820100000005,
+    "Confusion Damage": 123.222385,
+    "Confusion Stacks": 0.26,
+    "Critical Chance": 1,
+    "Critical Damage": 2.467233333333333,
+    "Damage": 44538.89353980745,
     "Effective Healing": 390,
+    "Effective Health": 91047601.99004976,
+    "Effective Power": 28793.658075219395,
+    "Expertise": 0,
+    "Ferocity": 1450.85,
+    "Flat DPS": 0,
     "Healing": 390,
+    "Healing Power": 0,
+    "Health": 20702,
+    "NonCrit Effective Power": 9664.947065700753,
+    "Phantasm Critical Chance": 1,
+    "Phantasm Critical Damage": 2.467233333333333,
+    "Phantasm Effective Power": 12207.562129166667,
+    "Poison Coefficient": 0,
+    "Poison DPS": 0,
+    "Poison Damage": 117.17694999999999,
+    "Poison Stacks": 0,
+    "Power": 3442,
+    "Power Coefficient": 3395,
+    "Power DPS": 37641.30503094719,
+    "Power2 Coefficient": 1189,
+    "Power2 DPS": 5589.060982510268,
+    "Precision": 2155,
     "Siphon Base Coefficient": 139.75,
-    "Siphon DPS": 146.7375,
-    "Phantasm Critical Chance": 0.95,
-    "Phantasm Critical Damage": 2.4726666666666666,
-    "Phantasm Effective Power": 12097.725341666664
+    "Siphon DPS": 145.1164,
+    "Survivability": 46287.545495704,
+    "Torment Coefficient": 0,
+    "Torment DPS": 0,
+    "Torment Damage": 148.22511,
+    "Torment Stacks": 0,
+    "Toughness": 1243,
+    "Vitality": 1478
     
   },
   "runeId": 24836,
   "runeName": "Scholar",
   "infusions": [
+    37132,
+    37132,
+    37132,
+    37132,
     37131,
     37131,
     37131,
     37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131,
+    37131
+  ],
+  "weapons": {
+      "weapon1MainType": "Dagger",
+      "weapon1MainSigil1": "Force",
+      "weapon1OffType": "Sword",
+      "weapon1OffSigil": "Impact",
+      "weapon2MainType": "Greatsword",
+      "weapon2MainSigil1": "Force",
+      "weapon2MainSigil2": "Impact"
+    },
+  "consumables": {
+      "foodId": 91805,
+      "utilityId": 9443,
+      "infusion": "Mighty +9 Agony Infusion"
+    },
+  "skills": {
+    "healId": 21750,
+    "utility1Id": 45425,
+    "utility2Id": 10211,
+    "utility3Id": 10267,
+    "elite": "Signet of Humility"
+  },
+  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
+}}>
+
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
+
+This setup uses 4 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+
+</Character>
+
+<Character title="Power Virtuoso (slaying potion)" gear={{
+  "profession": "Mesmer",
+  "weight": "Light",
+  "gear": [
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Assassin",
+    "Berserker",
+    "Berserker",
+    "Assassin",
+    "Berserker",
+    "Berserker"
+  ],
+  "attributes": {
+"Agony Resistance": 162,
+"Armor": 2210,
+"Bleeding Coefficient": 9.05,
+"Bleeding DPS": 1131.37330625,
+"Bleeding Damage": 125.01362499999999,
+"Bleeding Stacks": 9.05,
+"Boon Duration": 0.162,
+"Burning Coefficient": 0,
+"Burning DPS": 0,
+"Burning Damage": 369.070075,
+"Burning Stacks": 0,
+"Clone Critical Chance": 0.6000000000000001,
+"Concentration": 243,
+"Condition Damage": 750,
+"Condition Duration": 0,
+"Confusion Coefficient": 0.26,
+"Confusion DPS": 32.037820100000005,
+"Confusion Damage": 123.222385,
+"Confusion Stacks": 0.26,
+"Critical Chance": 1,
+"Critical Damage": 2.4205666666666668,
+"Damage": 46476.492654393514,
+"Effective Healing": 390,
+"Effective Health": 101164002.2111664,
+"Effective Power": 30441.990962313404,
+"Expertise": 0,
+"Ferocity": 1380.85,
+"Flat DPS": 0,
+"Healing": 390,
+"Healing Power": 0,
+"Health": 20702,
+"NonCrit Effective Power": 10415.229998866136,
+"Phantasm Critical Chance": 1,
+"Phantasm Critical Damage": 2.4205666666666668,
+"Phantasm Effective Power": 11733.091775,
+"Poison Coefficient": 0,
+"Poison DPS": 0,
+"Poison Damage": 117.17694999999999,
+"Poison Stacks": 0,
+"Power": 3372,
+"Power Coefficient": 3395,
+"Power DPS": 39796.13373779515,
+"Power2 Coefficient": 1189,
+"Power2 DPS": 5371.831390248363,
+"Precision": 2155,
+"Siphon Base Coefficient": 139.75,
+"Siphon DPS": 145.1164,
+"Survivability": 51430.60610633777,
+"Torment Coefficient": 0,
+"Torment DPS": 0,
+"Torment Damage": 148.22511,
+"Torment Stacks": 0,
+"Toughness": 1243,
+"Vitality": 1478
+    
+  },
+  "runeId": 24836,
+  "runeName": "Scholar",
+  "infusions": [
+    37132,
+    37132,
+    37132,
+    37132,
     37131,
     37131,
     37131,
@@ -284,7 +549,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
     },
   "consumables": {
       "foodId": 91709,
-      "utilityId": 9443,
+      "utilityId": 50082,
       "infusion": "Mighty +9 Agony Infusion"
     },
   "skills": {
@@ -299,11 +564,14 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
 
+This setup uses 4 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
+
+This setup wins over normal Scholar and Eagle setup by 80 dps but lose  4 dps if you use <Item id="9443"/> over <Item id="50082"/>
+
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 
 </Character>
-
 </CharacterWithAr>
 
 </Advanced>
@@ -473,12 +741,26 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 <Card title="Step by Step Rotation">
 
-**Step 1: Phantasms**
+
+**Step 1: Opener**
 
 We'll start with the basic rotation for summoning Phantasms. This is the backbone of the rotation and practicing this part for a bit will get you set up well for the rest of the rotation.
 
-1. Start on Greatsword and use <Skill name="Phantasmal Berserker"/>, then swap to Dagger/Sword.
-2. Use <Skill name="Phantasmal Swordsman"/> and <Skill name="Phantasmal Disenchanter"/>.
+1. Start on Dagger/Sword and use  <Skill name="Unstable Bladestorm"/>,<Skill name="Bladecall"/>,<Skill name="Phantasmal Swordsman"/>, then swap to Greatsword.
+2. Use <Skill name="Phantasmal Berserker"/> and <Skill name="Phantasmal Disenchanter"/>.
+3. Reset your cooldowns with <Skill name="Signet of the Ether"/> and cast both Phantasms again.
+4. Wait on Dagger/Sword until you can cast one more <Skill name="Phantasmal Swordsman"/>, then swap back to Greatsword.
+5. Use <Skill name="Phantasmal Berserker"/> right away.
+6. Use <Skill name="Phantasmal Disenchanter"/> when it comes back.
+7. Wait for one more <Skill name="Phantasmal Berserker"/> and then swap back to Dagger/Sword.
+8. Repeat from Step 2. (skipping the <Skill name="Phantasmal Disenchanter"/> in that step.)
+
+**Step 1: Weapon Skills and phantasms**
+
+We'll start with the basic rotation for summoning Phantasms. This is the backbone of the rotation and practicing this part for a bit will get you set up well for the rest of the rotation.
+
+1. Start on Dagger/Sword and use  <Skill name="Unstable Bladestorm"/>,<Skill name="Bladecall"/>,<Skill name="Phantasmal Swordsman"/>, then swap to Greatsword.
+2. Use <Skill name="Phantasmal Berserker"/> and <Skill name="Phantasmal Disenchanter"/>.
 3. Reset your cooldowns with <Skill name="Signet of the Ether"/> and cast both Phantasms again.
 4. Wait on Dagger/Sword until you can cast one more <Skill name="Phantasmal Swordsman"/>, then swap back to Greatsword.
 5. Use <Skill name="Phantasmal Berserker"/> right away.
@@ -600,7 +882,8 @@ There is a basic fractal opener, you will need to adapt this depending on the bo
 
 - Start on Sword
 
-1. <Skill name="Unstable Bladestorm"/>
+1. <Skill name="Rain of Swords"/>
+2. <Skill name="Unstable Bladestorm"/>
 2. <Skill name="Bladecall"/>
 3. <Skill name="Phantasmal Swordsman"/>
 4. _Weapon Swap_
@@ -614,12 +897,7 @@ There is a basic fractal opener, you will need to adapt this depending on the bo
 13. <Skill name="Mind Stab"/>
 14. <Skill name="Bladesong Sorrow"/>
 15. <Skill name="Phantasmal Disenchanter"/>
-17. <Skill name="Mirror Blade"/>
-19. <Skill name="Bladesong Harmony"/>
-21. <Skill name="Mind Stab"/>
-22. <Skill name="Phantasmal Berserker"/>
-23. <Skill name="Mirror Blade"/>
-24. _Weapon Swap_
+
 </Card>
 </Advanced>
 
