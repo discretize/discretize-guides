@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-09-02T19:34:40.504Z
+date: 2022-09-02T20:10:10.746Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -869,13 +869,13 @@ There is a basic fractal opener, you will need to adapt this depending on the bo
 
 1. <Skill name="Rain of Swords"/>
 2. <Skill name="Unstable Bladestorm"/>
-2. <Skill name="Bladecall"/>
 3. <Skill name="Phantasmal Swordsman"/>
-4. _Weapon Swap_
-5. <Skill name="Bladesong Dissonance"/>
-6. <Skill name="Phantasmal Berserker"/>
-7. <Skill name="Phantasmal Disenchanter"/>
-8. <Skill name="Signet of the Ether"/>
+4. <Skill name="Bladecall"/>
+5. _Weapon Swap_
+6. <Skill name="Bladesong Dissonance"/>
+7. <Skill name="Phantasmal Berserker"/>
+8. <Skill name="Phantasmal Disenchanter"/>
+9. <Skill name="Signet of the Ether"/>
 10. <Skill name="Phantasmal Berserker"/>
 11. <Skill name="Phantasmal Disenchanter"/>
 12. <Skill name="Bladesong Harmony"/>
