@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-09-02T19:27:24.493Z
+date: 2022-09-02T19:34:40.504Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -854,7 +854,7 @@ At the boss (pre spawned bosses)
 
 <Card title="Golem Rotation">
 
-This video shows the full rotation for the Greatsword variant on the golem. It will slightly vary from the step-by-step version.
+This video shows the full rotation for the Greatsword variant on the golem.
 
 <Video caption="by Beng" youtube="DpBnvYF9ZnE"/>
 </Card>
@@ -877,11 +877,11 @@ There is a basic fractal opener, you will need to adapt this depending on the bo
 7. <Skill name="Phantasmal Disenchanter"/>
 8. <Skill name="Signet of the Ether"/>
 10. <Skill name="Phantasmal Berserker"/>
-11. <Skill name="Bladesong Harmony"/>
-12. <Skill name="Mirror blade"/>
-13. <Skill name="Mind Stab"/>
-14. <Skill name="Bladesong Sorrow"/>
-15. <Skill name="Phantasmal Disenchanter"/>
+11. <Skill name="Phantasmal Disenchanter"/>
+12. <Skill name="Bladesong Harmony"/>
+13. <Skill name="Mirror blade"/>
+14. <Skill name="Mind Stab"/>
+15. <Skill name="Bladesong Sorrow"/>
 
 </Card>
 </Advanced>
