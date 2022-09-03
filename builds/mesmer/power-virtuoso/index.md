@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-09-02T20:10:10.746Z
+date: 2022-09-03T09:23:36.213Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -856,7 +856,7 @@ At the boss (pre spawned bosses)
 
 This video shows the full rotation for the Greatsword variant on the golem.
 
-<Video caption="by Beng" youtube="DpBnvYF9ZnE"/>
+<Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
 </Card>
 
 
