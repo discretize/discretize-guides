@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2022-09-03T09:23:36.213Z
+date: 2022-09-04T09:16:24.735Z
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -740,9 +740,8 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 <Beginner>
 
-<Card title="Step by Step Begginer Fractal Rotation">
+<Card title="Step by Step Begginer Rotation">
 
-It will slightly vary from raid rotation version.
 
 **Step 1: Opener**
 
@@ -769,13 +768,13 @@ In Step 3, we will incorporate other Weapon Skills. We will add multiple skills 
 
 1. Do Step 1.
 2. Do <Skill name="Phantasmal Berserker"/> -> <Skill name="Phantasmal Disenchanter"/> -> <Skill name="Signet of the Ether"/> from Step 2.
-3. Use <Skill name="Phantasmal Berserker"/> -> <Skill name="Mirror Blade"/> -> <Skill name="Mind Stab"/>.
+3. Use <Skill name="Phantasmal Berserker"/> -> <Skill name="Mind Stab"/> -> <Skill name="Mirror Blade"/>.
 4. Wait until <Skill name="Mirror Blade"/> off cooldown and cast it 
 5. End your Greatsword loop with <Skill name="Mind Stab"/> -> <Skill name="Phantasmal Berserker"/> -> <Skill name="Mirror Blade"/>
 6. Weapon Swap
-7. Start you Dagger/Sword loop with  <Skill name="Phantasmal Swordsman"/> -> <Skill name="Bladecall"/> -> <Skill name="Unstable bladestorm"/>.
+7. Start you Dagger/Sword loop with  <Skill name="Unstable bladestorm"/> -> <Skill name="Phantasmal Swordsman"/> -> <Skill name="Bladecall"/>.
 8. Wait until <Skill name="Bladecall"/> off cooldown and cast it 
-9. End your Dagger/Sword loop with <Skill name="Bladecall"/> -> <Skill name="Phantasmal Swordsman"/> -> <Skill name="Unstable Bladestorm"/>
+9. End your Dagger/Sword loop with <Skill name="Unstable bladestorm"/> -> <Skill name="Bladecall"/> -> <Skill name="Phantasmal Swordsman"/>
 
 **Step 4: F1 Shatter**
 
@@ -786,8 +785,8 @@ Next, we will incorporate our F1 Shatter <Skill name="Bladesong Harmony"/>.
 - Use it only when you have 5 Blades stocked.
 - Use it for the first time after your initial <Skill name="Phantasmal Swordsman"/>.
 - Use it off-cooldown but only with 5 Blades afterward and after weapons skills.
-- Example of use on Greatsword Loop <Skill name="Phantasmal Berserker"/> -> <Skill name="Mirror Blade"/> -> <Skill name="Mind Stab"/> -> <Skill name="Bladesong Harmony"/>
-- Example of use on Dagger/Sword Loop <Skill name="Phantasmal Swordsman"/> -> <Skill name="Bladecall"/> -> <Skill name="Unstable bladestorm"/> -> <Skill name="Bladesong Harmony"/>.
+- Example of use on Greatsword Loop <Skill name="Phantasmal Berserker"/> -> <Skill name="Mind Stab"/> -> <Skill name="Mirror Blade"/> -> <Skill name="Bladesong Harmony"/>
+- Example of use on Dagger/Sword Loop <Skill name="Unstable bladestorm"/> -> <Skill name="Phantasmal Swordsman"/> -> <Skill name="Bladecall"/> -> <Skill name="Bladesong Harmony"/>.
 
 **Step 5: Utility Skills**
 
