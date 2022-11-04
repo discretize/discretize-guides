@@ -247,7 +247,6 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 - Stack <Boon name="Might"/>:
   - Use both charges of <Skill name="For Great Justice!"/>.
-  - Use <Skill name="Flames of War"/> for a fire field.
   - Use <Skill name="Call of Valor"/> and <Skill id="14393"/> on offhand Warhorn to blast <Boon name="Might"/>.
 - Precast damage skills:
   - Cast <Skill name="Mending"/> and <Skill id="68085"/> immediately before the boss becomes vulnerable.
