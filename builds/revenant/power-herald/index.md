@@ -26,18 +26,17 @@ boons:
     uptime: ???
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2022-08-01T18:34:24.601Z
+date: 2022-09-21T19:11:02.068Z
 ---
 WIP DO NOT MAKE THIS PUBLIC 
-The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/>. 
-Good CC with <Skill name="Surge of the mists"/>.
-Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss. 
+The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/> and good CC with <Skill name="Surge of the mists"/>. Can provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss. 
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
 
-<Character title="24% BD - 162 AR" gear={{
+
+<Character title=" 30% BD - 162 AR" gear={{
   "profession": "Revenant",
   "weight": "Heavy",
   "gear": [
@@ -51,7 +50,7 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
     "Berserker",
     "Berserker",
     "Berserker",
-    "Berserker",
+    "Diviner",
     "Berserker",
     "Berserker",
     "Berserker"
@@ -59,23 +58,23 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
   "attributes": {
     "Health": 22772,
     "Armor": 2514,
-    "Power": 3880,
-    "Precision": 1961,
+    "Power": 3728,
+    "Precision": 1936,
     "Toughness": 1243,
     "Vitality": 1478,
-    "Ferocity": 1256,
+    "Ferocity": 1231,
     "Condition Damage": 500,
     "Expertise": 0,
-    "Concentration": 363,
+    "Concentration": 455,
     "Healing Power": 0,
     "Agony Resistance": 162,
     "Condition Duration": 0,
-    "Boon Duration": 0.242,
-    "Critical Chance": 1.0076190476190476,
-    "Critical Damage": 2.3373333333333335,
-    "Power Coefficient": 2971,
+    "Boon Duration": 0.30333333333333334,
+    "Critical Chance": 0.9957142857142858,
+    "Critical Damage": 2.320666666666667,
+    "Power Coefficient": 2791,
     "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.15,
+    "Burning Coefficient": 1.16,
     "Bleeding Coefficient": 0,
     "Poison Coefficient": 0,
     "Torment Coefficient": 0,
@@ -83,171 +82,29 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
     "Flat DPS": 0,
     "Maximum Health": 0.10000000000000009,
     "Siphon Base Coefficient": 139.75,
-    "Effective Power": 26044.993075386294,
-    "Power DPS": 29795.79300229984,
+    "Effective Power": 32612.754236517267,
+    "NonCrit Effective Power": 14087.542254673388,
+    "Power DPS": 35048.97846519818,
     "Power2 DPS": 0,
-    "Siphon DPS": 160.01375000000002,
-    "Bleeding Damage": 84.175,
+    "Siphon DPS": 164.20625,
+    "Bleeding Damage": 86.125,
     "Bleeding Stacks": 0,
     "Bleeding DPS": 0,
-    "Burning Damage": 337.509375,
-    "Burning Stacks": 1.15,
-    "Burning DPS": 388.1357812499999,
-    "Confusion Damage": 105.704375,
+    "Burning Damage": 345.328125,
+    "Burning Stacks": 1.16,
+    "Burning DPS": 400.580625,
+    "Confusion Damage": 108.153125,
     "Confusion Stacks": 0,
     "Confusion DPS": 0,
-    "Poison Damage": 102.79062499999999,
+    "Poison Damage": 105.171875,
     "Poison Stacks": 0,
     "Poison DPS": 0,
-    "Torment Damage": 124.32,
+    "Torment Damage": 127.19999999999999,
     "Torment Stacks": 0,
     "Torment DPS": 0,
-    "Damage": 30343.942533549838,
-    "Effective Health": 113927976.119403,
-    "Survivability": 57919.662490799696,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Sword",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Staff",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 84505
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendarydragonstance"
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-</Character>
-
-<Character title="45% BD - 162 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Assassin",
-    "Assassin"
-  ],
-  "attributes": {
-    "Health": 22772,
-    "Armor": 2514,
-    "Power": 3744,
-    "Precision": 1945,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1170,
-    "Condition Damage": 500,
-    "Expertise": 0,
-    "Concentration": 680,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.45333333333333337,
-    "Critical Chance": 1,
-    "Critical Damage": 2.2800000000000002,
-    "Power Coefficient": 2971,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.15,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Maximum Health": 0.10000000000000009,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 24515.60160004957,
-    "Power DPS": 28046.150309490673,
-    "Power2 DPS": 0,
-    "Siphon DPS": 160.01375000000002,
-    "Bleeding Damage": 84.175,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 337.509375,
-    "Burning Stacks": 1.15,
-    "Burning DPS": 388.1357812499999,
-    "Confusion Damage": 105.704375,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 102.79062499999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 124.32,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 28594.29984074067,
-    "Effective Health": 113927976.119403,
-    "Survivability": 57919.662490799696,
+    "Damage": 35613.76534019819,
+    "Effective Health": 126586640.13266999,
+    "Survivability": 64355.18054533299,
     "Effective Healing": 390,
     "Healing": 390
   },
@@ -467,150 +324,6 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
 
 </Character>
 
-<Character title="45% BD - 222 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 23762,
-    "Armor": 2604,
-    "Power": 3790,
-    "Precision": 1944,
-    "Toughness": 1333,
-    "Vitality": 1568,
-    "Ferocity": 1195,
-    "Condition Damage": 500,
-    "Expertise": 0,
-    "Concentration": 678,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.452,
-    "Critical Chance": 0.9995238095238095,
-    "Critical Damage": 2.296666666666667,
-    "Power Coefficient": 2971,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.15,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Maximum Health": 0.10000000000000009,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 24991.49687365345,
-    "Power DPS": 28590.580366432194,
-    "Power2 DPS": 0,
-    "Siphon DPS": 160.01375000000002,
-    "Bleeding Damage": 84.175,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 337.509375,
-    "Burning Stacks": 1.15,
-    "Burning DPS": 388.1357812499999,
-    "Confusion Damage": 105.704375,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 102.79062499999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 124.32,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 29138.72989768219,
-    "Effective Health": 123136811.94029853,
-    "Survivability": 62601.3278801721,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Sword",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Staff",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 84505
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendarydragonstance"
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-</Character>
-
-
 
 </CharacterWithAr>
 
@@ -622,7 +335,9 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon, Roiling Mists" traits3="Herald" traits3Selected="Elder's Respite, Shared Empowerment, Draconic Echo"/>
 
 <Card title="Defiance Bar">
+
 **Hard Crowd Control:**
+
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
 - <Skill name="Chaotic Release"/> - 232 <Control name="Launch"/>
 - <Skill name="Energy Expulsion"/> - 150 <Control name="Knockback"/>.
@@ -644,13 +359,7 @@ Can provide <Boon name="Stability"/> or Projectile Block for a small dps loss.
 </Card>
 </GridItem>
 <GridItem sm="4">
-<Card title="Situational Traits">
 
-|                                           |                                                                                                                                                                         |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Spirit Boon" size="big" disableText/> | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                              |
-
-</Card>
 <Card title="Situational Skills">
 
 |                                                                |                                                                                                              |
@@ -672,10 +381,10 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 
 1. Activate <Skill name="Facet of Nature"/> (Dragon)
 2. Activate and cast all facets to share <Boon name="Quickness"/> (<Skill name="Infuse Light"/>, <Skill name="Gaze of Darkness"/>, <Skill name="Elemental Blast"/>, <Skill name="Burst of Strength"/> and <Skill name="Chaotic Release"/>)  
-3. Bast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
+3. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
 4. Cast <Skill name="True Nature"/> (Dragon) 
 5. Take Mistlock Singularity. 
-6. Bast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
+6. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
 7. Activate <Skill name="Facet of Nature"/> (Dragon)
 8. Activate and cast <Skill name="Infuse Light"/>
 9. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
@@ -693,7 +402,7 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 2.  <Skill name="Shackling Wave"/>
 3.  <Skill name="Deathstrike"/>
 
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+Ideally you would want to do your burst rotation when the enemy is under the effect of <Effect name="Exposed"/>.
 
 </Card>
 </GridItem>
@@ -704,16 +413,16 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 <GridItem sm="12">
 <Card title="Abilities">
 **Facet/Consume Skills:**
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Dragon) 
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Assasin)
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Dwarf)
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Centaur)
-- <Skill name="facetofnature" />
-  - <Skill name="truenature" /> - (Demon)
+- <Skill name="facetofnature" /> - Increase the duration of boons applied to allies. This effect gives a flat 20% increase to the duration of boons applied to the target. This can go over the 100% boon duration cap, essentially giving your party a possible 120% boon duration.
+  - <Skill name="truenature" /> - (Dragon)  Increase the duration of allies' boons. The current boons get extended by 2 seconds (3 seconds with <Trait name="Core Value"/>).
+- <Skill name="facetofnature" /> - Grants allies the ability to steal life with their strikes.
+  - <Skill name="truenature" /> - (Assasin) Strip boons from nearby enemies. 
+- <Skill name="facetofnature" /> - Reduce incoming damage to allies by 10%. 
+  - <Skill name="truenature" /> - (Dwarf) Grant <Boon name="Stability"/> to nearby allies. 
+- <Skill name="facetofnature" /> - Heal nearby allies every few seconds.
+  - <Skill name="truenature" /> - (Centaur) Cleanse conditions from nearby allies. Heal for each condition removed.
+- <Skill name="facetofnature" /> - Transfer a condition from nearby allies to yourself every few seconds.
+  - <Skill name="truenature" /> - (Demon) Transfer conditions to nearby enemies. Gain <Boon name="Might"/> for each condition transferred. 
 
 ---
 

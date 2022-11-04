@@ -1,11 +1,11 @@
 ---
 title: Crit Cap
-date: 2022-08-02T23:55:00.885Z
+date: 2022-08-10T22:12:39.043Z
 image: ./images/crit.png
 description: Learn how to achieve crit cap on various Guild Wars 2 professions.
 ---
 
-## Reasoning
+## Why is achieving crit cap important?
 
 Achieving <Attribute name="Critical Chance" text="100% Critical Chance"/> is desirable for most **power-based** Guild Wars 2 builds. As your Critical Damage will be much higher due to large amounts of <Attribute name="Ferocity"/>, the value of <Attribute name="Critical Chance"/> (and therefore <Attribute name="Precision"/>) exceeds other attributes like Power.
 
@@ -37,9 +37,9 @@ So you'll <Attribute name="Precision" text="509 Precision"/> (dual wield) or <At
 | <Item id="24818"/> | 209 | 210 |
 | <Item id="24723"/> | 334 | 335 |                        
 
-If your chosen Rune doesn't have you reaching <Attribute name="Critical Chance" text="100% Critical Chance"/>, thye next step is to swap Berserker's items (Major: <Attribute name="Power"/>; Minor: <Attribute name="Precision"/>, <Attribute name="Ferocity"/>) for Assassin's (Major: <Attribute name="Precision"/>; Minor: <Attribute name="Power"/>, <Attribute name="Ferocity"/>) to gain more Precision. Additionally some condition builds such as <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/> benefit from incresed <Attribute name="Precision"/>. In this case Viper's items (Major: <Attribute name="Condition Damage"/>, <Attribute name="Power"/>; Minor: <Attribute name="Expertise"/>, <Attribute name="Precision"/>) are swapped for Sinister (Major: <Attribute name="Condition Damage"/>; Minor: <Attribute name="Power"/>, <Attribute name="Precision"/>) and Rampager;s (Major: <Attribute name="Precision"/>; Minor: <Attribute name="Power"/>, <Attribute name="Condition Damage"/>) items. 
+If your chosen Rune doesn't have you reaching <Attribute name="Critical Chance" text="100% Critical Chance"/>, the next step is to swap Berserker's items (Major: <Attribute name="Power"/>; Minor: <Attribute name="Precision"/>, <Attribute name="Ferocity"/>) for Assassin's (Major: <Attribute name="Precision"/>; Minor: <Attribute name="Power"/>, <Attribute name="Ferocity"/>) to gain more Precision. Additionally some condition builds such as <BuildLink build="Condi Virtuoso" specialization="Virtuoso"/> benefit from incresed <Attribute name="Precision"/>. In this case Viper's items (Major: <Attribute name="Condition Damage"/>, <Attribute name="Power"/>; Minor: <Attribute name="Expertise"/>, <Attribute name="Precision"/>) are swapped for Sinister (Major: <Attribute name="Condition Damage"/>; Minor: <Attribute name="Power"/>, <Attribute name="Precision"/>) and Rampager's (Major: <Attribute name="Precision"/>; Minor: <Attribute name="Power"/>, <Attribute name="Condition Damage"/>) items. 
 
-Our final gear choice we can make to increase <Attribute name="Precision"/> is to use Consumables and Infusions. Most pwer builds use <Item id="91805"/> for food. However <Item id="91709"/> can be a good choice if you miss a small amount of <Attribute name="Precision"/> to crit cap. Also availible to use is <Item id="12486"/> can be used but we would recommend taking extra Assassin's items if possible to be able to benefit from Acsended Feasts. 
+Our final gear choice we can make to increase <Attribute name="Precision"/> is to use Consumables and Infusions. Most power builds use <Item id="91805"/> for food. However <Item id="91709"/> can be a good choice if you miss a small amount of <Attribute name="Precision"/> to crit cap. Also available to use is <Item id="12486"/> can be used but we would recommend taking extra Assassin's items if possible to be able to benefit from Acsended Feasts. 
 
 Keep in mind that you can also take <Item id="39621"/> (Or its +7 and +9 counterparts), but normally it is easier to calculate with a full set of Power infusions.
 
