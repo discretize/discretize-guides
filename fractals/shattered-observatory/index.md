@@ -240,7 +240,7 @@ At 70% and 40% of Arkk's health, the party gets teleported to another dimension 
 
 Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
 
-#### Final phase <Label><40%</Label>
+#### Final phase <Label>\<40%</Label>
 
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
 

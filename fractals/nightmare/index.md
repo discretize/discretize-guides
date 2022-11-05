@@ -223,6 +223,6 @@ Below 66%, Ensolyss gains a new ability where he smashes two quarters of the pla
 
 Below 33%, he may summon a special shockwave which travels inwards to him (contrary to the ones before) and deal enormous damage to everyone near him. With enough crowd control and DPS this should never occur.
 
-### Final phase <Label><15%</Label>
+### Final phase <Label>\<15%</Label>
 
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.
