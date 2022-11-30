@@ -35,304 +35,6 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
-<Character title="Skirmishing"  gear={{
-  "profession": "Ranger",
-  "weight": "Medium",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 22202,
-    "Armor": 2511,
-    "Power": 3930,
-    "Precision": 2111,
-    "Toughness": 1393,
-    "Vitality": 1628,
-    "Ferocity": 2386,
-    "Condition Damage": 900,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.079047619047619,
-    "Critical Damage": 3.0906666666666665,
-    "Power Coefficient": 3020.87,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 0.58,
-    "Bleeding Coefficient": 4.51,
-    "Poison Coefficient": 2.43,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 31935.96541443,
-    "Power DPS": 37148.40194127422,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 157.9375,
-    "Bleeding Stacks": 4.51,
-    "Bleeding DPS": 712.2981249999999,
-    "Burning Damage": 422.65625,
-    "Burning Stacks": 0.58,
-    "Burning DPS": 245.14062499999997,
-    "Confusion Damage": 145.15625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 136.71875,
-    "Poison Stacks": 2.43,
-    "Poison DPS": 332.2265625,
-    "Torment Damage": 176.25,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 38577.81725377422,
-    "Effective Health": 110943725.37313434,
-    "Survivability": 56402.50400261024,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Axe",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Axe",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Longbow",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 78305,
-    "infusionId": 37131
-  },
-  "skills": {
-    "healId": 31914,
-    "utility2Id": 12633,
-    "utility3Id": 12492,
-    "eliteId": 45717
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-This build can be played assuming you have a high flanking uptime on bosses. In most cases with good positioning this is achievable. If not, or you don't want to worry about your positioning run the Marksmanship build.
-
-</Character>
-
-<Character title="Marksmanship" gear={{
-  "profession": "Ranger",
-  "weight": "Medium",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin"
-  ],
-  "attributes": {
-    "Health": 22202,
-    "Armor": 2511,
-    "Power": 3580,
-    "Precision": 2472,
-    "Toughness": 1393,
-    "Vitality": 1628,
-    "Ferocity": 2136,
-    "Condition Damage": 900,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.000952380952381,
-    "Critical Damage": 2.9240000000000004,
-    "Power Coefficient": 2594,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 0.58,
-    "Bleeding Coefficient": 4.51,
-    "Poison Coefficient": 2.43,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 28899.147036721508,
-    "NonCrit Effective Power": 9883.429219125,
-    "Power DPS": 28865.763347422253,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 118.75,
-    "Bleeding Stacks": 4.51,
-    "Bleeding DPS": 535.5625,
-    "Burning Damage": 422.65625,
-    "Burning Stacks": 0.58,
-    "Burning DPS": 245.14062499999997,
-    "Confusion Damage": 145.15625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 136.71875,
-    "Poison Stacks": 2.43,
-    "Poison DPS": 332.2265625,
-    "Torment Damage": 176.25,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 30118.443034922253,
-    "Effective Health": 110943725.37313434,
-    "Survivability": 56402.50400261024,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Axe",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Axe",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Longbow",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 78305,
-    "infusionId": 37131
-  },
-  "skills": {
-    "healId": 31914,
-    "utility1Id": 12491,
-    "utility2Id": 12633,
-    "utility3Id": 12492,
-    "eliteId": 45717
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-This build should be played if you cannot reliably flank the boss you are attacking. Or if you need to benefit from <Trait name="Farsighted"/> (e.g. to range a Skorvald island).
-
-If you do not want to get as much Assassins gear, you can play with <Item id="24723"/> and adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/).
-
-</Character>
-</CharacterWithAr>
-
 <Divider text="Build"/>
 
 <Grid>
@@ -344,16 +46,16 @@ If you can't reliably flank, you can swap Skirmishing for Marksmanship. Remember
 </Card>
 <Card title="Situational Traits">
 
-|                                                            |                                                                                                                                                                           |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Spotter" size="big" disableText/>             | Can be taken to help provide some group <Boon name="Fury"/>                                                                                                              |
-| <Trait name="Trappers Expertise" size="big" disableText/>  | Taken if it allows you to get another <Skill name="Frost trap"/> in a phase.                                                                                              |
-| <Trait name="Quickdraw" size="big" disableText/>           | Taken to reduce the cooldown of certain weapon skills, particularly usefull in double doulbeast comps.                                                          |
-| <Trait name="Clarion Bond" size="big" disableText/>        | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>.                        |
-| <Trait name="Wilting Strike" size="big" disableText/>      | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>.                   |
-| <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword for cooldown reduction and more damage.                                               |
-| <Trait id="2143" size="big" disableText/>                  | Will out preform <Trait name="Leader of the Pack"/> in phases longer than 29s.                                                                                         |
-| <Trait name="potentally" size="big" disableText/>          | For longer encounters, more <Boon name="Might"/> generation.                                                                                                             |
+|                                                            |                                                                                                                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Spotter" size="big" disableText/>             | Can be taken to help provide some group <Boon name="Fury"/>                                                                                             |
+| <Trait name="Trappers Expertise" size="big" disableText/>  | Taken if it allows you to get another <Skill name="Frost trap"/> in a phase.                                                                            |
+| <Trait name="Quickdraw" size="big" disableText/>           | Taken to reduce the cooldown of certain weapon skills, particularly usefull in double doulbeast comps.                                                  |
+| <Trait name="Clarion Bond" size="big" disableText/>        | Can be useful if the blast and team <Boon name="Might"/> is more advantageous than the self <Boon name="Might"/> from <Trait name="Huntersgaze"/>.      |
+| <Trait name="Wilting Strike" size="big" disableText/>      | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
+| <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword for cooldown reduction and more damage.                              |
+| <Trait id="2143" size="big" disableText/>                  | Will out preform <Trait name="Leader of the Pack"/> in phases longer than 29s.                                                                          |
+| <Trait name="potentally" size="big" disableText/>          | For longer encounters, more <Boon name="Might"/> generation.                                                                                            |
 
 </Card>
 </GridItem>
@@ -361,15 +63,15 @@ If you can't reliably flank, you can swap Skirmishing for Marksmanship. Remember
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                           |                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Signet of the wild" size="big" disableText/> | Your standard 3rd utility, dealing the most damage.                                          |
-| <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking. Can also be run in fight to allow for other players to run offensive builds.                                                   |
-| <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>. |
-| <Skill name="Dolyak Stance" size="big" disableText/>      | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles).                                        |
-| <Skill name="sharpeningstone" size="big" disableText/>    | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS.                             |
-| <Skill name="Bear stance" size="big" disableText/>        | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv.                       |
-| <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse.          |
+|                                                           |                                                                                                                                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Signet of the wild" size="big" disableText/> | Your standard 3rd utility, dealing the most damage.                                                                                                                     |
+| <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking. Can also be run in fight to allow for other players to run offensive builds. |
+| <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.                           |
+| <Skill name="Dolyak Stance" size="big" disableText/>      | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles).                                                                  |
+| <Skill name="sharpeningstone" size="big" disableText/>    | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS.                                                       |
+| <Skill name="Bear stance" size="big" disableText/>        | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv.                                                 |
+| <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse.                                    |
 
 </Card>
 <Card title="Pets">
@@ -399,9 +101,7 @@ Running Skirmishing in fractals is quite a niche choice, you need to satisfy **t
 If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
 
 <Warning>
-<p>
 <Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
-</p>
 </Warning>
 </Card>
 </GridItem>
@@ -446,10 +146,9 @@ For your First weapon set you have a choice of 3 weapons:
 - Warhorn is a strong weapon to run if you cannot cast another <Skill name="Barrage"/> during the fight. "
 - Greatsword offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. The greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
 
-
 For your second weapon set, you always want Axe off-hand, but for main-hand, you have a choice of 3 weapons again:
 
-- **You should mostly run a main-hand Axe as it offers the highest damage of all main hand weapons.** 
+- **You should mostly run a main-hand Axe as it offers the highest damage of all main hand weapons.**
 - You may take a main-hand sword for its movement skills: <Skill name="Monarchs leap"/> and <Skill name="Hornet sting"/>.
 - Dagger, although its lower DPS than Sword in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
 

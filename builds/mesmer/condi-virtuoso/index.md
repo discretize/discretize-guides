@@ -2,7 +2,7 @@
 hidden: false
 archive: false
 specialization: Virtuoso
-code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
@@ -35,164 +35,6 @@ There are many different gear setups that work very similarly on <Specialization
 
 </Warning>
 
-<CharacterWithAr>
-<Character title="Condi Virtuoso" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Viper",
-    "Rampager",
-    "Viper",
-    "Rampager",
-    "Sinister",
-    "Rampager",
-    "Rampager",
-    "Rampager",
-    "Viper",
-    "Rampager",
-    "Rampager",
-    "Rampager",
-    "Viper",
-    "Viper"
-  ],
-  "attributes": {
-    "Health": 20702,
-    "Armor": 2210,
-    "Power": 2797,
-    "Precision": 2155,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 205.15,
-    "Condition Damage": 2605,
-    "Expertise": 451,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.30066666666666664,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 1.6367666666666667,
-    "Power Coefficient": 2806,
-    "Power DPS": 10238.111397819332,
-    "Power2 Coefficient": 883,
-    "Power2 DPS": 2492.111919028165,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.7,
-    "Effective Power": 9475.54358522338,
-    "Siphon DPS": 0,
-    "Bleeding Coefficient": 37.2325,
-    "Bleeding Damage": 322.9884447656251,
-    "Bleeding Stacks": 74.465,
-    "Bleeding DPS": 24051.334539472275,
-    "Burning Coefficient": 0.52,
-    "Burning Damage": 779.2788509531251,
-    "Burning Stacks": 0,
-    "Burning DPS": 0,
-    "Confusion Coefficient": 3.38,
-    "Confusion Damage": 305.43788637187504,
-    "Confusion Stacks": 4.396253333333333,
-    "Confusion DPS": 1342.7823260886435,
-    "Poison Coefficient": 0.22,
-    "Poison Damage": 275.72129175000003,
-    "Poison Stacks": 0.28614666666666666,
-    "Poison DPS": 78.89672856329001,
-    "Torment Coefficient": 8,
-    "Torment Damage": 385.77772996875007,
-    "Torment Stacks": 10.405333333333333,
-    "Torment DPS": 4014.1458729015008,
-    "Damage": 42217.3827838732,
-    "Effective Health": 91047601.99004976,
-    "Survivability": 46287.545495704,
-    "Effective Healing": 390,
-    "Healing": 390,
-    "Phantasm Critical Chance": 0.95,
-    "Phantasm Critical Damage": 1.7127666666666665,
-    "Phantasm Effective Power": 7329.574919270833
-  },
-  "runeId": 24762,
-  "runeName": "Krait",
-  "infusions": [
-    37132,
-    37132,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130
-  ],
-  "weapons": {
-    "weapon1MainType": "Dagger",
-    "weapon1MainSigil1Id": 24612,
-    "weapon1OffType": "Sword",
-    "weapon1OffSigilId": 24560,
-    "weapon2OffType": "Focus",
-    "weapon2OffSigilId": 24560
-  },
-  "consumables": {
-    "foodId": 12485,
-    "utilityId": 48917,
-    "infusion": "Malign +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 10247,
-    "utility2Id": 10232,
-    "utility3Id": 10234,
-    "eliteId": 29519
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    }
-  ]
-}}>
-
-This is the default setup when using <Item type="Sigil" name="Agony"/>.
-
-This setup uses 2 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
-
-Check out the [gear optimizer](https://optimizer.discretize.eu/) for more variants.
-
-
-
-
-</Character>
-
-
-</CharacterWithAr>
-
 <Divider text="Build"/>
 
 <Grid>
@@ -217,9 +59,7 @@ Check out the [gear optimizer](https://optimizer.discretize.eu/) for more varian
 
 Utilize Mirage for skips!
 
-<p>
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
-</p>
 
 <Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment" unembossed/>
 
@@ -232,11 +72,11 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <Card title="Situational Skills">
 
 |                                                                |                                                                                                                                                                                            |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
 | <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                                                        |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |     |
 | <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
 | **Skips**                                                      |                                                                                                                                                                                            |
@@ -382,6 +222,5 @@ There is a basic opener used on the golem for sustained DPS, you will need to ad
 </Card>
 
 </GridItem>
-
 
 </Grid>

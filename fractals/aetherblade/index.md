@@ -57,9 +57,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 </Tab>
 <Tab specialization="Engineer">
 
-<p>
 <Skill id="30815"/> will provide <Effect name="Stealth"/> for the party, as well as a smoke field for the party to blast. You can also use <Skill id="5824"/> for a field to blast as well.
-</p>
 
 </Tab>
 </Tabs>

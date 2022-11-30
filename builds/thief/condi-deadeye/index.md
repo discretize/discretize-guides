@@ -45,160 +45,12 @@ We do not recommend running these builds in Shattered Observatory for new player
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
-<Character title="162 Agony Resistance" gear={{
-  "profession": "Thief",
-  "weight": "Medium",
-  "gear": [
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper"
-  ],
-  "attributes": {
-    "Health": 16425,
-    "Armor": 2361,
-    "Power": 2923,
-    "Precision": 1633,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 0,
-    "Condition Damage": 2525,
-    "Expertise": 853,
-    "Concentration": 423,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.6686666666666666,
-    "Boon Duration": 0.282,
-    "Critical Chance": 0.6014285714285714,
-    "Critical Damage": 1.5,
-    "Power Coefficient": 1690,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 0.5,
-    "Bleeding Coefficient": 21.58,
-    "Poison Coefficient": 14.6,
-    "Torment Coefficient": 9.5,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Poison Duration": 0.43000000000000005,
-    "Bleeding Duration": 0.2,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 8807.685069857143,
-    "Power DPS": 5731.608690049508,
-    "Power2 DPS": 0,
-    "Siphon DPS": 160.71249999999998,
-    "Bleeding Damage": 365.97656249999994,
-    "Bleeding Stacks": 40.325826666666664,
-    "Bleeding DPS": 14758.307423437496,
-    "Burning Damage": 881.5078124999999,
-    "Burning Stacks": 0.8343333333333334,
-    "Burning DPS": 735.4713515625,
-    "Confusion Damage": 345.97968749999995,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 415.20937499999997,
-    "Poison Stacks": 29.2,
-    "Poison DPS": 12124.113749999999,
-    "Torment Damage": 437.14687499999997,
-    "Torment Stacks": 15.852333333333334,
-    "Torment DPS": 6929.797978125,
-    "Damage": 40440.0116931745,
-    "Effective Health": 85747761.19402985,
-    "Survivability": 43593.16786681741,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24687,
-  "runeName": "Afflicted",
-  "infusions": [
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130
-  ],
-  "weapons": {
-    "weapon1MainType": "Pistol",
-    "weapon1MainSigil1Id": 44944,
-    "weapon1OffType": "Dagger",
-    "weapon1OffSigilId": 24560,
-    "weapon2OffType": "Pistol",
-    "weapon2OffSigilId": 24639
-  },
-  "consumables": {
-    "foodId": 91878,
-    "utilityId": 77567,
-    "infusionId": 37130
-  },
-  "skills": {
-    "healId": 13027,
-    "utility1Id": 41372,
-    "utility2Id": 13037,
-    "utility3Id": 13093,
-    "eliteId": 45508
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
 Note that there are two slightly different variants of this build: one is meant for bosses with very short phases such as Ensolyss or Light Ai; the other one is meant for longer fights, where you will need to sustain damage for a longer period. This will also depend on your group. It will always be better to use the latter with people you do not know well, or in situations where your party doesn't bring enough damage.
 The <Item name="afflicted"/> is a viable, more accessible alternative.
 If healing isn't an issue, this is the perfect build to use <Item name="writofmasterfulmalice"/> over <Item name="tuningicicle"/> ! <Skill name="signetofmalice"/> is also the strongest personal-healing ability you can bring to maintain your health over 90%, if you feel you don't need <Skill name="hideinshadows"/>.
 
 The <Skill name="skelkvenom"/> is a much better option to support your party as it brings a tremendous amount of party healing.
 It's recommended to run a shortbow for additional movement during downtime and <Item name="doom"/> precasts, as well as <Boon name="might"/> blasts on the _Mistlock Singularity_. You will also want a Pistol with <Item id="24639"/> to help CC during Artsariiv splits.
-
-</Character>  
-</CharacterWithAr>
 
 <Divider text="Build"/>
 
@@ -249,9 +101,7 @@ This variant is meant for short-duration fights or bosses with short phases; wit
 
 ### No Pain, No Gain Variant
 
-<p>
 <Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or for some more support.
-</p>
 
 <Grid>
 <GridItem sm="4">

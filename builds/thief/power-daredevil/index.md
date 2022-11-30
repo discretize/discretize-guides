@@ -23,9 +23,9 @@ date: 2022-07-30T10:53:24.186Z
 <Specialization name="Daredevil" text="Power Daredevil"/> is an incredibly strong build to play in T4 fractals and is a great build to swap to if you play <BuildLink build="Condi Specter" specialization="Specter"/> in CMs. In T4s recognising when to swap between <Specialization name="Daredevil" text="Power Daredevil"/> and <Specialization name="Specter" text="Condi Specter"/> will be a massive gain to your team and well worth the extra effort, making thief a very rewarding class to play!
 </Warning>
 
-The <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/> becomes quite hard to master. 
+The <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/> becomes quite hard to master.
 
-In fractals <Specialization name="Daredevil" text="Power Daredevil"/>  does have some drawbacks:
+In fractals <Specialization name="Daredevil" text="Power Daredevil"/> does have some drawbacks:
 
 1. First reason is <Trait id="1268"/>, which forces <Specialization name="Daredevil"/> to constantly flank to crit cap, unless you adjust your gear (with the current setup this isn't required if you run <Skill name="Signet of Agility"/>).
 2. While being a very strong build on a lot of T4s, <Specialization name="Daredevil" text="Power Daredevil"/> struggles to keep up with other power builds on CMs and it is reccomended to play <BuildLink build="Condi Specter" specialization="Specter"/> instead.
@@ -34,160 +34,6 @@ In fractals <Specialization name="Daredevil" text="Power Daredevil"/>  does have
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
-
-<CharacterWithAr>
-<Character gear={{
-  "profession": "Thief",
-  "weight": "Medium",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 18365,
-    "Armor": 2361,
-    "Power": 3923,
-    "Precision": 2189,
-    "Toughness": 1243,
-    "Vitality": 1672,
-    "Ferocity": 1706,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.0161904761904763,
-    "Critical Damage": 2.6373333333333333,
-    "Power Coefficient": 2712,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 0.62,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0.96,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 35265.22740712779,
-    "Power DPS": 36826.83740012729,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 0.62,
-    "Burning DPS": 220.3615625,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0.96,
-    "Poison DPS": 108.33,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 37295.278962627286,
-    "Effective Health": 106528505.62004793,
-    "Survivability": 54157.85745808232,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Staff",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1MainSigil2Id": 24868,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 9443,
-    "infusionId": 37131
-  },
-  "skills": {
-    "healId": "",
-    "utility1Id": "",
-    "utility2Id": 30868,
-    "utility3Id": 13046,
-    "eliteId": ""
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-<div>
-Alternative weapons:
-</div>
-
-- Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
-- A Shortbow to stack <Boon name="Might"/>, <Effect name="Stealth"/> and to use for skips and mobility
-- A Sword/Pistol set to use for skips and opening CC
-
-With <Skill name="Signet of Agility"/>, you will be critcapped even without the flank bonus from <Trait id="1268"/>.
-
-</Character>
-
-</CharacterWithAr>
 
 <Divider text="Build"/>
 
@@ -198,10 +44,10 @@ With <Skill name="Signet of Agility"/>, you will be critcapped even without the 
 
 <Card title="Alternative traits">
 
-|                                           |                                                                                           |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------- |
-| <Trait id="1702" size="big" disableText/> | Critical Strikes trait. Heals you with % of damage dealt, useful if you can't stay alive. |
-| <Trait id="2023" size="big" disableText/> | Daredevil trait. Healing and condition cleanse on evade.                                  |
+|                                           |                                                                                                                             |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| <Trait id="1702" size="big" disableText/> | Critical Strikes trait. Heals you with % of damage dealt, useful if you can't stay alive.                                   |
+| <Trait id="2023" size="big" disableText/> | Daredevil trait. Healing and condition cleanse on evade.                                                                    |
 | <Trait id="1964" size="big" disableText/> | Daredevil trait. Changes dodge to a dash, increasing your mobility. Also condi cleanses and grants <Boon name="Swiftness"/> |
 
 If no one in your party can boonrip when the <Instability name="No Pain, No Gain"/> instability is present you can swap Deadly Arts for the Trickery line with the following traits:
@@ -244,10 +90,10 @@ Heal skills:
 
 3rd utility skill:
 
-|                                            |                                                                                                             |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill.                                     |
-| <Skill id="13062" size="big" disableText/> | With this skill you are crit capped without the flanking bonus from <Trait id="1268"/>.                |
+|                                            |                                                                                         |
+| ------------------------------------------ | --------------------------------------------------------------------------------------- |
+| <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill.                 |
+| <Skill id="13062" size="big" disableText/> | With this skill you are crit capped without the flanking bonus from <Trait id="1268"/>. |
 
 Elite skills:
 
@@ -261,16 +107,16 @@ Elite skills:
 
 <Card title="Usefull skills for skips">
 
-|                                            |                                                                                                                      |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| <Skill id="13117" size="big" disableText/> | Group stealth. Keep in mind, if you leave the AoE before it ends, you will be revealed for a long period.          |
-| <Skill id="13065" size="big" disableText/> | Use it to blast <Effect name="Stealth"/> for skips or to destroy projectiles.                                        |
-| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="Stealth"/> (also another blast).                                                         |
-| <Skill id="13064" size="big" disableText/> | 1200 range shadowstep, useful for some skips.                                                                        |
-| <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back.                                                                  |
-| <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>.                                                         |
-| <Skill id="13025" size="big" disableText/> | 900 range shadowstep, useful for some skips.                                                                         |
-| <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                                          |
+|                                            |                                                                                                                     |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="13117" size="big" disableText/> | Group stealth. Keep in mind, if you leave the AoE before it ends, you will be revealed for a long period.           |
+| <Skill id="13065" size="big" disableText/> | Use it to blast <Effect name="Stealth"/> for skips or to destroy projectiles.                                       |
+| <Skill id="13044" size="big" disableText/> | 3 seconds AoE <Effect name="Stealth"/> (also another blast).                                                        |
+| <Skill id="13064" size="big" disableText/> | 1200 range shadowstep, useful for some skips.                                                                       |
+| <Skill id="13002" size="big" disableText/> | 1200 range teleport, use it again to teleport back.                                                                 |
+| <Skill id="13038" size="big" disableText/> | One way portal, useful if you don't have <Item id="78978"/>.                                                        |
+| <Skill id="13025" size="big" disableText/> | 900 range shadowstep, useful for some skips.                                                                        |
+| <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                                         |
 | <Skill id="13015" size="big" disableText/> | 900 range shadowstep. When used will swap to <Skill id="13128"/>, allowing you to return to your original position. |
 
 </Card>

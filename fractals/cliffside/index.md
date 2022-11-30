@@ -124,11 +124,7 @@ After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the _Right 
 
 <Tab specialization="soulbeast">
 
-<p>
-
 <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you. Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Burning"/>. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
-
-</p>
 
 </Tab>
 </Tabs>
@@ -178,7 +174,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 
 Do not resurrect yourself yet, wait for the <Specialization name="Revenant"/>, <Specialization name="Elementalist"/>, <Specialization name="Guardian"/> or <Specialization name="Thief"/> to finish his portal and do `/gg` himself again or you will be stuck with a useless person for the entire end fight.
 
-After the whole party `/gg`'ed, resurrect and place <Item id="78978"/> at the revival position. Blink up, and open the portal. Note that after the *Status Reset* change you cannot blink up and `/gg` anymore, since it will clear the portal.
+After the whole party `/gg`'ed, resurrect and place <Item id="78978"/> at the revival position. Blink up, and open the portal. Note that after the _Status Reset_ change you cannot blink up and `/gg` anymore, since it will clear the portal.
 </GridItem>
 
 <GridItem sm="5">

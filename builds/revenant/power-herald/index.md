@@ -7,16 +7,16 @@ role: Power Damage
 profession: Revenant
 specialization: Herald
 boons:
-  - name: "Quickness "
+  - name: 'Quickness '
     uptime: 100%
-    variant: "party "
+    variant: 'party '
   - name: Might
     uptime: 13 Stacks
     variant: party
   - name: Protection
     uptime: 50% ????
     variant: party
-  - name: "Fury "
+  - name: 'Fury '
     uptime: 100%
     variant: party
   - name: Swiftness
@@ -25,309 +25,14 @@ boons:
   - name: Regeneration
     uptime: ???
     variant: party
-code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
+code: '[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]'
 date: 2022-09-21T19:11:02.068Z
 ---
-WIP DO NOT MAKE THIS PUBLIC 
-The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/> and good CC with <Skill name="Surge of the mists"/>. Can provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss. 
+
+WIP DO NOT MAKE THIS PUBLIC
+The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/> and good CC with <Skill name="Surge of the mists"/>. Can provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss.
 
 <Divider text="Equipment"/>
-
-<CharacterWithAr>
-
-
-<Character title=" 30% BD - 162 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Diviner",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 22772,
-    "Armor": 2514,
-    "Power": 3728,
-    "Precision": 1936,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1231,
-    "Condition Damage": 500,
-    "Expertise": 0,
-    "Concentration": 455,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.30333333333333334,
-    "Critical Chance": 0.9957142857142858,
-    "Critical Damage": 2.320666666666667,
-    "Power Coefficient": 2791,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.16,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Maximum Health": 0.10000000000000009,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 32612.754236517267,
-    "NonCrit Effective Power": 14087.542254673388,
-    "Power DPS": 35048.97846519818,
-    "Power2 DPS": 0,
-    "Siphon DPS": 164.20625,
-    "Bleeding Damage": 86.125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 345.328125,
-    "Burning Stacks": 1.16,
-    "Burning DPS": 400.580625,
-    "Confusion Damage": 108.153125,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 105.171875,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 127.19999999999999,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 35613.76534019819,
-    "Effective Health": 126586640.13266999,
-    "Survivability": 64355.18054533299,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Sword",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Staff",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 84505
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendarydragonstance"
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-</Character>
-
-
-<Character title="30% BD - 222 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 23762,
-    "Armor": 2604,
-    "Power": 3880,
-    "Precision": 1961,
-    "Toughness": 1333,
-    "Vitality": 1568,
-    "Ferocity": 1256,
-    "Condition Damage": 500,
-    "Expertise": 0,
-    "Concentration": 453,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.302,
-    "Critical Chance": 1.0076190476190476,
-    "Critical Damage": 2.3373333333333335,
-    "Power Coefficient": 2971,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.15,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Maximum Health": 0.10000000000000009,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 27660.05115114349,
-    "Power DPS": 31643.439341566158,
-    "Power2 DPS": 0,
-    "Siphon DPS": 160.01375000000002,
-    "Bleeding Damage": 84.175,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 337.509375,
-    "Burning Stacks": 1.15,
-    "Burning DPS": 388.1357812499999,
-    "Confusion Damage": 105.704375,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 102.79062499999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 124.32,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 32191.588872816155,
-    "Effective Health": 136818679.933665,
-    "Survivability": 69557.03097796899,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Sword",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Staff",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 84505
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendarydragonstance"
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-</Character>
-
-
-</CharacterWithAr>
-
-
 
 <Divider text="Build"/>
 <Grid>
@@ -350,7 +55,7 @@ The Power Quickness <Specialization name="Herald"/> provides permanent <Boon nam
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 - <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
 - <Skill name="Gaze of Darkness"/> - <Condition name="Blinded"/> for 20 per second.
-- <Skill name="Elemental Blast"/> - <Condition name="Chilled"/> and <Condition name="Weakness"/> for 33 and 20 per second. 
+- <Skill name="Elemental Blast"/> - <Condition name="Chilled"/> and <Condition name="Weakness"/> for 33 and 20 per second.
 - <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Warding Rift"/> - <Condition name="Blinded"/> for 20 per second.
 - <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
@@ -380,16 +85,15 @@ The Power Quickness <Specialization name="Herald"/> provides permanent <Boon nam
 Start on <Skill name="Legendary Dragon Stance"/>.
 
 1. Activate <Skill name="Facet of Nature"/> (Dragon)
-2. Activate and cast all facets to share <Boon name="Quickness"/> (<Skill name="Infuse Light"/>, <Skill name="Gaze of Darkness"/>, <Skill name="Elemental Blast"/>, <Skill name="Burst of Strength"/> and <Skill name="Chaotic Release"/>)  
+2. Activate and cast all facets to share <Boon name="Quickness"/> (<Skill name="Infuse Light"/>, <Skill name="Gaze of Darkness"/>, <Skill name="Elemental Blast"/>, <Skill name="Burst of Strength"/> and <Skill name="Chaotic Release"/>)
 3. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
-4. Cast <Skill name="True Nature"/> (Dragon) 
-5. Take Mistlock Singularity. 
+4. Cast <Skill name="True Nature"/> (Dragon)
+5. Take Mistlock Singularity.
 6. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>
 7. Activate <Skill name="Facet of Nature"/> (Dragon)
 8. Activate and cast <Skill name="Infuse Light"/>
 9. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
 10. Swap back to <Skill name="Legendary Dragon Stance"/>.
-
 
 </Card>
 </GridItem>
@@ -399,8 +103,8 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 
 1.  <Skill name="Burst of Strength"/>
 1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Shackling Wave"/>
-3.  <Skill name="Deathstrike"/>
+1.  <Skill name="Shackling Wave"/>
+1.  <Skill name="Deathstrike"/>
 
 Ideally you would want to do your burst rotation when the enemy is under the effect of <Effect name="Exposed"/>.
 
@@ -422,7 +126,7 @@ Ideally you would want to do your burst rotation when the enemy is under the eff
 - <Skill name="facetofnature" /> - Heal nearby allies every few seconds.
   - <Skill name="truenature" /> - (Centaur) Cleanse conditions from nearby allies. Heal for each condition removed.
 - <Skill name="facetofnature" /> - Transfer a condition from nearby allies to yourself every few seconds.
-  - <Skill name="truenature" /> - (Demon) Transfer conditions to nearby enemies. Gain <Boon name="Might"/> for each condition transferred. 
+  - <Skill name="truenature" /> - (Demon) Transfer conditions to nearby enemies. Gain <Boon name="Might"/> for each condition transferred.
 
 ---
 
@@ -448,8 +152,8 @@ Ideally you would want to do your burst rotation when the enemy is under the eff
 
 - <Trait name="roilingmists" /> - 25% Critical-hit chance increase when under the effect of <Boon name="Fury" />
 - <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
-- <Trait name="sharedempowerment" /> When applying Boons to an ally you also apply <Boon name="Might" />. 
-- <Trait name="reinforcedpotency" /> - Gain Concentration and deal increased strike damage for each active Boon you have. 
+- <Trait name="sharedempowerment" /> When applying Boons to an ally you also apply <Boon name="Might" />.
+- <Trait name="reinforcedpotency" /> - Gain Concentration and deal increased strike damage for each active Boon you have.
 - <Trait name="draconicecho" /> - Consume Skills grant <Boon name="Quickness" /> and retain the facets passive effect for 6s.
 
 </Card>
@@ -466,13 +170,13 @@ Ideally you would want to do your burst rotation when the enemy is under the eff
 - <Skill name="facetoflight" /> - Pulse <Boon name="Regeneration" /> every few seconds.
   - <Skill name="infuselight" /> - Covert incoming damage to heal for a few seconds.
 - <Skill name="facetofdarkness" /> - Pulse <Boon name="Fury" /> every few seconds.
-  - <Skill name="gazeofdarkness"/> - Apply <Condition name="Blinded" /> and <Effect name="Revealed" /> to nearby enemies. 
+  - <Skill name="gazeofdarkness"/> - Apply <Condition name="Blinded" /> and <Effect name="Revealed" /> to nearby enemies.
 - <Skill name="facetofelements" /> - Pulse <Boon name="Swiftness" /> every few seconds.
   - <Skill name="elementalblast" /> - Deal Damage in an Area and apply <Condition name="Burning" />, <Condition name="Chilled" /> and <Condition name="Weakness" />.
 - <Skill name="facetofstrength" /> - Pulse <Boon name="Might" /> every few seconds.
   - <Skill name="burstofstrength" /> - Gain a 25% Damage Boost for 5s.
-- <Skill name="facetofchaos" /> - Pulse <Boon name="Protection" /> every few seconds. 
-  - <Skill name="chaoticrelease" /> - Knock enemies back and grant <Effect name="Superspeed" /> to allies. 
+- <Skill name="facetofchaos" /> - Pulse <Boon name="Protection" /> every few seconds.
+  - <Skill name="chaoticrelease" /> - Knock enemies back and grant <Effect name="Superspeed" /> to allies.
 
 ---
 

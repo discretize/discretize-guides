@@ -4,13 +4,13 @@ hidden: false
 archive: true
 rating: Good
 role: Power Damage
-author: "Discord: Jes#6596"
+author: 'Discord: Jes#6596'
 profession: Necromancer
 specialization: Reaper
 conditions:
   - name: Vulnerability
     uptime: 22 stacks
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 1
@@ -38,158 +38,6 @@ options (<Control name="Pull" />, boon corruptions for <Instability name="No Pai
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment" />
-
-<CharacterWithAr>
-
-<Character gear={{
-  "profession": "Necromancer",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 23992,
-    "Armor": 2210,
-    "Power": 3882,
-    "Precision": 2260,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1030,
-    "Condition Damage": 600,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 2.1866666666666665,
-    "Power Coefficient": 1154,
-    "Power2 Coefficient": 2115,
-    "Burning Coefficient": 0.57,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 1.03,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Alternative Ferocity": 300,
-    "Alternative Power": 3882,
-    "Alternative Critical Chance": 1,
-    "Alternative Critical Damage": 2.3866666666666667,
-    "Effective Power": 25424.48287891821,
-    "Power DPS": 11297.594625441514,
-    "Alternative Effective Power": 29238.155310755945,
-    "Power2 DPS": 23811.589712071167,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 90.625,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 350,
-    "Burning Stacks": 0.57,
-    "Burning DPS": 199.49999999999997,
-    "Confusion Damage": 112.8125,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 108.59375,
-    "Poison Stacks": 1.03,
-    "Poison DPS": 111.8515625,
-    "Torment Damage": 134.0625,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 35560.28590001268,
-    "Effective Health": 105517054.72636817,
-    "Survivability": 53643.64754772149,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24818,
-  "runeName": "Thief",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Axe",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Warhorn",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Greatsword",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-      "infusion": "Mighty +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 21762,
-    "utility2Id": 10546,
-    "utility3Id": 10622,
-    "eliteId": 10550
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-</Character>
-</CharacterWithAr>
 
 <Divider text="Build" />
 
