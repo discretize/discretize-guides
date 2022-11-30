@@ -24,16 +24,16 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/zP5azR-riH0
+    - id: zP5azR-riH0
       name: Hyp
       specialization: Harbinger
-    - id: https://youtu.be/MO76IvaqSxw
+    - id: MO76IvaqSxw
       name: Jetrell
       specialization: Firebrand
-    - id: https://youtu.be/74PtaJBVQRk
+    - id: 74PtaJBVQRk
       name: Inky
       specialization: Renegade
-    - id: https://youtu.be/1oOtwtS9ipY
+    - id: 1oOtwtS9ipY
       name: Maarten
       specialization: Chronomancer
 ---
@@ -43,9 +43,7 @@ record:
 <GridItem sm="7">
 
 <Warning >
-
 This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance.
-
 </Warning>
 
 It is highly recommended to bring one of the following builds due them performing well in underwater combat:
@@ -58,10 +56,9 @@ It is highly recommended to bring one of the following builds due them performin
 - <BuildLink specialization="Chronomancer" build="Power Chronomancer"/>: very high single target dps, pulls.
 
 </GridItem>
+
 <GridItem sm="5">
-
-<MDImage src="images/wooden_rack.jpg" caption="The wooden rack"/>
-
+![Wooden rack](images/wooden_rack.jpg)
 </GridItem>
 </Grid>
 
@@ -72,30 +69,21 @@ It is highly recommended to bring one of the following builds due them performin
 
 You can stack <Boon name="Might"/> on the rack before entering the water. Kill the two groups of Krait and open the cages. Use `/gg` after the last cage to resurrect at the tunnel part.
 
-<MDImage src="images/trapped_villagers.jpg" caption="Villagers are trapped in cages"/>
+![Villagers are trapped in cages](images/trapped_villagers.jpg)
 
 </GridItem>
 
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="reaper">
-
 1.  <Skill name="Frozen Abyss"/> (Trident 5)
-
 2.  <Skill name="Wicked Spiral"/> (Spear 2)
-
 3.  Use both wells
-
 4.  <Skill name="Soul Spiral"/> (Shroud 4)
-
 5.  Shroud auto attacks until ~7k life force
-
 6.  <Skill name="Wicked Spiral"/> (Spear 2)
-
 7.  Auto attacks until spear 2 is off cooldown
-
 8.  Repeat from step `1`
-
 </Tab>
 <Tab specialization="Weaver">
 
@@ -158,12 +146,10 @@ When the <Instability name="Afflicted"/> is present, it is highly recommended to
 <GridItem sm="5">
 <Tabs>
 <Tab specialization="revenant">
-
 Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain, No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>.
 </Tab>
 
 <Tab specialization="Guardian">
-
 Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your team, consider taking <Skill id="43357"/>.
 </Tab>
 </Tabs>
@@ -171,4 +157,4 @@ Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your te
 
 </Grid>
 
-<MDImage src="images/the_jellyfish_beast.jpg" caption="The Jellyfish Beast"/>
+![Jellyfish beast](images/the_jellyfish_beast.jpg)

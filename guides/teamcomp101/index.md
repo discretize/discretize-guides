@@ -63,13 +63,10 @@ Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization nam
 
 <Grid>
 <GridItem sm="1" md="1">
-
-<MDImage src="images/LS-Logo.jpg" caption="[LS]"/>
-
+![[LS]](images/LS-Logo.jpg)
 </GridItem>
 
 <GridItem sm="11" md="11">
-
 Low Standards \[LS] is a community discord server, that is operating as a second, more restricted LFG for high-end daily runs.
 
 Thanks to different pingable roles and class-emojis, members are able to organize their run without the commitment of a static or any need of LFG waiting times.
@@ -78,7 +75,6 @@ In order to guarantee a high level of play, everyone needs to be capable of exec
 For evaluation, we are going to ask new applicants for arcdps logs as a requirement.
 
 All information is available on their [Discord](https://dsc.gg/low-standards).
-
 </GridItem>
 </Grid>
 </Card>

@@ -27,15 +27,11 @@ When you enter the fractal, first you need to kill 2 _Veteran Bristlebacks_, 2 _
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_mountains.jpg" caption="Scenery"/>
-
+![Scenary in the starting area](images/sirens_mountains.jpg)
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_shipwreck.jpg" caption="The Shipwreck"/>
-
+![The shipwreck](images/sirens_shipwreck.jpg)
 </GridItem>
 
 <GridItem sm="12">
@@ -50,15 +46,11 @@ _Blast Black Peter_ the skeleton boss is kind of a DPS-race. He starts spawning 
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_blasting_black_peter.jpg" caption="Ghosts of the fortress"/>
-
+![Ghosts of the fortress](images/sirens_blasting_black_peter.jpg)
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_way_to_cave.jpg" caption="The way to the Maze"/>
-
+![Way to the maze](images/sirens_way_to_cave.jpg)
 </GridItem>
 </Grid>
 
@@ -78,21 +70,15 @@ Your objective is simple. You need to collect 3 treasures and carry them to the 
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_cursed_treasure.jpg" caption="The revealing AoE"/>
-
+![Revealing AoEs](images/sirens_cursed_treasure.jpg)
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_cursed_treasure_sack.jpg" caption="The cursed treasure"/>
-
+![Cursed treasure](images/sirens_cursed_treasure_sack.jpg)
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_cursed_chest.jpg" caption="The treasure chest"/>
-
+![The treasure chest](images/sirens_cursed_chest.jpg)
 </GridItem>
 
 <GridItem sm="6">
@@ -142,12 +128,8 @@ You can use two different legends here (in addition to your default one, <Skill 
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/sirens_ship.jpg" caption="The ship"/>
-
-<MDImage src="images/sirens_mad_jack_squall.jpg" caption="Mad Jack Squall"/>
-
-<MDImage src="images/sirens_first_mate_calix.jpg" caption="First Mate Calix"/>
-
+![Final encounter on a ship](images/sirens_ship.jpg)
+![Mad Jack Squall](images/sirens_mad_jack_squall.jpg)
+![First Mate Calix](images/sirens_first_mate_calix.jpg)
 </GridItem>
 </Grid>

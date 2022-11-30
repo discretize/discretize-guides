@@ -20,16 +20,16 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/4rR_j_fLT2c
+    - id: 4rR_j_fLT2c
       name: Inky
       specialization: Renegade
-    - id: https://youtu.be/Eb6xWepRbJA
+    - id: Eb6xWepRbJA
       name: Maarten
       specialization: Mesmer
-    - id: https://youtu.be/ON5Z7Kx1ZNE
+    - id: ON5Z7Kx1ZNE
       name: Hyp
       specialization: Engineer
-    - id: https://youtu.be/jWqgOwQLY48
+    - id: jWqgOwQLY48
       name: Jetrell
       specialization: Guardian
 ---
@@ -44,15 +44,11 @@ Killing elementals spawn lightning strikes that periodically leave behind an orb
 
 <Grid>
 <GridItem sm="7">
-
 The Voice of the mountain is the first boss in the fractal. This boss deals little damage, however, its basic attack will knock you back, stay in max melee range to avoid that. Every 33%, the boss gets <Effect name="Invulnerability"/> and summons a tornado, tethered to 4 clouds. Lightning strikes appear shortly after and leave the same collectable orbs as before. You must collect 3 and jump into the clouds to disperse them, using the <Uncategorized name="chargedleap"/> buff. Players are also targeted by <Skill id="61190"/>, red AoEs that deal heavy damage and apply <Condition name="Vulnerability"/> and <Condition name="Weakness"/>. Keep moving to avoid their damage.
-
 </GridItem>
 
 <GridItem sm="5">
-
-<MDImage src="images/elemental.jpg" caption="Voice of the mountain"/>
-
+![Voice of the mountain](images/elemental.jpg)
 </GridItem>
 </Grid>
 
@@ -63,22 +59,17 @@ The Voice of the mountain is the first boss in the fractal. This boss deals litt
 <Grid>
 <GridItem sm="8">
 <Information>
-
 Not a single trash mob needs to be killed for progression!
-
 </Information>
 
 After the Voice of the mountain is dead, take the updraft and follow the path. In order to trigger the next boss, you have to interact with three Frightened Water Elementals found along the path. Right after taking the updraft, there are waterfalls that periodically push you down the cliff. <Boon name="Stability"/> is ineffective. Wait until you see the water particles disappearing before walking through the waterfalls or use blinks.
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/waterfall.png" caption="The left waterfall is in an active state while the right one is passable"/>
-
+![The left waterfall is in an active state while the right one is passable](images/waterfall.png)
 </GridItem>
 
 <GridItem sm="12">
-
 However, the waterfalls have two states, active and inactive. When inactive, they will not push you over the edge. An easy way to tell which state they are in is if the water flow is more intense with more white streaks running through it or not. When the effects expire and the flow slows down, it's safe to simply walk through it. Alternatively, you can also try and dodge through the intense flow or use <Item id="85244"/> or a movement skill to quickly get past. The second waterfall can be easily skipped by walking behind it.
 
 Do the mini jumping puzzle to the 2nd boss, remember to talk to the elementals. As soon as you have interacted with all 3, `/gg` so your team can catch up with the front runner.
@@ -91,14 +82,11 @@ Do the mini jumping puzzle to the 2nd boss, remember to talk to the elementals. 
 
 <Grid>
 <GridItem sm="8">
-
 The second boss of the fractal is a big pile of rocks. Avoid the orange AoEs that appear by dodging or by using <Boon name="Aegis"/>. Whoever is closest to the dark orb on the side of the arena gets tethered to it and receives the debuff <Uncategorized name="tidalbargain"/> that increases over time. Upon reaching 10 stacks, the tethered player will go down or their mistlock will be removed. To avoid this, another player should take the tether by running inside the beam, between the orb and the tethered player, and stay there for at least a second.
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/water_rocks.png" caption="The stone of the mountain: The second boss"/>
-
+![The stone of the mountain: The second boss](images/water_rocks.png)
 </GridItem>
 </Grid>
 
@@ -112,16 +100,13 @@ The second boss of the fractal is a big pile of rocks. Avoid the orange AoEs tha
 </GridItem>
 
 <GridItem sm="8">
-
 There are stone piles blocking the way. Kill the lava elementals before each pile to progress along the path. Use <Control name="Pull"/>s and burst them down quickly.
 </GridItem>
 </Grid>
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/lava_elementals.png" caption="Lava Elementals blocking the way."/>
-
+![Lava Elementals blocking the way](images/lava_elementals.png)
 </GridItem>
 </Grid>
 
@@ -131,7 +116,6 @@ There are stone piles blocking the way. Kill the lava elementals before each pil
 
 <Grid>
 <GridItem sm="8">
-
 The third boss of the fractal is the Fury of the mountain. Every 33% it gets <Effect name="Invulnerability"/> and spawns two AoEs with intensity circles that drop meteors from the sky, leaving rocks behind.
 
 At 66%, the meteors fall in set positions, while at 33%, two random players are each targeted by a meteor. Standing inside the circle inflicts <Condition name="Burning"/> and deals damage that scales with your distance to the epicenter of the impact. The yellow shockwave does not deal any physical damage but applies more <Condition name="Burning"/>.
@@ -142,9 +126,7 @@ Kill the boss and move on to the final encounter of this fractal.
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/fire_cat.png" caption="Target meteor attack of the Fury of the mountain"/>
-
+![Target meteor attack of the Fury of the mountain](images/fire_cat.png)
 </GridItem>
 </Grid>
 
@@ -155,7 +137,6 @@ Kill the boss and move on to the final encounter of this fractal.
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same.
 
 <Warning>
-
 When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds. The breakbar has an insane size of 3200 making it hard to break. It is recommended to bring all the CC skills your class provides.
 </Warning>
 
@@ -163,16 +144,13 @@ When you break Ai's breakbar she gets a buff on her bar preventing a new breakba
 
 <Grid>
 <GridItem sm="8">
-
 The Sorrowful Spellcaster is the fourth and final boss of the fractal. Unlike other fractal CM encounters, pre-booning does not work, because once you cross the green circle around the boss all boons will get removed. However, you can still precast unique buffs like <Skill name="Bane Signet"/> or <Skill name="One Wolf Pack"/>.
 
 The boss has multiple phases themed around the different elements air, fire, water. The previously introduced mechanics are reoccurring.
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/ai_arena.png" caption="Ai the sorrowful spellcaster: The final boss"/>
-
+![Ai the sorrowful spellcaster: The final boss](images/ai_arena.png)
 </GridItem>
 </Grid>
 
@@ -180,7 +158,6 @@ The boss has multiple phases themed around the different elements air, fire, wat
 
 <Grid>
 <GridItem xs="12" sm="7">
-
 After crossing the green line, the fight starts. After about one second, Ai dashes to a randomly chosen side and casts a set of line attacks. During this time, a CC bar appears which **should not be broken** (you can CC Ai in the middle, you get no orange AoEs, means more DPS for not spreading out due to the circle mechanic). After the line attacks, she will dash to the middle and target each player with an orange AoE, forcing the group to split up to minimize damage taken (**only if you break Ai's first CC bar, or don't break Ai's 2nd CC bar in the middle**). When the circles disappear, group up (avoiding any subsequent lines or explosions) and start bursting. If you have not broken the 1st CC bar, a second will appear, as Ai starts casting a series of cone attacks.
 </GridItem>
 
@@ -189,7 +166,6 @@ After crossing the green line, the fight starts. After about one second, Ai dash
 </GridItem>
 
 <GridItem xs="12" sm="12">
-
 Breaking the bar at the last second is key for maximum DPS. To do this, you need to remember the pattern of upcoming attacks when the CC bar is active. That pattern is 2 cones, multihit circles (that must be dodged), another cone and finally, a red AoE that deals massive damage and forces the group to split. Break the bar when the red circle appears and stay in the middle, upkeeping DPS.
 
 If you do not manage to bring her to 66%, she will dash twice and get <Effect name="Invulnerability"/>, summoning a tornado, like the Voice of the Mountain. Approach this phase as you did before, only this time, you must disperse 8 clouds quickly, or Ai will cast a massive AoE that wipes the group. Keep in mind that a set of 3 <Uncategorized name="chargedleap"/> orbs spawn in each cardinal direction. Split up accordingly and move in the same direction to interrupt this attack as quickly as possible.
@@ -200,17 +176,14 @@ If you do not manage to bring her to 66%, she will dash twice and get <Effect na
 
 <Grid>
 <GridItem xs="12" sm="5">
-
 <GifPlayer caption="Dodge the Meteor AoE" url="https://cdn.discordapp.com/attachments/964638133725577366/965870788223836220/meteor.webm"/>
 </GridItem>
 
 <GridItem xs="12" sm="7">
-
 After bringing the boss down to 66%, she gets <Effect name="Invulnerability"/> and spawns meteor impact AoEs. Outrun them like a turtle. After the third set of impacts the boss reappears. Be aware, there is a fourth set of 4 meteor impacts in a square formation around the boss. Dodge them! Two players are also targeted by meteor AoEs that fall shortly after the final 4. They should be placed outside of the stack (in a non-static team), or just ignore them by dodging at the right time (in a coordinated team).
 </GridItem>
 
 <GridItem xs="12" sm="12">
-
 After all, meteors have fallen, an AoE around the boss starts to expand, launching a powerful attack that downs/strips mistlock from anyone caught in the blast. Seek shelter behind a rock (this is the same pattern as in the Fury of the Mountain encounter). Be aware, there will only be one rock in Challenge Mode. The ''fake'' rocks are ones that glow red before crumbling. The safe rock is **always** the southwest one on the minimap.
 
 After the meteor attack, the pattern from the Air Phase repeats. If you do not manage to bring her to 33% in the middle, she will dash twice and instead of the tornado attack, she will summon additional meteors.
@@ -221,7 +194,6 @@ After the meteor attack, the pattern from the Air Phase repeats. If you do not m
 
 <Grid>
 <GridItem xs="12" sm="7">
-
 After bringing the boss down to 33%, she gets <Effect name="Invulnerability"/> and pushes the group to the edge. After a short while, dark orbs appear on set intervals that tether to players. The player closest to the orb gets tethered and receives the debuff <Uncategorized name="tidalbargain"/>. You can take over the <Uncategorized name="tidalbargain"/> by standing in-between the tethered person and the orb. Players are also targeted by green AoEs, stay stacked to share the damage taken.
 
 After the 4th orb disappears, the boss dashes to the side and repeats the same pattern as before, only this time she starts casting a more powerful version of the previous line attacks, summoning water tornados that deal heavy damage. Be very careful and avoid them.
@@ -232,7 +204,6 @@ After the 4th orb disappears, the boss dashes to the side and repeats the same p
 </GridItem>
 
 <GridItem xs="12" sm="12">
-
 If you do not manage to bring her to 1% in the middle, she will dash twice and instead of the meteor attack, she will cast a water tornado, reflecting all projectiles and pulling players in. Standing in this tornado deals damage and applies agony every second. She also casts line attacks that deal damage but can be avoided by standing out of the way. Keep in mind that she is still vulnerable, but she takes reduced damage. Previous mechanics like the <Uncategorized name="tidalbargain"/> orbs and green AoEs are present during this attack.
 </GridItem>
 </Grid>
@@ -246,7 +217,6 @@ After a long roleplay, Ai transforms into her demon form and the whole arena get
 #### Pre-Sorrow<Label>100%-66%</Label>
 
 <Warning>
-
 Be aware that every time a person dies, a Doubt spawns. It behaves like a Vindicator from <Instability name="Fractal Vindicators"/>. Don't forget to assign 2 people for CCing Sorrow at 66% and a third person to CC the 2 Sorrows near Guilt for maximum efficiency!
 </Warning>
 
@@ -256,12 +226,10 @@ Be aware that every time a person dies, a Doubt spawns. It behaves like a Vindic
 </GridItem>
 
 <GridItem xs="12" sm="7">
-
 After recovering from being tethered by her Doubt the boss will initially dash in a random direction into the wall and start her attack pattern. Be careful to not stand in her dash path or to simply dodge through it as it deals heavy damage. Upon hitting the wall lasers will start to spawn in a set attack pattern that will be consistent throughout the fight this is also when the first breakbar appears which lasts 7 seconds. The hitboxes of the lasers are quite thin and it is, therefore, possible to stand in-between two lasers and not get hit.
 </GridItem>
 
 <GridItem xs="12" sm="12">
-
 After 5 waves of lasers, Ai will dash again in a random direction towards a wall. This is when the first split-phase will occur, a bunch of heavy ticking damage AoE's will spawn around the boss as well as very large expanding circles around each player. Make sure to spread out to avoid heavy damage. She will then do a series of basic attacks before finally doing another split phase with a slightly different AoE pattern on the floor (this is the same basic attack pattern as the one in all previous phases, mentioned in the air phase).
 </GridItem>
 </Grid>
@@ -273,7 +241,6 @@ From this point onward the boss will mostly stay in the center of the arena, das
 #### Sorrow <Label>66%-33%</Label>
 
 <Warning>
-
 Any AoE's on the floor prior to her hitting 66% will still last the full duration so be careful when walking back to the center
 </Warning>
 
@@ -285,12 +252,10 @@ Upon hitting 66% the boss will stop any current animation and fizzle any current
 </GridItem>
 
 <GridItem xs="12" sm="8">
-
 At the same time a Sorrow will spawn, this mob will spawn at a random position inside the middle ring of AoE's a few seconds after the boss begins channeling. You can tell where the Sorrow will spawn a few seconds before it actually does thanks to a small area of the arena lighting up at its eventual spawn location. The Sorrow will start channeling a devastating attack that will instantly down the whole party if it completes channeling. To prevent this the Sorrow must be killed or its breakbar must be broken.
 </GridItem>
 
 <GridItem xs="12" sm="12">
-
 Ranged CC such as <Skill name="Sanctuary"/> or <Skill name="Darkrazors Daring"/> is preferable as you get to stay inside the safe zone near the boss.
 </GridItem>
 </Grid>

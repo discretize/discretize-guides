@@ -22,19 +22,19 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/zZwnpMTZa88
+    - id: zZwnpMTZa88
       name: Magic
       specialization: Daredevil
-    - id: https://youtu.be/tajqViDzL6I
+    - id: tajqViDzL6I
       name: Maarten
       specialization: Daredevil
-    - id: https://youtu.be/RlFHHkr8NOU
+    - id: RlFHHkr8NOU
       name: Jetrell
       specialization: Berserker
-    - id: https://youtu.be/kxrUon3bXtc
+    - id: kxrUon3bXtc
       name: Hyp
       specialization: Scrapper
-    - id: https://youtu.be/850emcnLMFc
+    - id: 850emcnLMFc
       name: Inky
       specialization: Renegade
 ---
@@ -52,47 +52,33 @@ Use `/gg` afterwards and stay dead until the <Specialization name="Elementalist"
 
 <Tabs>
 <Tab specialization="renegade">
-
 At the start, use <Item id="8764"/> and <Item id="8801"/> for <Effect name="Stealth"/> to prevent aggro from the mobs. Place <Item id="78978"/>, walk upstairs while the others kill the mobs and open the portal in front of the _Ankle Seals_.
-
 </Tab>
 
 <Tab specialization="elementalist">
-
 <ProfessionVideo title="Skip to chest seal (same as guardian)" profession="Elementalist" timestamp="129" src="MmJTsOhdQeo"/>
-
 After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="Elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.  
 Keep walking until you reach the last wooden board, then `/gg` as well.
-
 </Tab>
 
 <Tab specialization="Guardian">
-
 <ProfessionVideo title="Skip to chest seal" profession="Guardian" timestamp="129" src="MmJTsOhdQeo"/>
-
 After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="Elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.  
 Keep walking until you reach the last wooden board, then `/gg` as well.
-
 </Tab>
 
 <Tab specialization="Thief">
-
 <ProfessionVideo title="Skip to ankle seal" profession="Thief" timestamp="70" src="Alpgs_GaZV0"/>
-
 After the <Specialization name="Renegade"/> or someone teleported the party up, the <Specialization name="Elementalist"/> waits at the gate for the others to finish the two seals, then rush upstairs.  
 Keep walking until you reach the last wooden board, then `/gg` as well.
-
 <ProfessionVideo title="Skip to chest seal" profession="Thief" timestamp="86" src="Alpgs_GaZV0"/>
-
 </Tab>
 </Tabs>
 
 </GridItem>
 
 <GridItem sm="5">
-
-<MDImage src="images/ankle_seals.jpg" caption="The ankle seals"/>
-
+![Ankle seals](images/ankle_seals.jpg)
 </GridItem>
 </Grid>
 
@@ -100,9 +86,7 @@ Keep walking until you reach the last wooden board, then `/gg` as well.
 
 <Grid>
 <GridItem sm="5">
-
-<MDImage src="images/chest_seal.jpg" caption="The chest seal"/>
-
+![Chest seal](images/chest_seal.jpg)
 </GridItem>
 
 <GridItem sm="7">
@@ -115,20 +99,15 @@ It will take five hits to break the chest seal. If you see somebody running ahea
 
 <Tabs>
 <Tab specialization="renegade">
-
 Take <Skill name="Legendary Demon stance"/> and spam <Skill name="Pain absorption"/> for <Boon name="Resistance"/> and condition cleanse on party.
 
 After 2-3 hits against the Seal, place <Item id="78978"/>, run up to the _Right Arm Seal_, wait for the destruction of the _Chest Seal_ then open the portal for the party.
-
 </Tab>
 
 <Tab specialization="soulbeast">
-
 <Skill id="12638"/> from an offhand Axe helps pulling the Cultists to you. Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Burning"/>. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
-
 </Tab>
 </Tabs>
-
 </GridItem>
 </Grid>
 
@@ -147,9 +126,7 @@ Type `/gg` after finishing both seals and stay dead. If you wipe before both sea
 
 <Tabs>
 <Tab specialization="berserker">
-
 You can take the _Cultist Hammer_ and use <Skill id="21815"/> during the portal jumping to nullify the high incoming damage. Make sure to grab a greatsword for <Skill name="arcdivider"/>.
-
 </Tab>
 
 <Tab specialization="soulbeast">
@@ -159,9 +136,7 @@ Again, <Skill id="12638"/> on offhand Axe helps pulling the Cultists to you.
 </GridItem>
 
 <GridItem sm="5">
-
-<MDImage src="images/arm_seal.jpg" caption="One of the arm seals"/>
-
+![One of the arm seals](images/arm_seal.jpg)
 </GridItem>
 </Grid>
 
@@ -213,15 +188,12 @@ Do not get caught in any of the Arch Diviner's voidzones, otherwise you will be 
 
 <Tabs>
 <Tab specialization="revenant">
-
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the <Control name="Knockdown"/> the boss does after every seal break phase.
 </Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/arch_diviner.jpg" caption="The arch diviner and the final seal"/>
-
+![Arch diviner and the final seal](images/arch_diviner.jpg)
 </GridItem>
 </Grid>

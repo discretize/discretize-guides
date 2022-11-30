@@ -19,19 +19,19 @@ consumables:
 record:
   time: 2 min 41 sec
   by:
-    - name: discretize
+    - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/7qdPqh-LHcI
+    - id: 7qdPqh-LHcI
       name: Hyp
       specialization: Scrapper
-    - id: https://youtu.be/kbfMdf3Q4Tw
+    - id: kbfMdf3Q4Tw
       name: Maarten
       specialization: Daredevil
-    - id: https://youtu.be/DlTFcZxe8BI
+    - id: DlTFcZxe8BI
       name: Inky
       specialization: Renegade
-    - id: https://youtu.be/DqQh95QUX3M
+    - id: DqQh95QUX3M
       name: Roach
       specialization: Soulbeast
 ---
@@ -49,22 +49,18 @@ The remaining two players can take the _Invigorator Rifle Prototypes_ from the g
 
 <Tabs>
 <Tab specialization="renegade">
-
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
 
 <Tab specialization="berserker">
-
 Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> comes in handy to cleanse conditions!
 </Tab>
 
 <Tab specialization="Weaver">
-
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
 
 <Tab specialization="daredevil">
-
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
@@ -72,9 +68,7 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/the_three_wisp_clefts.jpg" caption="The three wisp clefts"/>
-
+![Three wisp clefts](images/the_three_wisp_clefts.jpg)
 </GridItem>
 </Grid>
 
@@ -84,20 +78,15 @@ Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 
 <Grid>
 <GridItem sm="8">
-
 In the passage, the Mossman is waiting to fight you. You can break his defiance bar while he is in <Effect name="Stealth"/> to force a reveal and make him <Effect name="Exposed"/>. Walk to the _Mistlock Singularity_ inside the Bloomhunger's lair to reset your cooldown and pre-stack some boons.
 
 <Warning>
-
 **Beware, there is a wisp that has <Effect name="Invulnerability"/> and can attack you, putting you in combat during pre-stack**!
-
 </Warning>
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/the_mossman.jpg" caption="The Mossman"/>
-
+![The Mossman](images/the_mossman.jpg)
 </GridItem>
 </Grid>
 
@@ -128,19 +117,18 @@ As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again
 
 <Tabs>
 <Tab specialization="renegade">
-
 Use <Item id="72872"/> to strip the boons from Bloomhunger with <Skill name="Darkrazor's Daring"/>.
 </Tab>
-<Tab specialization="Tempest">
 
+<Tab specialization="Tempest">
 Use <Specialization name="Tempest"/> for this fight and <Skill id="22572"/> for better cleave during the Spirit Onslaught phases.
 </Tab>
-<Tab specialization="Soulbeast">
 
+<Tab specialization="Soulbeast">
 Take <Skill id="12489"/> for pulsing condition cleanse! Great way the clean the huge stacks of <Condition name="Poisoned"/> at every phase. You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
-<Tab specialization="Berserker">
 
+<Tab specialization="Berserker">
 Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </Tab>
 </Tabs>
@@ -148,10 +136,7 @@ Take Greatsword and <Skill name="Blood Reckoning"/> here for cleave!
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/bloomhunger.jpg" caption="Bloomhunger"/>
-
-<MDImage src="images/bloomhunger_spirit_onslaught.jpg" caption="Bloomhunger during Spirit Onslaught"/>
-
+![Final boss: Bloomhunger](images/bloomhunger.jpg)
+![Bloomhunger during Spirit Onslaught](images/bloomhunger_spirit_onslaught.jpg)
 </GridItem>
 </Grid>

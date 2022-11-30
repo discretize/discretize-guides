@@ -18,16 +18,13 @@ sigils:
 
 <Grid>
 <GridItem sm="6">
-
 ## Starting area and the tunnel
 
 Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them, proceed into the tunnel, there are 5 caves in the tunnel, each having a group of mob in it, after killing the mobs, destroy the _Boulder_ that becomes damageable (a red gear indicates it's place). After killing all 5 group of mobs and destroying all 5 _Boulders_ on the red gears you wait for the Drill to make it's way out of the tunnel (which should already be done).
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/portal.jpg" caption="The portal"/>
-
+![The portal](images/portal.jpg)
 </GridItem>
 </Grid>
 
@@ -35,17 +32,13 @@ Go to Rox and Braham, wait for the mobs to spawn, kill them. After killing them,
 
 <Grid>
 <GridItem sm="6">
-
-<MDImage src="images/drill.jpg" caption="The drill"/>
-
+![Follow the mining drill and clear mobs](images/drill.jpg)
 </GridItem>
 
 <GridItem sm="6">
-
 ## On your way to the Boss
 
 Exit the tunnel and kill the group of mobs coming towards you. Then proceed to the Steam Walls. The first Steam Wall is impassable, wait until it lowers before moving on. Each Steam Wall will knock you back and damage you. After the first wall, you can now pass the Steam Walls by walking backwards through them or using <Boon name="Stability"/>. Do not pass through them with low HP, as this can down you or kill you. Once through the walls, make your way to the weapon testing arena.
-
 </GridItem>
 </Grid>
 
@@ -53,7 +46,6 @@ Exit the tunnel and kill the group of mobs coming towards you. Then proceed to t
 
 <Grid>
 <GridItem sm="5">
-
 ## Weapon Testing Arena
 
 After entering the arena (and at each new phase), 2 Champions spawn, which your party needs to separate and kill. Not separating them will cause them to reflect damage back to the attacker via a unique buff called [Sentinel Retribution](https://wiki.guildwars2.com/images/b/b5/Sentinel_Retribution.png).
@@ -61,13 +53,10 @@ After entering the arena (and at each new phase), 2 Champions spawn, which your 
 At the same time, you will survive a series of weapons tests.
 
 The weapon test types include:
-
 </GridItem>
 
 <GridItem sm="7">
-
-<MDImage src="images/testing_area.jpg" caption="Testing area"/>
-
+![Testing area](images/testing_area.jpg)
 </GridItem>
 
 <GridItem sm="6">

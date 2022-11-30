@@ -13,7 +13,7 @@ These guides provide an in depth description on how to deal damage in CMs. Our g
 </GridItem>
 <GridItem>
 
-<MDImage src="images/arkk.jpg" caption="Arkk, the CM boss of shattered observatory" />
+![Arkk, the CM boss of Shattered Observatory](images/arkk.jpg)
 
 </GridItem>
 </Grid>

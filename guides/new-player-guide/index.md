@@ -22,9 +22,7 @@ Starting at level 20, players need to deal with <Effect name="Agony"/> which req
 </GridItem>
 
 <GridItem xs="12" sm="5">
-
-<MDImage src="images/portal.jpg" caption="Portal to the fractals in Lions Arch (Fort Marriner)" />
-
+![Portal to the fractals in Lions Arch (Fort Marriner)](images/portal.jpg)
 </GridItem>
 
 </Grid>
@@ -41,29 +39,23 @@ Starting with tier 2, the players begin encountering _Mistlock instabilities_ wh
 
 ## Defiance bars
 
-<MDImage src="images/ccbar.png" caption="The CC bar is underneath the health bar" />
+![The CC bar is underneath the health bar](images/ccbar.png)
 
 <Grid>
-
 <GridItem sm="9">
-
 Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns, or applies movement impairing conditions) a chunk of the bar gets removed. The bar is called a *defiance bar* or more commonly in pugs a *break bar*. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break the defiance bar and then burst. Ideally, everyone in the team contributes to breaking the bar as it appears.
 
 Skills that damage the defiance bar are highlighted turquoise in the tooltip. Bosses have varying sizes of CC bars. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest instead consulting the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) for finding out the exact values.
-
 </GridItem>
+
 <GridItem sm="3">
-
-<MDImage src="images/cchighlight.png" caption="The amount of CC a skill deals (roughly) is highlighted in cyan" />
-
+![The amount of CC a skill deals (roughly) is highlighted in cyan](images/cchighlight.png)
 </GridItem>
 </Grid>
 
 <Warning>
-
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
-
 </Warning>
 
 ---
@@ -128,9 +120,7 @@ While there are no hard-set rules or things you "must" bring to clear an encount
 
 <Grid>
 <GridItem sm="1" md="1">
-
-<MDImage src="images/mistlocked.png" caption="[FotM]"/>
-
+![[FotM]](images/mistlocked.png)
 </GridItem>
 
 <GridItem sm="11" md="11">
@@ -143,9 +133,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </GridItem>
 
 <GridItem sm="1" md="1">
-
-<MDImage src="images/gw2university.png" caption="GW2University"/>
-
+![GW2University](images/gw2university.png)
 </GridItem>
 <GridItem sm="11" md="11">
 
@@ -271,9 +259,7 @@ Note that resource bars such as <Specialization name="Warrior"/>'s Adrenaline ba
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/gg.jpg" caption="A dead player"/>
-
+![A dead player](images/gg.jpg)
 </GridItem>
 </Grid>
 
@@ -283,19 +269,15 @@ Note that resource bars such as <Specialization name="Warrior"/>'s Adrenaline ba
 
 <Grid>
 <GridItem sm="12" md="2">
-
-<MDImage src="images/mistlock.jpg" alt="Mistlock Singularity" />
-
+![Mistlock Singularity](images/mistlock.jpg)
 </GridItem>
 
 <GridItem sm="12" md="10">
-
 After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
 <Warning>
-
 Do not use other combo fields than fire on the _Mistlock Singularity_! All combo fields but the _Fire Field_ are useless in terms of prebooning.
 </Warning>
 </GridItem>
@@ -384,19 +366,14 @@ Generally, you **always** want to stick together as a group. The reason is that 
 ## Mistlock Instabilities
 
 <Grid>
-
 <GridItem sm="8">
-
 In tiers 2 to 4, the fractal will always have Mistlock Instabilities active, which add additional mechanics to the fights. The selection is random for each difficulty level and changes daily. More information can be found [on the official wiki](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists).
 
 Below is a list of all current instabilities and their possible countermeasures.
-
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/instabilities.jpg" alt="Instabilities" />
-
+![Instabilities](images/instabilities.jpg)
 </GridItem>
 
 </Grid>
@@ -438,9 +415,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 <Grid>
 <GridItem sm="1" md="1">
-
-<MDImage src="images/mistlocked.png" caption="[FotM]"/>
-
+![[FotM]](images/mistlocked.png)
 </GridItem>
 
 <GridItem sm="11" md="11">
@@ -453,9 +428,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </GridItem>
 
 <GridItem sm="1" md="1">
-
-<MDImage src="images/gw2university.png" caption="GW2University"/>
-
+![GW2University](images/gw2university.png)
 </GridItem>
 <GridItem sm="11" md="11">
 

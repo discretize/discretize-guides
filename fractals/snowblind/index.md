@@ -27,19 +27,19 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/evRTZaQvAoY
+    - id: evRTZaQvAoY
       name: Hyp
       specialization: Soulbeast
-    - id: https://youtu.be/ZPOBxCaZ-Hk
+    - id: ZPOBxCaZ-Hk
       name: Inky
       specialization: Engineer
-    - id: https://youtu.be/So9n9a7zAzk
+    - id: So9n9a7zAzk
       name: Roach
       specialization: Berserker
-    - id: https://youtu.be/4gf7hRl36hk
+    - id: 4gf7hRl36hk
       name: Maarten
       specialization: Firebrand
-    - id: https://youtu.be/ACQlHBKCUxM
+    - id: ACQlHBKCUxM
       name: Magic
       specialization: Daredevil
 ---
@@ -57,21 +57,17 @@ When there are only a few percent remaining, go near the fire to leave combat an
 
 <Tabs>
 <Tab specialization="Weaver">
-
 Cast a <Skill name="Conjure Fiery Greatsword"/> for <Specialization name="Renegade"/> at the wall right before it melts.
 </Tab>
 
 <Tab specialization="Renegade">
-
 First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name="Legendary Renegade Stance"/>, but stay on <Skill name="Legendary Renegade Stance" disableText/>. Place <Item id="78978"/> then skip to the first bonfire on the left with anything like: <Skill name="Conjure Fiery Greatsword"/> or <Item id="49940"/> or <Item id="85244"/>, place portal exit when you lit the fire, then go to the _Elemental source_, deplete your energy below 10 for extra 25 energy on legend swap, swap to <Skill name="Legendary Centaur Stance"/>, what you need to do is in the next paragraph with video.
 </Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/the_start_area.jpg" caption="The start area"/>
-
+![Starting area](images/the_start_area.jpg)
 </GridItem>
 </Grid>
 
@@ -90,28 +86,22 @@ With reflects and high DPS you can simply burst the boss before any bonfire expi
 
 <Tabs>
 <Tab specialization="Renegade">
-
 <ProfessionVideo title="Renegade bubble" profession="Renegade" src="ORcJL1p1pN8"/>
 
 Place a bubble on top of the _Elemental Source_, absorbing **EVERY** projectile so you do not have to dodge anymore.
-
 </Tab>
 
 <Tab specialization="Weaver">
-
 With the right angle, you can <Skill id="5697"/> against the Elemental Source.
 </Tab>
 <Tab specialization="Guardian">
-
 When cast on top of the Elemental Source, skills like <Skill name="Sanctuary"/>, <Skill name="Wall of Reflection"/> and <Skill name="Chapter 3: Valiant Bulwark"/> will block the projectiles from putting off the bonfires and frees up a legend for your <Specialization name="Renegade"/>.
 </Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="6">
-
-<MDImage src="images/the_elemental_source.jpg" caption="The Elemental Source"/>
-
+![Elemental Source](images/the_elemental_source.jpg)
 </GridItem>
 
 </Grid>
@@ -120,9 +110,7 @@ When cast on top of the Elemental Source, skills like <Skill name="Sanctuary"/>,
 
 <Grid>
 <GridItem sm="5">
-
-<MDImage src="images/the_icy_forest.jpg" caption="The icy forest"/>
-
+![Icy forest](images/the_icy_forest.jpg)
 </GridItem>
 
 <GridItem sm="7">
@@ -133,31 +121,22 @@ After the Elemental Source is destroyed, everyone except the fastest player can 
 
 <Tabs>
 <Tab specialization="Soulbeast">
-
 <ProfessionVideo title="Forest skip" profession="Soulbeast" timestamp="100" src="3Zc_ZJqPD0s"/>
-
 </Tab>
 
 <Tab specialization="Berserker">
-
 <ProfessionVideo title="Forest skip" profession="Berserker" timestamp="21" src="29qQ2xU1YHk"/>
-
 </Tab>
 
 <Tab specialization="Guardian">
-
 <ProfessionVideo title="Forest skip" profession="Guardian" timestamp="258" src="MmJTsOhdQeo"/>
-
 </Tab>
 
 <Tab specialization="Daredevil">
-
 <ProfessionVideo title="Forest skip" profession="Daredevil" timestamp="125" src="Alpgs_GaZV0"/>
-
 </Tab>
 </Tabs>
 </GridItem>
-
 </Grid>
 
 <Grid>
@@ -173,25 +152,20 @@ At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Dodge ev
 
 <Tabs>
 <Tab specialization="Renegade">
-
 Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Centaur Stance"/> as secondary legend, both have their advantages. <Skill name="Legendary Dwarf Stance" disableText/> can give <Boon name="Stability"/> while <Skill name="Legendary Centaur Stance" disableText/> can give more condition cleanse and projectile absorption with <Skill name="Protective solace"/>.
 </Tab>
 
 <Tab specialization="Tempest">
-
 Use <Specialization name="Tempest"/> <Skill id="22572"/> for better cleave. The range of <Skill id="22572"/> is sufficient to hit the boss, the mobs in the middle and at least one _Corrupted Ice Crystals_ at the side, so make sure you aim accordingly.
 </Tab>
 
 <Tab specialization="Berserker">
-
 Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="arc divider"/>. Use your greatsword to cleave down the adds quickly!
 </Tab>
 </Tabs>
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/shaman_lornarr_dragonseeker.jpg" caption="Shaman Lornarr Dragonseekers cave"/>
-
+![Shaman Lornarr Dragonseekers cave](images/shaman_lornarr_dragonseeker.jpg)
 </GridItem>
 </Grid>

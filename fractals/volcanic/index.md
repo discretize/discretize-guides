@@ -57,9 +57,7 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 <Grid>
  
 <GridItem xs="12" sm="6">
-
-<MDImage src="images/the_start_area.jpg" caption="The start area"/>
-
+![Starting area](images/the_start_area.jpg)
 </GridItem>
 
 <GridItem xs="12" sm="6">
@@ -73,14 +71,11 @@ While four people kill the respawning Grawls to fill the progress bar, one perso
 </Tab>
 
 <Tab specialization="Warrior">
-
 The <Specialization name="Berserker"/> can equip a greatsword and <Skill name="bloodreckoning"/> for 2x <Skill name="arcdivider"/>!
-
 <ProfessionVideo title="Skip to 2nd encounter" profession="Warrior" timestamp="45" src="REnmbN7sZFQ"/>
 </Tab>
 
 <Tab specialization="Weaver">
-
 The <Specialization name="Elementalist"/> can precast strong DPS skills like <Skill id="5737"/> and <Skill id="5501"/> on the spawn locations of the Grawls, since the mobs take damage seconds before they actually appear. You can use <Skill id="5738"/> to reduce incoming damage and <Skill id="22572"/> to cleave the adds faster.
 </Tab>
 </Tabs>
@@ -104,15 +99,13 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 <GridItem xs="12" sm="5">
 <Tabs>
 <Tab specialization="Weaver">
-
 Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the _Veteran Grawl Shamans_ in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
-
 </Tab>
 </Tabs>
 </GridItem>
 </Grid>
 
-<MDImage src="images/the_grawl_shaman.jpg" caption="The Grawl Shaman"/>
+![Grawl Shaman](images/the_grawl_shaman.jpg)
 
 ---
 
@@ -131,34 +124,28 @@ Avoid the _Bash_ and _Wing Buffer_ attacks (they <Control name="Knockback"/>) an
 
 </GridItem>
 <GridItem xs="12" sm="4">
-
-<MDImage src="images/the_imbued_shaman.jpg" caption="The Imbued Shaman"/>
-
+![The Imbued Shaman](images/the_imbued_shaman.jpg)
 </GridItem>
+
 <GridItem xs="12" sm="8">
 <Tabs>
 <Tab specialization="Renegade">
-
 You have multiple options for your legend of choice:
 
 1. <Skill name="Legendary Centaur Stance"/> helps you with the split phases and adds since you can use <Skill name="Protective Solace"/> to block their projectiles.
 2. <Skill name="Legendary Demon Stance"/> will help you get <Boon name="Resistance"/> for the <Condition name="Burning"/> stacks via <Skill name="Pain Absorption"/>. Be careful, however, since there have been significant changes to <Boon name="Resistance"/> and you can kill yourself. Use <Skill name="Call to Anguish"/> to pull in the mobs during split phases.
 3. <Skill name="Legendary Assassin Stance"/> will be the best choice damage-wise if your group doesn't need either of the two choices above.
-
 </Tab>
 
 <Tab specialization="Firebrand">
-
 Use <Skill name="Chapter 4: Stalwart Stand"/> for party wide <Boon name="Resistance"/>, <Skill name="Chapter 3: Valiant Bulwark"/> to block enemy projectiles and <Skill name="Chapter 3: Heated Rebuke"/> to pull in the enemies.
 </Tab>
 
 <Tab specialization="Elementalist">
-
 Take <Skill id="5507"/> for an additional condition cleanse. Use <Skill id="22572"/> to cleave the Lava Elementals faster.
 </Tab>
 
 <Tab specialization="Soulbeast">
-
 Take <Skill id="12489"/> for pulsing condition cleanse! You can also take <Skill name="Bear stance"/> with the trait <Trait name="Leader of the Pack"/> to give the whole party condition cleanse.
 </Tab>
 </Tabs>
