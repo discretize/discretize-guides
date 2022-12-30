@@ -1,7 +1,7 @@
 ---
 title: Power Weaver
 hidden: false
-archive: true
+archive: false
 hasBeginner: true
 rating: Good
 role: Power Damage
