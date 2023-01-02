@@ -10,10 +10,7 @@ specialization: Dragonhunter
 conditions:
   - name: Vulnerability
     uptime: 25 stacks
-boons:
-  - name: Fury
-    uptime: 80%
-    variant: group
+boons: []
 code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: static
 classification:
@@ -22,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-02T02:23:01.157Z
+date: 2023-01-02T02:24:00.767Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
