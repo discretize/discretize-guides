@@ -22,14 +22,14 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-02T02:13:30.326Z
+date: 2023-01-02T02:23:01.157Z
 ---
 
-Power Dragonhunter is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />.
+<Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
 
-It has a decent toolkit for T4s through multiple leaps and teleports (<Skill name="wingsofresolve" />, <Skill name="leapoffaith" />, <Skill name="judgesintervention" />, <Skill name="mercifulintervention" />). 
+It also has a decent toolkit for skips in Tier 4 fractals with multiple leaps and teleports (<Skill name="wingsofresolve" />, <Skill name="leapoffaith" />, <Skill name="judgesintervention" />, <Skill name="mercifulintervention" />). 
 
-Due to its bursty nature, Power Dragonhunter is reliant on fast CC and short phases in order to reach its full potential. The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+Due to its bursty nature, <Specialization name="Dragonhunter" text="Power Dragonhunter"/>  is reliant on fast CC and short phases in order to reach its full potential. The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Beginner>
 
@@ -234,7 +234,7 @@ Now it is time to incorporate another strong utility skill, <Skill name="Sword o
 
 **Step 4: Longbow skills**
 
-Longbow can be used to increase your burst capabilities, which is especially important in fights with short or many phases. <Skill name="symbolofenergy" />, <Skill name="huntersward" /> and <Skill name="trueshot" /> can be used before swapping to greatsword at the beginning of a phase. Longbow also adds access to an additional CC skill through <Skill name="deflectingshot" />.
+Longbow skills can be used to increase your burst capabilities, which is especially important in fights with short phases. <Skill name="symbolofenergy" />, <Skill name="huntersward" /> and <Skill name="trueshot" /> can be used before swapping to greatsword at the beginning of a phase. Longbow also adds access to an additional CC skill through <Skill name="deflectingshot" />.
 
 The opener should now look like this:
 
