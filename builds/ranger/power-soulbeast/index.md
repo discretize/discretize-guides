@@ -11,14 +11,14 @@ conditions:
   - name: Vulnerability
     uptime: 20 stacks
 code: "[&DQQgPx49Nyp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
-cmGuide: pug
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: 2023-01-03T17:40:01.215Z
+date: 2023-01-03T21:42:29.170Z
+cmGuide: pug
 ---
 
 The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="Frost Spirit"/> and <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
@@ -317,7 +317,6 @@ If you need to swap a skill, the same as on land applies. Swap <Skill name="Sign
 | <Skill id="44514" size="big" disableText/> | [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) - Brings DPS as well as group <Boon name="Fury"/> generation. During DPS downtime (the split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime. |
 | <Skill id="43068" size="big" disableText/> | [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) - Brings DPS while also allowing you to proc <Trait name="Twice as Vicious"/>. You can bring this pet if your group can upkeep <Boon name="Fury"/> without you.                                   |
 | <Skill id="42797" size="big" disableText/> | [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) - Used only for mobility. <Skill id="42797"/> is a great for moving between fractal sections quickly, just remember to swap back to a DPS pet before getting into combat!                                                 |
-
 </Card>
 </GridItem>
 </Grid>
