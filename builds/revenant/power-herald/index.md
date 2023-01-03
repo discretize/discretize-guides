@@ -7,16 +7,16 @@ role: Power Damage
 profession: Revenant
 specialization: Herald
 boons:
-  - name: 'Quickness '
+  - name: "Quickness "
     uptime: 100%
-    variant: 'party '
+    variant: "party "
   - name: Might
     uptime: 13 Stacks
     variant: party
   - name: Protection
     uptime: 50% ????
     variant: party
-  - name: 'Fury '
+  - name: "Fury "
     uptime: 100%
     variant: party
   - name: Swiftness
@@ -25,14 +25,25 @@ boons:
   - name: Regeneration
     uptime: ???
     variant: party
-code: '[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]'
-date: 2022-09-21T19:11:02.068Z
+code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
+date: 2023-01-03T17:56:34.504Z
 ---
 
 WIP DO NOT MAKE THIS PUBLIC
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/> as well as some <Boon name="Might"/> and good CC with <Skill name="Surge of the mists"/>. Can provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss.
 
 <Divider text="Equipment"/>
+<CharacterWithAr>
+<Character title="" gear='{"attributes":{"profession":"Revenant","specialization":"Herald","data":{"Health":22574,"Armor":2496,"Power":3872,"Precision":1949,"Toughness":1225,"Vitality":1460,"Ferocity":1244,"Condition Damage":500,"Expertise":0,"Concentration":385,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.25666666666666665,"Critical Chance":1.001904761904762,"Critical Damage":2.3293333333333335,"Power Coefficient":2821,"Power2 Coefficient":0,"Burning Coefficient":1.44,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":33494.38653086736,"NonCrit Effective Power":14379.387463165724,"Power DPS":36383.390220861314,"Power2 DPS":0,"Siphon DPS":164.20625,"Bleeding Damage":86.125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":345.328125,"Burning Stacks":1.44,"Burning DPS":497.2725,"Confusion Damage":108.153125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":105.171875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":127.19999999999999,"Torment Stacks":0,"Torment DPS":0,"Damage":37044.86897086132,"Effective Health":112128764.17910449,"Survivability":57004.96399547763,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Diviner","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":"","utility1Id":"","utility2Id":"","utility3Id":"","eliteId":""},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1774,1719],[1806,1738,1772]],"lines":[15,3,52]}}'>
+
+</Character>
+
+<Character title="" gear='{"attributes":{"profession":"Revenant","specialization":"Herald","data":{"Health":23762,"Armor":2604,"Power":3880,"Precision":1961,"Toughness":1333,"Vitality":1568,"Ferocity":1256,"Condition Damage":500,"Expertise":0,"Concentration":453,"Healing Power":0,"Agony Resistance":222,"Condition Duration":0,"Boon Duration":0.302,"Critical Chance":1.0076190476190476,"Critical Damage":2.3373333333333335,"Power Coefficient":2821,"Power2 Coefficient":0,"Burning Coefficient":1.44,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":33678.862584354865,"NonCrit Effective Power":14409.096941395406,"Power DPS":36583.77795551216,"Power2 DPS":0,"Siphon DPS":164.20625,"Bleeding Damage":86.125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":345.328125,"Burning Stacks":1.44,"Burning DPS":497.2725,"Confusion Damage":108.153125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":105.171875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":127.19999999999999,"Torment Stacks":0,"Torment DPS":0,"Damage":37245.25670551216,"Effective Health":123136811.94029853,"Survivability":62601.3278801721,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":"","utility1Id":"","utility2Id":"","utility3Id":"","eliteId":""},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1774,1719],[1806,1738,1772]],"lines":[15,3,52]}}'>
+
+</Character>
+
+
+</CharacterWithAr>
 
 <Divider text="Build"/>
 <Grid>
