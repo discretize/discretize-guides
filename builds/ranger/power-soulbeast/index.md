@@ -317,6 +317,7 @@ If you need to swap a skill, the same as on land applies. Swap <Skill name="Sign
 | <Skill id="44514" size="big" disableText/> | [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) - Brings DPS as well as group <Boon name="Fury"/> generation. During DPS downtime (the split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime. |
 | <Skill id="43068" size="big" disableText/> | [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) - Brings DPS while also allowing you to proc <Trait name="Twice as Vicious"/>. You can bring this pet if your group can upkeep <Boon name="Fury"/> without you.                                   |
 | <Skill id="42797" size="big" disableText/> | [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) - Used only for mobility. <Skill id="42797"/> is a great for moving between fractal sections quickly, just remember to swap back to a DPS pet before getting into combat!                                                 |
+
 </Card>
 </GridItem>
 </Grid>
