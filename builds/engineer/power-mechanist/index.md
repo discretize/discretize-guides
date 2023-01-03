@@ -1,7 +1,14 @@
 ---
+title: Power (Alac) Mechanist
 hidden: false
 archive: false
+rating: Good
+role: Power Damage
+profession: Engineer
 specialization: Mechanist
+conditions:
+  - name: Vulnerability
+    uptime: 5 Stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -18,22 +25,15 @@ boons:
   - name: Might
     uptime: 5-10 Stacks
     variant: DPS
-code: '[&DQMGNyYvRh8NGwAAhgCNARobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMGNyYvRh8NGwAAhgCNARobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 2
   - 3
   - 4
   - 1
   - 2
-date: 2022-08-10T22:25:39.750Z
-title: Power (Alac) Mechanist
-rating: Good
-role: Power Damage
-profession: Engineer
-conditions:
-  - name: Vulnerability
-    uptime: 5 Stacks
-cmGuide: ''
+date: 2023-01-03T23:48:12.135Z
+cmGuide: ""
 ---
 
 The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play and deals a reasonable amount of damage, partly even at a range. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.
@@ -41,6 +41,17 @@ The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for
 The <Specialization name="Mechanist" text="Power Alacrity Mechanist"/> build is the boon support counterpart. It generates 100% <Boon name="Alacrity"/>, a large amount of offensive boons (25 <Boon name="Might"/> and 100% <Boon name="Fury"/>) and the same benefits of an easy, ranged rotation as seen with <Specialization name="Mechanist" text="Power Mechanist"/>. Alongside the offensive boons it also provides some <Boon name="Protection"/> and <Effect name="Barrier"/>, with 1 stack of <Boon name="Stability"/> and <Boon name="Aegis"/> on a fairly long cooldown. While the build has fantastic offensive support, it is lacking in defensive support and CC compared to <BuildLink build="Power Alac Renegade" specialization="Renegade"/>, so it is important to make sure other members of you party can help to cover the gaps.
 
 <Divider text="Equipment"/>
+<CharacterWithAr>
+
+<Character title="Power Mechanist" gear='{"attributes":{"profession":"Engineer","specialization":"Mechanist","data":{"Health":20522,"Armor":2343,"Power":3631,"Precision":1960,"Toughness":1225,"Vitality":1460,"Ferocity":1605,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0571428571428572,"Critical Damage":2.5700000000000003,"Power Coefficient":1,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":0,"Effective Power":27818.55832681407,"NonCrit Effective Power":10824.34176140625,"Power DPS":10.711805285642692,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":10.711805285642692,"Effective Health":95687653.7313433,"Survivability":48646.49401695135,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30694,"weapon1MainType":"Rifle","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":63049,"utility1Id":5805,"utility2Id":63111,"utility3Id":63253,"eliteId":63095},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[2279,2294,2292]],"lines":[38,6,70]}}'>
+
+</Character>
+
+<Character title="Alac Mechanist" gear='{"attributes":{"profession":"Engineer","specialization":"Mechanist","data":{"Health":20702,"Armor":2361,"Power":3462,"Precision":1845,"Toughness":1243,"Vitality":1478,"Ferocity":1441,"Condition Damage":750,"Expertise":0,"Concentration":828,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0,"Boon Duration":0.552,"Critical Chance":1.0023809523809524,"Critical Damage":2.4606666666666666,"Power Coefficient":1,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":0,"Effective Power":25395.402279988124,"NonCrit Effective Power":10320.5373665625,"Power DPS":9.778745583360848,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":9.778745583360848,"Effective Health":97268501.49253732,"Survivability":49450.17869473173,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Diviner","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Diviner","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Diviner","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30694,"weapon1MainType":"Rifle","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Diviner","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Diviner","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Diviner","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Diviner","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":63049,"utility1Id":5805,"utility2Id":63111,"utility3Id":63253,"eliteId":63095},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[2296,2276,2281]],"lines":[38,6,70]}}'>
+
+</Character>
+
+</CharacterWithAr>
 
 Due to being a power build, it massively benefits from slaying sigils and potions. Check out the [Cheat Sheet](/guides/cheat-sheet) to see all the combinations.
 
