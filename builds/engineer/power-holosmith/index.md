@@ -18,7 +18,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2023-01-03T17:20:57.215Z
+date: 2023-01-03T17:40:50.083Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -44,6 +44,7 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
 
 <Divider text="Equipment"/>
 
+<CharacterWithAr>  
 <Character title="Power Holosmith" gear='{"attributes":{"profession":"Engineer","specialization":"Holosmith","data":{"Health":20522,"Armor":2343,"Power":3630,"Precision":1961,"Toughness":1225,"Vitality":1460,"Ferocity":1606,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0576190476190477,"Critical Damage":2.570666666666667,"Power Coefficient":3260,"Power2 Coefficient":0,"Burning Coefficient":2.51,"Bleeding Coefficient":13.24,"Poison Coefficient":2.62,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":32151.980456336667,"NonCrit Effective Power":12507.25380822225,"Power DPS":40360.206502756075,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":17.6092,"Bleeding DPS":1695.986075,"Burning Damage":355.421875,"Burning Stacks":2.51,"Burning DPS":892.1089062499999,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":2.62,"Poison DPS":295.650625,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":43383.70210900607,"Effective Health":95687653.7313433,"Survivability":48646.49401695135,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":5818,"utility3Id":42842,"eliteId":42009},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[2106,2152,2137]],"lines":[38,6,57]}}'>
 
 You will only need some Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
@@ -51,6 +52,7 @@ You will only need some Assassin pieces if you want to swap to <Trait name="Sang
 You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
 
 </Character>
+</CharacterWithAr>  
 
 
 
