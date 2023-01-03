@@ -1,12 +1,12 @@
 ---
 title: Power Quick Scrapper
 hidden: true
-rating: Good
-role: Support
+rating: Meta
+role: Power Damage
 profession: Engineer
 specialization: Scrapper
 code: "[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-01-03T21:21:04.158Z
+date: 2023-01-03T21:41:30.500Z
 ---
 
 <Divider text="Equipment"/>
