@@ -1,7 +1,7 @@
 ---
-archive: false
 title: Power Daredevil
 hidden: false
+archive: false
 rating: Other
 role: Power Damage
 profession: Thief
@@ -9,14 +9,14 @@ specialization: Daredevil
 conditions:
   - name: Vulnerability
     uptime: 5 stacks
-code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 2
   - 2
   - 4
-date: 2022-07-30T10:53:24.186Z
+date: 2023-01-03T17:39:39.538Z
 ---
 
 <Warning>
@@ -34,6 +34,20 @@ In fractals <Specialization name="Daredevil" text="Power Daredevil"/> does have 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character title="Power Daredevil" gear='{"attributes":{"profession":"Thief","specialization":"Daredevil","data":{"Health":18185,"Armor":2343,"Power":3930,"Precision":2009,"Toughness":1225,"Vitality":1654,"Ferocity":1706,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0004761904761905,"Critical Damage":2.6373333333333333,"Power Coefficient":2925,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0.94,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":36335.27381797647,"NonCrit Effective Power":12262.819525453036,"Power DPS":40924.40351081293,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0.94,"Poison DPS":106.07312499999999,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":41170.226635812935,"Effective Health":104680191.6344205,"Survivability":53218.1960520694,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30698,"weapon1MainType":"Staff","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":"","utility1Id":13046,"utility2Id":30868,"utility3Id":"","eliteId":""},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1245,1704,1269],[1268,1272,1904],[1933,1893,2047]],"lines":[28,35,7]}}'>
+
+Alternative weapons:
+- Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils  
+- A Shortbow to stack <Boon name="Might"/>, <Effect name="Stealth"/> and to use for skips and mobility
+- A Sword/Pistol set to use for skips and opening CC
+
+With <Skill name="Signet of Agility"/>, you will be critcapped even without the flank bonus from <Trait id="1268"/>.
+
+</Character>
+</CharacterWithAr>  
+
 
 <Divider text="Build"/>
 
