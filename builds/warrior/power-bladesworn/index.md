@@ -13,22 +13,22 @@ conditions:
     uptime: 7 stacks
 boons:
   - name: Quickness
-    uptime: '33%'
+    uptime: 33%
     variant: Party
   - name: Might
-    uptime: '3 Stacks '
+    uptime: "3 Stacks "
     variant: Party
   - name: Might
-    uptime: '8 Stacks '
+    uptime: "8 Stacks "
     variant: Party (Using Empower Allies)
-code: '[&DQIEHwsVRCumAAAA8hoAAP0aCgAAAKIB/BqcAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQIEHwsVRCumAAAA8hoAAP0aCgAAAKIB/BqcAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 5
   - 3
   - 3
   - 4
-date: 2022-07-31T10:54:54.519Z
+date: 2023-01-03T17:38:44.004Z
 ---
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses sustained damage in favor of short damage spikes. Along with this <Specialization text="Power Bladesworn" name="Bladesworn"/> provides a lot of boon support to a party, sharing <Boon name="Might"/> and <Boon name="Quickness"/> from traits along with optional utility skills like <Skill name="Forgreatjustice"/> which can carry a party with low boon uptime by providing 12 stacks of <Boon name="Might"/> (becomes 20 stacks, taking into account <Boon name="Might"/> from traits) and a high <Boon name="Fury"/> uptime.
@@ -36,6 +36,17 @@ The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong buil
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the harder builds to play in fractals dues to its quick rotation, relying on maintaining damage modifiers and your highest damaging skill locking you in place, requiring good positioning during fights. Furthermore, the build benefits from damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
 <Divider text="Equipment" />
+
+<CharacterWithAr>  
+<Character title="Thief Rune" gear='{"attributes":{"profession":"Warrior","specialization":"Bladesworn","data":{"Health":26282,"Armor":2496,"Power":3600,"Precision":2365,"Toughness":1225,"Vitality":1707,"Ferocity":1528,"Condition Damage":850,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.5186666666666664,"Power Coefficient":4560,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":0,"Effective Power":26948.30567121,"NonCrit Effective Power":10699.433167500001,"Power DPS":47317.77969222857,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":104.9375,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":377.703125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":128.58437500000002,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":121.46875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.68125,"Torment Stacks":0,"Torment DPS":0,"Damage":47317.77969222857,"Effective Health":130547008.9552239,"Survivability":66368.58614907163,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24818,"helmRune":"Thief","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24818,"shouldersRune":"Thief","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24818,"coatRune":"Thief","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24818,"glovesRune":"Thief","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24818,"leggingsRune":"Thief","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24818,"bootsRune":"Thief","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30693,"weapon1OffType":"Pistol","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":14401,"utility1Id":62967,"utility2Id":68085,"utility3Id":62960,"eliteId":62901},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1444,1449,1437],[1469,1486,0],[2225,2302,2239]],"lines":[4,11,68]}}'>
+
+This is the default build. Due to <Item id="24818"/> this build requires you to flank. If you can't reliably flank a <Item id="24836"/> or <Item id="24723"/> build will perform better.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+</CharacterWithAr>  
+
 
 <Divider text="Build" />
 
@@ -112,20 +123,14 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 <Card title="Opener">
 
-Make sure to cast <Skill name="Tactical Reload"/> and <Skill id="68085"/> before entering combat.
+Make sure to cast <Skill name="Tactical Reload"/> before taking the mistlock and <Skill id="68085"/> before entering combat.
 
-1. <Skill name="Dragons Roar"/> (Pistol 5)
-2. <Skill name="Gunstinger"/> (Pistol 4)
-3. <Skill name="Cyclone Axe" /> (Axe 2)
-4. Charge <Skill name="Dragon Trigger"/>
-5. <Skill name="Triggerguard"/> in <Skill name="Dragon Trigger"/> (Skill 4)
-6. <Skill name="Dragon Slash-Force"/> in <Skill name="Dragon Trigger"/> (Skill 1)
-7. <Skill name="Dragonspike Mine"/>
-8. Charge <Skill name="Dragon Trigger"/>
-9. <Skill name="Flicker Step"/> in <Skill name="Dragon Trigger"/> (Skill 5)
-10. <Skill name="Triggerguard"/> in <Skill name="Dragon Trigger"/> (Skill 4)
-11. <Skill name="Dragon Slash-Force"/> in <Skill name="Dragon Trigger"/> (Skill 1)
-
+1. Precast <Skill id="68085"/> and charge <Skill name="dragontrigger" /> before the fight starts
+2. <Skill name="dragonslashforce" />
+3. <Skill name="dragonspikemine" />
+4. <Skill name="tacticalreload" />
+5. Charge <Skill name="dragontrigger" />
+6. <Skill name="dragonslashforce" />
 </Card>
 
 </GridItem>
