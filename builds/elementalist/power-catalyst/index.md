@@ -23,7 +23,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2023-01-04T12:45:17.051Z
+date: 2023-01-04T13:12:39.145Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -92,6 +92,8 @@ On the Quickness variant, you can run Arcane instead of Fire. This will trade in
 
 |                                                                   |                                                                                                                                                                  |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Offensive                                                             |                                                                                                                                                                  |
+| <Skill name="Shattering Ice" size="big" disableText/>          | Good on encounter with longer phases like Ensolyss instead of  <Skill name="Arcane Blast"/>.                                                                                                        |
 | Heal                                                              |                                                                                                                                                                  |
 | <Skill name="Arcane Brilliance" size="big" disableText/>          | Additional <Boon name="Might"/> by blasting fire fields.                                                                                                         |
 | <Skill name="Soothing Water" size="big" disableText/>             | Strong heal over time and condi cleanse.                                                                                                                         |
