@@ -23,7 +23,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2023-01-05T00:10:03.895Z
+date: 2023-01-05T00:23:53.231Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -137,8 +137,9 @@ As a Catalyst, your unique class mechanic is the energy system and your Jade Sph
 
 Certain traits interact with your sphere, namely:
 
-- <Trait name="Sphere Specialist"/> doubles the duration of the boons applied, making it possible to provide 100% uptime on boons like <Boon name="Quickness"/>.
-- <Trait name="Spectacular Sphere"/> makes your Sphere grant an extra boon based on the attunement. This allows you to provide <Boon name="Fury"/> in <Skill name="Air Attunement"/> for example.
+- <Trait name="Spectacular Sphere"/> makes your Sphere grant an extra boon based on the attunement. This allows you to provide <Boon name="Quickness"/> in <Skill name="Air Attunement"/> for example.
+
+- <Trait name="Sphere Specialist"/> doubles the duration of the boons applied, making it possible to provide higher boon uptime when traited with <Trait name="Spectacular Sphere"/>.
 
 </Card>
 
