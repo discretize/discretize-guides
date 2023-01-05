@@ -23,7 +23,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2023-01-05T00:23:53.231Z
+date: 2023-01-05T06:31:01.243Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -240,67 +240,6 @@ Traits that interact with Elemental Empowerment stacks are:
 </GridItem>
 </Grid>
 
-<Divider text="Providing Boons"/>
-
-<Warning>
-This section covers the Quickness variant. Parts of this section can apply to the full DPS variant too as it provides some boons as well.
-</Warning>
-
-<Grid>
-<GridItem sm="6">
-
-<Card title="Jade Spheres">
-
-Your Jade Spheres are your main source of most boons. They have a 240 radius and last for 5 seconds, meaning they will tick 6 times. To get all of the boons, everyone has to stand inside them for the full duration. This means placement and timing are key to providing good boon uptime.
-
-This will be especially tricky in split phases with additional enemies such as Skorvald as you want to rotate through your attunements for the boons but still be in <Skill name="Air Attunement"/> when the next phase starts. This usually means keeping up your attunement rotation but potentially skipping over other parts of the rotation such as the utility skills (or even Hammer 3) depending on the time the split-phase takes.
-
-Keep in mind that you will only regain energy while hitting an enemy and try to manage it accordingly.
-
-</Card>
-
-<Card title="Might">
-
-- You can help with pre-casting <Boon name="Might"/> as you have a ton of blast finishers in your kit, even without swapping weapons. See the precast section below for more information.
-- Your main source of <Boon name="Might"/> in-combat is your <Skill id="63458"/>. It ticks a total of 6 times giving you 6 stacks. These stacks will last approx. 27 seconds thanks to the recommended Boon Duration on the Quickness variant and <Trait name="Sphere Specialist"/>.
-- You will keep up 1 extra stack of <Boon name="Might"/> when running Arcane. However, this is barely worth mentioning and you will usually run this trait line for other reasons.
-- You will usually drop your <Skill id="63459"/> right before your <Skill id="63458"/> and therefore not gain much value from blasting. If this proves to be an issue (which it usually should not), you could swap <Skill name="Fire Attunement"/> and <Skill name="Air Attunement"/> in your rotation.
-- If there are no other sources of <Boon name="Might"/> in your group, you can swap to <Trait name="Spectacular Sphere"/> to provide an additional 5 stacks of <Boon name="Might"/> every time you cast <Skill id="63458"/>.
-
-</Card>
-
-</GridItem>
-<GridItem sm="6">
-
-<Card title="Quickness">
-
-- Your <Boon name="Quickness"/> sources are very straight forward. It only comes from your <Skill id="63459"/>. Refer to the Jade Sphere section for extra tricks.
-- Your entire <Boon name="Quickness"/> coming from a single skill does not mean that this is easy to upkeep properly. Timing it right to have the entire group be able to stand in the Sphere for its entire duration without ever delaying it much can get quite tricky and is one of the major difficulties of playing Catalyst in fractals as a <Boon name="Quickness"/> provider.
-
-</Card>
-
-<Card title="Other Boons">
-
-Due to using your <Skill id="63461"/> every time you are in <Skill name="Water Attunement"/>, you will passively provide <Boon name="Resolution"/> to your group.
-
-While playing with the Arcane trait line, you will also provide the following boons by swapping through your attunements:
-
-- <Boon name="Regeneration"/> from <Skill name="Water Attunement"/> (approx. 40% uptime)
-- <Boon name="Protection"/> from <Skill name="Earth Attunement"/> (approx. 40% uptime)
-- <Boon name="Swiftness"/> from <Skill name="Air Attunement"/> (approx. 65% uptime)
-
-While playing with <Trait name="Spectacular Sphere"/>, you will also provide the following extra boons when activating your Jade Spheres:
-
-- Extra <Boon name="Might"/> in <Skill name="Fire Attunement"/> (approx. 7-8 extra stacks in a long fight)
-- <Boon name="Fury"/> in <Skill name="Air Attunement"/> (approx. 80% uptime)
-- <Boon name="Vigor"/> in <Skill name="Water Attunement"/>
-- <Boon name="Resistance"/> in <Skill name="Earth Attunement"/> (this is not in the standard rotation, but gives a nice option for situational <Boon name="Resistance"/>)
-
-</Card>
-
-</GridItem>
-</Grid>
-
 <Divider text="Rotation / Skill usage"/>
 
 <Grid>
@@ -308,7 +247,7 @@ While playing with <Trait name="Spectacular Sphere"/>, you will also provide the
 
 <Card title="Step-by-Step Rotation">
 
-This is a step-by-step explanation of the Catalyst rotation. The rotation will be the same for the DPS and <Boon name="Quickness"/> variant. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
+This is a step-by-step explanation of the Catalyst rotation. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
 
 **Step 1: Attunement Rotation/Hammer 3**
 
@@ -352,7 +291,7 @@ You can focus on only using Hammer 2 in each attunement first if you struggle to
 
 **Note:** Not all skills will always be off-cooldown in this rotation. It is usually worth waiting for the following skills (as all their cooldowns should be the same as <Skill name="Relentless Fire"/> meaning you will not delay your rotation):
 
-- <Skill name="Molten End"/> (only when running Fire trait line)
+- <Skill name="Molten End"/> 
 - <Skill name="Crashing Font"/>
 - <Skill name="Shock Blast"/>
 
@@ -379,9 +318,9 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 <Card title="Precasting">
 
-If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
+If a _Mistlock Singularity_ is present, you should precast boons and particular effects for better group performance.
 
-Which precasts you can do will rely on the amount of energy you have before taking the _Mistlock Singularity_. Prioritize precasting the Jade Sphere in <Skill name="Air Attunement"/> if you only have 10 energy as fire fields can be provided by other skills.
+As an elementalist, you have easy access to fire fields and plenty of blasts providing <Boon name="Might"/> as well as <Trait name="Empowering Auras"/> stacks. The amount of <Trait name="Empowering Auras"/> you can stack will depend on how fast the rest of your group finish their precasts. With a slightly slower precast, you can prestack up to 5 stacks of <Trait name="Empowering Auras"/>. However, in most cases, it is better to be faster and just go with 3-4 stacks <Trait name="Empowering Auras"/>.
 
 1. Start on <Skill id="5492"/> and cast <Skill id="63458"/> to provide a fire field. Alternatively, use an off-hand Dagger to provide a fire field with <Skill name="Ring of Fire"/>.
 2. Blast it using <Skill name="Molten End"/>.
