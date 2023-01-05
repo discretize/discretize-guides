@@ -23,7 +23,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2023-01-04T13:12:39.145Z
+date: 2023-01-05T00:10:03.895Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -70,17 +70,6 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="One with Air" size="big" disableText/>       | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                 |
 | <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%. |
-
-</Card>
-
-<Card title="Arcane">
-
-<Traits unembossed traits1="Arcane" traits1Selected="Arcane Precision, Final Shielding, Bountiful Power"/>
-On the Quickness variant, you can run Arcane instead of Fire. This will trade in some damage for extra uptime on other boons such as <Boon name="Might"/> or <Boon name="Swiftness"/>. This also gives you some free <Attribute name="Concentration"/> from <Trait name="Elemental Enchantment"/>. You can either adjust your gear accordingly or run the same gear setup and enjoy the higher boon duration, making upkeeping boons easier.
-
-|                                                            |                                                                                                                                                     |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Arcane Resurrection" size="big" disableText/> | When running Arcane, you can use this for some group rezzing ability. You will trade in some personal defense from <Trait name="Final Shielding"/>. |
 
 </Card>
 
