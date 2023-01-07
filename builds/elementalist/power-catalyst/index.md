@@ -1,5 +1,5 @@
 ---
-title: Power (Quick) Catalyst
+title: Power Catalyst
 hidden: false
 archive: false
 rating: Good
@@ -12,9 +12,6 @@ conditions:
 boons:
   - name: Might
     uptime: 9 stacks
-    variant: party
-  - name: Quickness
-    uptime: 100% (35% on DPS variant)
     variant: party
 code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
