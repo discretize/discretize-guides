@@ -1,6 +1,6 @@
 ---
 title: Power Quick Herald
-hidden: true
+hidden: false
 archive: false
 rating: Meta
 role: Power Damage
@@ -14,7 +14,7 @@ boons:
     uptime: 13 Stacks
     variant: party
   - name: Protection
-    uptime: 50% ????
+    uptime: 100%
     variant: party
   - name: "Fury "
     uptime: 100%
@@ -23,7 +23,7 @@ boons:
     uptime: 100%
     variant: party
   - name: Regeneration
-    uptime: ???
+    uptime: 100%
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
 date: 2023-01-03T22:45:14.440Z
