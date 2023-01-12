@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-02T02:24:00.767Z
+date: 2023-01-12T07:08:30.018Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -77,7 +77,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
+
 <Advanced>
+<Card title="Situational Traits">
+
+|||
+|-|-|
+| <Trait name="heavylight" size="big" disableText/> |Can be taken on MAMA and Skorvald in faster groups with high exposed uptime. This allows <Skill name="spearofjustice" /> to be skipped or used for CC, and provides extra damage against adds.
+
+</Card>
 
 <Card title="Virtues">
 
@@ -150,7 +158,15 @@ You should drop <Skill name="Swordofjustice"/> first.
   
 <Divider text="Details"/>
 
-It is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> and <Trait name="righteousinstincts" /> modifiers. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Boon name="Resolution" />. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+It is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> and <Trait name="righteousinstincts" /> modifiers. Thanks to <Trait name="healersresolution"/>, your heal skill applies long lasting <Boon name="Resolution" />. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+
+It may be difficult to maintain permanent <Boon name="Resolution" /> solo. Some notable teammates who can aid with <Boon name="Resolution" /> uptime include: 
+- <Specialization name="Firebrand" text="Firebrands" /> if taking
+  -  <Skill name="mantraofsolace" />, <Skill name="mantraofliberation" />, <Skill name="standyourground" />, <Skill name="hallowedground" />
+- <Specialization name="Guardian" text="Guardians"/> taking Greatsword (usually <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
+  - <Skill name="symbolofresolution" /> 
+- <Specialization name="Renegade" text="Renegades"/> if taking <Trait name="spiritboon" />
+
 
 </Advanced>
 
