@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-12T07:08:30.018Z
+date: 2023-01-14T02:27:39.278Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -125,8 +125,8 @@ You should drop <Skill name="Swordofjustice"/> first.
 | <Skill id="9153" size="big" disableText/>         | When <Boon name="Stability"/> or a stunbreak is needed.                                  |
 | <Skill id="9125" size="big" disableText/>         | Deals an additional 200 defiance bar damage.                                             |
 | <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed. 
-| <Skill id="9251" size="big" disableText/>         | A stationary reflect lasting for 10 seconds.                                             |
-| <Skill name="dragonsmaw" size="big" disableText/> | When you are certain no extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
+| <Skill id="9251" size="big" disableText/>         | A stationary reflect lasting for 8 seconds.                                             |
+| <Skill name="feelmywrath" size="big" disableText/> | When extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
 | <Skill name="Sanctuary" size="big" disableText/>  | Huge CC and projectile destruction.                                                      |
 
 </Beginner>
@@ -135,12 +135,12 @@ You should drop <Skill name="Swordofjustice"/> first.
 
 |                                                        |                                                                                                                                |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                                                             |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="resolution"/> at the mistlock |
+| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally. Can be used in conjunction with <Skill name="swordofjustice" profession="guardian" /> for skips.                                                                                             |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="resolution"/> at the mistlock. |
 | <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                                                                                           |
 | <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                        |
 | <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                                                                   |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                                                                   |
+| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 8 seconds.                                                                                   |
 | <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                                                                |
 | <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                                                             |
 | <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                                                           |
@@ -160,12 +160,15 @@ You should drop <Skill name="Swordofjustice"/> first.
 
 It is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> and <Trait name="righteousinstincts" /> modifiers. Thanks to <Trait name="healersresolution"/>, your heal skill applies long lasting <Boon name="Resolution" />. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
 
-It may be difficult to maintain permanent <Boon name="Resolution" /> solo. Some notable teammates who can aid with <Boon name="Resolution" /> uptime include: 
-- <Specialization name="Firebrand" text="Firebrands" /> if taking
-  -  <Skill name="mantraofsolace" />, <Skill name="mantraofliberation" />, <Skill name="standyourground" />, <Skill name="hallowedground" />
-- <Specialization name="Guardian" text="Guardians"/> taking Greatsword (usually <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
-  - <Skill name="symbolofresolution" /> 
-- <Specialization name="Renegade" text="Renegades"/> if taking <Trait name="spiritboon" />
+It may require some attention to maintain permanent <Boon name="Resolution" /> solo. Notable teammates who can aid with <Boon name="Resolution" /> uptime include: 
+- <Specialization name="Firebrand" text="Firebrands" />, if taking 
+  - <Skill name="mantraofsolace" /> 
+  - <Skill name="mantraofliberation" /> 
+  - <Skill name="standyourground" />
+  - <Skill name="hallowedground" />
+- <Specialization name="Guardian" text="Guardians"/> with <Skill name="symbolofresolution" />  (usually <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
+
+- <Specialization name="Renegade" text="Renegades"/> with <Trait name="spiritboon" />
 
 
 </Advanced>
@@ -189,20 +192,21 @@ For that reason, you will find some general notes for skill usage here.
 If you have a Mistlock Singularity present you can use these skills for precasts:
 
 1.  Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
-2.  Use <Skill name="Save yourselves"/> or <Skill name="hallowedground"/>
+2.  Use <Skill name="Save yourselves"/> and/or <Skill name="hallowedground"/>
 3.  Blast a fire field with <Skill name="Holy Strike"/>
 4.  Use <Skill name="Feelmywrath"/>
 5.  Take mistlock
 6.  Blast a fire field with <Skill name="Holy Strike"/> again
+
+- <Skill name="shieldofcourage" /> can be added if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
 
 </Card>
 
 <Card title="Notes on skill usage:">
 
 - Start on longbow
-- Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
+- Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional projectile hits.
 - Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax**, and **Ensolyss**.
-- Don't interrupt your GS auto-attack chain.
 - In certain scenarios (precasting traps or symbols, starting with <Skill name="firestorm"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
 
 </Card>
@@ -217,8 +221,8 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 The first step consists of using <Skill name="Symbol of Resolution"/>, <Skill name="Whirling Wrath"/> and <Skill name="Binding Blade"/> off-cooldown (in this order of priority if multiple come up at the same time).
 
 - <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword.
-- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox.
-- <Skill name="Binding Blade"/> will deal more damage if you are in the hitbox while there are extra enemies around.
+- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox due to the additional projectiles.
+- <Skill name="Binding Blade"/> will throw additional projectiles for each nearby enemy, dealing bonus damage to bosses if you are inside the hitbox.
 
 **Step 2: Trap + F1 Combo**
 
@@ -247,7 +251,7 @@ Now it is time to incorporate another strong utility skill, <Skill name="Sword o
 
 **Step 4: Longbow skills**
 
-Longbow skills can be used to increase your burst capabilities, which is especially important in fights with short phases. <Skill name="symbolofenergy" />, <Skill name="huntersward" /> and <Skill name="trueshot" /> can be used before swapping to greatsword at the beginning of a phase. Longbow also adds access to an additional CC skill through <Skill name="deflectingshot" />.
+Longbow skills can be used to increase your burst capabilities, which is especially important in fights with short phases. Use <Skill name="symbolofenergy" />, <Skill name="huntersward" /> and <Skill name="trueshot" /> to open a fight before swapping to greatsword. Longbow also adds access to an additional CC skill through <Skill name="deflectingshot" />.
 
 The opener should now look like this:
 
@@ -321,7 +325,7 @@ The additional steps are:
 
 <Card title="Golem Rotation">
 
-This video shows the full rotation on the golem. It will slightly vary from the step-by-step version. It also uses the raid setup so numbers will not be comparable.
+This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
 
 <Video youtube="faIaiHFG1qI" caption="by Nagy"/>
 </Card>
