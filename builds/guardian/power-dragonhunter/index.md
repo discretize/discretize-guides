@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-14T02:27:39.278Z
+date: 2023-01-21T23:27:30.462Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -72,18 +72,24 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Advanced>
 
 <Divider text="Build"/>
+<Beginner>
+<Grid>
+<GridItem sm="7">
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1963"/>
+</Beginner>
 
+<Advanced>
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
-
+</Advanced>
 
 <Advanced>
 <Card title="Situational Traits">
 
 |||
 |-|-|
-| <Trait name="heavylight" size="big" disableText/> |Can be taken on MAMA and Skorvald in faster groups with high exposed uptime. This allows <Skill name="spearofjustice" /> to be skipped or used for CC, and provides extra damage against adds.
+| <Trait name="heavylight" size="big" disableText/> |Can be taken on MAMA and Skorvald in faster groups with high exposed uptime. This allows <Skill name="spearofjustice" /> to be skipped or used for CC, and provides extra damage against adds. <Trait name="heavylight" /> is also less punishing and less phase time reliant than <Trait name="biggamehunter" />, making it a safe option for pugs.
 
 </Card>
 
@@ -204,9 +210,8 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Card title="Notes on skill usage:">
 
-- Start on longbow
-- Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional projectile hits.
-- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax**, and **Ensolyss**.
+- Cast <Skill name="whirlingwrath"/> inside the boss' hitbox so the additional projectiles hit.
+- Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax**, and **Ensolyss**, with some cases at **Artsariiv**, **Arkk**, and **MAMA**.
 - In certain scenarios (precasting traps or symbols, starting with <Skill name="firestorm"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
 
 </Card>
@@ -222,7 +227,7 @@ The first step consists of using <Skill name="Symbol of Resolution"/>, <Skill na
 
 - <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword.
 - Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox due to the additional projectiles.
-- <Skill name="Binding Blade"/> will throw additional projectiles for each nearby enemy, dealing bonus damage to bosses if you are inside the hitbox.
+
 
 **Step 2: Trap + F1 Combo**
 
@@ -248,6 +253,14 @@ Now it is time to incorporate another strong utility skill, <Skill name="Sword o
 - <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
 - Its recharge time aligns with the cooldown of <Skill name="Spear of Justice"/> so we will always use 1 charge right before we cast our Trap + F1. This will enhance the burst damage further.
 - The other charges may be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get one charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while tethered to an enemy with <Skill name="Spear of Justice"/> for the extra damage.
+
+**Step 4: Additional Greatsword skills**
+
+<Skill name="bindingblade" /> (GS5) and <Skill name="leapoffaith" /> (GS3) can add additional damage or utility depending on the context.
+- <Skill name="Binding Blade"/> fires projectiles at up to 5 nearby enemies. The skill can be recast to pull in hit enemies, grouping adds or dealing breakbar damage to defiant enemies.
+- If standing inside an enemy, additional projectiles from <Skill name="Binding Blade"/> will get blocked by the enemy's hitbox, dealing massive single-target damage. This can be used effectively against bosses.
+- <Skill name="leapoffaith" /> has a blind, a small heal, and can be saved for mobility in fights with moving bosses.
+- If no above situations apply, <Skill name="bindingblade" /> and <Skill name="leapoffaith" /> provide a moderate dps increase over autoattacking.
 
 **Step 4: Longbow skills**
 
@@ -280,19 +293,16 @@ The opener should now look like this:
 
 1.  <Skill name="Sword of Justice" profession="guardian"/>
 2.  <Skill name="Procession of Blades " profession="guardian"/>
-3.  <Skill name="spearofjustice" profession="guardian"/> (F1)
-4.  <Skill name="Symbol of Energy" profession="guardian"/> (Longbow 4)
-5.  <Skill name="Hunter's Ward" profession="guardian"/> (Longbow 5)
-6.  <Skill name="True Shot" profession="guardian"/> (Longbow 5)
+3.  <Skill name="spearofjustice" profession="guardian"/>
+4.  <Skill name="Symbol of Energy" profession="guardian"/>
+5.  <Skill name="Hunter's Ward" profession="guardian"/>
+6.  <Skill name="True Shot" profession="guardian"/>
 7.  **Weapon Swap**
-8. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
-9. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
-10. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
-11. <Skill name="Dragons Maw" profession="guardian"/>
-12. <Skill name="Sword of Justice" profession="guardian"/>
-13. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
-14. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
-15. If the phase lasts longer than this, continue with the golem rotation.
+8. <Skill name="Symbol of Resolution" profession="guardian"/>
+9. <Skill name="Whirling Wrath" profession="guardian"/>
+
+
+Remember to add CC skills when necessary. If the phase lasts longer than this, improvise according to phase end timing.
 
 </Card>
 </Advanced>
