@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-23T09:17:22.707Z
+date: 2023-01-23T10:04:18.837Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -157,7 +157,9 @@ You should drop <Skill name="Swordofjustice"/> first.
   
 <Divider text="Details"/>
 
-It is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> and <Trait name="righteousinstincts" /> modifiers. Thanks to <Trait name="healersresolution"/>, your heal skill applies long lasting <Boon name="Resolution" />. You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+It is very important to maintain <Boon name="Resolution"/> for <Trait name="righteousinstincts" /> and <Trait name="retribution"/>. <Trait name="healersresolution"/> causes your heal skill to apply ~10s of <Boon name="Resolution" />, and <Skill name="symbolofresolution" /> provides ~6s of <Boon name="Resolution" />.
+
+- When beginning phases after splits (e.g. Ensolyss), you likely will not have <Boon name="Resolution" />. It is important to precast <Skill name="litanyofwrath" /> so that you have <Boon name="Resolution" /> during your opener. This is especially important when beginning phases on Longbow as you will not have <Skill name="symbolofresolution" /> up until late in your burst.
 
 It may require some attention to maintain permanent <Boon name="Resolution" /> solo. Notable teammates who can aid with <Boon name="Resolution" /> uptime include: 
 - <Specialization name="Firebrand" text="Firebrands" />, if taking 
@@ -165,7 +167,7 @@ It may require some attention to maintain permanent <Boon name="Resolution" /> s
   - <Skill name="mantraofliberation" /> 
   - <Skill name="standyourground" />
   - <Skill name="hallowedground" />
-- <Specialization name="Guardian" text="Guardians"/> with <Skill name="symbolofresolution" />  (usually <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
+- <Specialization name="Guardian" text="Guardians"/> with <Skill name="symbolofresolution" />  (usually on <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
 
 - <Specialization name="Renegade" text="Renegades"/> with <Trait name="spiritboon" />
 
@@ -197,7 +199,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 5.  Take mistlock
 6.  Blast a fire field with <Skill name="Holy Strike"/> again
 
-- <Skill name="shieldofcourage" /> can be added if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
+- Add <Skill name="shieldofcourage" /> if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
 
 </Card>
 
@@ -208,7 +210,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 - Cast <Skill name="whirlingwrath"/> inside the boss' hitbox so the additional projectiles hit.
 - Cancel your <Skill name="symbolofresolution" /> and <Skill name="bindingblade" /> aftercasts to save time.
 - Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax**, and **Ensolyss**, with some cases at **Artsariiv**, **Arkk**, and **MAMA**.
-- If running <Trait name="biggamehunter" /> and precasting traps, symbols, or <Skill name="firestorm"/>, it can be beneficial to get your <Skill name="spearofjustice"/> out first.
+- If running <Trait name="biggamehunter" /> and precasting traps, symbols, or <Skill name="firestorm"/>, open with <Skill name="spearofjustice"/> as soon as the boss is vulnerable.
 
 </Card>
 
@@ -220,8 +222,8 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 **Step 1: Sword of Justice + Trap**
 
 Start with <Skill name="swordofjustice"/> and <Skill name="processionofblades" />.
-- <Skill name="swordofjustice" profession="guardian" /> and <Skill name="processionofblades" /> both have a wind up time to deal all their damage. Use them at the start of your opener to maximize your burst.
-- <Skill name="swordofjustice" profession="guardian" /> has 3 charges. The other charges can be used later in the rotation when no priority skills are available.
+- <Skill name="swordofjustice" profession="guardian" /> and <Skill name="processionofblades" /> both have a wind up time before dealing all their damage. Use them at the start of your opener to maximize your burst.
+- <Skill name="swordofjustice" profession="guardian" /> has 3 charges. The other charges can be used later in the rotation as filler.
 
 **Step 2: Longbow skills**
 
@@ -306,9 +308,11 @@ The opener should now look like this:
 7.  **Weapon Swap**
 8. <Skill name="Symbol of Resolution" profession="guardian"/>
 9. <Skill name="Whirling Wrath" profession="guardian"/>
+10. <Skill name="leapoffaith" />
+11. <Skill name="bindingblade" />
 
 
-Remember to add CC skills when necessary. If the phase lasts longer than this, improvise according to phase end timing.
+Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
 
 </Card>
 
@@ -328,15 +332,13 @@ This video shows the step-by-step approach to the rotation. Please note that thi
 
 <Card title="Improving Further">
 
-Once you are comfortable with the above steps, you will have grasped most of the full rotation. 
-
-There will be a few additional tips on the advanced page to improve further, but these tips will have a smaller impact than what you have learned so far.
+Once you are comfortable with the above steps, you will have grasped most of the rotation. Additional tips can be found on the advanced page if you wish to improve further.
 
 For now, try to:
 
 - Employ weapon swap in fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="True Shot"/> twice on their respective weapon sets.
 - Make use of your CC skills to break boss bars faster
-- Start thinking about phase times and how to fit the maximum amount of damage before the boss dies/goes invulnerable
+- Start thinking about phase times and how to fit the maximum amount of damage in before the boss dies/goes invulnerable
 
 
 </Card>
@@ -355,7 +357,7 @@ This video shows the full rotation on the golem. It will vary from the step-by-s
 
 <Divider text="Underwater combat"/>
 
-It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
+It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS underwater compared to <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
@@ -364,6 +366,7 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
   2.  <Skill name="Symbol of spears"/> (Spear 4)
   3.  <Skill name="brilliance"/> (Spear 3)
 
+<Advanced>
 <Divider text="Further precasts"/>
 
 <Warning> 
@@ -406,5 +409,5 @@ You may wish to add/remove symbols to your precast depending on personal speed o
 - Do not presymbol in pugs unless you are absolutely sure no one else will trigger the boss before you, or you will have to learn to play Mace <Specialization name="Dragonhunter" />.
 
 </Card>
-
+</Advanced>
 
