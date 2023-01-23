@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-23T09:06:39.189Z
+date: 2023-01-23T09:17:22.707Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -388,8 +388,9 @@ The available symbols for precasting are as follows: <Skill name="symboloffaith"
 
 - <Skill name="symboloffaith" /> has the longest cast time and drops at your location at the end of the cast, so it is recommended to start with this while running in.
 - Add <Skill name="shieldofwrath" /> in towards the end of your presymbols for significant extra damage. This may be difficult to do without a dedicated equipment template as equipping a 2-handed weapon will unequip your Focus.
-- It is imperative to trigger the boss promptly after you finish presymboling, or you will lose damage ticks on your symbols.
+- It is important to trigger the boss right after you finish presymboling, or you will lose damage ticks on your symbols.
 - Instant CC is valuable so that presymbols tick into <Effect name="Exposed" />.
+- In fast phase times, it can be worth it to use <Skill name="symbolofresolution" /> and/or <Skill name="symbolofenergy" /> in your precast. With slower phases, it may be better to use them in-phase so that no ticks are missed.
 
 
 Here is a sample presymbol skill order:
@@ -400,11 +401,9 @@ Here is a sample presymbol skill order:
 
 You may wish to add/remove symbols to your precast depending on personal speed or boon/buff timers (such as <Skill name="onewolfpack" />). Do note that it is not worth casting 6 symbols as your oldest symbol will have expired by the time the boss is vulnerable.
 
-Presymbols are not recommended in pugs as you will get stuck on the wrong weapon if  someone triggers the boss.
 
-- In fast phase times, it can be worth to use <Skill name="symbolofresolution" /> and/or <Skill name="symbolofenergy" /> in your precast. With slower phases, it may be better to use them in-phase so that no ticks are missed.
-- It can be useful to create dedicated templates for presymbols and pretraps. Do note that you will be status reset if you swap between build templates with different traits - only different utilities are okay.
-- Do not presymbol in pugs unless you are absolutely sure no one else will trigger the boss, or you will have to learn to play Mace <Specialization name="Dragonhunter" />.
+- It can be useful to create dedicated templates for presymbols and pretraps. Take care not to status reset by swapping between build templates with different traits - only different utilities are okay.
+- Do not presymbol in pugs unless you are absolutely sure no one else will trigger the boss before you, or you will have to learn to play Mace <Specialization name="Dragonhunter" />.
 
 </Card>
 
