@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-23T10:04:18.837Z
+date: 2023-01-23T10:22:21.640Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -82,7 +82,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |||
 |-|-|
-| <Trait name="biggamehunter" size="big" disableText/> |Can be used with very fast phase times. Also gains more value when doing presymbols and pretraps.
+| <Trait name="biggamehunter" size="big" disableText/> |Can be used with very fast phase times. Gains additional value when doing presymbols and pretraps.
 
 </Card>
 
@@ -159,7 +159,7 @@ You should drop <Skill name="Swordofjustice"/> first.
 
 It is very important to maintain <Boon name="Resolution"/> for <Trait name="righteousinstincts" /> and <Trait name="retribution"/>. <Trait name="healersresolution"/> causes your heal skill to apply ~10s of <Boon name="Resolution" />, and <Skill name="symbolofresolution" /> provides ~6s of <Boon name="Resolution" />.
 
-- When beginning phases after splits (e.g. Ensolyss), you likely will not have <Boon name="Resolution" />. It is important to precast <Skill name="litanyofwrath" /> so that you have <Boon name="Resolution" /> during your opener. This is especially important when beginning phases on Longbow as you will not have <Skill name="symbolofresolution" /> up until late in your burst.
+- When beginning phases after splits (e.g. Ensolyss), you likely will not have <Boon name="Resolution" />. Make sure to precast <Skill name="litanyofwrath" /> at the start of these phases so that you have <Boon name="Resolution" /> during your opener. This is especially important when beginning phases on Longbow as you will not have <Skill name="symbolofresolution" /> up until late in your burst.
 
 It may require some attention to maintain permanent <Boon name="Resolution" /> solo. Notable teammates who can aid with <Boon name="Resolution" /> uptime include: 
 - <Specialization name="Firebrand" text="Firebrands" />, if taking 
@@ -209,7 +209,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 - Cast <Skill name="whirlingwrath"/> inside the boss' hitbox so the additional projectiles hit.
 - Cancel your <Skill name="symbolofresolution" /> and <Skill name="bindingblade" /> aftercasts to save time.
-- Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax**, and **Ensolyss**, with some cases at **Artsariiv**, **Arkk**, and **MAMA**.
+- Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax** and **Ensolyss**, but also occurs at **Artsariiv**, **Arkk**, and **MAMA**.
 - If running <Trait name="biggamehunter" /> and precasting traps, symbols, or <Skill name="firestorm"/>, open with <Skill name="spearofjustice"/> as soon as the boss is vulnerable.
 
 </Card>
@@ -332,7 +332,7 @@ This video shows the step-by-step approach to the rotation. Please note that thi
 
 <Card title="Improving Further">
 
-Once you are comfortable with the above steps, you will have grasped most of the rotation. Additional tips can be found on the advanced page if you wish to improve further.
+Once you are comfortable with the above steps, you will have the general concept down. Additional tips can be found on the advanced page if you wish to improve further.
 
 For now, try to:
 
