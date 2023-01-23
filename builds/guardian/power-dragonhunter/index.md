@@ -19,7 +19,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-01-21T23:27:30.462Z
+date: 2023-01-23T08:42:36.434Z
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />. 
@@ -72,24 +72,17 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Advanced>
 
 <Divider text="Build"/>
-<Beginner>
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1963"/>
-</Beginner>
 
-<Advanced>
-<Grid>
-<GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
-</Advanced>
 
 <Advanced>
 <Card title="Situational Traits">
 
 |||
 |-|-|
-| <Trait name="heavylight" size="big" disableText/> |Can be taken on MAMA and Skorvald in faster groups with high exposed uptime. This allows <Skill name="spearofjustice" /> to be skipped or used for CC, and provides extra damage against adds. <Trait name="heavylight" /> is also less punishing and less phase time reliant than <Trait name="biggamehunter" />, making it a safe option for pugs.
+| <Trait name="biggamehunter" size="big" disableText/> |Can be used with very fast phase times. Also gains more value when doing presymbols and pretraps.
 
 </Card>
 
@@ -208,11 +201,14 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 </Card>
 
+
+
 <Card title="Notes on skill usage:">
 
 - Cast <Skill name="whirlingwrath"/> inside the boss' hitbox so the additional projectiles hit.
+- Cancel your <Skill name="symbolofresolution" /> and <Skill name="bindingblade" /> aftercasts to save time.
 - Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax**, and **Ensolyss**, with some cases at **Artsariiv**, **Arkk**, and **MAMA**.
-- In certain scenarios (precasting traps or symbols, starting with <Skill name="firestorm"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
+- If running <Trait name="biggamehunter" /> and precasting traps, symbols, or <Skill name="firestorm"/>, it can be beneficial to get your <Skill name="spearofjustice"/> out first.
 
 </Card>
 
@@ -221,50 +217,36 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <Beginner>
 
 <Card title="Step-by-Step Rotation">
-**Step 1: Greatsword Skills**
+**Step 1: Sword of Justice + Trap**
 
-The first step consists of using <Skill name="Symbol of Resolution"/>, <Skill name="Whirling Wrath"/> and <Skill name="Binding Blade"/> off-cooldown (in this order of priority if multiple come up at the same time).
+Start with <Skill name="swordofjustice"/> and <Skill name="processionofblades" />.
+- <Skill name="swordofjustice" profession="guardian" /> and <Skill name="processionofblades" /> both have a wind up time to deal all their damage. Use them at the start of your opener to maximize your burst.
+- <Skill name="swordofjustice" profession="guardian" /> has 3 charges. The other charges can be used later in the rotation when no priority skills are available.
 
-- <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword.
-- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox due to the additional projectiles.
+**Step 2: Longbow skills**
+
+Next, use <Skill name="symbolofenergy" /> (LB4), <Skill name="huntersward" /> (LB5), and <Skill name="trueshot" /> (LB2). 
+
+- <Skill name="huntersward" /> is easy to cancel by queuing your next skill too early. Be careful not to cancel it with <Skill name="trueshot" />.
+- <Skill name="deflectingshot" /> (LB3) is a CC skill. Use it to deal breakbar damage to bosses or when knockback is needed.
+
+The opener should now look like this:
+
+1. <Skill name="Sword of Justice"/>
+2. <Skill name="Procession of Blades"/>
+3. <Skill name="Symbol of Energy"/>
+4. <Skill name="Hunter's Ward"/>
+5. <Skill name="True Shot"/>
 
 
-**Step 2: Trap + F1 Combo**
+**Step 3: Greatsword Skills**
 
-Next up, it is time to incorporate <Skill name="Spear of Justice"/> and <Skill name="Procession of Blades"/>.
+From here on, cast <Skill name="Symbol of Resolution"/> (GS4) and <Skill name="Whirling Wrath"/> (GS2) off-cooldown.
 
-- Try to always wait until both skills are up again and then cast <Skill name="Procession of Blades"/> first, followed by <Skill name="Spear of Justice"/>.
-- Using <Skill name="Spear of Justice"/> will tether you to your target making you deal increased damage while it is active due to <Trait name="Big Game Hunter"/>.
-- Your trap <Skill name="Procession of Blades"/> deals high damage and you therefore should always cast it while being tethered to your target.
-- If you kill certain enemies, your <Skill name="Spear of Justice"/> will reset due to <Trait name="Renewed Justice"/>. Wait until you get your trap back to cast both of them unless the boss will phase or die before this happens.
+- <Skill name="Symbol of Resolution"/> has a very long aftercast which can be cancelled to save time. This can be done by moving or stowing weapon after the symbol is placed.
+- <Skill name="Whirling Wrath"/> fires additional damaging projectiles outwards. Try to stand inside the boss' hitbox so that these projectiles don't miss.
 
-The opener at this step looks like this:
 
-1. <Skill name="Procession of Blades"/>
-2. <Skill name="Spear of Justice"/>
-3. <Skill name="Symbol of Resolution"/>
-4. <Skill name="Whirling Wrath"/>
-5. <Skill name="Binding Blade"/>
-
-**Step 3: Sword of Justice**
-
-Now it is time to incorporate another strong utility skill, <Skill name="Sword of Justice"/>.
-
-- <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
-- Its recharge time aligns with the cooldown of <Skill name="Spear of Justice"/> so we will always use 1 charge right before we cast our Trap + F1. This will enhance the burst damage further.
-- The other charges may be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get one charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while tethered to an enemy with <Skill name="Spear of Justice"/> for the extra damage.
-
-**Step 4: Additional Greatsword skills**
-
-<Skill name="bindingblade" /> (GS5) and <Skill name="leapoffaith" /> (GS3) can add additional damage or utility depending on the context.
-- <Skill name="Binding Blade"/> fires projectiles at up to 5 nearby enemies. The skill can be recast to pull in hit enemies, grouping adds or dealing breakbar damage to defiant enemies.
-- If standing inside an enemy, additional projectiles from <Skill name="Binding Blade"/> will get blocked by the enemy's hitbox, dealing massive single-target damage. This can be used effectively against bosses.
-- <Skill name="leapoffaith" /> has a blind, a small heal, and can be saved for mobility in fights with moving bosses.
-- If no above situations apply, <Skill name="bindingblade" /> and <Skill name="leapoffaith" /> provide a moderate dps increase over autoattacking.
-
-**Step 4: Longbow skills**
-
-Longbow skills can be used to increase your burst capabilities, which is especially important in fights with short phases. Use <Skill name="symbolofenergy" />, <Skill name="huntersward" /> and <Skill name="trueshot" /> to open a fight before swapping to greatsword. Longbow also adds access to an additional CC skill through <Skill name="deflectingshot" />.
 
 The opener should now look like this:
 
@@ -276,7 +258,31 @@ The opener should now look like this:
 6. Swap to Greatsword
 7. <Skill name="Symbol of Resolution"/>
 8. <Skill name="Whirling Wrath"/>
-9. <Skill name="Binding Blade"/>
+
+
+
+
+**Step 4: Additional Greatsword Skills**
+
+<Skill name="bindingblade" /> (GS5) and <Skill name="leapoffaith" /> (GS3) can add additional damage or utility depending on the context.
+- <Skill name="Binding Blade"/> fires projectiles at up to 5 nearby enemies. The skill can be recast to pull in hit enemies, or to deal breakbar damage to bosses.
+- If standing inside a boss' hitbox, additional projectiles from <Skill name="Binding Blade"/> will all hit the boss, dealing massive single-target damage.
+- <Skill name="leapoffaith" /> can be saved for mobility in fights with movement.
+- If no above situations apply, <Skill name="bindingblade" /> and <Skill name="leapoffaith" /> provide a moderate dps increase over autoattacking. Weave them in after <Skill name="symbolofresolution" /> and <Skill name="whirlingwrath" />.
+
+The opener should now look like this:
+
+1. <Skill name="Sword of Justice"/>
+2. <Skill name="Procession of Blades"/>
+3. <Skill name="Symbol of Energy"/>
+4. <Skill name="Hunter's Ward"/>
+5. <Skill name="True Shot"/>
+6. Swap to Greatsword
+7. <Skill name="Symbol of Resolution"/>
+8. <Skill name="Whirling Wrath"/>
+9. <Skill name="leapoffaith" />
+10. <Skill name="bindingblade" />
+
 
 </Card>
 
@@ -305,13 +311,16 @@ The opener should now look like this:
 Remember to add CC skills when necessary. If the phase lasts longer than this, improvise according to phase end timing.
 
 </Card>
+
+
+
 </Advanced>
 
 <Beginner>
 
 <Card title="Step-by-Step Video">
 
-This video shows the step-by-step approach to the rotation listed on the left.
+This video shows the step-by-step approach to the rotation. Please note that this video focuses on the old rotation utilizing <Trait name="biggamehunter" />.
 
 <Video youtube="03nlPL24KWE" caption="by Ascers"/>
 
@@ -319,15 +328,16 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 <Card title="Improving Further">
 
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great burst damage and good consistent damage.
+Once you are comfortable with the above steps, you will have grasped most of the full rotation. 
 
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+There will be a few additional tips on the advanced page to improve further, but these tips will have a smaller impact than what you have learned so far.
 
-The additional steps are:
+For now, try to:
 
-- Incorporate your Longbow skills into the rotation.
-- Weapon swap more often on fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="True Shot"/> twice on their respective weapon sets.
-- Precasts: You can cast lasting skills such as <Skill name="Symbol of Energy"/> before the fight starts to get your damage up earlier and have 1 less cast in your opener.
+- Employ weapon swap in fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="True Shot"/> twice on their respective weapon sets.
+- Make use of your CC skills to break boss bars faster
+- Start thinking about phase times and how to fit the maximum amount of damage before the boss dies/goes invulnerable
+
 
 </Card>
 
@@ -335,7 +345,7 @@ The additional steps are:
 
 <Card title="Golem Rotation">
 
-This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
+This video shows the full rotation on the golem. It will vary from the step-by-step version as it is optimized for sustained DPS and not Fractals.
 
 <Video youtube="faIaiHFG1qI" caption="by Nagy"/>
 </Card>
@@ -353,3 +363,39 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
   1.  <Skill name="Zealots flurry"/> (Spear 2)
   2.  <Skill name="Symbol of spears"/> (Spear 4)
   3.  <Skill name="brilliance"/> (Spear 3)
+
+<Divider text="Further precasts"/>
+
+<Warning> 
+The following tips are heavily tailored to static groups looking to push their damage, and are not recommended to perform in pugs. 
+</Warning>
+
+<Card title="Pretraps">
+yuh
+</Card>
+
+<Card title="Presymbols">
+Before the boss is triggered, cast symbols by cycling through weapons in your inventory.
+
+Here is a list of the available symbols: <Skill name="symbolofswiftness" />, <Skill name="symbolofpunishment" />, <Skill name="symboloffaith" />, <Skill name="symbolofblades" />, <Skill name="symbolofenergy" />, <Skill name="symbolofresolution" />.
+
+- <Skill name="symboloffaith" /> has the longest cast time and drops at your location at the end of the cast, so it is recommended to start with this while running in.
+
+Here is a sample presymbol skill order:
+1. <Skill name="symboloffaith" /> while running in
+2. <Skill name="symbolofswiftness" />
+3. <Skill name="symbolofpunishment" />
+4. Swap to main weapon and trigger boss
+
+You may wish to add/remove symbols to your precast depending on personal speed or timers on buffs (such as <Skill name="onewolfpack" />). Do note that it is not worth casting 6 symbols as your oldest symbol will have expired by the time the boss triggers.
+
+Presymbols especially are not recommended in pugs as you will get stuck on the wrong weapon when someone triggers the boss.
+
+- In fast phase times, it can be worth to use <Skill name="symbolofresolution" /> and/or <Skill name="symbolofenergy" /> in your precast. With slower phases, it may be better to use them in-phase so that no ticks are missed.
+- It can be useful to create dedicated templates for presymbols and pretraps. Do note that you will have get status reset if you swap between templates with different traits - only different utilities are okay.
+- If <Skill name="processionofblades" /> or <Skill name="lightsjudgment" /> are swapped off of your utility bar, they will disappear. All other traps are unaffected.
+- Do not presymbol in pugs unless you are absolutely sure no one else will trigger the boss, or you will have to learn to play Mace <Specialization name="Dragonhunter" />.
+
+</Card>
+
+
