@@ -13,17 +13,14 @@ boons:
   - name: Might
     uptime: 9 stacks
     variant: party
-  - name: Quickness
-    uptime: 100% (35% on DPS variant)
-    variant: party
-code: "[&DQYfHSkbQyb+GgAAvgEAAPgaAADuGgAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQYfHSkbQyb+GgAAUAEAAPgaAAC+AQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2023-01-05T06:31:01.243Z
+date: 2023-01-27T21:20:48.049Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
