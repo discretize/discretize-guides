@@ -76,9 +76,7 @@ traits3="Harbinger" traits3Selected="Septic Corruption , Dark Gunslinger, Doom A
 <Card title="Quickness Variant">
 
 Use this setup if you are responsible for providing Quickness to your group.
-<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse"
-traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire"
-traits3="Harbinger" traits1Selected="Septic Corruption , Twisted Medicine, Deathly Haste" unembossed/>
+<Traits traits1="Harbinger" traits1Selected="Septic Corruption , Twisted Medicine, Deathly Haste" unembossed/>
 
 </Card>
 </GridItem>
