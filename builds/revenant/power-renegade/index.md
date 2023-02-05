@@ -101,6 +101,22 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
 </Card>
+<Card title="Dealing with No Pain, No Gain">
+
+<Warning>
+
+Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build. 
+</Warning>
+
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/> 
+
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
+
+<div style={{marginBottom: "16px"}} />
+
+As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+
+</Card>
 </GridItem>
 
 <GridItem sm="4">
@@ -290,35 +306,3 @@ For more information about advanced rotation and gameplay refer to [Static Reneg
 </GridItem>
 
 </Grid>
-
-<Card title="Dealing with No Pain, No Gain">
-
-<Warning>
-
-Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>.
-</Warning>
-
-<Grid>
-
-<GridItem xs="12" sm="6">
-
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message.
-
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
-
-<div style={{marginBottom: "16px"}} />
-
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
-</GridItem>
-
-<GridItem xs="12" sm="6">
-
-<Card title="">
-<Video caption="NPNG Arkk Pug Guide." youtube="jZzoP8yMd8w"/>
-<Video caption="NPNG Arkk Pug Pov." youtube="vB2vizzgYiI"/>
-
-</Card>
-</GridItem>
-</Grid>
-</Card>

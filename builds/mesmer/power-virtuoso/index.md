@@ -60,9 +60,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Card title="Extra Weapons">
 
-- You can run Sword/Focus instead of Greatsword. This will result in lower burst damage but slightly higher sustained damage. Therefore, it can make sense to run this version when bosses have long phases. Above 10 seconds into the phase, they will be roughly equal, at 25 seconds, the Sword/Focus variant will pull ahead slightly.
+- You can run Sword/Focus instead of Greatsword. This variant is very useful to use in T4 fractals to pull groups of enemies together with <Skill name="Temporal Curtain"/> to cleave them down more easily.
 - If you want to run one variant on all fights, Greatsword is highly recommended.
-- Focus specifically is very useful to use in T4 fractals to pull groups of enemies together with <Skill name="Temporal Curtain"/> to cleave them down more easily.
 
 <Advanced>
 
@@ -137,10 +136,11 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 |                                                                |                                                                                                                                                                                            |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
+| <Skill name="Sword of Decimation" size="big" disableText/>     | An alternative for <Skill name="Phantasmal Disenchanter"/> on fights with <Effect name="Exposed"/>, and phases that are too quick to use it.                                     |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                         |
 | <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
-| <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
+| <Skill name="Feedback" size="big" disableText/>                | USed fore reflects on bosses such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect lasers.                                                                                        |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
 | **Skips**                                                      |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
