@@ -2,7 +2,7 @@
 title: Condi Weaver
 rating: Good
 role: Condi Damage
-archive: false
+archive: true
 hidden: false
 profession: Elementalist
 specialization: Weaver
