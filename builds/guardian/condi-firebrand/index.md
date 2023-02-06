@@ -51,7 +51,7 @@ The advanced page provides a more complete overview of all the utilities the <Sp
 
 <Information>
 
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+Although this build lists 150 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
 
 </Information>
 
@@ -84,11 +84,9 @@ There are several different gear, utility, and trait setups that allow you to ma
 
 <Divider text="Equipment"/>
 
-Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you need to take extra boon duration.
-
-This setup is the same as the Raid/Strike <Specialization name="Firebrand" text="Condi Quickbrand"/> build. The only difference is due to the extra <Attribute name="boon duration"/> gained from <Item id="75427"/>, you can safely run <Trait name="Legendary Lore"/> for more damage. While it deals a bit less damage than the <Item id="24765"/> builds, it allows you to use the same build in multiple areas of the game.
-
-If you have short phases and are confident maintaing <Boon name="Quickness"/>, <Instability name="Boon Overload"/> or you have over 195 <Attribute name="Agony Resistance"/>, you can use <Item id="48917"/>.
+<Beginner>
+<CharacterWithAr>
+<Character title="Condi DPS Firebrand" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":20620,"Armor":2496,"Power":2909,"Precision":1842,"Toughness":1225,"Vitality":1710,"Ferocity":150,"Condition Damage":3030,"Expertise":451,"Concentration":225,"Healing Power":250,"Agony Resistance":150,"Condition Duration":0.30066666666666664,"Boon Duration":0.15,"Critical Chance":0.800952380952381,"Critical Damage":1.6,"Power Coefficient":2278.9459,"Power2 Coefficient":0,"Burning Coefficient":17.689199999999996,"Bleeding Coefficient":6.32,"Poison Coefficient":0,"Torment Coefficient":1.31,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":6810.415739285714,"NonCrit Effective Power":4599.85625,"Power DPS":5976.345408679495,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":305.7,"Bleeding Stacks":8.220213333333334,"Bleeding DPS":2512.919216,"Burning Damage":991.0725,"Burning Stacks":35.37839999999999,"Burning DPS":35062.55933399999,"Confusion Damage":359.80500000000006,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":322.95,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":456.75,"Torment Stacks":1.7038733333333334,"Torment DPS":778.244145,"Damage":44469.818103679485,"Effective Health":102422925.37313434,"Survivability":52070.62804938197,"Effective Healing":465,"Healing":465}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":44944,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24605,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":41714,"utility1Id":40915,"utility2Id":9187,"utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,587,622],[2101,2063,2179]],"lines":[16,46,62]}}'>
 
 You will want the following weapons to swap to during fractal runs:
 
@@ -96,14 +94,36 @@ You will want the following weapons to swap to during fractal runs:
 - A staff for <Boon name="Might"/> pre-stacking.
 - If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
 
+</Character>
+</CharacterWithAr>
+</Beginner>
+
+<Advanced>
+<CharacterWithAr>
+<Character title="Condi Quickbrand" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":20620,"Armor":2496,"Power":2909,"Precision":1842,"Toughness":1225,"Vitality":1710,"Ferocity":150,"Condition Damage":3120,"Expertise":451,"Concentration":225,"Healing Power":250,"Agony Resistance":150,"Condition Duration":0.30066666666666664,"Boon Duration":0.15,"Critical Chance":0.800952380952381,"Critical Damage":1.6,"Power Coefficient":2278.9459,"Power2 Coefficient":0,"Burning Coefficient":17.689199999999996,"Bleeding Coefficient":6.32,"Poison Coefficient":0,"Torment Coefficient":1.31,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":6810.415739285714,"NonCrit Effective Power":4599.85625,"Power DPS":5976.345408679495,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":313.79999999999995,"Bleeding Stacks":8.220213333333334,"Bleeding DPS":2579.502944,"Burning Damage":1014.0900000000001,"Burning Stacks":35.37839999999999,"Burning DPS":35876.881656,"Confusion Damage":369.12,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":331.04999999999995,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":468.90000000000003,"Torment Stacks":1.7038733333333334,"Torment DPS":798.9462060000001,"Damage":45371.42621467949,"Effective Health":102422925.37313434,"Survivability":52070.62804938197,"Effective Healing":465,"Healing":465}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":44944,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24605,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Sinister","accessory1InfusionId":37130,"accessory2Affix":"Sinister","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":41714,"utility1Id":40915,"utility2Id":9187,"utility3Id":9128,"eliteId":29965},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,587,622],[2101,2063,2179]],"lines":[16,46,62]}}'>
+
+While there are different trait and skill variations for <Specialization name="Firebrand" text="Condi Firebrand"/>, they all use the same base gear shown below. For DPS and Quickshare skills and Traits, check the Build section below! 
+
+You will want the following weapons to swap to during fractal runs:
+
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- If you have low might uptime you can change <Item id="48911"/> to <Item id="24562"/>.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear if you are struggling to maintain <Boon name="Quickness"/> and need to take extra boon duration. If you do not want to use the optimizer, you can swap Vipers gear to Ritualist.
+  
+</Character>
+</CharacterWithAr>
+</Advanced>
+
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="7">
   
 <Advanced>
-<Card title="Quickshare Traits">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
+<Card title="Quickbrand Traits">
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster" unembossed/>
 </Card>
 </Advanced>
 
@@ -122,7 +142,7 @@ This trait setup provides roughly 50% <Boon name="Quickness"/> uptime and is bes
 <Advanced>
 <Divider text="Build Variants"/>
 
-<Card title="Full DPS variant">
+<Card title="DPS variant">
 
 You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
 
@@ -132,13 +152,13 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 
 </Card>
 
-<Card title="Solo Quickness Variant">
+<Card title="Quickshare Variant">
 
-This build assumes you are playing in a comp and need to provide 100% <Boon name="Quickness"/>. If you use the 70% <Attribute name="Boon Duration"/> raid build remember to swap to <Trait name="Legendary Lore"/>
+This build assumes you are playing in a comp with a second <Specialization name="Firebrand"/>, who is will take <Skill name="Mantra of Potence"/> to allow you to play more offensively.
 
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Feel my Wrath" unembossed/>
+<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Mantra of Liberation" unembossed/>
 
-<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Weighty Terms,Loremaster" unembossed/>
+<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
 
 </Card>
 
