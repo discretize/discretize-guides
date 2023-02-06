@@ -123,12 +123,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear
   
 <Advanced>
 <Card title="Quickbrand Traits">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Loremaster" unembossed/>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Quickfire" unembossed/>
 </Card>
 </Advanced>
 
 <Beginner>
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Loremaster"/>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Quickfire"/>
 </Beginner>
 
 <Advanced>
@@ -148,7 +148,7 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 
 <Skills heal="Mantra of Solace" utility1="purgingflames" utility2="" utility3="Sanctuary" elite="Mantra of Liberation" unembossed/>
 
-<Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Loremaster" unembossed/>
+<Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Quickfire" unembossed/>
 
 </Card>
 
@@ -158,7 +158,7 @@ This build assumes you are playing in a comp with a second <Specialization name=
 
 <Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Mantra of Liberation" unembossed/>
 
-<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Loremaster" unembossed/>
+<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Quickfire" unembossed/>
 
 </Card>
 
