@@ -1,13 +1,8 @@
 ---
-title: Condi Mirage
+title: Staxe Mirage
 rating: Good
 role: Condi Damage
 profession: Mesmer
-skills:
-  - 45717
-  - 12498
-  - 12508
-  - 46432
 classification:
   - 5
   - 4
@@ -17,16 +12,18 @@ classification:
 specialization: Mirage
 code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
 date: 2022-01-12T02:05:45.106Z
+Boons:
+  - name: Might
+    uptime: 25 Stacks
+    variant: party
+  - name: Alacrity
+    uptime: 55%
+    variant: party
 conditions:
+  - name: Torment
+  - name: Confusion
   - name: Bleeding
-  - name: Poisoned
-  - name: Burning
 cmGuide: ''
-benchmark:
-  small:
-    dps: 36197
-    by: Eren
-    youtube: WSuDmiuAwC8
 hidden: true
 archive: false
 ---
@@ -36,25 +33,23 @@ archive: false
 This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
 </Warning>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage and reasonable burst that also provides strong party buffs with <Skill name="Sun Spirit"/> and <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group are playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
-
-This build is rather self sufficient due to:
-
-- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
-
-- Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
-
-- High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
-
-Overall this is a very well rounded build that is rewarding to play in both PuGs and organized teams alike.
+Insert introduction here
 
 <Divider text="Equipment"/>
+
+<CharacterWithAr>
+<Character title="Staxe Mirage" gear='{"attributes":{"profession":"Mesmer","specialization":"Mirage","data":{"Health":20522,"Armor":2192,"Power":2923,"Precision":1633,"Toughness":1225,"Vitality":1460,"Ferocity":0,"Condition Damage":2803,"Expertise":1198,"Concentration":475,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.9986666666666666,"Boon Duration":0.31666666666666665,"Critical Chance":0.6014285714285714,"Critical Damage":1.5,"Clone Critical Chance":0.3514285714285714,"Phantasm Critical Chance":0.3514285714285714,"Phantasm Critical Damage":1.5,"Power Coefficient":1670,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":14.467571428571429,"Poison Coefficient":0.7,"Torment Coefficient":19.97,"Confusion Coefficient":6.18,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":5702.981785714286,"NonCrit Effective Power":4384.5,"Power DPS":3667.3005707134607,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":309.0425,"Bleeding Stacks":28.915852761904763,"Bleeding DPS":8936.227427170954,"Burning Damage":918.8806249999999,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":364.336375,"Confusion Stacks":12.351759999999999,"Confusion DPS":4500.195463269999,"Poison Damage":327.73,"Poison Stacks":1.3990666666666665,"Poison DPS":458.5161186666666,"Torment Damage":461.61375,"Torment Stacks":39.91337333333333,"Torment DPS":18424.56193955,"Damage":36126.55151937108,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":86113},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":86113,"weapon1OffId":30693,"weapon1OffType":"Pistol","weapon1OffSigilId":24615,"weapon1OffAffix":"Viper","weapon1OffInfusionId":86113,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":44944,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":86113,"weapon2MainInfusion2Id":86113,"weapon2MainSigil2Id":24615},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":86113,"backItemInfusion2Id":86113,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":86113,"ring1Infusion2Id":86113,"ring1Infusion3Id":86113,"ring2Affix":"Viper","ring2Infusion1Id":86113,"ring2Infusion2Id":86113,"ring2Infusion3Id":86113,"accessory1Affix":"Viper","accessory1InfusionId":86113,"accessory2Affix":"Viper","accessory2InfusionId":86113},"consumables":{"foodId":91878,"utilityId":77567},"skills":{"healId":21750,"utility1Id":10234,"utility2Id":10232,"utility3Id":41065,"eliteId":45449},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[670,669,671],[700,1889,1950],[2110,2098,2070]],"lines":[45,1,59]}}'>
+
+This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spiteful +9 Agony Infusion"/>. However you can also run 11 <Item name="Malign +9 Agony Infusion"/> and 7 <Item name="Spiteful +9 Agony Infusion"/> with <Item id="91876"/>, giving you the same stats. 
+  
+</Character>
+</CharacterWithAr>
 
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="33" traits1="Wilderness Survival" traits1SelectedIds="1099,1101,1701" traits2Id="30" traits2="Skirmishing" traits2SelectedIds="1069,1846,1912" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2161,2128"/>
+<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,671" traits3Id="59" traits3="Mirage" traits3SelectedIds="2110,2098,2070"/>
 </GridItem>
 
 <GridItem sm="5">
