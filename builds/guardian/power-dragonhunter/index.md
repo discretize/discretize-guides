@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: 2023-02-13T23:13:54.790Z
+date: 2023-02-13T23:24:42.133Z
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -90,7 +90,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |||
 |-|-|
-| <Trait name="biggamehunter" size="big" disableText/> |Can be used with very fast phase times. Gains additional value when doing presymbols and pretraps.
+| <Trait name="biggamehunter" size="big" disableText/> |Can be used when phase times aren't too fast, or when there's enough time to precast <Skill name="spearofjustice"/> before the boss appears. Gains additional value when doing symbol and trap precasting. It is an excellent trait on encounters such as Ensolyss, Artsariiv, Arkk and Siax.
 
 </Card>
 
