@@ -1,7 +1,7 @@
 ---
 title: dT Daily Comp
 date: 2022-08-10T22:20:53.987Z
-image: ./images/preview.png
+image: ./images/mama.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
 
