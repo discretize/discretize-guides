@@ -26,7 +26,7 @@ boons:
     uptime: 100%
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2023-01-03T22:45:14.440Z
+date: 2023-02-14T12:25:26.836Z
 ---
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. 
 
@@ -113,9 +113,10 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 <Card title="Burst Rotation">
 
 1.  <Skill name="Burst of Strength"/>
-1.  <Skill name="Chilling Isolation"/>
-1.  <Skill name="Shackling Wave"/>
-1.  <Skill name="Deathstrike"/>
+2.  <Skill name="Elemental Blast" />
+3.  <Skill name="Chilling Isolation"/>
+4.  <Skill name="Shackling Wave"/>
+5.  <Skill name="Deathstrike"/>
 
 Ideally you would want to do your burst rotation when the enemy is under the effect of <Effect name="Exposed"/>.
 
