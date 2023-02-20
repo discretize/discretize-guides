@@ -70,8 +70,8 @@ In this section you can find links to different parts of the site with informati
 | MAMA         |     |     |        |
 | Siax         |     |     |        |
 | Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
+| Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s) | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor) | Hyp   |
+| Artsariiv    | [Link](https://youtu.be/_hC6OKkqvjY) | [DPS.Report](https://dps.report/lOsT-20230217-221106_arriv) | Hyp   |
 | Arkk         |     |     |        |
 
 </Tab>
@@ -171,8 +171,8 @@ In this section you can find links to different parts of the site with informati
 
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
-| Elemental Ai |     |     |        |
-| Dark Ai      |     |     |        |
+| Elemental Ai | [Link](https://youtu.be/gG1vvlHn4kM) | [DPS.Report](https://dps.report/9nHZ-20220924-222032_ai) | Jetrell |
+| Dark Ai      | [Link](https://youtu.be/ewdKTjtD4AY) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Jetrell |
 
 </Tab>
 <Tab specialization="Harbinger">
