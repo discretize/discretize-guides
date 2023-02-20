@@ -1,6 +1,6 @@
 ---
 title: CM Profession Guides
-date: 2022-04-05T23:55:00.885Z
+date: 2023-01-01T23:55:00.885Z
 image: ./images/arkk.jpg
 description: A collection of profession specific CM guides!
 ---
@@ -18,23 +18,6 @@ These guides provide an in depth description on how to deal damage in CMs. Our g
 </GridItem>
 </Grid>
 
-<Warning>
-These guides have not been updated for multiple patches. The information you find here might be outdated, irrelevant or reffering to build variations that are no longer used. However plenty of the information here is usable or can be adapted to current patch, making them worth keeping.
-</Warning>
-
-## Pick up Group Guides
-
-This guides are meant to be applied to slower groups (what you commonly find in LFG).
-
-| Build                                                           | Type | Link                                              |
-| --------------------------------------------------------------- | ---- | ------------------------------------------------- |
-| <BuildLink build="Heal Firebrand" specialization="Firebrand"/>  | PuG  | [guide](/cm-guides/guardian/heal-firebrand/pug)   |
-| <BuildLink build="Power Renegade" specialization="Renegade"/>   | PuG  | [guide](/cm-guides/revenant/power-renegade/pug)   |
-| <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | PuG  | [guide](/cm-guides/ranger/power-soulbeast/pug)    |
-| <BuildLink build="Power Berserker" specialization="Berserker"/> | PuG  | [guide](/cm-guides/warrior/power-berserker/pug)   |
-| <BuildLink build="Power Reaper" specialization="Reaper"/>       | PuG  | [guide](/cm-guides/necromancer/power-reaper/pug)  |
-| <BuildLink build="Power Weaver" specialization="Weaver"/>       | PuG  | [guide](/cm-guides/elementalist/power-weaver/pug) |
-
 <Divider />
 
 ## Static Groups
@@ -47,9 +30,36 @@ These guides also apply to a certain degree in PuGs
 
 | Build                                                                 | Type   | Link                                                   |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------ |
-| <BuildLink build="Power Firebrand" specialization="Firebrand"/>       | Static | [guide](/cm-guides/guardian/power-firebrand/static)    |
-| <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static) |
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)     |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/power-soulbeast/static)      |
+| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/engineer/power-scrapper/static)     |
+
+<Divider />
+
+## Pick up Group Guides
+
+This guides are meant to be applied to slower groups (what you commonly find in LFG).
+
+| Build                                                           | Type | Link                                              |
+| --------------------------------------------------------------- | ---- | ------------------------------------------------- |
+| <BuildLink build="Heal Firebrand" specialization="Firebrand"/>  | PuG  | [guide](/cm-guides/guardian/heal-firebrand/pug)   |
+| <BuildLink build="Power Renegade" specialization="Renegade"/>   | PuG  | [guide](/cm-guides/revenant/power-renegade/pug)   |
+
+<Divider />
+
+## Outdated Guides
+<Warning>
+These guides have not been updated for multiple patches. The information you find here might be outdated, irrelevant or reffering to build variations that are no longer used. However plenty of the information here is usable or can be adapted to current patch, making them worth keeping.
+</Warning>
+
+
+| Build                                                                 | Type   | Link                                                   |
+| --------------------------------------------------------------------- | ------ | ------------------------------------------------------ |
+| <BuildLink build="Power Firebrand" specialization="Firebrand"/>       | Static | [guide](/cm-guides/guardian/power-firebrand/static)    |
+| <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static) |
 | <BuildLink build="Power Berserker" specialization="Berserker"/>       | Static | [guide](/cm-guides/warrior/power-berserker/static)     |
 | <BuildLink build="Power Weaver" specialization="Weaver"/>             | Static | [guide](/cm-guides/elementalist/power-weaver/static)   |
+| <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | PuG    | [guide](/cm-guides/ranger/power-soulbeast/pug)         |
+| <BuildLink build="Power Berserker" specialization="Berserker"/>       | PuG    | [guide](/cm-guides/warrior/power-berserker/pug)        |
+| <BuildLink build="Power Reaper" specialization="Reaper"/>             | PuG    | [guide](/cm-guides/necromancer/power-reaper/pug)       |
+| <BuildLink build="Power Weaver" specialization="Weaver"/>             | PuG    | [guide](/cm-guides/elementalist/power-weaver/pug)      |
