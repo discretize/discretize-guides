@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-02-20T17:10:44.469Z
+date: 2023-02-20T17:38:58.424Z
 ---
 <Boss name="mama" video="pfWrGs3yT3g" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
@@ -356,11 +356,9 @@ date: 2023-02-20T17:10:44.469Z
 </IdealRotation>
 </Phase>
 
-<Boss name="skorvald" video="" videoCreator="" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Elemental Slaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="skorvald" video="ZniVzbYwyJI" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Impact" weapon2MainSigil2="Force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait name="Oppressive Superiority"/>.
-- With good instabilities, use <Item id="73191"/> as Utility food.
+- Suggested Boon Duration: `35%`
 
 </Boss>
 
@@ -375,15 +373,14 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
-8.  <Skill name="Frost Trap"/>
-9.  <Skill name="One Wolf Pack"/>
+
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
+
 
 </IdealRotation>
 </Phase>
@@ -396,15 +393,16 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. _Weapon Swap_
-3. <Skill name="Path of Scars"/> (Axe 4)
-4. <Skill id="45743"/> (F2)
-5. <Skill name="Sic Em"/>
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Worldly Impact"/> (F3)
-9. <Skill name="Whirling Defense"/> (Axe 5)
+1. Precast 
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="legendarydwarfstance" />
+    4. <Skill name="legendaryrenegadestance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="surgeofthemists" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
@@ -427,22 +425,25 @@ date: 2023-02-20T17:10:44.469Z
 <IdealRotation>
 
 **Island 1**
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Path of Scars"/> (Axe 4)
+1. <Skill name="inspiringreinforcement" />
+2. <Skill name="ordersfromabove" />
+3. <Skill name="chillingisolation" />
 
 **Island 2**
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Winters Bite"/> (Axe 3)
+1. <Skill name="chillingisolation" />
+2. <Skill name="heroiccommand" />
 
 **Island 3**
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. _Weapon Swap_
+1. <Skill name="inspiringreinforcement" />
+2. <Skill name="legendaryrenegadestance" />
+1. <Skill name="shacklingwave" />
+3. <Skill name="chillingisolation" />
 
 **Island 4**
-1. <Skill name="Rapid Fire"/> (Longbow 2)
-2. <Skill name="Point Blank Shot"/> (Longbow 4)
-3. _Weapon Swap_
+1. <Skill name="heroiccommand" />
+2. <Skill name="ordersfromabove" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="chillingisolation" />
 
 </IdealRotation>
 </Phase>
@@ -455,25 +456,21 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/> (Phase 3)
-3. <Skill name="Sic Em"/>
-4. <Skill name="Frost Trap"/>
-5. _Weapon Swap_
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Path of Scars"/> (Axe 4)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
+1. <Skill name="icerazorsire" />
+2. <Skill name="heroiccommand" />
+3. <Skill name="legendarydwarfstance" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="chillingisolation" />
 
 </IdealRotation>
 </Phase>
 
-<Boss name="artsariiv" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Severance" weapon2OffInfusionId="37131">
+<Boss name="artsariiv" video="TyNmd6b5z4w" timestamp="" videoCreator="Inky [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait name="Oppressive Superiority"/> and <Trait name="Trappers Expertise"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
+- Suggested Boon Duration: `35%`
+- Lower boon duration when possible.
 
 </Boss>
 
@@ -488,13 +485,13 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1. Precast <Boon name="Resistance" /> with <Skill name="painabsorption" />
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
 </IdealRotation>
 </Phase>
@@ -507,20 +504,17 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="One Wolf Pack"/>
-2. <Skill name="Barrage"/> (Longbow 5)
-3. <Skill name="Sic Em"/>
-4. _Weapon Swap_
-5. <Skill name="Frost Trap"/>
-6. <Skill name="Path of Scars"/> (Axe 4)
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
-11. <Skill name="Splitblade"/> (Axe 2)
-12. <Skill name="Leave Beastmode"/>
-13. _Weapon Swap_
-14. <Skill name="Rapid Fire"/> (Longbow 2)
+1. Precast
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="legendarydwarfstance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="legendaryrenegadestance" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="unrelentingassault" />
+8. Weapons Swap
 
 </IdealRotation>
 </Phase>
@@ -533,10 +527,8 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill id="43636"/> (F2)
-2. <Skill name="Beastmode"/>
-3. <Skill id="45743"/> (F2)
-4. <Skill name="Point Blank Shot"/> (Longbow 4)
+1. <Skill name="darkrazorsdaring" />
+2. <Skill name="surgeofthemists" />
 
 </IdealRotation>
 </Phase>
@@ -549,17 +541,18 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/> (Phase 3)
-3. _Weapon Swap_
-4. <Skill name="Sic Em"/>
-5. <Skill name="Frost Trap"/>
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Path of Scars"/> (Axe 4)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
-11. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="ordersfromabove" />
+2. <Skill name="heroiccommand" />
+3. <Skill name="icerazorsire" />
+4. <Skill name="shacklingwave" />
+5. <Skill name="chillingisolation" />+
+6. <Skill name="deathstrike" />
+7. <Skill name="legendarydwarfstance" />
+7. <Skill name="inspiringreinforcement" />
+8. <Skill name="unrelentingassault" />
+9. <Skill name="citadelbombardment" />
+10. <Skill name="chillingisolation" />
+11. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -600,13 +593,12 @@ date: 2023-02-20T17:10:44.469Z
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
 </IdealRotation>
 </Phase>
