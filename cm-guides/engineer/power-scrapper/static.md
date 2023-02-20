@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-02-20T00:46:27.754Z
+date: 2023-02-20T13:47:40.204Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -161,11 +161,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
-
-- Pet: <Skill id="44617" disableText/> Red Moa
-- Take <Trait name="Oppressive Superiority"/>.
-- Remember to use <Item id="24658"/> for this encounter!
+<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Frenzy" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131">
 
 </Boss>
 
@@ -194,20 +190,20 @@ disableBosses:
 <Phase>
 <CMInformation title="Phase 1">
 <InformationBlock title="Overview">
-If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Scars"/> untill after <Skill name="Winters Bite"/>.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. _Weapon Swap_
-3. <Skill name="Frost Trap"/>
-4. <Skill name="Path of Scars"/> (Axe 4)
-5. <Skill name="Sic Em"/>
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Worldly Impact"/> (F3)
-9. <Skill name="Frenzied Attack"/> (F2)
+1. Precast
+    1. <Skill name="minefield" />
+    2. <Skill name="shreddergyro" />
+    3. <Skill name="thunderclap" profession="engineer" />
+2. <Skill name="electrowhirl" />
+3. <Skill name="shrapnelgrenade" />
+4. <Skill name="grenadebarrage" />
+5. <Skill name="throwmine" />
+6. <Skill name="freezegrenade" />
+7. <Skill name="functiongyro" />
 
 </IdealRotation>
 </Phase>
@@ -220,8 +216,11 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Ricochet"/> (Axe 1)
+1. <Skill name="poisongasshell" />
+2. <Skill name="endothermicshell" />
+3. <Skill name="flashshell" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
 
 </IdealRotation>
 </Phase>
@@ -234,14 +233,17 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="One Wolf Pack"/>
-2.  <Skill name="Splitblade"/> (Axe 2)
-3.  <Skill name="Winters Bite"/> (Axe 3)
-4.  <Skill name="Path of Scars"/> (Axe 4)
-5.  <Skill name="Whirling Defense"/> (Axe 5)
-6.  <Skill name="Splitblade"/> (Axe 2)
-7.  _Weapon Swap_
-8.  <Skill name="Frenzied Attack"/> (F2)
+1. <Skill name="medicgyro" />
+2. <Skill name="electrowhirl" />
+3. <Skill name="shrapnelgrenade" />
+4. <Skill name="poisongrenade" />
+5. <Skill name="thunderclap" profession="engineer" />
+6. <Skill name="shreddergyro" />
+7. <Skill name="minefield" />
+8. <Skill name="throwmine" profession="engineer" />
+9. <Skill name="electrowhirl" />
+10. <Skill name="shrapnelgrenade" />
+11. <Skill name="freezegrenade" />
 
 </IdealRotation>
 </Phase>
@@ -254,8 +256,11 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Point Blank Shot"/> (Longbow 4)
-2. <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="poisongasshell" />
+2. <Skill name="endothermicshell" />
+3. <Skill name="flashshell" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
 
 </IdealRotation>
 </Phase>
@@ -268,26 +273,23 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Barrage"/> (Longbow 5)
-2.  <Skill name="Sic Em"/>
-3.  <Skill name="Frost Trap"/>
-4.  _Weapon Swap_
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  <Skill name="Winters Bite"/> (Axe 3)
-7.  <Skill name="Path of Scars"/> (Axe 4)
-8.  <Skill name="Worldly Impact"/> (F3)
-9.  <Skill name="Whirling Defense"/> (Axe 5)
-10. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="medicgyro" />
+2. <Skill name="shreddergyro" />
+3. <Skill name="thunderclap" profession="engineer" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="grenadebarrage" />
+7. <Skill name="minefield" />
+7. <Skill name="throwmine" profession="engineer" />
+9. <Skill name="poisongrenade" />
+10. <Skill name="freezegrenade" />
 
 </IdealRotation>
 </Phase>
 
-<Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+<Boss name="ensolyss" video="" videoCreator="" foodId="91805" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait id="2128"/> and <Trait name="Potent Ally"/>.
-- Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
-- One <Specialization name="Soulbeast"/> should swap <Skill id="12491"/> for <Skill id="45970"/> to allow your your <Specialization name="Renegade"/> to play more offensively and maintain <Boon name="Alacrity"/>.
+
 
 </Boss>
 
@@ -321,19 +323,17 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Frost Trap"/>
-4. <Skill name="Sic Em"/>
-5. <Skill id="45743"/> (F2)
-6. <Skill name="Point Blank Shot"/> (Longbow 4)
-7. _Weapon Swap_
-8. <Skill name="Splitblade"/> (Axe 2)
-9. <Skill name="Winters Bite"/> (Axe 3)
-10. <Skill name="Path of Scars"/> (Axe 4)
-11. <Skill name="Worldly Impact"/> (F3)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="blastgyro" />
+2. <Skill name="thunderclap" profession="engineer" />
+3. <Skill name="throwmine" profession="engineer" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="poisongrenade" />
+7. <Skill name="freezegrenade" />
+8. <Skill name="functiongyro" />
+9. <Skill name="bypasscoating" />
+8. <Skill name="grenadebarrage" />
+9. ...
 
 </IdealRotation>
 </Phase>
@@ -346,29 +346,27 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill id="41524"/> (F1)
-3. <Skill name="One Wolf Pack"/>
-4. <Skill name="Frost Trap"/>
-5. <Skill name="Sic Em"/>
-6. <Skill id="45743"/> (F2)
-7. <Skill name="Point Blank Shot"/> (Longbow 4)
-8. _Weapon Swap_
-9. <Skill name="Splitblade"/> (Axe 2)
-10. <Skill name="Winters Bite"/> (Axe 3)
-11. <Skill name="Path of Scars"/> (Axe 4)
-12. <Skill name="Worldly Impact"/> (F3)
-13. <Skill name="Whirling Defense"/> (Axe 5)
-14. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="medicgyro" />
+2. <Skill name="blastgyro" />
+3. <Skill name="minefield" /> (SPAWN)
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="thunderclap" profession="engineer" />
+7. <Skill name="throwmine" profession="engineer" />
+8. <Skill name="functiongyro" />
+9. <Skill name="bypasscoating" />
+8. <Skill name="detonateminefield" /> 
+9. <Skill name="grenadebarrage" />
+9. <Skill name="electrowhirl" />
+10. <Skill name="shrapnelgrenade" />
+11. <Skill name="poisongrenade" />
+12. <Skill name="freezegrenade" />
+13. <Skill name="minefield" />
 
 </IdealRotation>
 </Phase>
 
-<Boss name="skorvald" video="" videoCreator="" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Elemental Slaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
-
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait name="Oppressive Superiority"/>.
-- With good instabilities, use <Item id="73191"/> as Utility food.
+<Boss name="skorvald" video="" videoCreator="" foodId="43360" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="30815" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" >
 
 </Boss>
 
@@ -404,15 +402,17 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. _Weapon Swap_
-3. <Skill name="Path of Scars"/> (Axe 4)
-4. <Skill id="45743"/> (F2)
-5. <Skill name="Sic Em"/>
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Worldly Impact"/> (F3)
-9. <Skill name="Whirling Defense"/> (Axe 5)
+1. <Skill name="bigolbomb" />
+2. <Skill name="blastgyro" />
+3. <Skill name="minefield" />
+3. <Skill name="thunderclap" profession="engineer" />
+4. <Skill name="throwmine" profession="engineer" />
+5. <Skill name="electrowhirl" />
+6. <Skill name="shrapnelgrenade" />
+7. <Skill name="poisongrenade" />
+8. <Skill name="detonateminefield" />
+9. <Skill name="grenadebarrage" />
+10. <Skill name="functiongyro" /> on the way to island 1
 
 </IdealRotation>
 </Phase>
@@ -435,22 +435,23 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 <IdealRotation>
 
 **Island 1**
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Path of Scars"/> (Axe 4)
+1. <Skill name="electrowhirl" />
+2. <Skill name="sneakgyro" />
+3. <Skill name="rocketcharge" /> LEAP
 
 **Island 2**
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Winters Bite"/> (Axe 3)
+1. <Skill name="medicgyro" />
+2. <Skill name="shockshield" />
+3. <Skill name="throwmine" />
 
 **Island 3**
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. _Weapon Swap_
+1. <Skill name="functiongyro" />
+2. <Skill name="electrowhirl" />
+3. <Skill name="rocketcharge" />
 
 **Island 4**
-1. <Skill name="Rapid Fire"/> (Longbow 2)
-2. <Skill name="Point Blank Shot"/> (Longbow 4)
-3. _Weapon Swap_
+1. <Skill name="bypasscoating" />
+2. <Skill name="blastgyro" />
 
 </IdealRotation>
 </Phase>
@@ -463,25 +464,21 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/> (Phase 3)
-3. <Skill name="Sic Em"/>
-4. <Skill name="Frost Trap"/>
-5. _Weapon Swap_
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Path of Scars"/> (Axe 4)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
+1. <Skill name="minefield" />
+2. <Skill name="thunderclap" profession="engineer" />
+3. <Skill name="electrowhirl" />
+4. <Skill name="shrapnelgrenade" />
+5. <Skill name="grenadebarrage" />
+6. <Skill name="throwmine" />
+7. <Skill name="freezegrenade" />
+8. <Skill name="poisongrenade" />
+9. <Skill name="electrowhirl" />
+10. <Skill name="functiongyro" />
 
 </IdealRotation>
 </Phase>
 
-<Boss name="artsariiv" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Severance" weapon2OffInfusionId="37131">
-
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait name="Oppressive Superiority"/> and <Trait name="Trappers Expertise"/>.
-- If good instabilities, use <Item id="73191"/> as Utility food.
+<Boss name="artsariiv" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" >
 
 </Boss>
 
@@ -515,20 +512,17 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="One Wolf Pack"/>
-2. <Skill name="Barrage"/> (Longbow 5)
-3. <Skill name="Sic Em"/>
-4. _Weapon Swap_
-5. <Skill name="Frost Trap"/>
-6. <Skill name="Path of Scars"/> (Axe 4)
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
-11. <Skill name="Splitblade"/> (Axe 2)
-12. <Skill name="Leave Beastmode"/>
-13. _Weapon Swap_
-14. <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="shreddergyro" />
+2. <Skill name="bigolbomb" />
+3. <Skill name="blastgyro" />
+4. <Skill name="minefield" />
+5. <Skill name="thunderclap" profession="engineer" />
+6. <Skill name="electrowhirl" />
+7. <Skill name="grenadebarrage" />
+8. <Skill name="detonateminefield" />
+9. <Skill name="shrapnelgrenade" />
+10. <Skill name="poisongrenade" />
+11. <Skill name="electrowhirl" /> REFLECT
 
 </IdealRotation>
 </Phase>
@@ -557,17 +551,19 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/> (Phase 3)
-3. _Weapon Swap_
-4. <Skill name="Sic Em"/>
-5. <Skill name="Frost Trap"/>
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Path of Scars"/> (Axe 4)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
-11. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="medicgyro" />
+2. <Skill name="blastgyro" />
+3. <Skill name="minefield" />
+4. <Skill name="thunderclap" profession="engineer" />
+5. <Skill name="electrowhirl" />
+6. <Skill name="shrapnelgrenade" />
+7. <Skill name="throwmine" />
+8. <Skill name="grenadebarrage" />
+9. <Skill name="detonateminefield" />
+10. <Skill name="shockshield" /> or DODGE
+11. <Skill name="poisongrenade" />
+12. <Skill name="electrowhirl" />
+
 
 </IdealRotation>
 </Phase>
@@ -587,13 +583,9 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </IdealRotation>
 </Phase>
 
-<Boss name="arkk" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="arkk" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
-- Pet: <Skill id="44617" disableText/> Red Moa.
-- Take <Trait name="Oppressive Superiority"/>.
-- Swap to <Item id="50082"/>!
-- Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. (This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.)
-- Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
+- Precast 
 
 </Boss>
 
@@ -627,17 +619,15 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="Frost Trap"/>
-3. <Skill name="Worldly Impact"/> (F3)
-4. <Skill name="Sic Em"/>
-5. <Skill name="Point Blank Shot"/> (Longbow 4)
-6. _Weapon Swap_
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Whirling Defense"/> (Axe 5)
-11. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="blastgyro" />
+2. <Skill name="thunderclap" profession="engineer" />
+3. <Skill name="electrowhirl" />
+4. <Skill name="shrapnelgrenade" />
+5. <Skill name="grenadebarrage" />
+6. <Skill name="poisongrenade" />
+7. <Skill name="freezegrenade" />
+8. <Skill name="functiongyro" />
+9. <Skill name="throwmine" />
 
 </IdealRotation>
 </Phase>
@@ -650,13 +640,13 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Frenzied Attack"/> (F2)
-3. <Skill name="Splitblade"/> (Axe 2)
-4. <Skill name="Winters Bite"/> (Axe 3)
-5. <Skill name="Worldly Impact"/> (F3)
-6. <Skill name="Splitblade"/> (Axe 2)
-7. _Weapon Swap_
+1. <Skill name="medicgyro" />
+2. <Skill name="blastgyro" />
+3. <Skill name="thunderclap" profession="engineer" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="minefield" />
+7. <Skill name="throwmine" />
 
 </IdealRotation>
 </Phase>
@@ -669,7 +659,10 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="sparecapacitor" />
+2. <Skill name="electrowhirl" />
+3. <Skill name="shrapnelgrenade" />
+4. <Skill name="poisongrenade" />
 
 </IdealRotation>
 </Phase>
@@ -682,19 +675,16 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Sic Em"/>
-4. <Skill name="Frost Trap"/>
-5. <Skill name="Point Blank Shot"/> (Longbow 4)
-6. _Weapon Swap_
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Worldly Impact"/> (F3)
-11. <Skill name="Frenzied Attack"/> (F2)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="medicgyro" />
+2. <Skill name="thunderclap" profession="engineer" />
+3. <Skill name="electrowhirl" />
+4. <Skill name="shrapnelgrenade" />
+5. <Skill name="grenadebarrage" />
+6. <Skill name="minefield" />
+7. <Skill name="freezegrenade" />
+8. <Skill name="electrowhirl" />
+9. <Skill name="shrapnelgrenade" />
+
 
 </IdealRotation>
 </Phase>
@@ -707,12 +697,13 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="Point Blank Shot"/> (Longbow 4)
-3. <Skill name="Rapid Fire"/> (Longbow 2)
-4. _Weapon Swap_
-5. <Skill name="Splitblade"/> (Axe 2)
-6. <Skill name="Sic Em"/> (After Phase)
+1. <Skill name="medicgyro" />
+2. <Skill name="blastgyro" />
+3. <Skill name="thunderclap" profession="engineer" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="minefield" />
+7. <Skill name="throwmine" />
 
 </IdealRotation>
 </Phase>
@@ -725,10 +716,10 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Frost Trap"/>
-2. <Skill name="Path of Scars"/> (Axe 4)
-3. <Skill name="Splitblade"/> (Axe 2)
-4. <Skill name="Winters Bite"/> (Axe 3)
+1. <Skill name="sparecapacitor" />
+2. <Skill name="electrowhirl" />
+3. <Skill name="shrapnelgrenade" />
+4. <Skill name="poisongrenade" />
 
 </IdealRotation>
 </Phase>
@@ -741,12 +732,12 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Whirling Defense"/> (Axe 5)
-3. <Skill name="Winters Bite"/> (Axe 3)
-4. <Skill name="Path of Scars"/> (Axe 4)
-5. _Weapon Swap_
-6. <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="electrowhirl" />
+2. <Skill name="shrapnelgrenade" />
+3. <Skill name="grenadebarrage" />
+4. <Skill name="minefield" />
+5. <Skill name="throwmine" />
+6. <Skill name="electrowhirl" />
 
 </IdealRotation>
 </Phase>
@@ -759,19 +750,17 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Sic Em"/>
-4. <Skill name="Frost Trap"/>
-5. <Skill name="Point Blank Shot"/> (Longbow 4)
-6. _Weapon Swap_
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Worldly Impact"/> (F3)
-11. <Skill name="Whirling Defense"/> (Axe 5)
-12. <Skill name="Frenzied Attack"/> (F2)
-13. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="medicgyro" />
+2. <Skill name="blastgyro" />
+3. <Skill name="thunderclap" profession="engineer" />
+4. <Skill name="electrowhirl" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="minefield" />
+7. <Skill name="poisongrenade" />
+8. <Skill name="freezegrenade" />
+9. <Skill name="grenadebarrage" />
+10. <Skill name="electrowhirl" />
+11. <Skill name="shrapnelgrenade" />
 
 </IdealRotation>
 </Phase>
