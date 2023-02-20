@@ -1,14 +1,13 @@
 ---
-title: Renegade CM guides
-type: Static
+title: Renegade CM Guide
+type: static
 profession: Revenant
 specialization: Renegade
-date: 2023-02-20T18:13:18.665Z
-author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
-  - LightAi
-  - DarkAi
+  - "- LightAi   - DarkAi"
+date: 2023-02-20T17:53:32.019Z
 ---
+
 <Boss name="mama" video="pfWrGs3yT3g" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
 - Suggested Boon Duration: `20%`
@@ -748,3 +747,4 @@ disableBosses:
 6. <Skill name="deathstrike" />
 </IdealRotation>
 </Phase>
+
