@@ -10,6 +10,8 @@ disableBosses:
 ---
 <Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
+  - On Days with <Instability name="No Pain, No gain"/> you should use <Skill name="Throw Mine"/> on the Knights to boonstrip.
+  
 </Boss>
 
 <Phase>
