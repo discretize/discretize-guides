@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-02-20T13:47:40.204Z
+date: 2023-02-20T13:53:51.247Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -25,13 +25,14 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1.  <Skill name="blastgyro" />
+2.  <Skill name="bypasscoating" />
+2.  <Skill name="shreddergyro" />
+3.  <Skill name="sneakgyro" />
+4.  <Skill name="functiongyro"/>
+4.  <Skill name="medicgyro" />
+5.  Take _Mistlock Singularity_
+6.  <Skill name="medicgyro" />
 
 </IdealRotation>
 </Phase>
@@ -176,13 +177,14 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1.  <Skill name="blastgyro" />
+2.  <Skill name="bypasscoating" />
+2.  <Skill name="shreddergyro" />
+3.  <Skill name="sneakgyro" />
+4.  <Skill name="functiongyro"/>
+4.  <Skill name="medicgyro" />
+5.  Take _Mistlock Singularity_
+6.  <Skill name="medicgyro" />
 
 </IdealRotation>
 </Phase>
@@ -304,13 +306,14 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1.  <Skill name="blastgyro" />
+2.  <Skill name="bypasscoating" />
+2.  <Skill name="shreddergyro" />
+3.  <Skill name="sneakgyro" />
+4.  <Skill name="functiongyro"/>
+4.  <Skill name="medicgyro" />
+5.  Take _Mistlock Singularity_
+6.  <Skill name="medicgyro" />
 
 </IdealRotation>
 </Phase>
@@ -381,15 +384,14 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
-8.  <Skill name="Frost Trap"/>
-9.  <Skill name="One Wolf Pack"/>
+1.  <Skill name="blastgyro" />
+2.  <Skill name="bypasscoating" />
+2.  <Skill name="shreddergyro" />
+3.  <Skill name="sneakgyro" />
+4.  <Skill name="functiongyro"/>
+4.  <Skill name="medicgyro" />
+5.  Take Mistlock Singularity
+6.  <Skill name="medicgyro" />
 
 </IdealRotation>
 </Phase>
@@ -493,13 +495,14 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1.  <Skill name="blastgyro" />
+2.  <Skill name="bypasscoating" />
+2.  <Skill name="shreddergyro" />
+3.  <Skill name="sneakgyro" />
+4.  <Skill name="functiongyro"/>
+4.  <Skill name="medicgyro" />
+5.  Take _Mistlock Singularity_
+6.  <Skill name="medicgyro" />
 
 </IdealRotation>
 </Phase>
@@ -600,13 +603,14 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1.  <Skill name="blastgyro" />
+2.  <Skill name="bypasscoating" />
+2.  <Skill name="shreddergyro" />
+3.  <Skill name="sneakgyro" />
+4.  <Skill name="functiongyro"/>
+4.  <Skill name="medicgyro" />
+5.  Take _Mistlock Singularity_
+6.  <Skill name="medicgyro" />
 
 </IdealRotation>
 </Phase>
