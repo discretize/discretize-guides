@@ -3,429 +3,748 @@ title: Renegade CM guides
 type: Static
 profession: Revenant
 specialization: Renegade
-date: 2022-01-18T19:53:54.020Z
+date: 2023-02-20T18:13:18.665Z
 author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
   - LightAi
   - DarkAi
 ---
-
 <Boss name="mama" video="pfWrGs3yT3g" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
-  
+
 - Suggested Boon Duration: `20%`
-
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
-
 </Boss>
 
-### **Precast**
+<Phase>
+<CMInformation title="Precast">
 
-- Precast with higher boon duration.
+<InformationBlock title="Overview">
 
-- <Skill name="Enchanted Daggers"/>
+</InformationBlock>
+<InformationBlock title="At The Mistlock">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **100 - 75%**
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
-- Precast <Skill name="DarkrazorsDaring"/>, <Skill name="IcerazorsIre"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Surgeofthemists"/>.
+<Phase>
+<CMInformation title="Phase 1">
+<InformationBlock title="Overview">
 
-- <Skill name="legendary Assassin Stance"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Impossibleodds"/>, <Skill name="citadel bombardment"/>, <Skill name="ChillingIsolation"/>
+1. Precast
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="legendaryassassinstance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="surgeofthemists" />
+4. <Skill name="chillingisolation" />
+3. <Skill name="legendaryrenegadestance" />
+5. <Skill name="deathstrike" />
 
-### _1st Add_
+</IdealRotation>
+</Phase>
 
-- <Skill name="Shackling Wave"/>, <Skill name="Heroic Command"/>, <Skill name="Orders from Above"/>.
+<Phase>
+<CMInformation title="Knight 1">
+<InformationBlock>
 
-### **75-50%**
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Renegade Stance"/>
+1. <Skill name="shacklingwave" />
+2. <Skill name="ordersfromabove" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="heroiccommand" />
 
-- <Skill name="SoulcleavesSummit"/>, <Skill name="icerazors ire"/>.
 
-- Weapon swap to staff near the end of the phase.
+</IdealRotation>
+</Phase>
 
-### _2nd Add_
+<Phase>
+<CMInformation title="Phase 2">
+<InformationBlock title="Overview">
 
-- <Skill name="Darkrazors Daring"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Assassin stance"/>.
+1. <Skill name="icerazorsire" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+6. <Skill name="chillingisolation" />
+3. <Skill name="heroiccommand" />
 
-- <Skill name="Heroic Command"/>, <Skill name="Orders from Above"/>.
 
-### **50-25%**
+</IdealRotation>
+</Phase>
 
-- <Skill name="Surge of the Mists"/>.
+<Phase>
+<CMInformation title="Knight 2">
+<InformationBlock>
 
-- <Skill name="Impossible Odds"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### _3rd Add_
+1. <Skill name="darkrazorsdaring" />
+1. <Skill name="shacklingwave" />
+3. <Skill name="legendaryassassinstance" />
+2. <Skill name="ordersfromabove" />
+2. <Skill name="chillingisolation" />
 
-- <Skill name="Shacklingwave"/>, <Skill name="Heroic Command"/>, <Skill name="Orders from Above"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Legendary Renegade Stance"/>.
+<Phase>
+<CMInformation title="Phase 3">
+<InformationBlock title="Overview">
 
-- Weaponswap to staff.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **25-0%**
+2. <Skill name="chillingisolation" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="deathstrike" />
 
-- <Skill name="Darkrazors Daring"/>, <Skill name="Soulcleaves Summit"/>.
 
-- <Skill name="Surge of the Mists"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Legendary Assassin Stance"/>.
+<Phase>
+<CMInformation title="Knight 3">
+<InformationBlock>
 
-- <Skill name="Impossible Odds"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
+
+1. <Skill name="legendaryrenegadestance" />
+3. <Skill name="heroiccommand" />
+1. <Skill name="darkrazorsdaring" />
+2. <Skill name="icerazorsire" />
+4. Weapon Swap
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+<CMInformation title="Phase 4">
+<InformationBlock title="Overview">
+
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
+
+1. <Skill name="surgeofthemists" />
+2. <Skill name="heroiccommand" />
+3. <Skill name="ordersfromabove" />
+3. <Skill name="legendaryassassinstance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="shacklingwave" />
+5. <Skill name="deathstrike" />
+
+</IdealRotation>
+</Phase>
 
 <Boss name="siax" video="EAYcOj8bxXE" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
-  
-- Suggested Boon Duration: `20%`
 
+- Suggested Boon Duration: `20%`
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
 
 </Boss>
 
-### **Precast**
+<Phase>
+<CMInformation title="Precast">
 
-- Precast with higher boon duration, and <Trait name="Righteous Rebel"/>.
+<InformationBlock title="Overview">
 
-- <Skill name="Conjure Frost Bow"/>.
+</InformationBlock>
+<InformationBlock title="At The Mistlock">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Enchanted Daggers"/>
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
-### **100 - 66%**
+</IdealRotation>
+</Phase>
 
-- Precast <Skill name="Darkrazors Daring"/>, <Skill name="icerazors ire"/>.
+<Phase>
+<CMInformation title="Phase 1">
+<InformationBlock title="Overview">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Assassin Stance"/>, UI change.
+1. Precast
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="legendaryassassinstance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="legendaryrenegadestance" />
 
-- <Skill name="Impossible Odds"/>, <Skill name="Frost Storm"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Frost Fan"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Legendary Renegade Stance"/>.
+<Phase>
+<CMInformation title="Split 1">
+<InformationBlock>
 
-- <Skill name="Surge of the Mists"/>, <Skill name="Chilling Isolation"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### _1st Add_
+1. <Skill name="shacklingwave" />
+2. <Skill name="chillingisolation" />
+3. <Skill name="deathstrike" />
 
-- <Skill name="icerazors ire"/>, <Skill name="Shackling Wave"/>, <Skill name="Chilling Isolation"/>.
+</IdealRotation>
+</Phase>
 
-### **66-33%**
+<Phase>
+<CMInformation title="Phase 2">
+<InformationBlock title="Overview">
 
-- <Skill name="Deathstrike"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Heroic Command"/>, <Skill name="Orders from Above"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Assassin Stance"/>.
+1. <Skill name="icerazorsire" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="ordersfromabove" />
+4. <Skill name="heroiccommand" />
+5. <Skill name="legendaryassassinstance" />
 
-- <Skill name="Impossible Odds"/>
 
-### _2nd Add_
+</IdealRotation>
+</Phase>
 
-- <Skill name="Enchanted Daggers"/>, <Skill name="Shackling Wave"/>, <Skill name="Chilling Isolation"/>.
+<Phase>
+<CMInformation title="Split 2">
+<InformationBlock>
 
-### **33-0%**
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Deathstrike"/>, <Skill name="Citadel Bombardment"/>.
+1. <Skill name="shacklingwave" />
+2. <Skill name="chillingisolation" />
 
-- <Skill name="Legendary Renegade Stance"/>
+</IdealRotation>
+</Phase>
 
-- <Skill name="Heroic Command"/>, <Skill name="Orders from Above"/>, <Skill name="Icerazors Ire"/>, <Skill name="Chilling Isolation"/>.
+<Phase>
+<CMInformation title="Phase 3">
+<InformationBlock title="Overview">
 
-### **Annotation**
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- If you do not have a <Skill name="Conjure Frost Bow"/> you can do the following:
+1. <Skill name="deathstrike" />
+2. <Skill name="chillingisolation" />
+3. <Skill name="heroiccommand" />
+4. <Skill name="legendaryrenegadestance" />
+5. <Skill name="icerazorsire" />
+6. <Skill name="citadelbombardment" />
+7. <Skill name="chillingisolation" />
 
-  - Precast <Skill name="Darkrazors Daring"/>, <Skill name="icerazors ire"/>.
-
-  - <Skill name="Legendary Assassin Stance"/>, UI change.
-
-  - <Skill name="Impossible Odds"/>, <Skill name="Citadel Bombardment"/>.
-
-  - <Skill name=" Legendary Renegade Stance"/>, <Skill name="Surge of the mists"/>.
+</IdealRotation>
+</Phase>
 
 <Boss name="ensolyss" video="KK3Onf7Q0d4" timestamp="" videoCreator="Inky [dT]" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
-  
+
 - Suggested Boon Duration: `20%`
-
 - Increase boon duration if you notice significant downtime in <Boon name="Alacrity"/>.
-
-- <Trait name="Lasting Legacy"/>.
-
+- <Skill name="moastance" />
 </Boss>
 
-### **Precast**
+<Phase>
+<CMInformation title="Precast">
 
-- Precast with higher boon duration, and <Trait name="Righteous Rebel"/>.
+<InformationBlock title="Overview">
 
-- <Skill name="Enchanted Daggers"/>
+</InformationBlock>
+<InformationBlock title="At The Mistlock">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **100-66%**
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
-- Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Surge of the Mists"/>.
+<Phase>
+<CMInformation title="Phase 1">
+<InformationBlock title="Overview">
 
-- <Skill name="Legendary Assassin Stance"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Impossible Odds"/>, <Skill name="Chilling Isolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, <Skill name="Deathstrike"/>, <Skill name="Chilling Isolation"/>.
+1. Precast
+    1. <Skill name="darkrazorsdaring" /> at 60 Energy
+    2. <Skill name="icerazorsire" />
+2. <Skill name="surgeofthemists" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="legendaryassassinstance" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
+8. <Skill name="chillingisolation" />
+9. <Skill name="legendaryassassinstance" />
+10. <Skill name="icerazorsire" />
+11. <Skill name="chillingisolation" />
+12. <Skill name="citadelbombardment" />
+13. <Skill name="chillingisolation" />
 
-### **66-33%** / **33-0%**
 
-- <Skill name="Darkrazors Daring"/>, <Skill name="Orders from Above"/>, <Skill name="Icerazors Ire"/>, <Skill name="Soulcleaves Summit"/>, <Skill name="Heroic Command"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Surge of the Mists"/>.
+<Phase>
+<CMInformation title="Phase 2+3">
+<InformationBlock>
 
-- <Skill name="Legendary Assassin Stance"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Impossible Odds"/>, <Skill name="Chilling Isolation"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Shackling Wave"/>, <Skill name="Deathstrike"/>.
+1. <Skill name="darkrazorsdaring" />
+2. <Skill name="icerazorsire" />
+3. <Skill name="soulcleavessummit" />
+4. <Skill name="ordersfromabove" /> with <Skill name="moastance" />
+5. <Skill name="heroiccommand" />
+6. <Skill name="surgeofthemists" />
+7. <Skill name="legendaryassassinstance" />
+8. <Skill name="chillingisolation" />
+9. <Skill name="shacklingwave" />
+10. <Skill name="deathstrike" />
+11. <Skill name="legendaryrenegadestance" />
+12. <Skill name="icerazorsire" />
+13. <Skill name="chillingisolation" />
+14. <Skill name="ordersfromabove" />
+15. <Skill name="heroiccommand" />
+16. <Skill name="citadelbombardment" />
 
-### **Orb Phases**
-
-- <Skill name="Breakrazors Bastion"/> on <Skill name="Frost Spirit"/>.
-
-### **Annotation**
-
-- Coordinate with <Specialization name="Soulbeast"/> when to use <Skill name="Orders from Above"/> with <Skill name="Moa Stance"/>.
+</IdealRotation>
+</Phase>
 
 <Boss name="skorvald" video="ZniVzbYwyJI" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Impact" weapon2MainSigil2="Force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
-  
-- Suggested Boon Duration: `80%`
 
-- Lower boon duration when possible.
-
-- <Trait name="Dance of Death"/>.
-
-- <Item id="24661"/>.
+- Suggested Boon Duration: `35%`
 
 </Boss>
 
-### **Precast**
+<Phase>
+<CMInformation title="Precast">
 
-- <Skill name="Enchanted Daggers"/>
+<InformationBlock title="Overview">
 
-### **100-66%**
+</InformationBlock>
+<InformationBlock title="At The Mistlock">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>, <Skill name="Breakrazors Bastion"/>.
 
-- <Skill name="Surge of the Mists"/>.
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
-- <Skill name="Legendary Dwarf Stance"/>.
 
-- <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
+</IdealRotation>
+</Phase>
 
-### _1st Add_
+<Phase>
+<CMInformation title="Phase 1">
+<InformationBlock title="Overview">
 
-- <Skill name="Inspiring Reinforcement"/>, <Skill name="Orders from Above"/>, <Skill name="Shackling Wave"/>, <Skill name="Heroic Command"/>, <Skill name="Vengeful Hammers"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Renegade Stance"/>.
+1. Precast 
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="legendarydwarfstance" />
+    4. <Skill name="legendaryrenegadestance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="surgeofthemists" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
 
-### _2nd Add_
+</IdealRotation>
+</Phase>
 
-- <Skill name="Soulcleaves Summit"/>, <Skill name="Icerazors Ire"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Heroic Command"/>.
+<Phase>
+<CMInformation title="Split 1">
+<InformationBlock title="Island 1">
 
-- <Skill name="Legendary Dwarf Stance"/>.
+</InformationBlock>
+<InformationBlock title="Island 2">
 
-### _3rd Add_
+</InformationBlock>
+<InformationBlock title="Island 3">
 
-- <Skill name="Inspiring Reinforcement"/>, <Skill name="Orders from Above"/>, <Skill name="Shackling Wave"/>.
+</InformationBlock>
+<InformationBlock title="Island 4">
 
-- Place <Item id="78978"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### _4th Add_
+**Island 1**
+1. <Skill name="inspiringreinforcement" />
+2. <Skill name="ordersfromabove" />
+3. <Skill name="chillingisolation" />
 
-- <Skill name="Inspiring Reinforcement"/>, <Skill name="Citadel Bombardment"/>,<Skill name="Vengeful Hammers"/>, <Skill name="Heroic Command"/>, <Skill name="Chilling Isolation"/>.
+**Island 2**
+1. <Skill name="chillingisolation" />
+2. <Skill name="heroiccommand" />
 
-- <Skill name="Legendary Renegade Stance"/>.
+**Island 3**
+1. <Skill name="inspiringreinforcement" />
+2. <Skill name="legendaryrenegadestance" />
+1. <Skill name="shacklingwave" />
+3. <Skill name="chillingisolation" />
 
-### **66-33%**
+**Island 4**
+1. <Skill name="heroiccommand" />
+2. <Skill name="ordersfromabove" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="chillingisolation" />
 
-- <Skill name="Soulcleaves Summit"/>, <Skill name="Orders from Above"/>, <Skill name="Chilling Isolation"/>.
+</IdealRotation>
+</Phase>
 
-- Open <Item id="78978"/>.
+<Phase>
+<CMInformation title="Phase 2+3">
+<InformationBlock title="Overview">
 
-### _Add_
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Icerazors Ire"/>.
+1. <Skill name="icerazorsire" />
+2. <Skill name="heroiccommand" />
+3. <Skill name="legendarydwarfstance" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="chillingisolation" />
 
-- <Skill name="Legendary Dwarf Stance"/>.
-
-- <Skill name="Inspiring Reinforcement"/>, <Skill name="Shackling Wave"/>, <Skill name="Chilling Isolation"/>, <Skill name="Vengful Hammers"/>, <Skill name="Deathstrike"/>, <Skill name="Chilling Isolation"/>.
-
-- Take <Item id="78978"/>.
-
-### **33-0%**
-
-- <Skill name="Orders from Above"/>.
-
-- <Skill name="Legendary Renegade Stance"/>.
-
-- <Skill name="Icerazors Ire"/>, <Skill name="Shackling Wave"/>, <Skill name="Heroic Command"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
+</IdealRotation>
+</Phase>
 
 <Boss name="artsariiv" video="TyNmd6b5z4w" timestamp="" videoCreator="Inky [dT]" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
-  
-- Suggested Boon Duration: `80%`
 
+- Suggested Boon Duration: `35%`
 - Lower boon duration when possible.
-
-- <Trait name="dance of Death"/>.
 
 </Boss>
 
-### **Precast**
+<Phase>
+<CMInformation title="Precast">
 
-- <Skill name="Enchanted Daggers"/>
+<InformationBlock title="Overview">
 
-- <Skill name="Pain Absorption"/>
+</InformationBlock>
+<InformationBlock title="At The Mistlock">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **100-66%**
+1. Precast <Boon name="Resistance" /> with <Skill name="painabsorption" />
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
-- Precast <Skill name="Darkrazors Daring"/>, <Skill name="Icerazors Ire"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Legendary Dwarf Stance"/>, UI change.
+<Phase>
+<CMInformation title="Phase 1">
+<InformationBlock title="Overview">
 
-- <Skill name="Vengeful Hammers"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Renegade Stance"/>.
+1. Precast
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="legendarydwarfstance" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="legendaryrenegadestance" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="unrelentingassault" />
+8. Weapons Swap
 
-- <Skill name="Soulcleaves Summit"/>, <Skill name="Heroic Command"/>, <Skill name="Shackling wave"/>, <Skill name="Deathstrike"/>, <Skill name="Unrelenting Assault"/>.
+</IdealRotation>
+</Phase>
 
-### **66-33%**
+<Phase>
+<CMInformation title="Split 1">
+<InformationBlock>
 
-- <Skill name="Breakrazors Bastion"/>, <Skill name="Soulcleaves Summit"/>, <Skill name="Orders from Above"/>, <Skill name="Heroic Command"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="legendary Dwarf Stance"/>.
+1. <Skill name="darkrazorsdaring" />
+2. <Skill name="surgeofthemists" />
 
-- <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Unrelenting Assault"/>, <Skill name="Shackling Wave"/>, <Skill name="Deathstrike"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Heroic Command"/>.
+<Phase>
+<CMInformation title="Phase 2+3">
+<InformationBlock title="Overview">
 
-- <Skill name="Inspiring Reinforcement"/>, <Skill name="Orders from Above"/>, <Skill name="Chilling Isolation"/>, <Skill name="Shackling Wave"/>, <Skill name="Deathstrike"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### _Add_
+1. <Skill name="ordersfromabove" />
+2. <Skill name="heroiccommand" />
+3. <Skill name="icerazorsire" />
+4. <Skill name="shacklingwave" />
+5. <Skill name="chillingisolation" />+
+6. <Skill name="deathstrike" />
+7. <Skill name="legendarydwarfstance" />
+7. <Skill name="inspiringreinforcement" />
+8. <Skill name="unrelentingassault" />
+9. <Skill name="citadelbombardment" />
+10. <Skill name="chillingisolation" />
+11. <Skill name="heroiccommand" />
 
-- <Skill name="Forced Engagement"/> for one add.
+</IdealRotation>
+</Phase>
 
-### **33-0%**
+<Phase>
+<CMInformation title="Split 2">
+<InformationBlock>
 
-- Precast <Skill name="Inspiring Reinforcement"/>, <Skill name="Orders from Above"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Renegade Stance"/>.
+1. <Skill name="Winters Bite"/> (Axe 3)
+2. <Skill id="45743"/> (F2)
+3. <Skill name="Point Blank Shot"/> (Longbow 4)
 
-- <Skill name="Soulcleaves Summit"/>, <Skill name="Icerazors Ire"/>, <Skill name="Heroic Command"/>, <Skill name=" Chilling Isolation"/>, <Skill name="Deathstrike"/>, <Skill name="Shackling Wave"/>.
-
-**Annotation**
-
-- Make sure <Skill name="Soulcleaves Summit"/> is up from the moment Artsariiv is vulnerable at 33%.
+</IdealRotation>
+</Phase>
 
 <Boss name="arkk" video="85qgi63s2hc" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
   
-- Suggested Boon Duration: `80%`
 
-- <Trait name="Dance of Death"/>.
+- Suggested Boon Duration: `35%`
+
 
 </Boss>
 
-### **Precast**
+<Phase>
+<CMInformation title="Precast">
 
-- <Skill name="Enchanted Daggers"/>.
+<InformationBlock title="Overview">
 
-- Cast <Skill name="Soulcleaves Summit"/> and let it drain energy during the precast.
+</InformationBlock>
+<InformationBlock title="At The Mistlock">
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **100-80%**
+1.  <Skill name="renewingwave" />
+2.  <Skill name="ordersfromabove" />
+3.  Take _Mistlock Singularity_
+4.  <Skill name="renewingwave" />
+5.  <Skill name="ordersfromabove" />
+6.  <Skill name="enchanteddaggers" />
 
-- <Skill name="Icerazors Ire"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Legendary Assassin Stance"/>.
+<Phase>
+<CMInformation title="Phase 1 100%-80%">
+<InformationBlock title="Overview">
 
-- <Skill name="Impossible Odds"/>, <Skill name="Shackling Wave"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- Turn around.
+1. <Skill name="icerazorsire" />
+2. <Skill name="chillingisolation" />
+2. <Skill name="legendaryassassinstance" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="shacklingwave" />
+5. <Skill name="deathstrike" />
+6. <Skill name="chillingisolation" />
+7. Weapon Swap
 
-### _Anomaly_
+</IdealRotation>
+</Phase>
 
-- <Skill name="Chilling Isolation"/>
+<Phase>
+<CMInformation title="Phase 2 80%-70%">
+<InformationBlock title="Overview">
 
-- You should get help here.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Legendary Renegade Stance"/>.
+2. <Skill name="icerazorsire" />
+3. <Skill name="surgeofthemists" />
+4. <Skill name="ordersfromabove" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="chillingisolation" />
+7. <Skill name="shacklingwave" />
+8. <Skill name="deathstrike" />
 
-- Weaponswap to staff.
+</IdealRotation>
+</Phase>
 
-### **80-70%**
+<Phase>
+<CMInformation title="Archdiviner">
+<InformationBlock title="Overview">
 
-- Precast <Skill name="Icerazors Ire"/>, <Skill name="Soulcleaves Summit"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Surge of the Mists"/>.
+1. <Skill name="chillingisolation" />
+2. <Skill name="heroiccommand" />
 
-- <Skill name="Orders from Above"/>, <Skill name="Heroic Command"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Legendary Assassin Stance"/>.
+<Phase>
+<CMInformation title="Phase 3 70%-50%">
+<InformationBlock title="Overview">
 
-- <Skill name="Deathstrike"/>
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **Archdiviner**
+1. <Skill name="icerazorsire" />
+3. <Skill name="ordersfromabove" />
+2. <Skill name="legendaryassassinstance" />
+5. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="legendaryrenegadestance" />
 
-- <Skill name="Impossible Odds"/>, <Skill name="Shackling Wave"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Heroic Command"/>.
+</IdealRotation>
+</Phase>
 
-- <SpecialActionKey name="hypernovalaunch"/> for CC.
+<Phase>
+<CMInformation title="Phase 4 50%-40%">
+<InformationBlock title="Overview">
 
-- <Skill name="Chilling Isolation"/>, <Skill name="Enchanted Daggers"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-### **70-50%**
+1. <Skill name="icerazorsire" />
+2. <Skill name="surgeofthemists" />
+3. <Skill name="ordersfromabove" />
+4. <Skill name="heroiccommand" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="shacklingwave" />
 
-- <Skill name="Icerazors Ire"/>, <Skill name="Soulcleaves Summit"/>. <Skill name="Orders from Above"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>, <Skill name="Heroic Command"/>.
 
-### _anomaly_
+</IdealRotation>
+</Phase>
 
-- <Skill name="Shackling Wave"/>.
+<Phase>
+<CMInformation title="Gladiator">
+<InformationBlock title="Overview">
 
-- You should get help here.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Breakrazors Bastion"/> on <Skill name="Frost Spirit"/>.
+1. <Skill name="chillingisolation" />
+2. <Skill name="deathstrike" />
+3. <Skill name="heroiccommand" />
 
-- Weaponswap to staff.
+</IdealRotation>
+</Phase>
 
-### **50-40%**
+<Phase>
+<CMInformation title="Phase 5 40%-30%">
+<InformationBlock title="Overview">
 
-- Precast <Skill name="Soulcleaves Summit"/>, <Skill name="Orders from Above"/>.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Surge of the Mists"/>
+1. <Skill name="icerazorsire" />
+2. <Skill name="ordersfromabove" />
+2. <Skill name="legendaryrenegadestance" />
+5. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="legendaryrenegadestance" />
 
-- <Skill name="Legendary Assassin Stance"/>.
+</IdealRotation>
+</Phase>
 
-- <Skill name="Heroic Command"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
+<Phase>
+<CMInformation title="Phase 6 30%-0%">
+<InformationBlock title="Overview">
 
-### **Gladiator**
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
 
-- <Skill name="Impossible Odds"/>, <Skill name="Shackling Wave"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Heroic Command"/>.
-
-- <Skill name="Enchanted Daggers"/>.
-
-### **40-30%**
-
-- <Skill name="Icerazors Ire"/>, <Skill name="Soulcleaves Summit"/>. <Skill name="Orders from Above"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>, <Skill name="Heroic Command"/>.
-
-### _Anomaly_
-
-- <Skill name="Shackling Wave"/>.
-
-- You should get help here.
-
-- Weaponswap to staff.
-
-### _Orb_
-
-- <Skill name="Icerazors Ire"/>.
-
-### **30-0%**
-
-- Precast <Skill name="Soulcleaves Summit"/>, <Skill name="Orders from Above"/>.
-
-- <Skill name="Surge of the Mists"/>.
-
-- <Skill name="Legendary Assassin Stance"/>.
-
-- <Skill name="Heroic Command"/>, <Skill name="Citadel Bombardment"/>, <Skill name="Chilling Isolation"/>, <Skill name="Deathstrike"/>.
-
-### **Annotation**
-
-- Take <Specialization name="Soulbeast"/> orb.
+1. <Skill name="soulcleavessummit" />
+2. <Skill name="icerazorsire" />
+3. <Skill name="heroiccommand" />
+4. <Skill name="legendaryassassinstance" />
+5. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+</IdealRotation>
+</Phase>
