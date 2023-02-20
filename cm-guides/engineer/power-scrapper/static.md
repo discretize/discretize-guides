@@ -1,24 +1,21 @@
 ---
-title: Soulbeast CM guides
+title: Scrapper CM guides
 type: Static
-profession: Ranger
-specialization: Soulbeast
-date: 2022-01-18T19:56:06.261Z
+profession: Engineer
+specialization: Scrapper
+date: 2023-02-20T00:46:27.754Z
 disableBosses:
   - LightAi
   - DarkAi
 ---
-
-<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
-
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
-- Take <Trait name="Oppressive Superiority"/>.
-- Use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
+<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
+
+
 
 <InformationBlock title="Overview">
 
@@ -46,16 +43,16 @@ disableBosses:
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
-
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="Frost Trap"/>
-3. <Skill name="Sic Em"/>
-4. <Skill name="Point Blank Shot"/> (Longbow 4)
-5. _Weapon Swap_
-6. <Skill name="Path of Scars"/> (Axe 4)
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Worldly Impact"/> (F3)
+1. Precast
+    1. <Skill name="minefield" />
+    2. <Skill name="blastgyro" />
+    3. <Skill name="bigolbomb" />
+2. <Skill name="thunderclap" profession="engineer" />
+3. <Skill name="electrowhirl" />
+4. <Skill name="throwmine" />
+5. <Skill name="shrapnelgrenade" />
+6. <Skill name="grenadebarrage" />
+7. <Skill name="freezegrenade" />
 
 </IdealRotation>
 </Phase>
@@ -68,9 +65,9 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1. <Skill id="45743"/> (F2)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. <Skill id="41524"/> (F1)
+1. <Skill name="sparecapacitor" />
+2. <Skill name="rocketcharge" />
+3. <Skill name="electrowhirl" />
 
 </IdealRotation>
 </Phase>
@@ -83,12 +80,11 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="One Wolf Pack"/>
-2.  <Skill name="Splitblade"/> (Axe 2)
-3.  <Skill name="Winters Bite"/> (Axe 3)
-4.  <Skill name="Whirling Defense"/> (Axe 5)
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  _Weapon Swap_
+1. <Skill name="medicgyro" />
+2. <Skill name="electrowhirl" />
+3. <Skill name="shrapnelgrenade" />
+4. <Skill name="poisongrenade" />
+5. <Skill name="throwmine" />
 
 </IdealRotation>
 </Phase>
@@ -101,9 +97,11 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1. <Skill id="45743"/> (F2)
-2. <Skill name="Rapid Fire"/> (Longbow 2)
-3. <Skill name="Barrage"/> (Longbow 5)
+1. <Skill name="supplycrate" />
+2. <Skill name="shockshield" />
+3. <Skill name="positivestrike" />
+4. <Skill name="negativebash" />
+5. <Skill name="equalizingblow" />
 
 </IdealRotation>
 </Phase>
@@ -116,14 +114,15 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Sic Em"/>
-2.  <Skill name="Frost Trap"/>
-3.  <Skill name="Point Blank Shot"/> (Longbow 4)
-4.  _Weapon Swap_
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  <Skill name="Winters Bite"/> (Axe 3)
-7.  <Skill name="Path of Scars"/> (Axe 4)
-8.  <Skill name="Worldly Impact"/> (F3)
+1. <Skill name="blastgyro" />
+2. <Skill name="thunderclap" profession="engineer" />
+3. <Skill name="electrowhirl" />
+4. <Skill name="shrapnelgrenade" />
+5. <Skill name="grenadebarrage" />
+6. <Skill name="minefield" />
+7. <Skill name="throwmine" />
+8. <Skill name="electrowhirl" />
+9. <Skill name="shrapnelgrenade" /> 
 
 </IdealRotation>
 </Phase>
@@ -136,9 +135,9 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1. <Skill id="45743"/> (F2)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. <Skill id="41524"/> (F1)
+1. <Skill name="sparecapacitor" />
+2. <Skill name="rocketcharge" />
+3. <Skill name="electrowhirl" />
 
 </IdealRotation>
 </Phase>
@@ -151,13 +150,13 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Splitblade"/> (Axe 2)
-2.  <Skill name="Winters Bite"/> (Axe 3)
-3.  <Skill name="Path of Scars"/> (Axe 4)
-4.  <Skill name="Whirling Defense"/> (Axe 5)
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  _Weapon Swap_
-7.  <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="blastgyro" />
+2. <Skill name="thunderclap" profession="engineer" />
+7. <Skill name="throwmine" />
+6. <Skill name="minefield" />
+3. <Skill name="electrowhirl" />
+4. <Skill name="shrapnelgrenade" />
+5. <Skill name="poisongrenade" />
 
 </IdealRotation>
 </Phase>
