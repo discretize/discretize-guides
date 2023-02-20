@@ -8,7 +8,7 @@ disableBosses:
   - LightAi
   - DarkAi
 ---
-<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
+<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
 </Boss>
 
@@ -538,10 +538,7 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1. <Skill id="43636"/> (F2)
-2. <Skill name="Beastmode"/>
-3. <Skill id="45743"/> (F2)
-4. <Skill name="Point Blank Shot"/> (Longbow 4)
+1. <Skill name="flashgrenade" />
 
 </IdealRotation>
 </Phase>
@@ -579,9 +576,9 @@ disableBosses:
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Winters Bite"/> (Axe 3)
-2. <Skill id="45743"/> (F2)
-3. <Skill name="Point Blank Shot"/> (Longbow 4)
+1. <Skill name="Endothermic Shell"/> (Mortar 3)
+2. <Skill name="Flash Shell"/> (Mortar 4)
+3. <Skill name="flashgrenade" /> (Grenade 3)
 
 </IdealRotation>
 </Phase>
