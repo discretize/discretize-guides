@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-02-20T17:38:58.424Z
+date: 2023-02-20T17:53:32.019Z
 ---
 <Boss name="mama" video="pfWrGs3yT3g" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
@@ -572,13 +572,11 @@ date: 2023-02-20T17:38:58.424Z
 </IdealRotation>
 </Phase>
 
-<Boss name="arkk" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="arkk" video="85qgi63s2hc" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+  
 
-- Pet: <Skill id="44617" disableText/> Red Moa.
-- Take <Trait name="Oppressive Superiority"/>.
-- Swap to <Item id="50082"/>!
-- Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. (This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it.)
-- Pulling the adds is also great since they can hurt your teams <Item id="24836"/> uptime.
+- Suggested Boon Duration: `35%`
+
 
 </Boss>
 
@@ -611,17 +609,14 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="Frost Trap"/>
-3. <Skill name="Worldly Impact"/> (F3)
-4. <Skill name="Sic Em"/>
-5. <Skill name="Point Blank Shot"/> (Longbow 4)
-6. _Weapon Swap_
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Whirling Defense"/> (Axe 5)
-11. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="icerazorsire" />
+2. <Skill name="chillingisolation" />
+2. <Skill name="legendaryassassinstance" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="shacklingwave" />
+5. <Skill name="deathstrike" />
+6. <Skill name="chillingisolation" />
+7. Weapon Swap
 
 </IdealRotation>
 </Phase>
@@ -634,13 +629,13 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Frenzied Attack"/> (F2)
-3. <Skill name="Splitblade"/> (Axe 2)
-4. <Skill name="Winters Bite"/> (Axe 3)
-5. <Skill name="Worldly Impact"/> (F3)
-6. <Skill name="Splitblade"/> (Axe 2)
-7. _Weapon Swap_
+2. <Skill name="icerazorsire" />
+3. <Skill name="surgeofthemists" />
+4. <Skill name="ordersfromabove" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="chillingisolation" />
+7. <Skill name="shacklingwave" />
+8. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
@@ -653,7 +648,8 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="chillingisolation" />
+2. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -666,19 +662,14 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Sic Em"/>
-4. <Skill name="Frost Trap"/>
-5. <Skill name="Point Blank Shot"/> (Longbow 4)
-6. _Weapon Swap_
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Worldly Impact"/> (F3)
-11. <Skill name="Frenzied Attack"/> (F2)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill name="Splitblade"/> (Axe 2)
+1. <Skill name="icerazorsire" />
+3. <Skill name="ordersfromabove" />
+2. <Skill name="legendaryassassinstance" />
+5. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="legendaryrenegadestance" />
 
 </IdealRotation>
 </Phase>
@@ -691,12 +682,13 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="Point Blank Shot"/> (Longbow 4)
-3. <Skill name="Rapid Fire"/> (Longbow 2)
-4. _Weapon Swap_
-5. <Skill name="Splitblade"/> (Axe 2)
-6. <Skill name="Sic Em"/> (After Phase)
+1. <Skill name="icerazorsire" />
+2. <Skill name="surgeofthemists" />
+3. <Skill name="ordersfromabove" />
+4. <Skill name="heroiccommand" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="shacklingwave" />
+
 
 </IdealRotation>
 </Phase>
@@ -709,10 +701,9 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Frost Trap"/>
-2. <Skill name="Path of Scars"/> (Axe 4)
-3. <Skill name="Splitblade"/> (Axe 2)
-4. <Skill name="Winters Bite"/> (Axe 3)
+1. <Skill name="chillingisolation" />
+2. <Skill name="deathstrike" />
+3. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -725,12 +716,14 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Whirling Defense"/> (Axe 5)
-3. <Skill name="Winters Bite"/> (Axe 3)
-4. <Skill name="Path of Scars"/> (Axe 4)
-5. _Weapon Swap_
-6. <Skill name="Rapid Fire"/> (Longbow 2)
+1. <Skill name="icerazorsire" />
+2. <Skill name="ordersfromabove" />
+2. <Skill name="legendaryrenegadestance" />
+5. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="legendaryrenegadestance" />
 
 </IdealRotation>
 </Phase>
@@ -743,19 +736,13 @@ date: 2023-02-20T17:38:58.424Z
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="One Wolf Pack"/>
-3. <Skill name="Sic Em"/>
-4. <Skill name="Frost Trap"/>
-5. <Skill name="Point Blank Shot"/> (Longbow 4)
-6. _Weapon Swap_
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Worldly Impact"/> (F3)
-11. <Skill name="Whirling Defense"/> (Axe 5)
-12. <Skill name="Frenzied Attack"/> (F2)
-13. <Skill name="Splitblade"/> (Axe 2)
-
+1. <Skill name="soulcleavessummit" />
+2. <Skill name="icerazorsire" />
+3. <Skill name="heroiccommand" />
+4. <Skill name="legendaryassassinstance" />
+5. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
 </IdealRotation>
 </Phase>
