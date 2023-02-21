@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-02-20T17:53:32.019Z
+date: 2023-02-21T16:44:17.799Z
 ---
 
 <Boss name="mama" video="pfWrGs3yT3g" timestamp="" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -13,7 +13,7 @@ date: 2023-02-20T17:53:32.019Z
 - Suggested Boon Duration: `20%`.
 - Traits - Take <Trait name="Lasting Legacy"/>.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
-- If <Instability name="No Pain, No Gain"/> is present remember to take <Item id="33756"/> on Staff.
+- If <Instability name="No Pain, No Gain"/> is present remember to take <Item name="absorption" /> on Staff.
 </Boss>
 
 <Phase>
@@ -69,8 +69,6 @@ date: 2023-02-20T17:53:32.019Z
 1. <Skill name="shacklingwave" />
 2. <Skill name="ordersfromabove" />
 3. <Skill name="chillingisolation" />
-4. <Skill name="heroiccommand" />
-
 
 </IdealRotation>
 </Phase>
