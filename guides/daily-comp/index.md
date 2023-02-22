@@ -52,14 +52,12 @@ In this section you can find links to different parts of the site with informati
 
 | Boss         | PoV                                  | Log                                                        | Player |
 |--------------|--------------------------------------|------------------------------------------------------------|--------|
-| MAMA         | [Link](https://youtu.be/bGF32Bn4UrA) | [DPS.Report](https://dps.report/0SSJ-20230105-012815_mama) | Inky   |
+| MAMA         |                                      |                                                            |        |
 | Siax         |                                      |                                                            |        |
 | Ensolyss     |                                      |                                                            |        |
 | Skorvald     |                                      |                                                            |        |
 | Artsariiv    |                                      |                                                            |        |
 | Arkk         |                                      |                                                            |        |
-| Elemental Ai |                                      |                                                            |        |
-| Dark Ai      |                                      |                                                            |        |
 
 </Tab>
 
@@ -71,8 +69,8 @@ In this section you can find links to different parts of the site with informati
 | Siax         |     |     |        |
 | Ensolyss     |     |     |        |
 | Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s) | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor) | Hyp   |
-| Artsariiv    | [Link](https://youtu.be/_hC6OKkqvjY) | [DPS.Report](https://dps.report/lOsT-20230217-221106_arriv) | Hyp   |
-| Arkk         |     |     |        |
+| Artsariiv    | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp   |
+| Arkk         | [Link](https://youtu.be/qhCSGO0cZ0o?t=207) | [DPS.Report](https://dps.report/4ppV-20221117-203704_arkk) | Hyp   |
 
 </Tab>
 
@@ -83,9 +81,9 @@ In this section you can find links to different parts of the site with informati
 | MAMA         |     |     |        |
 | Siax         |     |     |        |
 | Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
+| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU) | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor) | Jetrell |
+| Artsariiv    | [Link](https://youtu.be/VJOA0w7c_rw?t=132) | [DPS.Report](https://dps.report/DAIg-20221117-234552_arriv) | Jetrell |
+| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk) | Jetrell |
 
 </Tab>
 
@@ -145,8 +143,8 @@ In this section you can find links to different parts of the site with informati
 
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
-| Elemental Ai |     |     |        |
-| Dark Ai      |     |     |        |
+| Elemental Ai | | | |
+| Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint |
 
 </Tab>
 
@@ -155,7 +153,7 @@ In this section you can find links to different parts of the site with informati
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
 | Elemental Ai |     |     |        |
-| Dark Ai      |     |     |        |
+| Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp |
 
 </Tab>
 
@@ -180,7 +178,7 @@ In this section you can find links to different parts of the site with informati
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
 | Elemental Ai |     |     |        |
-| Dark Ai      |     |     |        |
+| Dark Ai      | [Link](https://youtu.be/fdGXM_aYVAo) | [DPS.Report](https://dps.report/8iUH-20221107-000901_ai) | Hyp |
 
 </Tab>
 </Tabs>
