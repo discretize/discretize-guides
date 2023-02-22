@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: 2022-01-18T19:56:06.261Z
+date: 2023-02-22T00:23:43.159Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -655,7 +655,6 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 2. <Skill name="Frenzied Attack"/> (F2)
 3. <Skill name="Splitblade"/> (Axe 2)
 4. <Skill name="Winters Bite"/> (Axe 3)
-5. <Skill name="Worldly Impact"/> (F3)
 6. <Skill name="Splitblade"/> (Axe 2)
 7. _Weapon Swap_
 
@@ -671,6 +670,8 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 <IdealRotation>
 
 1. <Skill name="Rapid Fire"/> (Longbow 2)
+2. <Skill name="Worldly Impact"/> (F3)
+
 
 </IdealRotation>
 </Phase>
@@ -692,7 +693,6 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 7. <Skill name="Splitblade"/> (Axe 2)
 8. <Skill name="Winters Bite"/> (Axe 3)
 9. <Skill name="Path of Scars"/> (Axe 4)
-10. <Skill name="Worldly Impact"/> (F3)
 11. <Skill name="Frenzied Attack"/> (F2)
 12. <Skill name="Whirling Defense"/> (Axe 5)
 13. <Skill name="Splitblade"/> (Axe 2)
