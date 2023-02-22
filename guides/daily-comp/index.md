@@ -1,11 +1,11 @@
 ---
 title: dT Daily Comp
-date: 2022-08-10T22:20:53.987Z
+date: 2023-02-02T22:20:53.987Z
 image: ./images/mama.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
 
-## Hello, I want to have faster runs with like-minded pugs or my friends but i don't know what comps to play!
+## Playing in organissed groups
 
 It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
 
@@ -86,41 +86,16 @@ In this section you can find links to different parts of the site with informati
 | Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk) | Jetrell |
 
 </Tab>
-
-<Tab specialization="Weaver">
-
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
-
-</Tab>
 <Tab specialization="Dragonhunter">
 
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
-
-</Tab>
-<Tab specialization="Bladesworn">
-
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
+| MAMA         | [Link](https://youtu.be/JAL9VH6TYkI?t=286) | [DPS.Report](https://dps.report/yIZv-20230221-233753_mama) | Magic   |
+| Siax         | [Link](https://youtu.be/JAL9VH6TYkI?t=341) | [DPS.Report](https://dps.report/fw1V-20230221-234248_siax) | Magic   |
+| Ensolyss     | [Link](https://youtu.be/JAL9VH6TYkI?t=387) | [DPS.Report](https://dps.report/PFOU-20230221-234625_enso) | Magic   |
+| Skorvald     | [Link](https://youtu.be/JAL9VH6TYkI) | [DPS.Report](https://dps.report/w6Vw-20230221-220014_skor) | Magic   |
+| Artsariiv    | [Link](https://youtu.be/JAL9VH6TYkI?t=82) | [DPS.Report](https://dps.report/Eb5h-20230221-221859_arriv) | Magic   |
+| Arkk         | [Link](https://youtu.be/JAL9VH6TYkI?t=164) | [DPS.Report](https://dps.report/sKwF-20230221-224208_arkk) | Magic   |
 
 </Tab>
 </Tabs>
@@ -196,18 +171,12 @@ All CC Schedules used in the PoVs and guides in this section can be found here [
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)      |
 | <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/revenant/power-scrapper/static)      |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/power-soulbeast/static)       |
-| <BuildLink build="Power Weaver" specialization="Weaver"/>             | Static | [guide](/cm-guides/elementalist/power-weaver/static)    |
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static)  |
-| <BuildLink build="Power Bladesworn" specialization="Bladesworn"/>     | Static | [guide](/cm-guides/warrior/power-bladesworn/static)     |
+
 
 | Condi Builds                                                          | Type   | Link                                                                                                  |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
-| <BuildLink build="Condi Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/condi-renegade/static)      |
-| <BuildLink build="Staxe Mirage" specialization="Mirage"/>             | Static | [guide](/cm-guides/revenant/condi-mirage/static)        |
-| <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/condi-soulbeast/static)       |
-| <BuildLink build="Condi Harbinger" specialization="Harbinger"/>       | Static | [guide](/cm-guides/elementalist/condi-harbinger/static) |
-| <BuildLink build="Condi Firebrand" specialization="Firebrand"/>       | Static | [guide](/cm-guides/guardian/condi-firebrand/static)     |
-| <BuildLink build="Condi Specter" specialization="Specter"/>           | Static | [guide](/cm-guides/warrior/condi-specter/static)        |
+| | | |
 
 </Card>
 </GridItem>
