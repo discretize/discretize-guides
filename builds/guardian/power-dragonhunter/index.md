@@ -332,9 +332,9 @@ Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" 
 
 <Card title="Step-by-Step Video">
 
-This video shows the step-by-step approach to the rotation. Please note that this video focuses on the old rotation utilizing <Trait name="biggamehunter" />.
+This video shows the step-by-step approach to the rotation.
 
-<Video youtube="03nlPL24KWE" caption="by Ascers"/>
+<Video youtube="8bC1aDY5pHw" caption="by Shavy"/>
 
 </Card>
 
