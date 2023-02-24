@@ -334,7 +334,7 @@ Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" 
 
 This video shows the step-by-step approach to the rotation.
 
-<Video youtube="8bC1aDY5pHw" caption="by Shavy"/>
+<Video youtube="pJHII9e_qIY" caption="by Shavy"/>
 
 </Card>
 
