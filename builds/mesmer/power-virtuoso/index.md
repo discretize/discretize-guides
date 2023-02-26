@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2023-01-03T17:40:29.044Z
+date: 2023-02-26T18:32:57.994Z
 ---
 
 <Advanced>
@@ -273,30 +273,7 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 
 </Card>
 
-<Card title="Improving Further">
 
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
-
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
-
-The additional steps are:
-
-- Use other Shatter skills (F2/F3) for extra damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to always have 5 Blades back for when your <Skill name="Bladesong Harmony"/> comes back.
-- Precast additional skills before the encounter starts to get a bigger spike of damage at the start of the fight.
-
-</Card>
-
-</Beginner>
-
-<Advanced>
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
-
-They do however benefit from <Effect name="Exposed"/>.
-</Card>
 
 <Card title="Precasting">
 
@@ -331,6 +308,31 @@ At the boss (pre spawned bosses)
 This video shows the full rotation for the Greatsword variant on the golem.
 
 <Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
+</Card>
+
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+The additional steps are:
+
+- Use other Shatter skills (F2/F3) for extra damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to always have 5 Blades back for when your <Skill name="Bladesong Harmony"/> comes back.
+- Precast additional skills before the encounter starts to get a bigger spike of damage at the start of the fight.
+
+</Card>
+
+</Beginner>
+
+<Advanced>
+<Card title="Information">
+
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+
+They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
 <Advanced>
