@@ -20,7 +20,7 @@ classification:
   - 3
   - 4
   - 5
-date: 2023-01-27T21:20:48.049Z
+date: 2023-02-26T18:28:57.330Z
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -70,6 +70,21 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 
 </Card>
 
+<Card title="Defiance Bar Damage">
+
+|                                                                                                                        |                                          |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <Skill name="Wind Storm" size="big" disableText/>                                                                      | 200 with <Control name="Knockdown"/>     |
+| <Skill name="Shock Blast" size="big" disableText/>                                                                     | 150 with <Control name="Stun"/>          |
+| <Skill name="Wind Blast" size="big" disableText/>                                                                      | 232 with <Control name="Launch"/>        |
+| <Skill name="Deep Freeze" size="big" disableText/>                                                                     | 300 with <Control name="Stun"/>          |
+| <Skill id="5547" size="big" disableText/>                                                                              | 200 with <Control name="Daze"/>          |
+| <Skill id="5747" size="big" disableText/>                                                                              | 150 with <Control name="Pull"/>          |
+| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> | 33 / s with <Condition name="Chilled"/>  |
+| <Skill name="Crescent Wind" size="big" disableText/>                                                                   | 20 / s with <Condition name="Weakness"/> |
+
+</Card>
+
 </GridItem>
 
 <GridItem sm="6">
@@ -96,21 +111,6 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 | <Skill name="Lightning Flash" size="big" disableText/>            | A teleport with a range of 900 units. Very important skill for certain skips.                                                                                    |
 | <Skill name="Arcane Wave" size="big" disableText/>                | Useful to generate <Boon name="Might"/> with a fire field.                                                                                                       |
 | <Skill name="Invigorating Air" size="big" disableText/>           | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.  |
-
-</Card>
-
-<Card title="Defiance Bar Damage">
-
-|                                                                                                                        |                                          |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <Skill name="Wind Storm" size="big" disableText/>                                                                      | 200 with <Control name="Knockdown"/>     |
-| <Skill name="Shock Blast" size="big" disableText/>                                                                     | 150 with <Control name="Stun"/>          |
-| <Skill name="Wind Blast" size="big" disableText/>                                                                      | 232 with <Control name="Launch"/>        |
-| <Skill name="Deep Freeze" size="big" disableText/>                                                                     | 300 with <Control name="Stun"/>          |
-| <Skill id="5547" size="big" disableText/>                                                                              | 200 with <Control name="Daze"/>          |
-| <Skill id="5747" size="big" disableText/>                                                                              | 150 with <Control name="Pull"/>          |
-| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> | 33 / s with <Condition name="Chilled"/>  |
-| <Skill name="Crescent Wind" size="big" disableText/>                                                                   | 20 / s with <Condition name="Weakness"/> |
 
 </Card>
 
