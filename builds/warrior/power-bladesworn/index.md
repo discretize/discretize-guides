@@ -5,7 +5,7 @@ archive: false
 rating: Good
 role: Power Damage
 profession: Warrior
-specialization: BLadesworn
+specialization: Bladesworn
 skills: null
 traits: null
 conditions:
@@ -28,7 +28,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2023-01-03T17:38:44.004Z
+date: 2023-02-26T18:51:11.764Z
 ---
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses sustained damage in favor of short damage spikes. Along with this <Specialization text="Power Bladesworn" name="Bladesworn"/> provides a lot of boon support to a party, sharing <Boon name="Might"/> and <Boon name="Quickness"/> from traits along with optional utility skills like <Skill name="Forgreatjustice"/> which can carry a party with low boon uptime by providing 12 stacks of <Boon name="Might"/> (becomes 20 stacks, taking into account <Boon name="Might"/> from traits) and a high <Boon name="Fury"/> uptime.
