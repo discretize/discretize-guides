@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: 2023-02-26T18:32:57.994Z
+date: 2023-02-27T06:44:51.280Z
 ---
 
 <Advanced>
@@ -309,6 +309,8 @@ This video shows the full rotation for the Greatsword variant on the golem.
 
 <Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
 </Card>
+
+<Beginner>
 
 <Card title="Improving Further">
 
