@@ -52,7 +52,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 
-</CharacterWithAr>  
+</CharacterWithAr>
 
 <Divider text="Build"/>
 
@@ -64,9 +64,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - If you want to run one variant on all fights, Greatsword is highly recommended.
 
 <Advanced>
-
-
-
 
 - You can run Pistol instead of Focus on fights with multiple enemies when deciding to run this variant as <Skill name="Phantasmal Warden"/> does not always attack your target.
 - Greatswords, Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
@@ -136,11 +133,11 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 |                                                                |                                                                                                                                                                                            |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
-| <Skill name="Sword of Decimation" size="big" disableText/>     | An alternative for <Skill name="Phantasmal Disenchanter"/> on fights with <Effect name="Exposed"/>, and phases that are too quick to use it.                                     |
+| <Skill name="Sword of Decimation" size="big" disableText/>     | An alternative for <Skill name="Phantasmal Disenchanter"/> on fights with <Effect name="Exposed"/>, and phases that are too quick to use it.                                               |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                         |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
 | <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
-| <Skill name="Feedback" size="big" disableText/>                | USed fore reflects on bosses such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect lasers.                                                                                        |
+| <Skill name="Feedback" size="big" disableText/>                | USed fore reflects on bosses such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect lasers.                                                                                          |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
 | **Skips**                                                      |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
@@ -272,9 +269,9 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 - Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant cast and can therefore be used while casting other skills.
 
 </Card>
+</Beginner>
 
-
-
+<Advanced>
 <Card title="Precasting">
 
 At the Mistlock Singularity
@@ -337,7 +334,6 @@ It's important to note that phantasms do not benefit from most modifiers unless 
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
-<Advanced>
 <Card title="Opener">
 
 There is a basic fractal opener, you will need to adapt this depending on the boss and cooldowns.
