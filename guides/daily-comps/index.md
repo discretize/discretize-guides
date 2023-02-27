@@ -65,12 +65,12 @@ In this section you can find links to different parts of the site with informati
 
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
+| MAMA         | [Link](https://youtu.be/xEHSN4uoyaM) | [DPS.Report](https://dps.report/p2jZ-20230226-153044_mama) | Jetrell |
+| Siax         | [Link](https://youtu.be/cN_fLBIaAhA) | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax) | Hyp |
+| Ensolyss     | [Link](https://youtu.be/kTTD3RrMIlI) | [DPS.Report](https://dps.report/qwmP-20221215-182717_enso) | Elu |
 | Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s) | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor) | Hyp   |
 | Artsariiv    | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp   |
-| Arkk         | [Link](https://youtu.be/qhCSGO0cZ0o?t=207) | [DPS.Report](https://dps.report/4ppV-20221117-203704_arkk) | Hyp   |
+| Arkk         | [Link](https://youtu.be/uaC9y-1G6Us) | [DPS.Report](https://dps.report/Assu-20230221-212418_arkk) | Hyp   |
 
 </Tab>
 
@@ -78,11 +78,11 @@ In this section you can find links to different parts of the site with informati
 
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
+| MAMA         | [Link](https://youtu.be/90pdA_RXrZg) | [DPS.Report](https://dps.report/N9pA-20230221-222004_mama) | Hyp |
+| Siax         | [Link](https://youtu.be/vznqacW_-mU) | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax) | Jetrell |
+| Ensolyss     | [Link](https://youtu.be/0aW6haE4vhI) | [DPS.Report](https://dps.report/BJD5-20230226-165007_enso) | Hyp |
 | Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU) | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor) | Jetrell |
-| Artsariiv    | [Link](https://youtu.be/VJOA0w7c_rw?t=132) | [DPS.Report](https://dps.report/DAIg-20221117-234552_arriv) | Jetrell |
+| Artsariiv    | [Link](https://youtu.be/8bQUWBhMaHo) | [DPS.Report](https://dps.report/DnoQ-20230127-005234_arriv) | Jetrell |
 | Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk) | Jetrell |
 
 </Tab>
