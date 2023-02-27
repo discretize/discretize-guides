@@ -63,27 +63,27 @@ In this section you can find links to different parts of the site with informati
 
 <Tab specialization="Scrapper">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         | [Link](https://youtu.be/xEHSN4uoyaM) | [DPS.Report](https://dps.report/p2jZ-20230226-153044_mama) | Jetrell |
-| Siax         | [Link](https://youtu.be/cN_fLBIaAhA) | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax) | Hyp |
-| Ensolyss     | [Link](https://youtu.be/kTTD3RrMIlI) | [DPS.Report](https://dps.report/qwmP-20221215-182717_enso) | Elu |
-| Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s) | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor) | Hyp   |
-| Artsariiv    | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp   |
-| Arkk         | [Link](https://youtu.be/uaC9y-1G6Us) | [DPS.Report](https://dps.report/Assu-20230221-212418_arkk) | Hyp   |
+| Boss         | PoV                                        | Log                                                         | Player  |
+|--------------|--------------------------------------------|-------------------------------------------------------------|---------|
+| MAMA         | [Link](https://youtu.be/xEHSN4uoyaM)       | [DPS.Report](https://dps.report/p2jZ-20230226-153044_mama)  | Jetrell |
+| Siax         | [Link](https://youtu.be/cN_fLBIaAhA)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Hyp     |
+| Ensolyss     | [Link](https://youtu.be/kTTD3RrMIlI)       | [DPS.Report](https://dps.report/qwmP-20221215-182717_enso)  | Elu     |
+| Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s)       | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor)  | Hyp     |
+| Artsariiv    | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp     |
+| Arkk         | [Link](https://youtu.be/uaC9y-1G6Us)       | [DPS.Report](https://dps.report/Assu-20230221-212418_arkk)  | Hyp     |
 
 </Tab>
 
 <Tab specialization="Soulbeast">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         | [Link](https://youtu.be/90pdA_RXrZg) | [DPS.Report](https://dps.report/N9pA-20230221-222004_mama) | Hyp |
-| Siax         | [Link](https://youtu.be/vznqacW_-mU) | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax) | Jetrell |
-| Ensolyss     | [Link](https://youtu.be/0aW6haE4vhI) | [DPS.Report](https://dps.report/BJD5-20230226-165007_enso) | Hyp |
-| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU) | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor) | Jetrell |
-| Artsariiv    | [Link](https://youtu.be/8bQUWBhMaHo) | [DPS.Report](https://dps.report/DnoQ-20230127-005234_arriv) | Jetrell |
-| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk) | Jetrell |
+| Boss         | PoV                                        | Log                                                         | Player        |
+|--------------|--------------------------------------------|-------------------------------------------------------------|---------------|
+| MAMA         | [Link](https://youtu.be/90pdA_RXrZg)       | [DPS.Report](https://dps.report/N9pA-20230221-222004_mama)  | Hyp           |
+| Siax         | [Link](https://youtu.be/vznqacW_-mU)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Jetrell       |
+| Ensolyss     | [Link](https://youtu.be/0aW6haE4vhI)       | [DPS.Report](https://dps.report/BJD5-20230226-165007_enso)  | Hyp           |
+| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU)       | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor)  | Jetrell       |
+| Artsariiv    | [Link](https://youtu.be/8bQUWBhMaHo)       | [DPS.Report](https://dps.report/DnoQ-20230127-005234_arriv) | Jetrell       |
+| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk)  | Jetrell       |
 
 </Tab>
 <Tab specialization="Dragonhunter">
@@ -93,8 +93,8 @@ In this section you can find links to different parts of the site with informati
 | MAMA         | [Link](https://youtu.be/JAL9VH6TYkI?t=286) | [DPS.Report](https://dps.report/yIZv-20230221-233753_mama) | Magic   |
 | Siax         | [Link](https://youtu.be/JAL9VH6TYkI?t=341) | [DPS.Report](https://dps.report/fw1V-20230221-234248_siax) | Magic   |
 | Ensolyss     | [Link](https://youtu.be/JAL9VH6TYkI?t=387) | [DPS.Report](https://dps.report/PFOU-20230221-234625_enso) | Magic   |
-| Skorvald     | [Link](https://youtu.be/JAL9VH6TYkI) | [DPS.Report](https://dps.report/w6Vw-20230221-220014_skor) | Magic   |
-| Artsariiv    | [Link](https://youtu.be/JAL9VH6TYkI?t=82) | [DPS.Report](https://dps.report/Eb5h-20230221-221859_arriv) | Magic   |
+| Skorvald     | [Link](https://youtu.be/JAL9VH6TYkI)       | [DPS.Report](https://dps.report/w6Vw-20230221-220014_skor) | Magic   |
+| Artsariiv    | [Link](https://youtu.be/JAL9VH6TYkI?t=82)  | [DPS.Report](https://dps.report/Eb5h-20230221-221859_arriv) | Magic  |
 | Arkk         | [Link](https://youtu.be/JAL9VH6TYkI?t=164) | [DPS.Report](https://dps.report/sKwF-20230221-224208_arkk) | Magic   |
 
 </Tab>
@@ -166,7 +166,7 @@ All CC Schedules used in the PoVs and guides in this section can be found here [
 </Card>
 <Card title="CM Profession Guides">
 
-| Power Builds                                                          | Type   | Link                                                                                                  |
+| Power Builds                                                          | Type   | Link                                                    |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)      |
 | <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/revenant/power-scrapper/static)      |
@@ -174,9 +174,9 @@ All CC Schedules used in the PoVs and guides in this section can be found here [
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static)  |
 
 
-| Condi Builds                                                          | Type   | Link                                                                                                  |
+| Condi Builds                                                          | Type   | Link                                                    |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
-| | | |
+|                                                                       |        |                                                         |
 
 </Card>
 </GridItem>
