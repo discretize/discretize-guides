@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: 2022-08-10T22:20:53.987Z
+date: 2023-02-02T22:20:53.987Z
 image: ./images/preview.png
 description: Everything around compositions in fractals
 ---
@@ -82,108 +82,6 @@ All information is available on their [Discord](https://dsc.gg/low-standards).
 ## What are strong comps for organised groups?
 
 <Warning>
-It is important to note, that each challenge mote encounter has a different effective composition, which is often different to the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character for every boss or fractal. 
+It is important to note, that each challenge mote encounter has a different effective composition, which is often different to the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions brings enough utility to deal with all situations that are occurring in fractals without needing to relog to another character for every boss or fractal. To see examples of these check out the [dT Daily Comps](/guides/daily-comp).
 </Warning>
 
-With the May 11th 2021 balance patch came a huge shake up to fractal compositions due to the <Effect name="Exposed"/> change. Instead of being a 50% damage modifier, it was nerfed to 30% power and buffed to 100% condi damage, which has since been changed to a 10% power increase and 20% condition in March 2022.
-
-This has led to condition builds becoming competitive with power builds on many fractals, even in high end groups. This has led to a big split between daily run comps and boss kill comps. For individual bosses power still shines and in most cases can get much faster kills than condi comps can (apart from Ensolyss and 100CM), but for full runs due to the minimal time needed to precast, ease of the comp and the fact it gets similar if not faster times to power runs, for most groups condi comps tend to be a safer pick.
-
-With this in mind we have two comps we use for our runs. A <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/> comp for runs where people want to get in and out asap with minimal effort. Power comps are also still very strong for days when groups want to get some faster boss kills requiring more co-ordination, but due to numerous game changes, we are yet to settle on a strong composition.
-
-<Warning>
-For groups such as PuGs or statics less focused on optimal strats and comps used changes entirely. To find out more information about what changes scroll up to the PuG section.
-</Warning>
-
-### <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/>
-
-As mentioned above this comp is ran for an easy daily clear without class swapping. It has high burst for a condi comp with lots of sustain, while being easy to play regardless of instabilities, performing well on every encounter. Read below to see why each class is taken;
-
-<Tabs>
-<Tab specialization="Renegade">
-
-- Provides permanent <Boon name="Alacrity"/> and around 10 stacks of <Boon name="Might"/>.
-- Deals a large amount of CC through <Skill name="Darkrazors Daring"/>, <Skill name="Scorchrazor"/> and <Skill name="Surge of the Mists"/>
-- Deals a good amount of damage, coming close or beating other classes on some encounters
-- Has blinks available from skills such as <Skill name="phasetraversal"/>
-- Depending on the encounter power or condi can be stronger. In T4s typically for trash mobs playing power is   better, with condi played on bosses. In CMs power will be stronger on Skorvald, Arkk and MAMA, with condi    being stronger on Artsariiv, Ensolyss and 100CM. Although both builds are perfectly playable everywhere if you don't want to swap
-
-<BuildLink build="Condi Alac Renegade" specialization="Renegade"/>
-<br/>
-<BuildLink build="Power Renegade" specialization="Renegade"/>
-</Tab>
-
-<Tab specialization="Firebrand">
-
-- Provides permanent <Boon name="Quickness"/>, on demand <Boon name="Aegis"/>, <Boon name="Resistance"/> and some <Boon name="Might"/>.
-- Generates a fair share of <Boon name="Fury"/> by <Skill name="Feel my wrath"/> and the sword symbol <Skill name="Symbol of Vengeance"/>.
-- Deals a decent amount of DPS with reasonable burst. Also by playing two <Specialization name="Firebrand"/> you can run <Trait name="Legendary Lore"/> for even more damage while still maintaining <Boon name="Quickness"/>.
-- Contributes a huge amount of CC with <Skill name="sanctuary"/>.
-- Provides a party damage increase through Ashes of the Just (Tome 1-5).
-- Can provide situational <Boon name="Stability"/> and <Boon name="Aegis"/> using <Skill name="Stand your ground"/>, <Skill name="Tome of Courage"/> and <Skill name="Mantra of Liberation"/>.
-
-<BuildLink build="Condi Firebrand" specialization="Firebrand"/>
-</Tab>
-
-<Tab specialization="Specter">
-
-- Currently one of the highest bursting condi classes in the game
-- Provides strong party dps buffs through <Skill name="Spider Venom"/> and <Skill name="Skale Venom"/>.
-- Provides a massive amount of CC by sharing <Skill name="Basilisk Venom"/>.
-- Has high mobility with many blinks, portals and <Effect name="Stealth"/>, great for skips and completing T4s fast.
-- Brings great group support from being able to share <Effect name="Barrier"/> and some boons to targeted players. While also providing some heals through <Trait name="Consume Shadows"/> and <Trait name="Dark Sentry"/>.
-- On T4 fractals, can swap to <Specialization name="Daredevil"/> for huge cleave damage on trash mobs and some power focused bosses.
-
-<BuildLink build="Condi Specter" specialization="Specter"/>
-<BuildLink build="Power Daredevil" specialization="Daredevil"/>
-</Tab>
-
-<Tab specialization="Soulbeast">
-
-- Has strong power and condi builds making it an ideal choice due to being able to easily switch gear depending on the enounter.
-- Contributes to CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>.
-- Provides some of the strongest unique temporary DPS boosts, <Skill name="onewolfpack"/> and <Skill name="Vulture Stance"/>, which helps to meet DPS checks.
-- Deals very high damage.
-- Allows the team to <Effect name="Stealth"/> in T4s due to the smoke field from the <Skill id="31568" disableText/> [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) pet.
-- We recommend to play <Specialization name="Soulbeast" text="Condi Soulbeast"/> on Ensolyss, 100CM (<Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is also strong here) and on some T4 end bosses.
-- For the rest of the CM bosses and on power focused T4 fractals we recommend <Specialization name="Soulbeast" text="Power Soulbeast"/>.
-
-<BuildLink build="Power Soulbeast" specialization="Soulbeast"/>
-<BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>
-</Tab>
-</Tabs>
-
-<Card title="Hybrid Comp CM Boss Overview">
-<Warning>
-This table shows the common swaps for builds, traits and notable skills for the <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/> comp we use in fractal CMs. The CC distributions for each boss we use can be found [here](/guides/cc-distribution). While this setup works for us, it may not be suitable or optimal for every group, you should play around and find a setup that works for your party.
-</Warning>
-
-
-| | <Specialization name="Renegade"/> | <Specialization name="Firebrand" text="Quickshare Firebrand 1"/> | <Specialization name="Firebrand" text="Quickshare Firebrand 2"/> | <Specialization name="Specter"/> | <Specialization name="Soulbeast"/> |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| **Skorvald** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Mantra of Liberation"/>, <Skill name="Sword of Justice"/> | <Skill name="Mantra of Liberation"/>, <Skill name="Sword of Justice"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/>, <Skill id="43636" text="Rock Gazelle"/> |
-| **Artsariiv** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> or <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Hammer of Wisdom"/>, <Skill name="Tome of Courage"/> for <Boon name="Aegis"/> (P2), <Skill name="Mantra of Liberation"/>  | <Skill name="Hammer of Wisdom"/>, <Skill name="Tome of Courage"/> for <Boon name="Aegis"/> (P3), <Skill name="Mantra of Liberation"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Item id="72239" text="Pistol"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/> (<Trait name="Oppressive Superiority"/> if you have to reflect), <Skill id="43636" text="Rock Gazelle"/>  |
-| **Arkk** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Sword of Justice"/> | <Skill name="Sword of Justice"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/>, <Skill id="44617" text="Red Moa"/> |
-| **MAMA** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="Hammer of Wisdom"/> | <Skill name="Sword of Justice"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Item id="72239" text="Pistol"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/> <Skill id="43636" text="Rock Gazelle"/> |
-| **Siax** | <BuildLink build="Power Renegade" specialization="Renegade"/> | <Skill name="sanctuary"/> | <Skill name="sanctuary"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, <Trait name="Leader of the Pack"/>, <Skill id="43636" text="Rock Gazelle"/> |
-| **Ensolyss** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>, <Boon name="Alacrity"/> share | <Skill name="Mantra of Flame"/> | <Skill name="Mantra of Flame"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Boon name="Alacrity"/> share | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>, <Skill id="41206" text="Bristleback"/> |
-| **Light AI** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>. <Boon name="Alacrity"/> share | <Skill name="sanctuary"/> | <Skill name="sanctuary"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Boon name="Alacrity"/> share | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> or <Specialization name="Soulbeast" text="Hybrid Soulbeast"/> <Skill id="41206" text="Bristleback"/> |
-| **Dark AI** | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/>, <Boon name="Alacrity"/> share | <Skill name="sanctuary"/> | <Skill name="sanctuary"/> | <BuildLink build="Condi Specter" specialization="Specter"/>, <Skill name="Basilisk Venom"/>, <Boon name="Alacrity"/> share | <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> or <Specialization name="Soulbeast" text="Hybrid Soulbeast"/>, <Skill id="41206" text="Bristleback"/> |
-
-</Card>
-
-<Card title="Daily Comps Comparison">
-<Warning>
-This table contains some outdated information in the way of power comps. However the table still does show a good comparison between the styles of gameplay regardless of class choice.
-</Warning>
-
-|                   | <Composition name="Daily Hybrid" composition="Renegade,Firebrand,Firebrand,Specter, Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,Quickness/CC/DPS,Venoms/CC/DPS, Stances/CC/DPS" size="small"/>                                                                                                       | <Composition name="Daily Power" composition="Renegade,Firebrand,Dragonhunter,Soulbeast,Soulbeast" roles="Alacrity/CC/DPS,Quickness/CC/DPS,CC/DPS,Frost Spirit/CC/DPS,Spotter/CC/DPS" size="small"/>                                                                                                                                                                                                                                   |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **General Info**  | A very easy to play comp that can faceroll all fractals regardless of instabilities. This is a great option if your group wants to clear fractals safely with little effort. Unless you are an organised consistent static, overall the run time is often the same or faster than playing power. | A solid, consistent power comp providing plenty of CC and group support. This comp is a great start for people looking to run no healer and start to decrease their individual boss kill times. Additionally the <Specialization name="Dragonhunter"/> can be replaced with a different DPS class relatively easily.                                                                                                                  |
-| **Difficulty**    | Easy                                                                                                                                                                                                                                                                                             | Medium                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Pros**          | Lots of sustain and can deal with [ bad Instabilities](/guides/fractal-basics) very easily.<br/><br/>Comp can run pretty much any DPS builds and will still work on all fractals, providing boons and <Condition name="Vulnerability"/> are covered.                                                                                                       | Access to an abundant amount of [CC](/guides/cc-distrobution)<br/><br/>Keeping up boons is easy with plenty of sources for <Boon name="Might"/> and plenty of sources to keep <Condition name="Vulnerability"/> at 25 stacks.<br/>                                                                                                                                                                                                    |
-| **Cons**          | Some bosses can really start to drag on due to short phases and the time condis take to ramp up.<br/><br/>Condi comps can be quite boring to play if you enjoy optimizing your gameplay and pushing boss times.<br/>                                                                             | The comp is fairly restrictive due to the fact you want two <Specialization name="Soulbeast"/> for <Skill name="One Wolf Pack"/>, meaning only the <Specialization name="Dragonhunter"/> can be replaced easily.<br/><br/>In terms of clear time this comp requires a lot more effort and co-ordination to be faster than running a condi comp. Also requiring you to swap to a condi comp for a quick Ensolyss and 100CM kill. <br/> |
-| **Strong Bosses** | Ensolyss<br/>Ai, Keeper of the peak<br/>Artsariiv                                                                                                                                                                                                                                                | Skorvald<br/>Artsariiv<br/>Arkk                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Weaker Bosses** | MAMA<br/>Arkk                                                                                                                                                                                                                                                                                    | Ensolyss<br/>Siax                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
-</Card>

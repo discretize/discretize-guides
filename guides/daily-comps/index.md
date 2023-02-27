@@ -1,11 +1,11 @@
 ---
-title: dT Daily Comp
-date: 2022-08-10T22:20:53.987Z
+title: dT Daily Comps
+date: 2023-02-02T22:20:53.987Z
 image: ./images/mama.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
 
-## Hello, I want to have faster runs with like-minded pugs or my friends but i don't know what comps to play!
+## Playing in organised groups
 
 It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
 
@@ -63,64 +63,39 @@ In this section you can find links to different parts of the site with informati
 
 <Tab specialization="Scrapper">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s) | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor) | Hyp   |
-| Artsariiv    | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp   |
-| Arkk         | [Link](https://youtu.be/qhCSGO0cZ0o?t=207) | [DPS.Report](https://dps.report/4ppV-20221117-203704_arkk) | Hyp   |
+| Boss         | PoV                                        | Log                                                         | Player  |
+|--------------|--------------------------------------------|-------------------------------------------------------------|---------|
+| MAMA         | [Link](https://youtu.be/xEHSN4uoyaM)       | [DPS.Report](https://dps.report/p2jZ-20230226-153044_mama)  | Jetrell |
+| Siax         | [Link](https://youtu.be/cN_fLBIaAhA)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Hyp     |
+| Ensolyss     | [Link](https://youtu.be/kTTD3RrMIlI)       | [DPS.Report](https://dps.report/qwmP-20221215-182717_enso)  | Elu     |
+| Skorvald     | [Link](https://youtu.be/l-BeKbgeL8s)       | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor)  | Hyp     |
+| Artsariiv    | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp     |
+| Arkk         | [Link](https://youtu.be/uaC9y-1G6Us)       | [DPS.Report](https://dps.report/Assu-20230221-212418_arkk)  | Hyp     |
 
 </Tab>
 
 <Tab specialization="Soulbeast">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU) | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor) | Jetrell |
-| Artsariiv    | [Link](https://youtu.be/VJOA0w7c_rw?t=132) | [DPS.Report](https://dps.report/DAIg-20221117-234552_arriv) | Jetrell |
-| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk) | Jetrell |
-
-</Tab>
-
-<Tab specialization="Weaver">
-
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
+| Boss         | PoV                                        | Log                                                         | Player        |
+|--------------|--------------------------------------------|-------------------------------------------------------------|---------------|
+| MAMA         | [Link](https://youtu.be/90pdA_RXrZg)       | [DPS.Report](https://dps.report/N9pA-20230221-222004_mama)  | Hyp           |
+| Siax         | [Link](https://youtu.be/vznqacW_-mU)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Jetrell       |
+| Ensolyss     | [Link](https://youtu.be/0aW6haE4vhI)       | [DPS.Report](https://dps.report/BJD5-20230226-165007_enso)  | Hyp           |
+| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU)       | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor)  | Jetrell       |
+| Artsariiv    | [Link](https://youtu.be/8bQUWBhMaHo)       | [DPS.Report](https://dps.report/DnoQ-20230127-005234_arriv) | Jetrell       |
+| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk)  | Jetrell       |
 
 </Tab>
 <Tab specialization="Dragonhunter">
 
 | Boss         | PoV | Log | Player |
 |--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
-
-</Tab>
-<Tab specialization="Bladesworn">
-
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         |     |     |        |
-| Siax         |     |     |        |
-| Ensolyss     |     |     |        |
-| Skorvald     |     |     |        |
-| Artsariiv    |     |     |        |
-| Arkk         |     |     |        |
+| MAMA         | [Link](https://youtu.be/JAL9VH6TYkI?t=286) | [DPS.Report](https://dps.report/yIZv-20230221-233753_mama) | Magic   |
+| Siax         | [Link](https://youtu.be/JAL9VH6TYkI?t=341) | [DPS.Report](https://dps.report/fw1V-20230221-234248_siax) | Magic   |
+| Ensolyss     | [Link](https://youtu.be/JAL9VH6TYkI?t=387) | [DPS.Report](https://dps.report/PFOU-20230221-234625_enso) | Magic   |
+| Skorvald     | [Link](https://youtu.be/JAL9VH6TYkI)       | [DPS.Report](https://dps.report/w6Vw-20230221-220014_skor) | Magic   |
+| Artsariiv    | [Link](https://youtu.be/JAL9VH6TYkI?t=82)  | [DPS.Report](https://dps.report/Eb5h-20230221-221859_arriv) | Magic  |
+| Arkk         | [Link](https://youtu.be/JAL9VH6TYkI?t=164) | [DPS.Report](https://dps.report/sKwF-20230221-224208_arkk) | Magic   |
 
 </Tab>
 </Tabs>
@@ -191,23 +166,17 @@ All CC Schedules used in the PoVs and guides in this section can be found here [
 </Card>
 <Card title="CM Profession Guides">
 
-| Power Builds                                                          | Type   | Link                                                                                                  |
+| Power Builds                                                          | Type   | Link                                                    |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)      |
 | <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/revenant/power-scrapper/static)      |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/power-soulbeast/static)       |
-| <BuildLink build="Power Weaver" specialization="Weaver"/>             | Static | [guide](/cm-guides/elementalist/power-weaver/static)    |
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static)  |
-| <BuildLink build="Power Bladesworn" specialization="Bladesworn"/>     | Static | [guide](/cm-guides/warrior/power-bladesworn/static)     |
 
-| Condi Builds                                                          | Type   | Link                                                                                                  |
+
+| Condi Builds                                                          | Type   | Link                                                    |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
-| <BuildLink build="Condi Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/condi-renegade/static)      |
-| <BuildLink build="Staxe Mirage" specialization="Mirage"/>             | Static | [guide](/cm-guides/revenant/condi-mirage/static)        |
-| <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/condi-soulbeast/static)       |
-| <BuildLink build="Condi Harbinger" specialization="Harbinger"/>       | Static | [guide](/cm-guides/elementalist/condi-harbinger/static) |
-| <BuildLink build="Condi Firebrand" specialization="Firebrand"/>       | Static | [guide](/cm-guides/guardian/condi-firebrand/static)     |
-| <BuildLink build="Condi Specter" specialization="Specter"/>           | Static | [guide](/cm-guides/warrior/condi-specter/static)        |
+|                                                                       |        |                                                         |
 
 </Card>
 </GridItem>
