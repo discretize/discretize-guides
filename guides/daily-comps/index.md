@@ -161,7 +161,7 @@ In this section you can find links to different parts of the site with informati
 | Power Builds                                                          | Type   | Link                                                    |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)      |
-| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/revenant/power-scrapper/static)      |
+| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/engineer/power-scrapper/static)      |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/power-soulbeast/static)       |
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static)  |
 
