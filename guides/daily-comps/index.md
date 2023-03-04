@@ -41,23 +41,21 @@ It all comes down to some important concepts that need to be fulfilled permanent
 </Card>
 
 <Divider text="Useful Links"/>
-In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of PoVs, Class Guides for CM bosses, Example Logs, and PoVs.
+In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of PoVs, Class Guides for CM bosses, Example Logs, and PoVs. All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution)
 
-<Grid>
-<GridItem sm="8">
 <Card title="Example Power PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Renegade">
 
-| Boss         | PoV                                  | Log                                                        | Player |
-|--------------|--------------------------------------|------------------------------------------------------------|--------|
-| MAMA         |                                      |                                                            |        |
-| Siax         |                                      |                                                            |        |
-| Ensolyss     |                                      |                                                            |        |
-| Skorvald     |                                      |                                                            |        |
-| Artsariiv    |                                      |                                                            |        |
-| Arkk         |                                      |                                                            |        |
+| Boss         | PoV                                                        | Log | Player |
+|--------------|------------------------------------------------------------|-----|--------|
+| MAMA         | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=235s) |     | Inky   |
+| Siax         | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=290s) |     | Inky   |
+| Ensolyss     | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=333s) |     | Inky   |
+| Skorvald     | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=0s)   |     | Inky   |
+| Artsariiv    | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=68s)  |     | Inky   |
+| Arkk         | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=133s) |     | Inky   |
 
 </Tab>
 
@@ -76,26 +74,26 @@ In this section you can find links to different parts of the site with informati
 
 <Tab specialization="Soulbeast">
 
-| Boss         | PoV                                        | Log                                                         | Player        |
-|--------------|--------------------------------------------|-------------------------------------------------------------|---------------|
-| MAMA         | [Link](https://youtu.be/90pdA_RXrZg)       | [DPS.Report](https://dps.report/N9pA-20230221-222004_mama)  | Hyp           |
-| Siax         | [Link](https://youtu.be/vznqacW_-mU)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Jetrell       |
-| Ensolyss     | [Link](https://youtu.be/0aW6haE4vhI)       | [DPS.Report](https://dps.report/BJD5-20230226-165007_enso)  | Hyp           |
-| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU)       | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor)  | Jetrell       |
-| Artsariiv    | [Link](https://youtu.be/8bQUWBhMaHo)       | [DPS.Report](https://dps.report/DnoQ-20230127-005234_arriv) | Jetrell       |
-| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk)  | Jetrell       |
+| Boss         | PoV                                        | Log                                                         | Player  |
+|--------------|--------------------------------------------|-------------------------------------------------------------|---------|
+| MAMA         | [Link](https://youtu.be/90pdA_RXrZg)       | [DPS.Report](https://dps.report/N9pA-20230221-222004_mama)  | Hyp     |
+| Siax         | [Link](https://youtu.be/vznqacW_-mU)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Jetrell |
+| Ensolyss     | [Link](https://youtu.be/0aW6haE4vhI)       | [DPS.Report](https://dps.report/BJD5-20230226-165007_enso)  | Hyp     |
+| Skorvald     | [Link](https://youtu.be/NG7OX2ZLyQU)       | [DPS.Report](https://dps.report/tdg5-20230217-223427_skor)  | Jetrell |
+| Artsariiv    | [Link](https://youtu.be/8bQUWBhMaHo)       | [DPS.Report](https://dps.report/DnoQ-20230127-005234_arriv) | Jetrell |
+| Arkk         | [Link](https://youtu.be/VJOA0w7c_rw?t=200) | [DPS.Report](https://dps.report/yEY8-20221117-234757_arkk)  | Jetrell |
 
 </Tab>
 <Tab specialization="Dragonhunter">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| MAMA         | [Link](https://youtu.be/JAL9VH6TYkI?t=286) | [DPS.Report](https://dps.report/yIZv-20230221-233753_mama) | Magic   |
-| Siax         | [Link](https://youtu.be/JAL9VH6TYkI?t=341) | [DPS.Report](https://dps.report/fw1V-20230221-234248_siax) | Magic   |
-| Ensolyss     | [Link](https://youtu.be/JAL9VH6TYkI?t=387) | [DPS.Report](https://dps.report/PFOU-20230221-234625_enso) | Magic   |
-| Skorvald     | [Link](https://youtu.be/JAL9VH6TYkI)       | [DPS.Report](https://dps.report/w6Vw-20230221-220014_skor) | Magic   |
-| Artsariiv    | [Link](https://youtu.be/JAL9VH6TYkI?t=82)  | [DPS.Report](https://dps.report/Eb5h-20230221-221859_arriv) | Magic  |
-| Arkk         | [Link](https://youtu.be/JAL9VH6TYkI?t=164) | [DPS.Report](https://dps.report/sKwF-20230221-224208_arkk) | Magic   |
+| Boss         | PoV                                        | Log                                                         | Player  |
+|--------------|--------------------------------------------|-------------------------------------------------------------|---------|
+| MAMA         | [Link](https://youtu.be/JAL9VH6TYkI?t=286) | [DPS.Report](https://dps.report/yIZv-20230221-233753_mama)  | Magic   |
+| Siax         | [Link](https://youtu.be/JAL9VH6TYkI?t=341) | [DPS.Report](https://dps.report/fw1V-20230221-234248_siax)  | Magic   |
+| Ensolyss     | [Link](https://youtu.be/JAL9VH6TYkI?t=387) | [DPS.Report](https://dps.report/PFOU-20230221-234625_enso)  | Magic   |
+| Skorvald     | [Link](https://youtu.be/JAL9VH6TYkI)       | [DPS.Report](https://dps.report/w6Vw-20230221-220014_skor)  | Magic   |
+| Artsariiv    | [Link](https://youtu.be/JAL9VH6TYkI?t=82)  | [DPS.Report](https://dps.report/Eb5h-20230221-221859_arriv) | Magic   |
+| Arkk         | [Link](https://youtu.be/JAL9VH6TYkI?t=164) | [DPS.Report](https://dps.report/sKwF-20230221-224208_arkk)  | Magic   |
 
 </Tab>
 </Tabs>
@@ -107,28 +105,28 @@ In this section you can find links to different parts of the site with informati
 <Tabs>
 <Tab specialization="Renegade">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| Elemental Ai |     |     |        |
-| Dark Ai      |     |     |        |
+| Boss         | PoV                                                        | Log | Player |
+|--------------|------------------------------------------------------------|-----|--------|
+| Elemental Ai |                                                            |     |        |
+| Dark Ai      | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=453s) |     | Inky   |
 
 </Tab>
 
 <Tab specialization="Mirage">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| Elemental Ai | | | |
-| Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint |
+| Boss         | PoV                                  | Log                                                      | Player |
+|--------------|--------------------------------------|----------------------------------------------------------|--------|
+| Elemental Ai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint  |
 
 </Tab>
 
 <Tab specialization="Specter">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| Elemental Ai |     |     |        |
-| Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp |
+| Boss         | PoV                                  | Log                                                      | Player |
+|--------------|--------------------------------------|----------------------------------------------------------|--------|
+| Elemental Ai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp    |
 
 </Tab>
 
@@ -142,34 +140,28 @@ In this section you can find links to different parts of the site with informati
 </Tab>
 <Tab specialization="Soulbeast">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
+| Boss         | PoV                                  | Log                                                      | Player  |
+|--------------|--------------------------------------|----------------------------------------------------------|---------|
 | Elemental Ai | [Link](https://youtu.be/gG1vvlHn4kM) | [DPS.Report](https://dps.report/9nHZ-20220924-222032_ai) | Jetrell |
 | Dark Ai      | [Link](https://youtu.be/ewdKTjtD4AY) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Jetrell |
 
 </Tab>
 <Tab specialization="Harbinger">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| Elemental Ai |     |     |        |
-| Dark Ai      | [Link](https://youtu.be/fdGXM_aYVAo) | [DPS.Report](https://dps.report/8iUH-20221107-000901_ai) | Hyp |
+| Boss         | PoV                                  | Log                                                      | Player |
+|--------------|--------------------------------------|----------------------------------------------------------|--------|
+| Elemental Ai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/fdGXM_aYVAo) | [DPS.Report](https://dps.report/8iUH-20221107-000901_ai) | Hyp    |
 
 </Tab>
 </Tabs>
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<Card title="CC Distribution">
-All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution)
 </Card>
 <Card title="CM Profession Guides">
 
 | Power Builds                                                          | Type   | Link                                                    |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------- |
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)      |
-| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/revenant/power-scrapper/static)      |
+| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/engineer/power-scrapper/static)      |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/power-soulbeast/static)       |
 | <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static)  |
 
@@ -179,5 +171,3 @@ All CC Schedules used in the PoVs and guides in this section can be found here [
 |                                                                       |        |                                                         |
 
 </Card>
-</GridItem>
-</Grid>
