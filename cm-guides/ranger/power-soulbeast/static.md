@@ -9,7 +9,7 @@ disableBosses:
   - DarkAi
 ---
 
-<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="mama" video="https://youtu.be/90pdA_RXrZg" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait name="Oppressive Superiority"/>.
@@ -85,10 +85,11 @@ disableBosses:
 
 1.  <Skill name="One Wolf Pack"/>
 2.  <Skill name="Splitblade"/> (Axe 2)
-3.  <Skill name="Winters Bite"/> (Axe 3)
-4.  <Skill name="Whirling Defense"/> (Axe 5)
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  _Weapon Swap_
+3.  <Skill name="Whirling Defense"/> (Axe 5)
+4.  <Skill name="Path of Scars"/> (Axe 4)  
+5.  <Skill name="Winters Bite"/> (Axe 3) 
+6.  <Skill name="Splitblade"/> (Axe 2)
+7.  _Weapon Swap_
 
 </IdealRotation>
 </Phase>
@@ -162,7 +163,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+<Boss name="siax" video="https://youtu.be/vznqacW_-mU" videoCreator="Jetrell" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="44617" disableText/> Red Moa
 - Take <Trait name="Oppressive Superiority"/>.
@@ -283,7 +284,7 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </IdealRotation>
 </Phase>
 
-<Boss name="ensolyss" video="" videoCreator="" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+<Boss name="ensolyss" video="https://youtu.be/0aW6haE4vhI" videoCreator="Hyp" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait id="2128"/> and <Trait name="Potent Ally"/>.
@@ -365,7 +366,7 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </IdealRotation>
 </Phase>
 
-<Boss name="skorvald" video="" videoCreator="" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Elemental Slaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="skorvald" video="https://youtu.be/NG7OX2ZLyQU" videoCreator="Jetrell" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Elemental Slaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait name="Oppressive Superiority"/>.
@@ -478,7 +479,7 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </IdealRotation>
 </Phase>
 
-<Boss name="artsariiv" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Severance" weapon2OffInfusionId="37131">
+<Boss name="artsariiv" video="https://youtu.be/8bQUWBhMaHo" videoCreator="Jetrell" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Severance" weapon2OffInfusionId="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait name="Oppressive Superiority"/> and <Trait name="Trappers Expertise"/>.
@@ -588,7 +589,7 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </IdealRotation>
 </Phase>
 
-<Boss name="arkk" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
+<Boss name="arkk" video="https://youtu.be/VJOA0w7c_rw?t=200" videoCreator="Jetrell" foodId="43360" utilityId="50082" healId="12483" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="force" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="44617" disableText/> Red Moa.
 - Take <Trait name="Oppressive Superiority"/>.
