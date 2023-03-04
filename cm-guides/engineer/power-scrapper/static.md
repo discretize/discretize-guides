@@ -8,7 +8,7 @@ disableBosses:
   - LightAi
   - DarkAi
 ---
-<Boss name="mama" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
+<Boss name="mama" video="xEHSN4uoyaM" videoCreator="Jetrell" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
   - On Days with <Instability name="No Pain, No gain"/> you should use <Skill name="Throw Mine"/> on the Knights to boonstrip.
   
@@ -164,7 +164,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="siax" video="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Frenzy" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131">
+<Boss name="siax" video="cN_fLBIaAhA" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Frenzy" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131">
 
 </Boss>
 
@@ -291,7 +291,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="ensolyss" video="" videoCreator="" foodId="91805" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131">
+<Boss name="ensolyss" video="kTTD3RrMIlI" videoCreator="Elu" foodId="91805" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131">
 
 
 
@@ -371,7 +371,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="skorvald" video="" videoCreator="" foodId="43360" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="30815" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" >
+<Boss name="skorvald" video="l-BeKbgeL8s" videoCreator="Hyp" foodId="43360" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="30815" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" >
 
 </Boss>
 
@@ -482,7 +482,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="artsariiv" video="" timestamp="" videoCreator="" foodId="91805" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" >
+<Boss name="artsariiv" video="qhCSGO0cZ0o" timestamp="139" videoCreator="Hyp" foodId="91805" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" >
 
 </Boss>
 
@@ -585,7 +585,7 @@ disableBosses:
 </IdealRotation>
 </Phase>
 
-<Boss name="arkk" video="" timestamp="" videoCreator="" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
+<Boss name="arkk" video="uaC9y-1G6Us" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
 - Precast 
 

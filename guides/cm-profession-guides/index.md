@@ -40,10 +40,9 @@ These guides also apply to a certain degree in PuGs
 
 This guides are meant to be applied to slower groups (what you commonly find in LFG).
 
-| Build                                                           | Type | Link                                              |
-| --------------------------------------------------------------- | ---- | ------------------------------------------------- |
-| <BuildLink build="Heal Firebrand" specialization="Firebrand"/>  | PuG  | [guide](/cm-guides/guardian/heal-firebrand/pug)   |
-| <BuildLink build="Power Renegade" specialization="Renegade"/>   | PuG  | [guide](/cm-guides/revenant/power-renegade/pug)   |
+| Build | Type | Link  |
+| ----- | ---- | ------|
+|       |      |       |
 
 <Divider />
 
@@ -63,3 +62,5 @@ These guides have not been updated for multiple patches. The information you fin
 | <BuildLink build="Power Berserker" specialization="Berserker"/>       | PuG    | [guide](/cm-guides/warrior/power-berserker/pug)        |
 | <BuildLink build="Power Reaper" specialization="Reaper"/>             | PuG    | [guide](/cm-guides/necromancer/power-reaper/pug)       |
 | <BuildLink build="Power Weaver" specialization="Weaver"/>             | PuG    | [guide](/cm-guides/elementalist/power-weaver/pug)      |
+| <BuildLink build="Heal Firebrand" specialization="Firebrand"/>        | PuG    | [guide](/cm-guides/guardian/heal-firebrand/pug)        |
+| <BuildLink build="Power Renegade" specialization="Renegade"/>         | PuG    | [guide](/cm-guides/revenant/power-renegade/pug)         |

@@ -132,10 +132,10 @@ In this section you can find links to different parts of the site with informati
 
 <Tab specialization="Firebrand">
 
-| Boss         | PoV | Log | Player |
-|--------------|-----|-----|--------|
-| Elemental Ai |     |     |        |
-| Dark Ai      |     |     |        |
+| Boss         | PoV                                  | Log                                                      | Player |
+|--------------|--------------------------------------|----------------------------------------------------------|--------|
+| Elemental Ai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/nI2Innr3-as) | [DPS.Report](https://dps.report/l5JF-20230221-215418_ai) | Magic  |
 
 </Tab>
 <Tab specialization="Soulbeast">
