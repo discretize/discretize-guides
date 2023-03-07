@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-07T23:28:02.726Z
+date: 2023-03-07T23:29:42.397Z
 ---
 
 <Advanced>
@@ -47,13 +47,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Character>
 </CharacterWithAr>
-<Advanced>
-<Warning>
-
-These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver due to <Trait name="Master's Fortitude"/>. If you do not have the Tier 10 Core, check out the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Warning>
-</Advanced>
 
 <Advanced>
 <CharacterWithAr>
