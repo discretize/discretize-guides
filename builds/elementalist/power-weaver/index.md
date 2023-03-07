@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-07T23:25:17.534Z
+date: 2023-03-07T23:28:02.726Z
 ---
 
 <Advanced>
@@ -36,14 +36,6 @@ The <Specialization text="Power Weaver" name="Weaver"/> is a build that offers h
 Due to the build lacking any form of boon self-generation as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. 
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Elementalist" /> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
-
-<Information>
-
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
-
-The same goes for the Jade Bot Core: Tier 10 which Weaver slightly benefits from due to <Trait name="mastersfortitude" />.
-
-</Information>
 
 </Beginner>
 
