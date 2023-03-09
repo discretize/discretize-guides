@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-09T01:32:27.689Z
+date: 2023-03-09T01:33:42.406Z
 ---
 
 <Advanced>
@@ -318,9 +318,9 @@ It is recommended to use separate precast templates to easily make use of differ
 
 <GridItem sm="10">
 
-1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
-2.  <Skill name="Fire Grab"/>
-3.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+1.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Pyro Vortex"/>
 
 </GridItem>
 </Grid>
