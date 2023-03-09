@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-09T01:27:49.216Z
+date: 2023-03-09T01:32:27.689Z
 ---
 
 <Advanced>
@@ -236,7 +236,7 @@ It is recommended to use separate precast templates to easily make use of differ
 
 1.  <Skill name="Weave Self"/>
 2.  <Skill name="Lightning Storm"/>
-2.  <Skill name="Quantum Strike"/>
+3.  <Skill name="Quantum Strike"/>
 
 </GridItem>
 
@@ -295,27 +295,25 @@ It is recommended to use separate precast templates to easily make use of differ
 
 <GridItem sm="10">
 
-1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+1.  <Skill name="Charged Strike"/>
 
 </GridItem>
 
 <GridItem sm="2">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
 
 <GridItem sm="10">
 
-1.  <Skill name="Fiery Rush"/>
-2.  <Skill name="Firestorm"/>
-3.  <Skill name="Cauterizing Strike"/>
-4.  <Skill name="Ring of Fire"/>
-5.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-6.  <Skill name="Flame Uprising"/>
+1.  <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+2.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+3.  <Skill name="Quantum Strike"/>
+
 
 </GridItem>
 
 <GridItem sm="2">
-<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
 </GridItem>
 
 <GridItem sm="10">
