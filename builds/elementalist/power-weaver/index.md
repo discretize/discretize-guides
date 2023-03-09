@@ -18,15 +18,13 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-09T00:37:12.500Z
+date: 2023-03-09T00:56:05.346Z
 ---
 
 <Advanced>
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately, this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
-
-Also, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+Unfortunately, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 </Advanced>
 
 <Beginner>
@@ -203,9 +201,7 @@ When there are a lot of adds around and you have time to hit both burst skills w
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
 
-If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
-
-There are two possible ways to precast boons as <Specialization name="elementalist"/>.
+If you do not have dedicated <Boon name="Might"/> provider in your party, you should prestack <Boon name="Might"/> as much as possible. Preferably with 100% boon duration, since you do not any self generated <Boon name="Might"/> like other classes do.
 
 ### **Weaver Precast**
 
@@ -221,7 +217,7 @@ It is recommended to use separate precast templates to easily make use of differ
 
 - If you have spare time before the encounter becomes active
   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-  - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
+  - Precast <Skill name="Meteor Shower"/> on staff, attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting, then swap back to sword/dagger after the cast. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
 - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
 
 </Card>
