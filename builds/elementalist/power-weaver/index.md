@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-09T00:10:17.132Z
+date: 2023-03-09T00:27:24.285Z
 ---
 
 <Advanced>
@@ -83,9 +83,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                          |                                                                                                                                                                                                                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Raging Storm" size="big" disableText/>      | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                                                                                             |
 | <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                |
-| <Trait name="superiorelements" size="big" disableText /> | If you can guarantee permanent <Condition name="Weakness" /> uptime on the target, you can trade in the <Attribute name="Vitality" /> from <Trait name="mastersfortitude" /> for extra crit chance. Make sure to adjust your gear accordingly. |
+| <Trait name="mastersfortitude" size="big" disableText /> | If there are no other <Condition name="Weakness" /> source in your party  besides yourself. Make sure to adjust your gear accordingly. In most cases, if you have a Soulbeast in your group, <Condition name="Weakness" /> should be covered with their <Skill name="Winter's Bite">. Furthermore, you may ask the Soulbeast to bring Wilting Strike for additional <Condition name="Weakness" /> uptime.|
 
 </Card>
 </Advanced>
@@ -102,7 +101,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Arcane Brilliance" size="big" disableText/>          | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                    |
 | <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
-| Offensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
+| Offensive                                                         |                                                                                                                                                                                                                                                                  | <Skill name="conjurefierygreatsword" size="big" disableText/>                | Use this skill instead if you are unfamilar with the <Skill name="Weaveself"/> rotation. |                                                                          |
 | <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
 | <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
 | <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
