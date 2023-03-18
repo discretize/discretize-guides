@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-09T01:33:42.406Z
+date: 2023-03-18T08:33:18.353Z
 ---
 
 <Advanced>
@@ -217,8 +217,8 @@ It is recommended to use separate precast templates to easily make use of differ
 
 - If you have spare time before the encounter becomes active
   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-  - Precast <Skill name="Meteor Shower"/> on staff, attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting, then swap back to sword/dagger after the cast. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-- When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
+  - Precast <Skill name="Meteor Shower"/> on staff, attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting, then swap back to sword/dagger after the cast. 
+  - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
 
 </Card>
 </GridItem>
@@ -323,12 +323,38 @@ It is recommended to use separate precast templates to easily make use of differ
 3.  <Skill name="Pyro Vortex"/>
 
 </GridItem>
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Cauterizing Strike"/>
+2.  <Skill name="Ring of Fire"/>
+3.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Water Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Searing Slash"/>
+2.  <Skill name="Fire Grab"/>
+3.  <Skill name="Twin Strike"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Shearing Edge"/>
+
+</GridItem>
 </Grid>
-
-If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> instead.
-
-With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
-
 </Card>
 </GridItem>
 
@@ -372,10 +398,9 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Invoke Lightning"/> <Label>Only if pre-casted LH</Label>
-2.  <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> <Label>Only if pre-casted LH</Label>
-3.  <Skill name="Cauterizing Strike"/>
-4.  <Skill name="Fire Grab"/>
-5.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Cauterizing Strike"/>
+3.  <Skill name="Fire Grab"/>
+4.  <Skill name="Flame Uprising"/>
 
 </GridItem>
 
@@ -443,9 +468,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 </Grid>
 
-If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> instead.
-
-With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
+If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> instead.
 
 </Card>
 </GridItem>
