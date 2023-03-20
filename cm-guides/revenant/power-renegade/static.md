@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T13:34:41.500Z
+date: 2023-03-20T14:19:58.200Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -245,8 +245,10 @@ Precast <Skill name="Soulcleaves Summit" /> and prepare for p1.
 
 <Phase>
 <CMInformation title="Phase 1">
-Burst with <Skill name="citadelbombardment" /> + sw2 while swapping to shiro enabling impossible odds.
-Fit in another sw2 if needed then prepare to kill your add in split.
+----
+Burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> while swapping to <Skill name="LegendaryAssassinStance" /> enabling <Skill name="impossible odds"/>.<br/>
+Fit in another <Skill name="chillingisolation" /> if needed then prepare to kill your add in split.
+<br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -264,32 +266,45 @@ Fit in another sw2 if needed then prepare to kill your add in split.
 
 <Phase>
 <CMInformation title="Split 1">
-<InformationBlock>
-
+----
+Use <Skill name="deathstrike" /> to teleport to your add and cast <Skill name="shacklingwave" /> apply instant <Condition name="vulnerability"/> on it, then finish the add with <Skill name="chillingisolation" /> if needed.<br/>
+Avoid the damaging orange AoE while coming back to mid, prepare for p2.
+<InformationBlock title="Tips">
+- With <Instability name="Outflanked"/>, move <Skill name="shacklingwave" /> into the start of p2.
+- Ask your favourite <Specialization name="Soulbeast"/> to <Skill name="Flame trap"/> your add without <Instability name="Outflanked"/> .
+- You can use a portal to get to your add faster instead of walking or using <Skill name="deathstrike" />.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="shacklingwave" />
-2. <Skill name="chillingisolation" />
-3. <Skill name="deathstrike" />
+1. <Skill name="deathstrike" />
+2. <Skill name="shacklingwave" />
+2. <Skill name="chillingisolation" /> (into p2)
 
 </IdealRotation>
 </Phase>
 
 <Phase>
 <CMInformation title="Phase 2">
-<InformationBlock title="Overview">
+----
+Share <Boon name="alacrity"/> and <Boon name="might"/>.<br/>
+Fit in <Skill name="chillingisolation" /> if possible and swap to <Skill name="LegendaryRenegadeStance" />.<br/>
+Cast <Skill name="icerazorsire" /> in the middle of the hitbox and burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> under <Effect name="exposed"/>.
+- In need, you can cleave the adds while avoiding any damage with <Skill name="Unrelenting Assault" />.
+(Careful to not cripple your <Specialization name="Dragonhunter"/> damage when <Skill name="bindingblade"/> is to be used.)
 
-</InformationBlock>
+Cast another <Skill name="chillingisolation" /> if needed and at the end of the phase share <Boon name="might"/>.
+Prepare for split.<br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="icerazorsire" />
-2. <Skill name="citadelbombardment" />
 3. <Skill name="ordersfromabove" />
-4. <Skill name="heroiccommand" />
-5. <Skill name="legendaryassassinstance" />
+4. <Skill name="heroiccommand" /> (if needed)
+5. <Skill name="LegendaryRenegadeStance" />
+6. <Skill name="icerazorsire" />
+6. <Skill name="citadelbombardment" />
+7. <Skill name="chillingisolation" />
+8. <Skill name="heroiccommand" />
 
 
 </IdealRotation>
@@ -297,23 +312,34 @@ Fit in another sw2 if needed then prepare to kill your add in split.
 
 <Phase>
 <CMInformation title="Split 2">
-<InformationBlock>
-
+----
+Precast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> when the add spawn.<br/>
+Cleave it with <Skill name="chillingisolation" /> and some auto attack then use <Skill name="deathstrike" /> to teleport to the boss at the start of the phase.
+<InformationBlock title="Tips">
+- With <Instability name="Outflanked"/>, move <Skill name="shacklingwave" /> into the start of p3.
+- Ask your favourite <Specialization name="Soulbeast"/> to <Skill name="Flame trap"/> your add without <Instability name="Outflanked"/> .
+- You can use a portal to get to your add or comeback to the boss faster instead of walking or using <Skill name="deathstrike" />.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="shacklingwave" />
 2. <Skill name="chillingisolation" />
+3. <Skill name="deathstrike" /> (into p3)
 
 </IdealRotation>
 </Phase>
 
 <Phase>
 <CMInformation title="Phase 3">
-<InformationBlock title="Overview">
+----
+Share <Boon name="alacrity"/> and <Boon name="might"/>.<br/>
+Cast <Skill name="icerazorsire" /> in the middle of the hitbox, swap to <Skill name="LegendaryAssassinStance" /> and activate <Skill name="impossibleodds"/> to maximize <Skill name="icerazorsire" /> hits under <Trait name="Swift Termination"/>.<br/><br/>
+Burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> under <Effect name="exposed"/>.<br/>
+- In need, you can cleave the adds while avoiding any damage with <Skill name="Unrelenting Assault" />.
+(Careful to not cripple your <Specialization name="Dragonhunter"/> damage when <Skill name="bindingblade"/> is to be used.)
 
-</InformationBlock>
+Fit in another <Skill name="chillingisolation" /> if needed.
 </CMInformation>
 <IdealRotation>
 
