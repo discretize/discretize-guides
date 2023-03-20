@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T15:30:27.100Z
+date: 2023-03-20T15:46:27.200Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -402,34 +402,47 @@ After the tail swipe burst with <Skill name="citadelbombardment" /> and any avai
 Swap to staff when the boss is phased, and prepare to capture North circle.
 <InformationBlock title="Tips">
 - You can tank the boss by staying in front of it after the dome explosion while your party go stack behind, watch out for the auto attack (a right handed dagger hit).<br/>By moving inside the hitbox to rejoin your party behind the boss, you will trigger the tail swipe attack which will delay the orange blast AoE by one auto.
-</InformationBlock>
+</InformationBlock><br/><br/>
 </CMInformation>
 <IdealRotation>
 
 1. On Boss (Precasted)
-    1. <Skill name="darkrazorsdaring" /> at 60 Energy
+    1. <Skill name="darkrazorsdaring" />
     2. <Skill name="icerazorsire" />
 2. <Skill name="surgeofthemists" />
-3. <Skill name="chillingisolation" />
 4. <Skill name="legendaryassassinstance" />
+3. <Skill name="chillingisolation" />
 5. <Skill name="citadelbombardment" />
 6. <Skill name="shacklingwave" />
 7. <Skill name="deathstrike" />
 8. <Skill name="chillingisolation" />
-9. <Skill name="legendaryassassinstance" />
+9. <Skill name="legendaryrenegadestance" />
+14. <Skill name="ordersfromabove" />
+15. <Skill name="heroiccommand" />
 10. <Skill name="icerazorsire" />
 11. <Skill name="chillingisolation" />
 12. <Skill name="citadelbombardment" />
-13. <Skill name="chillingisolation" />
 
 
 </IdealRotation>
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2+3">
-<InformationBlock>
+<CMInformation title="Phase 2 and 3">
+----
+When the phase start precast <Skill name="icerazorsire" /> to apply <Condition name="vulnerability"/> along side <Skill name="darkrazorsdaring" />, then wait to see <Skill name="moastance" /> on your buff bar to share <Boon name="alacrity"/>.<br/>
+Cast <Skill name="soulcleavessummit" /> and share <Boon name="might"/> when you get 5 stack of Kalla's Fervor.
 
+
+Wait to see moa on your buff bar and share alacrity, cast soul cleave  and wait to generate 5 stack of fervors to share might.
+Precast staff5 when the break bar will appear and swap to shiro.
+Swap to swords and burst with citadel f3 + sw2+4+5 under impossible odds.
+Disable impossible odds to fit in another sw2 in exposed and reactive it to empty your energy fully.
+Swap to kalla after the bubble, and share might and alacrity, cast Icerazor and sw2 then burst with citadel f3 and any weapons skill depending of the % of the boss.
+Swap to staff when the boss is phased, and prepare go to North circle for the second capture mini-game.
+
+<InformationBlock title="Tips">
+- If you do not play with a dragon hunter try to fit sw3 after citadel f3 to avoid the orange blast aoe.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
