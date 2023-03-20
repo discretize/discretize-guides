@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T15:46:27.200Z
+date: 2023-03-20T15:53:13.700Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -430,17 +430,17 @@ Swap to staff when the boss is phased, and prepare to capture North circle.
 <Phase>
 <CMInformation title="Phase 2 and 3">
 ----
+<InformationBlock title="Post capture">
 When the phase start precast <Skill name="icerazorsire" /> to apply <Condition name="vulnerability"/> along side <Skill name="darkrazorsdaring" />, then wait to see <Skill name="moastance" /> on your buff bar to share <Boon name="alacrity"/>.<br/>
 Cast <Skill name="soulcleavessummit" /> and share <Boon name="might"/> when you get 5 stack of Kalla's Fervor.
-
-
-Wait to see moa on your buff bar and share alacrity, cast soul cleave  and wait to generate 5 stack of fervors to share might.
-Precast staff5 when the break bar will appear and swap to shiro.
+</InformationBlock>
+<InformationBlock title="In Phase">
+Precast <Skill name="surgeofthemists" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
 Swap to swords and burst with citadel f3 + sw2+4+5 under impossible odds.
 Disable impossible odds to fit in another sw2 in exposed and reactive it to empty your energy fully.
 Swap to kalla after the bubble, and share might and alacrity, cast Icerazor and sw2 then burst with citadel f3 and any weapons skill depending of the % of the boss.
 Swap to staff when the boss is phased, and prepare go to North circle for the second capture mini-game.
-
+</InformationBlock>
 <InformationBlock title="Tips">
 - If you do not play with a dragon hunter try to fit sw3 after citadel f3 to avoid the orange blast aoe.
 </InformationBlock>
