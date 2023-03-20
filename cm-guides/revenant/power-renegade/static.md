@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T15:57:30.900Z
+date: 2023-03-20T16:01:11.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -434,7 +434,7 @@ Swap to staff when the boss is phased, and prepare to capture North circle.
 When the phase start precast <Skill name="icerazorsire" /> to apply <Condition name="vulnerability"/> along side <Skill name="darkrazorsdaring" />, then wait to see <Skill name="moastance" /> on your buff bar to share <Boon name="alacrity"/>.<br/>
 Cast <Skill name="soulcleavessummit" /> and share <Boon name="might"/> when you get 5 stack of Kalla's Fervor.
 </InformationBlock>
-<InformationBlock title="In Phase">
+<InformationBlock title="Phase">
 Precast <Skill name="surgeofthemists" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
 In <Effect name="exposed"/> burst with <Skill name="citadelbombardment" />, <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossible odds"/>.
 - Disable <Skill name="impossible odds"/> to fit in another <Skill name="chillingisolation" /> and reactive it to empty your energy fully.
