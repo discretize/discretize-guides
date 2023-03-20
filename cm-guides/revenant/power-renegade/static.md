@@ -5,24 +5,34 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-02-21T16:44:17.799Z
+date: 2023-03-20T11:02:05.200Z
 ---
 
-<Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Celerity" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
 - Suggested Boon Duration: `20%`.
-- Traits - Take <Trait name="Lasting Legacy"/>.
+- Use <Trait name="Lasting Legacy"/> to maintain decent party <Boon name="Might"/>.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
-- If <Instability name="No Pain, No Gain"/> is present remember to take <Item name="absorption" /> on Staff.
+- Swap to <Item name="Celerity"/> on Staff if you notice drop in <Boon name="Quickness"/>.
+-----
+- If <Instability name="Social Awkwardness"/> is present you can share <Boon name="Stability"/> at key moment in the fight via <Skill name="Inspiring Reinforcement" />.
+  - In this case take <Trait name="SpiritBoon"/> to share a stack whenever you swap to <Skill name="LegendaryDwarfStance" />.
+-----
+- If <Instability name="No Pain, No Gain"/> is present take <Item name="absorption"/> on both weapon sets.
+-----
+- If <Instability name="Afflicted"/>, <Instability name="Vengeance"/> or <Instability name="FluxBomb"/> is present you can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
+
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
-
+----
+<InformationBlock title="At the Mistlock">
+Share <Boon name="Alacrity"/> and blast the fire field to gain <Boon name="Might"/>.<br/>
+If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally swap to <Skill name="LegendaryAssassinStance"/> to invoke your <Skill name="enchanted daggers"/> and swap back to <Skill name="legendaryrenegadestance" />.
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-east side of the invisible hitbox to prevent entering in combat too early.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
