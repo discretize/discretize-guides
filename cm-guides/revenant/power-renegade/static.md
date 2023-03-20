@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T13:28:42.500Z
+date: 2023-03-20T13:34:41.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -221,11 +221,14 @@ Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until th
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
-
+----
+<InformationBlock title="At the Mistlock">
+Share <Boon name="Alacrity"/> and blast the fire field to gain <Boon name="Might"/>.<br/>
+If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally swap to <Skill name="LegendaryAssassinStance"/> to invoke your <Skill name="enchanted daggers"/> and swap back to <Skill name="legendaryrenegadestance" />.
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Take portal and cast your <Skill name="legendaryrenegadestance" /> summons then double swap back to <Skill name="legendaryrenegadestance" /> to reset your energy.
+Precast <Skill name="Soulcleaves Summit" /> and prepare for p1.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -242,18 +245,19 @@ Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until th
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-</InformationBlock>
+Burst with <Skill name="citadelbombardment" /> + sw2 while swapping to shiro enabling impossible odds.
+Fit in another sw2 if needed then prepare to kill your add in split.
 </CMInformation>
 <IdealRotation>
 
-1. Precast
+1. On Boss (Precasted)
     1. <Skill name="darkrazorsdaring" />
     2. <Skill name="icerazorsire" />
-    3. <Skill name="legendaryassassinstance" />
+    3. <Skill name="legendaryrenegadestance" />
+    4. <Skill name="Soulcleaves Summit" />
 2. <Skill name="citadelbombardment" />
 3. <Skill name="chillingisolation" />
-4. <Skill name="legendaryrenegadestance" />
+4. <Skill name="LegendaryAssassinStance" />
 
 </IdealRotation>
 </Phase>
