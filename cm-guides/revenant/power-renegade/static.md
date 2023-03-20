@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T23:38:58.100Z
+date: 2023-03-20T23:43:48.600Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -560,7 +560,7 @@ Use <Skill name="inspiringreinforcement"/> to provide further <Boon name="stabil
 </InformationBlock>
 <InformationBlock title="Island 4">
 Share <Boon name="might"/> and <Boon name="alacrity"/>.
-Without <Instability name="outflanked"/>, jump over the anomaly while casting <Skill name="citadelbombardment" /> and take portal to p2.
+Without <Instability name="outflanked"/> jump over the anomaly while casting <Skill name="citadelbombardment" /> and take portal to p2.
 - If you have more than `50%` energy turn <Skill name="soulcleavessummit" /> on and off.
 
 </InformationBlock>
@@ -568,9 +568,9 @@ Without <Instability name="outflanked"/>, jump over the anomaly while casting <S
 <IdealRotation>
 
 **Island 1**
-1. <Skill name="inspiringreinforcement" />
+1. <Skill name="chillingisolation" />
 2. <Skill name="ordersfromabove" />
-3. <Skill name="chillingisolation" />
+3. <Skill name="inspiringreinforcement" />
 
 **Island 2**
 1. <Skill name="chillingisolation" />
@@ -578,15 +578,13 @@ Without <Instability name="outflanked"/>, jump over the anomaly while casting <S
 
 **Island 3**
 1. <Skill name="inspiringreinforcement" />
-2. <Skill name="legendaryrenegadestance" />
 1. <Skill name="shacklingwave" />
-3. <Skill name="chillingisolation" />
+2. <Skill name="legendaryrenegadestance" />
 
 **Island 4**
 1. <Skill name="heroiccommand" />
 2. <Skill name="ordersfromabove" />
 3. <Skill name="citadelbombardment" />
-4. <Skill name="chillingisolation" />
 
 </IdealRotation>
 </Phase>
