@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T16:49:05.800Z
+date: 2023-03-20T17:03:31.400Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -513,13 +513,20 @@ Precast your <Skill name="legendaryrenegadestance" /> summons then double swap b
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-
+----
+Cast <Skill name="citadelbombardment" /> and <Skill name="surgeofthemists" /> when the boss becomes attackable.<br/>
+Swap to <Skill name="legendarydwarfstance" /> at or below `10%` energy to proc <Trait name="Charged Mists"/>.<br/><br/>
+In <Effect name="exposed"/>, burst with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="vengefulhammers" />.
+<InformationBlock title="Tips">
+- If you are not in voice for the starting count down, you can easily determine when to precast
+watching the <Specialization name="Soulbeast" /> or <Specialization name="Dragonhunter" /> traps getting highlighted on the ground.
+- In a slower party it is higher damage to cast <Skill name="citadelbombardment" /> after <Skill name="surgeofthemists" /> as you can profit from <Trait name="unsuspectingstrikes" /> in <Effect name="Exposed" />.
+- At the end of p1 share <Boon name="Might"/> with <Skill name="heroiccommand" /> if the team didn't blast properly.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. Precast 
+1. On Boss (Precasted) 
     1. <Skill name="darkrazorsdaring" />
     2. <Skill name="icerazorsire" />
     3. <Skill name="legendarydwarfstance" />
