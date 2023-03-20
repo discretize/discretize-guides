@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T14:24:25.700Z
+date: 2023-03-20T15:13:27.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -355,18 +355,24 @@ Fit in another <Skill name="chillingisolation" /> if needed.
 
 <Boss name="ensolyss" video="lAIxOQlt_jI" timestamp="344" videoCreator="Inky" foodId="91805" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Serpentslaying" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
-- Suggested Boon Duration: `20%`
+- Suggested Boon Duration: `20%`.
+- Use <Trait name="Righteous Rebel"/>.
 - Increase boon duration if you notice significant downtime in <Boon name="Alacrity"/>.
-- Make sure a <Specialization name="Soulbeast"/> takes <Skill name="moastance" />
+- Make sure a <Specialization name="Soulbeast"/> takes <Skill name="moastance" /> or take `35%` Boon Duration.
+-----
+- If <Instability name="Afflicted"/>, <Instability name="Vengeance"/> or <Instability name="FluxBomb"/> is present you can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
-
+----
+<InformationBlock title="At the Mistlock">
+Share <Boon name="Alacrity"/> and blast the fire field to gain <Boon name="Might"/>.<br/>
+If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally swap to <Skill name="LegendaryAssassinStance"/> to invoke your <Skill name="enchanted daggers"/> and swap back to <Skill name="legendaryrenegadestance" />.
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Precast your <Skill name="legendaryrenegadestance" /> summons when the boss is started.<br/>
+Prepare for p1.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -383,9 +389,13 @@ Fit in another <Skill name="chillingisolation" /> if needed.
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-
-</InformationBlock>
+----
+Precast <Skill name="surgeofthemists" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
+In <Effect name="exposed"/> burst with <Skill name="citadelbombardment" />, <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossible odds"/>.
+Disable impossible odds to fit in another sw2 in exposed and reactive it to empty your energy fully.
+Swap to kalla after the bubble, and share might and alacrity, cast Icerazor and sw2.
+After the tail swipe burst with citadel f3 and any weapons skill depending of the % of the boss.
+Swap to staff when the boss is phased, and prepare go to North circle for the capture mini-game.
 </CMInformation>
 <IdealRotation>
 
