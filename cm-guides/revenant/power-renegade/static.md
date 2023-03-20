@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T16:07:17.900Z
+date: 2023-03-20T16:17:58.000Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -445,18 +445,20 @@ Burst with <Skill name="citadelbombardment" /> and any available sword skill dep
 Swap to staff when the boss is phased, and prepare go to North circle for the second capture mini-game.
 </InformationBlock>
 <InformationBlock title="Tips">
-- If you do not play with a <Specialization name="Dragonhunter"/> try to fit <Skill name="unrelentingassault"/> after <Skill name="citadelbombardment" /> to avoid the orange blast AoE.
-</InformationBlock>
+- If you do not play with a <Specialization name="Dragonhunter"/> (<Boon name="Aegis"/>) try to fit <Skill name="unrelentingassault"/> after <Skill name="citadelbombardment" /> to avoid the orange blast AoE.
+</InformationBlock><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="darkrazorsdaring" />
-2. <Skill name="icerazorsire" />
-3. <Skill name="soulcleavessummit" />
-4. <Skill name="ordersfromabove" /> with <Skill name="moastance" />
-5. <Skill name="heroiccommand" />
+1. Precast
+    1. <Skill name="darkrazorsdaring" />
+    2. <Skill name="icerazorsire" />
+    3. <Skill name="ordersfromabove" /> with <Skill name="moastance" />.
+    4. <Skill name="soulcleavessummit" />
+    5. <Skill name="heroiccommand" />
 6. <Skill name="surgeofthemists" />
 7. <Skill name="legendaryassassinstance" />
+8. <Skill name="citadelbombardment" />
 8. <Skill name="chillingisolation" />
 9. <Skill name="shacklingwave" />
 10. <Skill name="deathstrike" />
