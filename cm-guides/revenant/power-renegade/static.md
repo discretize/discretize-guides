@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T11:53:42.100Z
+date: 2023-03-20T12:44:59.000Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -95,7 +95,7 @@ Share <Boon name="Alacrity"/> and cast <Skill name="chillingisolation" /> into <
 ----
 <InformationBlock>
 Burst the phase with <Skill name="chillingisolation" /> and <Skill name="citadelbombardment" />.<br/>
-Share <Boon name="Might"/> with <Skill name="heroiccommand" /> then prepare for knight 2.
+Share <Boon name="Might"/> then prepare for knight 2.
 </InformationBlock>
 <InformationBlock title="Tips">
 - If your party is missing damage you may want to fit another <Skill name="chillingisolation" />. In this case you will want to <Skill name="legendaryassassinstance" /> swap earlier.
@@ -107,6 +107,7 @@ Share <Boon name="Might"/> with <Skill name="heroiccommand" /> then prepare for 
 3. <Skill name="chillingisolation" />
 4. <Skill name="citadelbombardment" />
 5. <Skill name="heroiccommand" />
+6. <Skill name="chillingisolation" /> (Knight 2)
 
 
 </IdealRotation>
@@ -116,33 +117,41 @@ Share <Boon name="Might"/> with <Skill name="heroiccommand" /> then prepare for 
 <CMInformation title="Knight 2">
 ----
 <InformationBlock>
-If available instant cast <Skill name="chillingisolation" /> before the add is visible then precast Darkrazor to break the knight while swapping to shiro at <=10% energy to proc Charged mist.
-Cast sw4 to apply instant vuln while dealing moderate damage and fit in another sw2 if needed.
-Share might and alacrity before p3 start.
+If available instant cast <Skill name="chillingisolation" /> before the add is visible.<br/>
+Precast <Skill name="Darkrazors Daring"/> to break the add.
+- Swap to <Skill name="legendaryassassinstance" /> at or below 10% energy to proc <Trait name="Charged mists"/>.
+
+Cast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> while dealing moderate damage and fit in another <Skill name="chillingisolation" /> if needed.<br/><br/>
+Share <Boon name="Might"/> and <Boon name="Alacrity"/> before p3 start.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="darkrazorsdaring" />
+2. <Skill name="legendaryassassinstance" />
 1. <Skill name="shacklingwave" />
-3. <Skill name="legendaryassassinstance" />
-2. <Skill name="ordersfromabove" />
 2. <Skill name="chillingisolation" />
+3. <Skill name="heroiccommand"/>
+2. <Skill name="ordersfromabove" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
 <CMInformation title="Phase 3">
-<InformationBlock title="Overview">
+----
+Burst with <Skill name="citadelbombardment" />, <Skill name="deathstrike" /> and <Skill name="chillingisolation" /> under <Skill name="impossible odds"/> then swap to <Skill name="LegendaryRenegadeStance"/>.
+<InformationBlock title="Tips">
+- If you do not have a way to avoid damage in this phase, you can use <Skill name="Unrelenting Assault" /> after <Skill name="citadelbombardment" /> as it is a two seconds evade.
 
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-2. <Skill name="chillingisolation" />
 3. <Skill name="citadelbombardment" />
 4. <Skill name="deathstrike" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="LegendaryRenegadeStance"/>
 
 
 </IdealRotation>
@@ -150,25 +159,35 @@ Share might and alacrity before p3 start.
 
 <Phase>
 <CMInformation title="Knight 3">
+----
 <InformationBlock>
-
+Precast <Skill name="Darkrazors Daring"/> to break the add and use <Skill name="Breakrazors Bastion"/> if needed.<br/>
+Cast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> and <Condition name="Immobile"/>.<br/>
+Deal moderate damage with <Skill name="chillingisolation" />, share <Boon name="might"/> then weapon swap to staff.<br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="legendaryrenegadestance" />
-3. <Skill name="heroiccommand" />
 1. <Skill name="darkrazorsdaring" />
-2. <Skill name="icerazorsire" />
-4. Weapon Swap
+2. <Skill name="shacklingwave" />
+2. <Skill name="chillingisolation" />
+3. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
 <CMInformation title="Phase 4">
-<InformationBlock title="Overview">
+----
+Precast <Skill name="icerazorsire" /> and use <Skill name="Warding Rift"/> to mitigate the knock back shockwaves.<br/>
+Cast <Skill name="surgeofthemists"/> to break the boss and profit from <Item name="Severance"/>.<br/>
+Once <Effect name="exposed"/> burst with <Skill name="citadelbombardment" /> under <Skill name="impossible odds"/>.<br/>
+- Share <Boon name="alacrity"/> and <Boon name="might"/> whenever possible.<br/>
 
+Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until the boss die.
+
+<InformationBlock title="Tips">
+- If the party is missing damage, you will have time to burst again with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
