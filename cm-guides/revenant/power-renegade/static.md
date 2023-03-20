@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T11:02:05.200Z
+date: 2023-03-20T11:53:42.100Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -49,13 +49,18 @@ Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-ea
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-
+----
+Before mama becomes vulnerable precast <Skill name="citadelbombardment" />.<br/>
+Cast <Skill name="surgeofthemists" /> under <Skill name="impossibleodds" /> then swap to <Skill name="legendaryrenegadestance" />.<br/>
+In sword, cast <Skill name="chillingisolation" /> and <Skill name="deathstrike" /> into <Effect name="exposed"/> and prepare for knight 1.
+<InformationBlock title="Tips">
+- In a slower party it is higher damage to cast <Skill name="citadelbombardment" /> after <Skill name="surgeofthemists" /> as you can profit from <Trait name="Unsuspecting Strikes"/> in <Effect name="exposed"/>.
+- If your party is missing damage on the adds keep <Skill name="deathstrike" /> for knight 1.<br/><br/><br/><br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. Precast
+1. On Boss (Precasted)
     1. <Skill name="darkrazorsdaring" />
     2. <Skill name="icerazorsire" />
     3. <Skill name="legendaryassassinstance" />
@@ -70,8 +75,10 @@ Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-ea
 
 <Phase>
 <CMInformation title="Knight 1">
+----
 <InformationBlock>
-
+Precast <Skill name="shacklingwave" /> to instant apply <Condition name="vulnerability"/> and <Condition name="Immobile"/> on the add.<br/>
+Share <Boon name="Alacrity"/> and cast <Skill name="chillingisolation" /> into <Effect name="exposed"/> then precast <Skill name="Icerazors Ire"/> into p2.<br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -85,8 +92,13 @@ Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-ea
 
 <Phase>
 <CMInformation title="Phase 2">
-<InformationBlock title="Overview">
-
+----
+<InformationBlock>
+Burst the phase with <Skill name="chillingisolation" /> and <Skill name="citadelbombardment" />.<br/>
+Share <Boon name="Might"/> with <Skill name="heroiccommand" /> then prepare for knight 2.
+</InformationBlock>
+<InformationBlock title="Tips">
+- If your party is missing damage you may want to fit another <Skill name="chillingisolation" />. In this case you will want to <Skill name="legendaryassassinstance" /> swap earlier.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -94,8 +106,7 @@ Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-ea
 1. <Skill name="icerazorsire" />
 3. <Skill name="chillingisolation" />
 4. <Skill name="citadelbombardment" />
-6. <Skill name="chillingisolation" />
-3. <Skill name="heroiccommand" />
+5. <Skill name="heroiccommand" />
 
 
 </IdealRotation>
@@ -103,8 +114,11 @@ Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-ea
 
 <Phase>
 <CMInformation title="Knight 2">
+----
 <InformationBlock>
-
+If available instant cast <Skill name="chillingisolation" /> before the add is visible then precast Darkrazor to break the knight while swapping to shiro at <=10% energy to proc Charged mist.
+Cast sw4 to apply instant vuln while dealing moderate damage and fit in another sw2 if needed.
+Share might and alacrity before p3 start.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
