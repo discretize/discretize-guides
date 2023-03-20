@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T17:04:38.100Z
+date: 2023-03-20T23:34:23.200Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -542,16 +542,26 @@ watching the <Specialization name="Soulbeast" /> or <Specialization name="Dragon
 
 <Phase>
 <CMInformation title="Split 1">
+----
 <InformationBlock title="Island 1">
-
+Use <Skill name="chillingisolation" /> and share <Boon name="alacrity"/>.
+- If your party is missing damage or without <Instability name="outflanked"/>, share <Boon name="stability"/> via <Skill name="inspiringreinforcement"/>.
 </InformationBlock>
 <InformationBlock title="Island 2">
+Instant <Skill name="chillingisolation" /> and share <Boon name="might"/> afterward.<br/>
+- Activate <Skill name="vengefulhammers" /> if you have too much energy.<br/>
+If you didn't get <Effect name="stealth"/> from your <Specialization name="Scrapper" /> on the first island, share <Boon name="might"/> and jump over the anomaly while resuming the rotation.
 
 </InformationBlock>
 <InformationBlock title="Island 3">
+Use <Skill name="inspiringreinforcement"/> to provide further <Boon name="stability"/>. Cast <Skill name="shacklingwave" /> to apply instant <Condition name="Vulnerability" /> followed by a <Skill name="chillingisolation" /> if needed.<br/>
+- Swap to <Skill name="legendaryrenegadestance" /> going to the next island so that your legend cd is off cool down for p2.
 
 </InformationBlock>
 <InformationBlock title="Island 4">
+Share <Boon name="might"/> and <Boon name="alacrity"/>.<br/>
+If you have more than `50%` energy turn soul cleave on and off.
+On non outflanked day, jump over the anomaly while casting citadel f3 and take portal to p2.
 
 </InformationBlock>
 </CMInformation>
