@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T12:44:59.000Z
+date: 2023-03-20T12:50:15.400Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -192,14 +192,13 @@ Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until th
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="surgeofthemists" />
+1. <Skill name="icerazorsire" />
 2. <Skill name="heroiccommand" />
 3. <Skill name="ordersfromabove" />
-3. <Skill name="legendaryassassinstance" />
+1. <Skill name="surgeofthemists" />
 2. <Skill name="citadelbombardment" />
-3. <Skill name="chillingisolation" />
-4. <Skill name="shacklingwave" />
-5. <Skill name="deathstrike" />
+3. <Skill name="legendaryassassinstance" />
+4. <Skill name="Menders Rebuke"/>
 
 </IdealRotation>
 </Phase>
