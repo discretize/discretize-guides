@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T14:19:58.200Z
+date: 2023-03-20T14:24:25.700Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -289,7 +289,7 @@ Avoid the damaging orange AoE while coming back to mid, prepare for p2.
 ----
 Share <Boon name="alacrity"/> and <Boon name="might"/>.<br/>
 Fit in <Skill name="chillingisolation" /> if possible and swap to <Skill name="LegendaryRenegadeStance" />.<br/>
-Cast <Skill name="icerazorsire" /> in the middle of the hitbox and burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> under <Effect name="exposed"/>.
+Cast <Skill name="icerazorsire" /> in the middle of the hitbox and burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> inside the hitbox under <Effect name="exposed"/>.
 - In need, you can cleave the adds while avoiding any damage with <Skill name="Unrelenting Assault" />.
 (Careful to not cripple your <Specialization name="Dragonhunter"/> damage when <Skill name="bindingblade"/> is to be used.)
 
@@ -335,7 +335,7 @@ Cleave it with <Skill name="chillingisolation" /> and some auto attack then use 
 ----
 Share <Boon name="alacrity"/> and <Boon name="might"/>.<br/>
 Cast <Skill name="icerazorsire" /> in the middle of the hitbox, swap to <Skill name="LegendaryAssassinStance" /> and activate <Skill name="impossibleodds"/> to maximize <Skill name="icerazorsire" /> hits under <Trait name="Swift Termination"/>.<br/><br/>
-Burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> under <Effect name="exposed"/>.<br/>
+Burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> inside the hitbox under <Effect name="exposed"/>.<br/>
 - In need, you can cleave the adds while avoiding any damage with <Skill name="Unrelenting Assault" />.
 (Careful to not cripple your <Specialization name="Dragonhunter"/> damage when <Skill name="bindingblade"/> is to be used.)
 
@@ -343,11 +343,10 @@ Fit in another <Skill name="chillingisolation" /> if needed.
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="deathstrike" />
-2. <Skill name="chillingisolation" />
-3. <Skill name="heroiccommand" />
-4. <Skill name="legendaryrenegadestance" />
-5. <Skill name="icerazorsire" />
+1. <Skill name="heroiccommand" />
+2. <Skill name="ordersfromabove" />
+3. <Skill name="icerazorsire" />
+4. <Skill name="legendaryAssassinstance" />
 6. <Skill name="citadelbombardment" />
 7. <Skill name="chillingisolation" />
 
