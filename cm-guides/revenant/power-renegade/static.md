@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T12:50:15.400Z
+date: 2023-03-20T13:16:32.300Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -13,7 +13,7 @@ date: 2023-03-20T12:50:15.400Z
 - Suggested Boon Duration: `20%`.
 - Use <Trait name="Lasting Legacy"/> to maintain decent party <Boon name="Might"/>.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
-- Swap to <Item name="Celerity"/> on Staff if you notice drop in <Boon name="Quickness"/>.
+- Swap to <Item name="Celerity"/> on Staff if you notice a drop in <Boon name="Quickness"/>.
 -----
 - If <Instability name="Social Awkwardness"/> is present you can share <Boon name="Stability"/> at key moment in the fight via <Skill name="Inspiring Reinforcement" />.
   - In this case take <Trait name="SpiritBoon"/> to share a stack whenever you swap to <Skill name="LegendaryDwarfStance" />.
@@ -52,7 +52,7 @@ Cast your <Skill name="legendaryrenegadestance" /> summons on the north/north-ea
 ----
 Before mama becomes vulnerable precast <Skill name="citadelbombardment" />.<br/>
 Cast <Skill name="surgeofthemists" /> under <Skill name="impossibleodds" /> then swap to <Skill name="legendaryrenegadestance" />.<br/>
-In sword, cast <Skill name="chillingisolation" /> and <Skill name="deathstrike" /> into <Effect name="exposed"/> and prepare for knight 1.
+On sword, cast <Skill name="chillingisolation" /> and <Skill name="deathstrike" /> into <Effect name="exposed"/> and prepare for knight 1.
 <InformationBlock title="Tips">
 - In a slower party it is higher damage to cast <Skill name="citadelbombardment" /> after <Skill name="surgeofthemists" /> as you can profit from <Trait name="Unsuspecting Strikes"/> in <Effect name="exposed"/>.
 - If your party is missing damage on the adds keep <Skill name="deathstrike" /> for knight 1.<br/><br/><br/><br/><br/><br/>
@@ -77,7 +77,7 @@ In sword, cast <Skill name="chillingisolation" /> and <Skill name="deathstrike" 
 <CMInformation title="Knight 1">
 ----
 <InformationBlock>
-Precast <Skill name="shacklingwave" /> to instant apply <Condition name="vulnerability"/> and <Condition name="Immobile"/> on the add.<br/>
+Precast <Skill name="shacklingwave" /> to instantly apply <Condition name="vulnerability"/> and <Condition name="Immobile"/> on the add.<br/>
 Share <Boon name="Alacrity"/> and cast <Skill name="chillingisolation" /> into <Effect name="exposed"/> then precast <Skill name="Icerazors Ire"/> into p2.<br/><br/>
 </InformationBlock>
 </CMInformation>
@@ -122,7 +122,7 @@ Precast <Skill name="Darkrazors Daring"/> to break the add.
 - Swap to <Skill name="legendaryassassinstance" /> at or below 10% energy to proc <Trait name="Charged mists"/>.
 
 Cast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> while dealing moderate damage and fit in another <Skill name="chillingisolation" /> if needed.<br/><br/>
-Share <Boon name="Might"/> and <Boon name="Alacrity"/> before p3 start.
+Share <Boon name="Might"/> and <Boon name="Alacrity"/> before p3 starts.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -181,10 +181,10 @@ Deal moderate damage with <Skill name="chillingisolation" />, share <Boon name="
 ----
 Precast <Skill name="icerazorsire" /> and use <Skill name="Warding Rift"/> to mitigate the knock back shockwaves.<br/>
 Cast <Skill name="surgeofthemists"/> to break the boss and profit from <Item name="Severance"/>.<br/>
-Once <Effect name="exposed"/> burst with <Skill name="citadelbombardment" /> under <Skill name="impossible odds"/>.<br/>
+In <Effect name="exposed"/> burst with <Skill name="citadelbombardment" /> under <Skill name="impossible odds"/>.<br/>
 - Share <Boon name="alacrity"/> and <Boon name="might"/> whenever possible.<br/>
 
-Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until the boss die.
+Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until the boss dies.
 
 <InformationBlock title="Tips">
 - If the party is missing damage, you will have time to burst again with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
