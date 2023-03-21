@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T15:40:04.900Z
+date: 2023-03-21T15:54:15.700Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -885,8 +885,8 @@ If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally s
 ----
 Cast <Skill name="icerazorsire" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
 Burst with <Skill name="citadelbombardment" /> under <Skill name="impossibleodds" /> then do the usual combo
-<Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />. Once phased, SAK to the anomaly and finish it with some staff auto.
-
+<Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.<br/>
+Once phased, SAK to the anomaly and finish it then swap to <Skill name="legendaryrenegadestance" />.
 <InformationBlock title="Tips">
 - Do not move your character after starting the boss, you will be teleported in the center of the hitbox on a `1x1` pixel causing you to negate Arkk fear attack.
 <br/><br/><br/>
@@ -902,6 +902,7 @@ Burst with <Skill name="citadelbombardment" /> under <Skill name="impossibleodds
 3. <Skill name="citadelbombardment" />
 4. <Skill name="shacklingwave" />
 5. <Skill name="deathstrike" />
+6. <Skill name="legendaryrenegadestance" />
 
 </IdealRotation>
 </Phase>
@@ -914,7 +915,7 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 <InformationBlock title="Tips">
 - Cast <Skill name="surgeofthemists" /> into SAK to get `x9` hits.
 - Careful to build 5 stack of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
-</InformationBlock>
+</InformationBlock><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -936,7 +937,7 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 ----
 Deal moderate damage with <Skill name="chillingisolation" /> and some auto, if the Archdiviner get a break bar instant SAK to break it.
 When the phase end, share <Boon name="Might" /> and <Boon name="alacrity" />.
-
+<br/>
 </CMInformation>
 <IdealRotation>
 
@@ -948,24 +949,25 @@ When the phase end, share <Boon name="Might" /> and <Boon name="alacrity" />.
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 3 70%-50%">
+<CMInformation title="Phase 3 (70 to 50%)">
 ----
-Precast Icerazor and swap to shiro then burst with sw2+4+5 and citadel f3 under impossible odds.
-Fit in another sw2 if needed, swap to staff and share might at the end of the phase.
-<InformationBlock title="Overview">
-
-</InformationBlock>
+Precast <Skill name="icerazorsire" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossible odds"/>.
+Fit in another <Skill name="chillingisolation" /> if needed.<br/>
+Swap to <Skill name="legendaryrenegadestance" /> and share <Boon name="Might" /> at the end of the phase.
+<br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="icerazorsire" />
-3. <Skill name="ordersfromabove" />
+2. Precasted
+   1. <Skill name="icerazorsire" />
 2. <Skill name="legendaryassassinstance" />
 5. <Skill name="chillingisolation" />
 4. <Skill name="citadelbombardment" />
 5. <Skill name="shacklingwave" />
 6. <Skill name="deathstrike" />
 7. <Skill name="legendaryrenegadestance" />
+8. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
