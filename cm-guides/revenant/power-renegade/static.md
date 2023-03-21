@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T13:57:13.700Z
+date: 2023-03-21T14:08:58.600Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -859,7 +859,13 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 <Phase>
 <CMInformation title="Precast">
 ----
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="At the Mistlock">
+Share <Boon name="Alacrity"/> and blast the fire field to gain <Boon name="Might"/>.<br/>
+If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally swap to <Skill name="LegendaryAssassinStance"/> to invoke your <Skill name="enchanted daggers"/> and swap back to <Skill name="legendaryrenegadestance" />.
+- Trigger the boss and cast <Skill name="darkrazorsdaring" /> to prepare your burst..
+</InformationBlock>
+<InformationBlock title="Tips">
+- You can blast <Boon name="Might"/> via the special action key (SAK).
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -875,14 +881,21 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 1 100%-80%">
-<InformationBlock title="Overview">
+<CMInformation title="Phase 1 (100-80%)">
+----
+Cast Icerazor and swap to shiro, burst with citadel f3 under impossible odds then do the usual combo
+sw2+4+5.
+Once phased, SAK to the anomaly and finish it with some staff auto.
+
+<InformationBlock title="Tips">
+- Do not move your character after starting the boss, you will be teleported in the middle of the hitbox on a 1x1 pixel, this will prevent you to be hit by Arkk fear attack.
 
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="icerazorsire" />
+1. Precasted
+   1. <Skill name="darkrazorsdaring" />
 2. <Skill name="chillingisolation" />
 2. <Skill name="legendaryassassinstance" />
 3. <Skill name="citadelbombardment" />
@@ -896,6 +909,9 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Phase 2 80%-70%">
+----
+Precast Icerazor, share alacrity, share might whenever possible (pay attention to get 5 fervors stack before) and staff5 into SAK to instant break the defiant bar then swap to sword.
+Burst with citadel f3 and sw2+4+5.
 <InformationBlock title="Overview">
 
 </InformationBlock>
@@ -915,6 +931,9 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Archdiviner">
+----
+Deal moderate damage with sw2 and some auto, if a break bar appear instant SAK to break it.
+When the phase end, share might and alacrity.
 <InformationBlock title="Overview">
 
 </InformationBlock>
@@ -929,6 +948,9 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Phase 3 70%-50%">
+----
+Precast Icerazor and swap to shiro then burst with sw2+4+5 and citadel f3 under impossible odds.
+Fit in another sw2 if needed, swap to staff and share might at the end of the phase.
 <InformationBlock title="Overview">
 
 </InformationBlock>
@@ -949,8 +971,11 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Phase 4 50%-40%">
-<InformationBlock title="Overview">
-
+----
+Precast Icerazor, share alacrity, share might whenever possible (pay attention to get 5 fervors stack before) and staff5 into SAK to instant break the defiant bar then swap to sword.
+Burst with citadel f3 and sw2+4+5 and fit in another sw2 if the group is slow.
+<InformationBlock title="Tips">
+- Use citadel f3 casting time to not face Arkk when the fear attack is casted.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -968,6 +993,9 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Gladiator">
+----
+Instant sw2 the gladiator and cleave the golems with sw3 when the slbs pull them to you.
+If the group is slow you can share might or alacrity depending of your energy.
 <InformationBlock title="Overview">
 
 </InformationBlock>
@@ -983,6 +1011,10 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Phase 5 40%-30%">
+----
+Precast Icerazor and swap to shiro, share might and alacrity if needed.
+Burst with citadel f3 and swords skill then swap to staff and share might, swap to kalla at the end of the phase.
+
 <InformationBlock title="Overview">
 
 </InformationBlock>
@@ -1003,6 +1035,11 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 
 <Phase>
 <CMInformation title="Phase 6 30%-0%">
+----
+Create a fire field with Soul cleave, precast Icerazor and share alacrity.
+Blast the field with staff5 into SAK to instant break the bar then empty your energy while sharing might.
+Swap to sword and shiro, then burst with the usual sw2+4+5 and citadel f3 under impossible odds.
+Fit in another sw2 if the group is slow.
 <InformationBlock title="Overview">
 
 </InformationBlock>
