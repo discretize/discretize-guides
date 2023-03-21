@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T14:15:37.400Z
+date: 2023-03-21T14:16:03.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -888,7 +888,7 @@ Burst with <Skill name="citadelbombardment" /> under <Skill name="impossibleodds
 <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />. Once phased, SAK to the anomaly and finish it with some staff auto.
 
 <InformationBlock title="Tips">
-- Do not move your character after starting the boss, you will be teleported in the middle of the hitbox on a `1x1` pixel causing you to negate Arkk fear attack.
+- Do not move your character after starting the boss, you will be teleported in the center of the hitbox on a `1x1` pixel causing you to negate Arkk fear attack.
 
 </InformationBlock>
 </CMInformation>
