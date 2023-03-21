@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-20T23:50:07.200Z
+date: 2023-03-21T00:00:51.300Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -591,14 +591,16 @@ Without <Instability name="outflanked"/> jump over the anomaly while casting <Sk
 
 <Phase>
 <CMInformation title="Phase 2">
-Make sure to have 20 energy at least starting the phase, and instant cast Icerazor to apply vulnerability.
-Swap to shiro or jalis and burst with sw2+4+5 under hammer or impossible odds.
-Place your portal and finish the phase by sharing might and using sw2 if needed.
+----
+Cast <Skill name="icerazorsire" /> to apply <Condition name="Vulnerability" /> and swap to <Skill name="legendarydwarfstance" />.
+- Make sure to have `20%` energy at least starting the phase.
+
+In <Effect name="exposed"/> under <Skill name="vengefulhammers" />, burst with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
+Place your portal and finish the phase by sharing <Boon name="Might" /> and using <Skill name="chillingisolation" /> if needed.
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="icerazorsire" />
-2. <Skill name="heroiccommand" />
 3. <Skill name="legendarydwarfstance" />
 4. <Skill name="chillingisolation" />
 5. <Skill name="shacklingwave" />
