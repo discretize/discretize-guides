@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T14:17:34.300Z
+date: 2023-03-21T15:35:26.800Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -907,20 +907,23 @@ Burst with <Skill name="citadelbombardment" /> under <Skill name="impossibleodds
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2 80%-70%">
+<CMInformation title="Phase 2 (80 to 70%)">
 ----
-Precast Icerazor, share alacrity, share might whenever possible (pay attention to get 5 fervors stack before) and staff5 into SAK to instant break the defiant bar then swap to sword.
-Burst with citadel f3 and sw2+4+5.
-<InformationBlock title="Overview">
-
+Precast <Skill name="icerazorsire" />, share <Boon name="Alacrity" /> and <Boon name="Might" /> whenever possible.<br/> Break the boss with <Skill name="surgeofthemists" /> then swap to sword.<br/><br/>
+In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
+<InformationBlock title="Tips">
+- Cast <Skill name="surgeofthemists" /> into SAK to get `x9` hits.
+- Careful to build 5 stack of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-2. <Skill name="icerazorsire" />
-3. <Skill name="surgeofthemists" />
-4. <Skill name="ordersfromabove" />
-5. <Skill name="citadelbombardment" />
+2. Precasted
+   1. <Skill name="icerazorsire" />
+   2. <Skill name="ordersfromabove" />
+   2. <Skill name="surgeofthemists" />
+5. <Skill name="heroiccommand" />
+6. <Skill name="citadelbombardment" />
 6. <Skill name="chillingisolation" />
 7. <Skill name="shacklingwave" />
 8. <Skill name="deathstrike" />
