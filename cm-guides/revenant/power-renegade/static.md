@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T17:09:04.000Z
+date: 2023-03-21T17:12:37.400Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -951,9 +951,9 @@ When the phase ends, share <Boon name="Might" /> and <Boon name="alacrity" />.
 <Phase>
 <CMInformation title="Phase 3 (70 to 50%)">
 ----
-Precast <Skill name="icerazorsire" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
-In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossible odds"/>.
-Fit in another <Skill name="chillingisolation" /> if needed.<br/>
+Precast <Skill name="icerazorsire" /> and swap to <Skill name="legendaryassassinstance" />.<br/><br/>
+In <Effect name="Exposed" /> under <Skill name="impossible odds"/>, burst with <Skill name="citadelbombardment" />, <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
+Fit in another <Skill name="chillingisolation" /> if needed.<br/><br/>
 Swap to <Skill name="legendaryrenegadestance" /> and share <Boon name="Might" /> at the end of the phase.
 <br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
@@ -979,7 +979,7 @@ Precast <Skill name="icerazorsire" />, share <Boon name="Alacrity" /> and <Boon 
 In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 <InformationBlock title="Tips">
 - Cast <Skill name="surgeofthemists" /> into SAK to get `x9` hits.
-- Careful to build 5 stack of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
+- Be sure to build 5 stacks of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
 - Use <Skill name="citadelbombardment" /> casting time to not face Arkk when the fear attack is casted.
 </InformationBlock><br/><br/>
 </CMInformation>
@@ -1047,7 +1047,7 @@ Break the boss with <Skill name="surgeofthemists" /> then swap to <Skill name="l
 - Blast your fire field with SAK while doing <Skill name="surgeofthemists" /> then share extra <Boon name="Might" /> via <Skill name="heroiccommand" />.
 
 In <Effect name="Exposed" />, burst with the usual combo <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossibleodds" />.<br/><br/>
-Fit in another <Skill name="chillingisolation" /> if your party lack damage.<br/><br/>
+Fit in another <Skill name="chillingisolation" /> if your party lacks damage.<br/><br/>
 </CMInformation>
 <IdealRotation>
 
