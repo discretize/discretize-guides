@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T15:35:26.800Z
+date: 2023-03-21T15:40:04.900Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -934,16 +934,15 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 <Phase>
 <CMInformation title="Archdiviner">
 ----
-Deal moderate damage with sw2 and some auto, if a break bar appear instant SAK to break it.
-When the phase end, share might and alacrity.
-<InformationBlock title="Overview">
+Deal moderate damage with <Skill name="chillingisolation" /> and some auto, if the Archdiviner get a break bar instant SAK to break it.
+When the phase end, share <Boon name="Might" /> and <Boon name="alacrity" />.
 
-</InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="chillingisolation" />
 2. <Skill name="heroiccommand" />
+3. <Skill name="ordersfromabove" />
 
 </IdealRotation>
 </Phase>
