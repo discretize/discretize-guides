@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T17:06:55.000Z
+date: 2023-03-21T17:09:04.000Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -914,7 +914,7 @@ Precast <Skill name="icerazorsire" />, share <Boon name="Alacrity" /> and <Boon 
 In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 <InformationBlock title="Tips">
 - Cast <Skill name="surgeofthemists" /> into SAK to get `x9` hits.
-- Careful to build 5 stack of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
+- Be sure to build 5 stacks of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
 </InformationBlock><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
@@ -935,8 +935,8 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 <Phase>
 <CMInformation title="Archdiviner">
 ----
-Deal moderate damage with <Skill name="chillingisolation" /> and some auto, if the Archdiviner get a break bar instant SAK to break it.
-When the phase end, share <Boon name="Might" /> and <Boon name="alacrity" />.
+Deal moderate damage with <Skill name="chillingisolation" /> and some auto, if the Archdiviner gets a break bar instant SAK to break it.
+When the phase ends, share <Boon name="Might" /> and <Boon name="alacrity" />.
 <br/>
 </CMInformation>
 <IdealRotation>
