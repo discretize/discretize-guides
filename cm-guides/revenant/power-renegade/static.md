@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T15:58:21.200Z
+date: 2023-03-21T16:37:01.800Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -973,7 +973,7 @@ Swap to <Skill name="legendaryrenegadestance" /> and share <Boon name="Might" />
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 4 50%-40%">
+<CMInformation title="Phase 4 (50 to 40%)">
 ----
 Precast <Skill name="icerazorsire" />, share <Boon name="Alacrity" /> and <Boon name="Might" /> whenever possible.<br/> Break the boss with <Skill name="surgeofthemists" /> then swap to sword.<br/><br/>
 In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
@@ -981,7 +981,7 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 - Cast <Skill name="surgeofthemists" /> into SAK to get `x9` hits.
 - Careful to build 5 stack of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
 - Use <Skill name="citadelbombardment" /> casting time to not face Arkk when the fear attack is casted.
-</InformationBlock><br/><br/><br/>
+</InformationBlock><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -989,8 +989,8 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
    1. <Skill name="icerazorsire" />
    2. <Skill name="ordersfromabove" />
    2. <Skill name="surgeofthemists" />
-5. <Skill name="heroiccommand" />
 6. <Skill name="citadelbombardment" />
+7. <Skill name="heroiccommand" />
 6. <Skill name="chillingisolation" />
 7. <Skill name="shacklingwave" />
 8. <Skill name="deathstrike" />
@@ -1001,62 +1001,63 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 <Phase>
 <CMInformation title="Gladiator">
 ----
-Instant sw2 the gladiator and cleave the golems with sw3 when the slbs pull them to you.
-If the group is slow you can share might or alacrity depending of your energy.
-<InformationBlock title="Overview">
-
+Cast <Skill name="chillingisolation" />. You can share <Boon name="Might" /> or <Boon name="Alacrity" /> depending on your energy.
+<InformationBlock title="Tips">
+- You can cleave the adds with <Skill name="unrelentingassault" /> when your <Specialization name="Soulbeast" /> or <Specialization name="Dragonhunter" /> pull them to you.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="chillingisolation" />
-2. <Skill name="deathstrike" />
+2. <Skill name="ordersfromabove" />
 3. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 5 40%-30%">
+<CMInformation title="Phase 5 (40 to 30%)">
 ----
-Precast Icerazor and swap to shiro, share might and alacrity if needed.
-Burst with citadel f3 and swords skill then swap to staff and share might, swap to kalla at the end of the phase.
+Precast <Skill name="icerazorsire" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
+- Share <Boon name="Alacrity" /> or <Boon name="Might" /> depending on your energy.
 
-<InformationBlock title="Overview">
-
-</InformationBlock>
+In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and any sword skills available under <Skill name="impossibleodds" />.<br/><br/>
+Swap to <Skill name="legendaryrenegadestance" /> at the end of the phase and share <Boon name="Might" /> if needed.
+<br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="icerazorsire" />
-2. <Skill name="ordersfromabove" />
-2. <Skill name="legendaryrenegadestance" />
-5. <Skill name="chillingisolation" />
+1. Precasted
+   1. <Skill name="icerazorsire" />
+   2. <Skill name="legendaryassassinstance" />
 4. <Skill name="citadelbombardment" />
-5. <Skill name="shacklingwave" />
+5. <Skill name="chillingisolation" />
 6. <Skill name="deathstrike" />
 7. <Skill name="legendaryrenegadestance" />
+8. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 6 30%-0%">
+<CMInformation title="Phase 6 (30 to 0%)">
 ----
-Create a fire field with Soul cleave, precast Icerazor and share alacrity.
-Blast the field with staff5 into SAK to instant break the bar then empty your energy while sharing might.
-Swap to sword and shiro, then burst with the usual sw2+4+5 and citadel f3 under impossible odds.
-Fit in another sw2 if the group is slow.
-<InformationBlock title="Overview">
+Create a fire field with <Skill name="soulcleavessummit" />, precast <Skill name="icerazorsire" /> and share <Boon name="Alacrity" />.<br/>
+Break the boss with <Skill name="surgeofthemists" /> then swap to <Skill name="legendaryassassinstance" />.
+- Blast your fire field with SAK while doing <Skill name="surgeofthemists" /> then share extra <Boon name="Might" /> via <Skill name="heroiccommand" />.
 
-</InformationBlock>
+In <Effect name="Exposed" />, burst with the usual combo <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossibleodds" />.<br/><br/>
+Fit in another <Skill name="chillingisolation" /> if your party lack damage.<br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="soulcleavessummit" />
-2. <Skill name="icerazorsire" />
+2. Precasted
+   1. <Skill name="soulcleavessummit" />
+   2. <Skill name="icerazorsire" />
+   3. <Skill name="ordersfromabove" />
+   4. <Skill name="surgeofthemists" />
+3. <Skill name="legendaryassassinstance" />
 3. <Skill name="heroiccommand" />
-4. <Skill name="legendaryassassinstance" />
 5. <Skill name="chillingisolation" />
 4. <Skill name="citadelbombardment" />
 5. <Skill name="shacklingwave" />
