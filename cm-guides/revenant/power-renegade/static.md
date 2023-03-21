@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T13:49:56.900Z
+date: 2023-03-21T13:52:22.600Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -824,7 +824,8 @@ Precast <Skill name="icerazorsire" /> and burst with <Skill name="citadelbombard
 If needed share <Boon name="Might" /> and fit in another <Skill name="chillingisolation" /> before the boss teleport away.
 <InformationBlock title="Tips">
 - If your party is missing damage, use SAK to go into the hitbox after the boss teleport away and use any skills available like <Skill name="chillingisolation" /> until it is phased.
-<br/><br/><br/><br/><br/><br/>
+- If your party is missing <Condition name="Vulnerability" />, like in p2 you can precast <Skill name="shacklingwave" /> before <Skill name="citadelbombardment" />.
+<br/><br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -842,7 +843,7 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 </IdealRotation>
 </Phase>
 
-<Boss name="arkk" video="lAIxOQlt_jI" timestamp="133" videoCreator="Inky [dT]" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
+<Boss name="arkk" video="lAIxOQlt_jI" timestamp="133" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
   
 
 - Suggested Boon Duration: `35%`
