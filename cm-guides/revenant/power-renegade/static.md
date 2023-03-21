@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T15:54:15.700Z
+date: 2023-03-21T15:58:21.200Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -975,21 +975,25 @@ Swap to <Skill name="legendaryrenegadestance" /> and share <Boon name="Might" />
 <Phase>
 <CMInformation title="Phase 4 50%-40%">
 ----
-Precast Icerazor, share alacrity, share might whenever possible (pay attention to get 5 fervors stack before) and staff5 into SAK to instant break the defiant bar then swap to sword.
-Burst with citadel f3 and sw2+4+5 and fit in another sw2 if the group is slow.
+Precast <Skill name="icerazorsire" />, share <Boon name="Alacrity" /> and <Boon name="Might" /> whenever possible.<br/> Break the boss with <Skill name="surgeofthemists" /> then swap to sword.<br/><br/>
+In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 <InformationBlock title="Tips">
-- Use citadel f3 casting time to not face Arkk when the fear attack is casted.
-</InformationBlock>
+- Cast <Skill name="surgeofthemists" /> into SAK to get `x9` hits.
+- Careful to build 5 stack of Kalla's Fervor before sharing <Boon name="Might" /> with <Skill name="heroiccommand" />.
+- Use <Skill name="citadelbombardment" /> casting time to not face Arkk when the fear attack is casted.
+</InformationBlock><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="icerazorsire" />
-2. <Skill name="surgeofthemists" />
-3. <Skill name="ordersfromabove" />
-4. <Skill name="heroiccommand" />
-5. <Skill name="chillingisolation" />
-6. <Skill name="shacklingwave" />
-
+2. Precasted
+   1. <Skill name="icerazorsire" />
+   2. <Skill name="ordersfromabove" />
+   2. <Skill name="surgeofthemists" />
+5. <Skill name="heroiccommand" />
+6. <Skill name="citadelbombardment" />
+6. <Skill name="chillingisolation" />
+7. <Skill name="shacklingwave" />
+8. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
