@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T16:58:18.500Z
+date: 2023-03-21T17:03:18.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -518,8 +518,8 @@ Cast <Skill name="citadelbombardment" /> and <Skill name="surgeofthemists" /> wh
 Swap to <Skill name="legendarydwarfstance" /> at or below `10%` energy to proc <Trait name="Charged Mists"/>.<br/><br/>
 In <Effect name="exposed"/>, burst with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="vengefulhammers" />.
 <InformationBlock title="Tips">
-- If you are not in voice for the starting count down, you can easily determine when to precast
-watching the <Specialization name="Soulbeast" /> or <Specialization name="Dragonhunter" /> traps getting highlighted on the ground.
+- If you are not in voice for the starting countdown, you can easily determine when to precast
+by watching the <Specialization name="Soulbeast" /> or <Specialization name="Dragonhunter" /> traps getting highlighted on the ground.
 - In a slower party it is higher damage to cast <Skill name="citadelbombardment" /> after <Skill name="surgeofthemists" /> as you can profit from <Trait name="unsuspectingstrikes" /> in <Effect name="Exposed" />.
 - At the end of p1 share <Boon name="Might"/> with <Skill name="heroiccommand" /> if the team didn't blast properly.
 </InformationBlock>
@@ -548,14 +548,14 @@ Use <Skill name="chillingisolation" /> and share <Boon name="alacrity"/>.
 - If your party is missing damage or without <Instability name="outflanked"/>, share <Boon name="stability"/> via <Skill name="inspiringreinforcement"/>.
 </InformationBlock>
 <InformationBlock title="Island 2">
-Instant <Skill name="chillingisolation" /> and share <Boon name="might"/> afterward.<br/>
+Instant <Skill name="chillingisolation" /> and share <Boon name="might"/> afterwards.<br/>
 - Activate <Skill name="vengefulhammers" /> if you have too much energy.<br/>
 If you didn't get <Effect name="stealth"/> from your <Specialization name="Scrapper" /> on the first island, share <Boon name="might"/> and jump over the anomaly while resuming the rotation.
 
 </InformationBlock>
 <InformationBlock title="Island 3">
-Use <Skill name="inspiringreinforcement"/> to provide further <Boon name="stability"/>. Cast <Skill name="shacklingwave" /> to apply instant <Condition name="Vulnerability" /> followed by a <Skill name="chillingisolation" /> if needed.<br/>
-- Swap to <Skill name="legendaryrenegadestance" /> going to the next island so that your legend cd is off cool down for p2.
+Use <Skill name="inspiringreinforcement"/> to provide further <Boon name="stability"/>. Cast <Skill name="shacklingwave" /> to apply instant <Condition name="Vulnerability" /> followed by  <Skill name="chillingisolation" /> if needed.<br/>
+- Swap to <Skill name="legendaryrenegadestance" /> going to the next island so that your legend cd is off cooldown for p2.
 
 </InformationBlock>
 <InformationBlock title="Island 4">
@@ -593,12 +593,12 @@ Without <Instability name="outflanked"/> jump over the anomaly while casting <Sk
 <CMInformation title="Phase 2">
 ----
 Cast <Skill name="icerazorsire" /> to apply <Condition name="Vulnerability" /> and swap to <Skill name="legendarydwarfstance" />.
-- Make sure to have `20%` energy at least starting the phase.
+- Make sure to have at least `20%` energy to start the phase.
 
 In <Effect name="exposed"/> under <Skill name="vengefulhammers" />, burst with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 Place your portal and finish the phase by sharing <Boon name="Might" /> and using <Skill name="chillingisolation" /> if needed.
 <InformationBlock title="Tips">
-- Start your burst with <Skill name="shacklingwave" /> if your party lack <Condition name="Vulnerability" /> application.
+- Start your burst with <Skill name="shacklingwave" /> if your party lacks <Condition name="Vulnerability" /> application.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -630,7 +630,7 @@ Fit in a <Skill name="chillingisolation" /> if needed then take portal.
 </InformationBlock>
 <InformationBlock title="Island 4">
 Open your portal in the hitbox and share <Boon name="Might" /> if needed. Deal moderate damage to the anomaly via <Skill name="chillingisolation" /> and/or <Skill name="deathstrike" /> before taking portal.
-- If your party lack damage it is advised to use <Skill name="citadelbombardment" /> while jumping over the anomaly.
+- If your party lacks damage it is advised to use <Skill name="citadelbombardment" /> while jumping over the anomaly.
 </InformationBlock><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
@@ -663,8 +663,8 @@ Share <Boon name="Might" /> and <Boon name="Alacrity" />.<br/>
 Cast <Skill name="icerazorsire" /> to apply <Condition name="Vulnerability" /> and swap to <Skill name="legendarydwarfstance" />.<br/><br/>
 In <Effect name="exposed"/>, burst with <Skill name="citadelbombardment" /> under <Skill name="vengefulhammers" />.<br/>
 Finally use any available sword skills to finish the boss.
-- Start your burst with <Skill name="shacklingwave" /> if your party lack <Condition name="Vulnerability" /> application.
-- Don't <Skill name="shacklingwave" /> if the boss will instant die as the animation is too slow to be worth.
+- Start your burst with <Skill name="shacklingwave" /> if your party lacks <Condition name="Vulnerability" /> application.
+- Don't <Skill name="shacklingwave" /> if the boss will die as the animation is too slow to be worth the cast.
 </CMInformation>
 <IdealRotation>
 
