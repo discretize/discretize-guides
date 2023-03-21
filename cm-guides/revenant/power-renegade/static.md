@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T16:37:01.800Z
+date: 2023-03-21T16:54:56.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -208,8 +208,8 @@ Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until th
 - Suggested Boon Duration: `20%`.
 - Suggested Traits:
   - <Trait name="Lasting Legacy"/> to maintain decent party <Boon name="Might"/> if needed.
-  - <Trait name="Vindication"/> to maximize damage on good instability day.
-  - <Trait name="Righteous Rebel"/> on bad instability day.
+  - <Trait name="Vindication"/> to maximize damage on good instability days.
+  - <Trait name="Righteous Rebel"/> on bad instability days.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
 -----
 - If <Instability name="Social Awkwardness"/> is present you can share <Boon name="Stability"/> at key moment in the fight via <Skill name="Inspiring Reinforcement" />.
@@ -267,7 +267,7 @@ Fit in another <Skill name="chillingisolation" /> if needed then prepare to kill
 <Phase>
 <CMInformation title="Split 1">
 ----
-Use <Skill name="deathstrike" /> to teleport to your add and cast <Skill name="shacklingwave" /> apply instant <Condition name="vulnerability"/> on it, then finish the add with <Skill name="chillingisolation" /> if needed.<br/>
+Use <Skill name="deathstrike" /> to teleport to your add and cast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> on it, then finish the add with <Skill name="chillingisolation" /> if needed.<br/>
 Avoid the damaging orange AoE while coming back to mid, prepare for p2.
 <InformationBlock title="Tips">
 - With <Instability name="Outflanked"/>, move <Skill name="shacklingwave" /> into the start of p2.
@@ -313,7 +313,7 @@ Prepare for split.<br/>
 <Phase>
 <CMInformation title="Split 2">
 ----
-Precast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> when the add spawn.<br/>
+Precast <Skill name="shacklingwave" /> to apply instant <Condition name="vulnerability"/> when the add spawns.<br/>
 Cleave it with <Skill name="chillingisolation" /> and some auto attack then use <Skill name="deathstrike" /> to teleport to the boss at the start of the phase.
 <InformationBlock title="Tips">
 - With <Instability name="Outflanked"/>, move <Skill name="shacklingwave" /> into the start of p3.
@@ -393,15 +393,15 @@ Prepare for p1.
 Precast <Skill name="surgeofthemists" /> before the boss is vulnerable.<br/>
 Swap to <Skill name="legendaryassassinstance" /> at or below 10% energy to proc <Trait name="Charged Mists"/>.<br/><br/>
 In <Effect name="exposed"/> burst with <Skill name="citadelbombardment" />, <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossible odds"/>.
-- Disable <Skill name="impossible odds"/> to fit in another <Skill name="chillingisolation" /> and reactive it to empty your energy fully.
+- Disable <Skill name="impossible odds"/> to fit in another <Skill name="chillingisolation" /> and reactivate it to fully empty your energy.
 
 Swap to <Skill name="legendaryrenegadestance" /> after the dome explosion.<br/>
 Share <Boon name="Might"/>, <Boon name="Alacrity"/>, cast <Skill name="icerazorsire" /> and <Skill name="chillingisolation" />.<br/>
-After the tail swipe burst with <Skill name="citadelbombardment" /> and any available sword skill depending of the % of the boss.
+After the tail swipe burst with <Skill name="citadelbombardment" /> and any available sword skills depending of the % of the boss.
 
-Swap to staff when the boss is phased, and prepare to capture North circle.
+Swap to staff when the boss is phased and prepare to capture North circle.
 <InformationBlock title="Tips">
-- You can tank the boss by staying in front of it after the dome explosion while your party go stack behind, watch out for the auto attack (a right handed dagger hit).<br/>By moving inside the hitbox to rejoin your party behind the boss, you will trigger the tail swipe attack which will delay the orange blast AoE by one auto.
+- You can tank the boss by staying in front of it after the dome explosion while your party goes to stack behind, watch out for the auto attack (a right handed dagger hit).<br/>By moving inside the hitbox to rejoin your party behind the boss, you will trigger the tail swipe attack which will delay the orange blast AoE by one auto.
 </InformationBlock><br/><br/>
 </CMInformation>
 <IdealRotation>
