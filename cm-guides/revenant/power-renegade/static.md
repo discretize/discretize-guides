@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T00:39:28.400Z
+date: 2023-03-21T12:50:48.300Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -681,29 +681,43 @@ Finally use any available sword skills to finish the boss.
 
 <Boss name="artsariiv" video="lAIxOQlt_jI" timestamp="68" videoCreator="Inky" foodId="91805" utilityId="9443" legend1Id="41858" legend2Id="28419" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Force" weapon2MainSigil2="Severance" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
-- Suggested Boon Duration: `35%`
-- Lower boon duration when possible.
+- Suggested Boon Duration: `35%`.
+- Use <Trait name="righteousrebel" />.
+- Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
+-----
+- Swap to <Item name="celerity" /> on Staff if you notice a drop in <Boon name="Quickness" />.
+- Precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
 
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
-
+----
+<InformationBlock title="At the Mistlock">
+Share <Boon name="Alacrity"/> and blast the fire field to gain <Boon name="Might"/>.<br/>
+If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally swap to <Skill name="LegendaryAssassinStance"/> to invoke your <Skill name="enchanted daggers"/> and swap back to <Skill name="legendaryrenegadestance" />.
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Precast your <Skill name="legendaryrenegadestance" /> summons then swap to <Skill name="legendaryassassinstance" />.
+<InformationBlock title="Tips">
+- You can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
+- Cast <Skill name="inspiringreinforcement" /> if your <Specialization name="Scrapper" /> doesn't precast <Skill name="defensefield" /> to share <Boon name="Stability" />.
+</InformationBlock>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. Precast <Boon name="Resistance" /> with <Skill name="painabsorption" />
+
 1.  <Skill name="renewingwave" />
 2.  <Skill name="ordersfromabove" />
 3.  Take _Mistlock Singularity_
 4.  <Skill name="renewingwave" />
 5.  <Skill name="ordersfromabove" />
 6.  <Skill name="enchanteddaggers" />
+----
+1. <Skill name="Pain Absorption" />
+2. <Skill name="legendarycentaurstance" />
+3. <Skill name="Pain Absorption" /> (repeat)
 
 </IdealRotation>
 </Phase>
