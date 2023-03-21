@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T13:07:03.300Z
+date: 2023-03-21T13:30:34.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -753,35 +753,39 @@ Avoid the knock back with <Skill name="unrelentingassault" />, once to the corne
 
 <Phase>
 <CMInformation title="Split 1">
-<InformationBlock>
-
-</InformationBlock>
+----
+Precast <Skill name="darkrazorsdaring" /> at the center before breaking your corner with <Skill name="surgeofthemists" />.
+Use SAK to instant go back to mid-south position.<br/>
+Share <Boon name="Alacrity" /> and <Boon name="Might" /> when everyone is in range.<br/>Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepare for p2.
+<br/><br/>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="darkrazorsdaring" />
 2. <Skill name="surgeofthemists" />
+3. <Skill name="breakrazorsbastion" />
+4. <Skill name="ordersfromabove" />
+2. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2+3">
-<InformationBlock title="Overview">
-
-</InformationBlock>
+<CMInformation title="Phase 2">
+----
+Precast <Skill name="icerazorsire" /> and <Skill name="shacklingwave" /> to instantly apply <Condition name="Vulnerability" />.<br/>
+Burst with <Skill name="chillingisolation" />, <Skill name="deathstrike" /> and <Skill name="unrelentingassault" /> under <Skill name="impossible odds"/>.
+Cast <Skill name="citadelbombardment" /> close to `50%` to benefit from <Trait name="swifttermination" /> then finish the phase by sharing <Boon name="Might" /> and <Skill name="chillingisolation" /> if needed.
+<br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
-
-1. <Skill name="ordersfromabove" />
-2. <Skill name="heroiccommand" />
-3. <Skill name="icerazorsire" />
-4. <Skill name="shacklingwave" />
-5. <Skill name="chillingisolation" />+
+1. Precasted
+   1. <Skill name="icerazorsire" />
+   2. <Skill name="shacklingwave" />
+5. <Skill name="chillingisolation" />
 6. <Skill name="deathstrike" />
-7. <Skill name="legendarydwarfstance" />
-7. <Skill name="inspiringreinforcement" />
-8. <Skill name="unrelentingassault" />
+7. <Skill name="unrelentingassault" />
+7. <Skill name="legendaryassassinstance" />
 9. <Skill name="citadelbombardment" />
 10. <Skill name="chillingisolation" />
 11. <Skill name="heroiccommand" />
@@ -791,9 +795,10 @@ Avoid the knock back with <Skill name="unrelentingassault" />, once to the corne
 
 <Phase>
 <CMInformation title="Split 2">
-<InformationBlock>
+Swap to staff and precast staff5 on the south-south add, use impossible odds to empty your energy then swap to kalla.
+Use Darkrazor on south-west and instant SAK back to mid-south position.
+Share alacrity and might when everyone is in range, use your heal if needed then swap to sword and prepare for p3.
 
-</InformationBlock>
 </CMInformation>
 <IdealRotation>
 
