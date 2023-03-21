@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T00:00:51.300Z
+date: 2023-03-21T00:37:28.600Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -597,6 +597,9 @@ Cast <Skill name="icerazorsire" /> to apply <Condition name="Vulnerability" /> a
 
 In <Effect name="exposed"/> under <Skill name="vengefulhammers" />, burst with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 Place your portal and finish the phase by sharing <Boon name="Might" /> and using <Skill name="chillingisolation" /> if needed.
+<InformationBlock title="Tips">
+- Start your burst with <Skill name="shacklingwave" /> if your party lack <Condition name="Vulnerability" /> application.
+</InformationBlock>
 </CMInformation>
 <IdealRotation>
 
@@ -606,6 +609,72 @@ Place your portal and finish the phase by sharing <Boon name="Might" /> and usin
 5. <Skill name="shacklingwave" />
 6. <Skill name="deathstrike" />
 7. <Skill name="chillingisolation" />
+8. <Skill name="heroiccommand" />
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+<CMInformation title="Split 2">
+----
+<InformationBlock title="Island 1">
+Use <Skill name="chillingisolation" /> and share <Boon name="Alacrity" /> then take portal.
+</InformationBlock>
+<InformationBlock title="Island 2">
+Share <Boon name="might" /> and <Boon name="stability" /> via <Skill name="inspiringreinforcement"/>.<br/>
+Use <Skill name="chillingisolation" /> and swap to <Skill name="legendaryrenegadestance" /> before taking portal.
+</InformationBlock>
+<InformationBlock title="Island 3">
+Cast <Skill name="shacklingwave" /> to apply instant <Condition name="Vulnerability" /> on the anomaly.<br/>
+Fit in a <Skill name="chillingisolation" /> if needed then take portal.
+</InformationBlock>
+<InformationBlock title="Island 4">
+Open your portal in the hitbox and share <Boon name="Might" /> if needed. Deal moderate damage to the anomaly via <Skill name="chillingisolation" /> and/or <Skill name="deathstrike" /> before taking portal.
+- If your party lack damage it is advised to use <Skill name="citadelbombardment" /> while jumping over the anomaly.
+</InformationBlock><br/><br/><br/><br/><br/><br/>
+</CMInformation>
+<IdealRotation>
+
+**Island 1**
+1. <Skill name="chillingisolation" />
+2. <Skill name="ordersfromabove" />
+
+**Island 2**
+1. <Skill name="heroiccommand" />
+2. <Skill name="inspiringreinforcement" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="legendaryrenegadestance" />
+
+**Island 3**
+1. <Skill name="shacklingwave" />
+
+**Island 4**
+1. <Skill name="heroiccommand" />
+2. <Skill name="chillingisolation" />
+3. <Skill name="deathstrike" />
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+<CMInformation title="Phase 3">
+----
+Share <Boon name="Might" /> and <Boon name="Alacrity" />.<br/>
+Cast <Skill name="icerazorsire" /> to apply <Condition name="Vulnerability" /> and swap to <Skill name="legendarydwarfstance" />.<br/><br/>
+In <Effect name="exposed"/>, burst with <Skill name="citadelbombardment" /> under <Skill name="vengefulhammers" />.<br/>
+Finally use any available sword skills to finish the boss.
+- Start your burst with <Skill name="shacklingwave" /> if your party lack <Condition name="Vulnerability" /> application.
+- Don't <Skill name="shacklingwave" /> if the boss will instant die as the animation is too slow to be worth.
+</CMInformation>
+<IdealRotation>
+
+1. <Skill name="icerazorsire" />
+3. <Skill name="legendarydwarfstance" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="shacklingwave" />
+6. <Skill name="deathstrike" />
+7. <Skill name="chillingisolation" />
+8. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
