@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T14:08:58.600Z
+date: 2023-03-21T14:15:37.400Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -862,7 +862,7 @@ If needed share <Boon name="Might" /> and fit in another <Skill name="chillingis
 <InformationBlock title="At the Mistlock">
 Share <Boon name="Alacrity"/> and blast the fire field to gain <Boon name="Might"/>.<br/>
 If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally swap to <Skill name="LegendaryAssassinStance"/> to invoke your <Skill name="enchanted daggers"/> and swap back to <Skill name="legendaryrenegadestance" />.
-- Trigger the boss and cast <Skill name="darkrazorsdaring" /> to prepare your burst..
+- Trigger the boss and cast <Skill name="darkrazorsdaring" /> to prepare your burst.
 </InformationBlock>
 <InformationBlock title="Tips">
 - You can blast <Boon name="Might"/> via the special action key (SAK).
@@ -881,14 +881,14 @@ If you are on fire field duty use <Skill name="Soulcleaves Summit" />. Finally s
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 1 (100-80%)">
+<CMInformation title="Phase 1 (100 to 80%)">
 ----
-Cast Icerazor and swap to shiro, burst with citadel f3 under impossible odds then do the usual combo
-sw2+4+5.
-Once phased, SAK to the anomaly and finish it with some staff auto.
+Cast <Skill name="icerazorsire" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
+Burst with <Skill name="citadelbombardment" /> under <Skill name="impossibleodds" /> then do the usual combo
+<Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />. Once phased, SAK to the anomaly and finish it with some staff auto.
 
 <InformationBlock title="Tips">
-- Do not move your character after starting the boss, you will be teleported in the middle of the hitbox on a 1x1 pixel, this will prevent you to be hit by Arkk fear attack.
+- Do not move your character after starting the boss, you will be teleported in the middle of the hitbox on a `1x1` pixel causing you to negate Arkk fear attack.
 
 </InformationBlock>
 </CMInformation>
