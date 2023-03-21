@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T17:03:18.500Z
+date: 2023-03-21T17:06:55.000Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -728,7 +728,7 @@ Precast your <Skill name="legendaryrenegadestance" /> summons then swap to <Skil
 Start the phase on <Skill name="legendaryassassinstance" />.<br/>
 Instant burst with <Skill name="citadelbombardment" /> and <Skill name="chillingisolation" /> under <Skill name="impossibleodds" />.<br/>
 Swap to <Skill name="legendaryrenegadestance" /> while moving behind the boss, then use <Skill name="shacklingwave" />, <Skill name="deathstrike" /> and another <Skill name="chillingisolation" />.<br/><br/>
-Avoid the knock back with <Skill name="unrelentingassault" />, once to the corner swap to staff and use <Skill name="mendersrebuke" /> if needed to phase the boss.
+Avoid the knock back with <Skill name="unrelentingassault" />, once in the corner swap to staff and use <Skill name="mendersrebuke" /> if needed to phase the boss.
 <InformationBlock title="Tips">
 - You can cancel <Skill name="unrelentingassault" /> with a weapon swap and a dodge to prevent the wave to knock you down.
 </InformationBlock><br/><br/><br/><br/><br/>
@@ -754,7 +754,7 @@ Avoid the knock back with <Skill name="unrelentingassault" />, once to the corne
 <Phase>
 <CMInformation title="Split 1">
 ----
-Precast <Skill name="darkrazorsdaring" /> at the center before breaking your corner with <Skill name="surgeofthemists" />.
+Precast <Skill name="darkrazorsdaring" /> at the center of the arena before breaking your corner with <Skill name="surgeofthemists" />.
 Use SAK to instantly go back to mid-south position.<br/>
 - Share <Boon name="Alacrity" /> and <Boon name="Might" /> when everyone is in range.<br/>
 
@@ -776,7 +776,7 @@ Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepa
 <CMInformation title="Phase 2">
 ----
 Precast <Skill name="icerazorsire" /> and <Skill name="shacklingwave" /> to instantly apply <Condition name="Vulnerability" />.<br/>
-Burst with <Skill name="chillingisolation" />, <Skill name="deathstrike" /> and <Skill name="unrelentingassault" /> under <Skill name="impossible odds"/>.
+Burst with <Skill name="chillingisolation" />, <Skill name="deathstrike" /> and <Skill name="unrelentingassault" /> under <Skill name="impossible odds"/>.<br/>
 Cast <Skill name="citadelbombardment" /> close to `50%` to benefit from <Trait name="swifttermination" /> then finish the phase by sharing <Boon name="Might" /> and <Skill name="chillingisolation" /> if needed.
 <br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
@@ -821,9 +821,9 @@ Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepa
 <CMInformation title="Phase 3">
 ----
 Precast <Skill name="icerazorsire" /> and burst with <Skill name="citadelbombardment" />, <Skill name="chillingisolation" />, <Skill name="unrelentingassault" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossibleodds" />.<br/>
-If needed share <Boon name="Might" /> and fit in another <Skill name="chillingisolation" /> before the boss teleport away.
+If needed share <Boon name="Might" /> and fit in another <Skill name="chillingisolation" /> before the boss teleports away.
 <InformationBlock title="Tips">
-- If your party is missing damage, use SAK to go into the hitbox after the boss teleport away and use any skills available like <Skill name="chillingisolation" /> until it is phased.
+- If your party is missing damage, use SAK to go into the hitbox after the boss teleports away and use any skills available like <Skill name="chillingisolation" /> until it has phased.
 - If your party is missing <Condition name="Vulnerability" />, like in p2 you can precast <Skill name="shacklingwave" /> before <Skill name="citadelbombardment" />.
 <br/><br/><br/><br/>
 </InformationBlock>
