@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T00:37:28.600Z
+date: 2023-03-21T00:39:28.400Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -668,13 +668,13 @@ Finally use any available sword skills to finish the boss.
 </CMInformation>
 <IdealRotation>
 
+1. <Skill name="heroiccommand" />
+2. <Skill name="ordersfromabove" />
 1. <Skill name="icerazorsire" />
 3. <Skill name="legendarydwarfstance" />
-4. <Skill name="chillingisolation" />
+4. <Skill name="citadelbombardment" />
 5. <Skill name="shacklingwave" />
-6. <Skill name="deathstrike" />
 7. <Skill name="chillingisolation" />
-8. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
