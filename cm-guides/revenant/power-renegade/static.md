@@ -5,7 +5,7 @@ profession: Revenant
 specialization: Renegade
 disableBosses:
   - "- LightAi   - DarkAi"
-date: 2023-03-21T16:54:56.500Z
+date: 2023-03-21T16:58:18.500Z
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -431,18 +431,18 @@ Swap to staff when the boss is phased and prepare to capture North circle.
 <CMInformation title="Phase 2 and 3">
 ----
 <InformationBlock title="Post capture">
-When the phase start precast <Skill name="icerazorsire" /> to apply <Condition name="vulnerability"/> along side <Skill name="darkrazorsdaring" />, then wait to see <Skill name="moastance" /> on your buff bar to share <Boon name="alacrity"/>.<br/>
-Cast <Skill name="soulcleavessummit" /> and share <Boon name="might"/> when you get 5 stack of Kalla's Fervor.
+When the phase starts precast <Skill name="icerazorsire" /> to apply <Condition name="vulnerability"/> alongside <Skill name="darkrazorsdaring" />, then wait to see <Skill name="moastance" /> on your buff bar to share <Boon name="alacrity"/>.<br/>
+Cast <Skill name="soulcleavessummit" /> and share <Boon name="might"/> when you get 5 stacks of Kalla's Fervor.
 </InformationBlock>
 <InformationBlock title="Phase's">
 Precast <Skill name="surgeofthemists" /> and swap to <Skill name="legendaryassassinstance" />.<br/>
 In <Effect name="exposed"/> burst with <Skill name="citadelbombardment" />, <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" /> under <Skill name="impossible odds"/>.
-- Disable <Skill name="impossible odds"/> to fit in another <Skill name="chillingisolation" /> and reactive it to empty your energy fully.
+- Disable <Skill name="impossible odds"/> to fit in another <Skill name="chillingisolation" /> and reactivate it to fully empty your energy.
 
 Swap to <Skill name="legendaryrenegadestance" /> after the dome explosion.<br/>
 Share <Boon name="Might"/>, <Boon name="Alacrity"/>, cast <Skill name="icerazorsire" /> and <Skill name="chillingisolation" />.<br/>
-Burst with <Skill name="citadelbombardment" /> and any available sword skill depending of the % of the boss.<br/><br/>
-Swap to staff when the boss is phased, and prepare go to North circle for the second capture mini-game.
+Burst with <Skill name="citadelbombardment" /> and any available sword skills depending of the % of the boss.<br/><br/>
+Swap to staff when the boss is phased and prepare go to North circle for the second capture mini-game.
 </InformationBlock>
 <InformationBlock title="Tips">
 - If you do not play with a <Specialization name="Dragonhunter"/> (<Boon name="Aegis"/>) try to fit <Skill name="unrelentingassault"/> after <Skill name="citadelbombardment" /> to avoid the orange blast AoE.
