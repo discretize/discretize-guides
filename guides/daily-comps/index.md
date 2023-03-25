@@ -43,6 +43,23 @@ It all comes down to some important concepts that need to be fulfilled permanent
 <Divider text="Useful Links"/>
 In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of PoVs, Class Guides for CM bosses, Example Logs, and PoVs. All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution)
 
+<Card title="Useful Consumables">
+#### Invulnerability Items
+There are multiple consumables in the game that will open up a cutscene that will grant you invulnerability from all attacks while inside. These can be open and closed quickly to provide short invulnerability windows to negate attacks shuch as the shockwave on Artsariiv. Aditionaly, while inside the cutscene you will continue to cast your current attack which synergises particularly well with <Specialization name="Soulbeast"/> and <Skill name="Whirling Defense"/>.
+
+- <Item id="96511"/> - This is a random drop from the Melandrus Hope area in Echovald Wilds
+- <Item id="82816"/> - This can be gotten from starting the [Jackal Reconnaissance](https://wiki.guildwars2.com/wiki/Jackal_Reconnaissance) collection
+- <Item id="92942"/> - This is a historical item and is no longer rewarded
+- <Item id="78373"/> - This can be gotten from starting the [Chuka and Champawat IV](https://wiki.guildwars2.com/wiki/Chuka_and_Champawat_IV:_A_Nontraditional_Family) collection
+
+#### CC Consumables
+While most of the good items have been removed, there are still two particularly useful items that come in handy on Artsariiv split phases and if needed on the 100cm Sorrows.
+
+- <Item id="8679"/> - This does 100cc and can be purchased from [Flingette](https://wiki.guildwars2.com/wiki/Flingette#vendor1) in Brisban Wildlands
+- <Item id="8676"/> - This does 150cc from 3 seconds of <Condition name="Immobile"/> and can be purchased from [Valiant Raeloir](https://wiki.guildwars2.com/wiki/Valiant_Raeloir#vendor1) after completing [this event](https://wiki.guildwars2.com/wiki/Protect_the_Wyld_Hunt_party_from_the_unseen_hunter) https://wiki.guildwars2.com/wiki/Protect_the_Wyld_Hunt_party_from_the_unseen_hunter in Brisban Wildlands
+
+</Card>
+
 <Card title="Example Power PoVs + Logs">
 
 <Tabs>
