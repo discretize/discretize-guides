@@ -1,17 +1,11 @@
 ---
-title: Staxe Mirage
-rating: Good
-role: Condi Damage
-profession: Mesmer
+archive: false
 classification:
   - 5
   - 4
   - 3
   - 2
   - 3
-specialization: Mirage
-code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
-date: 2022-01-12T02:05:45.106Z
 Boons:
   - name: Might
     uptime: 25 Stacks
@@ -19,20 +13,20 @@ Boons:
   - name: Alacrity
     uptime: 55%
     variant: party
+title: Staxe Mirage
+hidden: true
+rating: Good
+role: Condi Damage
+specialization: Mirage
+code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+date: 2023-03-28T23:53:56.472Z
+profession: Mesmer
 conditions:
   - name: Torment
   - name: Confusion
   - name: Bleeding
-cmGuide: ''
-hidden: true
-archive: false
+cmGuide: ""
 ---
-
-<Warning>
-
-This build is strong in full condi groups ([team comps](/guides/effective-comp)). In power groups this build will fall massively behind <Specialization name="Soulbeast" text="Power Soulbeast"/> - the power damage counterpart.
-</Warning>
-
 Insert introduction here
 
 <Divider text="Equipment"/>
@@ -57,19 +51,11 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 |                                                   |                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sun Spirit" size="big" disableText/> | Your standard 3rd utility. Provides a partywide damage increase by causing you and allies to periodically inflict <Condition name="Burning"/>.                                                                                                                                      |
-| <Skill name="Moa Stance" size="big" disableText/> | A replacement for <Skill name="Sun Spirit"/>, this allows your <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! Alternatively if you have more than one <Specialization name="Soulbeast"/>, one can drop <Skill name="Sun Spirit"/>. |
+| <Skill name="Arcane Thievery" size="big" disableText/> | Allows you to remove boons on <Instability name="No Pain, No Gain"/>                                                                                                                                      |
+| <Skill name="Signet of Humility" size="big" disableText/> | If you need additional breakbar damage |
 
 </Card>
-<Card title="Pets">
 
-|                                            |                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/> | [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>.                                                                                                                                                        |
-| <Skill id="45479" size="big" disableText/> | [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much. |
-| <Skill id="44514" size="big" disableText/> | [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog                                                                                                                                                                             |
-
-</Card>
 </GridItem>
 </Grid>
 
@@ -81,19 +67,10 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 |                                                         |                                                                                                                                |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra generation. |
+| <Trait name="Renewing Oasis" size="big" disableText/> | Take this instead of <Trait name="Riddle of Sand"/> if you don't have <Boon name="Regeneration" /> |
 
 </Card>
 
-<Card title="Off-hand Dagger">
-Running an off-hand Dagger is similar DPS to Torch providing you can flank permanently and your group can't make use of the fire field from <Skill name="Bonfire"/>. It also has the benefit of having an evade through using <Skill id="12478"/>.
-</Card>
-<Card title="Swap Weapons">
-
-- A <Item id="75325"/> (selected attribute does not matter!) to blast might when prestacking boons.
-- A weapon set to precast <Item id="24609"/> and <Item id="24599"/> before getting into fight.
-
-</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -102,10 +79,11 @@ Running an off-hand Dagger is similar DPS to Torch providing you can flank perma
 
 |                                            |                                                                                   |
 | ------------------------------------------ | --------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>)                                            |
-| <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5)                                                           |
-| <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
-| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
+| <Skill name="magicbullet" size="big" disableText/> | 250 damage (Pistol 5)                                                           |
+| <Skill name="Diversion" size="big" disableText/> | 100 damage / Clone (F3) |
+| <Skill name="chaosstorm" size="big" disableText/> | 100 damage (Staff 5) |
+| <Skill name="13733" size="big" disableText/> | 100 damage  (<Trait name="methodofmadness" />) |
+| <Skill name="signetofhumility" size="big" disableText/> | 600 damage |
 
 </Card>
 </GridItem>
@@ -115,13 +93,8 @@ Running an off-hand Dagger is similar DPS to Torch providing you can flank perma
 
 <Grid>
 <GridItem sm="6">
-<Card title="Information">
 
-When playing <Specialization name="Soulbeast" text="Condi Soulbeast"/> in 100CM, <Trait name="Light on your Feet"/> is much more attractive choice than <Trait name="Quickdraw"/> which is used in raids. The reason being that Ai moves around far too much for you to be able to benefit from using skills like <Skill name="Bonfire"/> twice in most cases. Also with some strategic dodging during movement and downtime you can keep a very high <Trait name="Light on your Feet"/> uptime especially during your bursts which leads to very high DPS.
-
-The rotation in general is very simple, just keep rotating between your Shortbow and Dagger/Torch set using your utility skills as often as you can. When you get to the point of auto attacking use your <Skill id="42944"/> skills to fill.
-</Card>
-<Card title="Shortbow Golem Rotation">
+<Card title="Precasting">
 
 1. something
 2. something else
@@ -130,14 +103,12 @@ The rotation in general is very simple, just keep rotating between your Shortbow
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Shortbow Golem Rotation">
+<Card title="Example POV">
 
-<Video youtube="iKKWM4F3ayg" caption="by Eren"/>
+<Video youtube="VI3ZbbNrwzk" caption="by Feint"/>
 </Card>
 
-<Card title="Precasting">
 
-</Card>
 
 </GridItem>
 </Grid>
