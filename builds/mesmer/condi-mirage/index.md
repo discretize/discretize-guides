@@ -14,12 +14,12 @@ Boons:
     uptime: 55%
     variant: party
 title: Staxe Mirage
-hidden: true
+hidden: false
 rating: Good
 role: Condi Damage
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-03-29T16:13:53.705Z
+date: 2023-03-29T18:04:22.021Z
 profession: Mesmer
 conditions:
   - name: Torment
