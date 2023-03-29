@@ -5,8 +5,12 @@ rating: Meta
 role: Power Damage
 profession: Engineer
 specialization: Scrapper
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: "party "
 code: "[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-03-29T19:13:22.717Z
+date: 2023-03-29T19:14:17.810Z
 cmGuide: static. index.md
 ---
 
