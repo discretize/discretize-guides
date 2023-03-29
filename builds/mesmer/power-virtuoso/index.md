@@ -1,15 +1,8 @@
 ---
-title: Power Virtuoso
 hidden: false
 archive: false
 hasBeginner: true
-rating: Good
-role: Power Damage
-profession: Mesmer
 specialization: Virtuoso
-conditions:
-  - name: Vulnerability
-    uptime: 25 stacks
 boons: []
 code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
@@ -18,7 +11,14 @@ classification:
   - 3
   - 3
   - 4
-date: 2023-02-27T06:44:51.280Z
+date: 2023-03-04T22:08:47.137Z
+title: Power Virtuoso
+rating: Good
+role: Power Damage
+profession: Mesmer
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 ---
 
 <Advanced>
@@ -28,18 +28,6 @@ The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the str
 You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Sword/Focus variant.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
-
-</Advanced>
-
-<Beginner>
-
-The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS, as well as being able to adapt to bring a ton of extra utility such as <Boon name="Stability"/> or a reflect from the <Specialization name="Mesmer"/> toolkit.
-
-The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build which has a good amount of extra burst while also having notes for the Sword/Focus variant which can be useful for slightly more sustained damage and nice utility through <Skill name="Temporal Curtain"/>.
-
-The advanced page provides a more complete overview of all the utilities the <Specialization name="Mesmer"/> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
-
-</Beginner>
 
 <Divider text="Equipment"/>
 
@@ -53,6 +41,38 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Character>
 
 </CharacterWithAr>
+
+
+</Advanced>
+
+<Beginner>
+
+The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS, as well as being able to adapt to bring a ton of extra utility such as <Boon name="Stability"/> or a reflect from the <Specialization name="Mesmer"/> toolkit.
+
+The beginner version of the guide will focus on the most important utility options and try to teach the Greatsword version of the build which has a good amount of extra burst while also having notes for the Sword/Focus variant which can be useful for slightly more sustained damage and nice utility through <Skill name="Temporal Curtain"/>.
+
+The advanced page provides a more complete overview of all the utilities the <Specialization name="Mesmer"/> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
+
+<Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character title="Power Virtuoso" gear='{"attributes":{"profession":"Mesmer","specialization":"Virtuoso","data":{"Health":20522,"Armor":2192,"Power":3352,"Precision":2155,"Toughness":1225,"Vitality":1460,"Ferocity":1450.85,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.467233333333333,"Clone Critical Chance":0.6000000000000001,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.467233333333333,"Power Coefficient":3395,"Power2 Coefficient":1189,"Burning Coefficient":0,"Bleeding Coefficient":9.05,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.26,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":28040.773349254916,"NonCrit Effective Power":9412.232005877084,"Power DPS":36657.07567220656,"Phantasm Effective Power":11888.363816666664,"Power2 DPS":5442.920515216274,"Siphon DPS":139.75,"Bleeding Damage":125.01362499999999,"Bleeding Stacks":9.05,"Bleeding DPS":1131.37330625,"Burning Damage":369.070075,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":123.222385,"Confusion Stacks":0.26,"Confusion DPS":32.037820100000005,"Poison Damage":117.17694999999999,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":148.22511,"Torment Stacks":0,"Torment DPS":0,"Damage":43403.15731377284,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30687,"weapon1MainType":"Dagger","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49431,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffInfusionId":49431,"weapon2MainId":30689,"weapon2MainType":"Greatsword","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":49431,"weapon2MainInfusion2Id":49431,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":49431,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Assassin","accessory1InfusionId":49432,"accessory2Affix":"Assassin","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21750,"utility1Id":10267,"utility2Id":45425,"utility3Id":10211,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[2208,2205,2223]],"lines":[10,1,66]}}'>
+
+</Character>
+
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+
+</CharacterWithAr>
+
+</Beginner>
+
+<Divider text="Equipment"/>
+
+
 
 <Divider text="Build"/>
 
