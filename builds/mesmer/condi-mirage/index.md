@@ -19,7 +19,7 @@ rating: Good
 role: Condi Damage
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-03-28T23:53:56.472Z
+date: 2023-03-29T16:13:53.705Z
 profession: Mesmer
 conditions:
   - name: Torment
@@ -49,8 +49,8 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                   |                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|||
+|-|-|
 | <Skill name="Arcane Thievery" size="big" disableText/> | Allows you to remove boons on <Instability name="No Pain, No Gain"/>                                                                                                                                      |
 | <Skill name="Signet of Humility" size="big" disableText/> | If you need additional breakbar damage |
 
