@@ -5,7 +5,7 @@ rating: Meta
 profession: Engineer
 specialization: Scrapper
 code: "[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-03-29T00:02:46.214Z
+date: 2023-03-29T16:13:48.103Z
 role: Power Damage
 ---
 
@@ -18,4 +18,45 @@ role: Power Damage
 </CharacterWithAr>  
 
 <Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
 <Traits traits1Id="6" traits1="Explosives" traits1SelectedIds="1882,1892,1947" traits2Id="38" traits2="Firearms" traits2SelectedIds="1914,1923,526" traits3Id="43" traits3="Scrapper" traits3SelectedIds="1917,1860,1849"/>
+</GridItem>
+<GridItem sm="5">
+<Card title="Situatonal Skills">
+
+|||
+|-|-|
+| <Skill name="throwmine" size="big" disableText/> | Good dps with <Skill name="minefield" /> and allows you to remove boons on<Instability name="No Pain, No Gain"/> |
+
+</Card>
+</GridItem>
+</Grid>
+
+<Grid>
+<GridItem sm="7">
+<Card title="Situational Traits">
+
+|||
+|-|-|
+|<Trait name="abrasivegrit" size="big" disableText/>| random trait|
+
+</Card>
+</GridItem>
+
+<GridItem sm="5">
+<Card title="Defiance Bar Damage">
+
+|||
+|-|-|
+| <Skill name="thunderclap" profession="engineer" size="big" disableText/> | 200 damage|
+| <Skill name="sparecapacitor" size="big" disableText/> | 200 damage|
+|<Skill name="supplycrate" size="big" disableText/> | 200 damage|
+|<Skill name="blastgyro" size="big" disableText/>| 232 damage|
+|<Skill name="throwmine" profession="engineer" size="big" disableText/>| 200 damage|
+
+</Card>
+</GridItem>
+
+</Grid>
