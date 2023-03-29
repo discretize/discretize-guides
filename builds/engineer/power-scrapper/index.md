@@ -2,11 +2,11 @@
 title: Power Quick Scrapper
 hidden: true
 rating: Meta
-role: Power Damage
 profession: Engineer
 specialization: Scrapper
 code: "[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-01-03T21:41:30.500Z
+date: 2023-03-29T00:02:46.214Z
+role: Power Damage
 ---
 
 <Divider text="Equipment"/>
@@ -17,3 +17,5 @@ date: 2023-01-03T21:41:30.500Z
 </Character>
 </CharacterWithAr>  
 
+<Divider text="Build"/>
+<Traits traits1Id="6" traits1="Explosives" traits1SelectedIds="1882,1892,1947" traits2Id="38" traits2="Firearms" traits2SelectedIds="1914,1923,526" traits3Id="43" traits3="Scrapper" traits3SelectedIds="1917,1860,1849"/>
