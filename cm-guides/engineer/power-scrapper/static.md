@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-30T15:47:27.100Z
+date: 2023-03-30T15:55:51.300Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -23,7 +23,7 @@ disableBosses:
 
 - Suggested Boon Duration: `20%`.
 - Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
-- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> on to boon strip.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
 
 </Boss>
 
@@ -197,15 +197,24 @@ Finally use any available skills to finish the boss.<br/><br/><br/><br/><br/><br
 
 <Boss name="siax" video="cN_fLBIaAhA" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Frenzy" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131">
 
+- Suggested Boon Duration: `20%`.
+- Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
+- If your party lacks damage it is recommended to replace <Item name="frenzy" /> with <Item name="impact" />.
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
+----
+<InformationBlock title="At the Mistlock">
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
 
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Cast your <Skill name="minefield" /> and be careful to time <Skill name="blastgyro" /> into <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
+Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
+- Skill swap <Skill name="blastgyro" /> for <Skill name="shreddergyro" /> after the cast.
+<br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -224,15 +233,13 @@ Finally use any available skills to finish the boss.<br/><br/><br/><br/><br/><br
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-</InformationBlock>
+----
 </CMInformation>
 <IdealRotation>
-
-1. Precast
+1. On Boss (Precasted)
     1. <Skill name="minefield" />
-    2. <Skill name="shreddergyro" />
-    3. <Skill name="thunderclap" profession="engineer" />
+    2. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
+    3. <Skill name="bigolbomb" />
 2. <Skill name="electrowhirl" />
 3. <Skill name="shrapnelgrenade" />
 4. <Skill name="grenadebarrage" />
