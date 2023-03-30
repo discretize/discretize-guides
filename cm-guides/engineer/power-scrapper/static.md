@@ -3,26 +3,40 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-02-20T13:53:51.247Z
+date: 2023-03-30T15:05:46.200Z
 disableBosses:
   - LightAi
   - DarkAi
 ---
+<Phase>
+<CMInformation title="General Tips">
+----
+- Learn your precast timing for <Skill name="bigolbomb" /> and <Skill name="blastgyro" />. These skills CC hard and do massive burst damage. 
+- Make sure to chain your skills properly while finishing your auto chains.
+- Link <Skill name="shrapnelgrenade" /> after <Skill name="electrowhirl" /> and use your cooldowns properly to not overdps phases.
+- If your party is lacking <Condition name="Vulnerability" /> application, be aware that applying <Condition name="Vulnerability" /> is up to you and the <Specialization name="Renegade" />. Do not <Skill name="grenadebarrage" /> or <Skill name="minefield" /> late into phases if you're running comps with low <Condition name="Vulnerability" /> ramp-up.
+- Always precast <Boon name="Stability"/> and <Skill name="superspeed" /> whenever possible to profit from <Trait name="objectinmotion" />.
+</CMInformation>
+</Phase>
+
 <Boss name="mama" video="xEHSN4uoyaM" videoCreator="Jetrell" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
-  - On Days with <Instability name="No Pain, No gain"/> you should use <Skill name="Throw Mine"/> on the Knights to boonstrip.
-  
+- Suggested Boon Duration: `20%`.
+- Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> on to boon strip.
+
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-
-
-<InformationBlock title="Overview">
+----
+<InformationBlock title="At the Mistlock">
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
 
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Cast your <Skill name="minefield" /> and be careful to time <Skill name="blastgyro" /> into <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
+Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -41,18 +55,21 @@ disableBosses:
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
+----
+Right before mama becomes vulnerable precast <Skill name="thunderclap" profession="engineer" />.<br/>
+- Use <Skill name="throwmine" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+In <Effect name="exposed"/> burst with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="grenadebarrage" /> and <Skill name="freezegrenade" />.<br/>
+
 </CMInformation>
 <IdealRotation>
-1. Precast
+1. On Boss (Precasted)
     1. <Skill name="minefield" />
     2. <Skill name="blastgyro" />
     3. <Skill name="bigolbomb" />
 2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="electrowhirl" />
-4. <Skill name="throwmine" />
+4. <Skill name="throwmine" /> / <Skill name="detonate"/>
 5. <Skill name="shrapnelgrenade" />
 6. <Skill name="grenadebarrage" />
 7. <Skill name="freezegrenade" />
@@ -63,7 +80,8 @@ disableBosses:
 <Phase>
 <CMInformation title="Knight 1">
 <InformationBlock>
-
+Precast <Skill name="sparecapacitor" /> and combo it with <Skill name="rocketcharge" /> as fast as possible.<br/>
+Finish it by casting <Skill name="electrowhirl" /> into <Effect name="Exposed" />.<br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -77,30 +95,34 @@ disableBosses:
 
 <Phase>
 <CMInformation title="Phase 2">
-<InformationBlock title="Overview">
+----
+Share <Boon name="Quickness" /> by precasting <Skill name="medicgyro" />.<br/>
+Cast <Skill name="electrowhirl" /> whenever possible followed by  <Skill name="shrapnelgrenade" /> and <Skill name="poisongrenade" /> into <Skill name="throwmine" profession="engineer" />.
+<InformationBlock title="Tips">
+- Avoid going inside the protective dome if the spawn is too far away.
 
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="medicgyro" />
+1. Precasted
+   1. <Skill name="medicgyro" />
 2. <Skill name="electrowhirl" />
 3. <Skill name="shrapnelgrenade" />
 4. <Skill name="poisongrenade" />
-5. <Skill name="throwmine" />
+5. <Skill name="throwmine" /> / <Skill name="detonate"/>
 
 </IdealRotation>
 </Phase>
 
 <Phase>
 <CMInformation title="Knight 2">
-<InformationBlock>
-
-</InformationBlock>
+----
+Precast <Skill name="supplycrate" /> to instant break the knight.<br/> Use <Skill name="shockshield" /> to apply instant <Condition name="Vulnerability" /> and auto attack in <Effect name="Exposed" />.
 </CMInformation>
 <IdealRotation>
-
-1. <Skill name="supplycrate" />
+1. Precasted
+   1. <Skill name="supplycrate" />
 2. <Skill name="shockshield" />
 3. <Skill name="positivestrike" />
 4. <Skill name="negativebash" />
@@ -111,9 +133,11 @@ disableBosses:
 
 <Phase>
 <CMInformation title="Phase 3">
-<InformationBlock title="Overview">
+Precast <Skill name="blastgyro" /> to share <Boon name="Might" />, <Boon name="Quickness" /> and deal moderate break bar damage.<br/>
+Burst with <Skill name="thunderclap" profession="engineer" /> followed by <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />  then <Skill name="grenadebarrage" />.
+- Use <Skill name="throwmine" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Keep dealing damage using <Skill name="electrowhirl" /> and <Skill name="shrapnelgrenade" />  until the phase is done.
 </CMInformation>
 <IdealRotation>
 
@@ -132,9 +156,9 @@ disableBosses:
 
 <Phase>
 <CMInformation title="Knight 3">
-<InformationBlock>
-
-</InformationBlock>
+----
+Precast <Skill name="sparecapacitor" /> and combo it with <Skill name="rocketcharge" /> as fast as possible.<br/>
+Finish it by casting <Skill name="electrowhirl" /> into <Effect name="Exposed" />.<br/>
 </CMInformation>
 <IdealRotation>
 
@@ -147,9 +171,8 @@ disableBosses:
 
 <Phase>
 <CMInformation title="Phase 4">
-<InformationBlock title="Overview">
+----
 
-</InformationBlock>
 </CMInformation>
 <IdealRotation>
 
