@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-30T15:45:45.800Z
+date: 2023-03-30T15:46:55.800Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -100,7 +100,7 @@ Finish it by casting <Skill name="electrowhirl" /> into <Effect name="Exposed" /
 Share <Boon name="Quickness" /> by precasting <Skill name="medicgyro" />.<br/>
 Cast <Skill name="electrowhirl" /> whenever possible followed by  <Skill name="shrapnelgrenade" /> and <Skill name="poisongrenade" /> into <Skill name="throwmine" profession="engineer" />.
 <InformationBlock title="Tips">
-- Avoid going inside the protective dome if the spawn is too far away.<br/> In this case try to heal up using <Skill name="supplycrate" /> blast on k2 into <Skill name="reconstructionfield" />.
+- Avoid going inside the protective dome if the spawn is too far away.<br/> Instead, heal up using <Skill name="supplycrate" /> blast into <Skill name="reconstructionfield" /> on knight 2.
 <br/><br/><br/>
 </InformationBlock>
 </CMInformation>
