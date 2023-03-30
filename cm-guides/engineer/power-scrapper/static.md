@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-30T15:24:32.100Z
+date: 2023-03-30T15:29:25.300Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -24,7 +24,7 @@ disableBosses:
 - Suggested Boon Duration: `20%`.
 - Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
 - If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> on to boon strip.
-- Replace <Skill name="blastgyro" /> with <Skill name="shreddergyro" /> on boss (only if your <Specialization name="Renegade" /> handle the <Boon name="Might" />).
+
 </Boss>
 
 <Phase>
@@ -37,6 +37,7 @@ Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" 
 <InformationBlock title="On Boss">
 Cast your <Skill name="minefield" /> and be careful to time <Skill name="blastgyro" /> into <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
 Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
+- Skill swap <Skill name="blastgyro" /> for <Skill name="shreddergyro" /> after the cast.
 <br/><br/><br/>
 </InformationBlock>
 </CMInformation>
@@ -66,7 +67,7 @@ In <Effect name="exposed"/> burst with <Skill name="electrowhirl" />, <Skill nam
 <IdealRotation>
 1. On Boss (Precasted)
     1. <Skill name="minefield" />
-    2. <Skill name="blastgyro" />
+    2. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
     3. <Skill name="bigolbomb" />
 2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="electrowhirl" />
@@ -134,7 +135,7 @@ Precast <Skill name="supplycrate" /> to instant break the knight.<br/> Use <Skil
 <Phase>
 <CMInformation title="Phase 3">
 ----
-Precast <Skill name="blastgyro" /> to share <Boon name="Might" />, <Boon name="Quickness" /> and deal moderate break bar damage.<br/>
+Precast <Skill name="shreddergyro" /> to share  <Boon name="Quickness" /> and deal moderate damage.<br/>
 Burst with <Skill name="thunderclap" profession="engineer" /> followed by <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />  then <Skill name="grenadebarrage" />.
 - Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
@@ -143,7 +144,7 @@ Keep dealing damage using <Skill name="electrowhirl" /> and <Skill name="shrapne
 </CMInformation>
 <IdealRotation>
 1. Precasted
-   1. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
+   1. <Skill name="shreddergyro" />
 2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="electrowhirl" />
 4. <Skill name="shrapnelgrenade" />
@@ -174,7 +175,7 @@ Finish it by casting <Skill name="electrowhirl" /> into <Effect name="Exposed" /
 <Phase>
 <CMInformation title="Phase 4">
 ----
-Precast <Skill name="blastgyro" /> to share <Boon name="Might" />, <Boon name="Quickness" /> and deal moderate break bar damage.<br/>
+Precast <Skill name="shreddergyro" /> to share  <Boon name="Quickness" /> and deal moderate damage.<br/>
 Burst with <Skill name="thunderclap" profession="engineer" /> followed by <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />  then <Skill name="poisongrenade" /> into <Effect name="Exposed" />.
 - Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
@@ -183,7 +184,7 @@ Finally use any available skills to finish the boss.<br/><br/><br/><br/><br/><br
 <IdealRotation>
 
 1. Precasted
-   1. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
+   1. <Skill name="shreddergyro" />
 2. <Skill name="thunderclap" profession="engineer" />
 7. <Skill name="throwmine" />
 6. <Skill name="minefield" />
