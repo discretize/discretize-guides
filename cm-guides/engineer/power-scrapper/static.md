@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-30T15:46:55.800Z
+date: 2023-03-30T15:47:27.100Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -140,7 +140,7 @@ Burst with <Skill name="thunderclap" profession="engineer" /> followed by <Skill
 - Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
 Keep dealing damage using <Skill name="electrowhirl" /> and <Skill name="shrapnelgrenade" />  until the phase is done.
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 1. Precasted
