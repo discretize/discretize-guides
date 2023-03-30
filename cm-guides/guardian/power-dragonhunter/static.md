@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: 2023-03-30T23:38:15.610Z
+date: 2023-03-30T23:40:51.185Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -571,7 +571,7 @@ Use <Skill name="symbolofenergy"/> as soon as it is off cooldown on one of the a
 </Phase>
 
 <Phase>
-<CMInformation title="Phases 2">
+<CMInformation title="Phase 2">
 <InformationBlock title="Overview">
 
 *Tips:*
@@ -632,7 +632,7 @@ Use <Skill name="symbolofenergy"/> as soon as it is off cooldown on one of the a
 </Phase>
 
 <Phase>
-<CMInformation title="Phases 2">
+<CMInformation title="Phase 3">
 <InformationBlock title="Overview">
 
 The final phase is very straight-forward, and similar to the second one. <Skill name="dragonsmaw"/> will be up again.
