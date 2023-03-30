@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-30T15:21:45.600Z
+date: 2023-03-30T15:24:32.100Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -142,8 +142,8 @@ Keep dealing damage using <Skill name="electrowhirl" /> and <Skill name="shrapne
 <br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
-
-1. <Skill name="blastgyro" />
+1. Precasted
+   1. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
 2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="electrowhirl" />
 4. <Skill name="shrapnelgrenade" />
@@ -182,7 +182,8 @@ Finally use any available skills to finish the boss.<br/><br/><br/><br/><br/><br
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="blastgyro" />
+1. Precasted
+   1. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
 2. <Skill name="thunderclap" profession="engineer" />
 7. <Skill name="throwmine" />
 6. <Skill name="minefield" />
