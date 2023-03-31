@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T12:47:49.700Z
+date: 2023-03-31T17:09:15.000Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -14,7 +14,7 @@ disableBosses:
 - Learn your precast timing for <Skill name="bigolbomb" /> and <Skill name="blastgyro" />. These skills CC hard and do massive burst damage. 
 - Make sure to chain your skills properly while finishing your auto chains.
 - Link <Skill name="shrapnelgrenade" /> after <Skill name="electrowhirl" /> and use your cooldowns properly to not overdps phases.
-- If your party is lacking <Condition name="Vulnerability" /> application, be aware that applying <Condition name="Vulnerability" /> is up to you and the <Specialization name="Renegade" />. Do not <Skill name="grenadebarrage" /> or <Skill name="minefield" /> late into phases if you're running comps with low <Condition name="Vulnerability" /> ramp-up.
+- If your party is lacking <Condition name="Vulnerability" /> application, be aware that applying <Condition name="Vulnerability" /> is up to you and the <Specialization name="Renegade" />. Do not cast <Skill name="grenadebarrage" /> or <Skill name="minefield" /> late into the phases if you're running comps with a low <Condition name="Vulnerability" /> ramp-up.
 - Always precast <Boon name="Stability"/> and <Skill name="superspeed" /> whenever possible to profit from <Trait name="objectinmotion" />.
 </CMInformation>
 </Phase>
@@ -612,7 +612,7 @@ Cast your <Skill name="shreddergyro" /> and <Skill name="minefield" />.<br/>
 Be careful to time <Skill name="blastgyro" /> and <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
 Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
 - Start your precast when the ball hits then template swap and cast <Skill name="minefield" />.
-The animation should finish right when the boss becomes vunlerable.
+The animation should finish right when the boss becomes vulnerable.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -724,18 +724,17 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 - Suggested Boon Duration: `20%`.
 - Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
 - If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
-- In in a faster party, replace <Skill name="blastgyro" /> with <Skill name="shreddergyro" />.
+- In a faster party replace <Skill name="blastgyro" /> with <Skill name="shreddergyro" />.
 </Boss>
 
 <Phase>
 <CMInformation title="General Tips">
-----
 - Always use your <Skill name="elitemortarkit" /> in between phases, by applying conditions you will profit from <Trait name="modifiedammunition" />.
 - You can double cast <Skill name="shreddergyro" /> at the _Mistlock Singularity_.
 - On <Instability name="Outflanked"/>, save skills on Archdiviner and Gladiator.
 <InformationBlock title="How-to-Push">
 1. Cast a water field in the middle of the arena using <Skill name="elixirshell" />.
-2. Use <Skill name="reconstructionfield" /> to blast your own water field with <Skill name="rocketcharge" /> while you are pushing the orb. This will allow you to sustain the damaging electric field.
+2. Use <Skill name="reconstructionfield" /> to blast your own water field with <Skill name="rocketcharge" /> while you are pushing the orb. This will allow you to sustain the damage from the electric field.
 3. Use the Special Action Key (SAK) to comeback and blast your <Skill name="elixirshell" />  from step 1.
 </InformationBlock>
 </CMInformation>
