@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T10:34:04.300Z
+date: 2023-03-31T10:40:20.200Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -536,7 +536,7 @@ Use <Skill name="electrowhirl" /> and share <Boon name="Quickness" /> and <Effec
 Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="bypasscoating" />.<br/>
 - Hold your <Skill name="blastgyro" /> for when the add is almost dead.<br/>You need to provide <Boon name="Might" /> to your party as soon as the phase starts.
 </InformationBlock>
-----
+
 <InformationBlock title="Tips">
 - In the second split, take portals and make sure <Boon name="Quickness" /> stays up then keep your <Skill name="blastgyro" /> for Island 4 as usual.
 </InformationBlock>
@@ -568,13 +568,18 @@ Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill nam
 
 <Phase>
 <CMInformation title="Phase 2 and 3">
-<InformationBlock title="Overview">
+----
+Precast <Skill name="minefield" /> and <Skill name="thunderclap" profession="engineer" /> into <Effect name="Exposed" />.<br/>
+Burst with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="freezegrenade" /> and <Skill name="poisongrenade" />.
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Cast another <Skill name="electrowhirl" /> and share  <Boon name="Quickness" /> with <Skill name="functiongyro" />.
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="minefield" />
+1. Precasted
+    1. <Skill name="minefield" />
 2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="electrowhirl" />
 4. <Skill name="shrapnelgrenade" />
