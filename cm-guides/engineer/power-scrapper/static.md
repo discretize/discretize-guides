@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T10:52:31.900Z
+date: 2023-03-31T11:20:20.400Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -631,9 +631,14 @@ The animation should finish right when the boss becomes vunlerable.
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-
+----
+Cast <Skill name="thunderclap" profession="engineer" /> and move behind the boss while doing <Skill name="electrowhirl" /> into <Skill name="grenadebarrage" />.<br/>
+Keep dealing damage using <Skill name="detonateminefield" />, <Skill name="shrapnelgrenade"/> and <Skill name="poisongrenade" />.<br/>
+Use another <Skill name="electrowhirl" /> until the boss is phased.
+<InformationBlock title="Tips">
+- If your party lacks damage, keep <Skill name="electrowhirl" /> to reflect the orbs at the corner.
 </InformationBlock>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -655,36 +660,57 @@ The animation should finish right when the boss becomes vunlerable.
 </Phase>
 
 <Phase>
-<CMInformation title="Split 1">
-<InformationBlock>
+<CMInformation title="Splits">
+----
+You will be expected to contribute CC on middle add for both splits.
+- Using <Skill name="elitemortarkit" /> and <Skill name="grenadekit" /> is usually enough.
 
-</InformationBlock>
+If needed, you can also help one of your <Specialization name="Soulbeast" /> with <Skill name="freezegrenade" /> and <Skill name="flashgrenade" />.
+<br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="flashgrenade" />
+1. Split 1
+    1. <Skill name="flashgrenade" />
+----
+2. Split 2
+3. <Skill name="elitemortarkit" />
+    4. <Skill name="Endothermic Shell"/>
+    5. <Skill name="Flash Shell"/>
+6. <Skill name="flashgrenade" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2+3">
-<InformationBlock title="Overview">
+<CMInformation title="Phase 2 and 3">
+----
+Share <Boon name="Quickness" />, <Effect name="Superspeed" /> and <Boon name="Might" /> with <Skill name="medicgyro" /> and <Skill name="blastgyro" />.
+- When the boss becomes green start casting <Skill name="minefield" />.
 
+Burst the phase with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="throwmine" /> into <Skill name="grenadebarrage" /> and <Skill name="detonateminefield" />.<br/><br/>
+Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
+- Dodging will proc <Trait name="explosiveentrance" /> which is a small damage increase.
+- If your party lacks <Condition name="Vulnerability" /> application it may be better to <Skill name="shockshield" /> instead.
+<InformationBlock title="Important">
+- Land your first <Skill name="electrowhirl" /> as soon as possible or you will miss the second one.
+- Make sure to be fast sharing the necessary boons as if your <Specialization name="Soulbeast" /> starts casting <Skill name="barrage" /> without <Boon name="Quickness" />, it will ruins the whole phase.
+<br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="medicgyro" />
-2. <Skill name="blastgyro" />
-3. <Skill name="minefield" />
+1. Precasted
+    1. <Skill name="medicgyro" />
+    2. <Skill name="blastgyro" />
+    3. <Skill name="minefield" />
 4. <Skill name="thunderclap" profession="engineer" />
 5. <Skill name="electrowhirl" />
 6. <Skill name="shrapnelgrenade" />
 7. <Skill name="throwmine" />
 8. <Skill name="grenadebarrage" />
 9. <Skill name="detonateminefield" />
-10. <Skill name="shockshield" /> or DODGE
+10. <Skill name="shockshield" /> (or dodge)
 11. <Skill name="poisongrenade" />
 12. <Skill name="electrowhirl" />
 
@@ -692,20 +718,6 @@ The animation should finish right when the boss becomes vunlerable.
 </IdealRotation>
 </Phase>
 
-<Phase>
-<CMInformation title="Split 2">
-<InformationBlock>
-
-</InformationBlock>
-</CMInformation>
-<IdealRotation>
-
-1. <Skill name="Endothermic Shell"/> (Mortar 3)
-2. <Skill name="Flash Shell"/> (Mortar 4)
-3. <Skill name="flashgrenade" /> (Grenade 3)
-
-</IdealRotation>
-</Phase>
 
 <Boss name="arkk" video="uaC9y-1G6Us" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
