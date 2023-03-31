@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T09:55:49.000Z
+date: 2023-03-31T10:27:56.400Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -452,15 +452,26 @@ Once under <Trait name="objectinmotion" /> effect, it's time to <Skill name="det
 
 <Boss name="skorvald" video="l-BeKbgeL8s" videoCreator="Hyp" foodId="43360" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="30815" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" >
 
+- Suggested Boon Duration: `20%`.
+- Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
+
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
+----
+<InformationBlock title="At the Mistlock">
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
 
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Cast your <Skill name="minefield" /> and be careful to time <Skill name="blastgyro" /> into <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
+Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.<br/>
+<InformationBlock title="Important">
+- You are expected to pull the boss in the middle of casting <Skill name="minefield" />.
+</InformationBlock>
+<br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -479,15 +490,18 @@ Once under <Trait name="objectinmotion" /> effect, it's time to <Skill name="det
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
-
-</InformationBlock>
+----
+Cast <Skill name="thunderclap" profession="engineer" /> and <Skill name="throwmine" profession="engineer" /> to break the bar.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="poisongrenade" />, <Skill name="detonateminefield" /> and <Skill name="grenadebarrage" />.<br/><br/>
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> on your way to Island 1 with <Skill name="functiongyro" />.
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="bigolbomb" />
-2. <Skill name="blastgyro" />
-3. <Skill name="minefield" />
+1. On Boss (Precasted)
+    1. <Skill name="bigolbomb" />
+    2. <Skill name="blastgyro" />
+    3. <Skill name="minefield" /> (pull boss)
 3. <Skill name="thunderclap" profession="engineer" />
 4. <Skill name="throwmine" profession="engineer" />
 5. <Skill name="electrowhirl" />
@@ -495,32 +509,41 @@ Once under <Trait name="objectinmotion" /> effect, it's time to <Skill name="det
 7. <Skill name="poisongrenade" />
 8. <Skill name="detonateminefield" />
 9. <Skill name="grenadebarrage" />
-10. <Skill name="functiongyro" /> on the way to island 1
+----
+10. <Skill name="functiongyro" />
 
 </IdealRotation>
 </Phase>
 
 <Phase>
 <CMInformation title="Split 1">
+----
+During splits you will have to use skills that gives <Effect name="Superspeed" /> on each Islands.<br/>
+Don't be late as you are expected to provide the necessary before your team starts running.
 <InformationBlock title="Island 1">
-
+Use <Skill name="electrowhirl" /> and <Effect name="Stealth" /> your party using <Skill name="sneakgyro" /> on your way to Island 2.
+- You can use <Skill name="rocketcharge" /> to leap into the air and save animation time.
 </InformationBlock>
 <InformationBlock title="Island 2">
-
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="medicgyro" />.<br/>
+Apply instant <Condition name="Vulnerability" /> with <Skill name="shockshield" /> and finish the add with <Skill name="throwmine" /> while moving to Island 3.
 </InformationBlock>
 <InformationBlock title="Island 3">
-
+Use <Skill name="electrowhirl" /> and share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" />.<br/>
+- You can use <Skill name="rocketcharge" /> to leap into the air and save animation time.
 </InformationBlock>
 <InformationBlock title="Island 4">
-
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="bypasscoating" />.<br/>
+- Hold your <Skill name="blastgyro" /> for when the add is almost dead.<br/>You need to provide <Boon name="Might" /> to your party as soon as the phase starts.
 </InformationBlock>
+<br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
 **Island 1**
 1. <Skill name="electrowhirl" />
 2. <Skill name="sneakgyro" />
-3. <Skill name="rocketcharge" /> LEAP
+3. <Skill name="rocketcharge" /> (leap)
 
 **Island 2**
 1. <Skill name="medicgyro" />
@@ -530,7 +553,7 @@ Once under <Trait name="objectinmotion" /> effect, it's time to <Skill name="det
 **Island 3**
 1. <Skill name="functiongyro" />
 2. <Skill name="electrowhirl" />
-3. <Skill name="rocketcharge" />
+3. <Skill name="rocketcharge" /> (leap)
 
 **Island 4**
 1. <Skill name="bypasscoating" />
