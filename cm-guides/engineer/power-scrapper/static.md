@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T09:25:44.000Z
+date: 2023-03-31T09:33:32.900Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -354,17 +354,24 @@ Keep dealing damage with <Skill name="poisongrenade" /> and <Skill name="freezeg
 
 <Boss name="ensolyss" video="kTTD3RrMIlI" videoCreator="Elu" foodId="91805" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="6183" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Impact" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131">
 
-
+- Suggested Boon Duration: `20%`.
+- Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
+- Make sure a <Specialization name="Soulbeast"/> takes <Skill name="moastance" />.
 
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
+----
+<InformationBlock title="At the Mistlock">
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
 
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Cast your <Skill name="minefield" /> and be careful to time <Skill name="blastgyro" /> into <Skill name="thunderclap" profession="engineer" /> for when the boss becomes vulnerable (very important CC contribution).<br/>
+Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
+<br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
