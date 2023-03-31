@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T11:21:06.200Z
+date: 2023-03-31T11:29:22.800Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -330,7 +330,7 @@ Finish it with <Skill name="electrowhirl" /> and <Skill name="shrapnelgrenade" /
 <Phase>
 <CMInformation title="Phase 3">
 ----
-Share <Boon name="Quickness" /> with <Skill name="medicgyro" /> and precast <Skill name="shreddergyro" />.<br/>
+Share <Boon name="Quickness" /> with <Skill name="medicgyro" /> and cast <Skill name="shreddergyro" />.<br/>
 In <Effect name="Exposed" />, burst with <Skill name="thunderclap" profession="engineer" />, <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" /> and <Skill name="grenadebarrage" />.
 - Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
@@ -719,10 +719,12 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 </Phase>
 
 
-<Boss name="arkk" video="uaC9y-1G6Us" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
+<Boss name="arkk" video="uaC9y-1G6Us" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
-- Precast 
-
+- Suggested Boon Duration: `20%`.
+- Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
+- In in a slower party, replace <Skill name="shreddergyro" /> with <Skill name="blastgyro" /> to help maintaining decent <Boon name="Might" />.
 </Boss>
 
 <Phase>
