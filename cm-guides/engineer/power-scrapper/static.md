@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T12:34:14.300Z
+date: 2023-03-31T12:36:12.500Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -820,9 +820,8 @@ In <Effect name="Exposed" />, burst with <Skill name="thunderclap" profession="e
 
 <Phase>
 <CMInformation title="Archdiviner">
-<InformationBlock title="Overview">
-
-</InformationBlock>
+----
+Precast <Skill name="sparecapacitor" /> and burst the add with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" /> and <Skill name="poisongrenade" />.
 </CMInformation>
 <IdealRotation>
 
@@ -835,7 +834,7 @@ In <Effect name="Exposed" />, burst with <Skill name="thunderclap" profession="e
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 3 70%-50%">
+<CMInformation title="Phase 3 (70 to 50%)">
 <InformationBlock title="Overview">
 
 </InformationBlock>
