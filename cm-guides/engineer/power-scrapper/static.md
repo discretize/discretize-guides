@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T17:09:15.000Z
+date: 2023-03-31T17:48:46.200Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -13,7 +13,7 @@ disableBosses:
 ----
 - Learn your precast timing for <Skill name="bigolbomb" /> and <Skill name="blastgyro" />. These skills CC hard and do massive burst damage. 
 - Make sure to chain your skills properly while finishing your auto chains.
-- Link <Skill name="shrapnelgrenade" /> after <Skill name="electrowhirl" /> and use your cooldowns properly to not overdps phases.
+- Link <Skill name="shrapnelgrenade" /> after <Skill name="electrowhirl" /> and use your cooldowns properly to not over damage  phases.
 - If your party is lacking <Condition name="Vulnerability" /> application, be aware that applying <Condition name="Vulnerability" /> is up to you and the <Specialization name="Renegade" />. Do not cast <Skill name="grenadebarrage" /> or <Skill name="minefield" /> late into the phases if you're running comps with a low <Condition name="Vulnerability" /> ramp-up.
 - Always precast <Boon name="Stability"/> and <Skill name="superspeed" /> whenever possible to profit from <Trait name="objectinmotion" />.
 </CMInformation>
@@ -119,7 +119,7 @@ Cast <Skill name="electrowhirl" /> whenever possible followed by  <Skill name="s
 <Phase>
 <CMInformation title="Knight 2">
 ----
-Precast <Skill name="supplycrate" /> to instant break the knight.<br/> Use <Skill name="shockshield" /> to apply instant <Condition name="Vulnerability" /> and auto attack in <Effect name="Exposed" />.<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Precast <Skill name="supplycrate" /> to instantly break the knight.<br/> Use <Skill name="shockshield" /> to apply <Condition name="Vulnerability" /> and auto attack in <Effect name="Exposed" />.<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 1. Precasted
@@ -420,7 +420,7 @@ Cast <Skill name="grenadebarrage" /> under <Trait name="objectinmotion" /> then 
 <CMInformation title="Phase 2 and 3">
 ----
 Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" /> and <Skill name="bypasscoating"/>.
-- Share the boons as fast as possible after your team regroup from splits.
+- Share the boons as fast as possible after your team regroups from splits.
 
 Precast <Skill name="minefield" /> before the boss becomes vulnerable.<br/>
 Use <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" /> then prepare to break the bar.<br/><br/>
@@ -518,7 +518,7 @@ Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> on your way to 
 <Phase>
 <CMInformation title="Splits">
 ----
-During splits you will have to use skills that gives <Effect name="Superspeed" /> on each Islands.<br/>
+During splits you will have to use skills that give <Effect name="Superspeed" /> on each Island.<br/>
 Don't be late as you are expected to provide the necessary before your team starts running.
 <InformationBlock title="Island 1">
 Use <Skill name="electrowhirl" /> and <Effect name="Stealth" /> your party using <Skill name="sneakgyro" /> on your way to Island 2.
@@ -662,7 +662,7 @@ Use another <Skill name="electrowhirl" /> until the boss is phased.
 <Phase>
 <CMInformation title="Splits">
 ----
-You will be expected to contribute CC on middle add for both splits.
+You will be expected to contribute CC on the middle add for both splits.
 - Using <Skill name="elitemortarkit" /> and <Skill name="grenadekit" /> is usually enough.
 
 If needed, you can also help one of your <Specialization name="Soulbeast" /> with <Skill name="freezegrenade" /> and <Skill name="flashgrenade" />.
@@ -694,7 +694,7 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 - If your party lacks <Condition name="Vulnerability" /> application it is better to <Skill name="shockshield" /> instead.
 <InformationBlock title="Important">
 - Land your first <Skill name="electrowhirl" /> as soon as possible or you will miss the second one.
-- Make sure to be fast sharing the necessary boons as if your <Specialization name="Soulbeast" /> starts casting <Skill name="barrage" /> without <Boon name="Quickness" />, it will ruins the whole phase.
+- Make sure to be fast sharing the necessary boons as if your <Specialization name="Soulbeast" /> starts casting <Skill name="barrage" /> without <Boon name="Quickness" />, it will ruin the whole phase.
 <br/><br/><br/>
 </InformationBlock>
 </CMInformation>
@@ -734,8 +734,8 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 - On <Instability name="Outflanked"/>, save skills on Archdiviner and Gladiator.
 <InformationBlock title="How-to-Push">
 1. Cast a water field in the middle of the arena using <Skill name="elixirshell" />.
-2. Use <Skill name="reconstructionfield" /> to blast your own water field with <Skill name="rocketcharge" /> while you are pushing the orb. This will allow you to sustain the damage from the electric field.
-3. Use the Special Action Key (SAK) to comeback and blast your <Skill name="elixirshell" />  from step 1.
+2. Use <Skill name="reconstructionfield" /> to blast your own water field with <Skill name="rocketcharge" /> while you are pushing the orb. This allows you to sustain the damage from the electric field.
+3. Use the Special Action Key (SAK) to come back and blast your <Skill name="elixirshell" />  from step 1.
 </InformationBlock>
 </CMInformation>
 </Phase>
