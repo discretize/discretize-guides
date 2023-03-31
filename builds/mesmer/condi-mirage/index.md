@@ -19,7 +19,7 @@ rating: Good
 role: Condi Damage
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-03-29T18:04:22.021Z
+date: 2023-03-31T13:27:00.711Z
 profession: Mesmer
 conditions:
   - name: Torment
@@ -43,7 +43,7 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,671" traits3Id="59" traits3="Mirage" traits3SelectedIds="2110,2098,2070"/>
+<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,671" traits3Id="59" traits3="Mirage" traits3SelectedIds="2082,2098,2070"/>
 </GridItem>
 
 <GridItem sm="5">
@@ -67,7 +67,7 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 |                                                         |                                                                                                                                |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Renewing Oasis" size="big" disableText/> | Take this instead of <Trait name="Riddle of Sand"/> if you don't have <Boon name="Regeneration" /> |
+| <Trait name="Riddle of Sand" size="big" disableText/> | Take this Trait instead of <Trait name="Renewing Oasis"/> if you already have permanent <Boon name="Regeneration" /> |
 
 </Card>
 
