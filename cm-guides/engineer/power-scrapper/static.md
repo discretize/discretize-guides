@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T09:33:32.900Z
+date: 2023-03-31T09:55:49.000Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -390,14 +390,19 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 
 <Phase>
 <CMInformation title="Phase 1">
-<InformationBlock title="Overview">
+----
+Precast <Skill name="blastgyro" /> and <Skill name="thunderclap" profession="engineer" /> to instant break the boss.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />, <Skill name="poisongrenade" /> and <Skill name="freezegrenade" />.<br/>
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" /> and <Skill name="bypasscoating"/>.<br/><br/>
+Cast <Skill name="grenadebarrage" /> under <Trait name="objectinmotion" /> then continue dealing damage following a classic golem rotation.<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="blastgyro" />
-2. <Skill name="thunderclap" profession="engineer" />
+1. On Boss (Precasted)
+    1. <Skill name="blastgyro" />
+    2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="throwmine" profession="engineer" />
 4. <Skill name="electrowhirl" />
 5. <Skill name="shrapnelgrenade" />
@@ -412,16 +417,22 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2+3">
-<InformationBlock>
+<CMInformation title="Phase 2 and 3">
+----
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" /> and <Skill name="bypasscoating"/>.
+- Share the boons as fast as possible after your team regroup from splits.
 
-</InformationBlock>
+Precast <Skill name="minefield" /> before the boss becomes vulnerable.<br/>
+Use <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" /> then prepare to break the bar.<br/><br/>
+Cast <Skill name="thunderclap" profession="engineer" /> and <Skill name="throwmine" profession="engineer" /> then share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" /> and <Skill name="bypasscoating"/>.<br/><br/>
+Once under <Trait name="objectinmotion" /> effect, it's time to <Skill name="detonate" profession="engineer" /> into <Skill name="grenadebarrage" />, <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" /> and follow it up with <Skill name="poisongrenade" />, <Skill name="freezegrenade" /> and another set of <Skill name="minefield" /> if needed.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="medicgyro" />
-2. <Skill name="blastgyro" />
-3. <Skill name="minefield" /> (SPAWN)
+1. Precasted
+    1. <Skill name="medicgyro" />
+    2. <Skill name="blastgyro" />
+    3. <Skill name="minefield" />
 4. <Skill name="electrowhirl" />
 5. <Skill name="shrapnelgrenade" />
 6. <Skill name="thunderclap" profession="engineer" />
