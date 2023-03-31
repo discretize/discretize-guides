@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T11:20:20.400Z
+date: 2023-03-31T11:20:42.700Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -690,7 +690,7 @@ Share <Boon name="Quickness" />, <Effect name="Superspeed" /> and <Boon name="Mi
 
 Burst the phase with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="throwmine" /> into <Skill name="grenadebarrage" /> and <Skill name="detonateminefield" />.<br/><br/>
 Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
-- Dodging will proc <Trait name="explosiveentrance" /> which is a small damage increase.
+- Dodging refresh <Trait name="explosiveentrance" /> which is a small damage increase.
 - If your party lacks <Condition name="Vulnerability" /> application it may be better to <Skill name="shockshield" /> instead.
 <InformationBlock title="Important">
 - Land your first <Skill name="electrowhirl" /> as soon as possible or you will miss the second one.
