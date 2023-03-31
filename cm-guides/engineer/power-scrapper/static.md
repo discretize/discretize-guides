@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T12:25:31.900Z
+date: 2023-03-31T12:34:14.300Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -751,7 +751,7 @@ Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" 
 Precast your <Skill name="minefield" /> and <Skill name="throwmine" profession="engineer" /> beforing taking portal.
 </InformationBlock>
 <InformationBlock title="On Boss">
-Be careful to time <Skill name="shreddergyro" /> and <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
+Be careful to time <Skill name="shreddergyro" /> and <Skill name="bigolbomb" /> for when the boss becomes vulnerable.
 - At the end of the cast swap <Skill name="shreddergyro" /> with <Skill name="blastgyro" />.
 
 Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
@@ -777,7 +777,7 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 Precast <Skill name="thunderclap" profession="engineer" /> and burst with <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />, <Skill name="grenadebarrage" />, <Skill name="poisongrenade" /> and <Skill name="freezegrenade" />.<br/>
 - You can help cleaving the anomaly using <Skill name="throwmine" profession="engineer" />.
 
-Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" />.<br/>
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" />.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -799,9 +799,11 @@ Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill nam
 
 <Phase>
 <CMInformation title="Phase 2 (80 to 70%)">
-<InformationBlock title="Overview">
-
-</InformationBlock>
+----
+Share <Boon name="Quickness" />, <Effect name="Superspeed" /> and <Boon name="Might" /> using <Skill name="medicgyro" /> and <Skill name="blastgyro" />.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="thunderclap" profession="engineer" /> and <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />.
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
+<br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
