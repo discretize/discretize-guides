@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T11:29:22.800Z
+date: 2023-03-31T11:59:35.400Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -719,21 +719,33 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 </Phase>
 
 
-<Boss name="arkk" video="uaC9y-1G6Us" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="29921" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
+<Boss name="arkk" video="uaC9y-1G6Us" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131">
 
 - Suggested Boon Duration: `20%`.
 - Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
 - If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
-- In in a slower party, replace <Skill name="shreddergyro" /> with <Skill name="blastgyro" /> to help maintaining decent <Boon name="Might" />.
+- In in a faster party, replace <Skill name="blastgyro" /> with <Skill name="shreddergyro" />.
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
+----
+<InformationBlock title="At the Mistlock">
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
 
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Platform">
+Precast your <Skill name="minefield" /> and <Skill name="throwmine" profession="engineer" /> beforing taking portal.
+</InformationBlock>
+<InformationBlock title="On Boss">
+Be careful to time <Skill name="shreddergyro" /> and <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
+- At the end of the cast swap <Skill name="shreddergyro" /> with <Skill name="blastgyro" />.
+
+Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
+</InformationBlock>
+<InformationBlock title="General Tips">
+- Always precast your <Skill name="elitemortarkit" /> in between phases, by applying conditions you will profit from <Trait name="modifiedammunition" />.
+- You can double cast <Skill name="shreddergyro" /> at the _Mistlock Singularity_.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -751,14 +763,18 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 1 100%-80%">
-<InformationBlock title="Overview">
+<CMInformation title="Phase 1 (100 to 80%)">
+----
+Precast <Skill name="thunderclap" profession="engineer" /> and burst with <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />, <Skill name="grenadebarrage" />, <Skill name="poisongrenade" /> and <Skill name="freezegrenade" />.<br/>
+- If needed <Skill name="throwmine" profession="engineer" /> on the anomaly.
 
-</InformationBlock>
+Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" />.<br/>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="blastgyro" />
+1. On Boss (Precasted)
+    1. <Skill name="bigolbomb" />
+    3. <Skill name="shreddergyro" /> / <Skill name="blastgyro" />
 2. <Skill name="thunderclap" profession="engineer" />
 3. <Skill name="electrowhirl" />
 4. <Skill name="shrapnelgrenade" />
@@ -766,6 +782,7 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 6. <Skill name="poisongrenade" />
 7. <Skill name="freezegrenade" />
 8. <Skill name="functiongyro" />
+----
 9. <Skill name="throwmine" />
 
 </IdealRotation>
