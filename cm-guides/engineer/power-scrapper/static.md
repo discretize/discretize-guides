@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T12:43:07.200Z
+date: 2023-03-31T12:47:49.700Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -895,9 +895,11 @@ Like on Archdiviner, precast <Skill name="sparecapacitor" /> and burst the add w
 
 <Phase>
 <CMInformation title="Phase 5 (40 to 30%)">
-<InformationBlock title="Overview">
+----
+In <Effect name="Exposed" />, burst with <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />.
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Cast another <Skill name="electrowhirl" /> if needed.<br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -913,9 +915,12 @@ Like on Archdiviner, precast <Skill name="sparecapacitor" /> and burst the add w
 
 <Phase>
 <CMInformation title="Phase 6 (30 to 0%)">
-<InformationBlock title="Overview">
+----
+Share <Boon name="Quickness" />, <Effect name="Superspeed" /> and <Boon name="Might" /> using <Skill name="medicgyro" /> and <Skill name="blastgyro" />.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="thunderclap" profession="engineer" />, <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />, <Skill name="poisongrenade" />, <Skill name="freezegrenade" /> and <Skill name="grenadebarrage" />.
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Cast another <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" /> if needed.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
