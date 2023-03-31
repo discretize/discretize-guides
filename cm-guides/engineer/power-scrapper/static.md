@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T10:27:56.400Z
+date: 2023-03-31T10:34:04.300Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -516,7 +516,7 @@ Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> on your way to 
 </Phase>
 
 <Phase>
-<CMInformation title="Split 1">
+<CMInformation title="Splits">
 ----
 During splits you will have to use skills that gives <Effect name="Superspeed" /> on each Islands.<br/>
 Don't be late as you are expected to provide the necessary before your team starts running.
@@ -536,7 +536,11 @@ Use <Skill name="electrowhirl" /> and share <Boon name="Quickness" /> and <Effec
 Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="bypasscoating" />.<br/>
 - Hold your <Skill name="blastgyro" /> for when the add is almost dead.<br/>You need to provide <Boon name="Might" /> to your party as soon as the phase starts.
 </InformationBlock>
-<br/><br/><br/><br/><br/>
+----
+<InformationBlock title="Tips">
+- In the second split, take portals and make sure <Boon name="Quickness" /> stays up then keep your <Skill name="blastgyro" /> for Island 4 as usual.
+</InformationBlock>
+
 </CMInformation>
 <IdealRotation>
 
@@ -563,7 +567,7 @@ Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill nam
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2+3">
+<CMInformation title="Phase 2 and 3">
 <InformationBlock title="Overview">
 
 </InformationBlock>
