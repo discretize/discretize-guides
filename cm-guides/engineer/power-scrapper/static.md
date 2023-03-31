@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T11:59:35.400Z
+date: 2023-03-31T12:00:10.800Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -766,7 +766,7 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 <CMInformation title="Phase 1 (100 to 80%)">
 ----
 Precast <Skill name="thunderclap" profession="engineer" /> and burst with <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" />, <Skill name="grenadebarrage" />, <Skill name="poisongrenade" /> and <Skill name="freezegrenade" />.<br/>
-- If needed <Skill name="throwmine" profession="engineer" /> on the anomaly.
+- You can help cleaving the anomaly using <Skill name="throwmine" profession="engineer" />.
 
 Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill name="functiongyro" />.<br/>
 </CMInformation>
