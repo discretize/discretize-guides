@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T12:00:10.800Z
+date: 2023-03-31T12:25:31.900Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -728,6 +728,19 @@ Avoid the knockback using <Skill name="shockshield" /> or simply dodge.
 </Boss>
 
 <Phase>
+<CMInformation title="General Tips">
+----
+- Always use your <Skill name="elitemortarkit" /> in between phases, by applying conditions you will profit from <Trait name="modifiedammunition" />.
+- You can double cast <Skill name="shreddergyro" /> at the _Mistlock Singularity_.
+- On <Instability name="Outflanked"/>, save skills on Archdiviner and Gladiator.
+<InformationBlock title="How-to-Push">
+1. Cast a water field in the middle of the arena using <Skill name="elixirshell" />.
+2. Use <Skill name="reconstructionfield" /> to blast your own water field with <Skill name="rocketcharge" /> while you are pushing the orb. This will allow you to sustain the damaging electric field.
+3. Use the Special Action Key (SAK) to comeback and blast your <Skill name="elixirshell" />  from step 1.
+</InformationBlock>
+</CMInformation>
+</Phase>
+<Phase>
 <CMInformation title="Precast">
 ----
 <InformationBlock title="At the Mistlock">
@@ -742,10 +755,6 @@ Be careful to time <Skill name="shreddergyro" /> and <Skill name="bigolbomb" /> 
 - At the end of the cast swap <Skill name="shreddergyro" /> with <Skill name="blastgyro" />.
 
 Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
-</InformationBlock>
-<InformationBlock title="General Tips">
-- Always precast your <Skill name="elitemortarkit" /> in between phases, by applying conditions you will profit from <Trait name="modifiedammunition" />.
-- You can double cast <Skill name="shreddergyro" /> at the _Mistlock Singularity_.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -789,7 +798,7 @@ Share <Boon name="Quickness" /> and <Effect name="Superspeed" /> with <Skill nam
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2 80%-70%">
+<CMInformation title="Phase 2 (80 to 70%)">
 <InformationBlock title="Overview">
 
 </InformationBlock>
