@@ -1,6 +1,6 @@
 ---
 title: Heal Renegade
-hidden: false
+hidden: true
 archive: true
 rating: Offmeta
 role: Support
@@ -39,15 +39,15 @@ boons:
   - name: Resistance
     uptime: On Demand
     variant: Party
-code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 1
   - 3
   - 2
   - 2
-date: 2022-08-05T22:39:42.575Z
+date: 2023-03-31T17:30:59.132Z
 ---
 
 The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
