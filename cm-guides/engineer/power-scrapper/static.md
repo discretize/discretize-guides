@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-31T10:40:20.200Z
+date: 2023-03-31T10:52:31.900Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -595,15 +595,24 @@ Cast another <Skill name="electrowhirl" /> and share  <Boon name="Quickness" /> 
 
 <Boss name="artsariiv" video="qhCSGO0cZ0o" timestamp="139" videoCreator="Hyp" foodId="91805" utilityId="9443" healId="30357" utility1Id="6020" utility2Id="6161" utility3Id="31248	" eliteId="30800" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" >
 
+- Suggested Boon Duration: `20%`.
+- Increase boon duration if you notice downtime in <Boon name="Quickness"/>.
+- If <Instability name="No Pain, No Gain"/> is present use <Skill name="Throw Mine"/> to boon strip.
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
-
-<InformationBlock title="Overview">
+----
+<InformationBlock title="At the Mistlock">
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
 
 </InformationBlock>
-<InformationBlock title="At The Mistlock">
+<InformationBlock title="On Boss">
+Cast your <Skill name="shreddergyro" /> and <Skill name="minefield" />.<br/>
+Be careful to time <Skill name="blastgyro" /> and <Skill name="bigolbomb" /> for when the boss becomes vulnerable.<br/>
+Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit from <Trait name="objectinmotion" />.
+- Start your precast when the ball hits then template swap and cast <Skill name="minefield" />.
+The animation should finish right when the boss becomes vunlerable.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -628,17 +637,19 @@ Cast another <Skill name="electrowhirl" /> and share  <Boon name="Quickness" /> 
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="shreddergyro" />
-2. <Skill name="bigolbomb" />
-3. <Skill name="blastgyro" />
-4. <Skill name="minefield" />
+1. On Boss (Precasted)
+    1. <Skill name="shreddergyro" />
+    2. <Skill name="bigolbomb" />
+    3. <Skill name="blastgyro" />
+    4. <Skill name="minefield" />
 5. <Skill name="thunderclap" profession="engineer" />
 6. <Skill name="electrowhirl" />
 7. <Skill name="grenadebarrage" />
 8. <Skill name="detonateminefield" />
 9. <Skill name="shrapnelgrenade" />
 10. <Skill name="poisongrenade" />
-11. <Skill name="electrowhirl" /> REFLECT
+----
+11. <Skill name="electrowhirl" /> (reflect)
 
 </IdealRotation>
 </Phase>
