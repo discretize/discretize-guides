@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: 2023-03-30T15:55:51.300Z
+date: 2023-03-31T09:25:44.000Z
 disableBosses:
   - LightAi
   - DarkAi
@@ -207,7 +207,8 @@ Finally use any available skills to finish the boss.<br/><br/><br/><br/><br/><br
 <CMInformation title="Precast">
 ----
 <InformationBlock title="At the Mistlock">
-Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.
+Blast the fire field to gain <Boon name="Might"/> using <Skill name="blastgyro" />, share <Boon name="Quickness" /> and <Effect name="Superspeed" /> casting all other available wells.<br/>
+- Remember to swap <Skill name="sneakgyro" /> for <Skill name="elitemortarkit" />.
 
 </InformationBlock>
 <InformationBlock title="On Boss">
@@ -234,12 +235,17 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 <Phase>
 <CMInformation title="Phase 1">
 ----
+Precast <Skill name="thunderclap" profession="engineer" /> and burst with the usual combo <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="grenadebarrage" /> and <Skill name="freezegrenade" />.
+- Use <Skill name="throwmine" /> into <Skill name="detonate"/> whenever possible.<br/>
+
+Share <Boon name="Quickness" /> at the end of the phase via  <Skill name="functiongyro" /> then prepare to kill your add in split.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 1. On Boss (Precasted)
     1. <Skill name="minefield" />
     2. <Skill name="blastgyro" /> / <Skill name="shreddergyro" />
     3. <Skill name="bigolbomb" />
+2. <Skill name="thunderclap" profession="engineer" />
 2. <Skill name="electrowhirl" />
 3. <Skill name="shrapnelgrenade" />
 4. <Skill name="grenadebarrage" />
@@ -252,15 +258,20 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 
 <Phase>
 <CMInformation title="Split 1">
-<InformationBlock>
-
+----
+While running to your add, precast <Skill name="poisongasshell" />, <Skill name="endothermicshell" /> and <Skill name="flashshell" />.<br/>
+Finish it with <Skill name="electrowhirl" /> and <Skill name="shrapnelgrenade" />.
+<InformationBlock title="Tips">
+- You can use a portal to get to your add faster instead of walking.
+<br/><br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="poisongasshell" />
-2. <Skill name="endothermicshell" />
-3. <Skill name="flashshell" />
+1. <Skill name="elitemortarkit" />
+    1. <Skill name="poisongasshell" />
+    2. <Skill name="endothermicshell" />
+    3. <Skill name="flashshell" />
 4. <Skill name="electrowhirl" />
 5. <Skill name="shrapnelgrenade" />
 
@@ -269,9 +280,13 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 
 <Phase>
 <CMInformation title="Phase 2">
-<InformationBlock title="Overview">
+----
+Share <Boon name="Quickness" /> with <Skill name="medicgyro" />.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="poisongrenade" /> and <Skill name="poisongrenade" /> into <Skill name="shreddergyro" />.
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Cast another  <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" /> and if needed <Skill name="freezegrenade" />.<br/>
+Prepare for split.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
@@ -292,15 +307,20 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 
 <Phase>
 <CMInformation title="Split 2">
-<InformationBlock>
-
+----
+While running to your add, precast <Skill name="poisongasshell" />, <Skill name="endothermicshell" /> and <Skill name="flashshell" />.<br/>
+Finish it with <Skill name="electrowhirl" /> and <Skill name="shrapnelgrenade" />.
+<InformationBlock title="Tips">
+- You can use a portal to get to your add faster instead of walking.
+<br/><br/><br/><br/>
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="poisongasshell" />
-2. <Skill name="endothermicshell" />
-3. <Skill name="flashshell" />
+1. <Skill name="elitemortarkit" />
+    1. <Skill name="poisongasshell" />
+    2. <Skill name="endothermicshell" />
+    3. <Skill name="flashshell" />
 4. <Skill name="electrowhirl" />
 5. <Skill name="shrapnelgrenade" />
 
@@ -309,9 +329,12 @@ Cast <Skill name="defensefield" /> to gain <Boon name="Stability" /> and profit 
 
 <Phase>
 <CMInformation title="Phase 3">
-<InformationBlock title="Overview">
+----
+Share <Boon name="Quickness" /> with <Skill name="medicgyro" /> and precast <Skill name="shreddergyro" />.<br/>
+In <Effect name="Exposed" />, burst with <Skill name="thunderclap" profession="engineer" />, <Skill name="electrowhirl" /> into <Skill name="shrapnelgrenade" /> and <Skill name="grenadebarrage" />.
+- Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
-</InformationBlock>
+Keep dealing damage with <Skill name="poisongrenade" /> and <Skill name="freezegrenade" /> until the boss dies.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </CMInformation>
 <IdealRotation>
 
