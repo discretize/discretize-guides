@@ -155,7 +155,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear
   
 <Advanced>
 <Card title="Quickbrand Traits">
-<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Weighty Terms,Quickfire" unembossed/>
+<Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Quickfire" unembossed/>
 </Card>
 </Advanced>
 
@@ -181,16 +181,6 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 <Skills heal="Mantra of Solace" utility1="purgingflames" utility2="" utility3="Sanctuary" elite="Mantra of Liberation" unembossed/>
 
 <Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Quickfire" unembossed/>
-
-</Card>
-
-<Card title="Quickshare Variant">
-
-This build assumes you are playing in a comp with a second <Specialization name="Firebrand"/>, who is will take <Skill name="Mantra of Potence"/> to allow you to play more offensively.
-
-<Skills heal="Mantra of Solace" utility1="purgingflames" utility2="Mantra of Potence" utility3="Sanctuary" elite="Mantra of Liberation" unembossed/>
-
-<Traits traits1="Firebrand" traits1Selected="Liberators Vow,Legendary Lore,Quickfire" unembossed/>
 
 </Card>
 
@@ -248,7 +238,8 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 To keep up <Boon name="Quickness"/>:
 
 - Use <Skill name="Feel My Wrath"/> whenever ready
-- Use <Skill name=" mantraofsolace"/> and <Skill name="mantraofpotence"/>. Keep in mind that <Skill name="mantraofsolace"/> does <Boon name="Quickness"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
+- Use all charges of <Skill name="mantraofpotence"/> when it is charged. You shoud recharge the skill when you have downtime betwween phases, or when auto-attacking on Scepter.
+- Use <Skill name=" mantraofsolace"/> Keep in mind that <Skill name="mantraofsolace"/> does <Boon name="Quickness"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
 
@@ -265,7 +256,6 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 - <Skill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
 - <Skill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
 - When running Virtues entering this Tome also cleanses conditions.
-- Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
 <Skill name="Tome of Courage" />:
 
@@ -299,22 +289,20 @@ Starting on Axe:
 2.  <Skill id="9104"/> (Torch 4)
 3.  <Skill name="purgingflames"/>
 4.  Weapon Swap
-5.  <Skill id="9089"/> (Torch 4)
-6.  <Skill id="9089"/> (Torch 4)
-7.  <Skill name="Symbol of Punishment"/> (Scepter 2)
-8.  <Skill name="Tome of Justice"/> (F1)
+5.  <Skill name="Symbol of Punishment"/> (Scepter 2)
+6.  <Skill name="Tome of Justice"/> (F1)
+7.  <Skill name="Epilogue: Ashes of the Just"/>
+8.  <Skill name="Chapter 4: Scorched Aftermath"/>
 9.  <Skill name="Chapter 2: Igniting Burst"/>
-10. <Skill name="Epilogue: Ashes of the Just"/>
-11. <Skill name="Chapter 4: Scorched Aftermath"/>
-12. <Skill name="Chapter 1: Searing Spell"/>
-13. <Skill name="Chapter 2: Igniting Burst"/>
-14. <Skill name="Cleansing Flame"/> (Torch 5)
-15. <Skill name="Symbol of Punishment"/> (Scepter 2)
-16. <Skill id="9104"/> (Torch 4)
-17. **Two <Skill id="9089"/>** (Torch 4)
-18. Weapon Swap
-19. <Skill name="Symbol of Vengeance"/> (Axe 2)
-20. <Skill name="Blazing Edge"/> (Axe 3)
+10. <Skill id="9089"/> (Torch 4)
+11. <Skill id="9089"/> (Torch 4)
+12. <Skill name="Cleansing Flame"/> (Torch 5)
+13. <Skill name="Symbol of Punishment"/> (Scepter 2)
+14. <Skill id="9104"/> (Torch 4)
+15. **Two <Skill id="9089"/>** (Torch 4)
+16. Weapon Swap
+17. <Skill name="Symbol of Vengeance"/> (Axe 2)
+18. <Skill name="Blazing Edge"/> (Axe 3)
 
 When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
 </Card>
@@ -339,13 +327,13 @@ Start by using the following 3 skills off-cooldown in this order of priority:
 
 **Step 3: F1 Tome**
 
-Whenever your <Skill name="Tome of Justice"/> is up, enter it and do the following rotation:
+Every 15 seconds enter <Skill name="Tome of Justice"/>,  and do the following rotation:
 
-1. <Skill name="Chapter 2: Igniting Burst"/>
+1. <Skill name="Epilogue: Ashes of the Just"/>
 2. <Skill name="Chapter 4: Scorched Aftermath"/>
-3. <Skill name="Epilogue: Ashes of the Just"/>
-4. <Skill name="Chapter 1: Searing Spell"/>
-5. <Skill name="Chapter 2: Igniting Burst"/>
+3. <Skill name="Chapter 2: Igniting Burst"/>
+
+You can use your <Skill name="Purging Flames"/> to time this, since it has the same cooldown as <Skill name="Epilogue: Ashes of the Just"/>.
 
 **Step 4: Torch 4**
 
@@ -359,6 +347,21 @@ Note: Unless you execute the rotation perfectly, this will eventually de-sync. O
 
 </Card>
 
+</Beginner>
+
+</GridItem>
+
+<GridItem sm="5">
+
+<Card title="Golem rotation">
+
+This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
+
+<Video youtube="2phGf78VtaU" caption="by Support Hero"/>
+</Card>
+
+<Beginner>
+
 <Card title="Improving Further">
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
@@ -368,34 +371,11 @@ There will be a few additional things on the advanced page to improve further bu
 The additional steps are:
 
 - Before opening your damage tome <Skill name="Tome of Justice"/>, swap to scepter and drop a <Skill name="Symbol of Punishment"/> (Sc2).
-- Do not auto-attack while on scepter. Scepter auto-attacks are your weakest skills. Instead fill the gaps with <Skill name="Cleansing Flame"/> (Torch 5) and <Skill name="Zealots Flame"/> (Torch 4).
+- Try not to auto-attack on scepter for too long. Scepter auto-attacks are your weakest skills. Instead fill the gaps with <Skill name="Cleansing Flame"/> (Torch 5), <Skill name="Zealots Flame"/> (Torch 4) and <Skill name="Tome of Justice"/> (F1).
 - Drop a final <Skill name="Symbol of Punishment"/> before swapping back to axe.
 
 </Card>
-
 </Beginner>
-
-</GridItem>
-
-<GridItem sm="5">
-
-<Beginner>
-
-<Card title="Step-by-Step Video">
-
-This video shows the step-by-step approach to the rotation listed on the left.
-
-<Video youtube="dUk20EZ_zsE" caption="by Ascers"/>
-</Card>
-
-</Beginner>
-
-<Card title="Golem rotation">
-
-This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
-
-<Video youtube="2phGf78VtaU" caption="by Support Hero"/>
-</Card>
 
 <Advanced>
 <Card title="Precasting">
@@ -412,8 +392,6 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 5.  Open <Skill id="44364"/> and use <Skill name="Epilogue: Ashes of the Just"/>
 6.  Take the _Mistlock Singularity_
 7.  Use <Skill name="Feelmywrath"/> again
-
-On <Instability name="Boon Overload"/> days you can drop <Skill name="Feelmywrath"/> for <Skill name="Renewed Focus"/>:
 
 </Card>
 </Advanced>
