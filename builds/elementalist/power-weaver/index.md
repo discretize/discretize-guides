@@ -48,18 +48,23 @@ The same goes for the Jade Bot Core: Tier 10 which Weaver slightly benefits from
 </Beginner>
 
 <Divider text="Equipment"/>
-
-<Advanced>
 <Warning>
 
 These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver due to <Trait name="Master's Fortitude"/>. If you do not have the Tier 10 Core, check out the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Warning>
-</Advanced>
+<Beginner>
+<CharacterWithAr>
+<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18655,"Armor":2192,"Power":3713.2,"Precision":2365,"Toughness":1225,"Vitality":1701,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28850.316117774742,"NonCrit Effective Power":10897.054913167505,"Power DPS":41747.973804619745,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":3.5,"Bleeding DPS":366.40625,"Burning Damage":386.328125,"Burning Stacks":7.152,"Burning DPS":2763.01875,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45017.14880461975,"Effective Health":81376636.81592041,"Survivability":41370.93889980702,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":49432,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":5641,"eliteId":25488},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
 
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+</CharacterWithAr>
+</Beginner>
 <Advanced>
 <CharacterWithAr>
-<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18705,"Armor":2192,"Power":3803.2,"Precision":2365,"Toughness":1225,"Vitality":1706,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3694,"Power2 Coefficient":0,"Burning Coefficient":6.27,"Bleeding Coefficient":6.94,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":29549.58587178738,"NonCrit Effective Power":11161.176140730005,"Power DPS":42031.64043526476,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":6.94,"Bleeding DPS":726.53125,"Burning Damage":386.328125,"Burning Stacks":7.523999999999999,"Burning DPS":2906.7328124999995,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45804.65449776476,"Effective Health":81594746.26865673,"Survivability":41481.823217415724,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Assassin","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":"","eliteId":5516},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
+<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18655,"Armor":2192,"Power":3713.2,"Precision":2365,"Toughness":1225,"Vitality":1701,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28850.316117774742,"NonCrit Effective Power":10897.054913167505,"Power DPS":41747.973804619745,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":3.5,"Bleeding DPS":366.40625,"Burning Damage":386.328125,"Burning Stacks":7.152,"Burning DPS":2763.01875,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45017.14880461975,"Effective Health":81376636.81592041,"Survivability":41370.93889980702,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":49432,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":5539,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -90,13 +95,24 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                          |                                                                                                                                                                                                                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Raging Storm" size="big" disableText/>      | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                                                                                                             |
 | <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                |
 | <Trait name="superiorelements" size="big" disableText /> | If you can guarantee permanent <Condition name="Weakness" /> uptime on the target, you can trade in the <Attribute name="Vitality" /> from <Trait name="mastersfortitude" /> for extra crit chance. Make sure to adjust your gear accordingly. |
 
 </Card>
 </Advanced>
+<Card title="Defiance Bar Damage">
 
+|                                                       |                                               |
+| ----------------------------------------------------- | --------------------------------------------- |
+| <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
+| <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
+| <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
+| <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
+| <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
+| <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
+| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
+
+</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -110,9 +126,10 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                    |
 | <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
 | Offensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
-| <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
+| <Skill name="Conjure Fiery Greatsword" size="big" disableText/>                | This can be precasted before the fight to use in your opener or infight to increase burst damage. It can also be played if you cannot benefit from <Skill name="Weave Self"/>.                                                                                                                                              |
+| <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                    |
+| <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                        |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                              |
 | <Skill name="Conjure Frostbow" size="big" disableText/>           | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
 | Defensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
 | <Skill name="Arcane Shield" size="big" disableText/>              | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
@@ -141,19 +158,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Card>
 </Beginner>
-<Card title="Defiance Bar Damage">
-
-|                                                       |                                               |
-| ----------------------------------------------------- | --------------------------------------------- |
-| <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
-| <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
-| <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
-| <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
-| <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
-| <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
-| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
-
-</Card>
 </GridItem>
 </Grid>
 
@@ -236,7 +240,7 @@ It is recommended to use separate precast templates to easily make use of differ
 </GridItem>
 
 <GridItem xs="12" sm="12">
-<Card title="Rotation (Bolt to the Heart)">
+<Card title="Rotation (Not using Weave Self)">
 
 The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
 
@@ -401,6 +405,15 @@ Lastly, we will try to improve our burst damage significantly by using <Skill na
 - If a Mistlock Singularity is present, you can cast <Skill name="conjurefierygreatsword" /> there to have another one during the fight. Otherwise, you can cast it before a boss or on the way to the boss as it is also great for mobility. Use <Skill name="firestorm" profession="bundle" />, then drop it and use <Skill name="glyphofstorms" />.
 
 </Card>
+</GridItem>
+<GridItem xs="12" sm="5">
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="8kc_WPrg24w" caption="by Ascers"/>
+
+</Card>
 <Card title="Improving Further">
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
@@ -414,16 +427,6 @@ The additional steps are:
 - Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" /> or <Skill name="unravel" />.
 
 </Card>
-</GridItem>
-<GridItem xs="12" sm="5">
-<Card title="Step-by-Step Video">
-
-This video shows the step-by-step approach to the rotation listed on the left.
-
-<Video youtube="8kc_WPrg24w" caption="by Ascers"/>
-
-</Card>
-
 </GridItem>
 </Grid>
 </Beginner>
