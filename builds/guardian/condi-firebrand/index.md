@@ -75,7 +75,7 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 There are a couple of different gear, utility, and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 
-- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/> (not using final charge), <Skill name="Mantra of Potence"/> (using final charge) and <Skill name="Feel My Wrath"/> - Minimum duration 33.5%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/> (not using final charge), <Skill name="Mantra of Potence"/> (using final charge) and <Skill name="Feel My Wrath"/> - Minimum duration 32.5%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/> (not using final charge), <Skill name="Mantra of Potence"/> (not using final charge) and <Skill name="Feel My Wrath"/> - Minimum duration 41.7%bd
 
 </Warning>
