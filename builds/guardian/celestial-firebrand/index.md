@@ -210,7 +210,7 @@ Getting the weapon swaps right is probably the hardest part (more info below). G
   - Try not to interrupt your auto-attack chain
   - Make sure to have <Skill name="Blazing Edge"/> ready for when you need to CC or need to pull in any adds.
 - In <Skill name="Tome of Justice"/>:
-  - Your standard DPS rotation is <Skill name="Chapter 2: Igniting Burst"/>, <Skill name="Epilogue: Ashes of the Just"/>, <Skill name="Chapter 4: Scorched Aftermath"/>
+  - Your standard DPS rotation is <Skill name="Epilogue: Ashes of the Just"/>, <Skill name="Chapter 4: Scorched Aftermath"/>, <Skill name="Chapter 2: Igniting Burst"/>.
   - Don't be afraid to replace <Skill name="Chapter 2: Igniting Burst"/>, with <Skill name="Chapter 3: Heated Rebuke"/> for more CC or to pull any adds.
 - On Staff:
   - Use <Skill name="Empower"/>
@@ -271,9 +271,9 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 5.  <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
 6.  <Skill name="Tome of Justice" profession="guardian"/> (F1)
     
-  1. <Skill name="Chapter 2: Igniting Burst"/>
-  2. <Skill name="Epilogue: Ashes of the Just"/>
-  3. <Skill name="Chapter 4: Scorched Aftermath"/>
+  1. <Skill name="Epilogue: Ashes of the Just"/>
+  2. <Skill name="Chapter 4: Scorched Aftermath"/>
+  3. <Skill name="Chapter 2: Igniting Burst"/>
   
 7.  <Skill name="Blazing Edge" profession="guardian"/> (Axe 3) (x2)
 8.  _Auto Attack Chain_
