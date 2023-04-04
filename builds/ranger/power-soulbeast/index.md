@@ -7,6 +7,7 @@ rating: Meta
 role: Power Damage
 profession: Ranger
 specialization: Soulbeast
+cmguide: static
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
