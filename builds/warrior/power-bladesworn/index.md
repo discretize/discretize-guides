@@ -58,7 +58,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 - Axes and Pistols with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 - Warhorn for pre-stacking <Boon name="Might"/>
-- Torch (for a fire field).
 
 </Card>
 </GridItem>
@@ -69,8 +68,7 @@ If you need to swap a skill, you should first swap out <Skill id="68085"/>, howe
 |                                                           |                                                                                                                                                                                   |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="To The Limit" size="big" disableText/>       | Alternative heal for extra Flow generation.                                                      |
-| <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>. It is a bigger DPS increase than <Skill name="signetofmight"/>!                              |
-| <Skill name="Signet of fury" size="big" disableText/>     | Grants <Attribute name="Precision" text="180 Precision"/> passively; grants 360 <Attribute name="Precision"/> and <Attribute name="Ferocity"/> on use as well as additional Flow. USed for extra burst in short phases |
+| <Skill name="For Great Justice!" size="big" disableText/> | If your groups <Boon name="Might"/> is not 25, take <Skill name="Forgreatjustice"/>.                           |
 | <Skill name="onmymark" size="big" disableText/>           | Can be used to pull Krait from the side altars at the Nightmare CM fractal.                                                                                                       |
 | <Skill name="featherfootgrace" size="big" disableText/>   | Grants <Effect name="Superspeed"/> for skips.                                                                                                                                     |
 | <Skill name="bannerofdefense" size="big" disableText/>        | Can be used to provide <Boon name="Aegis"/> to your party.                                                                                                                                    |
@@ -80,8 +78,6 @@ If you need to swap a skill, you should first swap out <Skill id="68085"/>, howe
 
 |                                   |                                                                                 |
 | --------------------------------- | ------------------------------------------------------------------------------- |
-| <Skill name="bullscharge"/>       | 300 damage                                                                      |
-| <Skill id="14502"/>               | 150 damage                                                                      |
 | <Skill name="Dragonslash-Force"/> | 50 damage per charge up to 10 charges (minimum 100 damage - maximum 500 damage) |
 
 </Card>
@@ -138,7 +134,7 @@ Make sure to cast <Skill name="Tactical Reload"/> before taking the mistlock and
 <GridItem xs="12" sm="6">
 <Card title="Golem Rotation">
 
-<Video youtube="yNXwsIXsakg" caption="by Evo"/>
+<Video youtube="" caption=""/>
 </Card>
 </GridItem>
 </Grid>
