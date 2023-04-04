@@ -3,11 +3,15 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: 2023-02-22T00:23:43.159Z
+date: 2023-04-04T00:23:43.159Z
 disableBosses:
   - LightAi
   - DarkAi
 ---
+
+<Warning>
+This guide is currently a work in progress. The information shown here is correct and notes for each boss are planned to be added at a later date!
+</Warning>
 
 <Boss name="mama" video="90pdA_RXrZg" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
 

@@ -2,6 +2,12 @@
 title: Power Quick Herald
 hidden: false
 archive: false
+classification:
+  - 4
+  - 2
+  - 4
+  - 1
+  - 3
 rating: Meta
 role: Power Damage
 profession: Revenant
