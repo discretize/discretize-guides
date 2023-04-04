@@ -17,7 +17,7 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
-cmGuide: pug
+cmGuide: static
 classification:
   - 5
   - 2
