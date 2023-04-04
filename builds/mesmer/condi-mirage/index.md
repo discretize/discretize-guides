@@ -3,12 +3,12 @@ archive: false
 classification:
   - 5
   - 4
-  - 3
-  - 2
-  - 3
+  - 5
+  - 4
+  - 5
 Boons:
   - name: Might
-    uptime: 25 Stacks
+    uptime: 12 Stacks
     variant: party
   - name: Alacrity
     uptime: 55%
@@ -19,7 +19,7 @@ rating: Good
 role: Condi Damage
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: 2023-03-31T13:27:00.711Z
+date: 2023-04-04T13:27:00.711Z
 profession: Mesmer
 conditions:
   - name: Torment
@@ -27,7 +27,8 @@ conditions:
   - name: Bleeding
 cmGuide: ""
 ---
-Insert introduction here
+
+<Specialization name="Mirage" text="Staxe Mirage"/> is an incredidbly strong build capable of generating large amounts of <Boon name="Alacrity"/> and <Boon name="Might"/>, that is especially strong on 100CM and in lowman scenarios. <Specialization name="Mirage" text="Staxe Mirage"/> can be played as a solo <Boon name="Alacrity"/> provider or share generation with another build such as <Specialization name="Specter"/>. When sharing and doing a damage focused rotation, <Specialization name="Mirage" text="Staxe Mirage"/> can maintain roughly 12 stacks of <Boon name="Might"/> and over 50% of the <Boon name="Alacrity"/> generation. Solo, with an adjusted rotation and some <Attribute name="Boon Duration"/>, it is capable of maintaining 100% <Boon name="Alacrity"/> uptime.   
 
 <Divider text="Equipment"/>
 
@@ -44,6 +45,13 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 <Grid>
 <GridItem sm="7">
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,671" traits3Id="59" traits3="Mirage" traits3SelectedIds="2082,2098,2070"/>
+<Card title="Situational Traits">
+
+|                                                         |                                                                                                                                |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <Trait name="Riddle of Sand" size="big" disableText/> | Take this Trait instead of <Trait name="Renewing Oasis"/> if you already have permanent <Boon name="Regeneration" /> |
+
+</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -55,26 +63,6 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 | <Skill name="Signet of Humility" size="big" disableText/> | If you need additional breakbar damage |
 
 </Card>
-
-</GridItem>
-</Grid>
-
-<Divider text="Further information"/>
-
-<Grid>
-<GridItem sm="7">
-<Card title="Situational Traits">
-
-|                                                         |                                                                                                                                |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Riddle of Sand" size="big" disableText/> | Take this Trait instead of <Trait name="Renewing Oasis"/> if you already have permanent <Boon name="Regeneration" /> |
-
-</Card>
-
-</GridItem>
-
-<GridItem sm="5">
-
 <Card title="Defiance Bar Damage">
 
 |                                            |                                                                                   |
@@ -82,10 +70,22 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 | <Skill name="magicbullet" size="big" disableText/> | 250 damage (Pistol 5)                                                           |
 | <Skill name="Diversion" size="big" disableText/> | 100 damage / Clone (F3) |
 | <Skill name="chaosstorm" size="big" disableText/> | 100 damage (Staff 5) |
-| <Skill name="13733" size="big" disableText/> | 100 damage  (<Trait name="methodofmadness" />) |
+| <Skill id="13733" size="big" disableText/> | 100 damage  (<Trait name="methodofmadness" />) |
 | <Skill name="signetofhumility" size="big" disableText/> | 600 damage |
 
 </Card>
+</GridItem>
+</Grid>
+
+<Grid>
+<GridItem sm="7">
+
+
+</GridItem>
+
+<GridItem sm="5">
+
+
 </GridItem>
 </Grid>
 
@@ -94,21 +94,13 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 <Grid>
 <GridItem sm="6">
 
-<Card title="Precasting">
-
-1. something
-2. something else
-
-</Card>
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Example POV">
+<Card title="Example 100CM POV">
 
 <Video youtube="VI3ZbbNrwzk" caption="by Feint"/>
 </Card>
-
-
 
 </GridItem>
 </Grid>
