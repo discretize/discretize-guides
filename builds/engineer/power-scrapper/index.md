@@ -74,7 +74,7 @@ If you do not need to provide <Boon name="Quickness"/>, you can play the followi
 |                                           |                                                                                                                                                                                                               |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Toolbelt                                  | <Skill id="29505" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="31167" size="big" disableText/><Skill id="29665" size="big" disableText/><Skill id="56921" size="big" disableText/>                                         |
-| <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
+| <Skill id="6020" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/> |
 
 </Card>
 
