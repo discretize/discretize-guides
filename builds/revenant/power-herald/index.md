@@ -3,7 +3,7 @@ title: Power Quick Herald
 hidden: false
 archive: false
 classification:
-  - 4
+  - 3
   - 2
   - 4
   - 1
