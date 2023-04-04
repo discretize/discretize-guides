@@ -1,13 +1,13 @@
 ---
 title: dT Daily Comps
-date: 2023-02-02T22:20:53.987Z
+date: 2023-04-04T22:20:53.987Z
 image: ./images/mama.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
 
 ## Playing in organised groups
 
-It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
+It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will slow down the run and affect its smoothness.
 
 1. Boons: 25 stacks of <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>.
 2. Conditions: 25 stacks of <Condition name="vulnerability"/>, along with any unique condis that your class needs to gain damage modifiers.
@@ -24,7 +24,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | <Specialization name="Renegade" disableText/>                                                     | <BuildLink build="Power Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 10 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control and damage mitigation. It applies a very high amount of <Condition name="vulnerability"/> and it remains unmatched for the success of a power composition in short phases.  <br/> |
 | <Specialization name="Scrapper" disableText/>                                                     | <BuildLink build="Quickness Scrapper"  specialization="Scrapper"/> provides 100% <Boon name="Quickness"/> uptime, 10 stacks of <Boon name="Might"/> with your <Skill name="Blast Gyro"/> , utilities in terms of crowd control and reflects. It also provides <Skill name="Superspeed"/>, and brings some more <Condition name="vulnerability"/> which helps the renegade.<br/>              |
 | <Specialization name="Soulbeast" disableText/>                                                    | Two or Three <BuildLink build="Soulbeast"  specialization="Soulbeast"/> provide massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently unmatched by any other class on most bosses.                                                                                                    |
-| <Specialization name="Bladesworn" disableText/> <Specialization name="Dragonhunter" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's extra <Boon name="Quickness"/> and CC from <BuildLink build="Bladesworn"  specialization="Bladesworn"/> or faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Dragonhunter"  specialization="Dragonhunter"/>           |
+| <Specialization name="Soulbeast" disableText/><Specialization name="Weaver" disableText/> <Specialization name="Dragonhunter" disableText/><Specialization name="Bladesworn" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's extra <Boon name="Quickness"/> and CC from <BuildLink build="Bladesworn"  specialization="Bladesworn"/> or faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Dragonhunter"  specialization="Dragonhunter"/>, or the high burst and late fight damage from <Specialization name="Weaver"/>.          |
 
 </Card>
 
@@ -36,7 +36,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | <Specialization name="Mirage" disableText/> <Specialization name="Renegade" disableText/> | <BuildLink build="Staxe Mirage"  specialization="Mirage"/> provides the rest of the <Boon name="Might"/> and <Boon name="Alacrity"/> needed, while also doing extremely good dps.<BuildLink build="AlacShare Renegade"  specialization="Renegade"/> is also a good substitute that does lower damage, but brings more CC if needed.<br/>             |
 | <br/> <Specialization name="Harbinger" disableText/>                                      | <BuildLink build="Condition Harbinger"  specialization="Harbinger"/> is a very solid dps pick that brings a package of good CC, <Boon name="Might"/> and your main source of <Condition name="vulnerability"/>.                                                                                                                                      |
 | <Specialization name="Firebrand" disableText/>                                            | As your only source of <Boon name="Quickness"/>, <BuildLink build="Quickness Firebrand"  specialization="Firebrand"/> is a great pick for CC and good damage, as you'll be able to chain CC skills like <Skill name="Sanctuary"/> to solo the  sorrow on Dark AI, among other useful things                                                          |
-| <Specialization name="Soulbeast" disableText/>                                            | For the last dps spot, <BuildLink build="Hybrid Soulbeast"  specialization="Soulbeast"/> brings a lot of damage                                                                                                                                                                                                                                      |
+| <Specialization name="Soulbeast" disableText/>                                            | For the last dps spot, <BuildLink build="Hybrid Soulbeast"  specialization="Soulbeast"/> brings a lot of damage through stance sharing, while helping to contribute some <Condition name="vulnerability"/>                                                            |
 
 </Card>
 

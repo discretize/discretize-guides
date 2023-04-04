@@ -16,7 +16,6 @@ boons:
     variant: party
 conditions:
   - name: Vulnerability
-    uptime: 20 Stacks
 cmGuide: static
 classification:
   - 4
