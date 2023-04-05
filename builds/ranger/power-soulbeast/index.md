@@ -65,6 +65,13 @@ If you can't reliably flank, you can swap Skirmishing for Marksmanship. Remember
 | <Trait name="potentally" size="big" disableText/>          | For longer encounters, more <Boon name="Might"/> generation.                                                                                            |
 
 </Card>
+<Card title="Swap Weapons">
+
+- Warhorn for <Boon name="Might"/> pre-stacking.
+- Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
+- Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
+
+</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -91,29 +98,6 @@ If you can't reliably flank, you can swap Skirmishing for Marksmanship. Remember
 | <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/> |
 
 </Card>
-</GridItem>
-</Grid>
-
-<Divider text="Further information"/>
-<Grid>
-<GridItem sm="7">
-<Card title="Skirmishing and Fractals">
-
-Running Skirmishing in fractals is quite a niche choice, you need to satisfy **the following requirements:**
-
-- You can be sure that you can flank the boss permanently.
-- You want to replace a <Specialization name="Berserker"/> by providing your team with <Trait name="Spotter"/> so they can crit cap.
-- You are running a double Soulbeast comp and need <Trait name="Quickdraw"/> to reduce your <Skill name="Whirling Defense"/> cooldown.
-
-If you meet these requirements then you can swap Marksmanship for Skirmishing with the following trait setup:<Traits traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1016,1888" unembossed/>
-
-<Warning>
-<Trait name="trappersexpertise"/> is worth over <Trait id="1069"/> if it allows you to get another <Skill name="Frost trap"/> in a phase.
-</Warning>
-</Card>
-</GridItem>
-
-<GridItem sm="5">
 <Card title="Defiance Bar Damage">
 
 |                                            |                                                                             |
@@ -125,13 +109,6 @@ If you meet these requirements then you can swap Marksmanship for Skirmishing wi
 | <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block)                                     |
 | <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
 | <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
-
-</Card>
-<Card title="Swap Weapons">
-
-- Warhorn for <Boon name="Might"/> pre-stacking.
-- Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-- Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 
 </Card>
 </GridItem>
@@ -201,7 +178,29 @@ For that reason you can find a video below with openers for each of the CM bosse
 
 Note: The golem benchmark uses a different build setup than the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 </Card>
+</GridItem>
 
+<GridItem sm="6">
+<Card title="Precasting">
+
+If you have a _Mistlock Singularity_ present you can use this rotation:
+
+1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2.  <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
+3.  `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
+4.  <Skill id="12621"/> to blast might.
+5.  <Skill id="31914"/> to extend your boons.
+6.  Pick up <Skill id="5516"/> if there is one.
+7.  <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
+
+If you don't have _Mistlock Singularity_ present you can use this simplified rotation:
+
+1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
+2.  <Skill id="12621"/> to blast might.
+3.  <Skill id="31914"/> to extend your boons.
+4.  Pick up <Skill id="5516"/> if there is one.
+
+</Card>
 <Card title="Golem Rotation">
 
 1.  <Skill name="Barrage"/> (Lonbow 5)
@@ -230,51 +229,6 @@ Note: The golem benchmark uses a different build setup than the ones above due t
 24. <Skill name="Barrage"/> (Lonbow 5)
 25. `Repeat from step 4`
 
-</Card>
-</GridItem>
-
-<GridItem sm="6">
-<Card title="Precasting">
-
-If you have a _Mistlock Singularity_ present you can use this rotation:
-
-1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-2.  <Skill name="Moa Stance"/> with <Trait name="Leader of the Pack"/>.
-3.  `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
-4.  <Skill id="12621"/> to blast might.
-5.  <Skill id="31914"/> to extend your boons.
-6.  Pick up <Skill id="5516"/> if there is one.
-7.  <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
-
-If you don't have _Mistlock Singularity_ present you can use this simplified rotation:
-
-1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
-2.  <Skill id="12621"/> to blast might.
-3.  <Skill id="31914"/> to extend your boons.
-4.  Pick up <Skill id="5516"/> if there is one.
-
-</Card>
-
-<Card title="Skill priority">
-
-| Skill                                            | iDPS |
-| ------------------------------------------------ | ---- |
-| <Skill name="Frost trap"/>                       | 7001 |
-| <Skill name="hunterscall"/>                      | 5282 |
-| <Skill name="Barrage"/>                          | 3785 |
-| <Skill name="worldlyimpact"/>                    | 3373 |
-| <Skill name="pathofscars"/>                      | 3201 |
-| <Skill name="whirling defense"/>                 | 3176 |
-| <Skill name="frenzied attack"/>                  | 3134 |
-| <Skill id="12525"/>                              | 2828 |
-| <Skill name="winters bite" profession="ranger"/> | 2679 |
-| <Skill name="pointblankshot"/>                   | 2497 |
-| <Skill name="kick" profession="ranger"/>         | 2348 |
-| <Skill name="rapid fire"/>                       | 2220 |
-| <Skill id="45743"/>                              | 2050 |
-| <Skill name="hilt bash"/> + <Skill id="12525"/>  | 2029 |
-
-Many thanks to Elu \[SC] for this table: [iDPS Chart](https://i.imgur.com/qktA4ff.png).
 </Card>
 </GridItem>
 </Grid>
