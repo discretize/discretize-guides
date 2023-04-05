@@ -35,9 +35,6 @@ PuGs rarely play optimally as a group, causing people to generally deal lower da
 For people without the time to do this, we recommend quite an open comp when using the in-game lfg. Whilst every class in the game has multiple strong builds for fractals, it is still important to build your party around certain boons to help have a somewhat efficient clear.
 
 By building your party around the following concepts you will find an in-game lfg run in most cases is much faster and smoother than just taking any old build. You first want to look at covering the important boons: <Boon name="Might" text="25 Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. Also you want to aim as a group to be able to maintain <Condition name="vulnerability" text="25 Vulnerability"/> on your targets. Finally builds that can bring high CC and damage mitigation such as reflects, <Boon name="Aegis"/> and <Boon name="Stability"/> are much more beneficial to run than pure damage dealers.
-<Warning>
-Although both condition and power builds perform well in PuGs, it is recommended to choose between a condition or power comp before starting. This is because you will want to CC bosses at different times depending on the comp and will affect the damage output of some classes. It should also be noted that condition comps are significantly easier to play and currently in most cases faster overall than power based comps, with a **significantly higher success rate!**
-</Warning>
 
 <Card title="PuG Comp">
 
@@ -67,11 +64,11 @@ Many PuGs like to play <Specialization name="Firebrand"/> or <Specialization nam
 </GridItem>
 
 <GridItem sm="11" md="11">
-Low Standards \[LS] is a community discord server, that is operating as a second, more restricted LFG for high-end daily runs.
+Low Standards \[LS] is a community discord server, that is operating as a second, more restricted LFG for no heal daily runs.
 
 Thanks to different pingable roles and class-emojis, members are able to organize their run without the commitment of a static or any need of LFG waiting times.
 
-In order to guarantee a high level of play, everyone needs to be capable of executing advanced strategies inside of a no-heal environment with at least one of the meta-classes.
+In order to guarantee a high level of play, everyone needs to be capable of executing strategies inside of a no-heal environment with at least one of the meta-classes.
 For evaluation, we are going to ask new applicants for arcdps logs as a requirement.
 
 All information is available on their [Discord](https://dsc.gg/low-standards).
