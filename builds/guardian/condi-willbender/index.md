@@ -23,7 +23,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2022-08-03T11:46:38.248Z
+date: 2023-04-04T11:46:38.248Z
 ---
 
 The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC, and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
@@ -54,7 +54,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 
 <Beginner>
 <CharacterWithAr> 
-<Character title="Condi Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2909,"Precision":1842,"Toughness":1225,"Vitality":1460,"Ferocity":150,"Condition Damage":2868,"Expertise":451,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.30066666666666664,"Boon Duration":0.15,"Critical Chance":0.800952380952381,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.129999999999999,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":49432,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":44944,"weapon1OffAffix":"Viper","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24605,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":62622,"utility1Id":62565,"utility2Id":9187,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
+<Character title="Condi Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2909,"Precision":1842,"Toughness":1225,"Vitality":1460,"Ferocity":150,"Condition Damage":2868,"Expertise":451,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.30066666666666664,"Boon Duration":0.15,"Critical Chance":0.800952380952381,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.129999999999999,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":49431,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":44944,"weapon1OffAffix":"Viper","weapon1OffInfusionId":49431,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24605,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":49431,"weapon2MainInfusion2Id":49431,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49431,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49431,"ring1Infusion2Id":49431,"ring1Infusion3Id":49431,"ring2Affix":"Viper","ring2Infusion1Id":49431,"ring2Infusion2Id":49431,"ring2Infusion3Id":49431,"accessory1Affix":"Sinister","accessory1InfusionId":49431,"accessory2Affix":"Sinister","accessory2InfusionId":49431},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":62622,"utility1Id":62565,"utility2Id":9187,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
 
 The 3rd utility skill slot is flexible. Look at the Situational Skills below for common options.
 
@@ -220,18 +220,6 @@ Therefore we will only use this skill when there is at least a 2.5-second gap be
 
 </Card>
 
-<Card title="Improving Further">
-
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
-
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
-
-There is only one additional step (besides learning the rest of the utility you can situationally bring):
-
-- Incorporating the Sword weapon set into the rotation. There, we will prioritize <Skill name="Symbol of Blades"/> over <Skill name="Zealots Defense"/>.
-- For the most part, the idea is to use the <Skill name="Symbol of Blades"/>/<Skill name="Zealots Defense"/> and <Skill name="Symbol of Punishment"/> twice on the respective weapon set.
-
-</Card>
 </Beginner>
 </GridItem>
 
@@ -247,6 +235,19 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 </Card>
 
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+There is only one additional step (besides learning the rest of the utility you can situationally bring):
+
+- Incorporating the Sword weapon set into the rotation. There, we will prioritize <Skill name="Symbol of Blades"/> over <Skill name="Zealots Defense"/>.
+- For the most part, the idea is to use the <Skill name="Symbol of Blades"/>/<Skill name="Zealots Defense"/> and <Skill name="Symbol of Punishment"/> twice on the respective weapon set.
+
+</Card>  
+  
 </Beginner>
 
 <Card title="Golem rotation">
@@ -254,15 +255,5 @@ This video shows the step-by-step approach to the rotation listed on the left.
 Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 <Video youtube="MkEqyxM44VI" caption="Sword rotation by Support Hero"/>
 </Card>
-
-<Advanced>
-<Card title="Greatsword Golem Rotation">
-
-Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
-<Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
-
-</Card>
-</Advanced>
-
 </GridItem>
 </Grid>
