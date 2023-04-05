@@ -17,7 +17,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2023-01-03T17:40:50.083Z
+date: 2023-04-04T17:40:50.083Z
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
