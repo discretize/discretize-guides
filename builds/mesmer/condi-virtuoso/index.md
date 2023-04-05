@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: 2022-07-22T11:18:05.762Z
+date: 2023-04-04T11:18:05.762Z
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
