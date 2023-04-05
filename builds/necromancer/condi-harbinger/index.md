@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-07-31T11:55:48.258Z
+date: 2023-04-04T11:55:48.258Z
 ---
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
