@@ -30,7 +30,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2023-02-03T23:33:25.169Z
+date: 2023-04-06T12:51:46.902Z
 ---
 
 <Warning>
@@ -95,6 +95,13 @@ If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus
 </GridItem>
 
 <GridItem sm="5">
+
+<Card title="Legends">
+|||
+|-|-|
+|<Skill name="legendarydemonstance" size="big" disableText/> <br/> <Skill name="legendaryrenegadestance" size="big" disableText/> | Swap out <Skill name="legendaryrenegadestance" />for a decent dps loss, if other utility like <Boon name="Stability" />or Projectile Block is needed |
+
+</Card>
 
 <Card title="Situational Traits">
 
