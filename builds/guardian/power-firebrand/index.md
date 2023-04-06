@@ -27,7 +27,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-08-05T09:45:27.587Z
+date: '2022-08-05T09:45:27.587Z'
 ---
 
 The **<Specialization text="Power Quickness Firebrand" name="Firebrand"/>** (also **_Quickness Firebrand_** or **_Quickbrand_**) provides permanent <Boon name="Quickness"/> to the party while dealing good DPS.

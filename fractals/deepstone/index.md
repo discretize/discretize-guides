@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-07-01T17:28:27.800Z
+date: '2022-07-01T17:28:27.800Z'
 title: Deepstone
 image: ./images/header.jpg
 group: T4
@@ -38,7 +38,6 @@ record:
 ---
 
 ## Always start Left path with the Deepstone Sentinel (Air Elemental)
-
 
 <Grid>
 <GridItem sm="6">

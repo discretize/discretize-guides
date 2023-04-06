@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2021-11-14T22:35:37.007Z
+date: '2021-11-14T22:35:37.007Z'
 title: Molten Furnace
 image: ./images/header.jpg
 group: T4

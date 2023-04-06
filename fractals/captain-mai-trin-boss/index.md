@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2022-01-28T02:27:34.573Z
+date: '2022-01-28T02:27:34.573Z'
 title: Captain Mai Trin Boss
 image: ./images/header.jpg
 group: T4

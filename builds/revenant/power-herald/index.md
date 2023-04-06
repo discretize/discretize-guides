@@ -7,16 +7,16 @@ role: Power Damage
 profession: Revenant
 specialization: Herald
 boons:
-  - name: "Quickness "
+  - name: 'Quickness '
     uptime: 100%
-    variant: "party "
+    variant: 'party '
   - name: Might
     uptime: 13 Stacks
     variant: party
   - name: Protection
     uptime: 100%
     variant: party
-  - name: "Fury "
+  - name: 'Fury '
     uptime: 100%
     variant: party
   - name: Swiftness
@@ -25,16 +25,17 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: party
-code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
+code: '[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]'
 classification:
   - 3
   - 2
   - 4
   - 1
   - 3
-date: 2023-04-06T12:49:36.709Z
+date: '2023-04-06T12:49:36.709Z'
 ---
-The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. 
+
+The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>.
 
 It can also provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss.
 

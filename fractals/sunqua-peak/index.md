@@ -1,6 +1,6 @@
 ---
 cycle: Day (non CM) / Night (CM)
-date: 2022-07-01T17:43:27.300Z
+date: '2022-07-01T17:43:27.300Z'
 title: Sunqua Peak
 image: ./images/hero_sunqua2.jpg
 group: Challenge Mode

@@ -4,8 +4,8 @@ type: static
 profession: Revenant
 specialization: Renegade
 disableBosses:
-  - "- LightAi   - DarkAi"
-date: 2023-03-21T17:12:37.400Z
+  - '- LightAi   - DarkAi'
+date: '2023-03-21T17:12:37.400Z'
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -14,12 +14,18 @@ date: 2023-03-21T17:12:37.400Z
 - Use <Trait name="Lasting Legacy"/> to maintain decent party <Boon name="Might"/>.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
 - Swap to <Item name="Celerity"/> on Staff if you notice a drop in <Boon name="Quickness"/>.
------
+
+---
+
 - If <Instability name="Social Awkwardness"/> is present you can share <Boon name="Stability"/> at key moment in the fight via <Skill name="Inspiring Reinforcement" />.
   - In this case take <Trait name="SpiritBoon"/> to share a stack whenever you swap to <Skill name="LegendaryDwarfStance" />.
------
+
+---
+
 - If <Instability name="No Pain, No Gain"/> is present take <Item name="absorption"/> on both weapon sets.
------
+
+---
+
 - If <Instability name="Afflicted"/>, <Instability name="Vengeance"/> or <Instability name="FluxBomb"/> is present you can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
 
 </Boss>
@@ -61,14 +67,14 @@ On sword, cast <Skill name="chillingisolation" /> and <Skill name="deathstrike" 
 <IdealRotation>
 
 1. On Boss (Precasted)
-    1. <Skill name="darkrazorsdaring" />
-    2. <Skill name="icerazorsire" />
-    3. <Skill name="legendaryassassinstance" />
+   1. <Skill name="darkrazorsdaring" />
+   2. <Skill name="icerazorsire" />
+   3. <Skill name="legendaryassassinstance" />
 2. <Skill name="citadelbombardment" />
 3. <Skill name="surgeofthemists" />
 4. <Skill name="chillingisolation" />
-3. <Skill name="legendaryrenegadestance" />
-5. <Skill name="deathstrike" />
+5. <Skill name="legendaryrenegadestance" />
+6. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
@@ -104,11 +110,10 @@ Share <Boon name="Might"/> then prepare for knight 2.
 <IdealRotation>
 
 1. <Skill name="icerazorsire" />
-3. <Skill name="chillingisolation" />
-4. <Skill name="citadelbombardment" />
-5. <Skill name="heroiccommand" />
-6. <Skill name="chillingisolation" /> (Knight 2)
-
+2. <Skill name="chillingisolation" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="heroiccommand" />
+5. <Skill name="chillingisolation" /> (Knight 2)
 
 </IdealRotation>
 </Phase>
@@ -129,10 +134,10 @@ Share <Boon name="Might"/> and <Boon name="Alacrity"/> before p3 starts.
 
 1. <Skill name="darkrazorsdaring" />
 2. <Skill name="legendaryassassinstance" />
-1. <Skill name="shacklingwave" />
-2. <Skill name="chillingisolation" />
-3. <Skill name="heroiccommand"/>
-2. <Skill name="ordersfromabove" />
+3. <Skill name="shacklingwave" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="heroiccommand"/>
+6. <Skill name="ordersfromabove" />
 
 </IdealRotation>
 </Phase>
@@ -153,7 +158,6 @@ Burst with <Skill name="citadelbombardment" />, <Skill name="deathstrike" /> and
 5. <Skill name="chillingisolation" />
 6. <Skill name="LegendaryRenegadeStance"/>
 
-
 </IdealRotation>
 </Phase>
 
@@ -170,8 +174,8 @@ Deal moderate damage with <Skill name="chillingisolation" />, share <Boon name="
 
 1. <Skill name="darkrazorsdaring" />
 2. <Skill name="shacklingwave" />
-2. <Skill name="chillingisolation" />
-3. <Skill name="heroiccommand" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -195,10 +199,10 @@ Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until th
 1. <Skill name="icerazorsire" />
 2. <Skill name="heroiccommand" />
 3. <Skill name="ordersfromabove" />
-1. <Skill name="surgeofthemists" />
-2. <Skill name="citadelbombardment" />
-3. <Skill name="legendaryassassinstance" />
-4. <Skill name="Menders Rebuke"/>
+4. <Skill name="surgeofthemists" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="legendaryassassinstance" />
+7. <Skill name="Menders Rebuke"/>
 
 </IdealRotation>
 </Phase>
@@ -211,10 +215,14 @@ Keep dealing damage with auto attack and <Skill name="Menders Rebuke"/> until th
   - <Trait name="Vindication"/> to maximize damage on good instability days.
   - <Trait name="Righteous Rebel"/> on bad instability days.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
------
+
+---
+
 - If <Instability name="Social Awkwardness"/> is present you can share <Boon name="Stability"/> at key moment in the fight via <Skill name="Inspiring Reinforcement" />.
   - In this case take <Trait name="SpiritBoon"/> to share a stack whenever you swap to <Skill name="LegendaryDwarfStance" />.
------
+
+---
+
 - If <Instability name="Afflicted"/>, <Instability name="Vengeance"/> or <Instability name="FluxBomb"/> is present you can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
 
 </Boss>
@@ -253,10 +261,10 @@ Fit in another <Skill name="chillingisolation" /> if needed then prepare to kill
 <IdealRotation>
 
 1. On Boss (Precasted)
-    1. <Skill name="darkrazorsdaring" />
-    2. <Skill name="icerazorsire" />
-    3. <Skill name="legendaryrenegadestance" />
-    4. <Skill name="Soulcleaves Summit" />
+   1. <Skill name="darkrazorsdaring" />
+   2. <Skill name="icerazorsire" />
+   3. <Skill name="legendaryrenegadestance" />
+   4. <Skill name="Soulcleaves Summit" />
 2. <Skill name="citadelbombardment" />
 3. <Skill name="chillingisolation" />
 4. <Skill name="LegendaryAssassinStance" />
@@ -279,7 +287,7 @@ Avoid the damaging orange AoE while coming back to mid, prepare for p2.
 
 1. <Skill name="deathstrike" />
 2. <Skill name="shacklingwave" />
-2. <Skill name="chillingisolation" /> (into p2)
+3. <Skill name="chillingisolation" /> (into p2)
 
 </IdealRotation>
 </Phase>
@@ -302,10 +310,9 @@ Prepare for split.<br/>
 4. <Skill name="heroiccommand" /> (if needed)
 5. <Skill name="LegendaryRenegadeStance" />
 6. <Skill name="icerazorsire" />
-6. <Skill name="citadelbombardment" />
-7. <Skill name="chillingisolation" />
-8. <Skill name="heroiccommand" />
-
+7. <Skill name="citadelbombardment" />
+8. <Skill name="chillingisolation" />
+9. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -347,8 +354,8 @@ Fit in another <Skill name="chillingisolation" /> if needed.
 2. <Skill name="ordersfromabove" />
 3. <Skill name="icerazorsire" />
 4. <Skill name="legendaryAssassinstance" />
-6. <Skill name="citadelbombardment" />
-7. <Skill name="chillingisolation" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="chillingisolation" />
 
 </IdealRotation>
 </Phase>
@@ -359,8 +366,11 @@ Fit in another <Skill name="chillingisolation" /> if needed.
 - Use <Trait name="Righteous Rebel"/>.
 - Increase boon duration if you notice significant downtime in <Boon name="Alacrity"/>.
 - Make sure a <Specialization name="Soulbeast"/> takes <Skill name="moastance" /> or take `35%` Boon Duration.
------
+
+---
+
 - If <Instability name="Afflicted"/>, <Instability name="Vengeance"/> or <Instability name="FluxBomb"/> is present you can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
+
 </Boss>
 
 <Phase>
@@ -401,28 +411,29 @@ After the tail swipe burst with <Skill name="citadelbombardment" /> and any avai
 
 Swap to staff when the boss is phased and prepare to capture North circle.
 <InformationBlock title="Tips">
+
 - You can tank the boss by staying in front of it after the dome explosion while your party goes to stack behind, watch out for the auto attack (a right handed dagger hit).<br/>By moving inside the hitbox to rejoin your party behind the boss, you will trigger the tail swipe attack which will delay the orange blast AoE by one auto.
+
 </InformationBlock><br/><br/>
 </CMInformation>
 <IdealRotation>
 
 1. On Boss (Precasted)
-    1. <Skill name="darkrazorsdaring" />
-    2. <Skill name="icerazorsire" />
+   1. <Skill name="darkrazorsdaring" />
+   2. <Skill name="icerazorsire" />
 2. <Skill name="surgeofthemists" />
-4. <Skill name="legendaryassassinstance" />
-3. <Skill name="chillingisolation" />
+3. <Skill name="legendaryassassinstance" />
+4. <Skill name="chillingisolation" />
 5. <Skill name="citadelbombardment" />
 6. <Skill name="shacklingwave" />
 7. <Skill name="deathstrike" />
 8. <Skill name="chillingisolation" />
 9. <Skill name="legendaryrenegadestance" />
-14. <Skill name="ordersfromabove" />
-15. <Skill name="heroiccommand" />
-10. <Skill name="icerazorsire" />
-11. <Skill name="chillingisolation" />
-12. <Skill name="citadelbombardment" />
-
+10. <Skill name="ordersfromabove" />
+11. <Skill name="heroiccommand" />
+12. <Skill name="icerazorsire" />
+13. <Skill name="chillingisolation" />
+14. <Skill name="citadelbombardment" />
 
 </IdealRotation>
 </Phase>
@@ -445,29 +456,31 @@ Burst with <Skill name="citadelbombardment" /> and any available sword skills de
 Swap to staff when the boss is phased and prepare go to North circle for the second capture mini-game.
 </InformationBlock>
 <InformationBlock title="Tips">
+
 - If you do not play with a <Specialization name="Dragonhunter"/> (<Boon name="Aegis"/>) try to fit <Skill name="unrelentingassault"/> after <Skill name="citadelbombardment" /> to avoid the orange blast AoE.
+
 </InformationBlock><br/><br/>
 </CMInformation>
 <IdealRotation>
 
 1. Post Capture
-    1. <Skill name="darkrazorsdaring" />
-    2. <Skill name="icerazorsire" />
-    3. <Skill name="ordersfromabove" /> with <Skill name="moastance" />
-    4. <Skill name="soulcleavessummit" />
-    5. <Skill name="heroiccommand" />
-6. <Skill name="surgeofthemists" />
-7. <Skill name="legendaryassassinstance" />
-8. <Skill name="citadelbombardment" />
-8. <Skill name="chillingisolation" />
-9. <Skill name="shacklingwave" />
-10. <Skill name="deathstrike" />
-11. <Skill name="legendaryrenegadestance" />
-12. <Skill name="icerazorsire" />
-13. <Skill name="chillingisolation" />
-14. <Skill name="ordersfromabove" />
-15. <Skill name="heroiccommand" />
-16. <Skill name="citadelbombardment" />
+   1. <Skill name="darkrazorsdaring" />
+   2. <Skill name="icerazorsire" />
+   3. <Skill name="ordersfromabove" /> with <Skill name="moastance" />
+   4. <Skill name="soulcleavessummit" />
+   5. <Skill name="heroiccommand" />
+2. <Skill name="surgeofthemists" />
+3. <Skill name="legendaryassassinstance" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
+8. <Skill name="legendaryrenegadestance" />
+9. <Skill name="icerazorsire" />
+10. <Skill name="chillingisolation" />
+11. <Skill name="ordersfromabove" />
+12. <Skill name="heroiccommand" />
+13. <Skill name="citadelbombardment" />
 
 </IdealRotation>
 </Phase>
@@ -477,10 +490,14 @@ Swap to staff when the boss is phased and prepare go to North circle for the sec
 - Suggested Boon Duration: `35%`.
 - Use <Trait name="righteousrebel" />.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
------
+
+---
+
 - Without <Instability name="Outflanked"/> you can share <Boon name="Stability"/> at key moment in the fight via <Skill name="Inspiring Reinforcement" />.
   - In this case take <Trait name="SpiritBoon"/> to share a stack whenever you swap to <Skill name="LegendaryDwarfStance" />.
------
+
+---
+
 - If <Instability name="Afflicted"/>, <Instability name="Vengeance"/> or <Instability name="FluxBomb"/> is present you can precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
 
 </Boss>
@@ -499,14 +516,12 @@ Precast your <Skill name="legendaryrenegadestance" /> summons then double swap b
 </CMInformation>
 <IdealRotation>
 
-
 1.  <Skill name="renewingwave" />
 2.  <Skill name="ordersfromabove" />
 3.  Take _Mistlock Singularity_
 4.  <Skill name="renewingwave" />
 5.  <Skill name="ordersfromabove" />
 6.  <Skill name="enchanteddaggers" />
-
 
 </IdealRotation>
 </Phase>
@@ -526,16 +541,16 @@ by watching the <Specialization name="Soulbeast" /> or <Specialization name="Dra
 </CMInformation>
 <IdealRotation>
 
-1. On Boss (Precasted) 
-    1. <Skill name="darkrazorsdaring" />
-    2. <Skill name="icerazorsire" />
-    4. <Skill name="legendaryrenegadestance" />
+1. On Boss (Precasted)
+   1. <Skill name="darkrazorsdaring" />
+   2. <Skill name="icerazorsire" />
+   3. <Skill name="legendaryrenegadestance" />
 2. <Skill name="citadelbombardment" />
 3. <Skill name="surgeofthemists" />
 4. <Skill name="legendarydwarfstance" />
-4. <Skill name="chillingisolation" />
-5. <Skill name="shacklingwave" />
-6. <Skill name="deathstrike" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
@@ -568,20 +583,24 @@ Without <Instability name="outflanked"/> jump over the anomaly while casting <Sk
 <IdealRotation>
 
 **Island 1**
+
 1. <Skill name="chillingisolation" />
 2. <Skill name="ordersfromabove" />
 3. <Skill name="inspiringreinforcement" />
 
 **Island 2**
+
 1. <Skill name="chillingisolation" />
 2. <Skill name="heroiccommand" />
 
 **Island 3**
+
 1. <Skill name="inspiringreinforcement" />
 1. <Skill name="shacklingwave" />
-2. <Skill name="legendaryrenegadestance" />
+1. <Skill name="legendaryrenegadestance" />
 
 **Island 4**
+
 1. <Skill name="heroiccommand" />
 2. <Skill name="ordersfromabove" />
 3. <Skill name="citadelbombardment" />
@@ -598,18 +617,20 @@ Cast <Skill name="icerazorsire" /> to apply <Condition name="Vulnerability" /> a
 In <Effect name="exposed"/> under <Skill name="vengefulhammers" />, burst with <Skill name="chillingisolation" />, <Skill name="shacklingwave" /> and <Skill name="deathstrike" />.
 Place your portal and finish the phase by sharing <Boon name="Might" /> and using <Skill name="chillingisolation" /> if needed.
 <InformationBlock title="Tips">
+
 - Start your burst with <Skill name="shacklingwave" /> if your party lacks <Condition name="Vulnerability" /> application.
+
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="icerazorsire" />
-3. <Skill name="legendarydwarfstance" />
-4. <Skill name="chillingisolation" />
-5. <Skill name="shacklingwave" />
-6. <Skill name="deathstrike" />
-7. <Skill name="chillingisolation" />
-8. <Skill name="heroiccommand" />
+2. <Skill name="legendarydwarfstance" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="shacklingwave" />
+5. <Skill name="deathstrike" />
+6. <Skill name="chillingisolation" />
+7. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -636,19 +657,23 @@ Open your portal in the hitbox and share <Boon name="Might" /> if needed. Deal m
 <IdealRotation>
 
 **Island 1**
+
 1. <Skill name="chillingisolation" />
 2. <Skill name="ordersfromabove" />
 
 **Island 2**
+
 1. <Skill name="heroiccommand" />
 2. <Skill name="inspiringreinforcement" />
 3. <Skill name="chillingisolation" />
 4. <Skill name="legendaryrenegadestance" />
 
 **Island 3**
+
 1. <Skill name="shacklingwave" />
 
 **Island 4**
+
 1. <Skill name="heroiccommand" />
 2. <Skill name="chillingisolation" />
 3. <Skill name="deathstrike" />
@@ -670,10 +695,10 @@ Finally use any available sword skills to finish the boss.
 
 1. <Skill name="heroiccommand" />
 2. <Skill name="ordersfromabove" />
-1. <Skill name="icerazorsire" />
-3. <Skill name="legendarydwarfstance" />
-4. <Skill name="citadelbombardment" />
-5. <Skill name="shacklingwave" />
+3. <Skill name="icerazorsire" />
+4. <Skill name="legendarydwarfstance" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="shacklingwave" />
 7. <Skill name="chillingisolation" />
 
 </IdealRotation>
@@ -684,7 +709,9 @@ Finally use any available sword skills to finish the boss.
 - Suggested Boon Duration: `35%`.
 - Use <Trait name="righteousrebel" />.
 - Increase boon duration if you notice downtime in <Boon name="Alacrity"/>.
------
+
+---
+
 - Swap to <Item name="celerity" /> on Staff if you notice a drop in <Boon name="Quickness" />.
 - Precast <Boon name="Resistance"/> via <Skill name="LegendaryDemonStance" /> skill <Skill name="Pain Absorption" />.
 
@@ -707,14 +734,15 @@ Precast your <Skill name="legendaryrenegadestance" /> summons then swap to <Skil
 </CMInformation>
 <IdealRotation>
 
-
 1.  <Skill name="renewingwave" />
 2.  <Skill name="ordersfromabove" />
 3.  Take _Mistlock Singularity_
 4.  <Skill name="renewingwave" />
 5.  <Skill name="ordersfromabove" />
 6.  <Skill name="enchanteddaggers" />
-----
+
+---
+
 1. <Skill name="Pain Absorption" />
 2. <Skill name="legendarycentaurstance" />
 3. <Skill name="Pain Absorption" /> (repeat)
@@ -736,17 +764,17 @@ Avoid the knock back with <Skill name="unrelentingassault" />, once in the corne
 <IdealRotation>
 
 1. On Boss (Precast)
-    1. <Skill name="darkrazorsdaring" />
-    2. <Skill name="icerazorsire" />
-    3. <Skill name="legendaryassassinstance" />
+   1. <Skill name="darkrazorsdaring" />
+   2. <Skill name="icerazorsire" />
+   3. <Skill name="legendaryassassinstance" />
 2. <Skill name="citadelbombardment" />
 3. <Skill name="chillingisolation" />
 4. <Skill name="legendaryrenegadestance" />
 5. <Skill name="shacklingwave" />
 6. <Skill name="deathstrike" />
 7. <Skill name="chillingisolation" />
-7. <Skill name="unrelentingassault" />
-8. <Skill name="mendersrebuke" />
+8. <Skill name="unrelentingassault" />
+9. <Skill name="mendersrebuke" />
 
 </IdealRotation>
 </Phase>
@@ -767,7 +795,7 @@ Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepa
 2. <Skill name="surgeofthemists" />
 3. <Skill name="breakrazorsbastion" />
 4. <Skill name="ordersfromabove" />
-2. <Skill name="heroiccommand" />
+5. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -811,8 +839,8 @@ Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepa
 2. <Skill name="legendaryrenegadestance" />
 3. <Skill name="darkrazorsdaring" />
 4. <Skill name="ordersfromabove" />
-4. <Skill name="heroiccommand" />
-5. <Skill name="breakrazorsbastion" />
+5. <Skill name="heroiccommand" />
+6. <Skill name="breakrazorsbastion" />
 
 </IdealRotation>
 </Phase>
@@ -897,12 +925,12 @@ Once phased, SAK to the anomaly and finish it then swap to <Skill name="legendar
 1. Precasted
    1. <Skill name="darkrazorsdaring" />
 2. <Skill name="icerazorsire" />
-2. <Skill name="legendaryassassinstance" />
-3. <Skill name="chillingisolation" />
-3. <Skill name="citadelbombardment" />
-4. <Skill name="shacklingwave" />
-5. <Skill name="deathstrike" />
-6. <Skill name="legendaryrenegadestance" />
+3. <Skill name="legendaryassassinstance" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
+8. <Skill name="legendaryrenegadestance" />
 
 </IdealRotation>
 </Phase>
@@ -922,12 +950,12 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 2. Precasted
    1. <Skill name="icerazorsire" />
    2. <Skill name="ordersfromabove" />
-   2. <Skill name="surgeofthemists" />
-5. <Skill name="heroiccommand" />
-6. <Skill name="citadelbombardment" />
-6. <Skill name="chillingisolation" />
-7. <Skill name="shacklingwave" />
-8. <Skill name="deathstrike" />
+   3. <Skill name="surgeofthemists" />
+3. <Skill name="heroiccommand" />
+4. <Skill name="citadelbombardment" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
@@ -961,13 +989,13 @@ Swap to <Skill name="legendaryrenegadestance" /> and share <Boon name="Might" />
 
 2. Precasted
    1. <Skill name="icerazorsire" />
-2. <Skill name="legendaryassassinstance" />
-5. <Skill name="chillingisolation" />
-4. <Skill name="citadelbombardment" />
-5. <Skill name="shacklingwave" />
-6. <Skill name="deathstrike" />
-7. <Skill name="legendaryrenegadestance" />
-8. <Skill name="heroiccommand" />
+3. <Skill name="legendaryassassinstance" />
+4. <Skill name="chillingisolation" />
+5. <Skill name="citadelbombardment" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
+8. <Skill name="legendaryrenegadestance" />
+9. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -988,12 +1016,12 @@ In <Effect name="Exposed" />, burst with <Skill name="citadelbombardment" /> and
 2. Precasted
    1. <Skill name="icerazorsire" />
    2. <Skill name="ordersfromabove" />
-   2. <Skill name="surgeofthemists" />
-6. <Skill name="citadelbombardment" />
-7. <Skill name="heroiccommand" />
-6. <Skill name="chillingisolation" />
-7. <Skill name="shacklingwave" />
-8. <Skill name="deathstrike" />
+   3. <Skill name="surgeofthemists" />
+3. <Skill name="citadelbombardment" />
+4. <Skill name="heroiccommand" />
+5. <Skill name="chillingisolation" />
+6. <Skill name="shacklingwave" />
+7. <Skill name="deathstrike" />
 
 </IdealRotation>
 </Phase>
@@ -1030,11 +1058,11 @@ Swap to <Skill name="legendaryrenegadestance" /> at the end of the phase and sha
 1. Precasted
    1. <Skill name="icerazorsire" />
    2. <Skill name="legendaryassassinstance" />
-4. <Skill name="citadelbombardment" />
-5. <Skill name="chillingisolation" />
-6. <Skill name="deathstrike" />
-7. <Skill name="legendaryrenegadestance" />
-8. <Skill name="heroiccommand" />
+2. <Skill name="citadelbombardment" />
+3. <Skill name="chillingisolation" />
+4. <Skill name="deathstrike" />
+5. <Skill name="legendaryrenegadestance" />
+6. <Skill name="heroiccommand" />
 
 </IdealRotation>
 </Phase>
@@ -1057,11 +1085,11 @@ Fit in another <Skill name="chillingisolation" /> if your party lacks damage.<br
    3. <Skill name="ordersfromabove" />
    4. <Skill name="surgeofthemists" />
 3. <Skill name="legendaryassassinstance" />
-3. <Skill name="heroiccommand" />
+4. <Skill name="heroiccommand" />
 5. <Skill name="chillingisolation" />
-4. <Skill name="citadelbombardment" />
-5. <Skill name="shacklingwave" />
-6. <Skill name="deathstrike" />
+6. <Skill name="citadelbombardment" />
+7. <Skill name="shacklingwave" />
+8. <Skill name="deathstrike" />
+
 </IdealRotation>
 </Phase>
-

@@ -1,24 +1,25 @@
 ---
 title: Condi Weaver
+hidden: false
+archive: true
 rating: Good
 role: Condi Damage
-archive: true
-hidden: false
 profession: Elementalist
 specialization: Weaver
-conditions:
-  - name: Burning
-  - name: Bleeding
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2022-08-05T17:12:13.596Z
-cmGuide: ''
+date: "2023-04-06T18:26:58.160Z "
+conditions:
+  - name: Burning
+  - name: Bleeding
+cmGuide: ""
 ---
+
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
 

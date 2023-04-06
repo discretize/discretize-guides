@@ -16,19 +16,19 @@ boons:
     uptime: 33%
     variant: Party
   - name: Might
-    uptime: "3 Stacks "
+    uptime: '3 Stacks '
     variant: Party
   - name: Might
-    uptime: "8 Stacks "
+    uptime: '8 Stacks '
     variant: Party (Using Empower Allies)
-code: "[&DQIEHwsVRCumAAAA8hoAAP0aCgAAAKIB/BqcAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQIEHwsVRCumAAAA8hoAAP0aCgAAAKIB/BqcAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 5
   - 3
   - 3
   - 4
-date: 2023-02-26T18:51:11.764Z
+date: '2023-02-26T18:51:11.764Z'
 ---
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses sustained damage in favor of short damage spikes. Along with this <Specialization text="Power Bladesworn" name="Bladesworn"/> provides a lot of boon support to a party, sharing <Boon name="Might"/> and <Boon name="Quickness"/> from traits along with optional utility skills like <Skill name="Forgreatjustice"/> which can carry a party with low boon uptime by providing 12 stacks of <Boon name="Might"/> (becomes 20 stacks, taking into account <Boon name="Might"/> from traits) and a high <Boon name="Fury"/> uptime.
@@ -45,8 +45,7 @@ This is the default build. Due to <Item id="24818"/> this build requires you to 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-</CharacterWithAr>  
-
+</CharacterWithAr>
 
 <Divider text="Build" />
 
@@ -127,6 +126,7 @@ Make sure to cast <Skill name="Tactical Reload"/> before taking the mistlock and
 4. <Skill name="tacticalreload" />
 5. Charge <Skill name="dragontrigger" />
 6. <Skill name="dragonslashforce" />
+
 </Card>
 
 </GridItem>

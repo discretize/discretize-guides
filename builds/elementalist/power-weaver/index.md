@@ -10,7 +10,7 @@ specialization: Weaver
 conditions:
   - name: Vulnerability
     uptime: 10 stacks
-code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-01-03T17:42:49.134Z
+date: '2023-01-03T17:42:49.134Z'
 ---
 
 <Advanced>
@@ -125,10 +125,10 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                    |
 | <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
 | Offensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Conjure Fiery Greatsword" size="big" disableText/>                | This can be precasted before the fight to use in your opener or infight to increase burst damage. It can also be played if you cannot benefit from <Skill name="Weave Self"/>.                                                                                                                                              |
-| <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                    |
-| <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                        |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                              |
+| <Skill name="Conjure Fiery Greatsword" size="big" disableText/>   | This can be precasted before the fight to use in your opener or infight to increase burst damage. It can also be played if you cannot benefit from <Skill name="Weave Self"/>.                                                                                                                                                             |
+| <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
+| <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
 | <Skill name="Conjure Frostbow" size="big" disableText/>           | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
 | Defensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
 | <Skill name="Arcane Shield" size="big" disableText/>              | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |

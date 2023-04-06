@@ -3,7 +3,7 @@ cycle: Night
 potions:
   - id: 8883
     description: for the Svanir & end boss
-date: 2022-07-01T17:34:15.200Z
+date: '2022-07-01T17:34:15.200Z'
 title: Snowblind
 image: ./images/header.jpg
 group: T4

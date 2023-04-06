@@ -21,7 +21,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2023-04-304T11:40:09.644Z
+date: '2023-04-304T11:40:09.644Z'
 ---
 
 <Warning>
@@ -100,13 +100,13 @@ If you need to drop a utiltiy skill <Skill name="Sic Em"/> should be replaced an
 
 <Card title="Defiance Bar Damage">
 
-|                                            |                                                                                   |
-| ------------------------------------------ | --------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/> | 300 damage (F2 in <Skill id="42944"/>)                                            |
-| <Skill id="12508" size="big" disableText/> | 200 damage (Shortbow 5)                                                           |
+|                                                   |                                                                                   |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <Skill id="46432" size="big" disableText/>        | 300 damage (F2 in <Skill id="42944"/>)                                            |
+| <Skill id="12508" size="big" disableText/>        | 200 damage (Shortbow 5)                                                           |
 | <Skill name="Spike Trap" size="big" disableText/> | 232 damage (Shortbow 5)                                                           |
-| <Skill id="12507" size="big" disableText/> | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
-| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
+| <Skill id="12507" size="big" disableText/>        | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
+| <Skill id="12490" size="big" disableText/>        | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
 
 </Card>
 

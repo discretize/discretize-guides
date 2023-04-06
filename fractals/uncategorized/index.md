@@ -3,7 +3,7 @@ cycle: Day
 potions:
   - id: 8887
     description: for Old Tom and the Raving Asura
-date: 2022-07-01T17:32:24.400Z
+date: '2022-07-01T17:32:24.400Z'
 title: Uncategorized
 image: ./images/header.jpg
 group: T4

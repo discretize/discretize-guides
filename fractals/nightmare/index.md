@@ -2,7 +2,7 @@
 potions:
   - id: 50082
 title: Nightmare
-date: 2021-02-24
+date: '2021-02-24'
 image: ./images/ensolyss_crazy.jpg
 group: Challenge Mode
 api: 3177
@@ -168,8 +168,7 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-![Siax the Corrupted](images/siax.jpg)
----
+## ![Siax the Corrupted](images/siax.jpg)
 
 ## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label> <Label>CC phase 1: 2000, phase 2: 2250 </Label>
 

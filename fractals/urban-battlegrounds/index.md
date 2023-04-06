@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-01-28T09:52:57.345Z
+date: '2022-01-28T09:52:57.345Z'
 title: Urban Battlegrounds
 image: ./images/header.jpg
 group: T4

@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-08-05T10:35:34.916Z
+date: '2022-08-05T10:35:34.916Z'
 ---
 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.

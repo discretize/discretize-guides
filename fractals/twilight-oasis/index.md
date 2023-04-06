@@ -1,6 +1,6 @@
 ---
 cycle: Night
-date: 2022-02-01T02:47:53.806Z
+date: '2022-02-01T02:47:53.806Z'
 title: Twilight Oasis
 image: ./images/header.jpg
 group: T4

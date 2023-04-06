@@ -13,21 +13,21 @@ boons:
   - name: Might
     uptime: 9 stacks
     variant: party
-code: "[&DQYfHSkbQyb+GgAAUAEAAPgaAAC+AQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkbQyb+GgAAUAEAAPgaAAC+AQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2023-04-04T18:28:57.330Z
+date: '2023-04-04'
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 This build has less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
 
-Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have a high awareness of the encounters and good class knowledge before picking up this build. 
+Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have a high awareness of the encounters and good class knowledge before picking up this build.
 
 This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
@@ -39,8 +39,7 @@ This build has one of the harder rotations in the game but is very enjoyable to 
 Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
 </Character>
-</CharacterWithAr>  
-
+</CharacterWithAr>
 
 <Divider text="Build"/>
 
@@ -59,7 +58,6 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 </Card>
 
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Catalyst" traits3Selected="Vicious Empowerment,Empowering Auras,Empowered Empowerment"/>
-
 
 <Card title="Situational Traits">
 
@@ -93,8 +91,8 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 
 |                                                                   |                                                                                                                                                                  |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Offensive                                                             |                                                                                                                                                                  |
-| <Skill name="Shattering Ice" size="big" disableText/>          | Good on encounter with longer phases like Ensolyss instead of  <Skill name="Arcane Blast"/>.                                                                                                        |
+| Offensive                                                         |                                                                                                                                                                  |
+| <Skill name="Shattering Ice" size="big" disableText/>             | Good on encounter with longer phases like Ensolyss instead of <Skill name="Arcane Blast"/>.                                                                      |
 | Heal                                                              |                                                                                                                                                                  |
 | <Skill name="Arcane Brilliance" size="big" disableText/>          | Additional <Boon name="Might"/> by blasting fire fields.                                                                                                         |
 | <Skill name="Soothing Water" size="big" disableText/>             | Strong heal over time and condi cleanse.                                                                                                                         |
@@ -288,7 +286,7 @@ You can focus on only using Hammer 2 in each attunement first if you struggle to
 
 **Note:** Not all skills will always be off-cooldown in this rotation. It is usually worth waiting for the following skills (as all their cooldowns should be the same as <Skill name="Relentless Fire"/> meaning you will not delay your rotation):
 
-- <Skill name="Molten End"/> 
+- <Skill name="Molten End"/>
 - <Skill name="Crashing Font"/>
 - <Skill name="Shock Blast"/>
 

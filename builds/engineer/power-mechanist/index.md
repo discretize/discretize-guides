@@ -25,15 +25,15 @@ boons:
   - name: Might
     uptime: 5-10 Stacks
     variant: DPS
-code: "[&DQMGNyYvRh8NGwAAhgCNARobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMGNyYvRh8NGwAAhgCNARobAAAQGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 2
   - 3
   - 4
   - 1
   - 2
-date: 2023-04-04T23:48:12.135Z
-cmGuide: ""
+date: '2023-04-04T23:48:12.135Z'
+cmGuide: ''
 ---
 
 The <Specialization name="Mechanist" text="Power Mechanist"/> build is great for new players. It is very easy to play and deals a reasonable amount of damage, partly even at a range. It has a simple rotation, with a good amount of CC, which alongside its high self boon generation or <Boon name="Fury"/> and <Boon name="Quickness"/>, makes it very easy to play while dealing with mechanics. It also can help generate some <Boon name="Might"/> for your party through <Skill name="Blunderbuss"/> and if required, <Trait name="Pinpoint Distribution"/>.

@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2023-04-04T11:55:48.258Z
+date: '2023-04-04T11:55:48.258Z'
 ---
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
@@ -59,7 +59,7 @@ If you need additional CC, you can freely replace your Dagger on your Scepter se
 
 If you are unable to keep up Quickness with this build, swap out Viper pieces for Ritualist until you can keep up Quickness on your group. Ritualist pieces are very effective at increasing your boon duration on this build due to <Trait id="2220"/> converting the <Attribute name="Vitality"/> into extra <Attribute name="Concentration"/>.
 
-If you need additional CC, you can freely replace your Dagger on your Scepter set with <Item id="75325"/>  
+If you need additional CC, you can freely replace your Dagger on your Scepter set with <Item id="75325"/>
 
 This build uses the Jade Bot Core: Tier 10 in combination with 9 <Item name="Malign +9 Agony Infusion"/> and 9 <Item name="Spiteful +9 Agony Infusion"/>. However you can also run 15 <Item name="Malign +9 Agony Infusion"/> and 3 <Item name="Spiteful +9 Agony Infusion"/> with <Item id="91876"/>, giving you the same stats.
 </Character>

@@ -3,7 +3,7 @@ potions:
   - id: 50082
     description: against Arkk
 cycle: Day
-date: 2021-09-19T17:27:53.415Z
+date: '2021-09-19T17:27:53.415Z'
 consumables:
   - 78978
 record:

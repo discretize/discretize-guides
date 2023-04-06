@@ -3,7 +3,7 @@ title: Banner Berserker
 type: Static
 profession: Warrior
 specialization: Berserker
-date: 2022-01-18T19:52:34.830Z
+date: '2022-01-18T19:52:34.830Z'
 disableBosses:
   - LightAi
   - DarkAi

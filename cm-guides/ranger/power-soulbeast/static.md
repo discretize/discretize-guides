@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: 2023-04-04T00:23:43.159Z
+date: '2023-04-04T00:23:43.159Z'
 disableBosses:
   - LightAi
   - DarkAi
@@ -90,8 +90,8 @@ This guide is currently a work in progress. The information shown here is correc
 1.  <Skill name="One Wolf Pack"/>
 2.  <Skill name="Splitblade"/> (Axe 2)
 3.  <Skill name="Whirling Defense"/> (Axe 5)
-4.  <Skill name="Path of Scars"/> (Axe 4)  
-5.  <Skill name="Winters Bite"/> (Axe 3) 
+4.  <Skill name="Path of Scars"/> (Axe 4)
+5.  <Skill name="Winters Bite"/> (Axe 3)
 6.  <Skill name="Splitblade"/> (Axe 2)
 7.  _Weapon Swap_
 
@@ -441,19 +441,23 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 <IdealRotation>
 
 **Island 1**
+
 1. <Skill name="Splitblade"/> (Axe 2)
 2. <Skill name="Path of Scars"/> (Axe 4)
 
 **Island 2**
+
 1. <Skill name="Splitblade"/> (Axe 2)
 2. <Skill name="Winters Bite"/> (Axe 3)
 
 **Island 3**
+
 1. <Skill name="Path of Scars"/> (Axe 4)
 2. <Skill name="Splitblade"/> (Axe 2)
 3. _Weapon Swap_
 
 **Island 4**
+
 1. <Skill name="Rapid Fire"/> (Longbow 2)
 2. <Skill name="Point Blank Shot"/> (Longbow 4)
 3. _Weapon Swap_
@@ -660,8 +664,8 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 2. <Skill name="Frenzied Attack"/> (F2)
 3. <Skill name="Splitblade"/> (Axe 2)
 4. <Skill name="Winters Bite"/> (Axe 3)
-6. <Skill name="Splitblade"/> (Axe 2)
-7. _Weapon Swap_
+5. <Skill name="Splitblade"/> (Axe 2)
+6. _Weapon Swap_
 
 </IdealRotation>
 </Phase>
@@ -676,7 +680,6 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 
 1. <Skill name="Rapid Fire"/> (Longbow 2)
 2. <Skill name="Worldly Impact"/> (F3)
-
 
 </IdealRotation>
 </Phase>
@@ -698,9 +701,9 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 7. <Skill name="Splitblade"/> (Axe 2)
 8. <Skill name="Winters Bite"/> (Axe 3)
 9. <Skill name="Path of Scars"/> (Axe 4)
-11. <Skill name="Frenzied Attack"/> (F2)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill name="Splitblade"/> (Axe 2)
+10. <Skill name="Frenzied Attack"/> (F2)
+11. <Skill name="Whirling Defense"/> (Axe 5)
+12. <Skill name="Splitblade"/> (Axe 2)
 
 </IdealRotation>
 </Phase>

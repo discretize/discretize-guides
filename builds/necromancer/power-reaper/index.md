@@ -18,7 +18,7 @@ classification:
   - 4
   - 2
   - 3
-date: 2022-08-08T01:01:24.934Z
+date: '2022-08-08T01:01:24.934Z'
 benchmark:
   small:
     dps: 34302

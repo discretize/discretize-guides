@@ -23,7 +23,7 @@ classification:
   - 3
   - 2
   - 3
-date: 2023-04-04T11:46:38.248Z
+date: '2023-04-04T11:46:38.248Z'
 ---
 
 The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC, and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.

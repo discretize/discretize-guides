@@ -9,15 +9,15 @@ specialization: Holosmith
 conditions:
   - name: Vulnerability
     uptime: 20 Stacks
-code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2023-04-04T17:40:50.083Z
+date: '2023-04-04T17:40:50.083Z'
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -51,13 +51,9 @@ You will only need some Assassin pieces if you want to swap to <Trait name="Sang
 You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
 
 </Character>
-</CharacterWithAr>  
-
-
+</CharacterWithAr>
 
 <Divider text="Build"/>
-
-
 
 <Grid>
 <GridItem sm="7">

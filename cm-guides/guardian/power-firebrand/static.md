@@ -8,7 +8,7 @@ disableBosses:
   - LightAi
   - DarkAi
   - Ensolyss
-date: 2022-01-21T18:25:43.964Z
+date: '2022-01-21T18:25:43.964Z'
 ---
 
 <Divider text="98 CM"/>

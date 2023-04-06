@@ -4,7 +4,7 @@ potions:
   - id: 50082
   - id: 8887
     description: against the golems in the final room
-date: 2022-07-01T17:40:25.400Z
+date: '2022-07-01T17:40:25.400Z'
 title: Aetherblade
 image: ./images/header.jpg
 group: T4

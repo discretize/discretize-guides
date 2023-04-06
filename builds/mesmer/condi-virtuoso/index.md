@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: 2023-04-04T11:18:05.762Z
+date: '2023-04-04T11:18:05.762Z'
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -43,7 +43,6 @@ This is the default setup when using <Item type="Sigil" name="Agony"/>.
 Check out the [gear optimizer](https://optimizer.discretize.eu/) for more variants.
 
 </Character>
-
 
 </CharacterWithAr>
 
@@ -83,25 +82,24 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                                |                                                                                                                                                                                            |   |
-|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |   |
-| <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |   |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |   |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |   |
-| <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |   |
-| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |   |
-| **Skips**                                                      |                                                                                                                                                                                            |   |
-| <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |   |
-| <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |   |
-| <Skill name="Portal Entre" size="big" disableText/>            | For skipping sections of the fractal for your party.                                                                                                                                       |   |
-| <Skill name="Blink" size="big" disableText/>                   | 1200 range blink, use it for skips!                                                                                                                                                        |   |
-| <Skill name="Mass Invisibility" size="big" disableText/>       | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |   |
-| <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |   |
-| <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |   |
-| <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |   |
-| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |   |
-
+|                                                                |                                                                                                                                                                                            |     |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |     |
+| <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |     |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |     |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |     |
+| <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |     |
+| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |     |
+| **Skips**                                                      |                                                                                                                                                                                            |     |
+| <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |     |
+| <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |     |
+| <Skill name="Portal Entre" size="big" disableText/>            | For skipping sections of the fractal for your party.                                                                                                                                       |     |
+| <Skill name="Blink" size="big" disableText/>                   | 1200 range blink, use it for skips!                                                                                                                                                        |     |
+| <Skill name="Mass Invisibility" size="big" disableText/>       | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |     |
+| <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |     |
+| <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |     |
+| <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |     |
+| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |     |
 
 </Card>
 </GridItem>

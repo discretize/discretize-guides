@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-02-01T02:46:24.744Z
+date: '2022-02-01T02:46:24.744Z'
 title: Siren's Reef
 image: ./images/header.jpg
 group: T4

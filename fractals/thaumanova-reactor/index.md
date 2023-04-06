@@ -1,6 +1,6 @@
 ---
 cycle: Day
-date: 2022-07-01T17:26:44.300Z
+date: '2022-07-01T17:26:44.300Z'
 title: Thaumanova Reactor
 image: ./images/header.jpg
 group: T4

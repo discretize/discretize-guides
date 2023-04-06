@@ -5,7 +5,7 @@ potions:
     description: for all the Dredge enemies
   - id: 8885
     description: for the Ice Elemental endboss
-date: 2022-01-28T10:13:18.167Z
+date: '2022-01-28T10:13:18.167Z'
 title: Underground Facility
 image: ./images/start.jpg
 group: T4

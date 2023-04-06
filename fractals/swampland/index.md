@@ -1,6 +1,6 @@
 ---
 cycle: Night
-date: 2022-07-01T17:29:49.600Z
+date: '2022-07-01T17:29:49.600Z'
 title: Swampland
 image: ./images/bloomhunger_spirit_onslaught.jpg
 group: T4

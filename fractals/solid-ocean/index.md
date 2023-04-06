@@ -3,7 +3,7 @@ cycle: Night
 potions:
   - id: 8885
     description: for the Jade enemies
-date: 2022-07-01T17:24:30.000Z
+date: '2022-07-01T17:24:30.000Z'
 title: Solid Ocean
 image: ./images/header.jpg
 group: T4

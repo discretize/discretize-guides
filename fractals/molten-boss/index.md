@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2022-07-01T17:31:17.700Z
+date: '2022-07-01T17:31:17.700Z'
 title: Molten Boss
 image: ./images/header.jpg
 group: T4

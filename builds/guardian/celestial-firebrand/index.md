@@ -27,7 +27,7 @@ classification:
   - 4
   - 3
   - 4
-date: 2022-31-12T15:23:32.933Z
+date: '2022-31-12T15:23:32.933Z'
 Conditions:
   - name: Burning
 ---
@@ -42,7 +42,7 @@ There are Three variants shown below; a low AR Celestial variant, a high AR Cele
 
 There are several different gear, utility, and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 
-- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> (using all charges) -  60.5%bd
+- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> (using all charges) - 60.5%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> (saving last charge) and <Skill name="Feel My Wrath"/> - 69.8%bd
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> (using all charges) and <Skill name="Feel My Wrath"/> - 32.5%bd
 
@@ -60,7 +60,6 @@ Check the build section for some common gear variations. You can also use our [g
 </Character>
 <Character title="Celestial 222AR" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":25999,"Armor":2985,"Power":2211,"Precision":1939,"Toughness":1714,"Vitality":2199,"Ferocity":531,"Condition Damage":2324,"Expertise":451,"Concentration":968,"Healing Power":885,"Agony Resistance":222,"Condition Duration":0.30066666666666664,"Boon Duration":0.6453333333333333,"Critical Chance":0.8471428571428572,"Critical Damage":1.854,"Power Coefficient":1907,"Power2 Coefficient":0,"Burning Coefficient":8.6,"Bleeding Coefficient":5.529999999999999,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":5477.694461250001,"NonCrit Effective Power":3178.3125,"Power DPS":4022.3193444758385,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":242.16,"Bleeding Stacks":7.192686666666666,"Bleeding DPS":1741.7810031999998,"Burning Damage":810.513,"Burning Stacks":17.2,"Burning DPS":13940.8236,"Confusion Damage":286.73400000000004,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":259.40999999999997,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":361.44,"Torment Stacks":0,"Torment DPS":0,"Damage":19844.673947675838,"Effective Health":154441820.89552242,"Survivability":78516.43156864383,"Effective Healing":655.5,"Healing":655.5}},"armor":{"weight":"Heavy","helmAffix":"Celestial","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Celestial","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Celestial","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Celestial","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Seraph","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Celestial","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Celestial","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":24560,"weapon1OffAffix":"Celestial","weapon1OffInfusionId":37130,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":44944,"weapon2MainAffix":"Celestial","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":74326},"backAndTrinket":{"backItemAffix":"Seraph","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Seraph","ring1Affix":"Seraph","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Seraph","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Celestial","accessory1InfusionId":37130,"accessory2Affix":"Celestial","accessory2InfusionId":37130},"consumables":{"foodId":91703,"utilityId":48917},"skills":{"healId":41714,"utility1Id":40915,"utility2Id":"","utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[654,562,558],[2101,2116,2179]],"lines":[16,49,62]}}'>
 
-
 **This is an option for a Celestial build with high Agony Resistance. It deals more damage than the low boon duration variants, but is a fractal specific build that does not work in other content.**
 
 Check the build section for some common gear variations. You can also use our [gear optimizer](https://optimizer.discretize.eu/) for more variants!
@@ -74,7 +73,6 @@ Check the build section for some common gear variations. You can also use our [g
 
 </Character> 
 </CharacterWithAr>
-
 
 <Divider text="Build"/>
 
@@ -270,14 +268,13 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 4.  <Skill name="Zealots Flame" profession="guardian"/> (Torch 4)
 5.  <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
 6.  <Skill name="Tome of Justice" profession="guardian"/> (F1)
-    
-  1. <Skill name="Epilogue: Ashes of the Just"/>
-  2. <Skill name="Chapter 4: Scorched Aftermath"/>
-  3. <Skill name="Chapter 2: Igniting Burst"/>
-  
-7.  <Skill name="Blazing Edge" profession="guardian"/> (Axe 3) (x2)
-8.  _Auto Attack Chain_
-9.  <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
+7.  <Skill name="Epilogue: Ashes of the Just"/>
+8.  <Skill name="Chapter 4: Scorched Aftermath"/>
+9.  <Skill name="Chapter 2: Igniting Burst"/>
+
+10. <Skill name="Blazing Edge" profession="guardian"/> (Axe 3) (x2)
+11. _Auto Attack Chain_
+12. <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
 
 </Card>
 </GridItem>

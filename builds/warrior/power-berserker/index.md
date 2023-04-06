@@ -22,7 +22,7 @@ classification:
   - 4
   - 2
   - 4
-date: 2022-08-05T11:43:11.788Z
+date: '2022-08-05T11:43:11.788Z'
 ---
 
 The <Specialization text="Banner Berserker" name="Berserker"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has excellent defiance bar damage in <Skill name="Tremor"/> and <Skill name="Headbutt"/>, the build also has medium burst and excellent sustained damage. <Specialization name="Warrior"/> can provide half of the necessary <Boon name="Might"/> and <Boon name="Fury"/> to the group by using <Skill name="Forgreatjustice"/>. The <Specialization text="Banner Berserker" name="Berserker"/> excels at fighting larger groups of mobs due to extreme cleave with greatswords <Skill name="arcdivider" /> -> <Skill name="bloodreckoning" /> -> <Skill name="arcdivider" /> combo.

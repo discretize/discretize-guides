@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 8881
-date: 2022-07-01T17:36:08.700Z
+date: '2022-07-01T17:36:08.700Z'
 title: Cliffside
 image: ./images/header.jpg
 group: T4

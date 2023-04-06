@@ -3,7 +3,7 @@ cycle: Day
 potions:
   - id: 50082
     description: only for the Krait at the beginning
-date: 2022-07-01T17:21:58.200Z
+date: '2022-07-01T17:21:58.200Z'
 title: Aquatic Ruins
 image: ./images/header.jpg
 group: T4
