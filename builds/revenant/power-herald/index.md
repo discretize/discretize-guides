@@ -2,12 +2,6 @@
 title: Power Quick Herald
 hidden: false
 archive: false
-classification:
-  - 3
-  - 2
-  - 4
-  - 1
-  - 3
 rating: Meta
 role: Power Damage
 profession: Revenant
@@ -32,7 +26,13 @@ boons:
     uptime: 100%
     variant: party
 code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
-date: 2023-02-14T12:25:26.836Z
+classification:
+  - 3
+  - 2
+  - 4
+  - 1
+  - 3
+date: 2023-04-06T12:49:36.709Z
 ---
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>. 
 
@@ -81,6 +81,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Card>
 </GridItem>
 <GridItem sm="4">
+
+<Card title="Legends">
+|||
+|-|-|
+|<Skill name="legendaryassassinstance" size="big" disableText/> <br/> <Skill name="legendarydragonstance" size="big" disableText/> | Swap out <Skill name="legendaryassassinstance" /> if other utility like <Boon name="Stability" />, Projectile Block or a Pull is needed |
+
+</Card>
 
 <Card title="Situational Skills">
 
