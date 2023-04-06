@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: 2023-01-03T22:02:03.309Z
+date: 2023-04-06T12:48:34.730Z
 ---
 
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -120,6 +120,14 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 </GridItem>
 
 <GridItem sm="4">
+
+<Card title="Legends">
+|||
+|-|-|
+|<Skill name="legendaryassassinstance" size="big" disableText/> <br/> <Skill name="legendaryrenegadestance" size="big" disableText/> | Swap out <Skill name="legendaryassassinstance" /> if other utility like <Boon name="Stability" />, Projectile Block or a Pull is needed |
+
+</Card>
+
 <Card title="Situational Traits">
 
 |                                                    |                                                                                                                                                                                                                                                         |
