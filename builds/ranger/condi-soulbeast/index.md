@@ -13,7 +13,7 @@ conditions:
   - name: Bleeding
   - name: Poisoned
   - name: Burning
-code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: pug
 classification:
   - 5
@@ -21,9 +21,8 @@ classification:
   - 3
   - 2
   - 3
-date: '2023-04-304T11:40:09.644Z'
+date: "2023-04-07T14:16:30.100Z "
 ---
-
 <Warning>
 
 This build is strong in full condi groups ([team comps](/guides/effective-comp)), especially on Ensolyss, 100CM and some T4 bosses. In power groups and other bosses this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
