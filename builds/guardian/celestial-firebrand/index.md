@@ -19,15 +19,15 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: '[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: '2022-31-12T15:23:32.933Z'
+date: "2023-04-07T14:01:49.393Z "
 Conditions:
   - name: Burning
 ---
@@ -39,7 +39,6 @@ The general idea of these builds is to leverage the Celestial stat combo (<Attri
 There are Three variants shown below; a low AR Celestial variant, a high AR Celestial variant, and a Celestial Heal variant. The Celestial 150AR variant is the standard version with high boon duration and provides solid damage while being fairly forgiving with boon uptimes. It also has the advantage of working well in other content outside of fractals with minimal changes. The Celestial 222AR build is a more offensive build and offers the most damage. While the Celestial Heal 150AR variant is much more supportive and a last resort before swapping to <BuildLink build="Heal Firebrand" specialization="Firebrand"/>. All of these builds can be optimized further with a mix of gear to suit your needs using our [gear optimizer](https://optimizer.discretize.eu/).
 
 <Warning>
-
 There are several different gear, utility, and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 
 - <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/>, <Skill name="Mantra of Potence"/> (using all charges) - 60.5%bd
