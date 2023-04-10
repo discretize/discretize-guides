@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: 2023-03-18T08:33:18.353Z
+date: "2023-04-10T23:41:32.625Z "
 ---
 
 <Advanced>
@@ -219,6 +219,7 @@ It is recommended to use separate precast templates to easily make use of differ
   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
   - Precast <Skill name="Meteor Shower"/> on staff, attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting, then swap back to sword/dagger after the cast. 
   - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
+  - Choosing between <Skill id="5516"/> and <Skill name="Weave Self"/> as elite skill depends on phase time, and if you are able to utilize the second <Skill id="5516"/>, and other factors such as CC skills. 
 
 </Card>
 </GridItem>
