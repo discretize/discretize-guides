@@ -1,7 +1,7 @@
 ---
 title: Power Weaver
 hidden: false
-archive: true
+archive: false
 hasBeginner: true
 rating: Good
 role: Power Damage
@@ -10,7 +10,7 @@ specialization: Weaver
 conditions:
   - name: Vulnerability
     uptime: 10 stacks
-code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
 cmGuide: pug
 classification:
   - 4
@@ -18,8 +18,9 @@ classification:
   - 2
   - 3
   - 4
-date: 2022-08-05T14:04:23.181Z
+date: '2023-01-03T17:42:49.134Z'
 ---
+
 <Advanced>
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -27,7 +28,6 @@ Unfortunately, this build is pretty squishy and besides the healing skill does n
 
 Also, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 </Advanced>
-
 
 <Beginner>
 
@@ -45,161 +45,17 @@ The same goes for the Jade Bot Core: Tier 10 which Weaver slightly benefits from
 
 </Information>
 
-
 </Beginner>
 
 <Divider text="Equipment"/>
-
-<Advanced>
 <Warning>
 
 These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver due to <Trait name="Master's Fortitude"/>. If you do not have the Tier 10 Core, check out the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Warning>
-</Advanced>
-
 <Beginner>
 <CharacterWithAr>
-<Character title="Power Weaver" gear={{
-  "profession": "Elementalist",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 18875,
-    "Armor": 2210,
-    "Power": 3642.2,
-    "Precision": 2365,
-    "Toughness": 1243,
-    "Vitality": 1723,
-    "Ferocity": 1651.3,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 2.6008666666666667,
-    "Power Coefficient": 3603,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 6.7,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Burning Duration": 0.2,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 27658.20896368917,
-    "Power DPS": 38372.170541460175,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 100.5,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 370.875,
-    "Burning Stacks": 8.04,
-    "Burning DPS": 2981.8349999999996,
-    "Confusion Damage": 123.825,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 117.75,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 148.95,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 41493.755541460174,
-    "Effective Health": 92236042.01216142,
-    "Survivability": 46891.73462743336,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Dagger",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91709,
-    "utilityId": 50082
-  },
-  "skills": {
-    "healId": 5503,
-    "utility1Id": 40183,
-    "utility2Id": 5641,
-    "utility3Id": 5734,
-    "eliteId": 5516
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18655,"Armor":2192,"Power":3713.2,"Precision":2365,"Toughness":1225,"Vitality":1701,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28850.316117774742,"NonCrit Effective Power":10897.054913167505,"Power DPS":41747.973804619745,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":3.5,"Bleeding DPS":366.40625,"Burning Damage":386.328125,"Burning Stacks":7.152,"Burning DPS":2763.01875,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45017.14880461975,"Effective Health":81376636.81592041,"Survivability":41370.93889980702,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":49432,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":5641,"eliteId":25488},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -208,146 +64,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Beginner>
 <Advanced>
 <CharacterWithAr>
-<Character title="Power Weaver" gear={{
-  "profession": "Elementalist",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 18915,
-    "Armor": 2210,
-    "Power": 3732.2,
-    "Precision": 2365,
-    "Toughness": 1243,
-    "Vitality": 1727,
-    "Ferocity": 1651.3,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 2.6008666666666667,
-    "Power Coefficient": 3603,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 6.7,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Burning Duration": 0.2,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 28341.652708330326,
-    "Power DPS": 39320.35991841131,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 100.5,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 370.875,
-    "Burning Stacks": 8.04,
-    "Burning DPS": 2981.8349999999996,
-    "Confusion Damage": 123.825,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 117.75,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 148.95,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 42441.94491841131,
-    "Effective Health": 92431509.12106137,
-    "Survivability": 46991.10783988885,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Dagger",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91709,
-    "utilityId": 50082
-  },
-  "skills": {
-    "healId": 5503,
-    "utility1Id": 40183,
-    "utility2Id": 5635,
-    "utility3Id": 5734,
-    "eliteId": 5516
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18655,"Armor":2192,"Power":3713.2,"Precision":2365,"Toughness":1225,"Vitality":1701,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28850.316117774742,"NonCrit Effective Power":10897.054913167505,"Power DPS":41747.973804619745,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":3.5,"Bleeding DPS":366.40625,"Burning Damage":386.328125,"Burning Stacks":7.152,"Burning DPS":2763.01875,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45017.14880461975,"Effective Health":81376636.81592041,"Survivability":41370.93889980702,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Assassin","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":5539,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -365,7 +82,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - Dagger with <Item name="Night" type="Sigil"/>
 - Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 - Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-- A warhorn for <Skill name="Sand Squall"/> and <Skill name="Heat Sync"/> for tempest precast.
 - A staff to precast <Skill name="Meteor Shower"/> on some encounters
 
 </Card>
@@ -376,59 +92,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Advanced>
 <Card title="Situational Traits">
 
-|                                                     |                                                                                                                                                                 |
-| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Raging Storm" size="big" disableText/> | If you can't profit from <Trait name="Stormsoul"/> (e.g. Artsariiv, PuG Ensolyss).                                                                              |
-| <Trait name="One with Air" size="big" disableText/> | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>. |
-| <Trait name="superiorelements" size="big" disableText /> | If you can guarantee permanent <Condition name="Weakness" /> uptime on the target, you can trade in the <Attribute name="Vitality" /> from <Trait name="mastersfortitude" /> for extra crit chance. Make sure to adjust your gear accordingly.
+|                                                          |                                                                                                                                                                                                                                                |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                |
+| <Trait name="superiorelements" size="big" disableText /> | If you can guarantee permanent <Condition name="Weakness" /> uptime on the target, you can trade in the <Attribute name="Vitality" /> from <Trait name="mastersfortitude" /> for extra crit chance. Make sure to adjust your gear accordingly. |
 
 </Card>
 </Advanced>
-
-</GridItem>
-
-<GridItem sm="5">
-<Advanced>
-<Card title="Situational Skills">
-
-|                                                                 |                                                                                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/>    | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                |
-| <Skill name="Aquatic stance" size="big" disableText/>           | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
-| Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Wave" size="big" disableText/>              | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
-| <Skill name="Unravel" size="big" disableText/>                  | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
-| <Skill name="Conjure Lightning Hammer" size="big" disableText/> | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
-| <Skill name="Conjure Frostbow" size="big" disableText/>         | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
-| Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Shield" size="big" disableText/>            | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
-| <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
-| <Skill name="Stone Resonance" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
-| Utility                                                         |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Lightning Flash" size="big" disableText/>          | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
-
-</Card>
-</Advanced>
-<Beginner>
-<Card title="Situational Skills">
-
-|                                                                 |                                                                                                                                                                                                                                                                                                                                            |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Heal                                                            |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Brilliance" size="big" disableText/>        | Take it for additional <Boon name="Might"/> from blasting fire fields. It is much less healing than <Skill name="glyphofelementalharmony" profession="elementalist" />.                                                                                                                                                                                                                                          |
-| <Skill name="Glyph of Elemental Harmony" size="big" disableText/>    | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                |
-| <Skill name="Aquatic stance" size="big" disableText/>           | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
-| Offensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Arcane Blast" size="big" disableText/>                  | Use this instead of <Skill name="Arcane Shield"/> once you are comfortable avoiding damage without an extra block skill.                                                                                                                                                                                         |
-| <Skill name="Arcane Wave" size="big" disableText/>              | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
-| Defensive                                                       |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Armor of Earth" size="big" disableText/>           | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
-| <Skill name="Stone Resonance" size="big" disableText/>          | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
-
-</Card>
-</Beginner>
 <Card title="Defiance Bar Damage">
 
 |                                                       |                                               |
@@ -442,6 +112,51 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
 
 </Card>
+</GridItem>
+
+<GridItem sm="5">
+<Advanced>
+<Card title="Situational Skills">
+
+|                                                                   |                                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Heal                                                              |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Brilliance" size="big" disableText/>          | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                    |
+| <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
+| Offensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Conjure Fiery Greatsword" size="big" disableText/>   | This can be precasted before the fight to use in your opener or infight to increase burst damage. It can also be played if you cannot benefit from <Skill name="Weave Self"/>.                                                                                                                                                             |
+| <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
+| <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
+| <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
+| <Skill name="Conjure Frostbow" size="big" disableText/>           | Precast it for <Specialization name="Renegade"/> for additional cc on encounters like Siax.                                                                                                                                                                                                                                                |
+| Defensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Arcane Shield" size="big" disableText/>              | Provides three blocks for things like the console in [Aetherblade Fractal](/fractals/aetherblade).                                                                                                                                                                                                                                         |
+| <Skill name="Armor of Earth" size="big" disableText/>             | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                                                                                                                                                                           |
+| <Skill name="Stone Resonance" size="big" disableText/>            | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                                                                                                                                                                    |
+| Utility                                                           |                                                                                                                                                                                                                                                                                                                                            |
+| <Skill name="Lightning Flash" size="big" disableText/>            | A teleport with a range of 900 units. Very important skill for certain skips, especially in combination with <Item name="White Mantle Portal Device"/>, useful in fractals like [Cliffside Fractal](/fractals/cliffside), [Aetherblade Fractal](/fractals/aetherblade) and [Underground Facility Fractal](/fractals/underground-facility). |
+
+</Card>
+</Advanced>
+<Beginner>
+<Card title="Situational Skills">
+
+|                                                                   |                                                                                                                                                                                        |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Heal                                                              |                                                                                                                                                                                        |
+| <Skill name="Arcane Brilliance" size="big" disableText/>          | Take it for additional <Boon name="Might"/> from blasting fire fields. It is much less healing than <Skill name="glyphofelementalharmony" profession="elementalist" />.                |
+| <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                |
+| <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                     |
+| Offensive                                                         |                                                                                                                                                                                        |
+| <Skill name="Arcane Blast" size="big" disableText/>               | Use this instead of <Skill name="Arcane Shield"/> once you are comfortable avoiding damage without an extra block skill.                                                               |
+| <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field. |
+| Defensive                                                         |                                                                                                                                                                                        |
+| <Skill name="Armor of Earth" size="big" disableText/>             | Another defensive utility skill granting <Boon name="Protection"/> and <Boon name="Stability"/>.                                                                                       |
+| <Skill name="Stone Resonance" size="big" disableText/>            | Strong defence against pulsing damage like the Heat Room in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor).                                                                |
+
+</Card>
+</Beginner>
 </GridItem>
 </Grid>
 
@@ -471,11 +186,7 @@ For that reason, you can find a video with openers, that are efficient to use he
 
 ### **Burst priority**
 
-<p>
-
 <Skill id="5492" disableText/>/<Skill id="5492" disableText/> bursting options and priority:
-
-</p>
 
 Keep eye on boss HP/<Effect name="Exposed"/> duration to optimize the <Skill id="5492" disableText/>/<Skill id="5492" disableText/> burst priority there are 3 options for that burst:
 
@@ -528,7 +239,7 @@ It is recommended to use separate precast templates to easily make use of differ
 </GridItem>
 
 <GridItem xs="12" sm="12">
-<Card title="Rotation (Bolt to the Heart)">
+<Card title="Rotation (Not using Weave Self)">
 
 The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
 
@@ -692,20 +403,6 @@ Lastly, we will try to improve our burst damage significantly by using <Skill na
 - <Skill name="glyphofstorms" /> will be used in <Skill name="airattunement" />. This skill can also be quite useful in <Skill name="earthattunement" /> outside of boss fights to inflict <Condition name="Blinded" /> on multiple enemies.
 - If a Mistlock Singularity is present, you can cast <Skill name="conjurefierygreatsword" /> there to have another one during the fight. Otherwise, you can cast it before a boss or on the way to the boss as it is also great for mobility. Use <Skill name="firestorm" profession="bundle" />, then drop it and use <Skill name="glyphofstorms" />.
 
-
-</Card>
-<Card title="Improving Further">
-
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
-
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
-
-The additional steps are:
-- Finishing auto-attack chains when possible, <Skill name="calllightning" profession="elementalist" /> in <Skill name="airattunement" /> and <Skill name="searingslash" /> in <Skill name="fireattunement" />.
-- Incorporating <Skill name="arcaneblast" /> into the rotation.
-- Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" /> or <Skill name="unravel" />.
-
-
 </Card>
 </GridItem>
 <GridItem xs="12" sm="5">
@@ -716,7 +413,19 @@ This video shows the step-by-step approach to the rotation listed on the left.
 <Video youtube="8kc_WPrg24w" caption="by Ascers"/>
 
 </Card>
+<Card title="Improving Further">
 
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+The additional steps are:
+
+- Finishing auto-attack chains when possible, <Skill name="calllightning" profession="elementalist" /> in <Skill name="airattunement" /> and <Skill name="searingslash" /> in <Skill name="fireattunement" />.
+- Incorporating <Skill name="arcaneblast" /> into the rotation.
+- Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" /> or <Skill name="unravel" />.
+
+</Card>
 </GridItem>
 </Grid>
 </Beginner>

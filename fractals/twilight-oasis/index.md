@@ -1,6 +1,6 @@
 ---
 cycle: Night
-date: 2022-02-01T02:47:53.806Z
+date: '2022-02-01T02:47:53.806Z'
 title: Twilight Oasis
 image: ./images/header.jpg
 group: T4
@@ -51,29 +51,27 @@ Use Boons like <Boon name="Swiftness"/>, <Effect name="Superspeed"/> and <Item n
 
 <Tabs>
 <Tab specialization="Soulbeast">
-
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
-<Tab specialization="Weaver">
 
+<Tab specialization="Weaver">
 It is worth to run <Skill name="arcane wave"/> for the whole fractal for more <Boon name="Might"/>, since you can't really stack anywhere.
 </Tab>
-<Tab specialization="Daredevil">
 
+<Tab specialization="Daredevil">
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
-<Tab specialization="Renegade">
 
+<Tab specialization="Renegade">
 <ProfessionVideo title="Portal skip" profession="Renegade" src="xHeZuQ5zWMU"/>
 
 You can skip this first part with <Item id="78978"/>.
-
 </Tab>
 </Tabs>
 </GridItem>
 </Grid>
 
-<MDImage src="images/start.jpg" caption="The starting area"/>
+![Starting area](images/start.jpg)
 
 ---
 
@@ -87,9 +85,7 @@ After you killed the Sandbinder you can use `/gg` to reset the <Item id="78978"/
 
 <Grid>
 <GridItem sm="4">
-
-<MDImage src="images/header.jpg" caption="Entry to Amala"/>
-
+![Entry to Amala's arena](images/header.jpg)
 </GridItem>
 
 <GridItem sm="8">
@@ -121,9 +117,7 @@ Jump up to the roof on the right-hand side and kill two Sandbinders on the roofs
 It is also possible to skip the tornado between the two Sandbinder using this portal skip shown below.
 
 <Warning>
-
 Please note that you can't `/gg` after any Sandbinder, because you spawn behind the ideal checkpoints.
-
 </Warning>
 
 <Tabs>
@@ -135,17 +129,12 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 <ProfessionVideo title="Faster skip (any class)" profession="Guardian" timestamp="341" src="MmJTsOhdQeo"/>
 </Tab>
 </Tabs>
-
 </GridItem>
 
 <GridItem sm="5">
-
-<MDImage src="images/first_sandbinder.jpg" caption="The First Sandbinder on the roof"/>
-
-<MDImage src="images/second_sandbinder.jpg" caption="The Second Sandbinder"/>
-
+![The first Sandbinder on the roof](images/first_sandbinder.jpg)
+![The second Sandbinder](images/second_sandbinder.jpg)
 </GridItem>
-
 </Grid>
 
 ---
@@ -153,9 +142,7 @@ Please note that you can't `/gg` after any Sandbinder, because you spawn behind 
 ## Priestess Amala
 
 <Warning>
-
 **Bring boon strips because she is reapplying <Boon name="Protection"/> on herself every few seconds**
-
 </Warning>
 
 Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knockback"/> after activating the encounter.
@@ -175,9 +162,7 @@ Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knoc
 </GridItem>
 
 <GridItem sm="3">
-
-<MDImage src="images/praise_joko.jpg" caption="Praise Joko."/>
-
+![Praise Joko!](images/praise_joko.jpg)
 </GridItem>
 </Grid>
 
@@ -186,9 +171,7 @@ Stack <Boon name="Might"/> and be ready to dodge the initial <Control name="Knoc
 First off, figure out which out of all the clones is the real Amala and ping her for the other players.There are a few tells to help you:
 
 - Amala herself is the only Legendary rank enemy, other clones are above level 80
-
 - She uses _Scythe Slash_ when someone is in melee range
-
 - When she uses her _Moa Signet_, the <Skill id="29519"/> icon will appear above her
 
 The player targeted by the _Moa Signet_ should use the special action key the moment it completes to prevent others from being transformed.
@@ -207,7 +190,7 @@ The biggest danger of this phase is the _Earth Elemental_, which has a multitude
 
 In this phase, Amala's **Scythe Combo** AoEs apply a small <Control name="Knockback"/>, but many of them can be avoided by stacking directly on her. Make sure to dodge the _Eruption_ (delayed AoE appearing below random players) and ring-shaped attacks, as they <Control name="Knockdown"/> as well.
 
-<MDImage src="images/amala.jpg" caption="Amala invoking the human gods"/>
+![Amala invoking the human gods](images/amala.jpg)
 
 #### Priestess of Melandru
 

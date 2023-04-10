@@ -1,6 +1,6 @@
 ---
 title: Heal Firebrand CM guides
-date: 2021-06-01
+date: '2021-06-01'
 profession: Guardian
 specialization: Firebrand
 ---

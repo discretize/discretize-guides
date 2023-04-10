@@ -5,7 +5,7 @@ potions:
     description: for all the Dredge enemies
   - id: 8885
     description: for the Ice Elemental endboss
-date: 2022-01-28T10:13:18.167Z
+date: '2022-01-28T10:13:18.167Z'
 title: Underground Facility
 image: ./images/start.jpg
 group: T4
@@ -49,9 +49,7 @@ record:
 <GridItem sm="7">
 
 <Warning>
-
 There are two ways to do this. The fast one requires a <Item id="78978"/> and some jumping skills. The second one requires more team coordination and awareness.
-
 </Warning>
 
 <Divider text="Fast way"/>
@@ -76,10 +74,9 @@ There are two ways to do this. The fast one requires a <Item id="78978"/> and so
 </Tabs>
 
 </GridItem>
+
 <GridItem sm="5">
-
-<MDImage src="images/start.jpg" caption="The starting area"/>
-
+![Starting area](images/start.jpg)
 </GridItem>
 </Grid>
 
@@ -93,19 +90,15 @@ There are two ways to do this. The fast one requires a <Item id="78978"/> and so
 | **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker. Now for the actual console, <Item id="8686"/> and other <Effect name="Stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="Knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills. **The whole party can do `/gg` after the console is done, but it is not necessary**. |
 
 <Tabs>
-
 <Tab specialization="elementalist">
-
 Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 </Tab>
 
 <Tab specialization="Guardian">
-
 Use <Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="Knockback"/>.
 </Tab>
 
 <Tab specialization="thief">
-
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="Stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="Stealth"/> to completely activate the console.
 </Tab>
 
@@ -119,7 +112,7 @@ Use <Skill name="Inspiring Reinforcement"/> to block the <Control name="Knockbac
 </Tab>
 </Tabs>
 
-<MDImage src="images/console_locker.jpg" caption="The console locker"/>
+![Console locker](images/console_locker.jpg)
 
 ---
 
@@ -142,13 +135,10 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/gun_path.jpg" caption="The gun path"/>
+![The gun path](images/gun_path.jpg)
 
 <Tabs>
-
 <Tab specialization="thief">
-
 Cast <Skill id="13117"/> for immediate <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
@@ -200,4 +190,4 @@ Teleport to the lava buckets from below with <Skill id="13025"/>.
 </GridItem>
 </Grid>
 
-<MDImage src="images/ice_elemental.jpg" caption="The Rampaging Ice Elemental"/>
+![The Rampaging Ice Elemental](images/ice_elemental.jpg)

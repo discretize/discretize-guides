@@ -38,7 +38,7 @@ classification:
   - 3
   - 1
   - 2
-date: 2022-08-03T11:55:35.374Z
+date: '2023-04-04T11:55:35.374Z'
 ---
 
 <Warning>
@@ -56,138 +56,12 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="Heal Firebrand" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Minstrel",
-    "Harrier",
-    "Harrier",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel",
-    "Harrier",
-    "Harrier"
-  ],
-  "attributes": {
-    "Health": 20705,
-    "Armor": 2865,
-    "Power": 2691,
-    "Precision": 1000,
-    "Toughness": 1594,
-    "Vitality": 1906,
-    "Ferocity": 0,
-    "Condition Damage": 1219,
-    "Expertise": 0,
-    "Concentration": 1276,
-    "Healing Power": 1649,
-    "Agony Resistance": 150,
-    "Condition Duration": 0,
-    "Boon Duration": 1.0006666666666666,
-    "Critical Chance": 0.3,
-    "Critical Damage": 1.5,
-    "Power Coefficient": 0,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 0,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Resolution Duration": 0.25,
-    "Outgoing Healing": 0.82342,
-    "Effective Power": 4804.444124999999,
-    "Power DPS": 0,
-    "Power2 DPS": 0,
-    "Siphon DPS": 0,
-    "Bleeding Damage": 136.76375,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 459.9209375,
-    "Burning Stacks": 0,
-    "Burning DPS": 0,
-    "Confusion Damage": 165.18456250000003,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 153.295,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 203.42062499999997,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 0,
-    "Effective Health": 118049402.98507464,
-    "Survivability": 60014.948136794424,
-    "Effective Healing": 1613.1796740000002,
-    "Healing": 1613.1796740000002
-    },
-    "runeId": 24842,
-    "runeName": "Monk",
-    "infusions": [
-      37123, 37123, 37123, 37123, 37123, 37123, 37125,
-      37125, 37125, 37125, 37125, 37125, 37125, 37125,
-      37125, 37125, 37125, 37125
-    ],
-    "weapons": {
-      "weapon1MainType": "Axe",
-      "weapon1MainSigil1": "transference",
-      "weapon1OffType": "Shield",
-      "weapon1OffSigil": "Renewal",
-      "weapon2MainType": "Staff",
-      "weapon2MainSigil1": "transference",
-      "weapon2MainSigil2": "Renewal"
-    },
-    "consumables": {
-      "foodId": 91690,
-      "utility": "bountiful-maintenance-oil",
-      "infusion": "Healing +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Mantra of Solace",
-      "utility1": "mantra of Potence",
-      "utility3": "Sanctuary",
-      "elite": "Feel My Wrath"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="Heal Firebrand" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":23445,"Armor":3374,"Power":2095,"Precision":1000,"Toughness":2103,"Vitality":2180,"Ferocity":0,"Condition Damage":1254,"Expertise":0,"Concentration":1133,"Healing Power":1741,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1.0053333333333332,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Outgoing Healing":0.8175,"Effective Power":3809.6265624999996,"NonCrit Effective Power":3312.7187499999995,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":139.7825,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":467.719375,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":168.656125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":156.31375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":207.94875,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":157419761.19402987,"Survivability":80030.38189833751,"Effective Healing":1658.1052499999998,"Healing":1658.1052499999998}},"armor":{"weight":"Heavy","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Minstrel","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":72339,"weapon1MainAffix":"Minstrel","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":74326,"weapon1OffAffix":"Minstrel","weapon1OffInfusionId":37125,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":72339,"weapon2MainAffix":"Minstrel","weapon2MainInfusion1Id":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":74326},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528},"skills":{"healId":41714,"utility1Id":40915,"utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[617,610,554],[1899,557,558],[2101,2063,2105]],"lines":[46,49,62]}}'>
 
-Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Minstrel or Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
 </Character>
-</CharacterWithAr>
-
+</CharacterWithAr> 
 <Divider text="Default Build"/>
 
 <Traits
@@ -196,7 +70,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits2="Honor"
   traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence"
   traits3="Firebrand"
-  traits3Selected="Liberators Vow, Weighty Terms, Loremaster"
+  traits3Selected="Liberators Vow, Weighty Terms, Stoic Demeanor"
 />
 
 <Divider text="Situational Traits and Skills"/>

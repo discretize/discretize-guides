@@ -1,24 +1,24 @@
 ---
+title: Power Virtuoso
 hidden: false
 archive: false
 hasBeginner: true
+rating: Good
+role: Power Damage
+profession: Mesmer
 specialization: Virtuoso
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 boons: []
-code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: 2022-11-01T15:36:52.272Z
-title: Power Virtuoso
-rating: Good
-role: Power Damage
-profession: Mesmer
-conditions:
-  - name: Vulnerability
-    uptime: 25 stacks
+date: '2023-04-04T18:56:12.271Z'
 ---
 
 <Advanced>
@@ -28,6 +28,19 @@ The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the str
 You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Sword/Focus variant.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+
+<Divider text="Equipment"/>
+
+<CharacterWithAr>  
+<Character title="Power Virtuoso" gear='{"attributes":{"profession":"Mesmer","specialization":"Virtuoso","data":{"Health":20522,"Armor":2192,"Power":3442,"Precision":2155,"Toughness":1225,"Vitality":1460,"Ferocity":1450.85,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.467233333333333,"Clone Critical Chance":0.6000000000000001,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.467233333333333,"Power Coefficient":3395,"Power2 Coefficient":1189,"Burning Coefficient":0,"Bleeding Coefficient":9.05,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.26,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":26909.960817962055,"NonCrit Effective Power":9032.660809066125,"Power DPS":35178.78974854878,"Phantasm Effective Power":12207.562129166667,"Power2 DPS":5589.060982510268,"Siphon DPS":139.75,"Bleeding Damage":125.01362499999999,"Bleeding Stacks":9.05,"Bleeding DPS":1131.37330625,"Burning Damage":369.070075,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":123.222385,"Confusion Stacks":0.26,"Confusion DPS":32.037820100000005,"Poison Damage":117.17694999999999,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":148.22511,"Torment Stacks":0,"Torment DPS":0,"Damage":42071.011857409045,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30687,"weapon1MainType":"Dagger","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49432,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":49432,"weapon2MainId":30689,"weapon2MainType":"Greatsword","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":49432,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Assassin","accessory1InfusionId":49432,"accessory2Affix":"Assassin","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21750,"utility1Id":10267,"utility2Id":45425,"utility3Id":10211,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[2208,2205,2223]],"lines":[10,1,66]}}'>
+
+For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+
+</CharacterWithAr>
 
 </Advanced>
 
@@ -42,409 +55,18 @@ The advanced page provides a more complete overview of all the utilities the <Sp
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Beginner Virtuoso" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-"Agony Resistance": 162,
-"Armor": 2210,
-"Bleeding Coefficient": 9.041380952380953,
-"Bleeding DPS": 1130.2958078630952,
-"Bleeding Damage": 125.01362499999999,
-"Bleeding Stacks": 9.041380952380953,
-"Boon Duration": 0.162,
-"Burning Coefficient": 0,
-"Burning DPS": 0,
-"Burning Damage": 369.070075,
-"Burning Stacks": 0,
-"Clone Critical Chance": 0.599047619047619,
-"Concentration": 243,
-"Condition Damage": 750,
-"Condition Duration": 0,
-"Confusion Coefficient": 0.26,
-"Confusion DPS": 32.037820100000005,
-"Confusion Damage": 123.222385,
-"Confusion Stacks": 0.26,
-"Critical Chance": 0.999047619047619,
-"Critical Damage": 2.467233333333333,
-"Damage": 43406.27414029679,
-"Effective Healing": 390,
-"Effective Health": 91047601.99004976,
-"Effective Power": 28039.75206739554,
-"Expertise": 0,
-"Ferocity": 1450.85,
-"Flat DPS": 0,
-"Healing": 390,
-"Healing Power": 0,
-"Health": 20702,
-"NonCrit Effective Power": 9417.847896095389,
-"Phantasm Critical Chance": 0.999047619047619,
-"Phantasm Critical Damage": 2.467233333333333,
-"Phantasm Effective Power": 11888.719891440476,
-"Poison Coefficient": 0,
-"Poison DPS": 0,
-"Poison Damage": 117.17694999999999,
-"Poison Stacks": 0,
-"Power": 3354,
-"Power Coefficient": 3395,
-"Power DPS": 36655.74057327989,
-"Power2 Coefficient": 1189,
-"Power2 DPS": 5443.083539053803,
-"Precision": 2153,
-"Siphon Base Coefficient": 139.75,
-"Siphon DPS": 145.1164,
-"Survivability": 46287.545495704,
-"Torment Coefficient": 0,
-"Torment DPS": 0,
-"Torment Damage": 148.22511,
-"Torment Stacks": 0,
-"Toughness": 1243,
-"Vitality": 1478
-  },
-  "runeId": 24723,
-  "runeName": "Eagle",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-      "weapon1MainType": "Dagger",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-  "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443
-    },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 45425,
-    "utility2Id": 10211,
-    "utility3Id": 10267,
-    "elite": "Signet of Humility"
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
-}}>
+<Character title="Power Virtuoso" gear='{"attributes":{"profession":"Mesmer","specialization":"Virtuoso","data":{"Health":20522,"Armor":2192,"Power":3352,"Precision":2155,"Toughness":1225,"Vitality":1460,"Ferocity":1450.85,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.467233333333333,"Clone Critical Chance":0.6000000000000001,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.467233333333333,"Power Coefficient":3395,"Power2 Coefficient":1189,"Burning Coefficient":0,"Bleeding Coefficient":9.05,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.26,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":28040.773349254916,"NonCrit Effective Power":9412.232005877084,"Power DPS":36657.07567220656,"Phantasm Effective Power":11888.363816666664,"Power2 DPS":5442.920515216274,"Siphon DPS":139.75,"Bleeding Damage":125.01362499999999,"Bleeding Stacks":9.05,"Bleeding DPS":1131.37330625,"Burning Damage":369.070075,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":123.222385,"Confusion Stacks":0.26,"Confusion DPS":32.037820100000005,"Poison Damage":117.17694999999999,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":148.22511,"Torment Stacks":0,"Torment DPS":0,"Damage":43403.15731377284,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30687,"weapon1MainType":"Dagger","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49431,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffInfusionId":49431,"weapon2MainId":30689,"weapon2MainType":"Greatsword","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":49431,"weapon2MainInfusion2Id":49431,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":49431,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Assassin","accessory1InfusionId":49432,"accessory2Affix":"Assassin","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21750,"utility1Id":10267,"utility2Id":45425,"utility3Id":10211,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[2208,2205,2223]],"lines":[10,1,66]}}'>
 
 For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-
 </Character>
 
 </CharacterWithAr>
 
 </Beginner>
 
-<Advanced>
-
 <Divider text="Equipment"/>
-
-<CharacterWithAr>  
-
-<Character title="Power Virtuoso (Eagle)" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Agony Resistance": 162,
-    "Armor": 2210,
-    "Bleeding Coefficient": 9.05,
-    "Bleeding DPS": 1131.37330625,
-    "Bleeding Damage": 125.01362499999999,
-    "Bleeding Stacks": 9.05,
-    "Boon Duration": 0.162,
-    "Burning Coefficient": 0,
-    "Burning DPS": 0,
-    "Burning Damage": 369.070075,
-    "Burning Stacks": 0,
-    "Clone Critical Chance": 0.6000000000000001,
-    "Concentration": 243,
-    "Condition Damage": 750,
-    "Condition Duration": 0,
-    "Confusion Coefficient": 0.26,
-    "Confusion DPS": 32.037820100000005,
-    "Confusion Damage": 123.222385,
-    "Confusion Stacks": 0.26,
-    "Critical Chance": 1,
-    "Critical Damage": 2.467233333333333,
-    "Damage": 44538.89353980745,
-    "Effective Healing": 390,
-    "Effective Health": 91047601.99004976,
-    "Effective Power": 28793.658075219395,
-    "Expertise": 0,
-    "Ferocity": 1450.85,
-    "Flat DPS": 0,
-    "Healing": 390,
-    "Healing Power": 0,
-    "Health": 20702,
-    "NonCrit Effective Power": 9664.947065700753,
-    "Phantasm Critical Chance": 1,
-    "Phantasm Critical Damage": 2.467233333333333,
-    "Phantasm Effective Power": 12207.562129166667,
-    "Poison Coefficient": 0,
-    "Poison DPS": 0,
-    "Poison Damage": 117.17694999999999,
-    "Poison Stacks": 0,
-    "Power": 3442,
-    "Power Coefficient": 3395,
-    "Power DPS": 37641.30503094719,
-    "Power2 Coefficient": 1189,
-    "Power2 DPS": 5589.060982510268,
-    "Precision": 2155,
-    "Siphon Base Coefficient": 139.75,
-    "Siphon DPS": 145.1164,
-    "Survivability": 46287.545495704,
-    "Torment Coefficient": 0,
-    "Torment DPS": 0,
-    "Torment Damage": 148.22511,
-    "Torment Stacks": 0,
-    "Toughness": 1243,
-    "Vitality": 1478
-    
-  },
-  "runeId": 24723,
-  "runeName": "Eagle",
-  "infusions": [
-    37132,
-    37132,
-    37132,
-    37132,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-      "weapon1MainType": "Dagger",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-  "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 45425,
-    "utility2Id": 10211,
-    "utility3Id": 10267,
-    "elite": "Signet of Humility"
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
-}}>
-
-For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
-
-This setup uses 4 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-
-</Character>
-
-<Character title="Power Virtuoso (Scholar)" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Agony Resistance": 162,
-    "Armor": 2210,
-    "Bleeding Coefficient": 9.05,
-    "Bleeding DPS": 1131.37330625,
-    "Bleeding Damage": 125.01362499999999,
-    "Bleeding Stacks": 9.05,
-    "Boon Duration": 0.162,
-    "Burning Coefficient": 0,
-    "Burning DPS": 0,
-    "Burning Damage": 369.070075,
-    "Burning Stacks": 0,
-    "Clone Critical Chance": 0.6000000000000001,
-    "Concentration": 243,
-    "Condition Damage": 750,
-    "Condition Duration": 0,
-    "Confusion Coefficient": 0.26,
-    "Confusion DPS": 32.037820100000005,
-    "Confusion Damage": 123.222385,
-    "Confusion Stacks": 0.26,
-    "Critical Chance": 1,
-    "Critical Damage": 2.467233333333333,
-    "Damage": 44538.89353980745,
-    "Effective Healing": 390,
-    "Effective Health": 91047601.99004976,
-    "Effective Power": 28793.658075219395,
-    "Expertise": 0,
-    "Ferocity": 1450.85,
-    "Flat DPS": 0,
-    "Healing": 390,
-    "Healing Power": 0,
-    "Health": 20702,
-    "NonCrit Effective Power": 9664.947065700753,
-    "Phantasm Critical Chance": 1,
-    "Phantasm Critical Damage": 2.467233333333333,
-    "Phantasm Effective Power": 12207.562129166667,
-    "Poison Coefficient": 0,
-    "Poison DPS": 0,
-    "Poison Damage": 117.17694999999999,
-    "Poison Stacks": 0,
-    "Power": 3442,
-    "Power Coefficient": 3395,
-    "Power DPS": 37641.30503094719,
-    "Power2 Coefficient": 1189,
-    "Power2 DPS": 5589.060982510268,
-    "Precision": 2155,
-    "Siphon Base Coefficient": 139.75,
-    "Siphon DPS": 145.1164,
-    "Survivability": 46287.545495704,
-    "Torment Coefficient": 0,
-    "Torment DPS": 0,
-    "Torment Damage": 148.22511,
-    "Torment Stacks": 0,
-    "Toughness": 1243,
-    "Vitality": 1478
-    
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37132,
-    37132,
-    37132,
-    37132,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-      "weapon1MainType": "Dagger",
-      "weapon1MainSigil1": "Force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "Impact",
-      "weapon2MainType": "Greatsword",
-      "weapon2MainSigil1": "Force",
-      "weapon2MainSigil2": "Impact"
-    },
-  "consumables": {
-      "foodId": 91805,
-      "utilityId": 9443,
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 45425,
-    "utility2Id": 10211,
-    "utility3Id": 10267,
-    "elite": "Signet of Humility"
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, {"id": "Might", "type": "Boon"}, {"id": "Fury", "type": "Boon"}, {"id": "Protection", "type": "Boon"}, {"id": "Vulnerability", "type": "Condition"}]
-}}>
-
-For fractals due to <Effect name="Exposed"/>, it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid and strike build using <Item id="24618"/> is also great to run.
-
-This setup uses 4 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
-
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-
-</Character>
-
-
-</CharacterWithAr>
-
-</Advanced>
 
 <Divider text="Build"/>
 
@@ -452,9 +74,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 <Card title="Extra Weapons">
 
-- You can run Sword/Focus instead of Greatsword. This will result in lower burst damage but slightly higher sustained damage. Therefore, it can make sense to run this version when bosses have long phases. Above 10 seconds into the phase, they will be roughly equal, at 25 seconds, the Sword/Focus variant will pull ahead slightly.
+- You can run Sword/Focus instead of Greatsword. This variant is very useful to use in T4 fractals to pull groups of enemies together with <Skill name="Temporal Curtain"/> to cleave them down more easily.
 - If you want to run one variant on all fights, Greatsword is highly recommended.
-- Focus specifically is very useful to use in T4 fractals to pull groups of enemies together with <Skill name="Temporal Curtain"/> to cleave them down more easily.
 
 <Advanced>
 
@@ -484,9 +105,7 @@ You can go this Illusions variant over the Domination traitline when you're faci
 
 Utilize Mirage for skips!
 
-<p>
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
-</p>
 
 <Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment" unembossed/>
 
@@ -528,11 +147,12 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 |                                                                |                                                                                                                                                                                            |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
+| <Skill name="Sword of Decimation" size="big" disableText/>     | An alternative for <Skill name="Phantasmal Disenchanter"/> on fights with <Effect name="Exposed"/>, and phases that are too quick to use it.                                               |
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                               |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                              
-| <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                               |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
+| <Skill name="Feedback" size="big" disableText/>                | USed fore reflects on bosses such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect lasers.                                                                                          |
+| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
 | **Skips**                                                      |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
 | <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |
@@ -542,19 +162,19 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |
 | <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                        |
+| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
 </Advanced>
 
 </Card>
 </GridItem>
+
 </Grid>
 
 <Advanced>
 <Divider text="Details"/>
 
 <Grid>
-
 <GridItem sm="8">
 <Card title="Skill priority">
 
@@ -611,13 +231,11 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 <Card title="Step by Step Begginer Rotation">
 
-
 **Step 1: Opener**
 
 We'll start with the basic dagger/sword opener.
 
 1. Start on Dagger/Sword and use <Skill name="Unstable Bladestorm"/>,<Skill name="Bladecall"/>,<Skill name="Phantasmal Swordsman"/>, then swap to Greatsword.
-
 
 **Step 2: Signet of Ether**
 
@@ -628,8 +246,8 @@ Next ,we will start with the basic loops. This is the backbone of the rotation a
 3. Reset your cooldowns with <Skill name="Signet of the Ether"/> and cast <Skill name="Phantasmal Berserker"/> -> <Skill name="Phantasmal Disenchanter"/>.
 4. Wait on Greatsword until you can cast one more <Skill name="Phantasmal Berserker"/>, then swap to Dagger/Sword.
 5. Use <Skill name="Phantasmal Swordsman"/> right away.
-7. Wait for  <Skill name="Phantasmal Swordsman"/> and then swap back to Greatsword.
-8. Repeat from Step 2. 
+6. Wait for <Skill name="Phantasmal Swordsman"/> and then swap back to Greatsword.
+7. Repeat from Step 2.
 
 **Step 3: Weapon Skills**
 
@@ -638,11 +256,11 @@ In Step 3, we will incorporate other Weapon Skills. We will add multiple skills 
 1. Do Step 1.
 2. Do <Skill name="Phantasmal Berserker"/> -> <Skill name="Phantasmal Disenchanter"/> -> <Skill name="Signet of the Ether"/> from Step 2.
 3. Use <Skill name="Phantasmal Berserker"/> -> <Skill name="Mind Stab"/> -> <Skill name="Mirror Blade"/>.
-4. Wait until <Skill name="Mirror Blade"/> off cooldown and cast it 
+4. Wait until <Skill name="Mirror Blade"/> off cooldown and cast it
 5. End your Greatsword loop with <Skill name="Mind Stab"/> -> <Skill name="Phantasmal Berserker"/> -> <Skill name="Mirror Blade"/>
 6. Weapon Swap
-7. Start you Dagger/Sword loop with  <Skill name="Unstable bladestorm"/> -> <Skill name="Phantasmal Swordsman"/> -> <Skill name="Bladecall"/>.
-8. Wait until <Skill name="Bladecall"/> off cooldown and cast it 
+7. Start you Dagger/Sword loop with <Skill name="Unstable bladestorm"/> -> <Skill name="Phantasmal Swordsman"/> -> <Skill name="Bladecall"/>.
+8. Wait until <Skill name="Bladecall"/> off cooldown and cast it
 9. End your Dagger/Sword loop with <Skill name="Unstable bladestorm"/> -> <Skill name="Bladecall"/> -> <Skill name="Phantasmal Swordsman"/>
 
 **Step 4: F1 Shatter**
@@ -664,34 +282,10 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 - Cast <Skill name="Rain of Swords"/> at the start of the fight and then use it off-cooldown.
 - Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant cast and can therefore be used while casting other skills.
 
-
 </Card>
-
-<Card title="Improving Further">
-
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
-
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
-
-The additional steps are:
-
-- Use other Shatter skills (F2/F3) for extra damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to always have 5 Blades back for when your <Skill name="Bladesong Harmony"/> comes back.
-- Precast additional skills before the encounter starts to get a bigger spike of damage at the start of the fight.
-
-</Card>
-
 </Beginner>
 
 <Advanced>
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
-
-They do however benefit from <Effect name="Exposed"/>.
-</Card>
-
 <Card title="Precasting">
 
 At the Mistlock Singularity
@@ -727,8 +321,33 @@ This video shows the full rotation for the Greatsword variant on the golem.
 <Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
 </Card>
 
+<Beginner>
+
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+The additional steps are:
+
+- Use other Shatter skills (F2/F3) for extra damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to always have 5 Blades back for when your <Skill name="Bladesong Harmony"/> comes back.
+- Precast additional skills before the encounter starts to get a bigger spike of damage at the start of the fight.
+
+</Card>
+
+</Beginner>
 
 <Advanced>
+<Card title="Information">
+
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+
+They do however benefit from <Effect name="Exposed"/>.
+</Card>
+
 <Card title="Opener">
 
 There is a basic fractal opener, you will need to adapt this depending on the boss and cooldowns.

@@ -30,14 +30,14 @@ boons:
   - name: Protection
     variant: Party
     uptime: 100%
-code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 2
   - 2
   - 1
   - 2
-date: 2022-08-06T13:59:24.184Z
+date: '2023-04-04T13:59:24.184Z'
 ---
 
 <Warning>
@@ -53,134 +53,7 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="Heal Alacrity Mechanist" gear={{
-  "profession": "Engineer",
-  "weight": "medium",
-  "gear": [
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Harrier",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel",
-    "Minstrel"
-  ],
-  "attributes": {
-    "Health": 24782,
-    "Armor": 3140,
-    "Power": 2189,
-    "Precision": 1000,
-    "Toughness": 2022,
-    "Vitality": 1886,
-    "Ferocity": 0,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 1276,
-    "Healing Power": 1727,
-    "Agony Resistance": 150,
-    "Condition Duration": 0,
-    "Boon Duration": 1.0006666666666666,
-    "Critical Chance": 0.3,
-    "Critical Damage": 1.5,
-    "Power Coefficient": 0,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 0,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Outgoing Healing": 0.5535000000000001,
-    "Effective Power": 3618.6906249999997,
-    "Power DPS": 0,
-    "Power2 DPS": 0,
-    "Siphon DPS": 0,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 0,
-    "Burning DPS": 0,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 0,
-    "Effective Health": 184221599.59185752,
-    "Survivability": 93656.12587283047,
-    "Effective Healing": 1410.7333500000002,
-    "Healing": 1410.7333500000002
-  },
-  "runeId": 24842,
-  "runeName": "Monk",
-  "infusions": [
-    49430,
-    49430,
-    49430,
-    49430,
-    49430,
-    49430,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-    "weapon1MainType": "Mace",
-    "weapon1MainSigil1Id": 74326,
-    "weapon1OffType": "Shield",
-    "weapon1OffSigilId": 24639
-  },
-  "consumables": {
-    "foodId": 91690,
-    "utilityId": 67528,
-    "infusion": "Healing +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 5802,
-    "utility2Id": 5933,
-    "utility3Id": 63262,
-    "eliteId": 30800
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    }
-  ]
-}}>
+<Character title="Heal Alacrity Mechanist" gear='{"attributes":{"profession":"Engineer","specialization":"Mechanist","data":{"Health":24782,"Armor":3140,"Power":2189,"Precision":1000,"Toughness":2022,"Vitality":1886,"Ferocity":0,"Condition Damage":750,"Expertise":0,"Concentration":1276,"Healing Power":1727,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1.0006666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Outgoing Healing":0.5535000000000001,"Effective Power":3776.0249999999996,"NonCrit Effective Power":3283.5,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":184221599.59185752,"Survivability":93656.12587283047,"Effective Healing":1410.7333500000002,"Healing":1410.7333500000002}},"armor":{"weight":"Medium","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Minstrel","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Minstrel","weapon1OffInfusionId":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":24615},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528},"skills":{"healId":5802,"utility1Id":"","utility2Id":5933,"utility3Id":63262,"eliteId":30800},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[394,1834,1916],[521,470,473],[2296,2276,2281]],"lines":[47,29,70]}}'>
 
 Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="boon duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -203,16 +76,16 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem sm="6">
 <Card title="Common Utility Skills">
 
-|                                                               |                                                                                                                     |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                    |
-| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase,                               |
-| <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/> |
-| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                       |
-| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                    |
-| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                            |
-| <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                      |
-| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                  |
+|                                                               |                                                                                                                                                             |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                                                            |
+| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase, |
+| <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/>                                         |
+| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                                                               |
+| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                                                            |
+| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                                                                    |
+| <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                                                              |
+| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                                                          |
 
 </Card>
 

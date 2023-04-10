@@ -22,15 +22,15 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQkOHQMuPzrcEQAABhIAACsSAADUEQAAyhEAAAQFAAArEgYS1BEAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 4
   - 3
   - 4
   - 3
   - 5
-date: 2022-08-15T12:44:14.714Z
+date: '2023-04-06T12:51:46.902Z'
 ---
 
 <Warning>
@@ -45,438 +45,39 @@ Condi <Specialization name="Renegade"/> is pretty independent due to its rather 
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr>  
-<Character title="80% BD, 162 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Viper",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Viper",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist"
-  ],
-  "attributes": {
-    "Health": 31192,
-    "Armor": 2550,
-    "Power": 1946,
-    "Precision": 1122,
-    "Toughness": 1279,
-    "Vitality": 2527,
-    "Ferocity": 36,
-    "Condition Damage": 2369,
-    "Expertise": 739,
-    "Concentration": 826,
-    "Healing Power": 36,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.7426666666666666,
-    "Boon Duration": 0.8006666666666667,
-    "Critical Chance": 0.6880952380952381,
-    "Critical Damage": 1.524,
-    "Power Coefficient": 1928,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 5.15,
-    "Bleeding Coefficient": 14.69,
-    "Poison Coefficient": 1.97,
-    "Torment Coefficient": 16.64,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.25,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 4674.4321954,
-    "Power DPS": 3470.2754226920288,
-    "Power2 DPS": 0,
-    "Siphon DPS": 163.50750000000002,
-    "Bleeding Damage": 338.53875,
-    "Bleeding Stacks": 29.27227333333333,
-    "Bleeding DPS": 9909.798823924999,
-    "Burning Damage": 822.0217500000001,
-    "Burning Stacks": 8.974733333333333,
-    "Burning DPS": 7377.426000450001,
-    "Confusion Damage": 320.53065000000004,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 289.806,
-    "Poison Stacks": 3.433053333333333,
-    "Poison DPS": 994.9194543199999,
-    "Torment Damage": 444.69315000000006,
-    "Torment Stacks": 28.997973333333334,
-    "Torment DPS": 12895.200105216001,
-    "Damage": 34811.127306603026,
-    "Effective Health": 158287761.19402987,
-    "Survivability": 80471.66303712754,
-    "Effective Healing": 400.8,
-    "Healing": 400.8
-  },
-  "runeId": 70600,
-  "runeName": "Leadership",
-  "infusions": [
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130
-  ],
-    "weapons": {
-      "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
-      "weapon1OffType": "Axe",
-      "weapon1OffSigil": "geomancy",
-      "weapon2MainType": "Short Bow",
-      "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "geomancy"
-    },
-    "consumables": {
-      "foodId": 91878,
-      "utilityId": 81079,
-      "infusion": "Malign +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendarydemonstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/). 
-
-If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
-
-If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
-
-If <Instability name="No Pain No Gain"/> is present you may find it beneficial to run <Item id="72872"/> on your Axe to help boonstrip. <Skill name="Banish Enchantment"/> is also a DPS increase over you and your party losing damage to <Boon name="Protection"/> and <Boon name="Resolution"/>.
-</Character>  
-<Character title="80% BD, 222 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Ritualist",
-    "Viper",
-    "Ritualist",
-    "Ritualist"
-  ],
-  "attributes": {
-    "Health": 33172,
-    "Armor": 2640,
-    "Power": 1838,
-    "Precision": 1063,
-    "Toughness": 1369,
-    "Vitality": 2725,
-    "Ferocity": 36,
-    "Condition Damage": 2342,
-    "Expertise": 669,
-    "Concentration": 975,
-    "Healing Power": 36,
-    "Agony Resistance": 222,
-    "Condition Duration": 0.796,
-    "Boon Duration": 0.8,
-    "Critical Chance": 0.66,
-    "Critical Damage": 1.524,
-    "Power Coefficient": 1928,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 5.15,
-    "Bleeding Coefficient": 14.69,
-    "Poison Coefficient": 1.97,
-    "Torment Coefficient": 16.64,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.25,
-    "Torment Duration": 0.15,
-    "Effective Power": 4367.23599576,
-    "Power DPS": 3242.21447817685,
-    "Power2 DPS": 0,
-    "Siphon DPS": 0,
-    "Bleeding Damage": 335.1975,
-    "Bleeding Stacks": 29.38,
-    "Bleeding DPS": 9848.10255,
-    "Burning Damage": 815.1165000000001,
-    "Burning Stacks": 9.249400000000001,
-    "Burning DPS": 7539.338555100002,
-    "Confusion Damage": 317.45670000000007,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 287.133,
-    "Poison Stacks": 3.53812,
-    "Poison DPS": 1015.91100996,
-    "Torment Damage": 440.2827000000001,
-    "Torment Stacks": 32.381440000000005,
-    "Torment DPS": 14256.987833088006,
-    "Damage": 35902.55442632486,
-    "Effective Health": 174276776.119403,
-    "Survivability": 88600.29289242654,
-    "Effective Healing": 400.8,
-    "Healing": 400.8
-  },
-  "runeId": 24691,
-  "runeName": "Traveler",
-  "infusions": [
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130
-  ],
-    "weapons": {
-      "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
-      "weapon1OffType": "Axe",
-      "weapon1OffSigil": "geomancy",
-      "weapon2MainType": "Short Bow",
-      "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "geomancy"
-    },
-    "consumables": {
-      "foodId": 95942,
-      "utilityId": 81079,
-      "infusion": "Malign +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendarydemonstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<CharacterWithAr>
+<Character title="150 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":26012,"Armor":2496,"Power":2374,"Precision":1333,"Toughness":1225,"Vitality":2009,"Ferocity":0,"Condition Damage":2497,"Expertise":703,"Concentration":525,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.9186666666666667,"Boon Duration":0.35,"Critical Chance":0.7885714285714286,"Critical Damage":1.5,"Power Coefficient":1945.2625,"Power2 Coefficient":0,"Burning Coefficient":5.15,"Bleeding Coefficient":19.669999999999998,"Poison Coefficient":1.97,"Torment Coefficient":16.64,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.25,"Siphon Base Coefficient":139.75,"Effective Power":6144.251142857144,"NonCrit Effective Power":4406.737500000001,"Power DPS":4602.303172422852,"Power2 DPS":0,"Siphon DPS":167.70000000000002,"Bleeding Damage":362.4328125,"Bleeding Stacks":39.339999999999996,"Bleeding DPS":14258.10684375,"Burning Damage":874.1840625000001,"Burning Stacks":9.881133333333334,"Burning DPS":8637.929279437501,"Confusion Damage":342.71943749999997,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":309.35249999999996,"Poison Stacks":3.7797733333333334,"Poison DPS":1169.2823300999999,"Torment Damage":476.1838125,"Torment Stacks":31.926613333333336,"Torment DPS":15202.93645728,"Damage":44038.25808299035,"Effective Health":129205874.62686568,"Survivability":65686.76900196527,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Ritualist","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Ritualist","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Ritualist","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Ritualist","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30686,"weapon2MainType":"Short Bow","weapon2MainSigil1Id":48911,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Ritualist","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917},"legends":{"legend1Id":28494,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1793,1714,1795],[1761,1781,1791],[2079,2092,2182]],"lines":[14,3,63]}}'>
 
 For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/).
 
-If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
-
-<Item id="91878"/> can also be used instead of <Item name="Meaty Asparagus Skewer"/>. The difference between is minimal.
-
-If <Instability name="No Pain No Gain"/> is present you may find it beneficial to run <Item id="72872"/> on your Axe to help boonstrip. <Skill name="Banish Enchantment"/> is also a DPS increase over you and your party losing damage to <Boon name="Protection"/> and <Boon name="Resolution"/>.
-
-</Character>
-
-<Character title="Condi DPS" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper"
-  ],
-  "attributes": {
-    "Health": 20702,
-    "Armor": 2514,
-    "Power": 3013,
-    "Precision": 1633,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 0,
-    "Condition Damage": 2435,
-    "Expertise": 703,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.9186666666666667,
-    "Boon Duration": 0.162,
-    "Critical Chance": 0.9314285714285715,
-    "Critical Damage": 1.5,
-    "Power Coefficient": 2122,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 5.24,
-    "Bleeding Coefficient": 14.2,
-    "Poison Coefficient": 1.83,
-    "Torment Coefficient": 17.87,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.25,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 8092.129239642859,
-    "Power DPS": 6612.05169292343,
-    "Power2 DPS": 0,
-    "Siphon DPS": 170.49500000000003,
-    "Bleeding Damage": 359.8390625,
-    "Bleeding Stacks": 28.4,
-    "Bleeding DPS": 10219.429375,
-    "Burning Damage": 870.6778125000001,
-    "Burning Stacks": 10.053813333333334,
-    "Burning DPS": 8753.63220035,
-    "Confusion Damage": 340.47068750000005,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 307.565,
-    "Poison Stacks": 3.5111600000000003,
-    "Poison DPS": 1079.9099254,
-    "Torment Damage": 472.7270625000001,
-    "Torment Stacks": 34.28657333333334,
-    "Torment DPS": 16208.191095057506,
-    "Damage": 43043.70928873094,
-    "Effective Health": 103571797.01492539,
-    "Survivability": 52654.70107520356,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-    "runeId": 24848,
-    "runeName": "Nightmare",
-    "infusions": [
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130
-    ],
-    "weapons": {
-      "weapon1MainType": "Mace",
-      "weapon1MainSigil1": "earth",
-      "weapon1OffType": "Axe",
-      "weapon1OffSigil": "geomancy",
-      "weapon2MainType": "Short Bow",
-      "weapon2MainSigil1": "torment",
-      "weapon2MainSigil2": "geomancy"
-    },
-    "consumables": {
-      "foodId": 91878,
-      "utility": "toxic-focusing-crystal",
-      "infusion": "Malign +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendarydemonstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-If you have another class in your party that can provide some <Boon name="Alacrity" /> like a <Specialization name="Renegade" />, <Specialization name="Specter" /> or <Specialization name="Mirage" />, you can play Condi DPS Renegade and provide ~65% <Boon name="Alacrity" /> with <Trait name="righteousrebel" /> or ~43% with <Trait name="lastinglegacy" />.
+If you have another class in your party that can provide some <Boon name="Alacrity"/> like a <Specialization name="Renegade"/>, <Specialization name="Specter"/> or <Specialization name="Mirage"/>, you can play Condi DPS Renegade and provide ~57% <Boon name="Alacrity"/> uptime with <Trait name="lastinglegacy"/> and 15% Boon Duration.
 
 If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 
-If <Instability name="No Pain No Gain"/> is present you may find it beneficial to run <Item id="72872"/> on your Axe to help boonstrip. <Skill name="Banish Enchantment"/> is also a DPS increase over you and your party losing damage to <Boon name="Protection"/> and <Boon name="Resolution"/>.
+</Character>  
+<Character title="162 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":25902,"Armor":2514,"Power":2403,"Precision":1351,"Toughness":1243,"Vitality":1998,"Ferocity":0,"Condition Damage":2499,"Expertise":703,"Concentration":525,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0.9186666666666667,"Boon Duration":0.35,"Critical Chance":0.7971428571428572,"Critical Damage":1.5,"Power Coefficient":1945.2625,"Power2 Coefficient":0,"Burning Coefficient":5.15,"Bleeding Coefficient":19.669999999999998,"Poison Coefficient":1.97,"Torment Coefficient":16.64,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.25,"Siphon Base Coefficient":139.75,"Effective Power":6238.424008928573,"NonCrit Effective Power":4460.568750000001,"Power DPS":4672.842619818413,"Power2 DPS":0,"Siphon DPS":167.70000000000002,"Bleeding Damage":362.6859375,"Bleeding Stacks":39.339999999999996,"Bleeding DPS":14268.06478125,"Burning Damage":874.7071875,"Burning Stacks":9.881133333333334,"Burning DPS":8643.098347312502,"Confusion Damage":342.95231250000006,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":309.555,"Poison Stacks":3.7797733333333334,"Poison DPS":1170.0477342000001,"Torment Damage":476.5179375,"Torment Stacks":31.926613333333336,"Torment DPS":15213.603936960002,"Damage":44135.35741954092,"Effective Health":129587319.4029851,"Survivability":65880.69110472043,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Ritualist","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Ritualist","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Ritualist","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30686,"weapon2MainType":"Short Bow","weapon2MainSigil1Id":48911,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Ritualist","accessory1InfusionId":37130,"accessory2Affix":"Ritualist","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917},"legends":{"legend1Id":28494,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1793,1714,1795],[1761,1781,1791],[2079,2092,2182]],"lines":[14,3,63]}}'>
+
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/).
+
+If you have another class in your party that can provide some <Boon name="Alacrity"/> like a <Specialization name="Renegade"/>, <Specialization name="Specter"/> or <Specialization name="Mirage"/>, you can play Condi DPS Renegade and provide ~57% <Boon name="Alacrity"/> uptime with <Trait name="lastinglegacy"/> and 15% Boon Duration.
+
+If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
+
+</Character>
+<Character title="222 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":25102,"Armor":2604,"Power":2573,"Precision":1441,"Toughness":1333,"Vitality":1918,"Ferocity":0,"Condition Damage":2506,"Expertise":703,"Concentration":525,"Healing Power":0,"Agony Resistance":222,"Condition Duration":0.9186666666666667,"Boon Duration":0.35,"Critical Chance":0.84,"Critical Damage":1.5,"Power Coefficient":1945.2625,"Power2 Coefficient":0,"Burning Coefficient":5.15,"Bleeding Coefficient":19.669999999999998,"Poison Coefficient":1.97,"Torment Coefficient":16.64,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.25,"Siphon Base Coefficient":139.75,"Effective Power":6782.106375000001,"NonCrit Effective Power":4776.131250000001,"Power DPS":5080.083635848457,"Power2 DPS":0,"Siphon DPS":167.70000000000002,"Bleeding Damage":363.571875,"Bleeding Stacks":39.339999999999996,"Bleeding DPS":14302.917562499997,"Burning Damage":876.5381250000002,"Burning Stacks":9.881133333333334,"Burning DPS":8661.190084875003,"Confusion Damage":343.767375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":310.26374999999996,"Poison Stacks":3.7797733333333334,"Poison DPS":1172.72664855,"Torment Damage":477.687375,"Torment Stacks":31.926613333333336,"Torment DPS":15250.94011584,"Damage":44635.55804761346,"Effective Health":130080811.94029853,"Survivability":66131.5769904924,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Ritualist","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Ritualist","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Ritualist","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30686,"weapon2MainType":"Short Bow","weapon2MainSigil1Id":48911,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917},"legends":{"legend1Id":28494,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1793,1714,1795],[1761,1781,1791],[2079,2092,2182]],"lines":[14,3,63]}}'>
+
+For more variations to suit your needs/Agony Resistance check our [Gear Optimizer](https://optimizer.discretize.eu/).
+
+If you have another class in your party that can provide some <Boon name="Alacrity"/> like a <Specialization name="Renegade"/>, <Specialization name="Specter"/> or <Specialization name="Mirage"/>, you can play Condi DPS Renegade and provide ~57% <Boon name="Alacrity"/> uptime with <Trait name="lastinglegacy"/> and 15% Boon Duration.
+
+If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
+
+</Character>
+<Character title="DPS/Alac Share" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":20522,"Armor":2496,"Power":2922,"Precision":1633,"Toughness":1225,"Vitality":1460,"Ferocity":0,"Condition Damage":2521,"Expertise":703,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.9186666666666667,"Boon Duration":0.15,"Critical Chance":0.9314285714285715,"Critical Damage":1.5,"Power Coefficient":2028.2625,"Power2 Coefficient":0,"Burning Coefficient":4.48,"Bleeding Coefficient":19.459999999999997,"Poison Coefficient":4.07,"Torment Coefficient":18.32,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.25,"Siphon Base Coefficient":143.00000000000003,"Effective Power":8244.423000000003,"NonCrit Effective Power":5624.85,"Power DPS":6438.9118232720475,"Power2 DPS":0,"Siphon DPS":178.75000000000006,"Bleeding Damage":379.0062500000001,"Bleeding Stacks":38.919999999999995,"Bleeding DPS":14750.923250000002,"Burning Damage":913.0712500000001,"Burning Stacks":8.595626666666668,"Burning DPS":7848.419585066668,"Confusion Damage":358.3107500000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":323.33000000000004,"Poison Stacks":7.808973333333334,"Poison DPS":2524.875347866667,"Torment Damage":497.9782500000001,"Torment Stacks":35.149973333333335,"Torment DPS":17503.922208080006,"Damage":49245.80221428539,"Effective Health":101936143.2835821,"Survivability":51823.153677469294,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30686,"weapon2MainType":"Short Bow","weapon2MainSigil1Id":48911,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917},"legends":{"legend1Id":28494,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1793,1714,1795],[1761,1781,1791],[2079,2092,2100]],"lines":[14,3,63]}}'>
+
+If you have another class in your party that can provide some <Boon name="Alacrity"/> like a <Specialization name="Renegade"/>, <Specialization name="Specter"/> or <Specialization name="Mirage"/>, you can play Condi DPS Renegade and provide ~57% <Boon name="Alacrity"/> uptime with <Trait name="lastinglegacy"/> and 15% Boon Duration.
+
+If you do not have access to <Item id="91878"/>, use <Item name="Meaty Asparagus Skewer"/> instead.
 
 </Character>
 
@@ -490,7 +91,6 @@ If <Instability name="No Pain No Gain"/> is present you may find it beneficial t
 </GridItem>
 
 <GridItem sm="5">
-
 <Card title="Situational Traits">
 
 - Take <Trait id="1774"/> if your <Boon name="Might"/> uptime is good enough without <Trait id="1781"/>.
@@ -509,7 +109,7 @@ If <Instability name="No Pain No Gain"/> is present you may find it beneficial t
 
 <Skill id="41858"/> skills:
 
-- <Skill id="45686"/>: self heal + pulsing area heal skill that can help <Skill id="12498"/> to stay alive
+- <Skill id="45686"/>: self heal + pulsing area heal skill
 - <Skill id="42949"/>: excellent damage source and applies a lot of <Condition name="Bleeding"/>
 - <Skill id="40485"/>: suboptimal on Condi <Specialization name="Renegade"/>, however, still a good source of <Condition name="Vulnerability"/>
 - <Skill id="41220"/>: very good CC skill that does a total of 600 break bar damage
@@ -517,7 +117,7 @@ If <Instability name="No Pain No Gain"/> is present you may find it beneficial t
 
 <Skill id="28494"/> skills:
 
-- <Skill id="27505"/>: Removes three boons from up to five unique enemies in a line and applies <Condition name="Chilled"/> on enemies hit. 
+- <Skill id="27505"/>: Removes three boons from up to five unique enemies in a line and applies <Condition name="Chilled"/> on enemies hit.
 - <Skill id="27917"/>: pretty good mobility skill that also does 150 breakbar damage
 - <Skill id="28287"/>: one of your most important damage skills as it applies a lot of <Condition name="Torment"/>
 
@@ -580,9 +180,7 @@ Do not use <Skill id="45537"/> right before a mechanic or any reason that would 
 <GridItem sm="6">
 <Card title="Information">
 
-<p>
 <Specialization name="Renegade" text="Condi Renegade"/>'s raid rotation is not super efficient in fractals due to the lack of time to ramp up with <Skill id="28494"/>, and the fact that you want to save skills you usually use while in <Skill id="41858"/> to CC or keep skills like <Skill name="Citadel Bombardment"/> for exposed phases.
-</p>
 
 You'll want to respect these rules :
 
@@ -606,7 +204,6 @@ You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off 
 <GridItem sm="6">
 <Card title="Precasting">
 
-
 1.  If you can get in combat prestack <Item id="24609"/>
 2.  <Skill name="ordersfromabove" />
 3.  Blast <Boon name="Might" /> with <Skill name="echoingeruption" /> or <Skill name="renewingwave" />
@@ -614,14 +211,14 @@ You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off 
 5.  <Skill name="ordersfromabove" />
 6.  Blast <Boon name="Might" /> with <Skill name="echoingeruption" /> or <Skill name="renewingwave" />
 7.  Swap to <Skill name="legendaryassassinstance" /> and cast <Skill name="enchanteddaggers" />
-8.  Swap back to <Skill name="legendaryrenegadestance" />. 
-In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boon-stripping.
+8.  Swap back to <Skill name="legendaryrenegadestance" />.
+    In [Sunqua Peak](/fractals/sunqua-peak) boons get stripped but unique buffs don't, and you can play around the boon-stripping.
 
-1.  If you can get in combat prestack <Item id="24609"/>
-2.  Be in <Skill name="legendaryassassinstance" /> and cast <Skill id="26937"/>
-3.  <Skill id="45537"/>
-4.  _UI Swap_ to <Skill id="28494"/>
-5.  Take the _Mistlock Singularity_
+9.  If you can get in combat prestack <Item id="24609"/>
+10. Be in <Skill name="legendaryassassinstance" /> and cast <Skill id="26937"/>
+11. <Skill id="45537"/>
+12. _UI Swap_ to <Skill id="28494"/>
+13. Take the _Mistlock Singularity_
 
 - If your group is fast enough you'll get some <Skill id="45537"/> ticks in combat, and the <Boon name="Alacrity"/> from those ticks won't get stripped.
 

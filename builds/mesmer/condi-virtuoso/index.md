@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Virtuoso
-code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
   - 4
   - 1
   - 3
-date: 2022-07-22T11:18:05.762Z
+date: '2023-04-04T11:18:05.762Z'
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -36,160 +36,13 @@ There are many different gear setups that work very similarly on <Specialization
 </Warning>
 
 <CharacterWithAr>
-<Character title="Condi Virtuoso" gear={{
-  "profession": "Mesmer",
-  "weight": "Light",
-  "gear": [
-    "Viper",
-    "Rampager",
-    "Viper",
-    "Rampager",
-    "Sinister",
-    "Rampager",
-    "Rampager",
-    "Rampager",
-    "Viper",
-    "Rampager",
-    "Rampager",
-    "Rampager",
-    "Viper",
-    "Viper"
-  ],
-  "attributes": {
-    "Health": 20702,
-    "Armor": 2210,
-    "Power": 2797,
-    "Precision": 2155,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 205.15,
-    "Condition Damage": 2605,
-    "Expertise": 451,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.30066666666666664,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 1.6367666666666667,
-    "Power Coefficient": 2806,
-    "Power DPS": 10238.111397819332,
-    "Power2 Coefficient": 883,
-    "Power2 DPS": 2492.111919028165,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.7,
-    "Effective Power": 9475.54358522338,
-    "Siphon DPS": 0,
-    "Bleeding Coefficient": 37.2325,
-    "Bleeding Damage": 322.9884447656251,
-    "Bleeding Stacks": 74.465,
-    "Bleeding DPS": 24051.334539472275,
-    "Burning Coefficient": 0.52,
-    "Burning Damage": 779.2788509531251,
-    "Burning Stacks": 0,
-    "Burning DPS": 0,
-    "Confusion Coefficient": 3.38,
-    "Confusion Damage": 305.43788637187504,
-    "Confusion Stacks": 4.396253333333333,
-    "Confusion DPS": 1342.7823260886435,
-    "Poison Coefficient": 0.22,
-    "Poison Damage": 275.72129175000003,
-    "Poison Stacks": 0.28614666666666666,
-    "Poison DPS": 78.89672856329001,
-    "Torment Coefficient": 8,
-    "Torment Damage": 385.77772996875007,
-    "Torment Stacks": 10.405333333333333,
-    "Torment DPS": 4014.1458729015008,
-    "Damage": 42217.3827838732,
-    "Effective Health": 91047601.99004976,
-    "Survivability": 46287.545495704,
-    "Effective Healing": 390,
-    "Healing": 390,
-    "Phantasm Critical Chance": 0.95,
-    "Phantasm Critical Damage": 1.7127666666666665,
-    "Phantasm Effective Power": 7329.574919270833
-  },
-  "runeId": 24762,
-  "runeName": "Krait",
-  "infusions": [
-    37132,
-    37132,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130
-  ],
-  "weapons": {
-    "weapon1MainType": "Dagger",
-    "weapon1MainSigil1Id": 24612,
-    "weapon1OffType": "Sword",
-    "weapon1OffSigilId": 24560,
-    "weapon2OffType": "Focus",
-    "weapon2OffSigilId": 24560
-  },
-  "consumables": {
-    "foodId": 12485,
-    "utilityId": 48917,
-    "infusion": "Malign +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 21750,
-    "utility1Id": 10247,
-    "utility2Id": 10232,
-    "utility3Id": 10234,
-    "eliteId": 29519
-  },
-  "assumedBuffs": [{ "type": "Item", "gw2id": 79722 }, { "type": "Item", "gw2id": 96613 }, 
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot-base",
-      "type": "Text"
-    },
-    {
-      "id": "jade-bot-per-tier",
-      "type": "Text"
-    }
-  ]
-}}>
+<Character title="Condi Virtuoso" gear='{"attributes":{"profession":"Mesmer","specialization":"Virtuoso","data":{"Health":20522,"Armor":2192,"Power":2800,"Precision":2156,"Toughness":1225,"Vitality":1460,"Ferocity":205.15,"Condition Damage":2605,"Expertise":448,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.2986666666666667,"Boon Duration":0.15,"Critical Chance":1.0004761904761905,"Critical Damage":1.6367666666666667,"Clone Critical Chance":0.6004761904761906,"Phantasm Critical Chance":1.0004761904761905,"Phantasm Critical Damage":1.6367666666666667,"Power Coefficient":2854,"Power2 Coefficient":896,"Burning Coefficient":0,"Bleeding Coefficient":37.72,"Poison Coefficient":0.2,"Torment Coefficient":8.28,"Confusion Coefficient":3.46,"Flat DPS":0,"Bleeding Duration":0.7,"Effective Power":9064.800869742188,"NonCrit Effective Power":4586.53125,"Power DPS":9961.856635442513,"Phantasm Effective Power":7160.854166666667,"Power2 DPS":2470.5911949685537,"Siphon DPS":0,"Bleeding Damage":335.873321484375,"Bleeding Stacks":75.38970666666665,"Bleeding DPS":25321.39118386606,"Burning Damage":805.9075961718751,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":317.2919729531251,"Confusion Stacks":4.493386666666667,"Confusion DPS":1425.715520707933,"Poison Damage":286.029193125,"Poison Stacks":0.2597333333333333,"Poison DPS":74.29131576099999,"Torment Damage":401.23958203125005,"Torment Stacks":10.752959999999998,"Torment DPS":4314.51317599875,"Damage":43568.35902674481,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":24762,"helmRune":"Krait","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Rampager","shouldersRuneId":24762,"shouldersRune":"Krait","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Rampager","coatRuneId":24762,"coatRune":"Krait","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Rampager","glovesRuneId":24762,"glovesRune":"Krait","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24762,"leggingsRune":"Krait","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Sinister","bootsRuneId":24762,"bootsRune":"Krait","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30687,"weapon1MainType":"Dagger","weapon1MainSigil1Id":24612,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":86098,"weapon1OffType":"Focus","weapon1OffSigilId":24560,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24560,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Rampager","ring1Affix":"Rampager","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Rampager","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Rampager","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":12485,"utilityId":48917},"skills":{"healId":21750,"utility1Id":10232,"utility2Id":10234,"utility3Id":10247,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[721,1690,733],[701,708,692],[2202,2205,2223]],"lines":[24,1,66]}}'>
 
 This is the default setup when using <Item type="Sigil" name="Agony"/>.
 
-This setup uses 2 x <Item id="37132"/> to [crit cap](/guides/crit-cap)!
-
 Check out the [gear optimizer](https://optimizer.discretize.eu/) for more variants.
 
-
-
-
 </Character>
-
 
 </CharacterWithAr>
 
@@ -217,9 +70,7 @@ Check out the [gear optimizer](https://optimizer.discretize.eu/) for more varian
 
 Utilize Mirage for skips!
 
-<p>
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
-</p>
 
 <Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment" unembossed/>
 
@@ -231,24 +82,24 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <GridItem sm="5">
 <Card title="Situational Skills">
 
-|                                                                |                                                                                                                                                                                            |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |
-| <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
-| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
-| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |                                                                                                                                                        |
-| <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
-| **Skips**                                                      |                                                                                                                                                                                            |
-| <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
-| <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |
-| <Skill name="Portal Entre" size="big" disableText/>            | For skipping sections of the fractal for your party.                                                                                                                                       |
-| <Skill name="Blink" size="big" disableText/>                   | 1200 range blink, use it for skips!                                                                                                                                                        |
-| <Skill name="Mass Invisibility" size="big" disableText/>       | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |
-| <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
-| <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+|                                                                |                                                                                                                                                                                            |     |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | A nice source of party-wide <Boon name="Stability"/>.                                                                                                                                      |     |
+| <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |     |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |     |
+| <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |     |
+| <Skill name="Feedback" size="big" disableText/>                | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |     |
+| <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |     |
+| **Skips**                                                      |                                                                                                                                                                                            |     |
+| <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |     |
+| <Skill name="Returning Edge" size="big" disableText/>          | Useable after <Skill name="Blade Leap"/> to return to your original location                                                                                                               |     |
+| <Skill name="Portal Entre" size="big" disableText/>            | For skipping sections of the fractal for your party.                                                                                                                                       |     |
+| <Skill name="Blink" size="big" disableText/>                   | 1200 range blink, use it for skips!                                                                                                                                                        |     |
+| <Skill name="Mass Invisibility" size="big" disableText/>       | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |     |
+| <Skill name="Well of Precognition" size="big" disableText/>    | Situational uses such as the Underground Facility door.                                                                                                                                    |     |
+| <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |     |
+| <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |     |
+| <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |     |
 
 </Card>
 </GridItem>
@@ -382,6 +233,5 @@ There is a basic opener used on the golem for sustained DPS, you will need to ad
 </Card>
 
 </GridItem>
-
 
 </Grid>

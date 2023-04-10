@@ -4,7 +4,6 @@ hidden: false
 archive: false
 rating: Meta
 role: Power Damage
-author: Casual Sophie - Jin Su Liang.9036
 profession: Revenant
 specialization: Renegade
 conditions:
@@ -17,15 +16,15 @@ boons:
   - name: Might
     uptime: 10 stacks
     variant: party
-code: "[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
-cmGuide: pug
+code: '[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]'
+cmGuide: static
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: 2022-08-01T11:28:14.600Z
+date: '2023-04-06T12:48:34.730Z'
 ---
 
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -37,265 +36,39 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 To see how the <Specialization name="Renegade"/> is played in Pick Up Groups refer to [Renegade CM guides](https://discretize.eu/cm-guides/revenant/power-renegade/pug/).
 
 <Divider text="Equipment"/>
-
 <CharacterWithAr>
-
-<Character title="80% BD - 162 AR" gear={{
-  "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Diviner",
-    "Assassin",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Diviner"
-  ],
-  "attributes": {
-    "Health": 20702,
-    "Armor": 2514,
-    "Power": 3661,
-    "Precision": 1687,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 969,
-    "Condition Damage": 500,
-    "Expertise": 0,
-    "Concentration": 1270,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.8466666666666667,
-    "Critical Chance": 0.9571428571428572,
-    "Critical Damage": 2.146,
-    "Power Coefficient": 3299,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.72,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 21898.376809424775,
-    "Power DPS": 27817.76861543794,
-    "Power2 DPS": 0,
-    "Siphon DPS": 173.98875,
-    "Bleeding Damage": 90.675,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 363.571875,
-    "Burning Stacks": 1.72,
-    "Burning DPS": 625.343625,
-    "Confusion Damage": 113.866875,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 110.72812499999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 133.92,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 28617.100990437943,
-    "Effective Health": 103571797.01492539,
-    "Survivability": 52654.70107520356,
-    "Effective Healing": 390,
-    "Healing": 390
-    },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "impact",
-      "weapon2MainType": "Staff",
-      "weapon2MainSigil1": "force",
-      "weapon2MainSigil2": "severance"
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="150 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":22402,"Armor":2496,"Power":3752,"Precision":1779,"Toughness":1225,"Vitality":1648,"Ferocity":1242,"Condition Damage":500,"Expertise":0,"Concentration":533,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.35533333333333333,"Critical Chance":1.000952380952381,"Critical Damage":2.328,"Power Coefficient":3299,"Power2 Coefficient":0,"Burning Coefficient":1.72,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":143.00000000000003,"Effective Power":26135.84990898882,"NonCrit Effective Power":11226.739651627502,"Power DPS":33200.68111272781,"Power2 DPS":0,"Siphon DPS":182.32500000000005,"Bleeding Damage":92.625,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":371.390625,"Burning Stacks":1.72,"Burning DPS":638.791875,"Confusion Damage":116.315625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":113.109375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.79999999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":34021.79798772781,"Effective Health":111274411.94029853,"Survivability":56570.62122028395,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Diviner","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Diviner","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":84505},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Diviner","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Dragon","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 41858},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1781,1791],[2166,2108,2182]],"lines":[15,3,63]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-Check the CM-guides for information on when to play a more aggressive build. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration. Diviner's gear is extremely stat efficient for classes like <Specialization name="Renegade" /> and therefore replacing Berserker gear with it isn't that big of a DPS loss.
+
+On days with <Instability name="Boon Overload"/>, you can replace all Diviner gear with Berserker/Dragon pieces.
+
+Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 </Character>
-<Character title="80% BD - 222 AR" gear={{
-    "profession": "Revenant",
-  "weight": "Heavy",
-  "gear": [
-    "Diviner",
-    "Berserker",
-    "Diviner",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Berserker",
-    "Diviner",
-    "Diviner",
-    "Diviner",
-    "Assassin",
-    "Diviner",
-    "Diviner"
-  ],
-  "attributes": {
-    "Health": 21602,
-    "Armor": 2604,
-    "Power": 3672,
-    "Precision": 1722,
-    "Toughness": 1333,
-    "Vitality": 1568,
-    "Ferocity": 994,
-    "Condition Damage": 500,
-    "Expertise": 0,
-    "Concentration": 1268,
-    "Healing Power": 0,
-    "Agony Resistance": 222,
-    "Condition Duration": 0,
-    "Boon Duration": 0.8453333333333333,
-    "Critical Chance": 0.9738095238095238,
-    "Critical Damage": 2.1626666666666665,
-    "Power Coefficient": 3299,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.72,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 22334.24517303751,
-    "Power DPS": 28371.457383847035,
-    "Power2 DPS": 0,
-    "Siphon DPS": 173.98875,
-    "Bleeding Damage": 90.675,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 363.571875,
-    "Burning Stacks": 1.72,
-    "Burning DPS": 625.343625,
-    "Confusion Damage": 113.866875,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 110.72812499999999,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 133.92,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 29170.789758847037,
-    "Effective Health": 111943498.5074627,
-    "Survivability": 56910.77707547671,
-    "Effective Healing": 390,
-    "Healing": 390
-    },
-    "runeId": 24836,
-    "runeName": "Scholar",
-    "infusions": [
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131, 37131, 37131, 37131,
-      37131, 37131, 37131, 37131
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "force",
-      "weapon1OffType": "Sword",
-      "weapon1OffSigil": "impact",
-      "weapon2MainType": "Staff",
-      "weapon2MainSigil1": "force",
-      "weapon2MainSigil2": "severance"
-    },
-    "consumables": {
-      "foodId": 91805,
-      "utility": "superior-sharpening-stone",
-      "infusion": "Mighty +9 Agony Infusion"
-    },
-    "legends": {
-      "legend1": "legendaryassassinstance",
-      "legend2": "legendaryrenegadestance"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="162 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":22582,"Armor":2514,"Power":3759,"Precision":1784,"Toughness":1243,"Vitality":1666,"Ferocity":1247,"Condition Damage":500,"Expertise":0,"Concentration":525,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0,"Boon Duration":0.35,"Critical Chance":1.0033333333333334,"Critical Damage":2.3313333333333333,"Power Coefficient":3299,"Power2 Coefficient":0,"Burning Coefficient":1.72,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":143.00000000000003,"Effective Power":26222.103106536215,"NonCrit Effective Power":11247.685061425314,"Power DPS":33310.2495758425,"Power2 DPS":0,"Siphon DPS":182.32500000000005,"Bleeding Damage":92.625,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":371.390625,"Burning Stacks":1.72,"Burning DPS":638.791875,"Confusion Damage":116.315625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":113.109375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.79999999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":34131.3664508425,"Effective Health":112977408.9552239,"Survivability":57436.40516279812,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Diviner","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Diviner","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Diviner","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Diviner","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":84505},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Dragon","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 41858},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1781,1791],[2166,2108,2182]],"lines":[15,3,63]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-Check the CM-guides for information on when to play a more aggressive build. For newer <Specialization name="Renegade" text="Renegades"/> it is recommended to play at least 80% boon duration. Diviner's gear is extremely stat efficient for classes like <Specialization name="Renegade" /> and therefore replacing Berserker gear with it isn't that big of a DPS loss.
+
+On days with <Instability name="Boon Overload"/>, you can replace all Diviner gear with Berserker/Dragon pieces.
+
+Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
+
+</Character>
+<Character title="222 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":23702,"Armor":2604,"Power":3769,"Precision":1796,"Toughness":1333,"Vitality":1778,"Ferocity":1278,"Condition Damage":500,"Expertise":0,"Concentration":535,"Healing Power":0,"Agony Resistance":222,"Condition Duration":0,"Boon Duration":0.35666666666666663,"Critical Chance":1.0090476190476192,"Critical Damage":2.352,"Power Coefficient":3299,"Power2 Coefficient":0,"Burning Coefficient":1.72,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":143.00000000000003,"Effective Power":26524.93184139299,"NonCrit Effective Power":11277.60707542219,"Power DPS":33694.9365208916,"Power2 DPS":0,"Siphon DPS":182.32500000000005,"Bleeding Damage":92.625,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":371.390625,"Burning Stacks":1.72,"Burning DPS":638.791875,"Confusion Damage":116.315625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":113.109375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.79999999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":34516.0533958916,"Effective Health":122825886.5671642,"Survivability":62443.25702448612,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Diviner","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Diviner","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":84505},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 41858},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1781,1791],[2166,2108,2182]],"lines":[15,3,63]}}'>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+On days with <Instability name="Boon Overload"/>, you can replace all Diviner gear with Berserker/Dragon pieces.
+
+Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
+
+</Character>
+<Character title="Boon Overload Gear" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":23852,"Armor":2496,"Power":3768,"Precision":1790,"Toughness":1225,"Vitality":1793,"Ferocity":1376,"Condition Damage":500,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.006190476190476,"Critical Damage":2.4173333333333336,"Power Coefficient":3299,"Power2 Coefficient":0,"Burning Coefficient":1.72,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":143.00000000000003,"Effective Power":27254.5023554704,"NonCrit Effective Power":11274.614874022502,"Power DPS":34621.71862560525,"Power2 DPS":0,"Siphon DPS":182.32500000000005,"Bleeding Damage":92.625,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":371.390625,"Burning Stacks":1.72,"Burning DPS":638.791875,"Confusion Damage":116.315625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":113.109375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.79999999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":35442.83550060525,"Effective Health":118476800.00000001,"Survivability":60232.231825114395,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Dragon","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":84505},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Dragon","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 41858},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1781,1791],[2166,2108,2182]],"lines":[15,3,63]}}'>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants (depending on your <Attribute name="Agony Resistance"/> the Berserkers/Dragons mix might change)!
+
+Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 </Character>
 </CharacterWithAr>
@@ -328,15 +101,32 @@ Check the CM-guides for information on when to play a more aggressive build. For
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
 </Card>
+<Card title="Dealing with No Pain, No Gain">
+
+<Warning>
+
+Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
+</Warning>
+
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
+
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
+
+<div style={{marginBottom: "16px"}} />
+
+As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+
+</Card>
 </GridItem>
 
 <GridItem sm="4">
 <Card title="Situational Traits">
 
-|                                           |                                                                                                                                                                         |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait id="1754" size="big" disableText/> | If necessary (usually in low damage groups), you can swap out <Trait name="SwiftTermination"/> for <Trait name="DanceOfDeath"/> to have more sustain at cost of damage. |
-| <Trait name="Spirit Boon" size="big" disableText/> | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                              |
+|                                                       |                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Spirit Boon" size="big" disableText/>    | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                           |
+| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
 
 </Card>
 <Card title="Situational Skills">
@@ -516,35 +306,3 @@ For more information about advanced rotation and gameplay refer to [Static Reneg
 </GridItem>
 
 </Grid>
-
-<Card title="Dealing with No Pain, No Gain">
-
-<Warning>
-
-Note that with a class like <Specialization name="Scourge"/> or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/>.
-</Warning>
-
-<Grid>
-
-<GridItem xs="12" sm="6">
-
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message.
-
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
-
-<div style={{marginBottom: "16px"}} />
-
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
-</GridItem>
-
-<GridItem xs="12" sm="6">
-
-<Card title="">
-<Video caption="NPNG Arkk Pug Guide." youtube="jZzoP8yMd8w"/>
-<Video caption="NPNG Arkk Pug Pov." youtube="vB2vizzgYiI"/>
-
-</Card>
-</GridItem>
-</Grid>
-</Card>

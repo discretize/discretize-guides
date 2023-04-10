@@ -2,7 +2,7 @@
 title: 'Reaper CM guides'
 profession: 'Necromancer'
 specialization: 'Reaper'
-date: '2021-02-24'
+date: "2021-02-24"
 author: 'Discord: Jes#6596'
 
 disableBosses: ['LightAi', 'DarkAi']

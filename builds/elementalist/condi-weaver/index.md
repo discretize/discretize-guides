@@ -1,24 +1,25 @@
 ---
 title: Condi Weaver
+hidden: false
+archive: true
 rating: Good
 role: Condi Damage
-archive: true
-hidden: false
 profession: Elementalist
 specialization: Weaver
-conditions:
-  - name: Burning
-  - name: Bleeding
-code: '[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: 2022-08-05T17:12:13.596Z
-cmGuide: ''
+date: "2023-04-06T18:26:58.160Z "
+conditions:
+  - name: Burning
+  - name: Bleeding
+cmGuide: ""
 ---
+
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak), and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss and Arkk).
 
@@ -31,138 +32,11 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
+<Character title="" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":16245,"Armor":2192,"Power":3311.51,"Precision":1794,"Toughness":1225,"Vitality":1460,"Ferocity":9.12,"Condition Damage":2692,"Expertise":748,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.7986666666666666,"Boon Duration":0.15,"Critical Chance":0.7780952380952382,"Critical Damage":1.50608,"Power Coefficient":2139,"Power2 Coefficient":0,"Burning Coefficient":14.99,"Bleeding Coefficient":10.299999999999999,"Poison Coefficient":0,"Torment Coefficient":1.8799999999999997,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Bleeding Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":8836.658767636656,"NonCrit Effective Power":6340.074237131253,"Power DPS":7278.249173652217,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":330.9095,"Bleeding Stacks":20.586266666666663,"Bleeding DPS":6812.191209533332,"Burning Damage":988.5813125000001,"Burning Stacks":29.960013333333332,"Burning DPS":29617.90930358417,"Confusion Damage":390.4631125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":351.64543749999996,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":494.2005,"Torment Stacks":3.381493333333333,"Torment DPS":1671.1356960799997,"Damage":45519.235382849714,"Effective Health":78737512.43781096,"Survivability":40029.23865674172,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":24800,"helmRune":"Elementalist","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24800,"shouldersRune":"Elementalist","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24800,"coatRune":"Elementalist","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24800,"glovesRune":"Elementalist","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24800,"leggingsRune":"Elementalist","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24800,"bootsRune":"Elementalist","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":86113,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":86113,"weapon2MainInfusion2Id":86113,"weapon2MainSigil2Id":48911},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":86113,"ring1Infusion3Id":86113,"ring2Affix":"Viper","ring2Infusion1Id":86113,"ring2Infusion2Id":86113,"ring2Infusion3Id":86113,"accessory1Affix":"Viper","accessory1InfusionId":86113,"accessory2Affix":"Viper","accessory2InfusionId":86113},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":5503,"utility1Id":5506,"utility2Id":40183,"utility3Id":5542,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,325,1510],[1507,275,287],[2177,2180,2131]],"lines":[31,26,56]}}'>
 
-<Character title="162 Agony Resistance" gear={{
-    "profession": "Elementalist",
-    "weight": "Light",
-    "gear": [
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper",
-      "Viper"
-    ],
-    "attributes": {
-    "Health": 16425,
-    "Armor": 2210,
-    "Power": 3272.6,
-    "Precision": 1974,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 34.8,
-    "Condition Damage": 2692,
-    "Expertise": 748,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.7986666666666666,
-    "Boon Duration": 0.162,
-    "Critical Chance": 0.8638095238095238,
-    "Critical Damage": 1.5232,
-    "Power Coefficient": 2745.2625,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 11.78,
-    "Bleeding Coefficient": 19.9,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Burning Duration": 0.2,
-    "Bleeding Duration": 0.2,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 8506.615766299201,
-    "Power DPS": 8992.257707019622,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 320.05888,
-    "Bleeding Stacks": 39.773466666666664,
-    "Bleeding DPS": 12729.851195050665,
-    "Burning Damage": 956.16544,
-    "Burning Stacks": 23.544293333333332,
-    "Burning DPS": 22512.239594555733,
-    "Confusion Damage": 377.659712,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 340.11487999999997,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 477.99552,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 44374.09849662602,
-    "Effective Health": 80263681.59203981,
-    "Survivability": 40805.125364534724,
-    "Effective Healing": 390,
-    "Healing": 390
-    },
-    "runeId": 24800,
-    "runeName": "Elementalist",
-    "infusions": [
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 37130, 37130, 37130, 37130, 37130, 37130,
-      37130, 86113, 86113, 86113
-    ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1": "Earth",
-      "weapon1OffType": "Focus",
-      "weapon1OffSigil": "Geomancy"
-    },
-    "consumables": {
-      "foodId": 91876,
-      "utilityId": 48917,
-      "infusion": "Malign +9 Agony Infusion"
-    },
-    "skills": {
-      "heal": "Signet of Restoration",
-      "utility1": "Glyph of Elemental Power",
-      "utility2": "Primordial Stance",
-      "utility3": "Signet of Fire",
-      "elite": "Weave Self"
-    },
-    "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-Note that the build does not rely on precision as much as the <BuildLink build="Power Weaver" specialization="Weaver"/> variant and you can build your Agony Resistance around the 150 breakpoint. You should however aim for a fully +9 stated infusion gear setup for maximum <Item id="79722"/> stat conversion value. The stats shown are with 162 Agony Resistance. This build requires 15x <Item name="malignagonyinfusion"/> and 3x <Item name="spitefulagonyinfusion"/>.
+This build uses the Jade Bot Core: Tier 10 in combination with 9 <Item name="Malign +9 Agony Infusion"/> and 9 <Item name="Spiteful +9 Agony Infusion"/>. However you can also run 15 <Item name="Malign +9 Agony Infusion"/> and 3 <Item name="Spiteful +9 Agony Infusion"/> with <Item id="91876"/>, giving you the same stats.
 
 </Character>
-
 </CharacterWithAr>
 
 <Divider text="Build"/>

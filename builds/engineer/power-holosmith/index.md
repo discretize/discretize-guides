@@ -1,24 +1,23 @@
 ---
 title: Power Holosmith
 hidden: false
-archive: true
+archive: false
 rating: Good
 role: Power Damage
-author: Ascers.6082
 profession: Engineer
 specialization: Holosmith
 conditions:
   - name: Vulnerability
     uptime: 20 Stacks
-code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
+code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
+cmGuide: ''
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2022-08-08T00:53:21.189Z
+date: '2023-04-04T17:40:50.083Z'
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -44,156 +43,14 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
 
 <Divider text="Equipment"/>
 
-<CharacterWithAr> 
+<CharacterWithAr>  
+<Character title="Power Holosmith" gear='{"attributes":{"profession":"Engineer","specialization":"Holosmith","data":{"Health":20522,"Armor":2343,"Power":3630,"Precision":1961,"Toughness":1225,"Vitality":1460,"Ferocity":1606,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0576190476190477,"Critical Damage":2.570666666666667,"Power Coefficient":3260,"Power2 Coefficient":0,"Burning Coefficient":2.51,"Bleeding Coefficient":13.24,"Poison Coefficient":2.62,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":32151.980456336667,"NonCrit Effective Power":12507.25380822225,"Power DPS":40360.206502756075,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":17.6092,"Bleeding DPS":1695.986075,"Burning Damage":355.421875,"Burning Stacks":2.51,"Burning DPS":892.1089062499999,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":2.62,"Poison DPS":295.650625,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":43383.70210900607,"Effective Health":95687653.7313433,"Survivability":48646.49401695135,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":6161,"utility3Id":42842,"eliteId":42009},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[2106,2152,2137]],"lines":[38,6,57]}}'>
 
-<Character gear={{
-  "profession": "Engineer",
-  "weight": "Medium",
-  "gear": [
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 20702,
-    "Armor": 2361,
-    "Power": 3630,
-    "Precision": 1961,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1606,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.0576190476190477,
-    "Critical Damage": 2.570666666666667,
-    "Power Coefficient": 3153,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 3.09,
-    "Bleeding Coefficient": 13.39,
-    "Poison Coefficient": 2.75,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Bleeding Duration": 0.33,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 30754.068262582907,
-    "Power DPS": 37338.30467151479,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 17.8087,
-    "Bleeding DPS": 1715.2004187500002,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 3.09,
-    "Burning DPS": 1098.25359375,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 2.75,
-    "Poison DPS": 310.3203125,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 40601.828996514785,
-    "Effective Health": 97268501.49253732,
-    "Survivability": 49450.17869473173,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Shield",
-    "weapon1OffSigilId": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusion": "Mighty +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 21659,
-    "utility1Id": 5805,
-    "utility2Id": 5818,
-    "utility3Id": 42842,
-    "eliteId": 42009
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+You will only need some Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
 
- You will only need some Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>. 
- 
- You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
-
+You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
 
 </Character>
-
 </CharacterWithAr>
 
 <Divider text="Build"/>
@@ -209,7 +66,7 @@ This guide will focus mainly on the Sword ECSU variant since it is the most flex
 
 |                                           |                                                                                                                                                                                                               |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6178" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
+| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
 | <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
 
 </Card>
@@ -256,7 +113,6 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="5857" size="big" disableText/>           | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                      |
 | <Skill id="43739" size="big" disableText/>          | A (group) block that also reflects projectiles if heat is above 50.                                                                                                                                     |
-| <Skill id="30337" size="big" disableText/>          | Offers higher burst than <Skill id="5818"/>. Very effective countermeasure for <Instability name="No Pain, No Gain"/>!                                                                                  |
 | <Skill name="Bomb Kit" size="big" disableText/>     | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
 | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.                                                               |
 

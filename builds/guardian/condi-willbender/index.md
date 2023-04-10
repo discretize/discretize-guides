@@ -16,15 +16,16 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
   - 3
   - 2
   - 3
-date: 2022-08-03T11:46:38.248Z
+date: '2023-04-04T11:46:38.248Z'
 ---
+
 The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC, and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
 
 <Advanced>
@@ -49,154 +50,11 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 
 </Beginner>
 
-
 <Divider text="Equipment"/>
 
 <Beginner>
 <CharacterWithAr> 
-<Character title="Condi Willbender" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Sinister",
-    "Sinister",
-    "Viper",
-    "Sinister",
-    "Sinister",
-    "Sinister",
-    "Viper",
-    "Viper"
-  ],
-  "attributes": {
-    "Health": 18068,
-    "Armor": 2514,
-    "Power": 2909,
-    "Precision": 1842,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 150,
-    "Condition Damage": 2868,
-    "Expertise": 451,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.30066666666666664,
-    "Boon Duration": 0.162,
-    "Critical Chance": 0.800952380952381,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 2742.6,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 14.219999999999999,
-    "Bleeding Coefficient": 1.2,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 1.18,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Burning Duration": 0.7,
-    "Resolution Duration": 0.25,
-    "Maximum Health": 0.10000000000000009,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 7965.763737428574,
-    "Power DPS": 8412.361812195459,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 327.51,
-    "Bleeding Stacks": 1.5608,
-    "Bleeding DPS": 511.17760799999996,
-    "Burning Damage": 1068.346125,
-    "Burning Stacks": 28.439999999999998,
-    "Burning DPS": 30383.763795,
-    "Confusion Damage": 385.91775,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 346.91625,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 489.24,
-    "Torment Stacks": 1.5347866666666665,
-    "Torment DPS": 750.8790287999999,
-    "Damage": 40197.932243995456,
-    "Effective Health": 90393934.32835822,
-    "Survivability": 45955.22843332904,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24765,
-  "runeName": "Balthazar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 48911,
-      "weapon1OffType": "Torch",
-      "weapon1OffSigilId": 44944,
-      "weapon2MainType": "Scepter",
-      "weapon2MainSigil1Id": 24605
-    },
-  "consumables": {
-      "foodId": 91878,
-      "utility": "toxic-focusing-crystal"
-  },
-  "skills": {
-    "healId": 62622,
-    "utility1Id": 62565,
-    "utility2Id": 9187,
-    "eliteId": 62561
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}} 
->
+<Character title="Condi Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2909,"Precision":1842,"Toughness":1225,"Vitality":1460,"Ferocity":150,"Condition Damage":2868,"Expertise":451,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.30066666666666664,"Boon Duration":0.15,"Critical Chance":0.800952380952381,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.129999999999999,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":49432,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":44944,"weapon1OffAffix":"Viper","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24605,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":62622,"utility1Id":62565,"utility2Id":9187,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
 
 The 3rd utility skill slot is flexible. Look at the Situational Skills below for common options.
 
@@ -208,154 +66,9 @@ This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condi
 
 <Advanced>
 <CharacterWithAr> 
-<Character title="Condi Willbender" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Viper",
-    "Sinister",
-    "Sinister",
-    "Viper",
-    "Sinister",
-    "Sinister",
-    "Sinister",
-    "Viper",
-    "Viper"
-  ],
-  "attributes": {
-    "Health": 18068,
-    "Armor": 2514,
-    "Power": 2909,
-    "Precision": 1842,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 150,
-    "Condition Damage": 2958,
-    "Expertise": 451,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0.30066666666666664,
-    "Boon Duration": 0.162,
-    "Critical Chance": 0.800952380952381,
-    "Critical Damage": 1.6,
-    "Power Coefficient": 2742.6,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 14.219999999999999,
-    "Bleeding Coefficient": 1.2,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 1.18,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Burning Duration": 0.7,
-    "Resolution Duration": 0.25,
-    "Maximum Health": 0.10000000000000009,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 7965.763737428574,
-    "Power DPS": 8412.361812195459,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 336.6225,
-    "Bleeding Stacks": 1.5608,
-    "Bleeding DPS": 525.400398,
-    "Burning Damage": 1094.2408125000002,
-    "Burning Stacks": 28.439999999999998,
-    "Burning DPS": 31120.2087075,
-    "Confusion Damage": 396.3971250000001,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 356.02875,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 502.90874999999994,
-    "Torment Stacks": 1.5347866666666665,
-    "Torment DPS": 771.8576440499999,
-    "Damage": 40969.57856174546,
-    "Effective Health": 90393934.32835822,
-    "Survivability": 45955.22843332904,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24765,
-  "runeName": "Balthazar",
-  "infusions": [
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130,
-    37130
-  ],
-    "weapons": {
-      "weapon1MainType": "Sword",
-      "weapon1MainSigil1Id": 48911,
-      "weapon1OffType": "Torch",
-      "weapon1OffSigilId": 44944,
-      "weapon2MainType": "Scepter",
-      "weapon2MainSigil1Id": 24605
-    },
-  "consumables": {
-      "foodId": 91878,
-      "utility": "toxic-focusing-crystal",
-      "infusion": "Malign +9 Agony Infusion"
-  },
-  "skills": {
-    "healId": 62622,
-    "utility1Id": 62565,
-    "utility2Id": 9187,
-    "eliteId": 62561
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}} 
->
+<Character title="Condi Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2909,"Precision":1842,"Toughness":1225,"Vitality":1460,"Ferocity":150,"Condition Damage":2958,"Expertise":451,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.30066666666666664,"Boon Duration":0.15,"Critical Chance":0.800952380952381,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.129999999999999,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":361.5575,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":531.4003408166666,"Burning Damage":1175.2956875,"Burning Stacks":26.259999999999998,"Burning DPS":30863.264753749998,"Confusion Damage":425.759875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":382.40125,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":540.16125,"Torment Stacks":1.5738066666666666,"Torment DPS":850.109376325,"Damage":41677.432442546895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":44944,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24605,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":24605},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Sinister","accessory1InfusionId":37130,"accessory2Affix":"Sinister","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917},"skills":{"healId":62622,"utility1Id":62565,"utility2Id":9187,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
 
-<Advanced>
 Many different gear variations can be run on this build that varies damage-wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
-</Advanced>
 
 The 3rd utility skill slot is flexible. Look at the Situational Skills below for common options.
 
@@ -410,13 +123,13 @@ You will want the following weapons to swap to during fractal runs:
 <Beginner>
 <Card title="Situational Skills">
 
-|                                                         |                                                                                     |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>                               |
-| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                 |
-| <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed.                                 |
-| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                        |
+|                                                         |                                                         |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>   |
+| <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                     |
+| <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed.     |
+| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed. |
+| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.            |
 
 </Card>
 </Beginner>
@@ -480,7 +193,7 @@ The <Specialization text="Condition Willbender" name="Willbender"/> has a rather
 2. <Skill name="Purging Flames"/>
 3. <Skill name="Symbol of Punishment"/>
 4. <Skill name="Whirling Light"/>
- 
+
 Use these skills in this order once at the start, then use them off-cooldown with the same priority if multiple come up at the same time. The hardest part of this should be the opening where all 4 skills are up at the same time.
 
 **Step 2: Torch 4**
@@ -488,6 +201,7 @@ Use these skills in this order once at the start, then use them off-cooldown wit
 <Skill name="Zealots Flame"/> is the most intricate skill we will use in this rotation. If you want a visual example of how it is used based on the text below, check out one of the videos on the right side.
 
 Using <Skill name="Zealots Flame"/> will give a stack of <Skill name="Zealots Fire"/> that we can then throw at the target.
+
 - <Trait name="Radiant Fire"/> will give an additional <Skill name="Zealots Fire"/> once every 10 seconds.
 - Since we have a few seconds to throw the <Skill name="Zealots Fire"/>, we can use this time to press other priority skills first if any are up.
 
@@ -506,18 +220,6 @@ Therefore we will only use this skill when there is at least a 2.5-second gap be
 
 </Card>
 
-<Card title="Improving Further">
-
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
-
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
-
-There is only one additional step (besides learning the rest of the utility you can situationally bring):
-
-- Incorporating the Sword weapon set into the rotation. There, we will prioritize <Skill name="Symbol of Blades"/> over <Skill name="Zealots Defense"/>.
-- For the most part, the idea is to use the <Skill name="Symbol of Blades"/>/<Skill name="Zealots Defense"/> and <Skill name="Symbol of Punishment"/> twice on the respective weapon set.
-
-</Card>
 </Beginner>
 </GridItem>
 
@@ -533,6 +235,19 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 </Card>
 
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+
+There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+
+There is only one additional step (besides learning the rest of the utility you can situationally bring):
+
+- Incorporating the Sword weapon set into the rotation. There, we will prioritize <Skill name="Symbol of Blades"/> over <Skill name="Zealots Defense"/>.
+- For the most part, the idea is to use the <Skill name="Symbol of Blades"/>/<Skill name="Zealots Defense"/> and <Skill name="Symbol of Punishment"/> twice on the respective weapon set.
+
+</Card>  
+  
 </Beginner>
 
 <Card title="Golem rotation">
@@ -540,15 +255,5 @@ This video shows the step-by-step approach to the rotation listed on the left.
 Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 <Video youtube="MkEqyxM44VI" caption="Sword rotation by Support Hero"/>
 </Card>
-
-<Advanced>
-<Card title="Greatsword Golem Rotation">
-
-Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
-<Video youtube="mCOEGlJkRJ0" caption="Greatsword rotation by [CnD] DaedDee"/>
-
-</Card>
-</Advanced>
-
 </GridItem>
 </Grid>

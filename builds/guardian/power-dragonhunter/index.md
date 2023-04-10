@@ -1,35 +1,32 @@
 ---
-title: Power Dragonhunter
 hidden: false
-archive: true
+archive: false
 hasBeginner: true
-rating: Meta
-role: Power Damage
-profession: Guardian
 specialization: Dragonhunter
-conditions:
-  - name: Vulnerability
-    uptime: 25 stacks
-boons:
-  - name: Fury
-    uptime: 80%
-    variant: group
-code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: static
+boons: []
+code: '[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-date: 2022-08-05T08:07:50.682Z
+date: '2023-04-04T20:37:05.151Z'
+title: Power Dragonhunter
+rating: Meta
+role: Power Damage
+profession: Guardian
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
+cmGuide: static
 ---
 
-The <Specialization name="Dragonhunter"/> is a good and easy to play build for fractals. It has great burst options and deals high consistent damage while providing medium defiance bar damage and high <Condition name="Vulnerability"/>. The build offers a unique party wide offensive buff by sharing <Skill name="bane signet"/> for 216 <Attribute name="Power"/> and also strong on-demand defensive support with <Skill id="30039"/> and other useful skills such as <Skill id="9251"/> and <Skill name="standyourground"/>.
+<Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />.
 
-The <Specialization name="Dragonhunter" text="Power Dragonhunter"/> has access to blocks with <Skill name="Shieldofwrath"/>, <Skill name="shieldofcourage"/> and a very strong heal skill (<Skill name="litanyofwrath"/>) that makes the player invincible for 6 seconds. It also benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+It also has a decent toolkit for skips in Tier 4 fractals with multiple leaps and teleports (<Skill name="wingsofresolve" />, <Skill name="leapoffaith" />, <Skill name="judgesintervention" />, <Skill name="mercifulintervention" />).
 
-Unfortunately, the <Specialization name="Dragonhunter"/> is relying on fast CC to capitalize on the immediate high burst damage. Playing this build in slower groups therefore might not be as rewarding as the condi builds of <Specialization name="Guardian"/>. Sharing <Skill name="bane signet"/> with a party that can't capitalize on the unique buff might also be frustrating.
+Due to its bursty nature, <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is reliant on fast CC and short phases in order to reach its full potential. The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Beginner>
 
@@ -39,7 +36,7 @@ The advanced page provides a more complete overview of all the utilities the <Sp
 
 <Information>
 
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
+Although this build lists 150 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
 
 </Information>
 
@@ -49,149 +46,7 @@ Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a 
 
 <Beginner>
 <CharacterWithAr>  
-<Character title="162 AR Perfect Inscriptions" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 16425,
-    "Armor": 2514,
-    "Power": 3727,
-    "Precision": 2260,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1406,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 2.437333333333333,
-    "Power Coefficient": 3361,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 27223.649792817025,
-    "Power DPS": 35232.45550776204,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 36054.61550776204,
-    "Effective Health": 82174029.85074627,
-    "Survivability": 41776.324275925916,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432,
-    49432
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Focus",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Greatsword",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569
-  },
-  "skills": {
-    "healId": 21664,
-    "utility1Id": 30364,
-    "utility2Id": 9168,
-    "utility3Id": 9093,
-    "eliteId": 30273
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
-
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+<Character title="Longbow Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":16245,"Armor":2496,"Power":3901,"Precision":1960,"Toughness":1225,"Vitality":1460,"Ferocity":1405,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.1071428571428572,"Critical Damage":2.4366666666666665,"Power Coefficient":3471,"Power2 Coefficient":0,"Burning Coefficient":2.28,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":24771.15522451399,"NonCrit Effective Power":10166.000776134333,"Power DPS":33107.69340942937,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":2.28,"Burning DPS":810.3618749999999,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":34057.80528442937,"Effective Health":80691582.08955225,"Survivability":41022.66501756597,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":24868,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Berserker","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[624,603,622],[634,653,2017],[1898,1835,1955]],"lines":[46,42,27]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -200,298 +55,24 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Beginner>
 <Advanced>
 <CharacterWithAr>  
-<Character title="Perfect Inscriptions" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Berserker",
-    "Assassin",
-    "Assassin",
-    "Berserker",
-    "Berserker",
-    "Berserker"
-  ],
-  "attributes": {
-    "Health": 16425,
-    "Armor": 2514,
-    "Power": 3817,
-    "Precision": 2260,
-    "Toughness": 1243,
-    "Vitality": 1478,
-    "Ferocity": 1406,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1,
-    "Critical Damage": 2.437333333333333,
-    "Power Coefficient": 3361,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 27881.04943900794,
-    "Power DPS": 36083.252662497376,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 36905.41266249738,
-    "Effective Health": 82174029.85074627,
-    "Survivability": 41776.324275925916,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Focus",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Greatsword",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusionId": 37131
-  },
-  "skills": {
-    "healId": 21664,
-    "utility1Id": 30364,
-    "utility2Id": 9168,
-    "utility3Id": 9093,
-    "eliteId": 30273
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="Radiance Longbow Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":20435,"Armor":2496,"Power":3913,"Precision":1745,"Toughness":1225,"Vitality":1879,"Ferocity":1554,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0047619047619047,"Critical Damage":2.536,"Power Coefficient":3863,"Power2 Coefficient":0,"Burning Coefficient":2.62,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":28769.56563797145,"NonCrit Effective Power":11344.465945572338,"Power DPS":42794.31346148776,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":2.62,"Burning DPS":931.2053125,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":43865.268773987766,"Effective Health":101504000.00000001,"Survivability":51603.45704117947,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Dragon","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Dragon","accessory1InfusionId":37131,"accessory2Affix":"Dragon","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":73191},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[574,565,1683],[634,653,2017],[1898,1835,1955]],"lines":[16,42,27]}}'>
 
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+Note: This build is optimal for any of the following consumable pairs:
+
+- <Item id="50082"/> and <Item id="43360"/>;
+- <Item id="73191"/> and <Item id="91805"/>;
+- <Item id="73191"/> and <Item id="43360"/>.
+
+For bosses on which you wish to run <Item id="50082"/> and <Item id="91805"/>, like Ensolyss, you may switch both trinkets to Berserker's.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="Righteous Instincts" gear={{
-  "profession": "Guardian",
-  "weight": "Heavy",
-  "gear": [
-    "Dragon",
-    "Berserker",
-    "Dragon",
-    "Berserker",
-    "Dragon",
-    "Berserker",
-    "Dragon",
-    "Dragon",
-    "Dragon",
-    "Dragon",
-    "Dragon",
-    "Dragon",
-    "Dragon",
-    "Dragon"
-  ],
-  "attributes": {
-    "Health": 22095,
-    "Armor": 2514,
-    "Power": 3846,
-    "Precision": 1749,
-    "Toughness": 1243,
-    "Vitality": 2045,
-    "Ferocity": 1600,
-    "Condition Damage": 750,
-    "Expertise": 0,
-    "Concentration": 243,
-    "Healing Power": 0,
-    "Agony Resistance": 162,
-    "Condition Duration": 0,
-    "Boon Duration": 0.162,
-    "Critical Chance": 1.0066666666666666,
-    "Critical Damage": 2.5666666666666664,
-    "Power Coefficient": 3361,
-    "Power2 Coefficient": 0,
-    "Burning Coefficient": 1.92,
-    "Bleeding Coefficient": 0,
-    "Poison Coefficient": 0,
-    "Torment Coefficient": 0,
-    "Confusion Coefficient": 0,
-    "Flat DPS": 0,
-    "Siphon Base Coefficient": 139.75,
-    "Effective Power": 29583.583458283087,
-    "Power DPS": 38286.64767165555,
-    "Power2 DPS": 0,
-    "Siphon DPS": 139.75,
-    "Bleeding Damage": 96.3125,
-    "Bleeding Stacks": 0,
-    "Bleeding DPS": 0,
-    "Burning Damage": 355.421875,
-    "Burning Stacks": 1.92,
-    "Burning DPS": 682.41,
-    "Confusion Damage": 118.665625,
-    "Confusion Stacks": 0,
-    "Confusion DPS": 0,
-    "Poison Damage": 112.84375,
-    "Poison Stacks": 0,
-    "Poison DPS": 0,
-    "Torment Damage": 142.74375,
-    "Torment Stacks": 0,
-    "Torment DPS": 0,
-    "Damage": 39108.80767165555,
-    "Effective Health": 110540955.22388062,
-    "Survivability": 56197.740327341446,
-    "Effective Healing": 390,
-    "Healing": 390
-  },
-  "runeId": 24836,
-  "runeName": "Scholar",
-  "infusions": [
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131,
-    37131
-  ],
-  "weapons": {
-    "weapon1MainType": "Sword",
-    "weapon1MainSigil1Id": 24615,
-    "weapon1OffType": "Focus",
-    "weapon1OffSigilId": 24868,
-    "weapon2MainType": "Greatsword",
-    "weapon2MainSigil1Id": 24615,
-    "weapon2MainSigil2Id": 24868
-  },
-  "consumables": {
-    "foodId": 91805,
-    "utilityId": 77569,
-    "infusionId": 37131
-  },
-  "skills": {
-    "healId": 21664,
-    "utility1Id": 30364,
-    "utility2Id": 9168,
-    "utility3Id": 9093,
-    "eliteId": 30273
-  },
-  "assumedBuffs": [
-    {
-      "id": "might",
-      "type": "Boon"
-    },
-    {
-      "id": "fury",
-      "type": "Boon"
-    },
-    {
-      "id": "protection",
-      "type": "Boon"
-    },
-    {
-      "id": "vulnerability",
-      "type": "Condition"
-    },
-    {
-      "id": "jade-bot",
-      "gw2id": 96613,
-      "type": "Item"
-    },
-    {
-      "id": "omnipotion",
-      "gw2id": 79722,
-      "type": "Item"
-    }
-  ]
-}}>
+<Character title="Virtues Longbow Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":16245,"Armor":2496,"Power":3672,"Precision":2470,"Toughness":1225,"Vitality":1460,"Ferocity":1030,"Condition Damage":1011,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.1866666666666665,"Power Coefficient":3863,"Power2 Coefficient":0,"Burning Coefficient":2.62,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Siphon Base Coefficient":139.75,"Effective Power":28889.512920597288,"NonCrit Effective Power":13211.66749417559,"Power DPS":42972.73331238634,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.82374999999999,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":413.57593750000007,"Burning Stacks":2.62,"Burning DPS":1083.5689562500002,"Confusion Damage":144.5535625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":135.355,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":176.51062499999998,"Torment Stacks":0,"Torment DPS":0,"Damage":44196.05226863634,"Effective Health":80691582.08955225,"Survivability":41022.66501756597,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24818,"helmRune":"Thief","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24818,"shouldersRune":"Thief","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24818,"coatRune":"Thief","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24818,"glovesRune":"Thief","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24818,"leggingsRune":"Thief","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24818,"bootsRune":"Thief","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Assassin","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":73191},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[624,603,612],[634,653,2017],[1898,1835,1955]],"lines":[46,42,27]}}'>
 
-If you cannot maintain good <Boon name="resolution"/> uptime during your bursts, you may want to play with <Trait name="Healers resolution"/>. By playing this trait you will lose <Attribute name="Precision"/> so will need to adjust your gear to [Crit Cap](/guides/crit-cap/).
+This build relies on almost permanent <Boon name="Aegis"/> uptime to perform well. If you cannot maintain this consider playing Radiance.
+
+This setup holds for any consumable combination between <Item id="91805"/>, <Item id="43360"/>, <Item id="73191"/> and <Item id="50082"/>, or any other slaying potion.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -500,16 +81,24 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Advanced>
 
 <Divider text="Build"/>
-
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="566,565,579" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
+<Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1963"/>
 
 <Advanced>
+<Card title="Situational Traits">
+
+|                                                      |                                                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="biggamehunter" size="big" disableText/> | Can be used when phase times aren't too fast, or when there's enough time to precast <Skill name="spearofjustice"/> before the boss appears. Gains additional value when doing symbol and trap precasting. It is an excellent trait on encounters such as Ensolyss, Artsariiv, Arkk and Siax. |
+
+</Card>
 
 <Card title="Virtues">
 
-If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from sharing <Skill name="Bane Signet"/> through <Trait name="Perfect Inscriptions"/>. You can drop the Radiance trait line for Virtues for more personal damage. Please note you will need to adjust your gear potentially to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
+<Traits traits1Id="46" traits1="Virtues" traits1SelectedIds="624,603,612" traits2Id="42"/>
+
+If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** trait line for Virtues for more personal damage. Please note you will need to adjust your gear to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
@@ -521,6 +110,7 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from s
 
 |                                                 |            |
 | ----------------------------------------------- | ---------- |
+| <Skill id="29630"/>                             | 150 damage |
 | <Skill id="9093"/>                              | 300 damage |
 | <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
@@ -539,32 +129,33 @@ If you can reliably upkeep <Boon name="Aegis"/>, and you don't gain value from s
 
 You should drop <Skill name="Swordofjustice"/> first.
 
-|                                                   |                                                                                          |
-| ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <Skill id="9153" size="big" disableText/>         | When <Boon name="Stability"/> or a stunbreak is needed.                                  |
-| <Skill id="9125" size="big" disableText/>         | Deals an additional 200 defiance bar damage.                                             |
-| <Skill id="9251" size="big" disableText/>         | A stationary reflect lasting for 10 seconds.                                             |
-| <Skill name="dragonsmaw" size="big" disableText/> | When you are certain no extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
-| <Skill name="Sanctuary" size="big" disableText/>  | Huge CC and projectile destruction.                                                      |
+|                                                    |                                                                       |
+| -------------------------------------------------- | --------------------------------------------------------------------- |
+| <Skill id="9153" size="big" disableText/>          | When <Boon name="Stability"/> or a stunbreak is needed.               |
+| <Skill id="9125" size="big" disableText/>          | Deals an additional 200 defiance bar damage.                          |
+| <Skill name="Advance" size="big" disableText/>     | When <Boon name="Aegis"/> is needed.                                  |
+| <Skill id="9251" size="big" disableText/>          | A stationary reflect lasting for 8 seconds.                           |
+| <Skill name="feelmywrath" size="big" disableText/> | When extra <Boon name="Quickness"/> or <Boon name="Fury"/> is needed. |
+| <Skill name="Sanctuary" size="big" disableText/>   | Huge CC and projectile destruction.                                   |
 
 </Beginner>
 
 <Advanced>
 
-|                                                        |                                                                                                                                |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally.                                                                                             |
-| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="resolution"/> at the mistlock |
-| <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                                                                                           |
-| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                        |
-| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                                                                   |
-| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 10 seconds.                                                                                   |
-| <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                                                                |
-| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                                                             |
-| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                                                           |
-| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                            |
-| <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                                                                    |
-| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                            |
+|                                                        |                                                                                                                                     |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill id="9246" size="big" disableText/>              | A 1,200 range teleport to an ally. Can be used in conjunction with <Skill name="swordofjustice" profession="guardian" /> for skips. |
+| <Skill name="Hallowed Ground" size="big" disableText/> | When <Boon name="Stability"/> is needed. Also useful for precasting a fire field and <Boon name="resolution"/> at the mistlock.     |
+| <Skill name="Advance" size="big" disableText/>         | When <Boon name="Aegis"/> is needed.                                                                                                |
+| <Skill id="9153" size="big" disableText/>              | When <Boon name="Stability"/> or a stunbreak is needed.                                                                             |
+| <Skill id="9125" size="big" disableText/>              | Deals an additional 200 defiance bar damage.                                                                                        |
+| <Skill id="9251" size="big" disableText/>              | A stationary reflect lasting for 8 seconds.                                                                                         |
+| <Skill name="feelmywrath" size="big" disableText/>     | When <Boon name="Quickness"/> or <Boon name="Fury"/> is needed.                                                                     |
+| <Skill id="9247" size="big" disableText/>              | A 1200 range teleport to an enemy.                                                                                                  |
+| <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                                                                |
+| <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                                 |
+| <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                                                                         |
+| <Skill name="renewed focus" size="big" disableText/>   | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds.                                                 |
 
 </Advanced>
 
@@ -576,9 +167,20 @@ You should drop <Skill name="Swordofjustice"/> first.
   
 <Divider text="Details"/>
 
-As a <Specialization name="Dragonhunter" text="Power Dragonhunter"/> it is important to play <Trait name="perfectinscriptions"/> to be able to use the <Skill name="Banesignet"/> for 300 CC while also sharing the 216 <Attribute name="Power"/> buff with your allies. This enables everyone to deal more damage during critical parts of the fight when the boss is <Effect name="exposed"/>.
+It is very important to maintain <Boon name="Resolution"/> for <Trait name="righteousinstincts" /> and <Trait name="retribution"/>. <Trait name="healersresolution"/> causes your heal skill to apply ~10s of <Boon name="Resolution" />, and <Skill name="symbolofresolution" /> provides ~6s of <Boon name="Resolution" />.
 
-Generally it is important to apply <Boon name="Resolution"/> when you are about to burst for the <Trait name="retribution"/> modifier. Thanks to <Trait name="healersresolution"/> your heal skill applies long lasting <Trait name="retribution"/>. Since <Skill name="litanyofwrath"/> and <Skill name="processionofblades"/> have almost the same cooldown they will line up well (<Skill name="processionofblades"/> has a slightly shorter cooldown thanks to <Trait name="piercinglight"/>). You can also trigger a <Skill id="13677"/> by losing health below the 75% threshold to trigger <Trait id="648"/>, however you need to be careful to not die.
+- When beginning phases after splits (e.g. Ensolyss), you likely will not have <Boon name="Resolution" />. Make sure to precast <Skill name="litanyofwrath" /> at the start of these phases so that you have <Boon name="Resolution" /> during your opener. This is especially important when beginning phases on Longbow as you will not have <Skill name="symbolofresolution" /> up until late in your burst.
+
+It may require some attention to maintain permanent <Boon name="Resolution" /> solo. Notable teammates who can aid with <Boon name="Resolution" /> uptime include:
+
+- <Specialization name="Firebrand" text="Firebrands" />, if taking
+  - <Skill name="mantraofsolace" />
+  - <Skill name="mantraofliberation" />
+  - <Skill name="standyourground" />
+  - <Skill name="hallowedground" />
+- <Specialization name="Guardian" text="Guardians"/> with <Skill name="symbolofresolution" /> (usually on <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
+
+- <Specialization name="Renegade" text="Renegades"/> with <Trait name="spiritboon" />
 
 </Advanced>
 
@@ -601,24 +203,22 @@ For that reason, you will find some general notes for skill usage here.
 If you have a Mistlock Singularity present you can use these skills for precasts:
 
 1.  Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
-2.  Use <Skill name="Save yourselves"/> or <Skill name="hallowedground"/>
+2.  Use <Skill name="Save yourselves"/> and <Skill name="hallowedground"/> (<Skill name="hallowedground"/> is a must)
 3.  Blast a fire field with <Skill name="Holy Strike"/>
 4.  Use <Skill name="Feelmywrath"/>
-5.  Use <Skill name="banesignet"/>
-6.  Take mistlock
-7.  Blast a fire field with <Skill name="Holy Strike"/> again
+5.  Take the Mistlock Singularity
+6.  Blast a fire field with <Skill name="Holy Strike"/> again
+
+- Add <Skill name="shieldofcourage" /> if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
 
 </Card>
 
 <Card title="Notes on skill usage:">
 
-- Always start on the sword
-- Delay swapping to GS until the CC-bar is about to be broken. This is especially important at Ensolyss without instant CC.
-- Always cast your <Skill name="whirlingwrath"/> inside the hitbox to get the additional hits. Ideal with adds around.
-- Always cast your <Skill name="bindingblade"/> inside the hitbox to get the additional hits when adds are present. Can be abused at **Artsariiv**, **Arkk**, **Siax**, and **Ensolyss**.
-- Don't interrupt your GS auto-attack chain.
-- In certain scenarios (precasting traps, starting with <Skill name="onewolfpack"/>) it can be beneficial to get your <Skill name="spearofjustice"/> out first.
-- Don't waste your key skills on meaningless adds.
+- Cast <Skill name="whirlingwrath"/> inside the boss' hitbox so the additional projectiles hit.
+- Cancel your <Skill name="symbolofresolution" /> and <Skill name="bindingblade" /> aftercasts to save time.
+- Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax** and **Ensolyss**, but also occurs at **Artsariiv**, **Arkk**, and **MAMA**.
+- If running <Trait name="biggamehunter" /> and precasting traps, symbols, or <Skill name="firestorm"/>, open with <Skill name="spearofjustice"/> as soon as the boss is vulnerable.
 
 </Card>
 
@@ -627,77 +227,67 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 <Beginner>
 
 <Card title="Step-by-Step Rotation">
+**Step 1: Sword of Justice + Trap**
 
-**Step 0: Bane Signet**
+Start with <Skill name="swordofjustice"/> and <Skill name="processionofblades" />.
 
-The <Skill name="Bane Signet"/> grants you a passive boost to your <Attribute name="Power"/>. Its active effect (when clicked) will inflict a high amount of CC (300 CC) on your target and share the passive with your allies for 10 seconds through <Trait name="Perfect Inscriptions"/>. Therefore, you want to do the following:
+- <Skill name="swordofjustice" profession="guardian" /> and <Skill name="processionofblades" /> both have a wind up time before dealing all their damage. Use them at the start of your opener to maximize your burst.
+- <Skill name="swordofjustice" profession="guardian" /> has 3 charges. The other charges can be used later in the rotation as filler.
 
-- If a Mistlock Singularity is present, cast <Skill name="Bane Signet"/> there to share its buff right before you run into the fight, then take the singularity.
-- If a boss starts with a break bar, you should cast <Skill name="Bane Signet"/> at the start to help with breaking the bar while also sharing its passive to your allies to enhance their burst damage as well.
-- If a boss does not get a break bar early into the fight, you can use <Skill name="Bane Signet"/> before the fight starts to share the passive and start right with your burst when the boss spawns.
+**Step 2: Longbow skills**
 
-**Step 1: Greatsword Skills**
+Next, use <Skill name="symbolofenergy" /> (LB4), <Skill name="huntersward" /> (LB5), and <Skill name="trueshot" /> (LB2).
 
-The first step consists of using <Skill name="Symbol of Resolution"/>, <Skill name="Whirling Wrath"/> and <Skill name="Binding Blade"/> off-cooldown (in this order of priority if multiple come up at the same time).
-
-- <Skill name="Symbol of Resolution"/> and <Skill name="Whirling Wrath"/> are your 2 biggest damaging weapon skills on the Greatsword.
-- Make sure to be in the hitbox of the enemy whenever possible for <Skill name="Whirling Wrath"/>. <Skill name="Whirling Wrath"/> deals additional damage when casted inside a hitbox.
-- <Skill name="Binding Blade"/> will deal more damage if you are in the hitbox while there are extra enemies around.
-
-**Step 2: Trap + F1 Combo**
-
-Next up, it is time to incorporate <Skill name="Spear of Justice"/> and <Skill name="Procession of Blades"/>.
-
-- Try to always wait until both skills are up again and then cast <Skill name="Procession of Blades"/> first, followed by <Skill name="Spear of Justice"/>.
-- Using <Skill name="Spear of Justice"/> will tether you to your target making you deal increased damage while it is active due to <Trait name="Big Game Hunter"/>.
-- Your trap <Skill name="Procession of Blades"/> deals high damage and you therefore should always cast it while being tethered to your target.
-- If you kill certain enemies, your <Skill name="Spear of Justice"/> will reset due to <Trait name="Renewed Justice"/>. Wait until you get your trap back to cast both of them unless the boss will phase or die before this happens.
-
-The opener at this step looks like this:
-
-1. <Skill name="Procession of Blades"/>
-2. <Skill name="Spear of Justice"/>
-3. <Skill name="Symbol of Resolution"/>
-4. <Skill name="Whirling Wrath"/>
-5. <Skill name="Binding Blade"/>
-
-**Step 3: Sword of Justice**
-
-Now it is time to incorporate another strong utility skill, <Skill name="Sword of Justice"/>.
-
-- <Skill name="Sword of Justice"/> has 3 maximum charges. It summons a sword that will deal damage and inflict <Condition name="Vulnerability"/> on nearby enemies while it is active.
-- Its recharge time aligns with the cooldown of <Skill name="Spear of Justice"/> so we will always use 1 charge right before we cast our Trap + F1. This will enhance the burst damage further.
-- The other charges may be used between other skill casts in our opener or any time we do not have another skill ready to use as we should always get one charge back when our F1 comes back up for our burst due to them having the same cooldown. Try to use them while tethered to an enemy with <Skill name="Spear of Justice"/> for the extra damage.
-
-**Step 4: Sword skills**
-
-This last step will not contribute much to your consistent DPS but can increase your burst by a good amount which is especially important in fights with shorter phases. We will use <Skill name="Symbol of Blades"/> and <Skill name="Zealots Defense"/> at the start of the fight, then swap to Greatsword and do our regular rotation.
+- <Skill name="huntersward" /> is easy to cancel by queuing your next skill too early. Be careful not to cancel it with <Skill name="trueshot" />.
+- <Skill name="deflectingshot" /> (LB3) is a CC skill. Use it to deal breakbar damage to bosses or when knockback is needed.
 
 The opener should now look like this:
 
 1. <Skill name="Sword of Justice"/>
 2. <Skill name="Procession of Blades"/>
-3. <Skill name="Spear of Justice"/>
-4. <Skill name="Symbol of Blades"/>
-5. <Skill name="Zealots Defense"/>
+3. <Skill name="Symbol of Energy"/>
+4. <Skill name="Hunter's Ward"/>
+5. <Skill name="True Shot"/>
+
+**Step 3: Greatsword Skills**
+
+From here on, cast <Skill name="Symbol of Resolution"/> (GS4) and <Skill name="Whirling Wrath"/> (GS2) off-cooldown.
+
+- <Skill name="Symbol of Resolution"/> has a very long aftercast which can be cancelled to save time. This can be done by moving or stowing weapon after the symbol is placed.
+- <Skill name="Whirling Wrath"/> fires additional damaging projectiles outwards. Try to stand inside the boss' hitbox so that these projectiles don't miss.
+
+The opener should now look like this:
+
+1. <Skill name="Sword of Justice"/>
+2. <Skill name="Procession of Blades"/>
+3. <Skill name="Symbol of Energy"/>
+4. <Skill name="Hunter's Ward"/>
+5. <Skill name="True Shot"/>
 6. Swap to Greatsword
 7. <Skill name="Symbol of Resolution"/>
 8. <Skill name="Whirling Wrath"/>
-9. <Skill name="Binding Blade"/>
 
-</Card>
+**Step 4: Additional Greatsword Skills**
 
-<Card title="Improving Further">
+<Skill name="bindingblade" /> (GS5) and <Skill name="leapoffaith" /> (GS3) can add additional damage or utility depending on the context.
 
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great burst damage and good consistent damage.
+- <Skill name="Binding Blade"/> fires projectiles at up to 5 nearby enemies. The skill can be recast to pull in hit enemies, or to deal breakbar damage to bosses.
+- If standing inside a boss' hitbox, additional projectiles from <Skill name="Binding Blade"/> will all hit the boss, dealing massive single-target damage.
+- <Skill name="leapoffaith" /> can be saved for mobility in fights with movement.
+- If no above situations apply, <Skill name="bindingblade" /> and <Skill name="leapoffaith" /> provide a moderate dps increase over autoattacking. Weave them in after <Skill name="symbolofresolution" /> and <Skill name="whirlingwrath" />.
 
-There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
+The opener should now look like this:
 
-The additional steps are:
-
-- Incorporate your Focus skills into the rotation, namely <Skill name="Ray of Judgment"/> and <Skill name="Shield of Wrath"/>.
-- Weapon swap more often on fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="Zealots Defense"/> twice on the respective weapon set.
-- Precasts: You can cast lasting skills such as <Skill name="Symbol of Blades"/> before the fight starts to get your damage up earlier and have 1 less cast in your opener.
+1. <Skill name="Sword of Justice"/>
+2. <Skill name="Procession of Blades"/>
+3. <Skill name="Symbol of Energy"/>
+4. <Skill name="Hunter's Ward"/>
+5. <Skill name="True Shot"/>
+6. Swap to Greatsword
+7. <Skill name="Symbol of Resolution"/>
+8. <Skill name="Whirling Wrath"/>
+9. <Skill name="leapoffaith" />
+10. <Skill name="bindingblade" />
 
 </Card>
 
@@ -712,34 +302,43 @@ The additional steps are:
 
 **Rotation:**
 
-1.  <Skill name="banesignet" profession="guardian"/>
-2.  <Skill name="Symbol of Blades" profession="guardian"/> (Sword 2)
-3.  <Skill name="Shield of Wrath" profession="guardian"/> (Focus 5)
-4.  <Skill name="Sword of Justice" profession="guardian"/>
-5.  <Skill name="Procession of Blades " profession="guardian"/>
-6.  <Skill name="spearofjustice" profession="guardian"/> (F1)
-7.  <Skill name="Zealotsdefense" profession="guardian"/> (Sword 3)
-8.  <Skill name="Ray of Judgment" profession="guardian"/> (Focus 4)
-9.  **Weapon Swap**
-10. <Skill name="Symbol of Resolution" profession="guardian"/> (GS 4)
-11. <Skill name="Whirling Wrath" profession="guardian"/> (GS 2)
-12. <Skill name="Sword of Justice" profession="guardian"/>
-13. <Skill name="Dragons Maw" profession="guardian"/>
-14. <Skill name="Sword of Justice" profession="guardian"/>
-15. <Skill name="Leap of Faith" profession="guardian"/> (GS 3)
-16. <Skill name="Binding Blade" profession="guardian"/> (GS 5)
-17. If the phase lasts longer than this, continue with the SC rotation.
+1.  <Skill name="Sword of Justice" profession="guardian"/>
+2.  <Skill name="Procession of Blades " profession="guardian"/>
+3.  <Skill name="spearofjustice" profession="guardian"/>
+4.  <Skill name="Symbol of Energy" profession="guardian"/>
+5.  <Skill name="Hunter's Ward" profession="guardian"/>
+6.  <Skill name="True Shot" profession="guardian"/>
+7.  **Weapon Swap**
+8.  <Skill name="Symbol of Resolution" profession="guardian"/>
+9.  <Skill name="Whirling Wrath" profession="guardian"/>
+10. <Skill name="leapoffaith" />
+11. <Skill name="bindingblade" />
+
+Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
 
 </Card>
+
 </Advanced>
 
 <Beginner>
 
 <Card title="Step-by-Step Video">
 
-This video shows the step-by-step approach to the rotation listed on the left.
+This video shows the step-by-step approach to the rotation.
 
-<Video youtube="03nlPL24KWE" caption="by Ascers"/>
+<Video youtube="pJHII9e_qIY" caption="by Shavy"/>
+
+</Card>
+
+<Card title="Improving Further">
+
+Once you are comfortable with the above steps, you will have the general concept down. Additional tips can be found on the advanced page if you wish to improve further.
+
+For now, try to:
+
+- Employ weapon swap in fights with long phases, usually after using <Skill name="Whirling Wrath"/>/<Skill name="True Shot"/> twice on their respective weapon sets.
+- Make use of your CC skills to break boss bars faster
+- Start thinking about phase times and how to fit the maximum amount of damage in before the boss dies/goes invulnerable
 
 </Card>
 
@@ -747,9 +346,9 @@ This video shows the step-by-step approach to the rotation listed on the left.
 
 <Card title="Golem Rotation">
 
-This video shows the full rotation on the golem. It will slightly vary from the step-by-step version. It also uses the raid setup so numbers will not be comparable.
+This video shows the full rotation on the golem. It will vary from the step-by-step version as it is optimized for sustained DPS and not Fractals.
 
-<Video youtube="faIaiHFG1qI" caption="by Nagy"/>
+<Video youtube="" caption=""/>
 </Card>
 </GridItem>
 
@@ -757,7 +356,7 @@ This video shows the full rotation on the golem. It will slightly vary from the 
 
 <Divider text="Underwater combat"/>
 
-It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS compared to the <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
+It is very much recommended to play <BuildLink build="Condi Firebrand" specialization="Firebrand"/> since it provides much better DPS underwater compared to <Specialization text="Power Dragonhunter" name="Dragonhunter"/>. If you still want to play <Specialization text="Power Dragonhunter" name="Dragonhunter"/> for whatever reason follow these rough guidelines.
 
 - Open with <Skill name="refraction"/> for <Boon name="resolution"/>
 - Cast <Skill name="purify"/> and swap to spear. Camp spear now.
@@ -765,3 +364,61 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
   1.  <Skill name="Zealots flurry"/> (Spear 2)
   2.  <Skill name="Symbol of spears"/> (Spear 4)
   3.  <Skill name="brilliance"/> (Spear 3)
+
+<Advanced>
+<Divider text="Further precasts"/>
+
+<Warning> 
+The following tips are heavily tailored to static groups looking to push their damage, and are not recommended for pug scenarios. 
+</Warning>
+
+<Card title="Trap Precasting">
+
+Before precasting boons at the Mistlock Singularity, you can precast traps on the boss or at add spawn locations for additional damage.
+
+- You may want to skip <Skill name="purification" /> so that you can precast <Trait name="healersresolution" /> at the mistlock.
+- If you status reset yourself (i.e. swap to a template with different traits), all of your traps (plus boons/buffs) will disappear.
+- If <Skill name="processionofblades" /> or <Skill name="lightsjudgment" /> are swapped off of your utility bar, they will disappear even without status reset.
+
+</Card>
+
+<Card title="Symbol Precasting">
+Right before the boss is triggered, cast multiple symbols by cycling through weapons in your inventory. These will tick on the boss for additional burst damage.
+
+The available symbols for precasting are as follows: <Skill name="symboloffaith" />, <Skill name="symbolofswiftness" />, <Skill name="symbolofpunishment" />, <Skill name="symbolofblades" />, <Skill name="symbolofenergy" />, <Skill name="symbolofresolution" />.
+
+- <Skill name="symboloffaith" /> has the longest cast time and drops at your location at the end of the cast, so it is recommended to start with this while running in.
+- Add <Skill name="shieldofwrath" /> in towards the end of your symbols for significant extra damage. This may be difficult to do without a dedicated equipment template as equipping a 2-handed weapon will unequip your Focus.
+- It is important to trigger the boss right after you finish using your symbols, or you will lose damage ticks on your symbols.
+- Instant CC is valuable so that symbols tick into <Effect name="Exposed" />.
+- In fast phase times, it can be worth it to use <Skill name="symbolofresolution" /> and/or <Skill name="symbolofenergy" /> in your precast. With slower phases, it may be better to use them in-phase so that no ticks are missed.
+
+Here is a symbol precast example skill order:
+
+1. <Skill name="symboloffaith" /> while running in
+2. <Skill name="symbolofswiftness" />
+3. <Skill name="symbolofpunishment" /> and <Skill name="shieldofwrath" />
+4. Swap to main weapon and trigger boss
+
+You may wish to add/remove symbols to your precast depending on personal speed or boon/buff timers (such as <Skill name="onewolfpack" />). Do note that it is not worth casting 6 symbols as your oldest symbol will have expired by the time the boss is vulnerable.
+
+- It can be useful to create dedicated templates for symbol and trap precasting. Take care not to status reset by swapping between build templates with different traits - only different utilities are okay.
+- Do not precast symbols in pugs, unless you are absolutely sure no one else will trigger the boss before you, or you will have to learn the hard way and play Mace <Specialization name="Dragonhunter" />.
+
+**Ideal Symbol Precasts**: priority is Scepter→Sword+Focus→Staff→Longbow. Always have Scepter and Focus equipped over the weapon you would usually start the encounter with. If you prefer to have Mace as an extra weapon through this process, to get in the flow, it must always come first, and can be cast as you traverse a portal to the boss. When on Scepter, cast <Skill name="symbolofpunishment"/>. As it goes off, switch to Sword and use <Skill name="symbolofblades"/> & <Skill name="shieldofwrath"/>. then Staff (<Skill name="symbolofswiftness"/>), Longbow (<Skill name="symbolofenergy"/>), and finally your weapon of choice for the start of the encounter (Greatsword + <Skill name="symbolofresolution"/> or current Longbow).
+
+If you do not wish to use multiple templates just for symbol precasting:
+
+- In the inventory, position the weapons you need in a straight line or in a square shape at the very top of it; find something practical for you, for frequent use. Make sure you have an empty slot for the focus as well, so it always drops down in the right place every time you equip and unequip it. _The use of Ascended weapons is an absolute must_. _Current_ weapon strength does matter when casting abilities. **Do NOT share any ascended weapons between templates**. Make sure to have unique ascended weapons for each template you might need.
+
+</Card>
+
+<Card title="Advanced Tips">
+- Try to use <Skill name="bindingblade"/> inside the boss' hitbox when multiple adds are nearby, as it will proc for every for surrounding you within a 600 range.
+- <Skill name="litanyofwrath"/> can be used to cancel aftercasts as it has priority over other abilities. It is useful to cancel <Skill name="bindingblade"/>'s aftercast on Artsariiv P1.
+- <Skill name="dragonsmaw"/> cast on the edge of the boss will also periodically apply 150 Defiance-bar damage from pulling thanks to the field left in its wake. This can be used on multiple encounters.
+- Sheathing: multiple abilities can be sheathed/stowed for significant damage increases: <Skill name="symbolofresolution"/>, <Skill name="bindingblade"/> and <Skill name="zealotsdefense"/>. Casting <Skill name="vengefulstrike"/> and following with a different ability than <Skill name="wrathfulstrike"/> needs to be avoided as <Skill name="vengefulstrike"/> in itself has a huge aftercast, which cannot be interrupted by stowing.
+- Traps can be precasted on the edge of MAMA and Ensolyss' locations, and will proc when they both use their signature ability: the bubble. This is because both of them reposition slightly while casting it. Said location for traps to proc is quite forgiving on MAMA, but rather difficult to find on Ensolyss and takes some getting used to: both are pretty consistent.
+- Additionally, traps can be cast on the edge of Arkk's hitbox during downtime, namely <Skill name="processionofblades"/>, to be later proced after pushing the orbs. Traps have a tendency to proc when any moving and damaging field collides with the enemy's hitbox, such as Scrapper gyros, Mallyx elite ability and Warrior's Torch#5. To achieve this, picture the diagonals passing through Arkk and the central tiles. Cast <Skill name="processionofblades"/> on one of those diagonals such that the trap overlaps Arkk's hitbox, but doesn't cover it completely. This is useful on Arkk as <Skill name="processionofblades"/> has a rather short cooldown, and the boss has a lot of downtime.
+</Card>
+</Advanced>

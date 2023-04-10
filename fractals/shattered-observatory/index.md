@@ -3,30 +3,30 @@ potions:
   - id: 50082
     description: against Arkk
 cycle: Day
-date: 2021-09-19T17:27:53.415Z
+date: '2021-09-19T17:27:53.415Z'
 consumables:
   - 78978
 record:
-  time: '5 min 15 sec'
+  time: '4 min 59 sec'
   by:
-    - name: Nightmare Shattered
-      tag: Ns
+    - name: Discretize
+      tag: dT
   youtube:
-    - id: gniUy_2k2hM
-      name: Xarax
-      specialization: Soulbeast
-    - id: rmaBOh_xi7Y
-      name: Ryan
-      specialization: Soulbeast
-    - id: 2clUITx7nZQ
-      name: CopyThisStatic
-      specialization: Weaver
-    - id: TT8pBa8mQOc
-      name: NCDope
+    - id: qhCSGO0cZ0o
+      name: Hyp
+      specialization: Scrapper
+    - id: L0tnVqb2WaM
+      name: Inky
       specialization: Renegade
-    - id: ypaokpTJE9k
-      name: Fines
-      specialization: Firebrand
+    - id: VJOA0w7c_rw
+      name: Jetrell
+      specialization: Soulbeast
+    - id: A_Tjiz1hv5g
+      name: Magicbot
+      specialization: Soulbeast
+    - id: ODqSBG4M7_I
+      name: Seatek
+      specialization: Soulbeast
 title: Shattered Observatory
 image: ./images/header.jpg
 group: Challenge Mode
@@ -54,15 +54,11 @@ The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar 
 </GridItem>
 
 <GridItem sm="5">
-
-<MDImage src="images/skorvald.jpg" caption="Skorvald the Shattered"/>
-
+![Skorvald the Shattered](images/skorvald.jpg)
 </GridItem>
 
 <GridItem sm="2">
-
-<MDImage src="images/elite-flux-anomaly.jpg" caption="An Elite Flux Anomaly"/>
-
+![An Elite Flux Anomaly](images/elite-flux-anomaly.jpg)
 </GridItem>
 
 <GridItem sm="10">
@@ -103,7 +99,6 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 
 <Grid>
 <GridItem sm="8">
-
 After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
 
 You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
@@ -111,15 +106,11 @@ You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. F
 You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
 
 If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip directly to Artsariiv using the shortcut (video on the side), otherwise use your <SpecialActionKey name="hypernovalaunch"/> on the next platform to jump to the elite mob and kill it to proceed to Artsariiv.
-
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/way_to_artsariiv.jpg" caption="The way to Artsariiv"/>
-
+![The way to Artsariiv](images/way_to_artsariiv.jpg)
 <ProfessionVideo src="dirYlXZMCc4" profession="Renegade" title="Skip to Artsariiv (any class)"/>
-
 </GridItem>
 </Grid>
 
@@ -140,9 +131,7 @@ Assign a player for the _Globolla Marble_ bouncing (typically the <Specializatio
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/artsariiv.jpg" caption="Artsariiv: The second boss"/>
-
+![Artsariiv: the second boss]
 </GridItem>
 </Grid>
 
@@ -181,11 +170,8 @@ After the fight is over, take the portal in the North and move forward to get to
 </GridItem>
 
 <GridItem sm="3">
-
-<MDImage src="images/so-doom.jpg" caption="A player doomed to explode"/>
-
-<MDImage src="images/so-temporal-anomaly.jpg" caption="A Temporal Anomaly"/>
-
+![A player is doomed to explode](images/so-doom.jpg)
+![A temporal anomaly](images/so-temporal-anomaly.jpg)
 </GridItem>
 </Grid>
 
@@ -206,9 +192,7 @@ Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/arkk.jpg" caption="Arkk: The final boss"/>
-
+![Arkk: the final boss](images/arkk.jpg)
 </GridItem>
 </Grid>
 
@@ -228,7 +212,7 @@ When Arkk reaches 80% health, he gains <Effect name="Invulnerability"/> and play
 
 A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
 
-<MDImage src="images/so-solar-bloom.jpg" caption="Solar Blooms fixate on the closest player"/>
+![Solar Blooms fixate on the closest player](images/so-solar-bloom.jpg)
 
 The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
 
@@ -240,7 +224,7 @@ At 70% and 40% of Arkk's health, the party gets teleported to another dimension 
 
 Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
 
-#### Final phase <Label><40%</Label>
+#### Final phase <Label>\<40%</Label>
 
 Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
 
@@ -270,12 +254,8 @@ The most important thing is to keep calm. Remember that every single ability can
 </GridItem>
 
 <GridItem sm="3">
-
-<MDImage src="images/so-arkk-eye.jpg" caption="The Blinding Radiance ability"/>
-
-<MDImage src="images/so-arkk-solar.jpg" caption="Arkk preparing Solar Fury"/>
-
-<MDImage src="images/so-arkk-green.jpg" caption="Temporal Realignment"/>
-
+![The Blinding Radiance ability](images/so-arkk-eye.jpg)
+![Arkk preparing Solar Fury](images/so-arkk-solar.jpg)
+![Temporal Realignment](images/so-arkk-green.jpg)
 </GridItem>
 </Grid>

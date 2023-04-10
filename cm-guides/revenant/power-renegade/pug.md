@@ -3,7 +3,7 @@ title: Renegade CM guides
 type: Pick up Group
 profession: Revenant
 specialization: Renegade
-date: 2021-11-15T08:42:19.819Z
+date: '2021-11-15T08:42:19.819Z'
 author: Casual Sophie - Jin Su Liang.9036
 disableBosses:
   - LightAi

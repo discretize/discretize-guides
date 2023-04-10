@@ -3,7 +3,7 @@ cycle: Night
 potions:
   - id: 8885
     description: for the Jade enemies
-date: 2022-07-01T17:24:30.000Z
+date: '2022-07-01T17:24:30.000Z'
 title: Solid Ocean
 image: ./images/header.jpg
 group: T4
@@ -22,19 +22,19 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/A5DE6K4Y4OY
+    - id: A5DE6K4Y4OY
       name: Maarten
       specialization: Mesmer
-    - id: https://youtu.be/urWnJ6H7j3o
+    - id: urWnJ6H7j3o
       name: Hyp
       specialization: Firebrand
-    - id: https://youtu.be/DOWbGXuyMfk
+    - id: DOWbGXuyMfk
       name: Seatek
       specialization: Dragonhunter
-    - id: https://youtu.be/Q-q7ELFb20w
+    - id: Q-q7ELFb20w
       name: Jetrell
       specialization: Soulbeast
-    - id: https://youtu.be/oAltdvLk53o
+    - id: oAltdvLk53o
       name: Inky
       specialization: Virtuoso
 ---
@@ -50,21 +50,15 @@ Use <Effect name="Stealth"/> to skip the mobs easily or condition cleanses to re
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/start_1.jpg"/>
-
+![](images/start_1.jpg)
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/start_2.jpg"/>
-
+![](images/start_2.jpg)
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/start_3.jpg"/>
-
+![](images/start_3.jpg)
 </GridItem>
 </Grid>
 
@@ -110,7 +104,6 @@ Continue reflecting crystals and killing tentacles until the boss reaches 8%. Th
 Congratulations, you finished the fractal.
 
 </GridItem>
-
 </Grid>
 
-<MDImage src="images/jade_maw.jpg"/>
+![Jade maw, the final boss](images/jade_maw.jpg)

@@ -1,17 +1,18 @@
 ---
 title: New Player Guide
-date: 2022-08-10T22:09:13.528Z
+date: '2022-08-10T22:09:13.528Z'
 image: ./images/lobby.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
 ---
+
 ## Introduction to fractals
 
 <Grid>
 
 <GridItem xs="12" sm="7">
 
-Fractals of The Mists, frequently called *"fractals"*, or simply *"fracs"*, are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. 100 levels are structured into 4 different tiers, each consisting of 25 levels.
+Fractals of The Mists, frequently called _"fractals"_, or simply _"fracs"_, are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. 100 levels are structured into 4 different tiers, each consisting of 25 levels.
 
 As you move up in fractal level, the content becomes more difficult – but also more rewarding.
 
@@ -22,9 +23,7 @@ Starting at level 20, players need to deal with <Effect name="Agony"/> which req
 </GridItem>
 
 <GridItem xs="12" sm="5">
-
-<MDImage src="images/portal.jpg" caption="Portal to the fractals in Lions Arch (Fort Marriner)" />
-
+![Portal to the fractals in Lions Arch (Fort Marriner)](images/portal.jpg)
 </GridItem>
 
 </Grid>
@@ -41,29 +40,23 @@ Starting with tier 2, the players begin encountering _Mistlock instabilities_ wh
 
 ## Defiance bars
 
-<MDImage src="images/ccbar.png" caption="The CC bar is underneath the health bar" />
+![The CC bar is underneath the health bar](images/ccbar.png)
 
 <Grid>
-
 <GridItem sm="9">
-
 Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns, or applies movement impairing conditions) a chunk of the bar gets removed. The bar is called a *defiance bar* or more commonly in pugs a *break bar*. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break the defiance bar and then burst. Ideally, everyone in the team contributes to breaking the bar as it appears.
 
 Skills that damage the defiance bar are highlighted turquoise in the tooltip. Bosses have varying sizes of CC bars. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest instead consulting the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) for finding out the exact values.
-
 </GridItem>
+
 <GridItem sm="3">
-
-<MDImage src="images/cchighlight.png" caption="The amount of CC a skill deals (roughly) is highlighted in cyan" />
-
+![The amount of CC a skill deals (roughly) is highlighted in cyan](images/cchighlight.png)
 </GridItem>
 </Grid>
 
 <Warning>
-
 **Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
-
 </Warning>
 
 ---
@@ -76,7 +69,7 @@ The fractal-specific potions influence the way builds are designed. Each of them
 
 | Potion             | Stat                              | Gain on 162 <Attribute name="Agony Resistance"/>                                |
 | ------------------ | --------------------------------- | ------------------------------------------------------------------------------- |
-| <Item id="71659"/> | <Attribute name="Vitality"/>     | 243 <Attribute name="Vitality"/> = 2430 <Attribute name="Health"/>  |
+| <Item id="71659"/> | <Attribute name="Vitality"/>      | 243 <Attribute name="Vitality"/> = 2430 <Attribute name="Health"/>              |
 | <Item id="76150"/> | <Attribute name="Toughness"/>     | 243 <Attribute name="Toughness"/>                                               |
 | <Item id="75427"/> | <Attribute name="Concentration"/> | 243 <Attribute name="Concentration"/> = 16.2% <Attribute name="Boon Duration"/> |
 
@@ -128,9 +121,7 @@ While there are no hard-set rules or things you "must" bring to clear an encount
 
 <Grid>
 <GridItem sm="1" md="1">
-
-<MDImage src="images/mistlocked.png" caption="[FotM]"/>
-
+![[FotM]](images/mistlocked.png)
 </GridItem>
 
 <GridItem sm="11" md="11">
@@ -143,9 +134,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </GridItem>
 
 <GridItem sm="1" md="1">
-
-<MDImage src="images/gw2university.png" caption="GW2University"/>
-
+![GW2University](images/gw2university.png)
 </GridItem>
 <GridItem sm="11" md="11">
 
@@ -239,20 +228,20 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ## Abbreviations for navigating the LFG
 
-| Short              | Long               | Aliases       | Description                                                                                                                         | Link                                                                                                                                   |
-| ------------------ | ------------------ | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| `CFB`              | Condi Firebrand    | `cqfb`, `fb`, `qshare`, `qfb`  | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                  | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>                                                                        |
-| `SFB`, `celebrand` | Celestial Firebrand   | `qfb`, `fb`   | <Specialization name="Firebrand" text="Clelestial Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals | <BuildLink build="Celestial Firebrand" specialization="Firebrand"/>                                                                       |
-| `HB`               | Heal Firebrand     | `hfb`, `fb`   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build               | <BuildLink build="Heal Firebrand" specialization="Firebrand"/>                                                                         |
-| `Heal Mech`        | Heal Alacrity Mechanist  | `alac`, `HAM` | <Specialization name="Mechanist"/> for <Boon name="Alacrity"/> and healing                        | <BuildLink build="Heal Mechanist" specialization="Mechanist"/> |
-| `Ren`              | Alacrity Renegade  | `alac`, `rev` | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities (can be power or condi)                         | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
-| `Alac`             | Alacrity Provider  | `alac`, `HAM` | Any build that can provide <Boon name="Alacrity"/>. Could be a support or damage build                         |  |
-| `Quick`            | Quickness Provider | `qfb`, `qshare`, `hfb`, `hb`,  | Any build that can provide <Boon name="Quickness"/>. Could be a support or damage build                        |  |
-| `CDPS`             | Condition DPS      | `dps`, `cdps` | A suitable condition dps build from a class of your choice                                                                          |                                                                                                                                        |
-| `PDPS`             | Power DPS          | `dps`, `pdps` | A suitable power dps build from a class of your choice                                                                              |                                                                                                                                        |
-| `DoD`              | Defier of Doubt    | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                |                                                                                                                                        |
-| `DwD`              | Dances with Demons | `title`       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                         |                                                                                                                                        |
-| `kp`               | Kill proof         | `UFE`         | <Item id="94020"/>: Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                                  |                                                                                                                                        |
+| Short              | Long                    | Aliases                       | Description                                                                                                                             | Link                                                                                                                                   |
+| ------------------ | ----------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `CFB`              | Condi Firebrand         | `cqfb`, `fb`, `qshare`, `qfb` | <Specialization name="Firebrand" text="Condi Firebrand"/> for <Boon name="Quickness"/> or as a DPS                                      | <BuildLink build="Condi Firebrand" specialization="Firebrand"/>                                                                        |
+| `SFB`, `celebrand` | Celestial Firebrand     | `qfb`, `fb`                   | <Specialization name="Firebrand" text="Clelestial Firebrand"/> for <Boon name="Quickness"/>. Hybrid build that deals some DPS and heals | <BuildLink build="Celestial Firebrand" specialization="Firebrand"/>                                                                    |
+| `HB`               | Heal Firebrand          | `hfb`, `fb`                   | <Specialization name="Firebrand" text="Heal Firebrand"/> for <Boon name="Quickness"/> and group support, Healer build                   | <BuildLink build="Heal Firebrand" specialization="Firebrand"/>                                                                         |
+| `Heal Mech`        | Heal Alacrity Mechanist | `alac`, `HAM`                 | <Specialization name="Mechanist"/> for <Boon name="Alacrity"/> and healing                                                              | <BuildLink build="Heal Mechanist" specialization="Mechanist"/>                                                                         |
+| `Ren`              | Alacrity Renegade       | `alac`, `rev`                 | <Specialization name="Renegade"/> for <Boon name="Alacrity"/> and support utilities (can be power or condi)                             | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> <br/> <BuildLink build="Power Renegade" specialization="Renegade"/> |
+| `Alac`             | Alacrity Provider       | `alac`, `HAM`                 | Any build that can provide <Boon name="Alacrity"/>. Could be a support or damage build                                                  |                                                                                                                                        |
+| `Quick`            | Quickness Provider      | `qfb`, `qshare`, `hfb`, `hb`, | Any build that can provide <Boon name="Quickness"/>. Could be a support or damage build                                                 |                                                                                                                                        |
+| `CDPS`             | Condition DPS           | `dps`, `cdps`                 | A suitable condition dps build from a class of your choice                                                                              |                                                                                                                                        |
+| `PDPS`             | Power DPS               | `dps`, `pdps`                 | A suitable power dps build from a class of your choice                                                                                  |                                                                                                                                        |
+| `DoD`              | Defier of Doubt         | `title`                       | Requirement in LFG, earned by completing level 100 in challenge mode                                                                    |                                                                                                                                        |
+| `DwD`              | Dances with Demons      | `title`                       | Requirement in LFG, earned by completing level 100 in challenge mode without someone dying.                                             |                                                                                                                                        |
+| `kp`               | Kill proof              | `UFE`                         | <Item id="94020"/>: Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                                      |                                                                                                                                        |
 
 ---
 
@@ -271,9 +260,7 @@ Note that resource bars such as <Specialization name="Warrior"/>'s Adrenaline ba
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/gg.jpg" caption="A dead player"/>
-
+![A dead player](images/gg.jpg)
 </GridItem>
 </Grid>
 
@@ -283,19 +270,15 @@ Note that resource bars such as <Specialization name="Warrior"/>'s Adrenaline ba
 
 <Grid>
 <GridItem sm="12" md="2">
-
-<MDImage src="images/mistlock.jpg" alt="Mistlock Singularity" />
-
+![Mistlock Singularity](images/mistlock.jpg)
 </GridItem>
 
 <GridItem sm="12" md="10">
-
 After maxing the fractal masteries to level 4 you get access to _Mistlock Singularities_. Taking one of these will reset the cooldowns of all your skills! This allows you to precast certain skills before entering the battle without a penalty. It makes sense to precast <Boon name="Quickness"/>, <Boon name="Alacrity"/> and use blast finishers on certain Combo Fields.
 
 The most common applications are <Boon name="Might"/>-stacking using blast finishers inside a _Fire Field_ (3 stacks for 20 seconds with boon duration) and <Effect name="Stealth"/>-stacking inside a _Smoke Field_ (3 seconds).
 
 <Warning>
-
 Do not use other combo fields than fire on the _Mistlock Singularity_! All combo fields but the _Fire Field_ are useless in terms of prebooning.
 </Warning>
 </GridItem>
@@ -384,25 +367,20 @@ Generally, you **always** want to stick together as a group. The reason is that 
 ## Mistlock Instabilities
 
 <Grid>
-
 <GridItem sm="8">
-
 In tiers 2 to 4, the fractal will always have Mistlock Instabilities active, which add additional mechanics to the fights. The selection is random for each difficulty level and changes daily. More information can be found [on the official wiki](https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists).
 
 Below is a list of all current instabilities and their possible countermeasures.
-
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/instabilities.jpg" alt="Instabilities" />
-
+![Instabilities](images/instabilities.jpg)
 </GridItem>
 
 </Grid>
 
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Instability name="Adrenaline Rush"/>     | When enraged, enemies deal 10% increased damage while they're low on health (below 10%). Enemies deal 10% less damage when not enraged.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | <Instability name="Afflicted"/>           | Outgoing <Boon name="resistance"/> and <Boon name="resolution"/> duration is increased by 33%. Enemies apply random conditions (<Condition name="Bleeding"/>, <Condition name="Burning"/>, <Condition name="Confusion"/>, <Condition name="Poisoned"/> and <Condition name="Torment"/>). Not necessary, although a good countermeasure is to have the <Specialization name="Firebrand"/> use <Skill id="45460"/> or blasting light fields.                                                                                                                                                                                                                              |
 | <Instability name="Flux Bomb"/>           | This means that players in combat are randomly marked with Flux Bombs which leave a damaging and blinding AoE field behind. Do not place those inside the combat area, learn to dash away right before the field deploys. If you keep walking forward while marked you won't get any damage from the bomb. Flux bombs now apply to both allies and enemies. **_It is a little DPS increase to deploy it under the boss/mobs but it is not worth it blinding your team members!_**                                                                                                                                                                                       |
@@ -411,16 +389,15 @@ Below is a list of all current instabilities and their possible countermeasures.
 | <Instability name="No Pain, No Gain"/>    | Enemies receive <Boon name="Protection"/>, <Boon name="Resolution"/> and <Boon name="Might"/> when you hit them, with a 20 second internal cooldown per enemy. Anything that strips boons can be helpful here. For example, <Specialization name="Renegade"/> can strip with <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon stance"/> or <Item id="72872"/>), <Specialization name="Specter" text="Condi Specter"/> can strip with <Trait name="Bountiful Theft"/>. <Specialization name="Mesmer"/> can strip with <Skill name="Phantasmal Disenchanter"/> or Sword auto-attacks. Stripping an enemy boon will also apply the boons to nearby allies. |
 | <Instability name="Social Awkwardness"/>  | Players will be pushed away from one another. Make sure to not run around like a headless chicken! Find a good spot and stand still. If you have <Boon name="Stability"/> you will not be affected.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <Instability name="Toxic Trail"/>         | Enemies leave a trail of poison behind them which inflicts direct damage and the <Condition name="Poisoned"/> condition. Blocking a toxic-trail attack will absorb it, cleanse the condition and apply <Condition name="Poisoned"/> to nearby enemies. It can be very dangerous when fighting multiple mobs. Removes <Boon name="Aegis"/>. This is currently bugged and does not apply <Condition name="Poisoned"/> to enemies.                                                                                                                                                                                                                                         |
-| <Instability name="Fractal Vindicators"/> | Fractal Avengers are replaced by hard-hitting Fractal Vindicators. Those need to be killed as fast as possible to prevent further chaos.  Unlike Avengers, the only way to remove aa Vindicator is to kill it.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| <Instability name="Fractal Vindicators"/> | Fractal Avengers are replaced by hard-hitting Fractal Vindicators. Those need to be killed as fast as possible to prevent further chaos. Unlike Avengers, the only way to remove aa Vindicator is to kill it.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <Instability name="Hamstrung"/>           | The lower your health, the slower you move capped at 33% slower. Endurance regenerates 33% faster. Heal yourself to reduce Hamstrung stacks!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | <Instability name="Boon Overload"/>       | Each boon on a player reduces their maximum health by 1.5%. Outgoing boon duration is increased by 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | <Instability name="Frailty"/>             | Players are smaller and take 10% more damage, but they move 25% faster.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| <Instability name="Vengeance"/>           | When enemies die, they enhance nearby foes with multiple boons, it does not apply to elite foes. Strip any enemy boon to inflict them with <Condition name="Weakness"/> .  This is currently bugged and if you lose <Boon name="Aegis"/> it will apply <Condition name="Weakness"/> to the player.                                                                                                                                                                                                                                                                                                                                                                      |
+| <Instability name="Vengeance"/>           | When enemies die, they enhance nearby foes with multiple boons, it does not apply to elite foes. Strip any enemy boon to inflict them with <Condition name="Weakness"/> . This is currently bugged and if you lose <Boon name="Aegis"/> it will apply <Condition name="Weakness"/> to the player.                                                                                                                                                                                                                                                                                                                                                                       |
 | <Instability name="Outflanked"/>          | Allies within 300 range take 100% damage when attacked from behind. Non-boss enemies within a range of 300 take 100% damage when attacked from behind or the side.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <Instability name="Stick Together"/>      | Take 25% increased damage when not within a range of 300 of an ally. Deal 5% more damage when within a range of 300 of an ally.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | <Instability name="Sugar Rush"/>          | Increases player movement speed and attack speed by 15%. Elite and lower enemies' movement speed and attack speed increase by 25%, but their critical chance is reduced by 25%..                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | <Instability name="Toxic Sickness"/>      | Players are occasionally affected by the toxic vomit attack out of the Nightmare Fractal. Every player gets a cone AoE in front of him, aiming at a party member will deal lethal damage, conditions and the debilitated effect. Proper stacking and positioning nullify this instability effectively. When the vomit attack hits an enemy it applies the <Condition name="poisoned"/>, <Condition name="torment"/>, <Condition name="confusion"/> and debilitated conditions. In fractals, debilitated decreases outgoing damage by 10% per stack, up to 30%                                                                                                           |
-
 
 ---
 
@@ -438,9 +415,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 <Grid>
 <GridItem sm="1" md="1">
-
-<MDImage src="images/mistlocked.png" caption="[FotM]"/>
-
+![[FotM]](images/mistlocked.png)
 </GridItem>
 
 <GridItem sm="11" md="11">
@@ -453,9 +428,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 </GridItem>
 
 <GridItem sm="1" md="1">
-
-<MDImage src="images/gw2university.png" caption="GW2University"/>
-
+![GW2University](images/gw2university.png)
 </GridItem>
 <GridItem sm="11" md="11">
 
@@ -467,4 +440,3 @@ For more information, check out their [website](https://www.gw2university.com/)
 </Grid>
 
 If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.gg/Qdt7nFY) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
-

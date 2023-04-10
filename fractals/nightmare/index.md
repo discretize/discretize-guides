@@ -2,7 +2,7 @@
 potions:
   - id: 50082
 title: Nightmare
-date: 2021-02-24
+date: '2021-02-24'
 image: ./images/ensolyss_crazy.jpg
 group: Challenge Mode
 api: 3177
@@ -48,17 +48,13 @@ sigils:
 
 <Grid>
 <GridItem sm="7">
-
 Stack <Boon name="Might"/> before jumping down. Kill the three _Assault Knights_ (Red, Blue and Green), each of them has the same set of abilities: a PBAoE <Control name="Knockdown"/> and an AoE <Control name="Pull"/> which covers the entire room except the knight's position, both can be dodged.
 
 Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your cooldowns. Ideally the group splits up here and kills the knights simultaniously.
-
 </GridItem>
 
 <GridItem sm="5">
-
-<MDImage src="images/mama.jpg" caption="MAMA: The first boss"/>
-
+![MAMA: The first boss](images/mama.jpg)
 </GridItem>
 </Grid>
 
@@ -91,7 +87,6 @@ On a side note, more players do not cap an altar faster. More than one person st
 
 <Tabs>
 <Tab specialization="berserker">
-
 Exchange <Skill name="signetofmight"/> or <Skill name="forgreatjustice"/> for <Skill name="on my mark" profession="Warrior"/> and already swap to your weapon sets with Superior Sigil of Serpent Slaying.
 
 At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the <Specialization name="Firebrand"/> can pull them together with <Skill name="Binding Blade"/> and disable them with <Skill name="Tremor" profession="Warrior"/>. Assist in killing the Elite Nightmare Hypnoss and capturing one of the two altars.
@@ -100,35 +95,26 @@ At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/altars.jpg" caption="The altars"/>
-
+![Mini-encounter: the altars](images/altars.jpg)
 </GridItem>
 </Grid>
 
 ## Second set of altars <Item id="50082" disableText/><Item id="24658" disableText/>
 
 <Grid>
-
 <GridItem>
-
 <Card title="Variant 1: PuG variant, pulling all mobs">
-
 Again, pull all enemies to the center (wait for the <Specialization name="Firebrand"/> to cast <Skill id="9147"/>) and kill them there. The mobs at the left altar (West) can be aggroed with a simple projectile, the mobs on the right side (East) need to be pulled with <Skill id="14381"/> (Longbow), <Skill id="14575"/>, <Skill id="5491"/> (Staff) or by teleporting up and jumping down.
 
 Both side altars can easily be capped by a single person after another player has pulled down the mobs. Please note that you have to wait until the mobs are down before teleporting elsewhere to prevent them from running back.
-
 </Card>
 </GridItem>
 
 <GridItem>
-
 <Card title="Variant 2: Organized fast variant">
-
 The group splits up, so that a team of 2 and 3 will cap each altar. While running up stick to the very wall farthest away from the mobs in the center to avoid pulling them. Use <Item name="harpyfeathers"/> if necessary.
 
 Pull out the mobs of the side altar circles, kill them and quickly cap. One person is supposed to aggro the remaining mobs in the center circle, so that the party can cap now without any interferance.
-
 </Card>
 </GridItem>
 
@@ -142,7 +128,6 @@ Usually a single person with high mobility (<Specialization name="Warrior"/>, <S
 
 <Tabs>
 <Tab specialization="Weaver">
-
 Use <Skill id="5536"/> to teleport up to the altars.
 
 You can pull both sides with <Skill id="5491"/> (for the right side, jump at the end of your [cast](https://www.youtube.com/watch?v=lNZEM9StauU)).
@@ -151,19 +136,16 @@ If the person who pulled your side ported up the other side to fast and the mobs
 </Tab>
 
 <Tab specialization="Firebrand">
-
 Use <Skill name="Binding Blade"/> and <Skill name="tomeofjustice"/> to pull adds.
 
 Use tome of courage skill 4 to give resistance.
 </Tab>
 
 <Tab specialization="berserker">
-
 At the second set of altars, wait for your <Specialization name="Firebrand"/> to pull them together with <Skill name="Binding Blade"/> and disable the Elite Nightmare Hypnoss with <Skill name="Tremor" profession="Warrior"/>. Immediately move close to the altar on the right side and pull the Elite Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>. Assist in killing the remaining Elite Nightmare Hypnoss and capture the mid altar respectively.
 </Tab>
 
 <Tab specialization="dragonhunter">
-
 Use <Skill name="Binding Blade"/> and <Skill name="Dragonsmaw"/> excessively to pull as many mobs as possible.
 
 At the second set of altars use your <Skill name="Huntersverdict"/> to pull out the Elite Nightmare Hypnoss occupying the center circle. Make sure, that there are no projectile blocking Skills from enemies present.
@@ -186,9 +168,7 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-<MDImage src="images/siax.jpg" caption="Siax the Corrupted"/>
-
----
+## ![Siax the Corrupted](images/siax.jpg)
 
 ## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label> <Label>CC phase 1: 2000, phase 2: 2250 </Label>
 
@@ -198,6 +178,7 @@ Assign players to each add before the fight starts by setting waypoints. In PuGs
 <Information>
 This boss heavily favours condition damage!
 </Information>
+
 Walk through the teleporter and trigger Ensolyss once after defeating Siax to gain the new checkpoint and use `/gg` to reset all cooldowns. Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before starting the fight. Good teams will use a <Item id="78978"/> to teleport to the boss. When you start the fight don't stand in the center area of the platform or you will receive a <Control name="Knockback"/>. Right after he looses his <Effect name="Invulnerability"/> there is a CC bar. This bar is only breakable for approximately one second. Time your CC wise.
 
 Nearly all of Ensolyss' attacks do a <Control name="Knockback"/> or <Control name="Pull"/>, learn to dodge or walk out of every attack. The most dangerous one is his shockwave-shatter combo, he smashes down a stunning yellow shockwave (like MAMA below 33% health), spawns hallucinations on each players position and shatters them after two seconds.
@@ -206,9 +187,7 @@ Again, the key to this fight is fast crowd control. Break his defiance bar quick
 </GridItem>
 
 <GridItem>
-
-<MDImage src="images/ensolyss.jpg" caption="Ensolyss: The final boss"/>
-
+![Ensolyss: The final boss](images/ensolyss.jpg)
 </GridItem>
 </Grid>
 
@@ -223,6 +202,6 @@ Below 66%, Ensolyss gains a new ability where he smashes two quarters of the pla
 
 Below 33%, he may summon a special shockwave which travels inwards to him (contrary to the ones before) and deal enormous damage to everyone near him. With enough crowd control and DPS this should never occur.
 
-### Final phase <Label><15%</Label>
+### Final phase <Label>\<15%</Label>
 
 When Ensolyss reaches 15% health, he will stop using his usual attacks, but only a small bubble in the middle will protect you from his deathly rain. Krait will charge through the middle (indicated by large arrows on the ground) and make positioning harder, kill Ensolyss quickly to finish the fractal.

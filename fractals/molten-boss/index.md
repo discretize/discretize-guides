@@ -2,7 +2,7 @@
 cycle: Day
 potions:
   - id: 50082
-date: 2022-07-01T17:31:17.700Z
+date: '2022-07-01T17:31:17.700Z'
 title: Molten Boss
 image: ./images/header.jpg
 group: T4
@@ -25,19 +25,19 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: https://youtu.be/LTMAnPsi8Kc
+    - id: LTMAnPsi8Kc
       name: Hyp
       specialization: Thief
-    - id: https://youtu.be/1Erti5D_Vsc
+    - id: 1Erti5D_Vsc
       name: Inky
       specialization: Renegade
-    - id: https://youtu.be/XL4UrjanHgg
+    - id: XL4UrjanHgg
       name: Maarten
       specialization: Guardian
-    - id: https://youtu.be/Y7X7_puBIkY
+    - id: Y7X7_puBIkY
       name: Jetrell
       specialization: Soulbeast
-    - id: https://youtu.be/Y7X7_puBIkY
+    - id: Y7X7_puBIkY
       name: Roach
       specialization: Soulbeast
 ---
@@ -58,33 +58,22 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 <Tabs>
 
 <Tab specialization="Revenant">
-
 <ProfessionVideo title="First skip" profession="Revenant" src="vn2UvjuDW1M"/>
-
 </Tab>
 
 <Tab specialization="Guardian">
-
 <ProfessionVideo title="First skip" profession="Guardian" timestamp="364" src="Lz0bHmnSRbI"/>
-
 </Tab>
 
 <Tab specialization="Thief">
-
 <ProfessionVideo title="First skip" profession="Thief" timestamp="172" src="Alpgs_GaZV0"/>
-
 </Tab>
-
 </Tabs>
-
 </GridItem>
 
 <GridItem sm="4">
-
-<MDImage src="images/start.jpg" caption="The long way down" />
-
+![The long way down](images/start.jpg)
 </GridItem>
-
 </Grid>
 
 ---
@@ -93,7 +82,6 @@ Note that the _Molten Protectors_ cast a zone which grants enemies inside <Effec
 
 <Grid>
 <GridItem sm="7">
-
 Stack <Boon name="Might" /> if possible before moving on to the Molten Effigy. **<Specialization name="Revenant"/> take <Skill name="Legendary Demon Stance"/> for <Skill name="Banish Enchantment"/> to remove <Boon name="Protection" /> from the _Molten Effigy_**.
 
 There is another single Molten Protector which needs to be focused before switching to the _Molten Effigy_. **<Specialization name="Revenant"/> use <Skill name="Banish Enchantment"/> (<Skill name="Legendary Demon Stance" disableText/>) and remove <Boon name="Protection"/> from the _Molten Effigy_**. Use interrupts or reflects against the Effigy's _Firestorm_ attack, pay attention to the _Charge_ (large arrow) and _Shockwave_ attacks and cleave mobs around if possible.
@@ -104,9 +92,7 @@ The moment you killed the Effigy you can `/gg` if necessary so you don't have to
 
 </GridItem>
 <GridItem sm="5">
-
-<MDImage src="images/molten_effigy.jpg" caption="The Molten Effigy" />
-
+![The Molten Effigy](images/molten_effigy.jpg)
 </GridItem>
 </Grid>
 
@@ -114,12 +100,9 @@ The moment you killed the Effigy you can `/gg` if necessary so you don't have to
 
 <Grid>
 <GridItem sm="5">
-
-<MDImage src="images/endboss.jpg" caption="The Molten Berserker & Molten Firestorm" />
-
+![Molten Berserker & Molten Firestorm](images/endboss.jpg)
 </GridItem>
 <GridItem sm="7">
-
 ## Molten Berserker & Molten Firestorm <Item id="50082" disableText/>
 
 When you walk onto the end boss area, a group-wide <Effect name="Agony"/> effect will be applied and put you in combat. As soon as it ends, use the small time (4-5 seconds) before boss starts to stack <Boon name="Might"/>.
@@ -129,7 +112,6 @@ Kill the _Molten Firestorm_ first and pay attention to the AoEs and _Shockwave_ 
 Do not walk into the hitboxes of the two bosses to prevent them from moving out of damaging fields.
 
 </GridItem>
-
 </Grid>
 
 ### Advanced tactics for Molten Berserker & Molten Firestorm:
