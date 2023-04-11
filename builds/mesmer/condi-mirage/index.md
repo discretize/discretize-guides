@@ -16,7 +16,7 @@ Boons:
 hidden: false
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-04-11T10:15:23.600Z "
+date: "2023-04-11T10:28:38.400Z "
 title: Staxe Mirage
 rating: Good
 role: Condi Damage
@@ -99,6 +99,7 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 3. <Skill name="mindwrack" /> (<Boon name="Might" />)
 5. <Skill name="phaseretreat" />
 6. <Skill name="chaosvortex" />
+7. <Skill name="chaosvortex" />
 1. <Skill name="chaosstorm" /> (<Skill name="chaosarmor" />)
 8. <Skill name="lingeringthoughts" />
 9. <Skill name="jaunt" />
