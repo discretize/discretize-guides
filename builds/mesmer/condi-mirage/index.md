@@ -16,7 +16,7 @@ Boons:
 hidden: false
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-04-11T10:28:38.400Z "
+date: "2023-04-11T18:24:54.000Z "
 title: Staxe Mirage
 rating: Good
 role: Condi Damage
@@ -93,16 +93,12 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 <Grid>
 <GridItem sm="6">
 <Card title="Possible Opener">
-1. <Skill name="phantasmalwarlock" /> (Precasted)
-2. <Skill name="jaunt" />
-2. <Skill name="distortion" /> (<Boon name="Regeneration" />)
-3. <Skill name="mindwrack" /> (<Boon name="Might" />)
+1. <Skill name="phantasmalwarlock" />
 5. <Skill name="phaseretreat" />
 6. <Skill name="chaosvortex" />
 7. <Skill name="chaosvortex" />
-1. <Skill name="chaosstorm" /> (<Skill name="chaosarmor" />)
+1. <Skill name="chaosstorm" />
 8. <Skill name="lingeringthoughts" />
-9. <Skill name="jaunt" />
 8. <Skill name="magicbullet" />
 9. <Skill name="imaginaryaxes" />
 10. <Skill name="phantasmalduelist" />
@@ -114,10 +110,14 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 16. <Skill name="imaginaryaxes" />
 17. <Skill name="lingeringthoughts" />
 18. <Skill name="cryoffrustration" />
-19. <Skill name="mindwrack" />
 20. <Skill name="lingeringthoughts" />
 21. <Skill name="phaseretreat" />
 22. <Skill name="chaosvortex" />
+----
+<InformationBlock title="Tips">
+- You can use <Skill name="chaosarmor" /> and <Skill name="jaunt" /> whenever as long you are in range of the boss.
+- Use <Skill name="mindwrack" /> and <Skill name="distortion" /> to gain instant <Boon name="Might" /> and <Boon name="Regeneration" /> if needed.
+</InformationBlock>
 </Card>
 </GridItem>
 
