@@ -13,22 +13,22 @@ Boons:
   - name: Alacrity
     uptime: 55%
     variant: party
-title: Staxe Mirage
 hidden: false
+specialization: Mirage
+code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
+date: "2023-04-11T18:24:54.000Z "
+title: Staxe Mirage
 rating: Good
 role: Condi Damage
-specialization: Mirage
-code: '[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]'
-date: '2023-04-04T13:27:00.711Z'
 profession: Mesmer
 conditions:
   - name: Torment
   - name: Confusion
   - name: Bleeding
-cmGuide: ''
+cmGuide: ""
 ---
 
-<Specialization name="Mirage" text="Staxe Mirage"/> is an incredidbly strong build capable of generating large amounts of <Boon name="Alacrity"/> and <Boon name="Might"/>, that is especially strong on 100CM and in lowman scenarios. <Specialization name="Mirage" text="Staxe Mirage"/> can be played as a solo <Boon name="Alacrity"/> provider or share generation with another build such as <Specialization name="Specter"/>. When sharing and doing a damage focused rotation, <Specialization name="Mirage" text="Staxe Mirage"/> can maintain roughly 12 stacks of <Boon name="Might"/> and over 50% of the <Boon name="Alacrity"/> generation. Solo, with an adjusted rotation and some <Attribute name="Boon Duration"/>, it is capable of maintaining 100% <Boon name="Alacrity"/> uptime.
+<Specialization name="Mirage" text="Staxe Mirage"/> is an incredibly strong build capable of generating large amounts of <Boon name="Alacrity"/> and <Boon name="Might"/>, that is especially strong on 100CM and in lowman scenarios. <br/>It can be played as a solo <Boon name="Alacrity"/> provider or share generation with another build such as <Specialization name="Specter"/> or <Specialization name="Renegade" />. When sharing and doing a damage focused rotation, <Specialization name="Mirage" text="Staxe Mirage"/> can maintain roughly 12 stacks of <Boon name="Might"/> and over 50% of the <Boon name="Alacrity"/> generation. Solo, with an adjusted rotation and some <Attribute name="Boon Duration"/>, it is capable of maintaining 100% <Boon name="Alacrity"/> uptime.
 
 <Divider text="Equipment"/>
 
@@ -44,12 +44,13 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,671" traits3Id="59" traits3="Mirage" traits3SelectedIds="2082,2098,2070"/>
+<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,1687" traits3Id="59" traits3="Mirage" traits3SelectedIds="2082,2098,2070"/>
 <Card title="Situational Traits">
 
 |                                                       |                                                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Riddle of Sand" size="big" disableText/> | Take this Trait instead of <Trait name="Renewing Oasis"/> if you already have permanent <Boon name="Regeneration" /> |
+| <Trait name="Riddle of Sand" size="big" disableText/> | Take this Trait instead of <Trait name="Renewing Oasis"/> if you already have permanent <Boon name="Regeneration" />. |
+| <Trait name="chaoticinterruption" size="big" disableText/> | Take this Trait instead of <Trait name="bountifuldisillusionment"/> if you already have permanent <Boon name="Vigor" />, <Boon name="Might" /> and <Boon name="Fury" />. |
 
 </Card>
 </GridItem>
@@ -87,18 +88,45 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 </GridItem>
 </Grid>
 
-<Divider text="Rotation / Skill usage"/>
+<Divider text="Rotation / 100 CM"/>
 
 <Grid>
 <GridItem sm="6">
-
+<Card title="Possible Opener">
+1. <Skill name="phantasmalwarlock" />
+5. <Skill name="phaseretreat" />
+6. <Skill name="chaosvortex" />
+7. <Skill name="chaosvortex" />
+1. <Skill name="chaosstorm" />
+8. <Skill name="lingeringthoughts" />
+8. <Skill name="magicbullet" />
+9. <Skill name="imaginaryaxes" />
+10. <Skill name="phantasmalduelist" />
+11. <Skill name="crystalsands" />
+12. <Skill name="signetoftheether" />
+13. <Skill name="imaginaryaxes" />
+14. <Skill name="phantasmalduelist" />
+15. <Skill name="axesofsymmetry" />
+16. <Skill name="imaginaryaxes" />
+17. <Skill name="lingeringthoughts" />
+18. <Skill name="cryoffrustration" />
+20. <Skill name="lingeringthoughts" />
+21. <Skill name="phaseretreat" />
+22. <Skill name="chaosvortex" />
+----
+<InformationBlock title="Tips">
+- You can use <Skill name="chaosarmor" /> and <Skill name="jaunt" /> whenever as long you are in range of the boss.
+- Use <Skill name="mindwrack" /> and <Skill name="distortion" /> to gain instant <Boon name="Might" /> and <Boon name="Regeneration" /> if needed.
+</InformationBlock>
+</Card>
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Example 100CM POV">
-
+<Card title="Daily PoV Example">
 <Video youtube="VI3ZbbNrwzk" caption="by Feint"/>
 </Card>
-
+<Card title="Advanced Precast/Opener">
+<Video youtube="gyIerponaPU" caption="by Inky"/>
+</Card>
 </GridItem>
 </Grid>
