@@ -16,7 +16,7 @@ Boons:
 hidden: false
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-04-11T10:10:50.100Z "
+date: "2023-04-11T10:15:23.600Z "
 title: Staxe Mirage
 rating: Good
 role: Condi Damage
@@ -28,7 +28,7 @@ conditions:
 cmGuide: ""
 ---
 
-<Specialization name="Mirage" text="Staxe Mirage"/> is an incredidbly strong build capable of generating large amounts of <Boon name="Alacrity"/> and <Boon name="Might"/>, that is especially strong on 100CM and in lowman scenarios. <Specialization name="Mirage" text="Staxe Mirage"/> can be played as a solo <Boon name="Alacrity"/> provider or share generation with another build such as <Specialization name="Specter"/>. When sharing and doing a damage focused rotation, <Specialization name="Mirage" text="Staxe Mirage"/> can maintain roughly 12 stacks of <Boon name="Might"/> and over 50% of the <Boon name="Alacrity"/> generation. Solo, with an adjusted rotation and some <Attribute name="Boon Duration"/>, it is capable of maintaining 100% <Boon name="Alacrity"/> uptime.
+<Specialization name="Mirage" text="Staxe Mirage"/> is an incredibly strong build capable of generating large amounts of <Boon name="Alacrity"/> and <Boon name="Might"/>, that is especially strong on 100CM and in lowman scenarios. <br/>It can be played as a solo <Boon name="Alacrity"/> provider or share generation with another build such as <Specialization name="Specter"/> or <Specialization name="Renegade" />. When sharing and doing a damage focused rotation, <Specialization name="Mirage" text="Staxe Mirage"/> can maintain roughly 12 stacks of <Boon name="Might"/> and over 50% of the <Boon name="Alacrity"/> generation. Solo, with an adjusted rotation and some <Attribute name="Boon Duration"/>, it is capable of maintaining 100% <Boon name="Alacrity"/> uptime.
 
 <Divider text="Equipment"/>
 
