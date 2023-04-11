@@ -16,7 +16,7 @@ Boons:
 hidden: false
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-04-10T19:30:54.500Z "
+date: "2023-04-11T10:10:50.100Z "
 title: Staxe Mirage
 rating: Good
 role: Condi Damage
@@ -88,18 +88,44 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 </GridItem>
 </Grid>
 
-<Divider text="Rotation / Skill usage"/>
+<Divider text="Rotation / 100 CM"/>
 
 <Grid>
 <GridItem sm="6">
-
+<Card title="Possible Opener">
+1. <Skill name="phantasmalwarlock" /> (Precasted)
+2. <Skill name="jaunt" />
+2. <Skill name="distortion" /> (<Boon name="Regeneration" />)
+3. <Skill name="mindwrack" /> (<Boon name="Might" />)
+5. <Skill name="phaseretreat" />
+6. <Skill name="chaosvortex" />
+1. <Skill name="chaosstorm" /> (<Skill name="chaosarmor" />)
+8. <Skill name="lingeringthoughts" />
+9. <Skill name="jaunt" />
+8. <Skill name="magicbullet" />
+9. <Skill name="imaginaryaxes" />
+10. <Skill name="phantasmalduelist" />
+11. <Skill name="crystalsands" />
+12. <Skill name="signetoftheether" />
+13. <Skill name="imaginaryaxes" />
+14. <Skill name="phantasmalduelist" />
+15. <Skill name="axesofsymmetry" />
+16. <Skill name="imaginaryaxes" />
+17. <Skill name="lingeringthoughts" />
+18. <Skill name="cryoffrustration" />
+19. <Skill name="mindwrack" />
+20. <Skill name="lingeringthoughts" />
+21. <Skill name="phaseretreat" />
+22. <Skill name="chaosvortex" />
+</Card>
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Example 100CM POV">
-
+<Card title="Daily PoV Example">
 <Video youtube="VI3ZbbNrwzk" caption="by Feint"/>
 </Card>
-
+<Card title="Advanced Precast/Opener">
+<Video youtube="gyIerponaPU" caption="by Inky"/>
+</Card>
 </GridItem>
 </Grid>
