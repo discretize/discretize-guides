@@ -1,12 +1,7 @@
 ---
-title: Power Quick Scrapper
 hidden: false
 archive: false
-rating: Meta
-role: Power Damage
-profession: Engineer
 specialization: Scrapper
-code: '[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]'
 boons:
   - name: Quickness
     uptime: 100%
@@ -14,16 +9,21 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-conditions:
-  - name: Vulnerability
-cmGuide: static
+code: "[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 3
   - 2
   - 4
-date: '2023-04-04T17:40:50.083Z'
+date: "2023-04-12T21:37:53.500Z "
+title: Power Quick Scrapper
+rating: Meta
+role: Power Damage
+profession: Engineer
+conditions:
+  - name: Vulnerability
+cmGuide: static
 ---
 
 The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
@@ -31,7 +31,7 @@ It offers:
 
 - High initial burst and strong sustained damage
 - A large amount of crowd control
-- Group support with high <Condition name="Vulnerability"/> uptime, around 13 stakcs of <Boon name="Might"/> and some <Boon name="Protection"/>.
+- Group support with high <Condition name="Vulnerability"/> uptime, around 13 stacks of <Boon name="Might"/> and some <Boon name="Protection"/>.
 - The ability to boonstrip with <Skill name="Detonate Mine Field"/> when running <Skill name="Throw Mine"/>
 - An incredible skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
 
@@ -84,7 +84,7 @@ If you do not need to provide <Boon name="Quickness"/>, you can play the followi
 | <Skill name="throwmine" size="big" disableText/>        | Good dps with <Skill name="minefield" /> and allows you to remove boons on<Instability name="No Pain, No Gain"/>. In experienced groups you can swap out a gyro for extra burst damage, if you can maintain <Boon name="Quickness"/>. |
 | <Skill name="Sneak Gyro" size="big" disableText/>       | Used to provide <Effect name="Stealth"/>. Can also be used as an extra source of <Boon name="Quickness"/>                                                                                                                             |
 | <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
-| <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put condition on bosses to beefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
+| <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put condition on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
 | <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                                                                                          |
 | <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage.                                                                                                                                                                         |
 | <Skill name="Bulwark Gyro" size="big" disableText/>     | Used to precast <Skill name="Defense Field"/> to profit from <Trait name="Object in Motion"/>                                                                                                                                         |
