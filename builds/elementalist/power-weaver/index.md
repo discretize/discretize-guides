@@ -18,7 +18,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-04-10T23:41:32.625Z "
+date: "2023-04-12T17:35:08.831Z "
 ---
 
 <Advanced>
@@ -156,15 +156,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason, you can find a video with openers, that are efficient to use here.
-</Card>
-
-<Card title="Weaver openers">
-
-<Video caption="by KalzeN [dT], edited by Vince [dT]" youtube="AUDqBOCrZUE"/>
-</Card>
-<Card title="Golem Rotation">
-
-<Video youtube="jewFOSlHUOM" caption="by Shavy [dT]"/>
 </Card>
 </GridItem>
 
