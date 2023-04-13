@@ -20,8 +20,8 @@ compositions: null
 hidden: false
 hasBeginner: true
 specialization: Specter
-code: '[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]'
-date: '2023-04-04T16:49:30.923Z'
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: "2023-04-13T19:14:59.700Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -32,7 +32,7 @@ conditions:
   - name: Poisoned
   - name: Bleeding
   - name: Torment
-cmGuide: ''
+cmGuide: ""
 ---
 
 <Advanced>
@@ -77,7 +77,7 @@ If you do not need the extra CC you can remove the Pistol so your Dagger counts 
 <CharacterWithAr>  
 <Character title="DPS/Alac Share" gear='{"attributes":{"profession":"Thief","specialization":"Specter","data":{"Health":16245,"Armor":2343,"Power":2923,"Precision":1633,"Toughness":1225,"Vitality":1460,"Ferocity":0,"Condition Damage":2585,"Expertise":1014,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.6759999999999999,"Boon Duration":0.15,"Critical Chance":0.6014285714285714,"Critical Damage":1.5,"Power Coefficient":2316,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.43,"Poison Coefficient":18.2,"Torment Coefficient":20.65,"Confusion Coefficient":0,"Flat DPS":0,"Poison Duration":0.33,"Outgoing Healing":0.2,"Torment Duration":0.5,"Siphon Base Coefficient":113.75,"Effective Power":7345.440539999998,"NonCrit Effective Power":5647.235999999999,"Power DPS":6550.650862780129,"Power2 DPS":0,"Siphon DPS":129.4475,"Bleeding Damage":296.19975,"Bleeding Stacks":4.07268,"Bleeding DPS":1206.32679783,"Burning Damage":889.2264374999999,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":349.8284625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":419.52655500000003,"Poison Stacks":36.4,"Poison DPS":15270.766602,"Torment Damage":486.5218875,"Torment Stacks":41.3,"Torment DPS":20093.353953749996,"Damage":43250.545716360124,"Effective Health":94681679.10447764,"Survivability":48135.06817716199,"Effective Healing":468,"Healing":468}},"armor":{"weight":"Medium","helmAffix":"Viper","helmRuneId":44956,"helmRune":"Tormenting","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":44956,"shouldersRune":"Tormenting","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":44956,"coatRune":"Tormenting","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":44956,"glovesRune":"Tormenting","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":44956,"leggingsRune":"Tormenting","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":44956,"bootsRune":"Tormenting","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24639,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":77567},"skills":{"healId":63292,"utility1Id":13026,"utility2Id":13037,"utility3Id":13055,"eliteId":13132},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1164,1292,1291],[1163,1277,1187],[2275,2285,2264]],"lines":[28,44,71]}}'>
 
-The <Skill id="skelkvenom"/> is a great option to support your party as it brings a tremendous amount of party healing.
+The <Skill name="skelkvenom" /> is a great option to support your party as it brings a tremendous amount of party healing.
 
 If you do not need the extra CC you can remove the Pistol so your Dagger counts for both sets. This allows you to swap freely for <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
 
