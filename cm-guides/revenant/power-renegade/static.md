@@ -4,8 +4,8 @@ type: static
 profession: Revenant
 specialization: Renegade
 disableBosses:
-  - '- LightAi   - DarkAi'
-date: '2023-03-21T17:12:37.400Z'
+  - "- LightAi   - DarkAi"
+date: "2023-04-14T09:29:05.700Z "
 ---
 
 <Boss name="mama" video="lAIxOQlt_jI" timestamp="235" videoCreator="Inky" foodId="43360" utilityId="50082" legend1Id="41858" legend2Id="28134" weapon1MainAffix="Berserker" weapon1MainType="Sword" weapon1MainSigil1="Impact" weapon1MainInfusion1Id="37131" weapon1OffAffix="Berserker" weapon1OffType="Sword" weapon1OffSigil="Force" weapon1OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Staff" weapon2MainSigil1="Severance" weapon2MainSigil2="Impact" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
@@ -783,7 +783,7 @@ Avoid the knock back with <Skill name="unrelentingassault" />, once in the corne
 <CMInformation title="Split 1">
 ----
 Precast <Skill name="darkrazorsdaring" /> at the center of the arena before breaking your corner with <Skill name="surgeofthemists" />.
-Use SAK to instantly go back to mid-south position.<br/>
+Use SAK to instantly go back to mid position.<br/>
 - Share <Boon name="Alacrity" /> and <Boon name="Might" /> when everyone is in range.<br/>
 
 Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepare for p2.
@@ -826,8 +826,8 @@ Cast <Skill name="citadelbombardment" /> close to `50%` to benefit from <Trait n
 <Phase>
 <CMInformation title="Split 2">
 ----
-Swap to staff and precast <Skill name="surgeofthemists" /> on the south-south add, use <Skill name="impossible odds"/> to empty your energy then swap to <Skill name="legendaryrenegadestance" />.<br/>
-Use <Skill name="darkrazorsdaring" /> on south-west and instant SAK back to mid-south position.<br/>
+Swap to staff and precast <Skill name="surgeofthemists" /> on the north-west add, use <Skill name="impossible odds"/> to empty your energy then swap to <Skill name="legendaryrenegadestance" />.<br/>
+Use <Skill name="darkrazorsdaring" /> on west add and instant SAK back to mid position.<br/>
 - Share <Boon name="Alacrity" /> and <Boon name="Might" /> when everyone is in range.<br/>
 
 Cast <Skill name="breakrazorsbastion" /> if needed, then swap to sword and prepare for p3.
