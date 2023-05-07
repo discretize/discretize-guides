@@ -1,8 +1,10 @@
 ---
 cycle: Day
-date: '2022-07-01T17:28:27.800Z'
+date: "2022-07-01T17:28:27.800Z"
 title: Deepstone
-image: ./images/header.jpg
+description: Whatever's down here, it scared the dwarves off a whole VAULT of treasure.
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 4224
 bosses: 3
@@ -35,6 +37,8 @@ record:
     - id: GKvsIjhlSg0
       name: Hyp
       specialization: Specter
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Always start Left path with the Deepstone Sentinel (Air Elemental)

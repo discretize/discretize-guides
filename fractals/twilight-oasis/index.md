@@ -1,8 +1,10 @@
 ---
 cycle: Night
-date: '2022-02-01T02:47:53.806Z'
+date: "2022-02-01T02:47:53.806Z"
 title: Twilight Oasis
-image: ./images/header.jpg
+description: Sunspears, rally to me! We will wipe the Awakened from the face of Tyria!
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 3973
 bosses: 3
@@ -34,6 +36,8 @@ record:
     - id: BtfjQbzRg5E
       name: Hutselflutsje
       specialization: Weaver
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>

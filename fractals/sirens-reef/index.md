@@ -1,8 +1,10 @@
 ---
 cycle: Day
-date: '2022-02-01T02:46:24.744Z'
+date: "2022-02-01T02:46:24.744Z"
 title: Siren's Reef
-image: ./images/header.jpg
+description: You want off this rock? Find that cursed treasure and commandeer us a ship.
+long_description: "Ahoy there, mateys! Prepare to set sail for the Siren's Reef Fractal, a once tropical paradise. now a cursed island of doom and the final resting place of the notorious pirate queen, Captain Arabella Crowe! Those who dare to set foot on the island are doomed to join Crowe's ghostly crew, and you are no exception. Stranded on the island, gather all of the cursed pirate treasure and defeat Crowe's crew as you race against time to escape the island aboard the Kraken's Pride."
+image: images/header_old.jpg
 group: T4
 api: 4494
 bosses: 3
@@ -16,6 +18,8 @@ consumables:
   - 8764
   - 8801
 record: null
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>

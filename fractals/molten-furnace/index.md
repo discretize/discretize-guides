@@ -2,10 +2,11 @@
 cycle: Day
 potions:
   - id: 50082
-date: '2021-11-14T22:35:37.007Z'
+date: "2021-11-14T22:35:37.007Z"
 title: Molten Furnace
-image: ./images/header.jpg
-group: T4
+description: Wait, intruders? Intruders! Finally, an interactive audience.
+long_description: ""
+image: images/header_old.jpg
 api: 2903
 bosses: 1
 difficulties:
@@ -14,6 +15,8 @@ difficulties:
 sigils:
   - id: 24868
   - id: 24554
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>
