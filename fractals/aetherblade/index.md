@@ -3,13 +3,12 @@ cycle: Day
 potions:
   - id: 50082
   - id: 8887
-    description: against the golems in the final room
-date: '2022-07-01T17:40:25.400Z'
+date: "2022-07-01T17:40:25.400Z"
 title: Aetherblade
+description: "insert quote here"
+long_description: "The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal."
 image: ./images/header.jpg
-group: T4
 api: 2948
-bosses: 1
 difficulties:
   - level: 96
     ar: 144
@@ -17,7 +16,6 @@ sigils:
   - id: 24615
   - id: 24868
   - id: 24672
-    description: against the golems in the final room
 record:
   time: 0 min 53 sec
   by:
@@ -36,6 +34,8 @@ record:
     - id: cuJ1r6V8qk8
       name: Inky
       specialization: Dragonhunter
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Start (water tunnel) <Item id="50082" disableText/>
