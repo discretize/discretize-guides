@@ -3,8 +3,9 @@ potions:
   - id: 50082
 title: Nightmare
 description: I am...awake. I am aware. Suffer, mortal things.
-date: '2021-02-24'
-image: ./images/ensolyss_crazy.jpg
+long_description: ""
+date: "2021-02-24"
+image: images/header_old.jpg
 group: Challenge Mode
 api: 3177
 bosses: 3
@@ -18,7 +19,7 @@ consumables:
   - 8801
   - 78978
 record:
-  time: '5 min 44 sec'
+  time: "5 min 44 sec"
   by:
     - name: Invicta Luna
       tag: iV
@@ -43,6 +44,8 @@ sigils:
   - id: 24868
   - id: 24658
     description: after MAMA
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
@@ -87,7 +90,7 @@ Learn the _Red Orb_ patterns as they can quickly kill you, _Blue Orbs_ will heal
 On a side note, more players do not cap an altar faster. More than one person standing inside is redundant.
 
 <Tabs>
-<Tab specialization="berserker">
+<Tab specialization="Berserker">
 Exchange <Skill name="signetofmight"/> or <Skill name="forgreatjustice"/> for <Skill name="on my mark" profession="Warrior"/> and already swap to your weapon sets with Superior Sigil of Serpent Slaying.
 
 At the first set of altars draw the Elite Nightmare Hypnoss with <Skill name="on my mark" profession="Warrior"/> to the narrow corridor so that the <Specialization name="Firebrand"/> can pull them together with <Skill name="Binding Blade"/> and disable them with <Skill name="Tremor" profession="Warrior"/>. Assist in killing the Elite Nightmare Hypnoss and capturing one of the two altars.
@@ -142,11 +145,11 @@ Use <Skill name="Binding Blade"/> and <Skill name="tomeofjustice"/> to pull adds
 Use tome of courage skill 4 to give resistance.
 </Tab>
 
-<Tab specialization="berserker">
+<Tab specialization="Berserker">
 At the second set of altars, wait for your <Specialization name="Firebrand"/> to pull them together with <Skill name="Binding Blade"/> and disable the Elite Nightmare Hypnoss with <Skill name="Tremor" profession="Warrior"/>. Immediately move close to the altar on the right side and pull the Elite Nightmare Hypnoss occupying the altar to the mid by using <Skill name="on my mark" profession="Warrior"/>. Assist in killing the remaining Elite Nightmare Hypnoss and capture the mid altar respectively.
 </Tab>
 
-<Tab specialization="dragonhunter">
+<Tab specialization="Dragonhunter">
 Use <Skill name="Binding Blade"/> and <Skill name="Dragonsmaw"/> excessively to pull as many mobs as possible.
 
 At the second set of altars use your <Skill name="Huntersverdict"/> to pull out the Elite Nightmare Hypnoss occupying the center circle. Make sure, that there are no projectile blocking Skills from enemies present.

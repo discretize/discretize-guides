@@ -3,11 +3,11 @@ potions:
   - id: 50082
     description: against Arkk
 cycle: Day
-date: '2021-09-19T17:27:53.415Z'
+date: "2021-09-19T17:27:53.415Z"
 consumables:
   - 78978
 record:
-  time: '4 min 59 sec'
+  time: "4 min 59 sec"
   by:
     - name: Discretize
       tag: dT
@@ -29,7 +29,8 @@ record:
       specialization: Soulbeast
 title: Shattered Observatory
 description: Is that...? The architecture, the symbology—this is asuran technology!
-image: ./images/header.jpg
+long_description: ""
+image: images/header_old.jpg
 group: Challenge Mode
 api: 3458
 bosses: 3
@@ -39,6 +40,8 @@ difficulties:
 sigils:
   - id: 24615
   - id: 24868
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Skorvald the Shattered <Label>5,551,340 HP</Label> <Label>CC: 2200</Label>

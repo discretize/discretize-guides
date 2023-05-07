@@ -2,10 +2,11 @@
 cycle: Day
 potions:
   - id: 50082
-date: '2022-07-01T17:31:17.700Z'
+date: "2022-07-01T17:31:17.700Z"
 title: Molten Boss
 description: Let's see how colorful a smear we can make.
-image: ./images/header.jpg
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2966
 bosses: 2
@@ -41,6 +42,8 @@ record:
     - id: Y7X7_puBIkY
       name: Roach
       specialization: Soulbeast
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Start area <Item id="50082" disableText/>

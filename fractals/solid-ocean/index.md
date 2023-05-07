@@ -3,10 +3,11 @@ cycle: Night
 potions:
   - id: 8885
     description: for the Jade enemies
-date: '2022-07-01T17:24:30.000Z'
+date: "2022-07-01T17:24:30.000Z"
 title: Solid Ocean
 description: How bizarre. The readings state that this was water once.
-image: ./images/header.jpg
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2923
 bosses: 1
@@ -38,6 +39,8 @@ record:
     - id: oAltdvLk53o
       name: Inky
       specialization: Virtuoso
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>

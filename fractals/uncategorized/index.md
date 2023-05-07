@@ -3,10 +3,11 @@ cycle: Day
 potions:
   - id: 8887
     description: for Old Tom and the Raving Asura
-date: '2022-07-01T17:32:24.400Z'
+date: "2022-07-01T17:32:24.400Z"
 title: Uncategorized
 description: All of us! Abandoned! You aren't real. You can't be here.
-image: ./images/header.jpg
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2939
 bosses: 3
@@ -43,6 +44,8 @@ record:
     - id: 3DHpBvUIJ-w
       name: Roach
       specialization: Firebrand
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>

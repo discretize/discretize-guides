@@ -5,10 +5,11 @@ potions:
     description: for all the Dredge enemies
   - id: 8885
     description: for the Ice Elemental endboss
-date: '2022-01-28T10:13:18.167Z'
+date: "2022-01-28T10:13:18.167Z"
 title: Underground Facility
 description: Fear the collective!
-image: ./images/start.jpg
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2947
 bosses: 2
@@ -42,6 +43,8 @@ record:
     - id: OMUxEYbtnWE
       name: Deathly
       specialization: Daredevil
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
@@ -91,7 +94,7 @@ There are two ways to do this. The fast one requires a <Item id="78978"/> and so
 | **The Console Room**          | Two people without special abilities should step on the two pressure plates to open the console locker. They are also responsible for keeping aggro from the opener, especially the spawning _Veteran Dredge_ next to the locker. Now for the actual console, <Item id="8686"/> and other <Effect name="Stealth"/> sources are very strong. It should be activated by someone who's able to block the <Control name="Knockback"/> from the locker closing, so the other two people can step off the pressure plates and protect the opener from the spawning mobs. The opener should indicate the step off in chat to time it with block skills. **The whole party can do `/gg` after the console is done, but it is not necessary**. |
 
 <Tabs>
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 </Tab>
 

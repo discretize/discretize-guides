@@ -1,9 +1,10 @@
 ---
 cycle: Day
-date: '2022-01-28T09:52:57.345Z'
+date: "2022-01-28T09:52:57.345Z"
 title: Urban Battlegrounds
 description: You'll never take Ascalon! We'll die first!
-image: ./images/header.jpg
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2941
 bosses: 2
@@ -32,6 +33,8 @@ record:
     - id: LrUdzjbZQoQ
       name: Goni
       specialization: Tempest
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>
@@ -50,7 +53,7 @@ Killing the _Burning Oil_ above her is your highest priority. Control and cleave
 
 <GridItem sm="12">
 <Tabs>
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 If you are the first Weaver at the gate and still have <Effect name="Stealth"/>, cast <Skill id="5501"/> on the Burning Oil above Dulfy. At least one weaver should use <Skill id="5738"/> on the mobs and Dulfy. You can use <Skill id="5697"/> against the door for more damage. Use <Skill id="22572"/> for better cleave.
 </Tab>
 
@@ -120,7 +123,7 @@ As soon as you capture the courtyard, the _Fire Caller_ will start a ritual and 
 For more experienced groups it is favorable to take <Skill name="Legendary Dwarf Stance"/> and go into the middle and casting <Skill name="Inspiring reinforcement"/> for <Boon name="Stability"/> against <Control name="Knockback"/> and <Control name="Daze"/> and <Skill name="Rite of the Great Dwarf"/> for damage reduction.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 The <Skill id="5738"/> is very strong against the groups of mobs during the capture event. <Skill id="5671"/> and <Skill id="5683"/> prevent the enemy warriors _Rush_ attack. Stay in <Skill id="5492"/> before Ashym for <Boon name="Might"/> stacking.
 </Tab>
 </Tabs>

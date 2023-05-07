@@ -1,12 +1,11 @@
 ---
 cycle: Day
-date: '2022-07-01T17:41:07.100Z'
+date: "2022-07-01T17:41:07.100Z"
 title: Chaos Isles
 description: I'm warning you—you don't belong here. Get out now.
-image: ./images/legendary_brazen_gladiator.jpg
-group: T4
+long_description: ""
+image: images/legendary_brazen_gladiator.jpg
 api: 3038
-bosses: 2
 difficulties:
   - level: 88
     ar: 129
@@ -37,6 +36,8 @@ record:
     - id: kC8D0_69KvE
       name: Inky
       specialization: Renegade
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>
@@ -130,7 +131,7 @@ Also pay attention to the small _JT-12_ golems and their AoEs as they apply <Con
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against <Control name="Daze"/> and <Control name="Knockback"/>.
 </Tab>
 
-<Tab specialization="soulbeast">
+<Tab specialization="Soulbeast">
 Use <Skill name="Path of Scars"/> to pull the small JT-12 golems closer. <Skill name="Dolyak stance"/> with the trait <Trait name=" Leader of the Pack"/> gives the whole party <Boon name="Stability"/>.
 </Tab>
 

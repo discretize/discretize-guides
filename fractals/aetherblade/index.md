@@ -7,7 +7,7 @@ date: "2022-07-01T17:40:25.400Z"
 title: Aetherblade
 description: This is a sterile research environment. Leave at once.
 long_description: "The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal."
-image: ./images/header.jpg
+image: images/header_old.jpg
 api: 2948
 difficulties:
   - level: 96
@@ -45,11 +45,11 @@ hasCM: false
 You can stack <Effect name="Stealth"/> before entering the water to avoid that the mines explode. Clear the group of _Elite Aetherblades_ to open the door.
 
 <Tabs>
-<Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
+<Tab specialization="Thief">
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="Thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/> at the beginning.
 </Tab>
 
@@ -92,7 +92,7 @@ Speed is important here. Do not hesitate to `/gg` if you are certain the first c
 To skip this part you are going to need a little jumping, along with damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>. **Once it comes down from the higher level**, you can use <Skill name="Phase Traversal"/> to reach the platform and go to the console room. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>) and disable the consoles.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 <ProfessionVideo title="First puzzle skip" profession="Elementalist" src="OjUvCp2h_04" timestamp="45"/>
 Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
@@ -132,7 +132,7 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 You can <Skill name="Call to Anguish"/> most mobs to group them. If you have enough pulls in your group you should use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Inspiring Reinforcement"/> to deny the <Control name="Daze"/>s from the air strikes constantly hitting you.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> stacking at Frizz.
 </Tab>
 
@@ -147,12 +147,10 @@ You can use <Skill name="spectral grasp"/> to group the mobs.
 
 ---
 
-
 ## Final room (Frizz) <Item id="8887" disableText size="large"/><Item id="24672" disableText size="large" />
 
 <Grid>
 <GridItem>
-
 
 Talk to _Inspector Ellen Kiel_ to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
@@ -193,8 +191,5 @@ Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>
 
-
 </GridItem>
 </Grid>
-
-

@@ -2,13 +2,12 @@
 cycle: Day
 potions:
   - id: 50082
-date: '2022-01-28T02:27:34.573Z'
+date: "2022-01-28T02:27:34.573Z"
 title: Captain Mai Trin Boss
 description: Horrik, unleash the cannons!
-image: ./images/header.jpg
-group: T4
+long_description: ""
+image: images/header_old.jpg
 api: 2932
-bosses: 1
 difficulties:
   - level: 95
     ar: 141
@@ -17,7 +16,9 @@ sigils:
   - id: 24868
 consumables:
   - 78978
-record:
+record: {}
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>

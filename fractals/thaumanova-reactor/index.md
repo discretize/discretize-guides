@@ -1,9 +1,10 @@
 ---
 cycle: Day
-date: '2022-07-01T17:26:44.300Z'
+date: "2022-07-01T17:26:44.300Z"
 title: Thaumanova Reactor
 description: I'd like to know more about that special consultant, but this situation is deteriorating even faster than I expected.
-image: ./images/header.jpg
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2967
 bosses: 2
@@ -37,6 +38,8 @@ record:
     - id: nt9Wi6TJrwA
       name: Jetrell
       specialization: Soulbeast
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>
@@ -123,7 +126,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 This is usually soloed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 
 <Tabs>
-<Tab specialization="renegade">
+<Tab specialization="Renegade">
 <ProfessionVideo title="Heatroom solo" profession="Renegade" timestamp="0" src="jfat_6yDqV4"/>
 </Tab>
 
