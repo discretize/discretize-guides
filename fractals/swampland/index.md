@@ -2,6 +2,7 @@
 cycle: Night
 date: '2022-07-01T17:29:49.600Z'
 title: Swampland
+description: Ugh, a swamp. I knew I should've sprayed you all with mosquito repellent before you left.
 image: ./images/bloomhunger_spirit_onslaught.jpg
 group: T4
 api: 2892

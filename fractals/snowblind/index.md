@@ -5,6 +5,7 @@ potions:
     description: for the Svanir & end boss
 date: '2022-07-01T17:34:15.200Z'
 title: Snowblind
+description: We'll take everything from you. Even your lives.
 image: ./images/header.jpg
 group: T4
 api: 2952

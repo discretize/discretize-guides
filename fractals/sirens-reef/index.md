@@ -2,6 +2,7 @@
 cycle: Day
 date: '2022-02-01T02:46:24.744Z'
 title: Siren's Reef
+description: You want off this rock? Find that cursed treasure and commandeer us a ship.
 image: ./images/header.jpg
 group: T4
 api: 4494

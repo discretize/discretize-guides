@@ -2,6 +2,7 @@
 potions:
   - id: 50082
 title: Nightmare
+description: I am...awake. I am aware. Suffer, mortal things.
 date: '2021-02-24'
 image: ./images/ensolyss_crazy.jpg
 group: Challenge Mode

@@ -2,6 +2,7 @@
 cycle: Day
 date: '2022-07-01T17:26:44.300Z'
 title: Thaumanova Reactor
+description: I'd like to know more about that special consultant, but this situation is deteriorating even faster than I expected.
 image: ./images/header.jpg
 group: T4
 api: 2967

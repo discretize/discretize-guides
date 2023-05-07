@@ -5,7 +5,7 @@ potions:
   - id: 8887
 date: "2022-07-01T17:40:25.400Z"
 title: Aetherblade
-description: "insert quote here"
+description: This is a sterile research environment. Leave at once.
 long_description: "The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal."
 image: ./images/header.jpg
 api: 2948

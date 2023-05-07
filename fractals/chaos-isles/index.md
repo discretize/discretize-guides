@@ -2,6 +2,7 @@
 cycle: Day
 date: '2022-07-01T17:41:07.100Z'
 title: Chaos Isles
+description: I'm warning you—you don't belong here. Get out now.
 image: ./images/legendary_brazen_gladiator.jpg
 group: T4
 api: 3038

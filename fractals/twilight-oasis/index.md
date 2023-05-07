@@ -2,6 +2,7 @@
 cycle: Night
 date: '2022-02-01T02:47:53.806Z'
 title: Twilight Oasis
+description: Sunspears, rally to me! We will wipe the Awakened from the face of Tyria!
 image: ./images/header.jpg
 group: T4
 api: 3973

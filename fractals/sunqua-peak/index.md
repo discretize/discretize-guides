@@ -2,6 +2,7 @@
 cycle: Day (non CM) / Night (CM)
 date: '2022-07-01T17:43:27.300Z'
 title: Sunqua Peak
+description: Why are you here? I came to this mountain to be alone.
 image: ./images/hero_sunqua2.jpg
 group: Challenge Mode
 api: 5446

@@ -4,6 +4,7 @@ potions:
   - id: 8881
 date: '2022-07-01T17:36:08.700Z'
 title: Cliffside
+description: If those zealots are trying to kill you, perhaps this behemoth can't be all bad.
 image: ./images/header.jpg
 group: T4
 api: 2930

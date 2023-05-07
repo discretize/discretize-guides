@@ -2,6 +2,7 @@
 cycle: Day
 date: '2022-01-28T09:52:57.345Z'
 title: Urban Battlegrounds
+description: You'll never take Ascalon! We'll die first!
 image: ./images/header.jpg
 group: T4
 api: 2941

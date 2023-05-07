@@ -7,6 +7,7 @@ potions:
     description: for the Imbued Shaman endboss
 date: '2022-01-30T18:10:52.328Z'
 title: Volcanic
+description: You can't break this magic. Our god will crush you all.
 image: ./images/header.jpg
 group: T4
 api: 2989

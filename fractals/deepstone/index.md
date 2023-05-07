@@ -2,6 +2,7 @@
 cycle: Day
 date: '2022-07-01T17:28:27.800Z'
 title: Deepstone
+description: Whatever's down here, it scared the dwarves off a whole VAULT of treasure.
 image: ./images/header.jpg
 group: T4
 api: 4224

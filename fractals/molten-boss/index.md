@@ -4,6 +4,7 @@ potions:
   - id: 50082
 date: '2022-07-01T17:31:17.700Z'
 title: Molten Boss
+description: Let's see how colorful a smear we can make.
 image: ./images/header.jpg
 group: T4
 api: 2966

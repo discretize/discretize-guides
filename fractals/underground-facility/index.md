@@ -7,6 +7,7 @@ potions:
     description: for the Ice Elemental endboss
 date: '2022-01-28T10:13:18.167Z'
 title: Underground Facility
+description: Fear the collective!
 image: ./images/start.jpg
 group: T4
 api: 2947

@@ -5,6 +5,7 @@ potions:
     description: only for the Krait at the beginning
 date: '2022-07-01T17:21:58.200Z'
 title: Aquatic Ruins
+description: The krait took our people into the water. You have to stop them!
 image: ./images/header.jpg
 group: T4
 api: 2956

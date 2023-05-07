@@ -28,6 +28,7 @@ record:
       name: Seatek
       specialization: Soulbeast
 title: Shattered Observatory
+description: Is that...? The architecture, the symbology—this is asuran technology!
 image: ./images/header.jpg
 group: Challenge Mode
 api: 3458

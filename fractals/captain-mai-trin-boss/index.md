@@ -4,6 +4,7 @@ potions:
   - id: 50082
 date: '2022-01-28T02:27:34.573Z'
 title: Captain Mai Trin Boss
+description: Horrik, unleash the cannons!
 image: ./images/header.jpg
 group: T4
 api: 2932

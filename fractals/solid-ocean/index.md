@@ -5,6 +5,7 @@ potions:
     description: for the Jade enemies
 date: '2022-07-01T17:24:30.000Z'
 title: Solid Ocean
+description: How bizarre. The readings state that this was water once.
 image: ./images/header.jpg
 group: T4
 api: 2923
