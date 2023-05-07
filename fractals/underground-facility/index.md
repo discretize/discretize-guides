@@ -80,7 +80,7 @@ There are two ways to do this. The fast one requires a <Item id="78978"/> and so
 </GridItem>
 
 <GridItem sm="5">
-![Starting area](images/start.jpg)
+![Starting area](images/header.jpg)
 </GridItem>
 </Grid>
 
