@@ -147,10 +147,12 @@ You can use <Skill name="spectral grasp"/> to group the mobs.
 
 ---
 
+
+## Final room (Frizz) <Item id="8887" disableText size="large"/><Item id="24672" disableText size="large" />
+
 <Grid>
 <GridItem>
 
-## Final room (Frizz) <Item id="8887" disableText/><Item id="24672" disableText/>
 
 Talk to _Inspector Ellen Kiel_ to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
@@ -163,15 +165,18 @@ When the first golem dies, the two _Small Lasers_ will disappear and two more _A
 As soon as the two golems are dead, the two _Small Lasers_ will join the two _Large Lasers_ again and two final golems wake up. Kill the last golems to finish the fight.
 
 If a golem walks through a laser, it powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
+
+<Achievement title="Still Faster Than Light">
+Dont get hit by the lasers! Watch out especially at the 2nd phase when the lasers start to spin with different speeds.
+</Achievement>
+
 </GridItem>
 
 <GridItem>
-![Frizz, the last encounter of the fractal](images/frizz.jpg)
-</GridItem>
-</Grid>
+<Image src={import("./images/frizz.jpg")} caption="Frizz, the last encounter of the fractal" />
 
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="Revenant">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the _Lasers_ and _Small Lasers_.
 </Tab>
 
@@ -179,11 +184,17 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 Drop your banners in the very center of the arena. Using <Skill name="whirlwind attack"/> against the wall is very effective.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Ranger">
 Run an off-hand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>
+
+
+</GridItem>
+</Grid>
+
+
