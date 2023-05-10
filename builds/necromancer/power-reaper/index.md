@@ -18,7 +18,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-05-10T21:06:35.898Z "
+date: "2023-05-10T23:49:54.027Z "
 benchmark:
   small:
     dps: 34302
@@ -60,11 +60,9 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 
 <Grid>
 <GridItem sm="7">
-<Card title="Traits">
-<Traits traits1="Spite" traits1Selected="Spiteful Talisman, Awaken the Pain, Close to Death" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Death Perception" traits3="Reaper" traits3Selected="Chilling Nova , Soul Eater, Reapers Onslaught"/>
-</Card>
 
-<Card title="Situational Weapon">
+<Traits traits1Id="53" traits1="Spite" traits1SelectedIds="914,829,853" traits2Id="50" traits2="Soul Reaping" traits2SelectedIds="898,894,893" traits3Id="34" traits3="Reaper" traits3SelectedIds="2020,1969,2021"/>
+<Card title="Situational Weapons">
 
 - You can play with Axe/Warhorn on single target encounters with the need of additional defiance bar damage, utilising  <Skill name="Wail of Doom" /> (Warhorn 4).
 - On <Instability name="No Pain, No Gain" /> encounters Axe/Focus can generate a damage increase by stripping boons with  <Skill name="Spinal Shivers" /> (Focus 5), but generally speaking <Skill name="Corrupt Boon" /> (Utility) can be used on both weaponsets and does not require adjusting the gear.
@@ -87,7 +85,7 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 | <Skill name="Reaper's Mark" size="big" disableText/>                   | 100 with <Condition name="Fear"/>
 | <Skill name="Wail of Doom" size="big" disableText/>                    | 100 base plus 100 with <Condition name="Fear"/> (300 total if traited)   |
 | <Skill name="Spectral Grasp" size="big" disableText/>                    | 150-750 damage with <Control name="Pull"/> (see situational skills)   |
-| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox  |
+| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 200 damage from <Effect name="knockdown"/> with multi-hits as golem travels through hitbox (600, 800, 1000 damage depending on hitbox size)  |
 | <Skill name="Chilled to the Bone!" size="big" disableText/>             | 200 with <Control name="Stun"/> (300 melee)
 
 
@@ -104,23 +102,37 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 </Warning>
 
 |                                                               |                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Well of Darkness" size="big" disableText/>       | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                           |
-| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />                                                                                                                                                |
+| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />                                                                                                                                                      |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
-| <Skill name="Suffer" size="big" disableText/>                 | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/>                                                                                                                                                                                                                                                                                                                                    |
+| <Skill name="Suffer" size="big" disableText/>                 | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/>                                                                                                                    |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                           |
 | <Skill name="Nothing Can Save You" size="big" disableText/>   | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too.                     |
-| <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals).             |
-| <Skill name="Chilled to the Bone!" size="big" disableText/>    | 
-Depending on the amount of foes hit, this elite skill can grant yourself up to 12 stacks of <Boon name="Stability"/> and <Boon name="Might"/>, as well as a long lasting <Boon name="Quickness"/> and <Boon name="Fury"/> duration.  |
-
+| <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals).                                                                                                |
+| <Skill name="Chilled to the Bone!" size="big" disableText/>   | Depending on the amount of foes hit, this elite skill can grant yourself up to 12 stacks of <Boon name="Stability"/> and <Boon name="Might"/>, as well as a long lasting <Boon name="Quickness"/> and <Boon name="Fury"/> duration.                  |
 
 </Card>
 </GridItem>
 </Grid>
+
+<GridItem sm="20">
+<Card title="Notes:">
+
+The given rotation below is meant for a golem-like scenario and has to be adapted based on phase-lengths/mechanics/the following aspects: 
+- Below 50% boss HP: <Skill name="Gravedigger" /> (Greatsword 2) replaces  <Skill name="Death Spiral" /> (Greatsword 3) and Greatsword auto-attacks. 
+ Cancel the aftercasts with any other skill or weaponswap (shroud works as well) or simply by pressing auto-attack in between two casts.
+- Below 25% boss HP: use <Skill name="Executioner's Scythe" /> (Shroud 5).
+- All shouts require to stand in melee range (240 range) to get their full value.
+- <Skill name="Deaths Charge" /> (Shroud 2) only deals slightly more damage compared to shroud auto-attacks.
+- <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of life force from incomming damage for 6s. 
+Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends the damage mitigation and can interrupt e.g. <Skill name="Soul Spiral" /> (Shroud 4), so be careful to not double cast it by accident.
+
+</Card>
+</GridItem>
+
 
 <Divider text="Details" />
 
@@ -192,22 +204,6 @@ Depending on the amount of foes hit, this elite skill can grant yourself up to 1
 24. <Skill name="Grasping Darkness" /> (Greatsword 5)
 25. **Weapon Swap**
 
-</Card>
-</GridItem>
-
-<GridItem sm="20">
-<Card title="Notes:">
-
-The given rotation above is meant for a golem-like scenario and has to be adapted based on phase-lengths/mechanics/the following aspects: 
-- Below 50% boss HP: <Skill name="Gravedigger" /> (Greatsword 2) replaces  <Skill name="Death Spiral" /> (Greatsword 3) and Greatsword auto-attacks. 
- Cancel the aftercasts with any other skill or weaponswap (shroud works as well) or simply by pressing auto-attack in between two casts.
-- Below 25% boss HP: use <Skill name="Executioner's Scythe" /> (Shroud 5).
-- All shouts require to stand in melee range (240 range) to get their full value.
-- <Skill name="Deaths Charge" /> (Shroud 2) only deals slightly more damage compared to shroud auto-attacks.
-- <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of life force from incomming damage for 6s. 
-Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends the damage mitigation and can interrupt e.g. <Skill name="Soul Spiral" /> (Shroud 4), so be careful to not double cast it by accident.
-
- 
 </Card>
 </GridItem>
 
