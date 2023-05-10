@@ -18,7 +18,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-05-10T13:29:31.102Z "
+date: "2023-05-10T13:33:53.051Z "
 benchmark:
   small:
     dps: 34302
@@ -69,9 +69,9 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 <Card title="Situational Weapon">
 
 - If necessary you can play with Axe/Warhorn on single target encounters with the need of additional defiance bar damage, by utilising  <Skill name="Wail of Doom" /> (Warhorn 4)
-- On <Instability name="No Pain, No Gain" /> encounters Axe/Focus could generate some extra damage increase by stripping boons with  <Skill name="Spinal Shivers" /> (Focus 5), but since you will not have access to that skill on Greatsword, <Skill name="Corrupt Boon" /> (Utility) is more reliable and does not require adjusting the gear
+- On <Instability name="No Pain, No Gain" /> encounters Axe/Focus can generate a damage increase by stripping boons with  <Skill name="Spinal Shivers" /> (Focus 5), but generally speaking <Skill name="Corrupt Boon" /> (Utility) can be used on both weaponsets and does not require adjusting the gear.
 
-</Card>
+</Card> 
 
 <Card title="Situational Traits">
 
