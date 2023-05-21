@@ -1,7 +1,7 @@
 ---
 title: Damage Mitigation
 date: '2022-04-07T20:15:49.972Z'
-image: ./images/header.jpg
+image: images/header.jpg
 description: Learn which skills and traits your profession can use to avoid
   damaging mechanics.
 ---

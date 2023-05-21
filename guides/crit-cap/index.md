@@ -1,7 +1,7 @@
 ---
 title: Crit Cap
-date: '2023-04-06T13:03:18.486Z'
-image: ./images/header.png
+date: "2023-04-06T13:03:18.486Z"
+image: images/header.jpg
 description: Learn how to achieve crit cap on various Guild Wars 2 professions.
 ---
 

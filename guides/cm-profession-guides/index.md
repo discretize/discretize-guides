@@ -1,7 +1,7 @@
 ---
 title: CM Profession Guides
-date: '2023-01-01T23:55:00.885Z'
-image: ./images/header.jpg
+date: "2023-01-01T23:55:00.885Z"
+image: images/header.jpg
 description: A collection of profession specific CM guides!
 ---
 
@@ -13,7 +13,7 @@ These guides provide an in depth description on how to deal damage in CMs. Our g
 </GridItem>
 <GridItem>
 
-![Arkk, the CM boss of Shattered Observatory](images/arkk.jpg)
+![Arkk, the CM boss of Shattered Observatory](images/header.jpg)
 
 </GridItem>
 </Grid>
