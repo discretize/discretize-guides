@@ -1,7 +1,7 @@
 ---
 title: Teamcomp 101
 date: "2023-04-07T14:51:47.520Z "
-image: ./images/preview.png
+image: ./images/header.png
 description: Everything around compositions in fractals
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: CC Distribution
-date: '2023-04-04T19:05:05.698Z'
-image: ./images/preview.jpg
+date: "2023-04-04T19:05:05.698Z"
+image: ./images/header.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
 

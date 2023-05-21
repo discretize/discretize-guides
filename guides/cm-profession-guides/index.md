@@ -1,7 +1,7 @@
 ---
 title: CM Profession Guides
 date: '2023-01-01T23:55:00.885Z'
-image: ./images/arkk.jpg
+image: ./images/header.jpg
 description: A collection of profession specific CM guides!
 ---
 

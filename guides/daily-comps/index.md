@@ -1,7 +1,7 @@
 ---
 title: dT Daily Comps
 date: "2023-04-07T14:49:28.272Z "
-image: ./images/mama.jpg
+image: ./images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: New Player Guide
 date: '2022-08-10T22:09:13.528Z'
-image: ./images/lobby.jpg
+image: ./images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
 ---
