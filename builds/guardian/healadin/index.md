@@ -26,15 +26,15 @@ boons:
   - name: Fury
     uptime: 100%
     variant: party
-code: '[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 5
   - 2
   - 5
   - 1
   - 1
-date: '2022-03-31T20:20:16.252Z'
+date: "2022-03-31T20:20:16.252Z"
 ---
 
 <Divider text="Overview"/>
@@ -47,7 +47,7 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 </GridItem>
 
 <GridItem>
-<GifPlayer caption="" url="https://cdn.discordapp.com/attachments/725436950831562793/909040759775297607/clown_pepe.mp4"/>
+<GifPlayer caption="" url="https://pub-80c25841bf1e4cbda246ab1b42798500.r2.dev/clown_pepe.mp4"/>
 </GridItem>
 </Grid>
 
@@ -196,7 +196,7 @@ While doing this spam your mantras off cooldown, and at the end of the rotation 
 <GridItem sm="6">
 <Card title="Precast">
 
-<GifPlayer caption="Prestacking Boons" url="https://cdn.discordapp.com/attachments/757704460582649886/959227318650417213/ezgif.com-gif-maker.webm"/>
+<GifPlayer caption="Prestacking Boons" url="https://pub-80c25841bf1e4cbda246ab1b42798500.r2.dev/hfb-prestacking-boons-meme.webm"/>
 </Card>
 
 <Card title="Rotation">
