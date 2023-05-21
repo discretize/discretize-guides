@@ -5,9 +5,11 @@ potions:
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: '2022-01-30T18:10:52.328Z'
+date: "2022-01-30T18:10:52.328Z"
 title: Volcanic
-image: ./images/header.jpg
+description: You can't break this magic. Our god will crush you all.
+long_description: ""
+image: images/header_old.jpg
 group: T4
 api: 2989
 bosses: 2
@@ -44,6 +46,8 @@ record:
     - id: cSn-lnvcAgA
       name: Hyp
       specialization: Daredevil
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>

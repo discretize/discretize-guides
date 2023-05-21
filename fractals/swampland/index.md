@@ -1,8 +1,10 @@
 ---
 cycle: Night
-date: '2022-07-01T17:29:49.600Z'
+date: "2022-07-01T17:29:49.600Z"
 title: Swampland
-image: ./images/bloomhunger_spirit_onslaught.jpg
+description: Ugh, a swamp. I knew I should've sprayed you all with mosquito repellent before you left.
+long_description: ""
+image: images/bloomhunger_spirit_onslaught.jpg
 group: T4
 api: 2892
 bosses: 1
@@ -34,6 +36,8 @@ record:
     - id: DqQh95QUX3M
       name: Roach
       specialization: Soulbeast
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>
@@ -48,11 +52,11 @@ Learn and practice to jump over the emerging walls, for nearly every wall there 
 The remaining two players can take the _Invigorator Rifle Prototypes_ from the ground and use `Skill 3` to grant <Boon name="Stability"/> to the Wisp runners. Note that it is possible to carry the Wisp from the farthest point without using any movement skills.
 
 <Tabs>
-<Tab specialization="renegade">
+<Tab specialization="Renegade">
 Use <Skill name="Impossible Odds"/> (<Skill name="Legendary Assassin Stance" disableText/>) for better mobility.
 </Tab>
 
-<Tab specialization="berserker">
+<Tab specialization="Berserker">
 Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> comes in handy to cleanse conditions!
 </Tab>
 
@@ -116,7 +120,7 @@ Try to position yourself before Bloomhunger reaches 25% health. Again, he will t
 As soon as all four Wisp Clefts are activated, Bloomhunger gets vulnerable again and you can finish him off to complete the fractal.
 
 <Tabs>
-<Tab specialization="renegade">
+<Tab specialization="Renegade">
 Use <Item id="72872"/> to strip the boons from Bloomhunger with <Skill name="Darkrazor's Daring"/>.
 </Tab>
 

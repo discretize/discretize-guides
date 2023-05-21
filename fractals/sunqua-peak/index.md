@@ -1,8 +1,10 @@
 ---
 cycle: Day (non CM) / Night (CM)
-date: '2022-07-01T17:43:27.300Z'
+date: "2022-07-01T17:43:27.300Z"
 title: Sunqua Peak
-image: ./images/hero_sunqua2.jpg
+description: Why are you here? I came to this mountain to be alone.
+long_description: ""
+image: images/hero_sunqua2.jpg
 group: Challenge Mode
 api: 5446
 bosses: 5
@@ -32,6 +34,8 @@ record:
     - id: jWqgOwQLY48
       name: Jetrell
       specialization: Guardian
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challenge Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss.

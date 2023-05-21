@@ -3,13 +3,12 @@ cycle: Day
 potions:
   - id: 50082
   - id: 8887
-    description: against the golems in the final room
-date: '2022-07-01T17:40:25.400Z'
+date: "2022-07-01T17:40:25.400Z"
 title: Aetherblade
-image: ./images/header.jpg
-group: T4
+description: This is a sterile research environment. Leave at once.
+long_description: "The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal."
+image: images/header_old.jpg
 api: 2948
-bosses: 1
 difficulties:
   - level: 96
     ar: 144
@@ -17,7 +16,6 @@ sigils:
   - id: 24615
   - id: 24868
   - id: 24672
-    description: against the golems in the final room
 record:
   time: 0 min 53 sec
   by:
@@ -36,6 +34,8 @@ record:
     - id: cuJ1r6V8qk8
       name: Inky
       specialization: Dragonhunter
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 ## Start (water tunnel) <Item id="50082" disableText/>
@@ -45,11 +45,11 @@ record:
 You can stack <Effect name="Stealth"/> before entering the water to avoid that the mines explode. Clear the group of _Elite Aetherblades_ to open the door.
 
 <Tabs>
-<Tab specialization="thief">
-Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
+<Tab specialization="Thief">
+Use the smoke field from <Skill id="13113"/> or <Skill name="Smoke Screen" profession="Thief"/> or simply cast <Skill id="13117"/> to stack <Effect name="Stealth"/>.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Ranger">
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/> at the beginning.
 </Tab>
 
@@ -92,7 +92,7 @@ Speed is important here. Do not hesitate to `/gg` if you are certain the first c
 To skip this part you are going to need a little jumping, along with damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>. **Once it comes down from the higher level**, you can use <Skill name="Phase Traversal"/> to reach the platform and go to the console room. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>) and disable the consoles.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 <ProfessionVideo title="First puzzle skip" profession="Elementalist" src="OjUvCp2h_04" timestamp="45"/>
 Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
@@ -132,7 +132,7 @@ Kill the respawning enemies to fill the progress bar and open the gate. Avoid th
 You can <Skill name="Call to Anguish"/> most mobs to group them. If you have enough pulls in your group you should use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Inspiring Reinforcement"/> to deny the <Control name="Daze"/>s from the air strikes constantly hitting you.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 Stay in <Skill id="5492"/> after the last trash group for <Boon name="Might"/> stacking at Frizz.
 </Tab>
 
@@ -147,10 +147,10 @@ You can use <Skill name="spectral grasp"/> to group the mobs.
 
 ---
 
+## Final room (Frizz) <Item id="8887" disableText size="large"/><Item id="24672" disableText size="large" />
+
 <Grid>
 <GridItem>
-
-## Final room (Frizz) <Item id="8887" disableText/><Item id="24672" disableText/>
 
 Talk to _Inspector Ellen Kiel_ to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
@@ -163,15 +163,18 @@ When the first golem dies, the two _Small Lasers_ will disappear and two more _A
 As soon as the two golems are dead, the two _Small Lasers_ will join the two _Large Lasers_ again and two final golems wake up. Kill the last golems to finish the fight.
 
 If a golem walks through a laser, it powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
+
+<Achievement title="Still Faster Than Light">
+Dont get hit by the lasers! Watch out especially at the 2nd phase when the lasers start to spin with different speeds.
+</Achievement>
+
 </GridItem>
 
 <GridItem>
-![Frizz, the last encounter of the fractal](images/frizz.jpg)
-</GridItem>
-</Grid>
+<Image src={import("./images/frizz.jpg")} caption="Frizz, the last encounter of the fractal" />
 
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="Revenant">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the _Lasers_ and _Small Lasers_.
 </Tab>
 
@@ -179,11 +182,14 @@ Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stan
 Drop your banners in the very center of the arena. Using <Skill name="whirlwind attack"/> against the wall is very effective.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Ranger">
 Run an off-hand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 
-<Tab specialization="elementalist">
+<Tab specialization="Elementalist">
 Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>
+
+</GridItem>
+</Grid>

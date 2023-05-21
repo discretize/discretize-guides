@@ -2,19 +2,17 @@
 cycle: Day
 potions:
   - id: 50082
-    description: only for the Krait at the beginning
-date: '2022-07-01T17:21:58.200Z'
+date: "2022-07-01T17:21:58.200Z"
 title: Aquatic Ruins
-image: ./images/header.jpg
-group: T4
+description: The krait took our people into the water. You have to stop them!
+long_description: "The Aquatic Ruins Fractal takes you on a journey through the long-forgotten ruins of an ancient civilization. Swimming through the submerged corridors, watch out for deadly sea creatures, treacherous currents, and the legendary Jellyfish Beast. Don your underwater gear and prepare to explore and uncover the secrets hidden within the depths."
+image: images/header_old.jpg
 api: 2956
-bosses: 1
 difficulties:
   - level: 76
     ar: 107
 sigils:
   - id: 24658
-    description: null
   - id: 24615
 consumables:
   - 78978
@@ -36,6 +34,8 @@ record:
     - id: 1oOtwtS9ipY
       name: Maarten
       specialization: Chronomancer
+layout: src/layouts/Fractal.astro
+hasCM: false
 ---
 
 <Grid>
@@ -75,7 +75,7 @@ You can stack <Boon name="Might"/> on the rack before entering the water. Kill t
 
 <GridItem sm="5">
 <Tabs>
-<Tab specialization="reaper">
+<Tab specialization="Reaper">
 1.  <Skill name="Frozen Abyss"/> (Trident 5)
 2.  <Skill name="Wicked Spiral"/> (Spear 2)
 3.  Use both wells
@@ -94,7 +94,7 @@ Rotate to <Skill name="Air Attunement" profession="Elementalist" disableText/> /
 Use your utility while in <Skill name="Fire Attunement" profession="Elementalist" disableText/> / <Skill name="Fire Attunement" profession="Elementalist" disableText/> or <Skill name="Air Attunement" profession="Elementalist" disableText/> / <Skill name="Air Attunement" profession="Elementalist" disableText/> when the vulnerability debuff is up (breaking out from the Jellyfish's belly).
 </Tab>
 
-<Tab specialization="tempest">
+<Tab specialization="Tempest">
 
 You can re-trait to Tempest for this fractal as it is one of the best choices for underwater combat (because of cleave and vulnerability uptime).
 
@@ -145,7 +145,7 @@ When the <Instability name="Afflicted"/> is present, it is highly recommended to
 
 <GridItem sm="5">
 <Tabs>
-<Tab specialization="revenant">
+<Tab specialization="Revenant">
 Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain, No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>.
 </Tab>
 
