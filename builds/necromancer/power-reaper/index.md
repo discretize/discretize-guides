@@ -18,7 +18,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-05-10T23:49:54.027Z "
+date: "2023-05-22T15:51:57.099Z "
 benchmark:
   small:
     dps: 34302
@@ -56,7 +56,7 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 </Character>
 </CharacterWithAr>
 
-<Divider text="Build" />
+<Divider text="Build" /> 
 
 <Grid>
 <GridItem sm="7">
@@ -130,6 +130,14 @@ The given rotation below is meant for a golem-like scenario and has to be adapte
 - <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of life force from incomming damage for 6s. 
 Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends the damage mitigation and can interrupt e.g. <Skill name="Soul Spiral" /> (Shroud 4), so be careful to not double cast it by accident.
 
+<Card title="Staff Marks:">
+
+- On Skorvald/Arkk/Siax phase 1 the direct hit damage does not connect, but you will still apply conditions and combo- fields/finishers, as well as getting life force from <Trait name="Soul Marks"/>, which can especially be useful during the orb phases of Ensolyss.
+- For Arstariiv phase 1 they can be precasted into her jumping path.
+- At MAMA you place them onto the spawn area of the first Knight, utilizing a pre-portal.
+- To be able to precast them into Ensolyss phase 1, they need to be slighty below the initial hitbox.
+</Card>
+
 </Card>
 </GridItem>
 
@@ -142,7 +150,7 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 **Precasting:**
 
-1. Precast all staff marks on Skorvald, Arkk and Siax,
+1. Staff marks if possible (check the notes section).
 2. If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far away from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
 3. Precast <Skill name="Rise" /> (Utility) and swap back to <Skill name="You are all Weaklings!" />.
 4. Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4),
