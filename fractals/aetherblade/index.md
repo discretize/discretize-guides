@@ -3,10 +3,10 @@ cycle: Day
 potions:
   - id: 50082
   - id: 8887
-date: "2022-07-01T17:40:25.400Z"
+date: '2022-07-01T17:40:25.400Z'
 title: Aetherblade
 description: This is a sterile research environment. Leave at once.
-long_description: "The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal."
+long_description: 'The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal.'
 image: images/header_old.jpg
 api: 2948
 difficulties:
@@ -171,7 +171,7 @@ Dont get hit by the lasers! Watch out especially at the 2nd phase when the laser
 </GridItem>
 
 <GridItem>
-<Image src={import("./images/frizz.jpg")} caption="Frizz, the last encounter of the fractal" />
+![Frizz, the last encounter of the fractal](./images/frizz.jpg)
 
 <Tabs>
 <Tab specialization="Revenant">

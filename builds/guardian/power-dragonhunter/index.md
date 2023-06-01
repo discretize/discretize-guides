@@ -96,7 +96,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Card title="Virtues">
 
-<Traits traits1Id="46" traits1="Virtues" traits1SelectedIds="624,603,612" traits2Id="42"/>
+<Traits traits1Id="46" traits1="Virtues" traits1SelectedIds="624,603,612" />
 
 If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** trait line for Virtues for more personal damage. Please note you will need to adjust your gear to crit cap! Check the [gear optimizer](https://optimizer.discretize.eu) for more gear variants!
 
