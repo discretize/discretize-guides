@@ -2,7 +2,7 @@
 title: Dragonhunter CM guides
 profession: Guardian
 specialization: Dragonhunter
-date: '2023-03-30T23:40:51.185Z'
+date: "2023-05-28T12:18:09.181Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -47,7 +47,7 @@ Many examples of symbol precasting can be found in the subsequent video, linked 
 <Warning>
 - This fight gets very messy if the adds are not immediately CCed. It is recommended to use extra CC skills to make up for the potential lack of CC of your team mates, such as <Skill name="banesignet"/>.
 - It is possible to precast a <Skill id="30273"/> on the second Knight, if a portal to go back is available.
-- <Trait name="heavylight"/> is required.
+- <Trait name="heavylight"/> is recommended.
 </Warning>
 
 ### **Synopsis**
@@ -140,8 +140,8 @@ While on _Longbow_, CC the second knight with <Skill name="deflectingshot"/>, an
 
 1.  <Skill name="deflectingshot"/> (Lb3)
 2.  <Skill name="processionofblades"/>
-3.  3× <Skill id="30471"/>s
-4.  <Skill name="strike"/> → <Skill name="vengefulstrike"/> → <Skill name="wrathfulstrike"/> (Gs1)
+3.  <Skill name="trueshot"/>
+4.  2× <Skill id="30471"/>s
 
 </IdealRotation>
 </Phase>
@@ -226,7 +226,7 @@ Finish the boss with whatever CC is left and use all of your skills to burst it 
 - Use <Skill name="Bane Signet"/> to help with CC if necessary.
 - <Skill name="Shieldofcourage"/> can be used to block the expanding AoE.
 - All traps can be precasted easily, including <Skill name="lightsjudgment"/> on one of the adds' location for easy <Condition name="vulnerability"/> stacks.
-- <Trait name="biggamehunter"/> can be used over <Trait name="heavylight"/>.
+- <Trait name="biggamehunter"/> is recommended.
 </Warning>
 
 <Phase>
@@ -361,9 +361,9 @@ Standard dps phases.
 1.  <Skill name="swordofjustice"/> (P1: before the boss is vulnerable)
 2.  <Skill name="processionofblades"/> (P1: before the boss is vulnerable)
 3.  <Skill name="dragonsmaw"/> (P1: as the boss becomes vulnerable)
-4.  <Skill name="deflectingshot"/> (Lb3)
-5.  <Skill name="symbolofenergy"/> (Lb4)
-6.  <Skill name="spearofjustice"/> (F1) (P2, P3: can be cast much earlier with no invulnerability constraints)
+4.  <Skill name="spearofjustice"/> (F1) (P2, P3: can be cast much earlier with no invulnerability constraints)
+5.  <Skill name="deflectingshot"/> (Lb3)
+6.  <Skill name="symbolofenergy"/> (Lb4)
 7.  <Skill name="huntersward"/> (Lb5)
 8.  <Skill name="trueshot"/> (Lb2)
 9.  _Swap_
@@ -376,23 +376,26 @@ Standard dps phases.
 16.  2× <Skill name="Strike"/>s → <Skill name="vengefulstrike"/>s → <Skill name="wrathfulstrike"/>s
 17. <Skill name="symbolofresolution"/> (Gs4)
 18. <Skill name="whirlingwrath"/> (Gs2)
-19. <Skill name="processionofblades"/>
-20. _Swap_
-21. <Skill name="symbolofEnergy"/> (Lb4)
-22. <Skill name="shieldofcourage"/> (In P1 only, to avoid Ensolyss' body slam)
-23. <Skill name="deflectingshot"/> (Lb3) use immediately to proc <Item name="severance"/>
-24. <Skill name="trueshot"/> (Lb2)
+19. <Skill name="leapoffaith"/> (Gs3)
+20. <Skill name="processionofblades"/>
+21. _Swap_
+22. <Skill name="symbolofEnergy"/> (Lb4)
+23. <Skill name="shieldofcourage"/> (In P1 only, to avoid Ensolyss' body slam)
+24. <Skill name="deflectingshot"/> (Lb3) use immediately to proc <Item name="severance"/>
 25. <Skill name="spearofjustice"/>
-26. 2× <Skill id="30471"/>s
-27. <Skill name="huntersward"/> (Lb5)
-28. <Skill name="swordofjustice"/>
+26. <Skill name="trueshot"/> (Lb2)
+27. <Skill name="swordofjustice"/>
+28. <Skill id="30471"/> or Dodge
+29. <Skill name="huntersward"/> (Lb5)
+30. <Skill id="30471"/>
+31. <Skill name="trueshot"/> (Lb2)
 </Phase>
 </Boss>
 
 <Boss name="Skorvald" video="JAL9VH6TYkI" timestamp="0" videoCreator="Magic" foodId="43360" utilityId="73191" heal="litanyofwrath" utility1="processionofblades" utility2="swordofjustice" utility3Id="9093" eliteId="30273" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Longbow" weapon2MainSigil2="Impact" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
 <Warning>
-- <Trait name="heavylight"/> is required.
+- <Trait name="biggamehunter"/> is recommended.
 - Start on *Longbow*.
 - Use <Skill name="Leap Of Faith"/> slightly left of the updrafts and push into them to travel quickly between islands.
 - Use <Skill name="Wings of resolve"/> to get to island#1 faster, either through the first updraft or to get in front of it.
@@ -414,15 +417,16 @@ Standard burst window. Delay <Skill name="dragonsmaw"/> and <Skill name="deflect
 
 1.  <Skill name="swordofjustice"/>
 2.  <Skill name="processionofblades"/>
-3.  <Skill name="dragonsmaw"/>
-4.  <Skill name="deflectingshot"/> (Lb3)
-5.  <Skill name="huntersward"/> (Lb5)
-6.  <Skill name="trueshot"/> (Lb2)
-7.  _Swap_
-8.  <Skill name="symbolofresolution"/> (Gs4)
-9.  <Skill name="whirlingwrath"/> (Gs2)
-10. <Skill name="bindingblade"/> (Gs5)
-11. <Skill name="leapoffaith"/> (Gs3)
+3.  <Skill name="spearofjustice"/>
+4.  <Skill name="dragonsmaw"/>
+5.  <Skill name="deflectingshot"/> (Lb3)
+6.  <Skill name="huntersward"/> (Lb5)
+7.  <Skill name="trueshot"/> (Lb2)
+8.  _Swap_
+9.  <Skill name="symbolofresolution"/> (Gs4)
+10.  <Skill name="whirlingwrath"/> (Gs2)
+11. <Skill name="bindingblade"/> (Gs5)
+12. <Skill name="leapoffaith"/> (Gs3)
 
 </IdealRotation>
 </Phase>
@@ -459,16 +463,17 @@ Standard burst window. You should switch to _Longbow_ as island#3 finishes.
 
 1.  <Skill name="swordofjustice"/>
 2.  <Skill name="processionofblades"/>
-3.  <Skill name="symbolofenergy"/> (Lb4)
-4.  <Skill name="trueshot"/> (Lb2)
-5.  <Skill name="deflectingshot"/> (Lb3)
-6.  <Skill name="huntersward"/> (Lb5)
-7.  _Swap_
-8.  <Skill name="symbolofresolution"/> (Gs4)
-9.  <Skill name="swordofjustice"/>
-10. <Skill name="whirlingwrath"/> (Gs2)
-11. (optional) <Skill name="leapoffaith"/> (Gs3)
-12. (optional) <Skill name="bindingblade"/> (Gs5)
+3.  <Skill name="spearofjustice"/>
+4.  <Skill name="symbolofenergy"/> (Lb4)
+5.  <Skill name="trueshot"/> (Lb2)
+6.  <Skill name="deflectingshot"/> (Lb3)
+7.  <Skill name="huntersward"/> (Lb5)
+8.  _Swap_
+9.  <Skill name="symbolofresolution"/> (Gs4)
+10.  <Skill name="swordofjustice"/>
+11. <Skill name="whirlingwrath"/> (Gs2)
+12. (optional) <Skill name="leapoffaith"/> (Gs3)
+13. (optional) <Skill name="bindingblade"/> (Gs5)
 
 </IdealRotation>
 </Phase>
@@ -498,25 +503,26 @@ Use up all of your available burst.
   
 1.  <Skill name="swordofjustice"/>
 2.  <Skill name="processionofblades"/>
-3.  <Skill name="symbolofenergy"/> (Lb4)
-4.  <Skill name="trueshot"/> (Lb2)
-5.  <Skill name="deflectingshot"/> (Lb3)
-6.  <Skill name="huntersward"/> (Lb5)
-7.  _Swap_
-8.  <Skill name="symbolofresolution"/> (Gs4)
-9.  <Skill name="swordofjustice"/>
-10.  <Skill name="dragonsmaw"/>
-11.  <Skill name="whirlingwrath"/> (Gs2)
-12.  <Skill name="bindingblade"/> (Gs5)
-13.  <Skill name="leapoffaith"/> (Gs3)
+3.  <Skill name="spearofjustice"/>
+4.  <Skill name="symbolofenergy"/> (Lb4)
+5.  <Skill name="trueshot"/> (Lb2)
+6.  <Skill name="deflectingshot"/> (Lb3)
+7.  <Skill name="huntersward"/> (Lb5)
+8.  _Swap_
+9.  <Skill name="symbolofresolution"/> (Gs4)
+10.  <Skill name="swordofjustice"/>
+11.  <Skill name="dragonsmaw"/>
+12.  <Skill name="whirlingwrath"/> (Gs2)
+13.  <Skill name="bindingblade"/> (Gs5)
+14.  <Skill name="leapoffaith"/> (Gs3)
 </Phase>
 </Boss>
 
 <Boss name="Artsariiv" video="JAL9VH6TYkI" timestamp="82" videoCreator="Magic" foodId="91805" utilityId="73191" heal="litanyofwrath" utility1="processionofblades" utility2="swordofjustice" utility3Id="9093" eliteId="9154" weapon1MainAffix="Berserker" weapon1MainType="Greatsword" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Longbow" weapon2MainSigil2="Severance" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131">
 
 <Warning>
-- It is recommended to play with the *Major Adept* trait <Trait name="soaringdevastation"/> over <Trait name="piercinglight"/>, for additional CC with <Skill name="wingsofresolve"/>.
-- Play with <Trait name="heavylight"/>, as you will be using <Skill name="huntersverdict"/> (F1) for CC.
+- It is recommended to play with the *Major Adept* trait <Trait name="soaringdevastation"/> over <Trait name="piercinglight"/>, for additional CC with <Skill name="wingsofresolve"/>. If you play with multiple templates, make sure you make the change on all of them to prevent Status Reset upon a template swap.
+- Play with <Trait name="biggamehunter"/>, as you will be using <Skill name="huntersverdict"/> (F1) for CC but reseting your <Skill name="spearofjustice"/> (F1) with  <Skill name="renewedfocus"/>.
 - Using <Skill name="renewedfocus"/> will allow you to get more CC out of your virtues <Skill name="wingsofresolve"/> (F2) and <Skill name="huntersverdict"/> (F1).
 - Save your <Skill name="shieldofcourage"/> (F3) for the expanding AoE, so you and your party can deal continued damage during the mid burn phase.
 - Start the boss on *Greatsword* for P1.
@@ -547,14 +553,16 @@ _Tips:_
 
 1.  <Skill name="swordofjustice"/>
 2.  <Skill name="processionofblades"/>
-3.  <Skill name="symbolofresolution"/> (Gs4)
-4.  <Skill name="bindingblade"/> (Gs5)
-5.  <Skill name="litanyofwrath"/>
-6.  <Skill name="whirlingwrath"/> (Gs2)
-7.  _Swap_
-8.  <Skill name="huntersward"/> (Lb5)
-9.  <Skill name="trueshot"/> (Lb2)
-10. <Skill id="30471"/> (Lb1)
+3.  <Skill name="spearofjustice"/>
+4.  <Skill name="symbolofresolution"/> (Gs4)
+5.  <Skill name="bindingblade"/> (Gs5)
+6.  <Skill name="litanyofwrath"/>
+7.  <Skill name="whirlingwrath"/> (Gs2)
+8.  _Swap_
+9.  <Skill name="huntersward"/> (Lb5)
+10.  <Skill name="trueshot"/> (Lb2)
+11. 3× <Skill id="30471"/> (Lb1)
+12. <Skill name="trueshot"/> (Lb2)
 
 </IdealRotation>
 </Phase>
@@ -575,8 +583,8 @@ Use <Skill name="symbolofenergy"/> as soon as it is off cooldown on one of the a
 
 1. <Skill name="symbolofenergy"/> (Lb4) for <Trait name="symbolicavenger"/> uptime
 2. <Skill name="deflectingshot"/> (Lb3) (230 CC over 4s)
-3. <Skill name="wingsofresolve"/> ↔ <Skill name="huntersverdict"/> (150 CC over 3s, 150CC)
-4. <Skill name="bane signet"/> ↔ (precasted) <Skill name="dragonsmaw"/> (300 CC, 350 CC over 4s)
+3. <Skill name="wingsofresolve"/> ↔ <Skill name="huntersverdict"/> (150 CC over 3s ↔ 150CC)
+4. <Skill name="bane signet"/> ↔ (precasted) <Skill name="dragonsmaw"/> (300 CC ↔ 350 CC over 4s)
 5. _Remain on Longbow_
 
 </IdealRotation>
@@ -603,16 +611,17 @@ _Tips:_
 
 1.  <Skill name="swordofjustice"/>
 2.  <Skill name="processionofblades"/>
-3.  <Skill name="trueshot"/> (Lb2)
-4.  <Skill name="symbolofenergy"/> (Lb4)
-5.  <Skill name="deflectingshot"/> (Lb3), allowing for a <Item name="severance"/> proc
-6.  <Skill name="shieldofcourage"/> (F3), to protect your party from Artsariiv's slam
-7.  <Skill name="huntersward"/> (Lb5)
-8.  _Swap_
-9.  <Skill name="symbolofresolution"/> (Gs4)
-10. <Skill name="swordofjustice"/>
-11. <Skill name="whirlingwrath"/> (Gs2)
-12. <Skill name="bindingblade"/> (Gs5)
+3.  <Skill name="spearofjustice"/>
+4.  <Skill name="trueshot"/> (Lb2)
+5.  <Skill name="symbolofenergy"/> (Lb4)
+6.  <Skill name="deflectingshot"/> (Lb3), allowing for a <Item name="severance"/> proc
+7.  <Skill name="shieldofcourage"/> (F3), to protect your party from Artsariiv's slam
+8.  <Skill name="huntersward"/> (Lb5)
+9.  _Swap_
+10.  <Skill name="symbolofresolution"/> (Gs4)
+11. <Skill name="swordofjustice"/>
+12. <Skill name="whirlingwrath"/> (Gs2)
+13. <Skill name="bindingblade"/> (Gs5)
 
 </IdealRotation>
 </Phase>
@@ -631,14 +640,13 @@ _Tips:_
 
 <IdealRotation>
 
-1. <Skill name="leapoffaith"/> (Gs3) (60 CC over 3s)
-2. <Skill name="symbolofresolution"/> for <Trait name="symbolicavenger"/> uptime
-3. _Swap_
-4. _Use <Skill name="renewedfocus"/> to reset all of your virtues_
-5. <Skill name="deflectingshot"/> (Lb3) (230 CC over 4s **twice**)
-6. <Skill name="huntersverdict"/> (150 CC **twice**)
-7. <Skill id="30471"/> (Lb1) (40 CC over 2s: must be used on two adds to pierce through the first one, to benefit from the <Condition name="crippled"/> condition on both adds)
-8. _Remain on Longbow_
+1. <Skill name="symbolofresolution"/> for <Trait name="symbolicavenger"/> uptime
+2. _Swap_
+3. <Skill name="deflectingshot"/> (Lb3) (230 CC over 4s **twice**)
+4. <Skill name="huntersverdict"/> (150 CC **twice**)
+5. <Skill id="30471"/> (Lb1) (40 CC over 2s: must be used on two adds to pierce through the first one, to benefit from the <Condition name="crippled"/> condition on both adds)
+6. _Use <Skill name="renewedfocus"/> to reset all of your virtues_
+7. _Remain on Longbow_
 
 </IdealRotation>
 </Phase>
@@ -655,18 +663,19 @@ The final phase is very straight-forward, and similar to the second one. <Skill 
 
 1.  <Skill name="swordofjustice"/>
 2.  <Skill name="processionofblades"/>
-3.  <Skill name="trueshot"/> (Lb2)
-4.  <Skill name="swordofjustice"/>
-5.  <Skill name="deflectingshot"/> (Lb3), allowing for a <Item name="severance"/> proc
-6.  <Skill name="symbolofenergy"/> (Lb4)
-7.  <Skill name="shieldofcourage"/> (F3), to protect your party from Artsariiv's slam
-8.  <Skill name="huntersward"/> (Lb5)
-9.  _Swap_
-10. <Skill name="symbolofresolution"/> (Gs4)
-11. <Skill name="dragonsmaw"/>
-12. <Skill name="whirlingwrath"/> (Gs2)
-13. <Skill name="bindingblade"/> (Gs5)
-14. <Skill name="leapoffaith"/> (Gs3)
+3.  <Skill name="spearofjustice"/>
+4.  <Skill name="trueshot"/> (Lb2)
+5.  <Skill name="swordofjustice"/>
+6.  <Skill name="deflectingshot"/> (Lb3), allowing for a <Item name="severance"/> proc
+7.  <Skill name="symbolofenergy"/> (Lb4)
+8.  <Skill name="shieldofcourage"/> (F3), to protect your party from Artsariiv's slam
+9.  <Skill name="huntersward"/> (Lb5)
+10.  _Swap_
+11. <Skill name="symbolofresolution"/> (Gs4)
+12. <Skill name="dragonsmaw"/>
+13. <Skill name="whirlingwrath"/> (Gs2)
+14. <Skill name="bindingblade"/> (Gs5)
+15. <Skill name="leapoffaith"/> (Gs3)
 
 </IdealRotation>
 </Phase>
@@ -685,7 +694,7 @@ It is especially important to learn a good rotation and stick to it. In the foll
 - You can easily push blooms using <Skill id="30471"/> from afar, or going in with a <Skill name="strike"/> followed by a <Skill name="leapoffaith"/>. Come back to the center of the platform using your special action key, for an additional <Boon name="might"/> blast and quick repositioning.
 - <Skill name="leapoffaith"/> (Gs3) can have its leap effect cancelled using the special action key on your position.
 - Do not wait for the boss to target it. In fact, it is preferred not to target it at all in P1, and throw all of your burst without aim, facing down and pointing your cursor to the boss' location, as shown in the video; as if you were playing with _Action Camera_! All of your abilities, including the _Longbow_ projectiles, should hit.
-- <Trait name="heavylight"/> and <Trait name="biggamehunter"/> are both viable options, although <Trait name="heavylight"/> is much easier to play. For the purposes of the guide, the rotation with <Trait name="biggamehunter"/> is presented. The same rotation without the use of <Skill name="spearofjustice"/> is to be used if playing with <Trait name="heavylight"/>.
+- <Trait name="heavylight"/> and <Trait name="biggamehunter"/> are both viable options, although <Trait name="heavylight"/> is much easier to play. For the purposes of the guide, the rotation with <Trait name="biggamehunter"/> is presented. It should be noted that playing with the trait <Trait name="biggamehunter"/> theoretically allows for a bigger damage output. The same rotation without the use of <Skill name="spearofjustice"/> is to be used if playing with <Trait name="heavylight"/>.
 
 </Warning>
 
