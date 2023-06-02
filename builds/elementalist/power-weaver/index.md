@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-06-02T15:32:07.081Z "
+date: "2023-06-02T15:33:19.782Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
