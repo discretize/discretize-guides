@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-06-02T15:33:19.782Z "
+date: "2023-06-02T15:43:50.940Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -140,12 +140,9 @@ Swap Weapons:
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
-
 <Advanced>
-<Information>
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-</Information>
+
+<Divider text="Details"/>
 
 <Grid>
 <GridItem xs="12" sm="6">
@@ -203,9 +200,268 @@ It is recommended to use separate precast templates to easily make use of differ
 
 <Divider text="Rotation / Skill usage"/>
 
+<Information>
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+</Information>
+
+<Grid>
+<GridItem>
+### Rotation: Weave Self
+
+Once you have finished the Weave Self Loop, you should loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> like in the Bolt to the Heart rotation.
+
+<Grid>
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Weave Self"/>
+2.  <Skill name="Lightning Storm"/>
+3.  <Skill name="Quantum Strike"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Pyro Vortex"/>
+
+</GridItem>
+
+<GridItem sm="2">
+
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Cauterizing Strike"/>
+2.  <Skill name="Fire Grab"/>
+3.  <Skill name="Ring of Fire"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Lava Skin"/>
+2.  <Skill name="Earthen Vortex"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Earthquake"/>
+2.  <Skill name="Flame Uprising"/>
+3.  <Skill name="Churning Earth"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Charged Strike"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+2.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+3.  <Skill name="Quantum Strike"/>
+
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Pyro Vortex"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Cauterizing Strike"/>
+2.  <Skill name="Ring of Fire"/>
+3.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Water Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Searing Slash"/>
+2.  <Skill name="Fire Grab"/>
+3.  <Skill name="Twin Strike"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Shearing Edge"/>
+
+</GridItem>
+</Grid>
+
+</GridItem>
+
+<GridItem>
+
+### Rotation: Bolt to the Heart
+
+The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
+
+<Grid>
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Lightning Storm"/>
+2.  <Skill name="Quantum Strike"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Pyro Vortex"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Flame Uprising"/>
+4.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+5.  <Skill name="Conjure Lightning Hammer"/> <Label>Only if pre-casted LH</Label> <Label>Skip the fire auto-attack chain above</Label>
+
+</GridItem>
+
+<GridItem sm="2">
+
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Invoke Lightning"/> <Label>Only if pre-casted LH</Label>
+2.  <Skill name="Cauterizing Strike"/>
+3.  <Skill name="Fire Grab"/>
+4.  <Skill name="Flame Uprising"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Ring of Fire"/>
+2.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+3.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+2.  <Skill name="Quantum Strike"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Pyro Vortex"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Flame Uprising"/>
+4.  <Skill name="Conjure Fiery Greatsword"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Fiery Rush"/>
+2.  <Skill name="Firestorm"/>
+3.  <Skill name="Cauterizing Strike"/>
+4.  <Skill name="Ring of Fire"/>
+5.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+6.  <Skill name="Flame Uprising"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+2.  <Skill name="Fire Grab"/>
+3.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+
+</GridItem>
+</Grid>
+
+If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> instead.
+
+</GridItem>
+</Grid>
+
 </Advanced>
 
 <Beginner>
+
+<Divider text="Rotation / Skill usage"/>
 
 <Grid>
 <GridItem xs="12" sm="7">
