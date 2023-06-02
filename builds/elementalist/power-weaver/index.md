@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-06-02T15:43:50.940Z "
+date: "2023-06-02T18:03:28.997Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -72,14 +72,12 @@ Swap Weapons:
 
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Weaver" traits3Selected="Superior Elements,Swift Revenge,Elements of Rage"/>
 
-<Card title="Situational Traits">
+#### Situational Traits
 
 |                                                          |                                                                                                                                                                                                                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                |
 | <Trait name="mastersfortitude" size="big" disableText /> | If there are no other <Condition name="Weakness" /> source in your party  besides yourself. Make sure to adjust your gear accordingly for the loss of <Attribute name="precision"/>. In most cases, if you have a Soulbeast in your group, <Condition name="Weakness" /> should be covered with their <Skill name="Winter's Bite"/>. Furthermore, you may ask the Soulbeast to bring <Trait name="Wilting Strike"/> for additional <Condition name="Weakness" /> uptime.|
-
-</Card>
 
 ### Defiance Bar Damage
 
