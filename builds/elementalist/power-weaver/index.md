@@ -10,7 +10,7 @@ specialization: Weaver
 conditions:
   - name: Vulnerability
     uptime: 10 stacks
-code: '[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: pug
 classification:
   - 4
@@ -18,44 +18,29 @@ classification:
   - 2
   - 3
   - 4
-date: '2023-01-03T17:42:49.134Z'
+date: "2023-04-12T17:35:08.831Z "
 ---
 
 <Advanced>
 The <Specialization name="Weaver" text="Power Weaver"/> is currently one of the strongest DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-Unfortunately, this build is pretty squishy and besides the healing skill does not have any defensive abilities to mitigate damage or cleanse conditions, so high awareness is required. Special care needs to be taken on fractals with <Instability name="We Bleed Fire"/>.
-
-Also, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+Unfortunately, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 </Advanced>
 
 <Beginner>
 
 The <Specialization text="Power Weaver" name="Weaver"/> is a build that offers high burst damage and good consistent DPS while bringing some utility in the form of sharing conjures like <Skill name="conjurefierygreatsword" /> as well as providing some <Condition name="Vulnerability" /> and some <Boon name="Might" /> through placing and blasting fire fields.
 
-Due to the build lacking any form of boon self-generation as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. To rely less on defensive support from your group and to counteract how squishy the build can be, the Beginner version recommends <Skill name="arcaneshield" /> as a defensive utility instead of <Skill name="arcaneblast" /> until you get more comfortable with the class and the mechanics of the fractals.
+Due to the build lacking any form of boon self-generation as well as being rather squishy, this build heavily relies on the supports for boon uptime to reach its full potential. 
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Elementalist" /> has to offer. Once you can execute the step-by-step rotation provided below without spending too much thought on it and are confident with the utility options provided here, head over and check out the advanced page for some extra information. Feel free to swap to the advanced page early if you feel like you are missing some information on additional (less common) utility skills or trait swaps.
 
-<Information>
-
-Although this build lists 162 <Attribute name="Agony Resistance"/>, it is not a strict requirement! We recommend getting started with this build anyway - even if it might be suboptimal while being in Tier 1 or 2 fractals. Keep upgrading your <Attribute name="Agony Resistance"/> until you reach the suggested variant. In the beginning, it is much more important to learn about fractal mechanics and your skills rather than equipping optimal gear.
-
-The same goes for the Jade Bot Core: Tier 10 which Weaver slightly benefits from due to <Trait name="mastersfortitude" />.
-
-</Information>
-
 </Beginner>
-
-<Divider text="Equipment"/>
-<Warning>
-
-These builds assume a Tier 10 Jade Bot Core. The extra Vitality benefits Weaver due to <Trait name="Master's Fortitude"/>. If you do not have the Tier 10 Core, check out the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Warning>
 <Beginner>
+<Divider text="Equipment"/>
 <CharacterWithAr>
-<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18655,"Armor":2192,"Power":3713.2,"Precision":2365,"Toughness":1225,"Vitality":1701,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28850.316117774742,"NonCrit Effective Power":10897.054913167505,"Power DPS":41747.973804619745,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":3.5,"Bleeding DPS":366.40625,"Burning Damage":386.328125,"Burning Stacks":7.152,"Burning DPS":2763.01875,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45017.14880461975,"Effective Health":81376636.81592041,"Survivability":41370.93889980702,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":49432,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Assassin","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":5641,"eliteId":25488},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
+<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":13995,"Armor":1967,"Power":3890.2,"Precision":2122,"Toughness":1000,"Vitality":1235,"Ferocity":1705.3,"Condition Damage":750,"Expertise":0,"Concentration":0,"Healing Power":0,"Agony Resistance":0,"Condition Duration":0,"Boon Duration":0,"Critical Chance":1.0342857142857143,"Critical Damage":2.6368666666666667,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":29950.375695211605,"NonCrit Effective Power":11358.320112966756,"Power DPS":43339.81973916257,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":92.125,"Bleeding Stacks":3.5,"Bleeding DPS":322.4375,"Burning Damage":339.96875,"Burning Stacks":7.152,"Burning DPS":2431.4565000000002,"Confusion Damage":113.50625000000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":107.9375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.5375,"Torment Stacks":0,"Torment DPS":0,"Damage":46233.46373916257,"Effective Health":45652014.92537314,"Survivability":23208.9552238806,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":50082},"skills":{"healId":21656,"utility1Id":5539,"utility2Id":40183,"utility3Id":5734,"eliteId":5516},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2177,2061,2131]],"lines":[31,41,56]}}'>
+
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -64,7 +49,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Beginner>
 <Advanced>
 <CharacterWithAr>
-<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18655,"Armor":2192,"Power":3713.2,"Precision":2365,"Toughness":1225,"Vitality":1701,"Ferocity":1721.3,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.6475333333333335,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28850.316117774742,"NonCrit Effective Power":10897.054913167505,"Power DPS":41747.973804619745,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":104.6875,"Bleeding Stacks":3.5,"Bleeding DPS":366.40625,"Burning Damage":386.328125,"Burning Stacks":7.152,"Burning DPS":2763.01875,"Confusion Damage":128.984375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":45017.14880461975,"Effective Health":81376636.81592041,"Survivability":41370.93889980702,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Assassin","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5734,"utility2Id":40183,"utility3Id":5539,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
+<Character title="Power Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":13995,"Armor":1967,"Power":3890.2,"Precision":2122,"Toughness":1000,"Vitality":1235,"Ferocity":1705.3,"Condition Damage":750,"Expertise":0,"Concentration":0,"Healing Power":0,"Agony Resistance":0,"Condition Duration":0,"Boon Duration":0,"Critical Chance":1.0342857142857143,"Critical Damage":2.6368666666666667,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":29950.375695211605,"NonCrit Effective Power":11358.320112966756,"Power DPS":43339.81973916257,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":92.125,"Bleeding Stacks":3.5,"Bleeding DPS":322.4375,"Burning Damage":339.96875,"Burning Stacks":7.152,"Burning DPS":2431.4565000000002,"Confusion Damage":113.50625000000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":107.9375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.5375,"Torment Stacks":0,"Torment DPS":0,"Damage":46233.46373916257,"Effective Health":45652014.92537314,"Survivability":23208.9552238806,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":50082},"skills":{"healId":21656,"utility1Id":5539,"utility2Id":40183,"utility3Id":5734,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2177,2061,2131]],"lines":[31,41,56]}}'>
+
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -82,6 +68,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - Dagger with <Item name="Night" type="Sigil"/>
 - Dagger with <Item name="Serpent Slaying" type="Sigil"/>
 - Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
+- A focus to precast <Skill name="Flame Wall"/> on some encounters
 - A staff to precast <Skill name="Meteor Shower"/> on some encounters
 
 </Card>
@@ -95,23 +82,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 |                                                          |                                                                                                                                                                                                                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                |
-| <Trait name="superiorelements" size="big" disableText /> | If you can guarantee permanent <Condition name="Weakness" /> uptime on the target, you can trade in the <Attribute name="Vitality" /> from <Trait name="mastersfortitude" /> for extra crit chance. Make sure to adjust your gear accordingly. |
+| <Trait name="mastersfortitude" size="big" disableText /> | If there are no other <Condition name="Weakness" /> source in your party  besides yourself. Make sure to adjust your gear accordingly. In most cases, if you have a Soulbeast in your group, <Condition name="Weakness" /> should be covered with their <Skill name="Winter's Bite"/>. Furthermore, you may ask the Soulbeast to bring <Trait name="Wilting Strike"/> for additional <Condition name="Weakness" /> uptime.|
 
 </Card>
 </Advanced>
-<Card title="Defiance Bar Damage">
 
-|                                                       |                                               |
-| ----------------------------------------------------- | --------------------------------------------- |
-| <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
-| <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
-| <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
-| <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
-| <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
-| <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
-| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
-
-</Card>
 </GridItem>
 
 <GridItem sm="5">
@@ -124,8 +99,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Arcane Brilliance" size="big" disableText/>          | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                    |
 | <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
-| Offensive                                                         |                                                                                                                                                                                                                                                                                                                                            |
-| <Skill name="Conjure Fiery Greatsword" size="big" disableText/>   | This can be precasted before the fight to use in your opener or infight to increase burst damage. It can also be played if you cannot benefit from <Skill name="Weave Self"/>.                                                                                                                                                             |
+| Offensive                                                         |                                                                                                                                                                                                                                                                  | <Skill name="conjurefierygreatsword" size="big" disableText/>                | Use this skill instead if you are unfamilar with the <Skill name="Weaveself"/> rotation. |                                                                          |
 | <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
 | <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
 | <Skill name="Conjure Lightning Hammer" size="big" disableText/>   | Good on larger hitboxes and fast phase times instead of <Skill name="Primordial Stance"/>. **Precast that skill everywhere where it is possible for DPS increase.**                                                                                                                                                                        |
@@ -157,6 +131,19 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Card>
 </Beginner>
+<Card title="Defiance Bar Damage">
+
+|                                                       |                                               |
+| ----------------------------------------------------- | --------------------------------------------- |
+| <Skill name="Updraft" size="big" disableText/>        | 332 with <Control name="Launch"/>             |
+| <Skill name="Wind Blast" size="big" disableText/>     | 232 with <Control name="Launch"/>             |
+| <Skill name="Polaric Leap" size="big" disableText/>   | 100 with <Control name="Daze"/>               |
+| <Skill name="Earthquake" size="big" disableText/>     | 200 with <Control name="Knockdown"/>          |
+| <Skill name="Gale Strike" size="big" disableText/>    | 125 with <Control name="Float"/>              |
+| <Skill name="Twin Strike" size="big" disableText/>    | 33 / s (99) with <Condition name="Chilled"/>  |
+| <Skill name="Earthen Vortex" size="big" disableText/> | 15 / s (45) with <Condition name="Crippled"/> |
+
+</Card>
 </GridItem>
 </Grid>
 
@@ -169,15 +156,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason, you can find a video with openers, that are efficient to use here.
-</Card>
-
-<Card title="Weaver openers">
-
-<Video caption="by KalzeN [dT], edited by Vince [dT]" youtube="AUDqBOCrZUE"/>
-</Card>
-<Card title="Golem Rotation">
-
-<Video youtube="jewFOSlHUOM" caption="by Shavy [dT]"/>
 </Card>
 </GridItem>
 
@@ -214,9 +192,7 @@ When there are a lot of adds around and you have time to hit both burst skills w
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
 
-If a _Mistlock Singularity_ is present you should precast boons and particular effects for better group performance.
-
-There are two possible ways to precast boons as <Specialization name="elementalist"/>.
+If you do not have dedicated <Boon name="Might"/> provider in your party, you should prestack <Boon name="Might"/> as much as possible. Preferably with 100% boon duration, since you do not any self generated <Boon name="Might"/> like other classes do.
 
 ### **Weaver Precast**
 
@@ -232,14 +208,150 @@ It is recommended to use separate precast templates to easily make use of differ
 
 - If you have spare time before the encounter becomes active
   - Start in <Skill name="Air Attunement" disableText/> <Skill name="Fire Attunement" disableText/>
-  - Precast <Skill name="Meteor Shower"/> on staff, swap back to sword/dagger and attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting. This can't be done using weapon swap as it interrupts casts, it is recommended to use build template for that purpose.
-- When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
+  - Precast <Skill name="Meteor Shower"/> on staff, attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting, then swap back to sword/dagger after the cast. 
+  - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
+  - Choosing between <Skill id="5516"/> and <Skill name="Weave Self"/> as elite skill depends on phase time, and if you are able to utilize the second <Skill id="5516"/>, and other factors such as CC skills. 
 
+</Card>
+</GridItem>
+<GridItem xs="12" sm="12">
+<Card title="Rotation (Weave Self)">
+
+
+
+<Grid>
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Weave Self"/>
+2.  <Skill name="Lightning Storm"/>
+3.  <Skill name="Quantum Strike"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Pyro Vortex"/>
+
+</GridItem>
+
+<GridItem sm="2">
+
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Cauterizing Strike"/>
+2.  <Skill name="Fire Grab"/>
+3.  <Skill name="Ring of Fire"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Lava Skin"/>
+2.  <Skill name="Earthen Vortex"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Earthquake"/>
+2.  <Skill name="Flame Uprising"/>
+3.  <Skill name="Churning Earth"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Charged Strike"/>
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+2.  <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill name="Call Lightning" profession="elementalist"/>
+3.  <Skill name="Quantum Strike"/>
+
+
+</GridItem>
+
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Ride the Lightning"/>
+3.  <Skill name="Pyro Vortex"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Cauterizing Strike"/>
+2.  <Skill name="Ring of Fire"/>
+3.  <Skill name="Fire Strike"/> => <Skill name="Fire Swipe"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Water Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Searing Slash"/>
+2.  <Skill name="Fire Grab"/>
+3.  <Skill name="Twin Strike"/>
+
+</GridItem>
+<GridItem sm="2">
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
+</GridItem>
+
+<GridItem sm="10">
+
+1.  <Skill name="Shearing Edge"/>
+
+</GridItem>
+</Grid>
 </Card>
 </GridItem>
 
 <GridItem xs="12" sm="12">
-<Card title="Rotation (Not using Weave Self)">
+<Card title="Rotation (Bolt to the Heart)">
 
 The general idea is to loop between <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> using your strongest skills like <Skill name="Invoke Lightning"/> in Fire with <Trait name="Elements of Rage"/> up.
 
@@ -278,10 +390,9 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 <GridItem sm="10">
 
 1.  <Skill name="Invoke Lightning"/> <Label>Only if pre-casted LH</Label>
-2.  <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> <Label>Only if pre-casted LH</Label>
-3.  <Skill name="Cauterizing Strike"/>
-4.  <Skill name="Fire Grab"/>
-5.  <Skill name="Flame Uprising"/>
+2.  <Skill name="Cauterizing Strike"/>
+3.  <Skill name="Fire Grab"/>
+4.  <Skill name="Flame Uprising"/>
 
 </GridItem>
 
@@ -349,9 +460,7 @@ The general idea is to loop between <Skill name="Air Attunement" disableText/>/<
 </GridItem>
 </Grid>
 
-If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> => <Skill name="Lightning Swing"/> => <Skill name="Static Swing"/> => <Skill name="Thunderclap"/> instead.
-
-With <Trait name="Fresh Air"/>, you do one <Skill name="Twin Strike"/> in <Skill name="Water Attunement" disableText/> before going directly into <Skill name="Air Attunement" disableText/>/<Skill name="Air Attunement" disableText/> after using your Fire skills.
+If you pre-casted a <Skill name="Conjure Lightning Hammer"/>, skip your 1st auto-attack chain in <Skill name="Fire Attunement" disableText/>/<Skill name="Air Attunement" disableText/> and use <Skill name="Invoke Lightning"/> instead.
 
 </Card>
 </GridItem>
@@ -404,15 +513,6 @@ Lastly, we will try to improve our burst damage significantly by using <Skill na
 - If a Mistlock Singularity is present, you can cast <Skill name="conjurefierygreatsword" /> there to have another one during the fight. Otherwise, you can cast it before a boss or on the way to the boss as it is also great for mobility. Use <Skill name="firestorm" profession="bundle" />, then drop it and use <Skill name="glyphofstorms" />.
 
 </Card>
-</GridItem>
-<GridItem xs="12" sm="5">
-<Card title="Step-by-Step Video">
-
-This video shows the step-by-step approach to the rotation listed on the left.
-
-<Video youtube="8kc_WPrg24w" caption="by Ascers"/>
-
-</Card>
 <Card title="Improving Further">
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
@@ -426,6 +526,16 @@ The additional steps are:
 - Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" /> or <Skill name="unravel" />.
 
 </Card>
+</GridItem>
+<GridItem xs="12" sm="5">
+<Card title="Step-by-Step Video">
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="8kc_WPrg24w" caption="by Ascers"/>
+
+</Card>
+
 </GridItem>
 </Grid>
 </Beginner>
