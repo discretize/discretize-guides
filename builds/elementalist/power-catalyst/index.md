@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2023-06-02T14:05:42.738Z "
+date: "2023-06-02T18:02:40.318Z "
 title: Power Catalyst
 rating: Good
 role: Power Damage
@@ -57,14 +57,12 @@ Extra weapons that can be used are:
 
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Catalyst" traits3Selected="Vicious Empowerment,Empowering Auras,Empowered Empowerment"/>
 
-<Card title="Situational Traits">
+#### Situational Traits
 
 |                                                           |                                                                                                                                                                                                                                   |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="One with Air" size="big" disableText/>       | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                 |
 | <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%. |
-
-</Card>
 
 
 ### Defiance Bar Damage
