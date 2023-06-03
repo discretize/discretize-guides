@@ -27,7 +27,7 @@ classification:
   - 5
   - 2
   - 3
-date: "2023-06-03T23:20:05.933Z "
+date: "2023-06-03T23:20:10.226Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
