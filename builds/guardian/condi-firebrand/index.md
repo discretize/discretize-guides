@@ -1,17 +1,9 @@
 ---
-title: Condi (Quick) Firebrand
 hidden: false
 archive: false
 hasBeginner: true
-rating: Meta
-role: Condi Damage
-profession: Guardian
 specialization: Firebrand
 skills: []
-conditions:
-  - name: Burning
-  - name: Vulnerability
-    uptime: 12 stacks (using Sword of Justice)
 boons:
   - name: Quickness
     uptime: 100%
@@ -28,17 +20,25 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: '[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
   - 5
   - 2
   - 3
-date: '2023-04-04T08:41:43.056Z'
+date: "2023-06-03T23:20:10.226Z "
+title: Condi (Quick) Firebrand
+rating: Meta
+role: Condi Damage
+profession: Guardian
+conditions:
+  - name: Burning
+  - name: Vulnerability
+    uptime: 12 stacks (using Sword of Justice)
+cmGuide: ""
 ---
-
+ 
 <Beginner>
 
 The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Further, this build brings <Boon name="Stability"/> for the team. Don't be fooled though; the DPS sacrifice is neglectable so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties' needs ideally.
@@ -154,12 +154,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear
 <GridItem sm="7">
   
 <Advanced>
-<Card title="Quickbrand Traits">
+### Quickbrand Traits
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Quickfire" unembossed/>
-</Card>
+
 </Advanced>
 
 <Beginner>
+### Traits
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,glacialheart,permeatingwrath" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Quickfire"/>
 </Beginner>
 
@@ -174,7 +175,7 @@ This trait setup provides roughly 50% <Boon name="Quickness"/> uptime and is bes
 <Advanced>
 <Divider text="Build Variants"/>
 
-<Card title="DPS variant">
+### DPS Variant
 
 You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS by making minor adjustments to the build.
 
@@ -182,21 +183,19 @@ You can play <Specialization text="Condi Firebrand" name="Firebrand"/> as a DPS 
 
 <Traits traits1="Firebrand" traits1Selected="Unrelenting Criticism,Legendary Lore,Quickfire" unembossed/>
 
-</Card>
 
-<Card title="Solo variant">
+### Solo Variant
 
 If your are playing solo you can swap Virtues trait line with Zeal and run <Skill name="swordofjustice"/>. This will help you to maintain <Boon name="Might"/> on yourself and <Condition name="Vulnerability"/> on enemies better.
 
 <Traits traits1Id="42" traits1="Zeal" traits1SelectedIds="1925,1556,635" unembossed/>
 
-</Card>
 </Advanced>
 </GridItem>
 
 <GridItem sm="5">
 <Advanced>
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                         |                                                                                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -214,12 +213,11 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 | <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                                                       |
 | <Skill name="Mantra of lore" size="big" disableText/>   | Cleanses multiple conditions thanks to charges.                                                                          |
 
-</Card>
 </Advanced>
 
-<Card title="Defiance Bar Damage">
+### Defiance Bar Damage
 
-|                                                                                |                                                                                |
+| Skill                                                                        |  Damage                                                                  |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | <Skill id="45402"/>                                                            | 150 damage                                                                     |
 | <Skill name="Hammer of Wisdom"/>                                               | 200 damage                                                                     |
@@ -228,7 +226,6 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 | <Skill name="Chains of light"/>                                                | <Condition name="Immobile"/> 50/s                                              |
 | <Skill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
 
-</Card>
 </GridItem>
 </Grid>
 
@@ -275,7 +272,7 @@ The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are grea
 <GridItem sm="7">
 
 <Advanced>
-<Card title="Rotation">
+### Rotation
 
 <Warning>
 
@@ -305,11 +302,11 @@ Starting on Axe:
 18. <Skill name="Blazing Edge"/> (Axe 3)
 
 When <Skill name="Tome of Justice"/> is off cd you just repeat this rotation.
-</Card>
+
 </Advanced>
 
 <Beginner>
-<Card title="Step-by-Step Rotation">
+### Step-by-Step Rotation
 
 **Step 1: Quickness**
 
@@ -345,21 +342,11 @@ Lastly, add <Skill name="Zealots Flame"/> to your rotation.
 
 Note: Unless you execute the rotation perfectly, this will eventually de-sync. Once this happens, just use both the <Skill name="Zealots Fire"/> you get from <Trait name="Radiant fire"/> and <Skill name="Zealots Flame"/> off-cooldown.
 
-</Card>
-
 </Beginner>
 
 </GridItem>
 
 <GridItem sm="5">
-
-<Card title="Golem rotation">
-
-This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
-
-<Video youtube="2phGf78VtaU" caption="by Support Hero"/>
-</Card>
-
 <Beginner>
 
 <Card title="Improving Further">
@@ -376,7 +363,6 @@ The additional steps are:
 
 </Card>
 </Beginner>
-
 <Advanced>
 <Card title="Precasting">
 
@@ -395,6 +381,11 @@ The most important part is to get the precast of Ashes of the Just right! You ha
 
 </Card>
 </Advanced>
+### Golem Rotation
+
+This video shows the full rotation on the golem. It will slightly vary from the step-by-step version.
+
+<Video youtube="2phGf78VtaU" caption="by Support Hero"/>
 
 </GridItem>
 </Grid>
