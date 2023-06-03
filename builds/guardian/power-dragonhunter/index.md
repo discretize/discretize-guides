@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-05-28T11:53:28.707Z "
+date: "2023-06-03T23:50:09.815Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -21,7 +21,7 @@ conditions:
     uptime: 25 stacks
 cmGuide: static
 ---
-
+ 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />.
 
 It also has a decent toolkit for skips in Tier 4 fractals with multiple leaps and teleports (<Skill name="wingsofresolve" />, <Skill name="leapoffaith" />, <Skill name="judgesintervention" />, <Skill name="mercifulintervention" />).
@@ -83,18 +83,17 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Divider text="Build"/>
 <Grid>
 <GridItem sm="7">
+### Traits
 <Traits traits1Id="16" traits1="Radiance" traits1SelectedIds="574,565,1683" traits2Id="42" traits2="Zeal" traits2SelectedIds="634,653,2017" traits3Id="27" traits3="Dragonhunter" traits3SelectedIds="1898,1835,1955"/>
 
 <Advanced>
-<Card title="Situational Traits">
+### Situational Traits
 
 |                                                      |                                                                                                                                                                                                                                                                                               |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="heavylight" size="big" disableText/> | Can be used when phase times are very short, as the time casting <Skill name="spearofjustice"/> can become too predominant and occasionally prevents you from casting impactful abilities in time. It's particularly good on bosses such as MAMA. It can also be used on Arkk, Artsariiv and Ensolyss. Overall, it makes the rotation easier, however <Trait name="biggamehunter"/> remains a stronger trait on most encounters (Skorvald, Artsariiv, Siax, Ensolyss and even Arkk although the difference is minimal). |
 
-</Card>
-
-<Card title="Virtues">
+### Virtues
 
 <Traits traits1Id="46" traits1="Virtues" traits1SelectedIds="624,603,612" />
 
@@ -102,13 +101,11 @@ If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** t
 
 <Traits unembossed traits1="Virtues" traits1Selected="Unscathed Contender,Inspiring Virtue,Permeating Wrath"/>
 
-</Card>
-
 </Advanced>
   
-<Card title="CC skills">
+### CC Skills
 
-|                                                 |            |
+| Skill                                           | Damage     |
 | ----------------------------------------------- | ---------- |
 | <Skill id="29630"/>                             | 150 damage |
 | <Skill id="9093"/>                              | 300 damage |
@@ -119,11 +116,10 @@ If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** t
 | <Skill name="hammerofwisdom"/>                  | 200 damage |
 | <Skill name="sanctuary"/>                       | 750 damage |
 
-</Card>
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
 <Beginner>
 
@@ -159,7 +155,6 @@ You should drop <Skill name="Swordofjustice"/> first.
 
 </Advanced>
 
-</Card>
 </GridItem>
 </Grid>
 
@@ -185,33 +180,33 @@ It may require some attention to maintain permanent <Boon name="Resolution" /> s
 </Advanced>
 
 <Divider text="Rotation / Skill Usage"/>
+<Information>
 
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
+For that reason, you will find some general notes for skill usage here.
+</Information>
 <Grid>
 
 <GridItem xs="12" sm="7">
 
 <Advanced>
+### Standard Opener
 
-<Card title="Information">
+**Rotation:**
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt their rotation to the amount of time a group needs to finish a phase.\
-For that reason, you will find some general notes for skill usage here.
-</Card>
+1.  <Skill name="Sword of Justice" profession="guardian"/>
+2.  <Skill name="Procession of Blades " profession="guardian"/>
+3.  <Skill name="spearofjustice" profession="guardian"/>
+4.  <Skill name="Symbol of Energy" profession="guardian"/>
+5.  <Skill name="Hunter's Ward" profession="guardian"/>
+6.  <Skill name="True Shot" profession="guardian"/>
+7.  **Weapon Swap**
+8.  <Skill name="Symbol of Resolution" profession="guardian"/>
+9.  <Skill name="Whirling Wrath" profession="guardian"/>
+10. <Skill name="leapoffaith" />
+11. <Skill name="bindingblade" />
 
-<Card title="Precasting">
-
-If you have a Mistlock Singularity present you can use these skills for precasts:
-
-1.  Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
-2.  Use <Skill name="Save yourselves"/> and <Skill name="hallowedground"/> (<Skill name="hallowedground"/> is a must)
-3.  Blast a fire field with <Skill name="Holy Strike"/>
-4.  Use <Skill name="Feelmywrath"/>
-5.  Take the Mistlock Singularity
-6.  Blast a fire field with <Skill name="Holy Strike"/> again
-
-- Add <Skill name="shieldofcourage" /> if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
-
-</Card>
+Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
 
 <Card title="Notes on skill usage:">
 
@@ -226,7 +221,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Beginner>
 
-<Card title="Step-by-Step Rotation">
+### Step-by-Step Rotation
 **Step 1: Sword of Justice + Trap**
 
 Start with <Skill name="swordofjustice"/> and <Skill name="processionofblades" />.
@@ -289,8 +284,6 @@ The opener should now look like this:
 9. <Skill name="leapoffaith" />
 10. <Skill name="bindingblade" />
 
-</Card>
-
 </Beginner>
 
 </GridItem>
@@ -298,37 +291,28 @@ The opener should now look like this:
 <GridItem xs="12" sm="5">
 
 <Advanced>
-<Card title="Standard Opener">
+### Precasting
 
-**Rotation:**
+If you have a Mistlock Singularity present you can use these skills for precasts:
 
-1.  <Skill name="Sword of Justice" profession="guardian"/>
-2.  <Skill name="Procession of Blades " profession="guardian"/>
-3.  <Skill name="spearofjustice" profession="guardian"/>
-4.  <Skill name="Symbol of Energy" profession="guardian"/>
-5.  <Skill name="Hunter's Ward" profession="guardian"/>
-6.  <Skill name="True Shot" profession="guardian"/>
-7.  **Weapon Swap**
-8.  <Skill name="Symbol of Resolution" profession="guardian"/>
-9.  <Skill name="Whirling Wrath" profession="guardian"/>
-10. <Skill name="leapoffaith" />
-11. <Skill name="bindingblade" />
+1.  Cast <Skill name="litany of wrath"/> for <Boon name="Resolution"/>
+2.  Use <Skill name="Save yourselves"/> and <Skill name="hallowedground"/> (<Skill name="hallowedground"/> is a must)
+3.  Blast a fire field with <Skill name="Holy Strike"/>
+4.  Use <Skill name="Feelmywrath"/>
+5.  Take the Mistlock Singularity
+6.  Blast a fire field with <Skill name="Holy Strike"/> again
 
-Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
-
-</Card>
+- Add <Skill name="shieldofcourage" /> if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
 
 </Advanced>
 
 <Beginner>
 
-<Card title="Step-by-Step Video">
+### Step=by-Step Video
 
 This video shows the step-by-step approach to the rotation.
 
 <Video youtube="pJHII9e_qIY" caption="by Shavy"/>
-
-</Card>
 
 <Card title="Improving Further">
 
@@ -344,12 +328,12 @@ For now, try to:
 
 </Beginner>
 
-<Card title="Golem Rotation">
+### Golem Rotation
 
 This video shows the full rotation on the golem. It will vary from the step-by-step version as it is optimized for sustained DPS and not Fractals.
 
 <Video youtube="" caption=""/>
-</Card>
+
 </GridItem>
 
 </Grid>
@@ -366,13 +350,20 @@ It is very much recommended to play <BuildLink build="Condi Firebrand" specializ
   3.  <Skill name="brilliance"/> (Spear 3)
 
 <Advanced>
-<Divider text="Further precasts"/>
+<Divider text="Advanced Tips"/>
 
 <Warning> 
 The following tips are heavily tailored to static groups looking to push their damage, and are not recommended for pug scenarios. 
 </Warning>
 
-<Card title="Trap Precasting">
+- Try to use <Skill name="bindingblade"/> inside the boss' hitbox when multiple adds are nearby, as it will proc for every for surrounding you within a 600 range.
+- <Skill name="litanyofwrath"/> can be used to cancel aftercasts as it has priority over other abilities. It is useful to cancel <Skill name="bindingblade"/>'s aftercast on Artsariiv P1.
+- <Skill name="dragonsmaw"/> cast on the edge of the boss will also periodically apply 150 Defiance-bar damage from pulling thanks to the field left in its wake. This can be used on multiple encounters.
+- Sheathing: multiple abilities can be sheathed/stowed for significant damage increases: <Skill name="symbolofresolution"/>, <Skill name="bindingblade"/> and <Skill name="zealotsdefense"/>. Casting <Skill name="vengefulstrike"/> and following with a different ability than <Skill name="wrathfulstrike"/> needs to be avoided as <Skill name="vengefulstrike"/> in itself has a huge aftercast, which cannot be interrupted by stowing.
+- Traps can be precasted on the edge of MAMA and Ensolyss' locations, and will proc when they both use their signature ability: the bubble. This is because both of them reposition slightly while casting it. Said location for traps to proc is quite forgiving on MAMA, but rather difficult to find on Ensolyss and takes some getting used to: both are pretty consistent.
+- Additionally, traps can be cast on the edge of Arkk's hitbox during downtime, namely <Skill name="processionofblades"/>, to be later proced after pushing the orbs. Traps have a tendency to proc when any moving and damaging field collides with the enemy's hitbox, such as Scrapper gyros, Mallyx elite ability and Warrior's Torch#5. To achieve this, picture the diagonals passing through Arkk and the central tiles. Cast <Skill name="processionofblades"/> on one of those diagonals such that the trap overlaps Arkk's hitbox, but doesn't cover it completely. This is useful on Arkk as <Skill name="processionofblades"/> has a rather short cooldown, and the boss has a lot of downtime.
+
+### Trap Precasting
 
 Before precasting boons at the Mistlock Singularity, you can precast traps on the boss or at add spawn locations for additional damage.
 
@@ -380,9 +371,8 @@ Before precasting boons at the Mistlock Singularity, you can precast traps on th
 - If you status reset yourself (i.e. swap to a template with different traits), all of your traps (plus boons/buffs) will disappear.
 - If <Skill name="processionofblades" /> or <Skill name="lightsjudgment" /> are swapped off of your utility bar, they will disappear even without status reset.
 
-</Card>
+### Symbol Precasting
 
-<Card title="Symbol Precasting">
 Right before the boss is triggered, cast multiple symbols by cycling through weapons in your inventory. These will tick on the boss for additional burst damage.
 
 The available symbols for precasting are as follows: <Skill name="symboloffaith" />, <Skill name="symbolofswiftness" />, <Skill name="symbolofpunishment" />, <Skill name="symbolofblades" />, <Skill name="symbolofenergy" />, <Skill name="symbolofresolution" />.
@@ -411,14 +401,4 @@ If you do not wish to use multiple templates just for symbol precasting:
 
 - In the inventory, position the weapons you need in a straight line or in a square shape at the very top of it; find something practical for you, for frequent use. Make sure you have an empty slot for the focus as well, so it always drops down in the right place every time you equip and unequip it. _The use of Ascended weapons is an absolute must_. _Current_ weapon strength does matter when casting abilities. **Do NOT share any ascended weapons between templates**. Make sure to have unique ascended weapons for each template you might need.
 
-</Card>
-
-<Card title="Advanced Tips">
-- Try to use <Skill name="bindingblade"/> inside the boss' hitbox when multiple adds are nearby, as it will proc for every for surrounding you within a 600 range.
-- <Skill name="litanyofwrath"/> can be used to cancel aftercasts as it has priority over other abilities. It is useful to cancel <Skill name="bindingblade"/>'s aftercast on Artsariiv P1.
-- <Skill name="dragonsmaw"/> cast on the edge of the boss will also periodically apply 150 Defiance-bar damage from pulling thanks to the field left in its wake. This can be used on multiple encounters.
-- Sheathing: multiple abilities can be sheathed/stowed for significant damage increases: <Skill name="symbolofresolution"/>, <Skill name="bindingblade"/> and <Skill name="zealotsdefense"/>. Casting <Skill name="vengefulstrike"/> and following with a different ability than <Skill name="wrathfulstrike"/> needs to be avoided as <Skill name="vengefulstrike"/> in itself has a huge aftercast, which cannot be interrupted by stowing.
-- Traps can be precasted on the edge of MAMA and Ensolyss' locations, and will proc when they both use their signature ability: the bubble. This is because both of them reposition slightly while casting it. Said location for traps to proc is quite forgiving on MAMA, but rather difficult to find on Ensolyss and takes some getting used to: both are pretty consistent.
-- Additionally, traps can be cast on the edge of Arkk's hitbox during downtime, namely <Skill name="processionofblades"/>, to be later proced after pushing the orbs. Traps have a tendency to proc when any moving and damaging field collides with the enemy's hitbox, such as Scrapper gyros, Mallyx elite ability and Warrior's Torch#5. To achieve this, picture the diagonals passing through Arkk and the central tiles. Cast <Skill name="processionofblades"/> on one of those diagonals such that the trap overlaps Arkk's hitbox, but doesn't cover it completely. This is useful on Arkk as <Skill name="processionofblades"/> has a rather short cooldown, and the boss has a lot of downtime.
-</Card>
 </Advanced>
