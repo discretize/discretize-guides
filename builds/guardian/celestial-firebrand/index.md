@@ -1,10 +1,6 @@
 ---
-title: Celestial Firebrand
 hidden: false
 archive: false
-rating: Good
-role: Hybrid
-profession: Guardian
 specialization: Firebrand
 boons:
   - name: Quickness
@@ -20,16 +16,20 @@ boons:
     uptime: on demand
     variant: group
 code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: "2023-04-07T14:01:49.393Z "
+date: "2023-06-03T19:08:03.894Z "
+title: Celestial Firebrand
+role: Hybrid
+cmGuide: ""
 Conditions:
   - name: Burning
+rating: Good
+profession: Guardian
 ---
 
 The **<Specialization text="Celestial Firebrand" name="Firebrand"/>** is a build for groups to use instead of a **<Specialization text="Heal Firebrand" name="Firebrand"/>**. It provides more than enough healing for most groups, permanent <Boon name="Quickness"/>, a large chunk (15-18 stacks) of <Boon name="might"/> and on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, whilst dealing a decent amount of damage. It is especially strong in PuGs where often a **<Specialization text="Heal Firebrand" name="Firebrand"/>** is overkill, especially in condi groups, but the convenience of having a more supportive player pumping out important boons such as <Boon name="might"/>, <Boon name="Stability"/>, <Boon name="Aegis"/> and heals is invaluable.
@@ -74,19 +74,22 @@ Check the build section for some common gear variations. You can also use our [g
 </CharacterWithAr>
 
 <Divider text="Build"/>
-
 <Grid>
 <GridItem sm="7">
-<Card title="Build Guide by Ciello">
-
-<Video youtube="uV6eHEQKTms" caption="Although made in a previous patch, this video still contains useful information about utility skill selection and gameplay. However quickness generation, tome usage and traits have changed"/>
-</Card>
+### Traits
 
 <Traits traits1="Radiance" traits1Selected="Right Hand Strength,Radiant Fire,Amplified Wrath" traits2="Honor" traits2Selected="protectorsrestoration,Empowering Might,Writ of Persistence" traits3="Firebrand" traits3Selected="Liberators Vow,Legendary Lore,Quickfire"/>
 
-<Card title="Defiance Bar Damage">
+### Alternative Traits
 
-|                                                                             |                   |
+|                                                      |                                                                                                                              |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="pureofheart" size="big" disableText/>   | Taken if the group is struggling with healing.                                                                               |
+| <Trait name="weighty terms" size="big" disableText/> | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
+
+### Defiance Bar Damage
+
+| Skill                                                                       | Damage            |
 | --------------------------------------------------------------------------- | ----------------- |
 | <Skill name="Sanctuary"/>                                                   | 750 damage        |
 | <Skill id="45402"/>                                                         | 150 damage        |
@@ -94,11 +97,14 @@ Check the build section for some common gear variations. You can also use our [g
 | <Skill name="Hammer of Wisdom"/>                                            | 200 damage        |
 | <Skill name="Chains of light"/>                                             | 250 damage (50/s) |
 
-</Card>
+### Build Guide by Ciello
+
+<Video youtube="uV6eHEQKTms" caption="Although made in a previous patch, this video still contains useful information about utility skill selection and gameplay. However quickness generation, tome usage and traits have changed"/>
+
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                       |                                                                                                                                                                                  |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,16 +120,6 @@ Check the build section for some common gear variations. You can also use our [g
 | <Skill id="9247" size="big" disableText/>             | A 1200 range teleport to an enemy.                                                                                                                                               |
 | <Skill id="9246" size="big" disableText/>             | A 1,200 range teleport to an ally.                                                                                                                                               |
 
-</Card>
-
-<Card title="Alternative traits">
-
-|                                                      |                                                                                                                              |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="pureofheart" size="big" disableText/>   | Taken if the group is struggling with healing.                                                                               |
-| <Trait name="weighty terms" size="big" disableText/> | Taken if you are struggling to upkeep <Boon name="Quickness"/> (particularly useful if you are playing <Skill id="43357"/>). |
-
-</Card>
 </GridItem>
 </Grid>
 <Card title="Common Gear Adjustments">
@@ -257,7 +253,7 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 
 <Grid>
 <GridItem xs="12" sm="6">
-<Card title="Example opener">
+### Example Opener
 
 **Staff/Axe - Torch "Rotation":**
 
@@ -275,7 +271,6 @@ Tomes are very useful when no other skills are ready. <Skill name="Tome of Justi
 11. _Auto Attack Chain_
 12. <Skill name="Symbol of Vengeance " profession="guardian"/> (Axe 2)
 
-</Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
@@ -292,9 +287,9 @@ If you have a _Mistlock Singularity_ present you can use these skills for precas
 7.  Use <Skill name="Feelmywrath"/>
 
 </Card>
-<Card title="Example Rotation by Saturn">
+### Example Rotation by Saturn
 
 <Video youtube="L3mXRO2MgUs" caption="The build used here is a variation of the Celestial Heal 150AR build, and shows the axe rotation for dps."/>
-</Card>
+
 </GridItem>
 </Grid>
