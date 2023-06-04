@@ -16,7 +16,7 @@ Boons:
 hidden: false
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-04-11T18:24:54.000Z "
+date: "2023-06-04T16:16:41.514Z "
 title: Staxe Mirage
 rating: Good
 role: Condi Damage
@@ -27,7 +27,7 @@ conditions:
   - name: Bleeding
 cmGuide: ""
 ---
-
+ 
 <Specialization name="Mirage" text="Staxe Mirage"/> is an incredibly strong build capable of generating large amounts of <Boon name="Alacrity"/> and <Boon name="Might"/>, that is especially strong on 100CM and in lowman scenarios. <br/>It can be played as a solo <Boon name="Alacrity"/> provider or share generation with another build such as <Specialization name="Specter"/> or <Specialization name="Renegade" />. When sharing and doing a damage focused rotation, <Specialization name="Mirage" text="Staxe Mirage"/> can maintain roughly 12 stacks of <Boon name="Might"/> and over 50% of the <Boon name="Alacrity"/> generation. Solo, with an adjusted rotation and some <Attribute name="Boon Duration"/>, it is capable of maintaining 100% <Boon name="Alacrity"/> uptime.
 
 <Divider text="Equipment"/>
@@ -44,37 +44,35 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 <Grid>
 <GridItem sm="7">
+### Traits
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="700,1889,1950" traits2Id="45" traits2="Chaos" traits2SelectedIds="670,669,1687" traits3Id="59" traits3="Mirage" traits3SelectedIds="2082,2098,2070"/>
-<Card title="Situational Traits">
+### Situational Traits
 
 |                                                       |                                                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Riddle of Sand" size="big" disableText/> | Take this Trait instead of <Trait name="Renewing Oasis"/> if you already have permanent <Boon name="Regeneration" />. |
 | <Trait name="chaoticinterruption" size="big" disableText/> | Take this Trait instead of <Trait name="bountifuldisillusionment"/> if you already have permanent <Boon name="Vigor" />, <Boon name="Might" /> and <Boon name="Fury" />. |
 
-</Card>
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                           |                                                                      |
 | --------------------------------------------------------- | -------------------------------------------------------------------- |
 | <Skill name="Arcane Thievery" size="big" disableText/>    | Allows you to remove boons on <Instability name="No Pain, No Gain"/> |
 | <Skill name="Signet of Humility" size="big" disableText/> | If you need additional breakbar damage                               |
 
-</Card>
-<Card title="Defiance Bar Damage">
+### Defiance Bar Damage
 
-|                                                         |                                               |
+| Skills                                                  | Damage                                        |
 | ------------------------------------------------------- | --------------------------------------------- |
-| <Skill name="magicbullet" size="big" disableText/>      | 250 damage (Pistol 5)                         |
-| <Skill name="Diversion" size="big" disableText/>        | 100 damage / Clone (F3)                       |
-| <Skill name="chaosstorm" size="big" disableText/>       | 100 damage (Staff 5)                          |
-| <Skill id="13733" size="big" disableText/>              | 100 damage (<Trait name="methodofmadness" />) |
-| <Skill name="signetofhumility" size="big" disableText/> | 600 damage                                    |
+| <Skill name="magicbullet"/>      | 250 damage (Pistol 5)                         |
+| <Skill name="Diversion"/>        | 100 damage / Clone (F3)                       |
+| <Skill name="chaosstorm"/>       | 100 damage (Staff 5)                          |
+| <Skill id="13733"/>              | 100 damage (<Trait name="methodofmadness" />) |
+| <Skill name="signetofhumility"/> | 600 damage                                    |
 
-</Card>
 </GridItem>
 </Grid>
 
@@ -92,7 +90,7 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 
 <Grid>
 <GridItem sm="6">
-<Card title="Possible Opener">
+### Possible Opener
 1. <Skill name="phantasmalwarlock" />
 5. <Skill name="phaseretreat" />
 6. <Skill name="chaosvortex" />
@@ -113,20 +111,20 @@ This build uses 5 <Item name="Malign +9 Agony Infusion"/> and 13 <Item name="Spi
 20. <Skill name="lingeringthoughts" />
 21. <Skill name="phaseretreat" />
 22. <Skill name="chaosvortex" />
+
 ----
-<InformationBlock title="Tips">
+### Tips
 - You can use <Skill name="chaosarmor" /> and <Skill name="jaunt" /> whenever as long you are in range of the boss.
 - Use <Skill name="mindwrack" /> and <Skill name="distortion" /> to gain instant <Boon name="Might" /> and <Boon name="Regeneration" /> if needed.
-</InformationBlock>
-</Card>
+
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Daily PoV Example">
+### Daily PoV Example
 <Video youtube="VI3ZbbNrwzk" caption="by Feint"/>
-</Card>
-<Card title="Advanced Precast/Opener">
+---
+### Advanced Precast/Opener
 <Video youtube="gyIerponaPU" caption="by Inky"/>
-</Card>
+
 </GridItem>
 </Grid>
