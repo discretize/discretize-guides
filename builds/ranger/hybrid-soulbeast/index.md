@@ -1,31 +1,31 @@
 ---
-title: Hybrid Soulbeast
 hidden: true
 archive: false
-hasBeginner: true
-rating: Meta
-role: Condi Damage
-profession: Ranger
+hasBeginner: false
 specialization: Soulbeast
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
-  - name: Bleeding
-  - name: Poisoned
-  - name: Burning
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: pug
 classification:
   - 5
   - 4
   - 3
   - 2
   - 3
-date: "2023-04-07T14:16:30.100Z "
+date: "2023-06-20T18:17:40.946Z "
+title: Hybrid Soulbeast
+rating: Meta
+role: Condi Damage
+profession: Ranger
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
+  - name: Bleeding
+  - name: Poisoned
+  - name: Burning
+cmGuide: pug
 ---
 <Warning>
-
-This build is strong in full condi groups ([team comps](/guides/effective-comp)), especially on Ensolyss, 100CM and some T4 bosses. In power groups and other bosses this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
+ 
+This build is strong in 100CM. In power groups and other bosses this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
 
 </Warning>
 
@@ -95,7 +95,6 @@ If you need to drop a utiltiy skill <Skill name="Sic Em"/> should be replaced an
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="46432" size="big" disableText/>     |  [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>. |
 | <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much. |
-| <Skill id="44514" size="big" disableText/>     |  [Lynx](https://wiki.guildwars2.com/wiki/Juvenile_Lynx) - Best single target CDPS pet. Taken if you don't need the CC from Warthog |
 
 </GridItem>
 </Grid>
