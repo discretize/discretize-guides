@@ -1,27 +1,27 @@
 ---
-title: Hybrid Soulbeast
-hidden: true
+hidden: false
 archive: false
 hasBeginner: false
-rating: Meta
-role: Hybrid
-profession: Ranger
 specialization: Soulbeast
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
-  - name: Bleeding
-  - name: Poisoned
-  - name: Burning
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: pug
 classification:
   - 5
   - 4
   - 3
   - 2
   - 3
-date: "2023-06-21T06:35:21.913Z "
+date: "2023-06-21T06:44:20.488Z "
+title: Hybrid Soulbeast
+rating: Meta
+role: Hybrid
+profession: Ranger
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
+  - name: Bleeding
+  - name: Poisoned
+  - name: Burning
+cmGuide: pug
 ---
 <Warning>
  
