@@ -10,7 +10,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2023-06-21T06:44:20.488Z "
+date: "2023-06-21T20:56:12.105Z "
 title: Hybrid Soulbeast
 rating: Meta
 role: Hybrid
@@ -21,17 +21,17 @@ conditions:
   - name: Bleeding
   - name: Poisoned
   - name: Burning
-cmGuide: pug
+cmGuide: ""
 ---
 <Warning>
- 
-This build is strong in 100CM. In power groups and other bosses this build will fall massively behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
+
+This build is strong in 100CM. In power groups and other bosses this build will fall behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
 
 </Warning>
 
-Hybrid <Specialization name="Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build should only be used for 100CM. For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+<Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build is intended to be used for 100CM. For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
-This build has a relatively unforgiving rotation and can be awkward to play in pugs due to a lack of CC. However, hybrid soulbeast is one of the highest damage builds on 100CM when played correctly.
+This build has a relatively unforgiving rotation and can be awkward to play in pugs due to a lack of CC. However, <Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is one of the highest damage builds on 100CM when played correctly.
 
 <Divider text="Equipment"/>
 
@@ -40,7 +40,7 @@ This build has a relatively unforgiving rotation and can be awkward to play in p
 
 This build uses the Jade Bot Core: Tier 10 in combination with 9 <Item name="Malign +9 Agony Infusion"/> and 9 <Item name="Spiteful +9 Agony Infusion"/>. However you can also run 15 <Item name="Malign +9 Agony Infusion"/> and 3 <Item name="Spiteful +9 Agony Infusion"/> with <Item id="91876"/>, giving you the same stats.
 
-If you need to drop a utility skill <Skill name="Sic Em"/> should be replaced. You should use [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) as your pet. If you must take more cc, you can use [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog).
+If you need to drop a utility skill <Skill name="Sic Em"/> should be replaced.
 
 If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a slight dps increase over <Item name="toxicfocusingcrystal"/>.
 
@@ -58,7 +58,7 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 
 |                                                         |                                                                                                                                |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is bad and you want some extra boon generation. |
+| <Trait name="Essence of Speed" size="big" disableText/> | Take this instead of <Trait name="Predators Cunning"/> if boon uptime in your party is poor and you want some extra boon generation. |
 
 ### Defiance Bar Damage
 
@@ -79,11 +79,12 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Spike Trap" size="big" disableText/>     | Can be taken for extra CC, while being used in rotation for <Condition name="Bleeding"/> stacks. Take [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) over this first.                                                                               |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Can provide group regeneration for Mirages. Sizable group heal during water phase of Elemental Ai.                                                                                 |
+| <Skill name="Bear stance" size="big" disableText/> | A party-wide condi cleanse through <Trait name="leaderofthepack"/>. Shorter duration than <Skill name="Healing Spring"/>, but will cleanse conditions faster. |
 
 ### Pets
 |                                                       |                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Preferred pet for 100CM. F2 can be precast at mistlock. |
+| <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Preferred pet for 100CM. F2 can be precast at mistlock. It is the best CDPS pet for when there are multiple targets.  |
 | <Skill id="46432" size="big" disableText/>     |  [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC.
 
 </GridItem>
@@ -94,38 +95,53 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 <Grid>
 <GridItem sm="6">
 
-The main idea behind the rotation is to use your high damage skills under the effects of <Skill name="Sic Em"/>. The rest of your utility skills can be used as soon as they are available.
+The main idea behind the rotation is to use your high damage skills under the effects of <Skill name="Sic Em"/>. The rest of your utility skills can be used as soon as they are available. 
+
+On 100CM, make sure to use <Skill name="Rain of Spikes"/> in the center of the arena where possible to get extra procs from the invisible hitbox, or when there are multiple fears around Ai.
+
+Where possible, do not intterupt your auto attack chain. This is because the later attacks in the chain apply stacks of <Condition name="Bleeding"/> and <Condition name="Poisoned"/>. 
+
+<Skill name="Primal Cry"/> can be used when you have no other skills availible, instead of an auto attack chain.
+
+### Elemental Ai Opener
+Use while Ai is still in mid:
+1. <Skill name="Winter's Bite"/>
+2. <Skill name="Splitblade"/>
+3. <Skill name="Rain of Spikes"/>
+4. <Skill name="Primal Cry"/>
+5. <Skill name="Throw Torch"/>
+
+### Dark Ai Opener
+Use while Ai is still in mid:
+1. <Skill name="Splitblade"/>
+2. <Skill name="Throw Torch"/>
 
 ### Rotation
-
-1.  <Skill name="Sharpening Stone"/>
-2.  <Skill name="Sharpen Spines"/> 
-3.  <Skill name="One Wolf Pack"/>
-4.  <Skill name="Bonfire"/>
-5.  <Skill name="Splitblade"/>
-6.  <Skill name="Winter's Bite"/>
-7.  `Weapon Swap`
-8.  <Skill name="Double Arc"/>
-9.  <Skill name="Path of Scars"/>
-10.  <Skill name="Rain of Spikes"/>
-11.  <Skill name="Whirling Defense"/>
-12.  <Skill name="Primal Cry"/>
-13.  <Skill name="Groundwork Gouge"/> 1x auto chain
-14.  <Skill name="Double Arc"/>
-15.  <Skill name="Groundwork Gouge"/> 2.5x auto chain
-16.  <Skill name="Path of Scars"/>
-17.  <Skill name="Groundwork Gouge"/> 1x auto chain
-18.  <Skill name="Double Arc"/>
-19.  `Weapon Swap`
-20.  <Skill name="Splitblade"/>
-21.  <Skill name="Winter's Bite"/>
-22.  <Skill name="Throw Torch"/>
-23.  <Skill name="Ricochet"/> 2x autos
-24.  <Skill name="Rain of Spikes"/>
-25.  <Skill name="Ricochet"/> 2x autos
-26.  <Skill name="Splitblade"/>
-27.  <Skill name="Ricochet"/> 4x autos
-28.  Repeat from `Step 3`, <Skill name="One Wolf Pack"/> will only be up every other loop. Use <Skill name="Sharpening Stone"/> + <Skill name="Sharpen Spines"/> as often as possible.
+1. <Skill name="One Wolf Pack"/>
+2. <Skill name="Sic Em"/> + <Skill name="Vulture Stance"/>
+3. <Skill name="Bonfire"/>
+4. <Skill name="Winter's Bite"/>
+5. <Skill name="Splitblade"/>
+6. `Weapon Swap`
+7. <Skill name="Double Arc"/>
+8. <Skill name="Path of Scars"/>
+9. <Skill name="Sharpening Stone"/> + <Skill name="Sharpen Spines"/>
+10. <Skill name="Rain of Spikes"/>
+11. <Skill name="Whirling Defense"/>
+12. <Skill name="Primal Cry"/>
+13. `Auto Attack`
+14. <Skill name="Double Arc"/>
+15. `Auto Attack`
+16. <Skill name="Path of Scars"/>
+17. `Auto Attack`
+18. <Skill name="Double Arc"/>
+19. `Weapon Swap`
+20. <Skill name="Splitblade"/>
+21. <Skill name="Winter's Bite"/>
+23. <Skill name="Throw Torch"/>
+24. <Skill name="Ricochet"/>
+25. <Skill name="Splitblade"/>
+26. Repeat from step 2 
 
 
 </GridItem>
@@ -151,7 +167,7 @@ This build will not perform well outside of 100CM so this precasting section wil
 
 **<Skill name="Sic 'Em"/> -** Can be cast if the boss is triggered without starting the fight, allowing it to be targeted. The effect is not wiped. This allows you to delay your first **<Skill name="Sic 'Em"/>** to when the boss charges to the first wall. NOTE: this will cause any pets to immediately aggro to the boss. Should only be used if portalling from mistlock to the boss.
 
-The elite stance **<Skill name="One Wolf Pack"/>** will be wiped upon taking the mistlock. Using an elite that summons friendly pets is your best precast in this slot. **<Skill name="Mistfire Wolf"/>**, **<Skill name="Hounds of Balthazar"/>**, and **<Skill name="Summon Sylvan Hound"/>** are options.
+The elite stance **<Skill name="One Wolf Pack"/>** is removed upon entering combat on 100CM. Using an elite that summons friendly pets is your best precast in this slot. **<Skill name="Mistfire Wolf"/>**, **<Skill name="Hounds of Balthazar"/>**, and **<Skill name="Summon Sylvan Hound"/>** are options that can synergize well if you have a <Specialization name="Thief"/> who can precast venoms onto the pets.
 
 </Card>
 
