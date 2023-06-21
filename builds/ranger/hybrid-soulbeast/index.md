@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 archive: false
 hasBeginner: false
 specialization: Soulbeast
@@ -10,10 +10,10 @@ classification:
   - 3
   - 2
   - 3
-date: "2023-06-20T18:17:40.946Z "
+date: "2023-06-21T06:44:20.488Z "
 title: Hybrid Soulbeast
 rating: Meta
-role: Condi Damage
+role: Hybrid
 profession: Ranger
 conditions:
   - name: Vulnerability
@@ -29,15 +29,9 @@ This build is strong in 100CM. In power groups and other bosses this build will 
 
 </Warning>
 
-Condi <Specialization name="Soulbeast"/> is a DPS build with high sustained damage that also provides strong party buffs with <Skill name="Sun Spirit"/>, <Skill name="One Wolf Pack"/>, and crowd control (CC) skills. This build is mostly used for 100CM, for most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+Hybrid <Specialization name="Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build should only be used for 100CM. For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
-This build is rather self sufficient due to:
-
-- Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
-- Good CC with <Skill id="46432"/> and <Skill name="Concussion Shot"/>
-- High mobility via <Skill name="Instinctive Engage"/> and <Skill name="Quick Shot"/>
-
-Overall this is a very well-rounded build that is rewarding to play in both PuGs and organized teams alike.
+This build has a relatively unforgiving rotation and can be awkward to play in pugs due to a lack of CC. However, hybrid soulbeast is one of the highest damage builds on 100CM when played correctly.
 
 <Divider text="Equipment"/>
 
@@ -46,9 +40,9 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 This build uses the Jade Bot Core: Tier 10 in combination with 9 <Item name="Malign +9 Agony Infusion"/> and 9 <Item name="Spiteful +9 Agony Infusion"/>. However you can also run 15 <Item name="Malign +9 Agony Infusion"/> and 3 <Item name="Spiteful +9 Agony Infusion"/> with <Item id="91876"/>, giving you the same stats.
 
-This build is mainly used on 100CM, although can preform well on other fights as well. On 100CM it can preform slightly better than <Specialization name="Soulbeast" text="Condi Soulbeast"/> with a more engaging rotation, however mistakes will tank your damage and can be very punishing, especially in less experienced groups.
+If you need to drop a utility skill <Skill name="Sic Em"/> should be replaced. You should use [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) as your pet. If you must take more cc, you can use [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog).
 
-If you need to drop a utiltiy skill <Skill name="Sic Em"/> should be replaced and you will want to use either [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) or [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) as your pet.
+If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a slight dps increase over <Item name="toxicfocusingcrystal"/>.
 
 </Character>
 </CharacterWithAr>
@@ -68,13 +62,12 @@ If you need to drop a utiltiy skill <Skill name="Sic Em"/> should be replaced an
 
 ### Defiance Bar Damage
 
-| Skill                                                  | Damage                                                                                   |
+| Skill | Damage |
 | ------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <Skill id="46432"/>        | 300 damage (F2 in <Skill id="42944"/>)                                            |
-| <Skill id="12508"/>        | 200 damage (Shortbow 5)                                                           |
-| <Skill name="Spike Trap"/> | 232 damage                                                                        |
-| <Skill id="12507"/>        | 50/s <Condition name="Immobile"/>, 15/s <Condition name="Crippled"/> (Shortbow 4) |
+| <Skill id="12638"/> | 150 damage (Axe 4)                                                           |
 | <Skill id="12490"/>        | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
+| <Skill id="46432"/>        | 300 damage (F2 in <Skill id="42944"/> only if using [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog))    |
+| <Skill name="Spike Trap"/> | 232 damage                                                                        |
 
 
 </GridItem>
@@ -84,17 +77,14 @@ If you need to drop a utiltiy skill <Skill name="Sic Em"/> should be replaced an
 
 |                                                       |                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Moa Stance" size="big" disableText/>     | A replacement for <Skill name="Vipers Nest"/>, this allows boon providers such as <Specialization name="Renegade"/> to lower their boon duration and deal substantially more DPS! |
-| <Skill name="Dolyak Stance" size="big" disableText/>  | Can be used to share <Boon name="Stability"/>.                                                                                                                                    |
-| <Skill name="Spike Trap" size="big" disableText/>     | Can be taken to for extra CC, while being used in rotation for <Condition name="Bleeding"/> stacks.                                                                               |
-| <Skill name="Bear stance" size="big" disableText/>    | A party-wide condi cleanse through <Trait name="leaderofthepack"/>.                                                                                                               |
-| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Very useful on 100CM!                                                                                 |
+| <Skill name="Spike Trap" size="big" disableText/>     | Can be taken for extra CC, while being used in rotation for <Condition name="Bleeding"/> stacks. Take [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) over this first.                                                                               |
+| <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Can provide group regeneration for Mirages. Sizable group heal during water phase of Elemental Ai.                                                                                 |
 
 ### Pets
 |                                                       |                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="46432" size="big" disableText/>     |  [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC, also this is the pet you use in <Skill id="42944"/>. |
-| <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Used to precast some extra Bleeding. Is also the best CDPS pet for when there are multiple targets. Only take Bristleback if you can consistently get 5+ hits from <Skill name="Rain of Spikes"/> without delaying the skill too much. |
+| <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Preferred pet for 100CM. F2 can be precast at mistlock. |
+| <Skill id="46432" size="big" disableText/>     |  [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC.
 
 </GridItem>
 </Grid>
@@ -104,40 +94,38 @@ If you need to drop a utiltiy skill <Skill name="Sic Em"/> should be replaced an
 <Grid>
 <GridItem sm="6">
 
-The rotation in general is very simple, just keep rotating between your Shortbow and Dagger/Dagger set using your utility skills as often as you can. When you get to the point of auto-attacking use your <Skill id="42944"/> skills to fill.
-
-Your rotation will not line up in a perfect loop so each weaponswap your cooldowns will be slightly different. In general aim to use 3x <Skill name="Double Arc"/> per Dagger loop and 3x <Skill name="Poison Volley"/> per Shortbow loop.
+The main idea behind the rotation is to use your high damage skills under the effects of <Skill name="Sic Em"/>. The rest of your utility skills can be used as soon as they are available.
 
 ### Rotation
 
-1.  <Skill name="Vipers Nest"/>
-2.  <Skill name="One Wolf Pack"/>
-3.  <Skill name="Poison Volley"/>
-4.  <Skill name="Crippling Shot"/>
-5.  <Skill name="Concussion Shot"/>
-6.  `Weapon Swap`
-7.  <Skill name="Vulture Stance"/> + <Skill name="Sharpening Stone"/>
+1.  <Skill name="Sharpening Stone"/>
+2.  <Skill name="Sharpen Spines"/> 
+3.  <Skill name="One Wolf Pack"/>
+4.  <Skill name="Bonfire"/>
+5.  <Skill name="Splitblade"/>
+6.  <Skill name="Winter's Bite"/>
+7.  `Weapon Swap`
 8.  <Skill name="Double Arc"/>
-9.  <Skill name="Stalkers Strike"/>
-10. <Skill name="Crippling Talon"/>
-11. <Skill id="44514"/>
-12. <Skill name="Primal Cry"/>
-13. <Skill name="Crippling Talon"/>
-14. <Skill name="Double Arc"/>
-15. <Skill name="Stalkers Strike"/>
-16. <Skill name="Double Arc"/>
-17. <Skill name="Crippling Talon"/>
-18. `Weapon Swap`
-19. <Skill name="Poison Volley"/>
-20. <Skill name="Crippling Shot"/>
-21. <Skill name="Vipers Nest"/>
-22. <Skill id="44514"/>
-23. <Skill name="Poison Volley"/>
-24. <Skill name="Primal Cry"/>
-25. <Skill name="Crippling Shot"/>
-26. <Skill name="Concussion Shot"/>
-27. <Skill name="Poison Volley"/>
-28. Repeat from `Step 6`
+9.  <Skill name="Path of Scars"/>
+10.  <Skill name="Rain of Spikes"/>
+11.  <Skill name="Whirling Defense"/>
+12.  <Skill name="Primal Cry"/>
+13.  <Skill name="Groundwork Gouge"/> 1x auto chain
+14.  <Skill name="Double Arc"/>
+15.  <Skill name="Groundwork Gouge"/> 2.5x auto chain
+16.  <Skill name="Path of Scars"/>
+17.  <Skill name="Groundwork Gouge"/> 1x auto chain
+18.  <Skill name="Double Arc"/>
+19.  `Weapon Swap`
+20.  <Skill name="Splitblade"/>
+21.  <Skill name="Winter's Bite"/>
+22.  <Skill name="Throw Torch"/>
+23.  <Skill name="Ricochet"/> 2x autos
+24.  <Skill name="Rain of Spikes"/>
+25.  <Skill name="Ricochet"/> 2x autos
+26.  <Skill name="Splitblade"/>
+27.  <Skill name="Ricochet"/> 4x autos
+28.  Repeat from `Step 3`, <Skill name="One Wolf Pack"/> will only be up every other loop. Use <Skill name="Sharpening Stone"/> + <Skill name="Sharpen Spines"/> as often as possible.
 
 
 </GridItem>
@@ -149,27 +137,22 @@ Your rotation will not line up in a perfect loop so each weaponswap your cooldow
 
 <Card title="Precasting">
 
-#### **Stances**
-
-As a <Specialization name="Soulbeast" text="Condi Soulbeast"/> we have three important stances to share with <Trait name="Leader of the Pack"/> when precasting.
-
-**<Skill name="Moa Stance"/> -** This will increase your party members' boon duration by 66%, which when added to the conversion from <Item id="74185"/> means your party will have close to 100% boon duration without even swapping gear. This means any boons your party stacks duration will be close to double.
-
-**<Skill name="Vulture Stance"/> -** This will help your party stack some initial condis and some initial <Boon name="Might"/> at the start of the fight and should be the last thing you cast before taking the _Mistlock Singularity_.
-
-#### **Boons**
-
-**<Boon name="Might"/> -** Before starting fights we want to have 25 stacks of <Boon name="Might"/>, the standard way of this in fractals is by blasting a fire field. If no one else in your party will provide one you can use <Skill name="Bonfire"/> on a torch. In the fire field, we want to use blast finishers which each one will give 3 stacks of <Boon name="Might"/> for 20 seconds (not accounting for boon duration). Our main blast is from <Skill name="Call of the Wild"/> which can be used twice and also gives 6 stacks of might for 10 seconds along with the blast (again not accounting for boon duration).
-
-**<Boon name="Fury"/> and <Boon name="Swiftness"/> -** We can provide these boons again by using <Skill name="Call of the Wild"/>. These boons stack up to 30 seconds, so by blasting twice with Warhorn and under the effect of <Skill name="Moa Stance"/>, we can provide the maximum duration for our party.
+This build will not perform well outside of 100CM so this precasting section will be focused on 100CM precasts.
 
 #### **Skills**
 
-**<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. If you use a second time while you still have charges left, the original charges will be overwritten.
+**<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. Lasts 30 seconds. Is not wiped when the fight starts on 100CM. If you use a second time while you still have charges left, the original charges will be overwritten.
 
-**<Skill name="Sharpen Spines"/> -** Can be precasted by merging with Bristleback for extra bleeding at the start of the fight. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
+**<Skill name="Sharpen Spines"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. Lasts 30 seconds. Is not wiped when the fight starts on 100CM. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
 
-**<Skill name="Double Arc"/> -** Can be precasted giving you the effect _Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges.
+**<Skill name="Double Arc"/> -** Can be precasted giving you the effect _Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges. Is not wiped when the fight starts on 100CM.
+
+**<Skill name="Crippling Shot"/> -** Can be precasted giving you the effect _Bloodthirst_ lasting for 12 seconds. When you have this effect and are merged your next 3 attacks will inflict 1 stack of <Condition name="bleeding" text ="Bleed"/>. Is not wiped when the fight starts on 100CM.
+
+**<Skill name="Sic 'Em"/> -** Can be cast if the boss is triggered without starting the fight, allowing it to be targeted. The effect is not wiped. This allows you to delay your first **<Skill name="Sic 'Em"/>** to when the boss charges to the first wall. NOTE: this will cause any pets to immediately aggro to the boss. Should only be used if portalling from mistlock to the boss.
+
+The elite stance **<Skill name="One Wolf Pack"/>** will be wiped upon taking the mistlock. Using an elite that summons friendly pets is your best precast in this slot. **<Skill name="Mistfire Wolf"/>**, **<Skill name="Hounds of Balthazar"/>**, and **<Skill name="Summon Sylvan Hound"/>** are options.
+
 </Card>
 
 </GridItem>
