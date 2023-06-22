@@ -5,12 +5,12 @@ hasBeginner: false
 specialization: Soulbeast
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
 classification:
-  - 5
   - 4
-  - 3
+  - 4
   - 2
   - 3
-date: "2023-06-21T20:56:12.105Z "
+  - 4
+date: "2023-06-22T23:36:16.697Z "
 title: Hybrid Soulbeast
 rating: Meta
 role: Hybrid
