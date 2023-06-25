@@ -3,10 +3,10 @@ cycle: Night
 potions:
   - id: 8883
     description: for the Svanir & end boss
-date: "2022-07-01T17:34:15.200Z"
+date: '2022-07-01T17:34:15.200Z'
 title: Snowblind
 description: We'll take everything from you. Even your lives.
-long_description: ""
+long_description: ''
 image: images/header_old.jpg
 group: T4
 api: 2952
@@ -73,6 +73,17 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 <GridItem sm="4">
 ![Starting area](images/the_start_area.jpg)
 </GridItem>
+
+<GridItem sm="4">
+<GifPlayer sourceId="snowblind-light-fire" caption="Light the fire with Special Action Key" />
+</GridItem>
+<GridItem sm="4">
+<GifPlayer sourceId="snowblind-kill-elementals" caption="Kill incoming Ice Elementals" />
+</GridItem>
+<GridItem sm="4">
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+</GridItem>
+
 </Grid>
 
 ---
