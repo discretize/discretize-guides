@@ -1,13 +1,15 @@
 ---
-cycle: Day
 potions:
   - id: 50082
-date: "2022-07-01T17:21:58.200Z"
+hasCM: false
+cycle: Day
+layout: src/layouts/Fractal.astro
+date: "2023-06-29T19:19:29.631Z "
 title: Aquatic Ruins
-description: The krait took our people into the water. You have to stop them!
-long_description: "The Aquatic Ruins Fractal takes you on a journey through the long-forgotten ruins of an ancient civilization. Swimming through the submerged corridors, watch out for deadly sea creatures, treacherous currents, and the legendary Jellyfish Beast. Don your underwater gear and prepare to explore and uncover the secrets hidden within the depths."
 image: images/header_old.jpg
+group: t4
 api: 2956
+bosses: 1
 difficulties:
   - level: 76
     ar: 107
@@ -34,8 +36,12 @@ record:
     - id: 1oOtwtS9ipY
       name: Maarten
       specialization: Chronomancer
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: The Aquatic Ruins Fractal takes you on a journey through the
+  long-forgotten ruins of an ancient civilization. Swimming through the
+  submerged corridors, watch out for deadly sea creatures, treacherous currents,
+  and the legendary Jellyfish Beast. Don your underwater gear and prepare to
+  explore and uncover the secrets hidden within the depths.
+description: The krait took our people into the water. You have to stop them!
 ---
 
 <Grid>
@@ -116,6 +122,9 @@ As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText
 ## Dark Path <Label>Changes daily</Label>
 
 If you get this path, swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="Invulnerability"/> for the last group of Krait. If someone reaches the krait champion, use `/gg` to immediately resurrect there.
+
+<GifPlayer sourceId="aquatic-ruins-dark-path" />
+
 </GridItem>
 
 <GridItem>
