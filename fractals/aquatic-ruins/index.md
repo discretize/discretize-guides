@@ -4,18 +4,11 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-06-30T17:02:49.182Z "
+date: "2023-06-30T17:11:46.451Z "
 title: Aquatic Ruins
-image: images/header_old.jpg
-group: t4
-api: 2956
-bosses: 1
 difficulties:
   - level: 76
     ar: 107
-sigils:
-  - id: 24658
-  - id: 24615
 consumables:
   - 78978
 record:
@@ -41,25 +34,25 @@ long_description: The Aquatic Ruins Fractal takes you on a journey through the
   submerged corridors, watch out for deadly sea creatures, treacherous currents,
   and the legendary Jellyfish Beast. Don your underwater gear and prepare to
   explore and uncover the secrets hidden within the depths.
+image: images/header_old.jpg
+api: 2956
+bosses: 1
 description: The krait took our people into the water. You have to stop them!
+group: t4
+sigils:
+  - id: 24658
+  - id: 24615
 ---
 
 <Grid>
 
 <GridItem sm="7">
-
+ 
 <Warning >
-This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance.
+This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance. Make sure you have a rune equipped on your <Item name="zojjasclothbreather" text="Aquabreather"/> and sigils on your weapons (these should be the same as on land). This will make the fractal significantly easier to complete, even if you dont have the right weapon or breather stats.
+
+When adjusting your build for underwater, coordinate with your team and make sure you can cover <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. There can also be large amounts of incoming damage on this fractal so we reccomend making sure you have <Boon name="Protection"/>, <Boon name="Stability"/>, and plenty of condition cleanse!
 </Warning>
-
-It is highly recommended to bring one of the following builds due them performing well in underwater combat:
-
-- <BuildLink specialization="Firebrand" build="Condi Firebrand"/>: high dps and easy access to <Boon name="Stability"/> and <Boon name="Quickness"/>
-- <BuildLink specialization="Holosmith" build="Power Holosmith"/>: very high underwater dps
-- <BuildLink specialization="Soulbeast" build="Power Soulbeast"/>: very high underwater dps and decent offensive capabilities
-- <BuildLink specialization="Reaper" build="Power Reaper"/> or <BuildLink specialization="Scourge" build="Condi Scourge"/>: very high cleave
-- <Specialization name="Tempest" text="Power Tempest" />: decent damage and cleave
-- <BuildLink specialization="Virtuoso" build="Power Virtuoso"/>: very high single target dps, pulls.
 
 </GridItem>
 
