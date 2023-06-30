@@ -9,10 +9,10 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-06-30T12:07:15.000Z "
+date: "2023-06-30T14:22:40.735Z "
 title: Condi Holosmith
 rating: Good
-role: Condition Damage
+role: Condi Damage
 profession: Engineer
 conditions:
   - name: Vulnerability
