@@ -1,29 +1,30 @@
 ---
+title: Power Reaper
 hidden: false
 archive: false
+hasBeginner: false
+rating: Good
+role: Power Damage
 author: ""
+profession: Necromancer
 specialization: Reaper
+conditions:
+  - name: Vulnerability
+    uptime: 22 stacks
 code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 3
   - 3
   - 4
   - 2
   - 3
-date: "2023-06-30T14:37:09.573Z "
-title: Power Reaper
-role: Power Damage
-profession: Necromancer
-conditions:
-  - name: Vulnerability
-    uptime: 22 stacks
-cmGuide: ""
+date: "2023-06-30T15:30:03.833Z "
 benchmark:
   small:
     dps: 34302
     by: Westet
     youtube: I1Tjyfk-DKI
-rating: Good
 ---
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/>, <Boon name="Might"/>, <Boon name="Stability"/> and damage mitigation, it is good in parties where your teammates do not perform very well.
 
@@ -36,7 +37,7 @@ options (<Control name="Pull" />, boon corruptions for <Instability name="No Pai
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
-<Divider text="Equipment" />  
+<Divider text="Equipment" />   
 
 <CharacterWithAr>
 <Character title="Eagle Runes" gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":23812,"Armor":2192,"Power":3694,"Precision":2153,"Toughness":1225,"Vitality":1460,"Ferocity":1255,"Condition Damage":500,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":0.999047619047619,"Critical Damage":2.336666666666667,"Power Coefficient":1493,"Power2 Coefficient":2322,"Burning Coefficient":0,"Bleeding Coefficient":0.72,"Poison Coefficient":2.18,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Alternative Power":3694,"Alternative Critical Chance":0.999047619047619,"Alternative Critical Damage":2.536666666666667,"Effective Power":24664.232906896337,"NonCrit Effective Power":10561.060187225627,"Power DPS":14179.322190988152,"Alternative Effective Power":30789.089588020157,"Power2 DPS":27528.78938135649,"Siphon DPS":153.72500000000002,"Bleeding Damage":81.25,"Bleeding Stacks":0.72,"Bleeding DPS":58.5,"Burning Damage":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":102.03125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":99.21875,"Poison Stacks":2.18,"Poison DPS":216.29687500000003,"Torment Damage":120,"Torment Stacks":0,"Torment DPS":0,"Damage":42136.63344734464,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":24723,"helmRune":"Eagle","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24723,"shouldersRune":"Eagle","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24723,"coatRune":"Eagle","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24723,"glovesRune":"Eagle","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24723,"leggingsRune":"Eagle","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24723,"bootsRune":"Eagle","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":10547,"utility1Id":10546,"utility2Id":10607,"utility3Id":29414,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
@@ -56,15 +57,13 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 </Character>
 </CharacterWithAr>
 
-<Divider text="Build" /> 
+<Divider text="Build" />  
 
 <Grid>
 <GridItem sm="7">
 ### Traits
 
 <Traits traits1Id="53" traits1="Spite" traits1SelectedIds="914,829,853" traits2Id="50" traits2="Soul Reaping" traits2SelectedIds="898,894,893" traits3Id="34" traits3="Reaper" traits3SelectedIds="2020,1969,2021"/>
-
-- If necessary (usually only in underperforming groups), you can swap out Soul Reaping for Blood Magic (if you need more team revival power via <Trait name="Ritual of Life" /> and <Trait name="Transfusion" />, and if needed more CC via the warhorn skill <Trait name="Banshees Wail" />).
 
 ### Situational Weapons
 
@@ -107,6 +106,7 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 | <Skill name="Nothing Can Save You" size="big" disableText/>   | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too.                     |
 | <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals).                                                                                                |
 | <Skill name="Chilled to the Bone!" size="big" disableText/>   | Depending on the amount of foes hit, this elite skill can grant yourself up to 12 stacks of <Boon name="Stability"/> and <Boon name="Might"/>, as well as a long lasting <Boon name="Quickness"/> and <Boon name="Fury"/> duration.                  |
+| <Skill name="Your Soul is mine!" size="big" disableText/>   | Best heal skill option outside of single target encounters.                  |
 
 </GridItem>
 </Grid>
@@ -116,7 +116,7 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 
 The given rotation below is meant for a golem-like scenario and has to be adapted based on phase-lengths/mechanics/the following aspects: 
 - Below 50% boss HP: <Skill name="Gravedigger" /> (Greatsword 2) replaces  <Skill name="Death Spiral" /> (Greatsword 3) and Greatsword auto-attacks. 
- Cancel the aftercasts with any other skill or weaponswap (shroud works as well) or simply by pressing auto-attack in between two casts.
+ Cancel the aftercasts with any other skill or weaponswap (shroud works as well) or simply by pressing auto-attack in between two casts. Also skip one Auto-attack chain at the end of your Greastsword shroud loop.
 - Below 25% boss HP: use <Skill name="Executioner's Scythe" /> (Shroud 5).
 - All shouts require to stand in melee range (240 range) to get their full value.
 - <Skill name="Deaths Charge" /> (Shroud 2) only deals slightly more damage compared to shroud auto-attacks.
@@ -125,16 +125,16 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 ### Preacasting
 
-- Staff marks if possible
+- Staff marks if possible (check the notes section).
 - If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far away from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
-- Precast <Skill name="Rise" /> (Utility) and swap back to <Skill name="You are all Weaklings!" />.
+- Optional: Precast <Skill name="Rise" /> (Utility) and swap back to <Skill name="You are all Weaklings!" />.
 - Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
 
 #### Staff Marks
 
 - On Skorvald/Arkk/Siax phase 1 the direct hit damage does not connect, but you will still apply conditions and combo- fields/finishers, as well as getting life force from <Trait name="Soul Marks"/>, which can especially be useful during the orb phases of Ensolyss.
 - For Arstariiv phase 1 they can be precasted into her jumping path.
-- At MAMA you place them onto the spawn area of the first Knight, utilizing a pre-portal.
+- At MAMA you place them onto the spawn area of the first knight.
 - To be able to precast them into Ensolyss phase 1, they need to be slighty below the initial hitbox.
 
 ### Rotation
@@ -143,12 +143,12 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 **Opener:**
 
-1. <Skill name="Well of Darkness" /> (Utility)
-2. <Skill name="Well of Suffering" /> (Utility)
-3. <Skill name="Nightfall" /> (Greatsword 4)
-4. <Skill name="Grasping Darkness" /> (Greatsword 5)
-5. **Weapon Swap**
-6. <Skill name="Reaper's Mark" /> (Staff 5)
+1. <Skill name="Grasping Darkness" /> (Greatsword 5)
+2. <Skill name="Nightfall" /> (Greatsword 4)
+3. **Weapon Swap**
+4. <Skill name="Reaper's Mark" /> (Staff 5)
+5. <Skill name="Well of Darkness" /> (Utility)
+6. <Skill name="Well of Suffering" /> (Utility)
 7. <Skill name="You are all Weaklings!" /> (Utility)
 8. <Skill name="Chillblains" /> (Staff 3)
 9. <Skill name="Reapers Shroud" /> (F1)
@@ -162,9 +162,8 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 17. <Skill name="Exit Reapers Shroud" /> (F1)
 18.  <Skill name="Mark of Blood" /> (Staff 2)
 19. <Skill name="Chillblains" /> (Staff 3)
-20. <Skill name="Putrid Mark" /> (Staff 4)
-21. <Skill name="Reaper's Mark" /> (Staff 5)
-22. **Weapon Swap**
+20. <Skill name="Reaper's Mark" /> (Staff 5)
+21. **Weapon Swap**
 
 </GridItem>
 <GridItem sm="5">
@@ -172,30 +171,28 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 **Loop**
 
 1. <Skill name="Gravedigger" /> (Greatsword 2)
-2. <Skill name="You are all Weaklings!" /> (Utility)
-3. <Skill name="Death Spiral" /> (Greatsword 3)
+2. <Skill name="Death Spiral" /> (Greatsword 3)
+3. <Skill name="You are all Weaklings!" /> (Utility)
 4. **Auto-attack chain**
-5. <Skill name="Grasping Darkness" /> (Greatsword 5)
-6. <Skill name="Nightfall" /> (Greatsword 4)
-7. <Skill name="Well of Darkness" /> (Utility)
-8. <Skill name="Well of Suffering" /> (Utility)
-9. <Skill name="Reapers Shroud" /> (F1)
-10. <Skill name="Deaths Charge" /> (Shroud 2)
-11. <Skill name="Soul Spiral" /> (Shroud 4)
-12. **Auto-attack chain**
-13. <Skill name="Deaths Charge" /> (Shroud 2)
-14.  **Auto-attack chain** 2x
-15.  <Skill name="Deaths Charge" /> (Shroud 2)
-16.  **Auto-attack chain** 2x
-17. <Skill name="Exit Reapers Shroud" /> (F1)
-18. <Skill name="Gravedigger" /> (Greatsword 2)
-19. <Skill name="Death Spiral" /> (Greatsword 3)
-20. <Skill name="You are all Weaklings!" /> (Utility)
-21. **Auto-attack chain**
-22. <Skill name="Gravedigger" /> (Greatsword 2)
-23.  <Skill name="Nightfall" /> (Greatsword 4)
-24. <Skill name="Grasping Darkness" /> (Greatsword 5)
-25. **Weapon Swap**
+5. <Skill name="Gravedigger" /> (Greatsword 2)
+6. <Skill name="Grasping Darkness" /> (Greatsword 5)
+7. <Skill name="Nightfall" /> (Greatsword 4)
+8. <Skill name="Well of Darkness" /> (Utility)
+9. <Skill name="Well of Suffering" /> (Utility)
+10. <Skill name="Reapers Shroud" /> (F1)
+11. <Skill name="Deaths Charge" /> (Shroud 2)
+12. <Skill name="Soul Spiral" /> (Shroud 4)
+13. **Auto-attack chain**
+14. <Skill name="Deaths Charge" /> (Shroud 2)
+15.  **Auto-attack chain** 2x
+16.  <Skill name="Deaths Charge" /> (Shroud 2)
+17.  **Auto-attack chain** 2x
+18. <Skill name="Exit Reapers Shroud" /> (F1)
+19. <Skill name="Gravedigger" /> (Greatsword 2)
+20. <Skill name="Death Spiral" /> (Greatsword 3)
+21. <Skill name="You are all Weaklings!" /> (Utility)
+22. **Auto-attack chain**
+23. <Skill name="Gravedigger" /> (Greatsword 2)
 
 </GridItem>
 </Grid>
