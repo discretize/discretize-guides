@@ -9,7 +9,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-06-30T09:17:31.143Z "
+date: "2023-06-30T10:14:00.107Z "
 title: Condi Holosmith
 rating: Good
 role: Condition Damage
@@ -82,99 +82,111 @@ In fractals, the build plays with <Trait name="Photonic Blasting Module"/> exclu
 </GridItem>
 </Grid>
 
-<Grid>
-
-<GridItem sm="7">
-<Card title="Situational Traits">
-
-|                                                                 |                                                                                                                    |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <Trait name="Photonic Blasting Module" size="big" disableText/> | When running the Rifle or Sword PBM build.                                                                         |
-| <Trait name="Sanguine Array" size="big" disableText/>           | If you are already crit capped without <Trait name="High Caliber"/> and struggle with <Boon name="Might"/> uptime. |
-
-<Traits traits1Id="21" traits1="Tools" traits1SelectedIds="532,512,1856" unembossed/>
-
-If your <Boon name="Quickness"/> uptime is low, you can swap out the Firearms trait line with Tools and replace <Skill id="5805"/> with <Skill id="43739"/>.
-
-<Traits traits1="Scrapper" traits1Selected="Gyroscopic Acceleration" unembossed />
-
-For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect name="Stealth"/> and <Effect name="Superspeed"/>. <Effect name="Stealth"/> can be provided through <Skill name="Sneak Gyro"/>. <Effect name="Superspeed"/> is provided through Gyros with a delay due to <Trait name="Gyroscopic Acceleration"/>. <Skill name="Medic Gyro"/> also provides some instant <Effect name="Superspeed"/> on top. <Skill name="Bulwark Gyro"/> and <Skill name="Purge Gyro"/> can be used without drawing aggro from enemies. <Skill name="Bypass Coating"/> can provide some instant <Effect name="Superspeed"/> as well.
-</Card>
-</GridItem>
-
-<GridItem sm="5">
 <Card title="Situational Skills">
 
 |                                                     |                                                                                                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="5857" size="big" disableText/>           | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                      |
 | <Skill id="43739" size="big" disableText/>          | A (group) block that also reflects projectiles if heat is above 50.                                                                                                                                     |
-| <Skill name="Bomb Kit" size="big" disableText/>     | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
-| <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.                                                               |
 
 </Card>
-
-</GridItem>
-</Grid>
 
 <Divider text="Rotation/Skill Usage"/>
 
 <Grid>
 <GridItem sm="6">
-<Card title="Rotation">
+<Card title="Example Rotation">
 
-1.  **Preheat to 90**
-2.  <Skill name="Laser Disk" profession="Engineer"/>
-3.  <Skill name="engage Photon Forge" profession="Engineer"/>
-4.  <Skill name="Prime light beam" profession="Engineer"/> (To help with CCing)
-5.  <Skill name="Grenade Barrage" profession="Engineer"/>
-6.  <Skill name="Corona Burst" profession="Engineer"/>
-7.  <Skill name="Photon Blitz" profession="Engineer"/>
-8.  2x <Skill name="Light Strike" profession="Engineer"/> -> <Skill name="Bright Slash" profession="Engineer"/> -> <Skill name="Flash Cutter" profession="Engineer"/>
-9.  <Skill name="Corona Burst" profession="Engineer"/>
-10. <Skill name="Deactivate Photon Forge" profession="Engineer"/>
-11. <Skill name="Refraction Cutter" profession="Engineer"/>
-12. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-13. <Skill name="Poison Grenade" profession="Engineer"/>
-14. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
-15. <Skill name="Refraction Cutter" profession="Engineer"/>
-16. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-17. 2x <Skill name="Sun Edge" profession="Engineer"/> -> <Skill name="Sun Ripper" profession="Engineer"/> -> <Skill name="Gleam Saber" profession="Engineer"/>
-18. <Skill name="Refraction Cutter" profession="Engineer"/>
-19. <Skill name="Shrapnel Grenade" profession="Engineer"/>
-20. <Skill name="Freeze Grenade" profession="Engineer"/>
-21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90)
-22. Repeat from step 6
-
+1.  **Preheat to 80**
+2.  <Skill name="Incendiary Ammo" />
+3.  <Skill name="Big Ol' Bomb" />
+4.  <Skill name="Fire Bomb" />
+5.  <Skill name="Shrapnel Grenade" />
+6.  <Skill name="engage Photon Forge"/>
+7.  <Skill name="Corona Burst" />
+8.  <Skill name="Photon Blitz" />
+7.  <Skill name="Prime Light Beam"/>
+8.  <Skill name="Poison Dart Volley" />
+9.  <Skill name="Blowtorch" />
+10.  <Skill name="Static Shot" />
+11.  <Skill name="Shrapnel Grenade" />
+12.  <Skill name="Napalm" />
+13.  <Skill name="Flame Blast" />
+14.  <Skill name="Fire Bomb" />
+15.  <Skill name="Concussion Bomb" />
+16.  <Skill name="Grenade Barrage" />
+17.  <Skill name="Fragmentation Shot" />
+18.  <Skill name="Poison Grenade" />
+19.  <Skill name="Shrapnel Grenade" />
+20.  <Skill name="Poison Dart Volley" />
+21.  <Skill name="Fragmentation Shot" />
+22.  <Skill name="Flame Blast" />
+23.  <Skill name="Fragmentation Shot" /> 3 times
+24.  <Skill name="Blowtorch" />
+25.  <Skill name="Static Shot" />
+26.  <Skill name="Shrapnel Grenade" />
+27.  <Skill name="Fire Bomb" />
+28.  <Skill name="Fragmentation Shot" /> 2 times
+29.  <Skill name="Flame Blast" />
+30.  <Skill name="Poison Dart Volley" />
+31.  <Skill name="Incendiary Ammo" />
+32.  <Skill name="Fragmentation Shot" />
+33.  <Skill name="Engage Photon Forge" />
+34.  <Skill name="Corona Burst" />
+35.  <Skill name="Photon Blitz" />
+36.  <Skill name="Big Ol' Bomb" />
+37.  <Skill name="Fragmentation Shot" />
+38.  <Skill name="Light Strike Storm" /> → <Skill name="Bright Slash Storm" /> → <Skill name="Flash Cutter Storm" /> (2 times)
+39.  <Skill name="Corona Burst" />
+40.  <Skill name="Deactivate Photon Forge" />
+41.  <Skill name="Blowtorch" />
+42.  <Skill name="Poison Dart Volley" />
+43.  <Skill name="Static Shot" />
+44.  <Skill name="Shrapnel Grenade" />
+45.  <Skill name="Fire Bomb" />
+46.  <Skill name="Concussion Bomb"/>
+47.  <Skill name="Napalm" />
+48.  <Skill name="Flame Blast" />
+49.  <Skill name="Engage Photon Forge" />
+50.  <Skill name="Grenade Barrage" />
+51.  <Skill name="Corona Burst" />
+52.  <Skill name="Photon Blitz" />
+53.  Any phase should be over by this point; the rest of the rotation is in the linked video on the side. On bosses with one continuous phase, you'll most likely have improvised by that point, and the use of CC abilities will have made you do a different rotation anyway; this is just an example rotation. Follow the priority list on the side. 
 </Card>
-<Card title="Notes">
 
-- Use <Skill id="6178"/> off cooldown.
-- Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
-- <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
-- When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
-- When running off-hand Pistol, <Skill id="5830"/> can help in controlling the movement of enemies without break bar.
-- Try to manage your Heat in split phases. Ideally, you always want to be back at 90 Heat when starting to burst into a new phase.
-- <Skill name="Poison Grenade" profession="Engineer"/> will not always be up at the same step as its cooldown is higher than the duration of your loop. The general idea of using 2 extra damaging skills while cooling down still applies.
-
-</Card>
 
 </GridItem>
 <GridItem sm="6">
 
+<Card title="Golem Rotation">
+
+<Video caption="Golem Rotation" youtube="ZwuX_8pkwNo"/>
+</Card>
+
 <Card title="Rotation Explanation">
 
-- The idea of the opening is to stack as many damage modifiers as possible with your biggest skills. By entering Forge at the start, you will trigger <Trait name="Solar Focusing Lens"/>. Due to being in Forge, you will also gain the extra damage from <Trait name="Lasers Edge"/>. <Skill name="Grenade Barrage"/> will help with stacking <Trait name="Explosive Temper"/>.
-- You want to always use your big damaging skills like <Skill name="Laser Disk"/> and <Skill name="Prime Light Beam"/> in Forge when possible. Only use them outside of Forge if the boss will die/phase before you can go back into Forge to use them there.
-- In Forge, your high damage weapon skills are <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/>, as well as auto-attack chains. Try to not interrupt your Forge auto-attack chain. Your goal is to <Skill name="Deactivate Photon forge"/> at exactly 149 Heat. This can be achieved by using auto-attack chains until around 140 Heat (as seen in step 8), then using <Skill name="Corona Burst"/> and <Skill name="Deactivate Photon forge"/>. <Skill name="Corona Burst"/> will keep building up some Heat, however you cannot <Skill id="44386"/> if you already left Forge directly after its cast.
-- Out of Forge, your basic rotation can be seen in steps 15-17. The main goal is to use <Skill name="Refraction Cutter"/> above 100 Heat 3 times. If you are slow, you might want to skip some extra skills like <Skill name="Poison Grenade"/> and <Skill name="Freeze Grenade"/> and prioritize <Skill name="Engage Photon Forge"/> at 90 Heat.
+The rotation is like a priority list, with your most important skills being:
+- <Skill name="Napalm"/>
+- <Skill name="Blowtorch"/>
+- <Skill name="Corona Burst"/>
+- <Skill name="Poison Grenade"/>
+- <Skill name="Fire Bomb"/>
+- <Skill name="Prime Light Beam"/>
+- <Skill name="Poison Dart Volley"/>
+- <Skill name="Photon Blitz"/>
+- <Skill name="Shrapnel Grenade"/>
+- <Skill name="Flame Blast"/>
+
+Abilities listed above are all very high-damage skills. Taking cast times and cooldowns in consideration, the priority list is thus:  <Skill name="Poison Dart Volley"/>, <Skill name="Blowtorch"/>, <Skill name="Shrapnel Grenade"/>, <Skill name="Poison Grenade"/>, <Skill name="Fire Bomb"/>, <Skill name="Napalm"/> and <Skill name="Flame Blast"/>. Those skills are all very important when in a state of <Skill id="45219"/>, while <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/> are the major abilities to be used in <Skill name="Engage Photon Forge"/>.
+
+**Always preheat to 80 Heat before engaging combat.**
 
 </Card>
 
+
 <Card title="Pre-Casting">
 
-- Make sure that you will start the fight on your desired Heat (usually 90).
-- You want to make sure to always at least pre-cast <Skill name="Laser Disk"/> before taking the singularity.
+- Make sure that you will start the fight on your desired Heat (usually 80).
 - You can either swap utility skills manually or via a template. Make sure to have the same traits in both templates selected if you choose the template route.
 - If this is taken care of, you can do the following extra pre-casts:
   1. Equip <Skill name="Thumper Turret"/>, <Skill name="Bomb Kit"/> and <Skill name="Flamethrower"/>.
@@ -182,11 +194,17 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
   3. Use <Skill name="Fire Bomb"/> or <Skill name="Napalm"/> to provide a fire field.
   4. Use <Skill name="Rumble"/>, <Skill name="Flame Blast"/> and <Skill name="Magnetic Inversion"/> to blast.
   5. Use <Skill name="Incendiary Ammo"/>.
-  6. Swap to your regular utilities and use <Skill name="Laser Disk"/>.
+  6. Swap to your regular utilities.
   7. Take the singularity.
-- If you want to go the extra mile, you can keep the Flamethrower equipped and use <Skill name="Incendiary Ammo"/> again and place <Skill name="Napalm"/> on the boss spawn location before swapping it out.
+
 - <Skill name="Holographic Shockwave"/> provides yet another blast finisher if it works with your Heat management.
 
+</Card>
+
+<Card title="Notes">
+- Use <Skill name="Incendiary Ammo"/> off cooldown.
+- <Skill id="5808"/>, <Skill name="Static Shot"/> and <Skill name="Smoke Bomb"/> can be used to mitigate damage in add-heavy fights.
+- Try to manage your Heat in split phases. Ideally, you always want to be back at 80 Heat when starting to burst into a new phase.
 </Card>
 
 </GridItem>
