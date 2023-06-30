@@ -1,9 +1,9 @@
 ---
+hasCM: false
 cycle: Day
-date: "2022-07-01T17:26:44.300Z"
+layout: src/layouts/Fractal.astro
+date: "2023-06-30T17:32:50.711Z "
 title: Thaumanova Reactor
-description: I'd like to know more about that special consultant, but this situation is deteriorating even faster than I expected.
-long_description: ""
 image: images/header_old.jpg
 group: T4
 api: 2967
@@ -38,8 +38,9 @@ record:
     - id: nt9Wi6TJrwA
       name: Jetrell
       specialization: Soulbeast
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+description: I'd like to know more about that special consultant, but this
+  situation is deteriorating even faster than I expected.
 ---
 
 <Grid>
@@ -76,6 +77,8 @@ Activate the _Detonator_ and wait for the <Specialization name="Renegade"/>, <Sp
 
 ---
 
+## Clearing the rooms
+
 <Grid>
 <GridItem xs="12" sm="12">
 
@@ -86,7 +89,7 @@ For a faster completion time you can split up. <Specialization name="Berserker"/
 
 <GridItem sm="6">
 
-## 1. Room: Repulsor lab <Label>South</Label>
+### Repulsor lab room - South
 
 This should be done by two people, **but can be soloed (usually by <Specialization name="Guardian"/>) as shown in the video below**. Learn the timing of the turret shots and jump or dodge over them. You can also take a _Safety Shield_ from the beginning and use it to block shots for a short duration.
 
@@ -106,13 +109,15 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 
 <Grid>
 <GridItem sm="8">
-## 2. Room: Researcher Dormitories <Label>East</Label>
+### Researcher Dormitories - East
 
 2 people (usually <Specialization name="Renegade"/> and <Specialization name="Soulbeast"/>) should do this area immediately after the Elite Flame Legion Fire Shaman. Remember to destroy the Unstable Portals as well. Finishing this event in time will grant you a 10% damage boost for the endboss.
 </GridItem>
 
 <GridItem sm="4">
 ![The Reasearcher Dormitories](images/researcher_dormitories.jpg)
+
+<GifPlayer sourceId="thaumanova-reactor-kill-door" caption="Destroy the doors and portals"/>
 </GridItem>
 </Grid>
 
@@ -121,7 +126,7 @@ Activating <Label>2</Label> enables short access to the two final consoles at <L
 <Grid>
 <GridItem sm="8">
 
-## 3. Room: Superheated Room <Label>West</Label>
+### Superheated Room - West
 
 This is usually soloed by the <Specialization name="Weaver"/> but other classes can do it as well, like in the **video shown below**.
 
@@ -162,7 +167,7 @@ This is usually soloed by the <Specialization name="Weaver"/> but other classes 
 <Grid>
 <GridItem>
 
-## 4. Room: Subject 6 <Label>Northwest</Label>
+## Subject 6 - Northwest
 
 Gather at Subject 6 after finishing the other three colliders. During the fight, small and large (at 75%/50/25% health) Oozes will spawn and move toward it slowly, restoring its health when they reach it. Subject 6 also has a easily distinguishable _Shield Form_, hitting him then will give him stacks of _Overload_. Reaching 20 stacks results in a party wipe.
 
@@ -186,6 +191,8 @@ Equip <Skill id="14404"/> to make your CC skills unblockable.
 
 <GridItem>
 ![Subject 6 in block mode](images/subject_6_block.jpg)
+
+<GifPlayer sourceId="thaumanova-reactor-subject-six" caption="Do not attack Subject 6 while it is blocking"/>
 </GridItem>
 </Grid>
 
