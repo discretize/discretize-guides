@@ -1,54 +1,40 @@
 ---
-title: Condi Holosmith
-hidden: True
+hidden: true
 archive: false
-rating: Good
-role: Condition Damage
-profession: Engineer
 specialization: Holosmith
-conditions:
-  - name: Vulnerability
-    uptime: 20 Stacks
 code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: 2023-04-04T17:40:50.083Z
+date: "2023-06-30T09:17:31.143Z "
+title: Condi Holosmith
+rating: Good
+role: Condition Damage
+profession: Engineer
+conditions:
+  - name: Vulnerability
+    uptime: 20 Stacks
+cmGuide: ""
 ---
 
-The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
+The <Specialization text="Condi Holosmith" name="Holosmith"/> is a bursty and high-damage condi build that performs very well in condition comps, and especially well in the Sunqua Peak fractal.  and a bit of <Boon name="Might"/> .
+
 It offers:
 
 - High burst and good sustained damage
-- Good crowd control
-- Good utility through <Condition name="Vulnerability"/> and access to some <Condition name="Blinded"/>, <Condition name="Crippled"/> and <Condition name="Immobile"/>
-- The ability to boonstrip with <Skill name="Detonate Mine Field"/> when running <Skill name="Throw Mine"/>
-- An incredible skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
-- Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
+- Very good crowd control
+- Good utility through <Condition name="Vulnerability"/> and access to some <Condition name="Blinded"/>, <Condition name="Crippled"/>, <Condition name="Chilled"/> and <Condition name="Immobile"/>
+- Some <Boon name="Might"/> to the party through <Skill name="Corona Burst"/>
 
-The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
-
-The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
-
-There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM, and Rifle PBM. They are named after:
-
-- The weapon they are holding, Sword+Shield vs Rifle.
-- The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
-
-This guide will focus mainly on the Sword ECSU variant since it is the most flexible of the 3.
+In fractals, the build plays with <Trait name="Photonic Blasting Module"/> exclusively. The <Trait name="Thermal Release Valve"/> variant is a bit too complex, and is really only good on very long and uninterrupted encounters such as Dark Ai.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Power Holosmith" gear='{"attributes":{"profession":"Engineer","specialization":"Holosmith","data":{"Health":20522,"Armor":2343,"Power":3630,"Precision":1961,"Toughness":1225,"Vitality":1460,"Ferocity":1606,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0576190476190477,"Critical Damage":2.570666666666667,"Power Coefficient":3260,"Power2 Coefficient":0,"Burning Coefficient":2.51,"Bleeding Coefficient":13.24,"Poison Coefficient":2.62,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":32151.980456336667,"NonCrit Effective Power":12507.25380822225,"Power DPS":40360.206502756075,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":17.6092,"Bleeding DPS":1695.986075,"Burning Damage":355.421875,"Burning Stacks":2.51,"Burning DPS":892.1089062499999,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":2.62,"Poison DPS":295.650625,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":43383.70210900607,"Effective Health":95687653.7313433,"Survivability":48646.49401695135,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":6161,"utility3Id":42842,"eliteId":42009},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[2106,2152,2137]],"lines":[38,6,57]}}'>
-
-You will only need some Assassin pieces if you want to swap to <Trait name="Sanguine Array"/> for better self-generated <Boon name="Might"/>.
-
-You can use Off-Hand Pistol if there is absolutely no need for the CC from Shield.
+<Character title="Condi Holosmith" gear='{"attributes":{"profession":"Engineer","specialization":"Holosmith","data":{"Health":20522,"Armor":2343,"Power":2923,"Precision":1633,"Toughness":1225,"Vitality":1460,"Ferocity":100,"Condition Damage":2525,"Expertise":853,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.6686666666666666,"Boon Duration":0.15,"Critical Chance":0.7514285714285713,"Critical Damage":1.5666666666666667,"Power Coefficient":2604,"Power2 Coefficient":0,"Burning Coefficient":15.15,"Bleeding Coefficient":13.83617142857143,"Poison Coefficient":7.97,"Torment Coefficient":0,"Confusion Coefficient":4.31,"Flat DPS":0,"Bleeding Duration":0.33,"Burning Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":7969.881274670758,"NonCrit Effective Power":5589.72369140625,"Power DPS":7991.363434440759,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":286.27500000000003,"Bleeding Stacks":27.65389462857143,"Bleeding DPS":7916.618684794286,"Burning Damage":861.91875,"Burning Stacks":30.279799999999998,"Burning DPS":26098.72736625,"Confusion Damage":303.37065,"Confusion Stacks":7.191953333333333,"Confusion DPS":2181.827557503,"Poison Damage":305.25,"Poison Stacks":13.299273333333334,"Poison DPS":4059.603185,"Torment Damage":427.43250000000006,"Torment Stacks":0,"Torment DPS":0,"Damage":48387.89022798805,"Effective Health":95687653.7313433,"Survivability":48646.49401695135,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Viper","helmRuneId":83502,"helmRune":"Renegade","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":83502,"shouldersRune":"Renegade","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":83502,"coatRune":"Renegade","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":83502,"glovesRune":"Renegade","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":83502,"leggingsRune":"Renegade","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":83502,"bootsRune":"Renegade","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":44950,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1MainInfusion2Id":37130,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":44944,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":77567},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":5812,"utility3Id":5927,"eliteId":42009},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1878,2006,433],[1882,482,505],[2106,2103,2064]],"lines":[38,6,57]}}'>
 
 </Character>
 </CharacterWithAr>  
@@ -61,31 +47,37 @@ You can use Off-Hand Pistol if there is absolutely no need for the CC from Shiel
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,1923,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1947" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2137"/>
+<Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1878,2006,433" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,482,505" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2103,2064"/>
 
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Additional Skills">
+
+<Card title="Hard CC skills">
+
+|                              |            |
+| ---------------------------- | ---------- |
+| <Skill id="5813"/>           | 232 damage |
+| <Skill id="42009"/>          | 232 damage |
+| <Skill id="21661"/>          | 200 damage |
+| <Skill id="5930"/>           | 150 damage |
+|Optional: <Skill id="42521"/> | 232 damage |
+
+</Card>
+
+<Card title="Additional Soft CC Skills">
 
 |                                           |                                                                                                                                                                                                               |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
-| <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
+| Pistols                                   | <Skill id="5829" size="big" disableText/><Skill id="5830" size="big" disableText/> 
+| <Skill id="6020" size="big" disableText/> | <Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/> 
+| <Skill id="5812" size="big" disableText/> | <Skill id="5824" size="big" disableText/><Skill id="5939" size="big" disableText/> 
+| <Skill id="5927" size="big" disableText/> | <Skill id="6159" size="big" disableText/> 
+
 
 </Card>
 
-<Card title="CC skills">
 
-|                                    |            |
-| ---------------------------------- | ---------- |
-| <Skill id="21661"/>                | 200 damage |
-| <Skill name="Magnetic Inversion"/> | 150 damage |
-| <Skill id="6057"/>                 | 100 damage |
-| <Skill id="42009"/>                | 232 damage |
-| <Skill id="42521"/>                | 232 damage |
-
-</Card>
 
 </GridItem>
 </Grid>
