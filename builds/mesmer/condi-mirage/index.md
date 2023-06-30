@@ -1,5 +1,5 @@
 ---
-archive: false
+archive: true
 classification:
   - 5
   - 4
@@ -16,7 +16,7 @@ Boons:
 hidden: false
 specialization: Mirage
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-06-04T16:16:41.514Z "
+date: "2023-06-30T12:51:27.632Z "
 title: Staxe Mirage
 rating: Good
 role: Condi Damage
