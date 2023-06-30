@@ -1,14 +1,14 @@
 ---
-cycle: Night
 potions:
   - id: 8890
     description: for all the Grawl enemies
   - id: 8886
     description: for the Imbued Shaman endboss
-date: "2022-01-30T18:10:52.328Z"
+hasCM: false
+cycle: Night
+layout: src/layouts/Fractal.astro
+date: "2023-06-30T17:37:54.138Z "
 title: Volcanic
-description: You can't break this magic. Our god will crush you all.
-long_description: ""
 image: images/header_old.jpg
 group: T4
 api: 2989
@@ -46,8 +46,8 @@ record:
     - id: cSn-lnvcAgA
       name: Hyp
       specialization: Daredevil
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+description: You can't break this magic. Our god will crush you all.
 ---
 
 ## Start: Grawl slaughter! <Item id="8890" disableText/><Item id="24648" disableText/>
@@ -99,6 +99,8 @@ You will need to throw eight _Infused Stones_ at the bubble protecting the Grawl
 
 After the bubble is broken, stand below the boss to LoS him and he will come down immediately. Throw another _Infused Stone_ at him if his bubble reappears during the fight.
 
+The boss uses an attack that causes <Control name="Knockback"/> if a team member is staying too close. Therefore, please stay on max-melee range at all times.
+
 </GridItem>
 <GridItem xs="12" sm="5">
 <Tabs>
@@ -106,6 +108,7 @@ After the bubble is broken, stand below the boss to LoS him and he will come dow
 Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to keep the _Veteran Grawl Shamans_ in your <Skill id="5548"/>, <Skill id="43762"/> and <Skill id="41125"/>. If everyone LoS'ed the boss correctly, he will be close enough to <Skill id="5697"/> against the altar he stood on.
 </Tab>
 </Tabs>
+<GifPlayer sourceId="volcanic-throw-stone" />
 </GridItem>
 </Grid>
 
