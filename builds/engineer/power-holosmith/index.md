@@ -9,7 +9,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-06-02T22:37:54.737Z "
+date: "2023-06-30T12:08:30.695Z "
 title: Power Holosmith
 rating: Good
 role: Power Damage
@@ -83,7 +83,7 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 
 |                                           |                                                                                                                                                                                                               |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
+| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="42163" size="big" disableText/><Skill id="42938" size="big" disableText/>                                         |
 | <Skill id="6020" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/> |
 
 ### Situational Skills
