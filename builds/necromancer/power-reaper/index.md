@@ -2,6 +2,7 @@
 title: Power Reaper
 hidden: false
 archive: false
+hasBeginner: false
 rating: Good
 role: Power Damage
 author: ""
@@ -18,7 +19,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-06-30T15:17:51.390Z "
+date: "2023-06-30T15:20:16.426Z "
 benchmark:
   small:
     dps: 34302
