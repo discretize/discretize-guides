@@ -10,10 +10,10 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-06-22T23:36:16.697Z "
+date: "2023-06-30T14:22:06.667Z "
 title: Hybrid Soulbeast
 rating: Meta
-role: Hybrid
+role: Condi Damage
 profession: Ranger
 conditions:
   - name: Vulnerability
@@ -67,7 +67,6 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 | <Skill id="12638"/> | 150 damage (Axe 4)                                                           |
 | <Skill id="12490"/>        | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3)       |
 | <Skill id="46432"/>        | 300 damage (F2 in <Skill id="42944"/> only if using [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog))    |
-| <Skill name="Spike Trap"/> | 232 damage                                                                        |
 
 
 </GridItem>
@@ -77,7 +76,6 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 
 |                                                       |                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Spike Trap" size="big" disableText/>     | Can be taken for extra CC, while being used in rotation for <Condition name="Bleeding"/> stacks. Take [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) over this first.                                                                               |
 | <Skill name="Healing Spring" size="big" disableText/> | Area condi cleanse, taken if your party needs a long lasting condi cleanse. Can provide group regeneration for Mirages. Sizable group heal during water phase of Elemental Ai.                                                                                 |
 | <Skill name="Bear stance" size="big" disableText/> | A party-wide condi cleanse through <Trait name="leaderofthepack"/>. Shorter duration than <Skill name="Healing Spring"/>, but will cleanse conditions faster. |
 
@@ -103,7 +101,7 @@ Where possible, do not intterupt your auto attack chain. This is because the lat
 
 <Skill name="Primal Cry"/> can be used when you have no other skills availible, instead of an auto attack chain.
 
-### Elemental Ai Opener
+### Elemental Ai Opener 
 Use while Ai is still in mid:
 1. <Skill name="Winter's Bite"/>
 2. <Skill name="Splitblade"/>
