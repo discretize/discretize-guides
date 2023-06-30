@@ -4,7 +4,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-06-29T19:19:29.631Z "
+date: "2023-06-30T16:56:00.479Z "
 title: Aquatic Ruins
 image: images/header_old.jpg
 group: t4
@@ -123,16 +123,18 @@ As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText
 
 If you get this path, swim together and take the _Luminous Plants_ on the way to protect you and nearby players from dying. If you are able to survive it, take the shortcut to the left after entering the larger cave. Use dodges or <Effect name="Invulnerability"/> for the last group of Krait. If someone reaches the krait champion, use `/gg` to immediately resurrect there.
 
-<GifPlayer sourceId="aquatic-ruins-dark-path" />
 
 </GridItem>
 
-<GridItem>
+<GridItem> 
 
+<GifPlayer sourceId="aquatic-ruins-dark-path" />
+</GridItem>
+
+<GridItem>
 ## Dolphin Path <Label>Changes daily</Label>
 
 If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get <Effect name="Stealth"/>. `Skill 5` can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the checkpoint you wait for your party to `/gg` and spawn next to you. Kill the Champion Krait to get to the Jellyfish Beast.
-
 </GridItem>
 </Grid>
 
@@ -145,14 +147,17 @@ If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Kra
 
 The Jellyfish Beast does not have a breakbar since the rework. Instead a special version of <Effect name="Exposed"/> called Weakened is given to the boss. Sadly the <Item id="24868"/> does not work with this effect. Use <Item id="24615"/> and <Item id="24658"/> (Krait for the split phases) instead - when playing power based builds.
 
-The boss always starts with an AoE stun-spin attack. <Boon name="Stability"/> spam is recommended to handle this encounter gracefully. Every now and then the boss eats a player. To free themselves, the player will need to complete a guitar-hero styled puzzle by always clicking the highlighted skill. If you miss the right skill too often you die.
+The boss always starts with an AoE stun-spin attack. <Boon name="Stability"/> spam is recommended to handle this encounter gracefully. Every now and then the boss eats a player. To free themselves, the player will need to complete a guitar-hero styled puzzle by always clicking the highlighted skill. If you miss the right skill too often you die. An animation of this puzzle can be found on the right side.
 
 Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Krait spawn. Kill them to continue the fight.
 
 When the <Instability name="Afflicted"/> is present, it is highly recommended to bring some kind of condition-cleanse due to the ticking aura during the split phases applying conditions.
-</GridItem>
+</GridItem>ac
 
 <GridItem sm="5">
+<GifPlayer sourceId="aquatic-boss-puzzle" />
+
+
 <Tabs>
 <Tab specialization="Revenant">
 Use <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Assassin Stance"/>. Use <Skill name="Legendary Demon Stance"/> instead of <Skill name="Legendary Assassin Stance" disableText/> if there is <Instability name="No Pain, No Gain"/>. When the Jellyfish raises all of it's tentacle cast <Skill name="Inspiring Reinforcement"/>.
@@ -167,3 +172,4 @@ Use <Skill name="Stand your ground"/>. If you have multiple Guardians in your te
 </Grid>
 
 ![Jellyfish beast](images/the_jellyfish_beast.jpg)
+
