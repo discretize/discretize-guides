@@ -19,7 +19,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-06-30T15:20:16.426Z "
+date: "2023-06-30T15:30:03.833Z "
 benchmark:
   small:
     dps: 34302
@@ -57,7 +57,7 @@ Besides of cleave in T4 fractals, Arstariiv is the only encounter where it is op
 </Character>
 </CharacterWithAr>
 
-<Divider text="Build" /> 
+<Divider text="Build" />  
 
 <Grid>
 <GridItem sm="7">
@@ -125,7 +125,7 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 ### Preacasting
 
-- Staff marks if possible
+- Staff marks if possible (check the notes section).
 - If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far away from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
 - Optional: Precast <Skill name="Rise" /> (Utility) and swap back to <Skill name="You are all Weaklings!" />.
 - Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
