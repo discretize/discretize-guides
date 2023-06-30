@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-06-27T20:00:24.962Z "
+date: "2023-06-30T16:41:04.806Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -55,13 +55,16 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 | <Trait name="Wilting Strike" size="big" disableText/>      | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
 | <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword or underwater Spear for cooldown reduction and more damage.                              |
 | <Trait id="2143" size="big" disableText/>                  | Will out preform <Trait name="Leader of the Pack"/> in phases longer than 29s.                                                                          |
+| <Trait id="2161" size="big" disableText/>                  | If boons are not a problem and using sword, will provide a slight DPS increase.                                                                           |
 
 </Card>
 <Card title="Swap Weapons">
 
-- Warhorn for <Boon name="Might"/> pre-stacking.
+- Warhorn for <Boon name="Might"/> pre-stacking, can use a concentration sigil in prestack warhorn.
 - Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-- Axes, Longbows, and Greatswords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
+- Axes, Longbows, Swords, and Greatswords with slaying/night sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
+- Longbows with Severance are strong for some bosses (Artsariiv, Arkk, MAMA, Ensolyss), especially in faster groups. For Ensolyss you will need a Longbow with Serpent/Severance, the other fights should be Force/Severance.
+- An Axe with Severance to replace Impact in **very fast** groups is good on Artsariiv.
 
 </Card>
 </GridItem>
@@ -121,13 +124,13 @@ In PuGs, however, it is quite hard to predict when the boss will be CC'd as well
 For your First weapon set you have a choice of 3 weapons:
 
 - **Longbow is a default pick for fractal <Specialization name="Soulbeast"/>** as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however, you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus.
-- Warhorn is a strong weapon to run if you cannot cast another <Skill name="Barrage"/> during the fight. "
+- Warhorn is a strong weapon to run if you cannot cast another <Skill name="Barrage"/> during the fight.
 - Greatsword offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. The greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
 
 For your second weapon set, you always want Axe off-hand, but for main-hand, you have a choice of 3 weapons again:
 
-- **You should mostly run a main-hand Axe as it offers the highest damage of all main hand weapons.**
-- You may take a main-hand sword for its movement skills: <Skill name="Pounce"/>.
+- You should mostly run a main-hand Sword as it offers the highest damage of all main hand weapons.
+- You should run a main-hand Axe when Sword's effectiveness is reduced by low gravity (Artsariiv, Arkk), or when the extra range is useful.
 - Dagger, although its lower DPS than sword or axe in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
 
 **Pets:**
