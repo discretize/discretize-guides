@@ -1,14 +1,16 @@
 ---
-cycle: Day
 potions:
   - id: 50082
   - id: 8887
-date: '2022-07-01T17:40:25.400Z'
+hasCM: false
+cycle: Day
+layout: src/layouts/Fractal.astro
+date: "2023-06-30T17:42:42.851Z "
 title: Aetherblade
-description: This is a sterile research environment. Leave at once.
-long_description: 'The Aetherblade Fractal has you heading through rooms filled with traps and puzzles, facing off against a gang of fearsome airship pirates. Resulting in an encounter with the not so happy to see you Asura Frizz, and his Golems. Remember to bring stability, stunbreaks, and bind your dodge key to fly through this fractal.'
 image: images/header_old.jpg
+group: t4
 api: 2948
+bosses: 1
 difficulties:
   - level: 96
     ar: 144
@@ -34,8 +36,12 @@ record:
     - id: cuJ1r6V8qk8
       name: Inky
       specialization: Dragonhunter
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: The Aetherblade Fractal has you heading through rooms filled
+  with traps and puzzles, facing off against a gang of fearsome airship pirates.
+  Resulting in an encounter with the not so happy to see you Asura Frizz, and
+  his Golems. Remember to bring stability, stunbreaks, and bind your dodge key
+  to fly through this fractal.
+description: This is a sterile research environment. Leave at once.
 ---
 
 ## Start (water tunnel) <Item id="50082" disableText/>
@@ -118,6 +124,8 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 <GridItem sm="3">
 ![Moving laser pattern](images/moving_lasers.jpg)
 ![Spinning lasers](images/spinning_lasers.jpg)
+
+<GifPlayer sourceId="aetherblade-consoles" caption="Use Condition cleanses to activate all consoles solo"/>
 </GridItem>
 </Grid>
 
@@ -173,6 +181,8 @@ Dont get hit by the lasers! Watch out especially at the 2nd phase when the laser
 <GridItem>
 ![Frizz, the last encounter of the fractal](./images/frizz.jpg)
 
+<GifPlayer sourceId="aetherblade-jump-lazer" caption="Avoid the small lasers by jumping on boxes" />
+
 <Tabs>
 <Tab specialization="Revenant">
 Use <Skill name="Inspiring Reinforcement"/> in <Skill name="Legendary Dwarf Stance" disableText/> for <Boon name="Stability"/> against the _Lasers_ and _Small Lasers_.
@@ -190,6 +200,8 @@ Run an off-hand axe and use <Skill id="12638"/> to pull golems closer.
 Use <Skill id="5697"/> against the golems next to a wall or box.
 </Tab>
 </Tabs>
+
+<GifPlayer sourceId="aetherblade-stability-wall" caption="Trick: use Stability to walk through a wall" />
 
 </GridItem>
 </Grid>
