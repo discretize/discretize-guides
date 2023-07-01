@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Virtuoso
-code: '[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcYHQEdQjsjDyMPggFrAYEBZAGDAY8B7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 4
   - 1
   - 3
-date: '2023-04-04T11:18:05.762Z'
+date: "2023-07-01T11:38:01.476Z "
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -23,7 +23,7 @@ conditions:
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
 
 It offers great sustained DPS with a very simple rotation. On top of that, it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independent class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions trait lines. On top of this <Specialization name="Mesmer"/> can also help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
-
+ 
 The <Specialization name="Mesmer"/> also provides an optimal skipping toolset for T4 fractals which should be utilized.
 
 <Divider text="Equipment"/>
@@ -50,17 +50,10 @@ Check out the [gear optimizer](https://optimizer.discretize.eu/) for more varian
 
 <Grid>
 <GridItem sm="7">
-<Card title="Extra Weapons">
+### Traits
+<Traits traits1Id="24" traits1="Illusions" traits1Selected="Shatter Storm, Maim the Disillusioned, Phantasmal Force" traits2Id="1" traits2="Dueling" traits2Selected="Phantasmal Fury, Fencer's Finesse, Superiority Complex" traits3Id="66" traits3="Virtuoso" traits3Selected="Jagged Mind,Phantasmal Blades,Bloodsong"/>
 
-- Pistol instead of Sword for short phases/extra CC
-- Torch for stealth, blasting, and precasting
-- Staff for precasting at certain bosses.
-- Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
-- Sword (in main-hand) for a 600 leap on <Specialization name="Virtuoso"/> or skips on <Specialization name="Mirage"/>
-
-</Card>
-<Traits traits1="Illusions" traits1Selected="Shatter Storm, Maim the Disillusioned, Phantasmal Force" traits2="Dueling" traits2Selected="Phantasmal Fury, Fencer's Finesse, Superiority Complex" traits3="Virtuoso" traits3Selected="Jagged Mind,Phantasmal Blades,Bloodsong"/>
-<Card title="Situational Traits">
+### Situational Traits
 
 |                                                             |                                                                                |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -72,15 +65,33 @@ Utilize Mirage for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
-<Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment" unembossed/>
+<Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment"/>
 
 Situationally used for <Skill name="Continuum Split"/>, which can be useful when stealthing your group with <Skill name="Mass Invisibility"/> or any utility you want to use twice. Additionally allows for shield to be equipped giving you a very strong block with <Skill id="30769"/> and <Skill id="29649"/>. In niche cases can be used for some self <Boon name="alacrity"/> through <Trait name="Flow of Time"/> and <Trait name="Improved Alacrity"/>.
 
-</Card>
+### Defiance Bar Damage
+
+| Skill                                | Damage                |
+| ------------------------------------ | --------------------- |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
+| <Skill name="Counter Blade"/>        | 200 damage            |
+| <Skill name="Into the Void"/>        | 150 damage            |
+| <Skill name="Signet of Humility"/>   | 600 damage            |
+| <Skill name="Magic Bullet"/>         | 250 damage            |
+| <Condition name="Slow"/>             | 50 damage per second  |
+
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Extra Weapons
+
+- Pistol instead of Sword for short phases/extra CC
+- Torch for stealth, blasting, and precasting
+- Staff for precasting at certain bosses.
+- Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
+- Sword (in main-hand) for a 600 leap on <Specialization name="Virtuoso"/> or skips on <Specialization name="Mirage"/>
+
+### Situational Skills
 
 |                                                                |                                                                                                                                                                                            |     |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -101,44 +112,22 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 | <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |     |
 | <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |     |
 
-</Card>
 </GridItem>
 </Grid>
 
 <Divider text="Rotation / Skill usage"/>
-
-<Grid>
-
-<GridItem sm="6">
-
-<Card title="Information">
+<Warning>
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 
 It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
-</Card>
-
-</GridItem>
+</Warning>
+<Grid>
 
 <GridItem sm="6">
-
-<Card title="Important Traits">
-
-- <Trait name="Jagged Mind"/> will give you a large amount of sustain and makes your Blade skills inflict <Condition name="Bleeding"/>. Namely, those are your Dagger attacks as well as your Bladesongs.
-
-- <Trait name="Deadly Blades"/> gives you a 5% damage modifier after using a Bladesong. You'll want to keep up this buff as much as you can.
-
-- <Trait name="Bloodsong"/> stocks extra blades when you inflict enough <Condition name="Bleeding"/> and will make sure that you are always at 5 Blades for your Bladesongs as long as you keep attacking.
-- <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure critical hits of your Phantasms.
-
-</Card>
-</GridItem>
-
-<GridItem sm="8">
-
-<Card title="Skill priority">
+### Skill Priority
 
 If you lose yourself in the exact rotation, follow this priority list.
 
@@ -155,28 +144,39 @@ Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not us
 
 Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
 
-</Card>
+### Golem Opener
 
-</GridItem>
+There is a basic opener used on the golem for sustained DPS, you will need to adapt this depending on the boss and cooldowns.
 
-<GridItem sm="4">
+- Start on Dagger/Sword (or Pistol)
 
-<Card title="CC skills">
+1. <Skill name="Phantasmal Swordsman"/>
+2. <Skill name="Bladesong Harmony"/>
+3. <Skill name="Bladecall"/>
+4. _Weapon Swap_
+5. <Skill name="Unstable Bladestorm"/>
+6. <Skill name="Phantasmal Warden"/>
+7. <Skill name="Bladesong Sorrow"/>
+8. <Skill name="Signet of the Ether"/>
+9. <Skill name="Phantasmal Warden"/>
+10. <Skill name="Bladesong Harmony"/>
+11. <Skill name="Signet of Illusions"/>
 
-|                                      |                       |
-| ------------------------------------ | --------------------- |
-| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
-| <Skill name="Counter Blade"/>        | 200 damage            |
-| <Skill name="Into the Void"/>        | 150 damage            |
-| <Skill name="Signet of Humility"/>   | 600 damage            |
-| <Skill name="Magic Bullet"/>         | 250 damage            |
-| <Condition name="Slow"/>             | 50 damage per second  |
-
-</Card>
-
+### Golem Rotation
+<Video caption="by REMagic " youtube="6sKo5qnT4gg"/>
 </GridItem>
 
 <GridItem sm="6">
+
+### Important Traits
+
+- <Trait name="Jagged Mind"/> will give you a large amount of sustain and makes your Blade skills inflict <Condition name="Bleeding"/>. Namely, those are your Dagger attacks as well as your Bladesongs.
+
+- <Trait name="Deadly Blades"/> gives you a 5% damage modifier after using a Bladesong. You'll want to keep up this buff as much as you can.
+
+- <Trait name="Bloodsong"/> stocks extra blades when you inflict enough <Condition name="Bleeding"/> and will make sure that you are always at 5 Blades for your Bladesongs as long as you keep attacking.
+- <Trait name="Sharper Images"/> makes your Phantasms inflict <Condition name="Bleeding"/> on critical hits, making multi-hit Phantasms stronger. <Trait name="Phantasmal Fury"/> combined with the gear choices will ensure critical hits of your Phantasms.
+
 <Card title="Precasting">
 
 At the Mistlock Singularity
@@ -199,39 +199,7 @@ At the boss (pre spawned bosses)
 - You can also precast <Skill name="Phantasmal Warlock"/>.
 
 </Card>
-
-<Card title="Rotation Guide">
-
+### Rotation Guide
 <Video caption="by Ascers " youtube="8a1lh8IiW0c"/>
-
-</Card>
-
 </GridItem>
-
-<GridItem sm="6">
-<Card title="Golem Opener">
-
-There is a basic opener used on the golem for sustained DPS, you will need to adapt this depending on the boss and cooldowns.
-
-- Start on Dagger/Sword (or Pistol)
-
-1. <Skill name="Phantasmal Swordsman"/>
-2. <Skill name="Bladesong Harmony"/>
-3. <Skill name="Bladecall"/>
-4. _Weapon Swap_
-5. <Skill name="Unstable Bladestorm"/>
-6. <Skill name="Phantasmal Warden"/>
-7. <Skill name="Bladesong Sorrow"/>
-8. <Skill name="Signet of the Ether"/>
-9. <Skill name="Phantasmal Warden"/>
-10. <Skill name="Bladesong Harmony"/>
-11. <Skill name="Signet of Illusions"/>
-
-</Card>
-<Card title="Golem Rotation">
-<Video caption="by REMagic " youtube="6sKo5qnT4gg"/>
-</Card>
-
-</GridItem>
-
 </Grid>
