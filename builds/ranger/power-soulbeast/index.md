@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-06-30T16:41:04.806Z "
+date: "2023-07-01T14:34:13.859Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -22,7 +22,7 @@ conditions:
 ---
 
 The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
- 
+  
 This build is rather self-sufficient due to:
 
 - <Boon name="Quickness"/> from <Trait name="livefast"/>
@@ -34,7 +34,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 <Divider text="Equipment"/>
 <CharacterWithAr>  
-<Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":3931,"Precision":2110,"Toughness":1375,"Vitality":1610,"Ferocity":2385,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.0785714285714287,"Critical Damage":3.09,"Power Coefficient":2594,"Power2 Coefficient":0,"Burning Coefficient":0.58,"Bleeding Coefficient":4.51,"Poison Coefficient":2.43,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35130.92128891538,"NonCrit Effective Power":11369.230190587501,"Power DPS":35090.3387845385,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":4.961,"Bleeding DPS":589.1187500000001,"Burning Damage":422.65625,"Burning Stacks":0.638,"Burning DPS":269.6546875,"Confusion Damage":145.15625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":2.6730000000000005,"Poison DPS":365.44921875000006,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":36454.3114407885,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
+<Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":4170,"Precision":2110,"Toughness":1375,"Vitality":1610,"Ferocity":2385,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.0785714285714287,"Critical Damage":3.09,"Power Coefficient":2594,"Power2 Coefficient":0,"Burning Coefficient":0.58,"Bleeding Coefficient":4.51,"Poison Coefficient":2.43,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35130.92128891538,"NonCrit Effective Power":11369.230190587501,"Power DPS":35090.3387845385,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":4.961,"Bleeding DPS":589.1187500000001,"Burning Damage":422.65625,"Burning Stacks":0.638,"Burning DPS":269.6546875,"Confusion Damage":145.15625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":2.6730000000000005,"Poison DPS":365.44921875000006,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":36454.3114407885,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
  
 </Character>
 </CharacterWithAr>
@@ -43,22 +43,35 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 <Grid>
 <GridItem sm="7">
-<Card title="Traits">
-<Traits traits1Id="8" traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1700,1888"  traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1072,970,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2128" unembossed/>
-</Card>
-<Card title="Situational Traits">
+### Traits
+<Traits traits1Id="8" traits1="Skirmishing" traits1Id="30" traits1SelectedIds="1069,1700,1888"  traits2Id="32" traits2="Beastmastery" traits2SelectedIds="1072,970,1066" traits3Id="55" traits3="Soulbeast" traits3SelectedIds="2071,2085,2143" unembossed/>
+
+### Situational Traits
 
 |                                                            |                                                                                                                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Spotter" size="big" disableText/>             | Can be taken to help provide some group <Boon name="Fury"/>                                                                                             |
-| <Trait name="Quickdraw" size="big" disableText/>           | Taken to reduce the cooldown of certain weapon skills, particularly usefull in double doulbeast comps.                                                  |
+| <Trait name="Resounding Timbre" size="big" disableText/>             | Currently bugged and still applying a cooldown reduction to commands. Can be taken to reduce the cooldown of <Skill name="Sic Em"/> if needed.                                                                                             |
 | <Trait name="Wilting Strike" size="big" disableText/>      | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
 | <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword or underwater Spear for cooldown reduction and more damage.                              |
-| <Trait id="2143" size="big" disableText/>                  | Will out preform <Trait name="Leader of the Pack"/> in phases longer than 29s.                                                                          |
+| <Trait id="2128" size="big" disableText/>                  | Taken on fights where it can be casted each phase such as Ensolyss                                                                          |
 | <Trait id="2161" size="big" disableText/>                  | If boons are not a problem and using sword, will provide a slight DPS increase.                                                                           |
 
-</Card>
-<Card title="Swap Weapons">
+### Defiance Bar Damage
+
+| Skill               | Damage                                                                      |
+| ------------------- | --------------------------------------------------------------------------- |
+| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
+| <Skill id="12511"/> | 150 damage (Longbow 4)                                                      |
+| <Skill id="12638"/> | 150 damage (Axe 4)                                                          |
+| <Skill id="12475"/> | 150 damage (Greatsword 5)                                                   |
+| <Skill id="12523"/> | 150 damage (Greatsword 4 after a block)                                     |
+| <Skill id="41908"/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
+| <Skill id="12490"/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
+
+</GridItem>
+
+<GridItem sm="5">
+### Swap Weapons
 
 - Warhorn for <Boon name="Might"/> pre-stacking, can use a concentration sigil in prestack warhorn.
 - Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
@@ -66,11 +79,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 - Longbows with Severance are strong for some bosses (Artsariiv, Arkk, MAMA, Ensolyss), especially in faster groups. For Ensolyss you will need a Longbow with Serpent/Severance, the other fights should be Force/Severance.
 - An Axe with Severance to replace Impact in **very fast** groups is good on Artsariiv.
 
-</Card>
-</GridItem>
-
-<GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                           |                                                                                                                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,8 +93,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 | <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse.                                    |
 | <Skill name="Signet of stone" size="big" disableText/>    | Prevents you from taking damage. Can be used to perform skip for the left path in [Deepstone](/fractals/deepstone).
 
-</Card>
-<Card title="Pets">
+### PEts
 
 |                                            |                                                                                                                                                                                          |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -94,20 +102,6 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                            |
 | <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/> |
 
-</Card>
-<Card title="Defiance Bar Damage">
-
-|                                            |                                                                             |
-| ------------------------------------------ | --------------------------------------------------------------------------- |
-| <Skill id="45743" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
-| <Skill id="12511" size="big" disableText/> | 150 damage (Longbow 4)                                                      |
-| <Skill id="12638" size="big" disableText/> | 150 damage (Axe 4)                                                          |
-| <Skill id="12475" size="big" disableText/> | 150 damage (Greatsword 5)                                                   |
-| <Skill id="12523" size="big" disableText/> | 150 damage (Greatsword 4 after a block)                                     |
-| <Skill id="41908" size="big" disableText/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
-| <Skill id="12490" size="big" disableText/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
-
-</Card>
 </GridItem>
 </Grid>
 
@@ -156,26 +150,41 @@ For your second weapon set, you always want Axe off-hand, but for main-hand, you
 - <Skill name="Quickening Zephyr"/> and <Skill name="Signet of the hunt"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips. Superspeed will also override the speed decrease when carrying treasure in [Siren's Reef](/fractals/sirens-reef).
 
 <Divider text="Rotation / Skill usage"/>
-
-<Grid>
-<GridItem sm="6">
-<Card title="Information">
+<Warning>
 
 Golem rotations from raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.\
 For that reason you can find a video below with openers for each of the CM bosses:
-</Card>
+</Warning>
+<Grid>
+<GridItem sm="6">
+### Sword Opener
 
-<Card title="Soulbeast openers">
+1.  <Skill name="Barrage"/> (Lonbow 5)
+2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+3.  <Skill name="Point Blank Shot"/> (Longbow 4)
+4.  <Skill name="Frost Trap"/>
+5.  _Weaponswap_
+6.  <Skill id="69203"/> (Sword 2)
+7.  <Skill id="12482"/> (Sword 3)
+8.  <Skill name="Path of Scars"/> (Axe 4)
+9.  <Skill name="Worldly Impact"/> (Axe 5)
+10. <Skill name="Whirling Defense"/> (Axe 5)
+11. <Skill id="69203"/> (Sword 2)
 
-<Video caption="by Stellan [dT], edited by Vince [dT]" youtube="0obkDd8lCTA"/>
-</Card>
+### Axe Opener
 
-<Card title="Golem Rotation">
+1.  <Skill name="Barrage"/> (Lonbow 5)
+2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+3.  <Skill name="Point Blank Shot"/> (Longbow 4)
+4.  <Skill name="Frost Trap"/>
+5.  _Weaponswap_
+6.  <Skill name="Splitblade"/> (Axe 2)
+7.  <Skill name="Winters Bite"/> (Axe 3)
+8.  <Skill name="Path of Scars"/> (Axe 4)
+9.  <Skill name="Worldly Impact"/> (Axe 5)
+10. <Skill name="Whirling Defense"/> (Axe 5)
+11. <Skill name="Splitblade"/> (Axe 2)
 
-<Video youtube="kHk1W5KpYG0" caption="by vpo"/>
-
-Note: The golem benchmark uses a different build setup than the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
-</Card>
 </GridItem>
 
 <GridItem sm="6">
@@ -200,35 +209,12 @@ If you don't have _Mistlock Singularity_ present you can use this simplified rot
 4.  Pick up <Skill id="5516"/> if there is one.
 
 </Card>
-<Card title="Golem Rotation">
+### Golem Rotation
 
-1.  <Skill name="Barrage"/> (Lonbow 5)
-2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-3.  <Skill name="Point Blank Shot"/> (Longbow 4)
-4.  <Skill name="Frost Trap"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  <Skill name="Worldly Impact"/> (F3)
-7.  <Skill id="41524"/> (F1)
-8.  <Skill name="Rapid Fire"/> (Longbow 2)
-9.  <Skill name="Splitblade"/> (Axe 2)
-10. <Skill name="Winters Bite"/> (Axe 3)
-11. <Skill name="Path of Scars"/> (Axe 4)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill id="45743"/> (F2)
-14. <Skill name="Splitblade"/> (Axe 2)
-15. <Skill id="41524"/> (F1)
-16. <Skill name="Ricochet"/> `Auto Attack x8` (Axe 1)
-17. <Skill name="Winters Bite"/> (Axe 3)
-18. <Skill name="Splitblade"/> (Axe 2)
-19. <Skill name="Path of Scars"/> (Axe 4)
-20. <Skill name="Rapid Fire"/> (Longbow 2)
-21. <Skill id="41524"/> (F1)
-22. <Skill name="Long Range Shot"/> `Auto Attack x5` (Longbow 1)
-23. <Skill name="Point Blank Shot"/> (Longbow 4)
-24. <Skill name="Barrage"/> (Lonbow 5)
-25. `Repeat from step 4`
+<Video youtube="kHk1W5KpYG0" caption="by vpo"/>
 
-</Card>
+Note: The golem benchmark uses a different build setup than the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
+
 </GridItem>
 </Grid>
 
@@ -236,17 +222,13 @@ If you don't have _Mistlock Singularity_ present you can use this simplified rot
 
 <Grid>
 <GridItem sm="7">
-<Card title="Weapons">
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
-</Card>
-<Card title="Traits">
 
+### Traits
 <Traits traits1Id="32" traits1="Beastmastery" traits1SelectedIds="1072,1047,1066" unembossed/>
 
 Your other train lines remain the same as on land. The reason for swapping traits here is to provide a 10% damage increase and cooldown reduction on spear skills.
-</Card>
 
-<Card title="Underwater Rotation">
+### Underwater Rotation
 
 For a DPS rotation the same rules apply as above land, try to fit lots of damage into <Skill name="Sicem"/> and <Skill name="One wolf pack"/> and line your burst up with <Effect name="Exposed"/>.
 
@@ -260,22 +242,21 @@ During the fight, you want to camp Spear since <Skill name="Man o war"/> (Spear 
 - At the end of a phase you can use <Skill id="12528"/> (Harpoon 3) and <Skill name="Mercy Shot"/> (Harpoon 4) again.
 - You can use <Skill name="Surging maw"/> to quickly reach or come back from the adds during the Jellyfish fight of [Aquatic Ruins](/fractals/aquatic-ruins).
 
-</Card>
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Skills">
+### Weapons
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2MainSigil2="Serpentslaying" weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
+### Skills
 <Skills healId={44948} utility1Id={12491} utility2Id={12633} utility3Id={12492} eliteId={45717}/>
 If you need to swap a skill, the same as on land applies. Swap <Skill name="Signet of the Wild"/> first then <Skill name="Frost Trap"/>.
-</Card>
-<Card title="Pets">
+
+### Pets
 
 |                                            |                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="43068" size="big" disableText/> | [Lashtail Devourer](https://wiki.guildwars2.com/wiki/Juvenile_Lashtail_Devourer) - Highest DPS pet allowing you to proc <Trait name="Twice as Vicious"/>. You can bring this pet if your group can upkeep <Boon name="Fury"/> without you.                                   |
-| <Skill id="44514" size="big" disableText/> | [Tiger](https://wiki.guildwars2.com/wiki/Juvenile_Tiger) - Brings DPS as well as group <Boon name="Fury"/> generation. During DPS downtime (the split phase of the Jellyfish Beast) you want to unmerge and use <Skill id="31451"/> to help your teams <Boon name="Fury"/> uptime. |
 | <Skill id="42797" size="big" disableText/> | [Shark](https://wiki.guildwars2.com/wiki/Juvenile_Shark) - Used only for mobility. <Skill id="42797"/> is a great for moving between fractal sections quickly, just remember to swap back to a DPS pet before getting into combat!                                                 |
 
-</Card>
 </GridItem>
 </Grid>
