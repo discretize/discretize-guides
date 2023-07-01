@@ -1,26 +1,26 @@
 ---
-title: Power Virtuoso
 hidden: false
 archive: false
 hasBeginner: true
-rating: Good
-role: Power Damage
-profession: Mesmer
 specialization: Virtuoso
-conditions:
-  - name: Vulnerability
-    uptime: 25 stacks
 boons: []
-code: '[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: '2023-04-04T18:56:12.271Z'
+date: "2023-07-01T13:00:18.630Z "
+title: Power Virtuoso
+rating: Good
+role: Power Damage
+profession: Mesmer
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 ---
-
+ 
 <Advanced>
 
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -66,13 +66,52 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Beginner>
 
-<Divider text="Equipment"/>
-
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="7">
-<Card title="Extra Weapons">
+### Traits
+<Traits traits1Id="10" traits1="Domination" traits1SelectedIds="686,713,681" traits2Id="1" traits2="Dueling" traits2SelectedIds="701,708,692" traits3Id="66" traits3="Virtuoso" traits3SelectedIds="2208,2205,2223"/>
+
+### Situational Traits
+
+|                                                            |                                                                           |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <Trait name="Empowered Illusions" size="big" disableText/> | Take this trait if you're playing with Sword/Focus instead of Greatsword. |
+
+<Traits traits1Id="24" traits1="Illusions" traits1SelectedIds="721,729,733"/>
+
+You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
+
+<Advanced>
+<Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
+
+Utilize Mirage for skips!
+
+<Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+
+<Traits traits1Id="40" traits1="Chronomancer" traits1SelectedIds="1978,2022"/>
+
+Situationally used for <Skill name="Continuum Split"/>, which can be useful when stealthing your group with <Skill name="Mass Invisibility"/> or any utility you want to use twice. Additionally allows for shield to be equipped giving you a very strong block with <Skill id="30769"/> and <Skill id="29649"/>. In niche cases can be used for some self <Boon name="alacrity"/> through <Trait name="Flow of Time"/> and <Trait name="Improved Alacrity"/>.
+
+### Defiance Bar Damage
+
+| Skill                                | Damage                |
+| ------------------------------------ | --------------------- |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
+| <Skill name="Counter Blade"/>        | 200 damage            |
+| <Skill name="Into the Void"/>        | 150 damage            |
+| <Skill name="Signet of Humility"/>   | 600 damage            |
+| <Skill name="Illusionary Wave"/>     | 150 damage            |
+| <Skill name="Magic Bullet"/>         | 250 damage            |
+| <Skill name="Phantasmal Mage"/>      | 100 damage            |
+| <Condition name="Slow"/>             | 50 damage per second  |
+
+</Advanced>
+</GridItem>
+
+<GridItem sm="5">
+### Extra Weapons
 
 - You can run Sword/Focus instead of Greatsword. This variant is very useful to use in T4 fractals to pull groups of enemies together with <Skill name="Temporal Curtain"/> to cleave them down more easily.
 - If you want to run one variant on all fights, Greatsword is highly recommended.
@@ -87,36 +126,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </Advanced>
 
-</Card>
-<Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Bountiful Blades,Egotism,Vicious Expression" traits3="Virtuoso" traits3Selected="Mental Focus,Phantasmal Blades,Bloodsong"/>
-
-<Card title="Situational Traits">
-
-|                                                            |                                                                           |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------- |
-| <Trait name="Empowered Illusions" size="big" disableText/> | Take this trait if you're playing with Sword/Focus instead of Greatsword. |
-
-<Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
-
-You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
-
-<Advanced>
-<Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
-
-Utilize Mirage for skips!
-
-<Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
-
-<Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment" unembossed/>
-
-Situationally used for <Skill name="Continuum Split"/>, which can be useful when stealthing your group with <Skill name="Mass Invisibility"/> or any utility you want to use twice. Additionally allows for shield to be equipped giving you a very strong block with <Skill id="30769"/> and <Skill id="29649"/>. In niche cases can be used for some self <Boon name="alacrity"/> through <Trait name="Flow of Time"/> and <Trait name="Improved Alacrity"/>.
-
-</Advanced>
-</Card>
-</GridItem>
-
-<GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
 Swap out <Skill name="Mantra of Pain"/> before any other skill.
 
@@ -165,71 +175,26 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
 </Advanced>
-
-</Card>
-</GridItem>
-
-</Grid>
-
-<Advanced>
-<Divider text="Details"/>
-
-<Grid>
-<GridItem sm="8">
-<Card title="Skill priority">
-
-To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals you need to adapt on the go as phantasms are slower than skills from other classes.
-
-If you lose yourself in the rotation follow this priority list.
-
-1.  Cast your phantasms whenever ready.
-    - <Skill id="10174"/>
-    - <Skill id="10267"/>
-    - <Skill id="10221"/>
-2.  Use <Skill id="21750"/> to recharge them all.
-3.  Use <Skill name="Bladesong Harmony"/> with 5 Blades as much as possible. Only delay it for <Effect name="Exposed"/> but remember that it also grants you a 5% damage buff through <Trait name="Deadly Blades"/>.
-4.  Use <Skill name="Bladesong Sorrow"/> for damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to prioritize having 5 Blades for <Skill name="Bladesong Harmony"/> though. Situationally you can use this with 5 Blades such as in your burst rotation or when a phase is about to end and <Skill name="Bladesong Harmony"/> is on cooldown.
-5.  <Skill id="62553"/> deals damage over time so make sure to cast it at the start of phases. If a boss is close to phasing, save it for the start of the next phase.
-6.  Use <Skill id="62560"/>, <Skill id="62607"/>, <Skill id="10333"/> and <Skill id="10218"/> off recharge.
-
-- <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
-
-Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damaging skills such as <Skill id="62560"/> and auto-attacks get higher priority if the boss is close to phasing.
-
-Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> so they don't overlap with other powerful CC skills.
-
-Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<Card title="CC skills">
-
-|                                      |                       |
-| ------------------------------------ | --------------------- |
-| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
-| <Skill name="Counter Blade"/>        | 200 damage            |
-| <Skill name="Into the Void"/>        | 150 damage            |
-| <Skill name="Signet of Humility"/>   | 600 damage            |
-| <Skill name="Illusionary Wave"/>     | 150 damage            |
-| <Skill name="Magic Bullet"/>         | 250 damage            |
-| <Skill name="Phantasmal Mage"/>      | 100 damage            |
-| <Condition name="Slow"/>             | 50 damage per second  |
-
-</Card>
 </GridItem>
 </Grid>
-
-</Advanced>
 
 <Divider text="Rotation / Skill usage"/>
+<Advanced>
+<Warning>
 
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+
+They do however benefit from <Effect name="Exposed"/>.
+</Warning>
+</Advanced>
 <Grid>
 <GridItem xs="12" sm="7">
 
 <Beginner>
 
-<Card title="Step by Step Begginer Rotation">
+### Step by Step Begginer Rotation
 
 **Step 1: Opener**
 
@@ -282,9 +247,59 @@ Lastly, we will add the remaining Utility Skills to the rotation.
 - Cast <Skill name="Rain of Swords"/> at the start of the fight and then use it off-cooldown.
 - Cast <Skill name="Mantra of Pain"/> off-cooldown as well. This skill is an instant cast and can therefore be used while casting other skills.
 
-</Card>
 </Beginner>
 
+<Advanced>
+### SKill Priority
+
+To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals you need to adapt on the go as phantasms are slower than skills from other classes.
+
+If you lose yourself in the rotation follow this priority list.
+
+1.  Cast your phantasms whenever ready.
+    - <Skill id="10174"/>
+    - <Skill id="10267"/>
+    - <Skill id="10221"/>
+2.  Use <Skill id="21750"/> to recharge them all.
+3.  Use <Skill name="Bladesong Harmony"/> with 5 Blades as much as possible. Only delay it for <Effect name="Exposed"/> but remember that it also grants you a 5% damage buff through <Trait name="Deadly Blades"/>.
+4.  Use <Skill name="Bladesong Sorrow"/> for damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to prioritize having 5 Blades for <Skill name="Bladesong Harmony"/> though. Situationally you can use this with 5 Blades such as in your burst rotation or when a phase is about to end and <Skill name="Bladesong Harmony"/> is on cooldown.
+5.  <Skill id="62553"/> deals damage over time so make sure to cast it at the start of phases. If a boss is close to phasing, save it for the start of the next phase.
+6.  Use <Skill id="62560"/>, <Skill id="62607"/>, <Skill id="10333"/> and <Skill id="10218"/> off recharge.
+
+- <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
+
+Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damaging skills such as <Skill id="62560"/> and auto-attacks get higher priority if the boss is close to phasing.
+
+Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> so they don't overlap with other powerful CC skills.
+
+Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
+
+### Opener
+
+There is a basic fractal opener, you will need to adapt this depending on the boss and cooldowns.
+
+- Start on Sword
+
+1. <Skill name="Rain of Swords"/>
+2. <Skill name="Unstable Bladestorm"/>
+3. <Skill name="Phantasmal Swordsman"/>
+4. <Skill name="Bladecall"/>
+5. _Weapon Swap_
+6. <Skill name="Bladesong Dissonance"/>
+7. <Skill name="Phantasmal Berserker"/>
+8. <Skill name="Phantasmal Disenchanter"/>
+9. <Skill name="Signet of the Ether"/>
+10. <Skill name="Phantasmal Berserker"/>
+11. <Skill name="Phantasmal Disenchanter"/>
+12. <Skill name="Bladesong Harmony"/>
+13. <Skill name="Mirror blade"/>
+14. <Skill name="Mind Stab"/>
+15. <Skill name="Bladesong Sorrow"/>
+
+</Advanced>
+</GridItem>
+
+<GridItem xs="12" sm="5">
 <Advanced>
 <Card title="Precasting">
 
@@ -310,16 +325,11 @@ At the boss (pre spawned bosses)
 
 </Card>
 </Advanced>
-</GridItem>
-
-<GridItem xs="12" sm="5">
-
-<Card title="Golem Rotation">
+### Golem Rotation
 
 This video shows the full rotation for the Greatsword variant on the golem.
 
 <Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
-</Card>
 
 <Beginner>
 
@@ -339,38 +349,7 @@ The additional steps are:
 </Beginner>
 
 <Advanced>
-<Card title="Information">
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
-
-They do however benefit from <Effect name="Exposed"/>.
-</Card>
-
-<Card title="Opener">
-
-There is a basic fractal opener, you will need to adapt this depending on the boss and cooldowns.
-
-- Start on Sword
-
-1. <Skill name="Rain of Swords"/>
-2. <Skill name="Unstable Bladestorm"/>
-3. <Skill name="Phantasmal Swordsman"/>
-4. <Skill name="Bladecall"/>
-5. _Weapon Swap_
-6. <Skill name="Bladesong Dissonance"/>
-7. <Skill name="Phantasmal Berserker"/>
-8. <Skill name="Phantasmal Disenchanter"/>
-9. <Skill name="Signet of the Ether"/>
-10. <Skill name="Phantasmal Berserker"/>
-11. <Skill name="Phantasmal Disenchanter"/>
-12. <Skill name="Bladesong Harmony"/>
-13. <Skill name="Mirror blade"/>
-14. <Skill name="Mind Stab"/>
-15. <Skill name="Bladesong Sorrow"/>
-
-</Card>
 </Advanced>
 
 </GridItem>
