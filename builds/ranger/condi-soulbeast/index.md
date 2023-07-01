@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: true
 specialization: Soulbeast
 code: "[&DQQeLSE3Ny55AAAAAAAAAL8AAADpFgAALhYAADQlAAAAAAAAAAAAAAAAAAA=]"
@@ -10,7 +10,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2023-06-30T12:11:35.434Z "
+date: "2023-07-01T14:45:05.944Z "
 title: Condi Soulbeast
 rating: Meta
 role: Condi Damage
@@ -69,7 +69,7 @@ This build uses the Jade Bot Core: Tier 10 in combination with 14 <Item name="Ma
 </Character>
 </CharacterWithAr>
 
-</Advanced>
+</Advanced> 
 
 <Divider text="Build"/>
 
