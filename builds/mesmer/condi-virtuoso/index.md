@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: "2023-07-01T11:38:01.476Z "
+date: "2023-07-01T11:47:05.025Z "
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -21,7 +21,7 @@ conditions:
 ---
 
 The <Specialization text="Condi Virtuoso" name="Virtuoso"/> is a strong condition-based build for <Specialization name="Mesmer"/> in fractals, mainly focusing on <Condition name="Bleeding"/>.
-
+ 
 It offers great sustained DPS with a very simple rotation. On top of that, it also has a high range and great sustain due to <Trait name="Jagged Mind"/>. At the same time it is quite an independent class with great boon generation, being able to upkeep a good amount of self <Boon name="fury"/> and <Boon name="Might"/> and if traited <Boon name="Quickness"/> from traits in the Dueling and Illusions trait lines. On top of this <Specialization name="Mesmer"/> can also help provide a significant amount of <Condition name="Vulnerability"/> from <Skill name="Phantasmal Warden"/>.
  
 The <Specialization name="Mesmer"/> also provides an optimal skipping toolset for T4 fractals which should be utilized.
@@ -51,7 +51,7 @@ Check out the [gear optimizer](https://optimizer.discretize.eu/) for more varian
 <Grid>
 <GridItem sm="7">
 ### Traits
-<Traits traits1Id="24" traits1="Illusions" traits1Selected="Shatter Storm, Maim the Disillusioned, Phantasmal Force" traits2Id="1" traits2="Dueling" traits2Selected="Phantasmal Fury, Fencer's Finesse, Superiority Complex" traits3Id="66" traits3="Virtuoso" traits3Selected="Jagged Mind,Phantasmal Blades,Bloodsong"/>
+<Traits traits1Id="24" traits1="Illusions" traits1SelectedIds="721,1690,733" traits2Id="1" traits2="Dueling" traits2SelectedIds="701,708,692" traits3Id="66" traits3="Virtuoso" traits3SelectedIds="2202,2205,2223"/>
 
 ### Situational Traits
 
@@ -59,13 +59,13 @@ Check out the [gear optimizer](https://optimizer.discretize.eu/) for more varian
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | <Trait name="Duelist's Discipline" size="big" disableText/> | If you're playing with Pistol, take this over <Trait name="Phantasmal Fury"/>. |
 
-<Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
+<Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
 
 Utilize Mirage for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
-<Traits traits1="Chronomancer" traits1Selected="Improved Alacrity,Seize the Moment"/>
+<Traits traits1Id="40" traits1="Chronomancer" traits1SelectedIds="1978,2022"/>
 
 Situationally used for <Skill name="Continuum Split"/>, which can be useful when stealthing your group with <Skill name="Mass Invisibility"/> or any utility you want to use twice. Additionally allows for shield to be equipped giving you a very strong block with <Skill id="30769"/> and <Skill id="29649"/>. In niche cases can be used for some self <Boon name="alacrity"/> through <Trait name="Flow of Time"/> and <Trait name="Improved Alacrity"/>.
 
