@@ -1,14 +1,7 @@
 ---
-title: Power Alac Renegade
 hidden: false
 archive: false
-rating: Meta
-role: Power Damage
-profession: Revenant
 specialization: Renegade
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -16,17 +9,24 @@ boons:
   - name: Might
     uptime: 10 stacks
     variant: party
-code: '[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]'
-cmGuide: static
+code: "[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: '2023-04-06T12:48:34.730Z'
+date: "2023-07-01T16:03:53.719Z "
+title: Power Alac Renegade
+rating: Meta
+role: Power Damage
+profession: Revenant
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
+cmGuide: static
 ---
-
+ 
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other damage dealing classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
@@ -78,8 +78,15 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 <Grid>
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Incensed Response,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+### Situational Traits
 
-<Card title="Defiance Bar">
+|                                                       |                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Spirit Boon" size="big" disableText/>    | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                           |
+| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
+
+### Defiance Bar Damage
 
 **Hard Crowd Control:**
 
@@ -100,36 +107,9 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 - <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
-</Card>
-<Card title="Dealing with No Pain, No Gain">
-
-<Warning>
-
-Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
-</Warning>
-
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
-
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
-
-<div style={{marginBottom: "16px"}} />
-
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
-</Card>
 </GridItem>
-
 <GridItem sm="4">
-<Card title="Situational Traits">
-
-|                                                       |                                                                                                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Spirit Boon" size="big" disableText/>    | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                           |
-| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
-| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
-
-</Card>
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                                |                                                                                                              |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -141,9 +121,26 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 | <Skill name="Breakrazor's Bastion" size="big" disableText/>    | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
 | <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
 
-</Card>
 </GridItem>
+</Grid>
+
+<Divider text="Details"/>
+<Grid>
 <GridItem sm="8">
+### Burst Rotation
+
+While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+
+1.  <Skill name="Chilling Isolation"/>
+2.  <Skill name="Citadel Bombardment"/>
+3.  <Skill name="Shackling Wave"/>
+4.  <Skill name="Deathstrike"/>
+5.  <Skill name="ChillingIsolation"/>
+
+Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+</GridItem>
+
+<GridItem sm="4">
 <Card title="Precasting">
 
 Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
@@ -159,29 +156,22 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 
 </Card>
 </GridItem>
-
-<GridItem sm="4">
-<Card title="Burst Rotation">
-
-While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
-
-1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Citadel Bombardment"/>
-3.  <Skill name="Shackling Wave"/>
-4.  <Skill name="Deathstrike"/>
-5.  <Skill name="ChillingIsolation"/>
-
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
-
-</Card>
-</GridItem>
 </Grid>
+### Dealing with No Pain, No Gain
+<Warning>
 
-<Divider text="Details"/>
+Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
+</Warning>
 
-<Grid>
-<GridItem sm="12">
-<Card title="Abilities">
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
+
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
+
+<div style={{marginBottom: "16px"}} />
+
+As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+
+### Abilities
 
 **Citadel Order Skills:**
 
@@ -221,13 +211,7 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 - <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
 - <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
 
-</Card>
-</GridItem>
-</Grid>
-
-<Grid>
-<GridItem sm="12">
-<Card title="Legends">
+### Legends
 
 **<Skill name="Legendary Renegade Stance"/>**
 
@@ -277,32 +261,3 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 - <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
 - <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
 - <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
-
-</Card>
-</GridItem>
-
-<GridItem sm="12">
-
-</GridItem>
-</Grid>
-
-<Divider text="Rotation / Skill usage"/>
-
-<Grid>
-<GridItem xs="12" sm="6">
-<Card title="Renegade openers">
-
-<Video caption="Renegade Fractal Openings (outdated but a good base to work on)." youtube="QXmckcAyKf4"/>
-</Card>
-</GridItem>
-<GridItem xs="12" sm="6">
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase. For that reason you can find a video with openers, that are efficient to use here.
-
-For more information about advanced rotation and gameplay refer to [Static Renegade CM guides](/cm-guides/revenant/power-renegade/static/).
-
-</Card>
-</GridItem>
-
-</Grid>
