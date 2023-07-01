@@ -18,7 +18,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2023-07-01T15:35:17.103Z "
+date: "2023-07-01T18:51:49.839Z "
 title: Condi (Alac) Renegade
 rating: Meta
 role: Condi Damage
@@ -37,7 +37,7 @@ cmGuide: ""
 
 This build is mainly to be used in condition comps. In power comps <BuildLink build="Power Renegade" specialization="Renegade"/> is strictly better due to a lot of factors such as quick burst, more support, and more versatility.
 
-</Warning>
+</Warning> 
 
 Condi <Specialization name="Renegade"/> is an unique build that may only be played in condition comps, since it performs much better than <BuildLink build="Power Renegade" specialization="Renegade"/>. Condi <Specialization name="Renegade"/> has decent damage output and can be pretty efficient when played properly. Condi <Specialization name="Renegade"/> provides <Boon name="Alacrity"/> and some <Boon name="Might"/> through <Skill id="45537"/> and <Skill id="44076"/> respectively. Finally, to top it off this build has high CC capabilities with <Skill id="41220"/>, <Skill id="28409"/> and <Skill id="41820"/>.
 
@@ -234,6 +234,7 @@ You will want to use <Skill id="45537"/> and <Skill name="Heroic Command"/> off 
 
 - If your group is fast enough you'll get some <Skill id="45537"/> ticks in combat, and the <Boon name="Alacrity"/> from those ticks won't get stripped.
 
+</Card>
 ### Golem Rotation
 <Video youtube="" caption=""/>
 
