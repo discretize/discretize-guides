@@ -39,8 +39,7 @@ record:
       name: Jetrell
       specialization: Soulbeast
 long_description: ""
-description: I'd like to know more about that special consultant, but this
-  situation is deteriorating even faster than I expected.
+description: Wait! you can't slime me to death. I'm your creator! Aaaah!
 ---
 
 <Grid>
