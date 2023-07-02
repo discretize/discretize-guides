@@ -1,24 +1,24 @@
 ---
-title: Power Daredevil
 hidden: false
 archive: false
-rating: Other
-role: Power Damage
-profession: Thief
 specialization: Daredevil
-conditions:
-  - name: Vulnerability
-    uptime: 5 stacks
-code: '[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 2
   - 2
   - 4
-date: '2023-04-04T17:39:39.538Z'
+date: "2023-07-02T10:00:29.998Z "
+title: Power Daredevil
+rating: Other
+role: Power Damage
+profession: Thief
+conditions:
+  - name: Vulnerability
+    uptime: 5 stacks
 ---
-
+ 
 <Warning>
 <Specialization name="Daredevil" text="Power Daredevil"/> is an incredibly strong build to play in T4 fractals and is a great build to swap to if you play <BuildLink build="Condi Specter" specialization="Specter"/> in CMs. In T4s recognising when to swap between <Specialization name="Daredevil" text="Power Daredevil"/> and <Specialization name="Specter" text="Condi Specter"/> will be a massive gain to your team and well worth the extra effort, making thief a very rewarding class to play!
 </Warning>
@@ -53,10 +53,10 @@ With <Skill name="Signet of Agility"/>, you will be critcapped even without the 
 
 <Grid>
 <GridItem sm="7">
-
+### Traits
 <Traits traits1="Deadly Arts" traits1Selected="Dagger Training, Revealed Training, Executioner" traits2="Critical Strikes" traits2Selected="Twin Fangs, Practiced Tolerance, No Quarter" traits3="Daredevil" traits3Selected="Marauders Resilience, Havoc Specialist, Bounding Dodger"/>
 
-<Card title="Alternative traits">
+### Situational Traits
 
 |                                           |                                                                                                                             |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -68,15 +68,11 @@ If no one in your party can boonrip when the <Instability name="No Pain, No Gain
 
 <Traits unembossed traits1="Trickery" traits1Id="44" traits1SelectedIds="1163,1277,1158"/>
 
-<Information>
+<Warning>
 
-**Note: this is kind of a meme way to deal with the instability and there are better options!**
+**This is a last resort to deal with the instability and there are better options!**
 
-</Information>
-
-</Card>
-
-<Card title="CC skills">
+</Warning>
 
 |                     |                                                       |
 | ------------------- | ----------------------------------------------------- |
@@ -85,15 +81,16 @@ If no one in your party can boonrip when the <Instability name="No Pain, No Gain
 | <Skill id="13057"/> | 300 Defiance bar damage                               |
 | <Skill id="13012"/> | 200 Defiance bar damage (260 with <Item id="24639"/>) |
 
-</Card>
+### T4 Skips
+<Video youtube="Alpgs_GaZV0"/>
 
 </GridItem>
 
 <GridItem sm="5">
 
-<Card title="Alternative skills">
+### Situational Skills
 
-Heal skills:
+**Heal skills:**
 
 |                                            |                                                      |
 | ------------------------------------------ | ---------------------------------------------------- |
@@ -102,14 +99,14 @@ Heal skills:
 | <Skill id="13021" size="big" disableText/> | Additional mobility.                                 |
 | <Skill id="30400" size="big" disableText/> | Good for skips where additional endurance is needed. |
 
-3rd utility skill:
+**3rd utility skill:**
 
 |                                            |                                                                                         |
 | ------------------------------------------ | --------------------------------------------------------------------------------------- |
 | <Skill id="13057" size="big" disableText/> | Good for short phases for additional burst as well as being a CC skill.                 |
 | <Skill id="13062" size="big" disableText/> | With this skill you are crit capped without the flanking bonus from <Trait id="1268"/>. |
 
-Elite skills:
+**Elite skills:**
 
 |                                            |                                                                                          |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -117,9 +114,7 @@ Elite skills:
 | <Skill id="13082" size="big" disableText/> | Additional personal DPS.                                                                 |
 | <Skill id="13132" size="big" disableText/> | Amazing crowd control skill. 150 CC per party member on a relatively low coolddown.      |
 
-</Card>
-
-<Card title="Usefull skills for skips">
+**Skills for skips**
 
 |                                            |                                                                                                                     |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -133,16 +128,22 @@ Elite skills:
 | <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                                         |
 | <Skill id="13015" size="big" disableText/> | 900 range shadowstep. When used will swap to <Skill id="13128"/>, allowing you to return to your original position. |
 
-</Card>
-
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Rotation / Skill Usage"/>
 
-<Grid>
-<GridItem sm="7">
-<Card title="Rotation">
+### Notes
+
+Staff 5 <Skill id="30597"/> is worth using if you can hit 4 or more mobs at once. Especially since staff autoattacks and <Skill id="29911"/> can only hit 3 targets. So on big groups of trash mobs you should just spam <Skill id="30597"/> and then finish them with <Skill id="13085"/>.
+
+Another amazing shortbow skill is <Skill id="13041"/> (Shortbow 2). It is a blast finisher with a low initiative cost. Use it to blast <Boon name="Might"/> and <Effect name="Stealth"/> with fire and smoke fields respectively.
+
+Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
+
+Although <Specialization name="Daredevil"/> doesn't have access to <Effect name="Superspeed"/> by default. You can use a template with <Item id="88118"/>, <Item id="85244"/> or <Item id="49940"/> can be used to execute even more skips for your party in T4s.
+
+### Rotation
 
 ## Precast:
 
@@ -158,7 +159,7 @@ Blast might with <Skill id="13041"/>. Cast <Skill id="13037"/>, <Skill id="13055
 6. <Skill id="30693"/>
 7. <Skill id="29911"/> 2x (Staff 2)
 
-**Burst 1:** When you have _one bar of Endurance_ and **no** <Skill id="55031"/> (F1)
+**Burst 1:** When you have _one bar of Endurance_ and **no** <Skill id="13014"/> (F1)
 
 1. Dodge
 2. <Skill id="29911"/> (Staff 2)
@@ -169,9 +170,9 @@ Blast might with <Skill id="13041"/>. Cast <Skill id="13037"/>, <Skill id="13055
 7. <Skill id="30693"/>
 8. <Skill id="29911"/> 2x (Staff 2)
 
-**Burst 2:** When you have _no Endurance_ **but have** <Skill id="55031"/> (F1)
+**Burst 2:** When you have _no Endurance_ **but have** <Skill id="13014"/> (F1)
 
-1. <Skill id="55031"/> (F1)
+1. <Skill id="13014"/> (F1)
 2. Dodge
 3. <Skill id="29911"/> (Staff 2)
 4. <Skill id="13046"/> (**during** Staff 2)
@@ -189,23 +190,3 @@ Blast might with <Skill id="13041"/>. Cast <Skill id="13037"/>, <Skill id="13055
 3. <Skill id="29911"/> (Staff 2) (Do it **2x** if you get max Initiative while you are waiting for <Skill id="13046"/>)
 
 You can also activate <Skill id="13046"/> to burst for the last few attacks of a fight.
-
-</Card>
-</GridItem>
-
-<GridItem sm="5">
-<Card title="Tips">
-
-Staff 5 <Skill id="30597"/> is worth using if you can hit 4 or more mobs at once. Especially since staff autoattacks and <Skill id="29911"/> can only hit 3 targets. So on big groups of trash mobs you should just spam <Skill id="30597"/> and then finish them with <Skill id="13085"/>.
-
-Another amazing shortbow skill is <Skill id="13041"/> (Shortbow 2). It is a blast finisher with a low initiative cost. Use it to blast <Boon name="Might"/> and <Effect name="Stealth"/> with fire and smoke fields respectively.
-
-Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
-
-Although <Specialization name="Daredevil"/> doesn't have access to <Effect name="Superspeed"/> by default. You can use a template with <Item id="88118"/>, <Item id="85244"/> or <Item id="49940"/> can be used to execute even more skips for your party in T4s.
-
-<Video title="Thief Skips T4s" youtube="Alpgs_GaZV0"/>
-
-</Card>
-</GridItem>
-</Grid>
