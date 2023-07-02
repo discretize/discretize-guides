@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: true
 specialization: Specter
 code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-04-13T19:14:59.700Z "
+date: "2023-07-02T10:09:31.530Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -34,7 +34,7 @@ conditions:
   - name: Torment
 cmGuide: ""
 ---
-
+ 
 <Advanced>
 <Warning>
 <Specialization text="Condi Specter" name="Specter"/> is a very strong build, especially in fractal CMs. However, like all condi thief builds it does suffer from a lack of cleave damage, which is important in T4s. We suggest that you also consider gearing <BuildLink build="Power Daredevil" specialization="Daredevil"/> to swap to on certain sections of T4 fractals where cleave is important and power damage is more suited to the boss. By swapping between both builds and also learning skips, you can carry your party and vastly speed up a fractal clear.
@@ -100,8 +100,8 @@ It's recommended to have a short bow for additional movement during downtime and
 
 <Grid>
 <GridItem sm="7">
-<Card title="Traits">
-<Traits unembossed traits1="Trickery" traits1Selected="Thrill of the Crime,Pressure Striking,Quick Pockets" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Specter" traits3Selected="Consume Shadows,Larcenous Torment,Strength of Shadows"/>
+### Traits
+<Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Pressure Striking,Quick Pockets" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Specter" traits3Selected="Consume Shadows,Larcenous Torment,Strength of Shadows"/>
 
 ### No Pain, No Gain Variant
 
@@ -129,12 +129,22 @@ This build can maintain <Boon name="Alacrity"/> solo. You will need to adjust yo
 <Traits traits1="Specter" traits1Selected="Consume Shadows,Traversing Dusk,Strength of Shadows" unembossed/>
 <Skills heal="Well of Gloom" utility1="Well of Bounty" utility2="Well of Sorrow" utility3="Spider Venom" elite="Basilisk Venom" unembossed/>
 </Advanced>
+### Defiance Bar Damage
 
-</Card>
+| Skill               | Damage                                                 |
+| ------------------- | ------------------------------------------------------ |
+| <Skill id="13132"/> | 150 Defiance bar damage per ally (up to 750 CC).       |
+| <Skill id="63275"/> | 450 Defiance bar damage.                               |
+| <Skill id="63155"/> | Mind Shock (skill 5) does 150 Defiance bar damage.     |
+| <Skill id="13020"/> | 150 Defiance bar damage.                               |
+| <Skill id="13012"/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
+| <Skill id="13019"/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
+| <Skill id="13093"/> | <Condition name="Immobile"/> 50/s Defiance bar damage. |
+
 </GridItem>
 <GridItem sm="5">
 
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                       |                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -144,10 +154,8 @@ This build can maintain <Boon name="Alacrity"/> solo. You will need to adjust yo
 | <Skill id="13020" size="big" disableText/>            | Taken over <Skill name="Prepare Thousand Needles"/> when extra CC is needed (particularly useful on MAMA).                                   |
 | <Skill id="13082" size="big" disableText/>            | Taken for extra personal DPS, when CC isn't needed. Can also be precasted on the mistlock before swapping to <Skill name="Basilisk Venom"/>, |
 
-</Card>
-
 <Advanced>
-<Card title="Useful skills for skips">
+**Useful Skills for Skips**
 
 |                                            |                                                                                                           |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -160,23 +168,7 @@ This build can maintain <Boon name="Alacrity"/> solo. You will need to adjust yo
 | <Skill id="13025" size="big" disableText/> | 900 range shadowstep, useful for some skips.                                                              |
 | <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                               |
 
-</Card>
 </Advanced>
-
-<Card title="CC Skills">
-
-|                                            |                                                        |
-| ------------------------------------------ | ------------------------------------------------------ |
-| <Skill id="13132" size="big" disableText/> | 150 Defiance bar damage per ally (up to 750 CC).       |
-| <Skill id="63275" size="big" disableText/> | 450 Defiance bar damage.                               |
-| <Skill id="63155" size="big" disableText/> | Mind Shock (skill 5) does 150 Defiance bar damage.     |
-| <Skill id="13020" size="big" disableText/> | 150 Defiance bar damage.                               |
-| <Skill id="13012" size="big" disableText/> | 200 Defiance bar damage (260 with <Item id="24639"/>). |
-| <Skill id="13019" size="big" disableText/> | <Condition name="Crippled"/> 15/s Defiance bar damage. |
-| <Skill id="13093" size="big" disableText/> | <Condition name="Immobile"/> 50/s Defiance bar damage. |
-
-</Card>
-
 </GridItem>
 </Grid>
 
@@ -187,7 +179,7 @@ This build can maintain <Boon name="Alacrity"/> solo. You will need to adjust yo
 
 <Beginner>
 
-<Card title="Step-by-Step Rotation">
+### Step-by-Step Rotation
 
 **Step 1: Scepter 3 and F1**
 
@@ -229,8 +221,64 @@ Lastly, you have <Skill name="Prepare Thousand Needles"/>.
 - Use it off-cooldown unless you know the boss will move soon. You can place it on the boss's location before the boss becomes attackable. The cooldown will start when you first place it, not when you trigger it.
 - Due to its stationary nature, this skill can easily get wasted on bosses that move around a lot. You can consider <Skill name="Devourer Venom"/> as an alternative to enemies that move around a lot. In that case, use it like the other 2 venoms in step 3.
 
-</Card>
+</Beginner>
 
+<Advanced>
+### Rotation
+
+There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Trait name="Quick Pockets"/> and <Item id="24609"/> as often as possible.
+
+You should be casting your <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
+
+On Scepter/Dagger you want to use:
+
+- <Skill name="Twilight Combo"/> (Scepter 3)
+- <Skill name="Shadow Bolt"/>, <Skill name="Double Bolt"/>, <Skill name="Triple Bolt"/> (Auto attack chain)
+
+You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
+
+In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
+
+- <Skill name="Mind Shock"/> (SHroud 5)
+- <Skill name="Eternal Night"/> (Shroud 4)
+- <Skill name="Grasping Shadows"/> (Shroud 2)
+- <Skill name="Haunt Shot"/> (SHroud 1)
+
+</Advanced>
+
+</GridItem>
+
+<GridItem sm="5">
+
+<Beginner>
+### Step-by-Step Video
+
+This video shows the step-by-step approach to the rotation listed on the left.
+
+<Video youtube="HPwciFIKlAA" caption="by Ascers"/>
+
+</Beginner>
+
+### Golem Rotation
+
+<Beginner>
+
+This video shows the full golem rotation. It optimizes the use of <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
+
+</Beginner>
+
+<Video youtube="7ZjQJmms_Dw" caption="by Incera"/>
+<Advanced>
+<Card title="Precasting">
+
+All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA, and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
+
+- On 100CM, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
+- Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
+
+</Card>
+</Advanced>
+<Beginner>
 <Card title="Improving Further">
 
 Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
@@ -243,67 +291,6 @@ The additional steps are:
 - You can slightly shift the priority of certain skills to maximize their usage like casting <Skill name="Siphon"/> as soon as you go below 9 Initiative instead of when you run out of it.
 
 </Card>
-
 </Beginner>
-
-<Advanced>
-<Card title="Rotation">
-
-There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Trait name="Quick Pockets"/> and <Item id="24609"/> as often as possible.
-
-You should be casting your <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
-
-On Scepter/Dagger you want to use:
-
-- <Skill name="Twilight Combo"/>
-- <Skill name="Shadow Bolt"/>, <Skill name="Double Bolt"/>, <Skill name="Triple Bolt"/>
-
-You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
-
-In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
-
-- Mind Shock (Skill 5)
-- Eternal Night (Skill 4)
-- Grasping Shadows (Skill 2)
-- Haunt Shot (Skill 1)
-
-</Card>
-</Advanced>
-
-</GridItem>
-
-<GridItem sm="5">
-
-<Beginner>
-<Card title="Step-by-Step Video">
-
-This video shows the step-by-step approach to the rotation listed on the left.
-
-<Video youtube="HPwciFIKlAA" caption="by Ascers"/>
-
-</Card>
-</Beginner>
-
-<Card title="Golem rotation">
-
-<Beginner>
-
-This video shows the full golem rotation. It optimizes the use of <Item type="Sigil" name="Doom"/> and <Trait name="Quick Pockets"/>.
-
-</Beginner>
-
-<Video youtube="7ZjQJmms_Dw" caption="by Incera"/>
-</Card>
-
-<Advanced>
-<Card title="Precasting">
-
-All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown. This is possible on Skorvald, Artsariiv, Arkk, MAMA, and Ensolyss with the use of a <Item name="White Mantle Portal Device"/>, or on Siax without. It is also possible on the Sorrowful Spellcaster (Light & Dark Ai), but with a 1/4 chance of success.
-
-- On 100CM, make sure to precast venoms on your <Skill id="13082"/> minions, as every boon and special ability effect currently on you will be stripped upon starting the encounter.
-- Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts on the _Mistlock Singularity_.
-
-</Card>
-</Advanced>
 </GridItem>
 </Grid>
