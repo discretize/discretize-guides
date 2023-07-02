@@ -1,12 +1,24 @@
 ---
-title: Condi Scourge
 hidden: false
 archive: false
+author: "Discord: Amerikajinn#9784"
+specialization: Scourge
+boons:
+  - name: Might
+    uptime: 20 stacks
+    variant: party
+code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 3
+  - 4
+  - 2
+  - 3
+date: "2023-07-02T09:41:41.449Z "
+title: Condi Scourge
 rating: Good
 role: Condi Damage
-author: 'Discord: Amerikajinn#9784'
 profession: Necromancer
-specialization: Scourge
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -14,21 +26,9 @@ conditions:
   - name: Bleeding
   - name: Burning
   - name: Poisoned
-boons:
-  - name: Might
-    uptime: 20 stacks
-    variant: party
-code: '[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
-classification:
-  - 2
-  - 3
-  - 4
-  - 2
-  - 3
-date: '2023-04-04T10:42:43.962Z'
+cmGuide: ""
 ---
-
+ 
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
 The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
@@ -58,36 +58,32 @@ Situational Runes:
 
 <Grid>
 <GridItem sm="7">
+### Traits
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
-<Card title="Defiance Bar Damage">
-
-|                                                                        |                                                                                            |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| <Skill name="Oppressive Collapse" size="big" disableText/>             | 200 damage with <Control name="Knockdown"/>                                                |
-| <Skill name="Garish Pillar" size="big" disableText/>                   | 200 damage with <Condition name="Fear"/>                                                   |
-| <Skill name="Wail of Doom" size="big" disableText/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
-| <Skill name="Charge" profession="necromancer" size="big" disableText/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
-| <Skill name="Spectral Grasp" size="big" disableText/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
-
-</Card>
-<Card title="Blood Magic">
+### Situational Traits
 
 Running Blood Magic instead of Soul Reaping can be an option if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
 
-<Traits unembossed traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
+<Traits traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
 <Warning>
 Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn skill <Skill name="Wail of Doom"/>.
 </Warning>
-</Card>
+
+### Defiance Bar Damage
+
+|                                                                        |                                                                                            |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <Skill name="Oppressive Collapse"/>             | 200 damage with <Control name="Knockdown"/>                                                |
+| <Skill name="Garish Pillar"/>                   | 200 damage with <Condition name="Fear"/>                                                   |
+| <Skill name="Wail of Doom"/>                    | 200 damage with <Control name="Daze"/> (300 if traited with <Trait name="Banshees Wail"/>) |
+| <Skill name="Charge" profession="necromancer"t/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
+| <Skill name="Spectral Grasp"/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
+
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
-<Warning>
-  <Skill name="Spectral Grasp" /> will replace <Skill name="Epidemic" /> on
-  any fight that is single target or cleave is not needed.
-</Warning>
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -103,15 +99,12 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Signet of Vampirism" size="big" disableText/>    | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>.                                                                                                                                       |
 | <Skill name="Sand Swell" size="big" disableText/>             | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                                                                                                                    |
 
-</Card>
 </GridItem>
 </Grid>
 
 <Divider text="Skill Usage"/>
 
-<Grid>
-<GridItem sm="7">
-<Card title="Skill Prioritization">
+### Skill Priority
 
 **Precasting:**
 
@@ -139,12 +132,7 @@ While you perform the above prioritization, you'll be using your shade skills to
 2. <Skill name="Sand Cascade" />
 3. <Skill name="Garish Pillar" />
 
-</Card>
-
-</GridItem>
-
-<GridItem sm="5">
-<Card title="Notes:">
+### Notes
 
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
@@ -152,8 +140,3 @@ While you perform the above prioritization, you'll be using your shade skills to
 - Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within the range of your shade abilities.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
-
-</Card>
-</GridItem>
-
-</Grid>
