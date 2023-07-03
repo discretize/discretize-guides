@@ -32,7 +32,7 @@ classification:
   - 4
   - 1
   - 3
-date: "2023-07-03T17:43:22.753Z "
+date: "2023-02-05T17:43:22.753Z "
 ---
  
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>.
