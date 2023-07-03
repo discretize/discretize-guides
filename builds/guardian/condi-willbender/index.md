@@ -15,7 +15,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2023-06-03T23:30:59.685Z "
+date: "2023-07-28T23:30:59.685Z "
 title: Condi Willbender
 rating: Good
 role: Condi Damage
