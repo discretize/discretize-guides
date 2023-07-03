@@ -1,26 +1,26 @@
 ---
-title: Power Catalyst
 hidden: false
 archive: false
-rating: Good
-role: Power Damage
-profession: Elementalist
 specialization: Catalyst
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
 boons:
   - name: Might
     uptime: 9 stacks
     variant: party
-code: '[&DQYfHSkbQyb+GgAAUAEAAPgaAAC+AQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQYfHSkbQyb+GgAAUAEAAPgaAAC+AQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: '2023-04-04'
+date: "2023-06-28T18:02:40.318Z "
+title: Power Catalyst
+rating: Good
+role: Power Damage
+profession: Elementalist
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -38,6 +38,12 @@ This build has one of the harder rotations in the game but is very enjoyable to 
 
 Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
 
+Extra weapons that can be used are:
+- Hammers with <Item name="Night" type="Sigil"/>
+- Hammers with <Item name="Serpent Slaying" type="Sigil"/>
+- Hammers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
+- A staff to precast <Skill name="Meteor Shower"/> on some encounters
+- Weapons to precast <Boon name="Might"/>
 </Character>
 </CharacterWithAr>
 
@@ -47,47 +53,37 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
   
 <GridItem sm="6">
 
-<Card title="Swap Weapons">
-
-- Hammers with <Item name="Night" type="Sigil"/>
-- Hammers with <Item name="Serpent Slaying" type="Sigil"/>
-- Hammers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-- A staff to precast <Skill name="Meteor Shower"/> on some encounters
-- Weapons to precast <Boon name="Might"/>
-
-</Card>
+### Traits
 
 <Traits traits1="Fire" traits1Selected="Burning Precision,Power Overwhelming,Persisting Flames" traits2="Air" traits2Selected="Ferocious Winds,Stormsoul,Bolt to the Heart" traits3="Catalyst" traits3Selected="Vicious Empowerment,Empowering Auras,Empowered Empowerment"/>
 
-<Card title="Situational Traits">
+#### Situational Traits
 
 |                                                           |                                                                                                                                                                                                                                   |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="One with Air" size="big" disableText/>       | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="Executioner Axe Toy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                 |
 | <Trait name="Spectacular Sphere" size="big" disableText/> | If your group has absolutely no <Boon name="Might"/> from other sources, you can also run this to provide extra <Boon name="Might"/> as well as <Boon name="Fury"/>. However, this comes at a significant DPS loss of around 10%. |
 
-</Card>
 
-<Card title="Defiance Bar Damage">
-
-|                                                                                                                        |                                          |
+### Defiance Bar Damage
+| Skill | Damage |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <Skill name="Wind Storm" size="big" disableText/>                                                                      | 200 with <Control name="Knockdown"/>     |
-| <Skill name="Shock Blast" size="big" disableText/>                                                                     | 150 with <Control name="Stun"/>          |
-| <Skill name="Wind Blast" size="big" disableText/>                                                                      | 232 with <Control name="Launch"/>        |
-| <Skill name="Deep Freeze" size="big" disableText/>                                                                     | 300 with <Control name="Stun"/>          |
-| <Skill id="5547" size="big" disableText/>                                                                              | 200 with <Control name="Daze"/>          |
-| <Skill id="5747" size="big" disableText/>                                                                              | 150 with <Control name="Pull"/>          |
-| <Skill name="Chilling Crack" size="big" disableText/> <br/> <Skill name="Rain of Blows" size="big" disableText/> <br/> | 33 / s with <Condition name="Chilled"/>  |
-| <Skill name="Crescent Wind" size="big" disableText/>                                                                   | 20 / s with <Condition name="Weakness"/> |
+| <Skill name="Wind Storm"/>                                                                      | 200 with <Control name="Knockdown"/>     |
+| <Skill name="Shock Blast"/>                                                                     | 150 with <Control name="Stun"/>          |
+| <Skill name="Wind Blast"/>                                                                      | 232 with <Control name="Launch"/>        |
+| <Skill name="Deep Freeze"/>                                                                     | 300 with <Control name="Stun"/>          |
+| <Skill id="5547"/>                                                                              | 200 with <Control name="Daze"/>          |
+| <Skill id="5747"t/>                                                                              | 150 with <Control name="Pull"/>          |
+| <Skill name="Chilling Crack"/> <br/> <Skill name="Rain of Blows"/> <br/> | 33 / s with <Condition name="Chilled"/>  |
+| <Skill name="Crescent Wind"t/>                                                                   | 20 / s with <Condition name="Weakness"/> |
 
-</Card>
+
 
 </GridItem>
 
 <GridItem sm="6">
 
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                                   |                                                                                                                                                                  |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,18 +106,12 @@ Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name=
 | <Skill name="Arcane Wave" size="big" disableText/>                | Useful to generate <Boon name="Might"/> with a fire field.                                                                                                       |
 | <Skill name="Invigorating Air" size="big" disableText/>           | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.  |
 
-</Card>
-
 </GridItem>
 </Grid>
 
 <Divider text="Skill Explanation"/>
 
-<Grid>
-
-<GridItem sm="6">
-
-<Card title="Jade Spheres">
+### Jade Spheres
 
 As a Catalyst, your unique class mechanic is the energy system and your Jade Sphere.
 
@@ -136,9 +126,7 @@ Certain traits interact with your sphere, namely:
 
 - <Trait name="Sphere Specialist"/> doubles the duration of the boons applied, making it possible to provide higher boon uptime when traited with <Trait name="Spectacular Sphere"/>.
 
-</Card>
-
-<Card title="Hammer 3">
+### Hammer Skills
 
 The unique mechanic for the Hammer weapon set is the third skill. Mastering it is very important for the rotation.
 
@@ -163,23 +151,6 @@ Your attunement rotation will try to maximize uptime on the offensive buffs from
 
 You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> after the first loop and try to minimize downtime before getting back your offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/>.
 
-</Card>
-<Card title="Empowering Auras">
-
-<Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 3% outgoing damage buff capping at 5 stacks.
-
-Traits that interact with Elemental Empowerment stacks are:
-
-- <Trait name="Empowering Auras"/> gives you a stack whenever you gain an aura.
-- <Trait name="Elemental Epitome"/> provides you an aura every time you combo. Actively helping to blast <Boon name="Might"/> at the Singularity is therefore even more beneficial, even if you just do it for your DPS.
-
-</Card>
-
-</GridItem>
-<GridItem sm="6">
-
-<Card title="Hammer Skills">
-
 All of your Hammer skills are useful in some situations and all except <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
 
 If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>.
@@ -192,19 +163,13 @@ Some of them bring nice extra utility, like:
 
 This can sometimes be quite handy, however, all of these skills are used in the rotation so you will not want to delay them too long usually.
 
-</Card>
-
-<Card title="Utility Skills">
+### Utility Skills
 
 As a Catalyst, you gain access to augments. You will be using two of them by default, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. Other augments listed in the situational skills section can also be useful.
 
 Augments grant you a buff and gain a bonus effect when cast near their corresponding sphere. This is usually either a duration increase for the buff or a cooldown decrease for the skill.
 
 For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when cast near a <Skill id="63458"/>. Therefore, you usually want to use them in the corresponding attunement.
-
-</Card>
-
-<Card title="Conjures">
 
 Conjures are specific to the Elementalist class.
 
@@ -217,9 +182,14 @@ The most common Conjure you will always run is <Skill name="Conjure Fiery Greats
 - If you pick up the FGS in the middle of your rotation, <Skill name="Fiery Rush"/> usually offers more damage than auto-attacking on your regular weapon set. It also rushes you to the enemy and is therefore great for mobility.
 - <Skill name="Fiery Whirl"/> is also great for mobility. It also does a decent amount of damage when used with the Special Action Key to get multiple hits on Arkk.
 
-</Card>
+### Trait Interactions
 
-<Card title="Elemental Empowerment">
+<Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 3% outgoing damage buff capping at 5 stacks.
+
+Traits that interact with Elemental Empowerment stacks are:
+
+- <Trait name="Empowering Auras"/> gives you a stack whenever you gain an aura.
+- <Trait name="Elemental Epitome"/> provides you an aura every time you combo. Actively helping to blast <Boon name="Might"/> at the Singularity is therefore even more beneficial, even if you just do it for your DPS.
 
 <Trait name="Elemental Empowerment"/> is a buff unique to Catalyst. It grants a 1% bonus to all stats capping at 10 stacks.
 
@@ -230,17 +200,16 @@ Traits that interact with Elemental Empowerment stacks are:
 - <Trait name="Elemental Epitome"/> gives 1 stack every time you gain an aura and grants an aura when doing a combo.
 - <Trait name="Empowered Empowerment"/> doubles the effectiveness at 10 stacks (DPS build only).
 
-</Card>
-
-</GridItem>
-</Grid>
-
 <Divider text="Rotation / Skill usage"/>
+
+<Information>
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+</Information>
 
 <Grid>
 <GridItem xs="12" sm="7">
 
-<Card title="Step-by-Step Rotation">
+### Step-by-Step Rotation
 
 This is a step-by-step explanation of the Catalyst rotation. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
 
@@ -300,16 +269,9 @@ In fractals, you will mostly use Conjures to precast skills at the start of the 
 
 In a golem situation (long single phase, no <Effect name="Exposed"/> to take advantage of), the highest damage is using <Skill name="Conjure Fiery Greatsword"/> skill 4 and 5 in <Skill name="Earth Attunement"/> instead of some <Skill name="Stonestrike"/>.
 
-</Card>
-
 </GridItem>
 
 <GridItem xs="12" sm="5">
-
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-</Card>
 
 <Card title="Precasting">
 
@@ -331,12 +293,10 @@ Just make sure that both templates use the same traits to not get the status to 
 
 </Card>
 
-<Card title="Extra Info">
+### Extra Info
 
 - One possible way of adapting your rotation to your phase timing is skipping auto-attacks in <Skill name="Earth Attunement"/> to get to your big damaging skills in <Skill name="Air Attunement"/> like <Skill name="Grand Finale"/> faster if the phase is about to end.
 - Try to move away from your target early if you know it will go <Effect name="Invulnerability"/> like MAMA. Hitting an <Effect name="Invulnerability"/> target with your Hammer 3 orbs will make them disappear which can confuse your rotation as you will not be able to cast <Skill name="Grand Finale"/> unless the orb corresponding to the attunement you are in is active. You will also lose important damage buffs this way. You can reset your rotation from this happening by using <Skill name="Grand Finale"/> in <Skill name="Earth Attunement"/> if you notice it early enough so you can start over by activating <Skill name="Crescent Wind"/> in <Skill name="Air Attunement"/>.
-
-</Card>
 
 </GridItem>
 </Grid>

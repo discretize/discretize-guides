@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: '2023-03-31T17:48:46.200Z'
+date: "2023-04-20T11:43:41.600Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -300,7 +300,7 @@ Finish it with <Skill name="electrowhirl" /> and <Skill name="shrapnelgrenade" /
 <CMInformation title="Phase 2">
 ----
 Share <Boon name="Quickness" /> with <Skill name="medicgyro" />.<br/>
-In <Effect name="Exposed" />, burst with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="poisongrenade" /> and <Skill name="poisongrenade" /> into <Skill name="shreddergyro" />.
+In <Effect name="Exposed" />, burst with <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" />, <Skill name="poisongrenade" /> and <Skill name="thunderclap" profession="engineer" /> into <Skill name="shreddergyro" />.
 - Use <Skill name="throwmine" /> and <Skill name="minefield" /> into <Skill name="detonate"/> whenever possible.
 
 Cast another <Skill name="electrowhirl" />, <Skill name="shrapnelgrenade" /> and if needed <Skill name="freezegrenade" />.<br/>

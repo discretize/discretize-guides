@@ -1,7 +1,7 @@
 ---
 title: New Player Guide
-date: '2022-08-10T22:09:13.528Z'
-image: ./images/lobby.jpg
+date: "2022-08-10T22:09:13.528Z"
+image: images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
 ---
@@ -358,7 +358,7 @@ Generally, you **always** want to stick together as a group. The reason is that 
 </GridItem>
 
 <GridItem>
-<GifPlayer caption="Pulling mobs by using Line of Sight" url="https://cdn.discordapp.com/attachments/757704460582649886/960847967101804564/lospull.webm"/>
+<GifPlayer caption="Pulling mobs by using Line of Sight" url="https://pub-80c25841bf1e4cbda246ab1b42798500.r2.dev/lospull.webm"/>
 </GridItem>
 </Grid>
 

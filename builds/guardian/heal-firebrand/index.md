@@ -1,13 +1,8 @@
 ---
-title: Heal Firebrand
 hidden: false
 archive: false
-rating: Good
-role: Support
 author: Ascers.6082
-profession: Guardian
 specialization: Firebrand
-conditions: []
 boons:
   - name: Quickness
     uptime: 150%
@@ -30,17 +25,22 @@ boons:
   - name: Resolution
     uptime: 78%
     variant: group
-code: '[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: pug
+code: "[&DQExJS4rPjZLFwAAehYAAAAAAAAWAQAAiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: '2023-04-04T11:55:35.374Z'
+date: "2023-06-03T23:39:55.943Z "
+title: Heal Firebrand
+rating: Good
+role: Support
+profession: Guardian
+conditions: []
+cmGuide: pug
 ---
-
+  
 <Warning>
 
 This build is very common in PuGs. More info about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
@@ -63,7 +63,9 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 </Character>
 </CharacterWithAr> 
 <Divider text="Default Build"/>
-
+<Grid>
+<GridItem>
+### Traits
 <Traits
   traits1="Virtues"
   traits1Selected="Master of Consecrations, Absolute Resolve, Battle Presence"
@@ -72,12 +74,24 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits3="Firebrand"
   traits3Selected="Liberators Vow, Weighty Terms, Stoic Demeanor"
 />
+</GridItem>
+<GridItem>
+<Card title="Situational Traits">
 
-<Divider text="Situational Traits and Skills"/>
+|                                                              |                                                                                                                                               |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Right-Hand Strength" size="big" disableText/>   | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/> while running the Radiance trait line. |
+| <Trait name="Pure of Heart" size="big" disableText/>         | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds.                           |
+| <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                                                  |
+
+</Card>
+</GridItem>
+</Grid>
+<Divider text="Situational Skills"/>
 
 <Grid>
 <GridItem sm="6">
-<Card title="Common Utility Skills">
+### Common Utility Skills
 
 |                                                           |                                                                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,13 +104,11 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Hallowed Ground" size="big" disableText/>    | Can be used for extra <Boon name="Stability"/>. This skill provides more <Boon name="Stability"/> on a stationary target than <Skill name="Stand Your Ground"/>.                              |
 | <Skill name="Wall of Reflection" size="big" disableText/> | Stationary reflect for 8 seconds.                                                                                                                                                             |
 
-</Card>
-
 </GridItem>
 
 <GridItem sm="6">
 
-<Card title="Elite Skills">
+### Elite Skills
 
 |                                                              |                                                                                                                                                                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -104,9 +116,8 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Feel My Wrath" size="big" disableText/>         | Use this if you otherwise struggle upkeeping <Boon name="Quickness"/> or <Boon name="Fury"/>.                                                                                                                |
 | <Skill name="Signet of Courage" size="big" disableText/>     | Good passive healing if neither of the other 2 skills are useful in a given situation.                                                                                                                       |
 
-</Card>
 
-<Card title="Less Common Utility Skills">
+### Less Common Utility Skills
 
 |                                                              |                                                                                                                                                                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -114,18 +125,6 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Judges Intervention" size="big" disableText/>   | 1200 range blink to an enemy. Mainly useful for skips.                                                                                                                                        |
 | <Skill name="Merciful Intervention" size="big" disableText/> | 1200 range blink to an ally. Can be used for skips to blink to a <Skill name="Sword of Justice"/>. Can also be taken to help allies who frequently down.                                      |
 | <Skill name="Purging Flames" size="big" disableText/>        | Burns enemies and cleanses conditions from allies within. Useful when conditions are inflicted multiple times in a short period of time but often inferior to <Skill name="Mantra of Lore"/>. |
-
-</Card>
-
-<Card title="Situational Traits">
-
-|                                                              |                                                                                                                                               |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Right-Hand Strength" size="big" disableText/>   | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/> while running the Radiance trait line. |
-| <Trait name="Pure of Heart" size="big" disableText/>         | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds.                           |
-| <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                                                  |
-
-</Card>
 
 </GridItem>
 
@@ -137,7 +136,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 <GridItem sm="6">
 
-<Card title="Axe/Shield">
+### Axe/Shield
 
 - <Skill name="Core Cleave" /> does decent damage even as a healer.
 - <Skill name="Symbol of Vengeance" /> places a symbol that will pulse <Boon name="Fury" />
@@ -150,11 +149,10 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   for quick CC or healing or can be channeled longer for negating projectiles. This
   skill will cancel other skills you are currently casting.
 
-</Card>
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Staff">
+### Staff
 
 - <Skill name="Bolt of Wrath" /> is rather weak but can be used to aggro enemies
   from range.
@@ -169,13 +167,11 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 - <Skill name="Line of Warding" /> is a very niche skill. This skill will cancel
   other skills you are currently casting.
 
-</Card>
-
 </GridItem>
 
 <GridItem sm="6">
 
-<Card title="Mace">
+### Mace
 
 - <Skill name="True Strike" /> does decent damage and heals when finishing the auto-attack
   chain.
@@ -186,12 +182,11 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   attack while channeling it. It can sometimes be useful to run into an attack on
   purpose while channeling this attack to trigger the <Boon name="Aegis" /> application.
 
-</Card>
 </GridItem>
 <GridItem sm="6">
-<Card title="CC Skills">
+### CC Skills
 
-|                                                                             |                                                                                     |
+| Skill                                                                       | Damage                                                                              |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <Skill name="Blazing Edge"/>                                                | 150 damage                                                                          |
 | <Skill name="Shield of Absorption"/>                                        | 150 damage                                                                          |
@@ -200,12 +195,11 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                                          |
 | <Skill name="Sanctuary"/>                                                   | 150/s damage for 5 (or 7 with Virtues) seconds,<br/> adding up to 750 (1050) damage |
 
-</Card>
 </GridItem>
 
 </Grid>
 
-<Card title="Tomes">
+### Tomes
 
 Activating a Tome will replace your weapon skills and grant you 5 skill usages in the Tome. You can also leave the Tome early though.
 
@@ -254,11 +248,12 @@ All Tomes are built similarly:
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
 - You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example, a 2nd reflect. However only do this when needed as you will not have access to the boons and healing your weapon skills provide.
 
-</Card>
 
 <Divider text="Providing Boons"/>
+<Grid>
 
-<Card title="Standard Boons">
+<GridItem sm="6">
+### Standard Boons
 
 - <Boon name="Quickness" /> will be provided by using <Skill name="Mantra of Solace" /> (which
   triggers <Trait name="Liberators Vow" /> every 7 seconds algning nicely with the recharge time of the skill with Alacrity and <Trait name="Weighty Terms"/>) and <Skill name="Mantra of Potence" />. You can use <Skill name="Mantra of Potence" /> down to 0 charges whenever you are stacked with your group.
@@ -277,27 +272,7 @@ All Tomes are built similarly:
 - Your main source of <Boon name="Protection"/> comes from <Skill name="Mantra of Solace"/>. You can use it whenever you need it for healing but make sure to use it often enough to trigger <Trait name="Liberator's Vow"/> for <Boon name="Quickness"/>. Some <Boon name="Protection"/> can be provided through <Skill name="Shield of Judgment"/>. <Skill name="Tome of Courage"/> offers some <Boon name="Protection"/> from Skill 5 as well but you do not want to use this Tome just for a small boost in <Boon name="Protection"/>.
 - <Boon name="Resolution" /> is provided through <Skill name="Mantra of Solace" /> and <Skill name="Mantra of Liberation" />. If you think you will not need all 3 charges for <Boon name="Stability" />, you can use <Skill name="Mantra of Liberation" /> down to 2 charges in order to to keep up permanent <Boon name="Resolution" /> for the group alongside <Skill name="Mantra of Solace" />.
 
-</Card>
-
-<Card title="Pre-Stacking Boons">
-
-- Provide a Fire Field if needed. <Skill name="Chapter 4: Scorched Aftermath"/> in <Skill name="Tome of Justice"/> provides a short Fire Field. <Skill name="Hallowed Ground"/> provides a longer Fire Field as well as extra <Boon name="Resolution"/> but has to be specifically slotted for pre-stacking.
-- <Skill name="Holy Strike" /> to blast <Boon name="Might" />.
-- <Skill name="Empower" /> and cast every equipped Mantra as often as you can during the cast.
-- <Skill name="Feel My Wrath" /> if you have it equipped.
-- <Skill name="Bane Signet" /> if you can start the fight within 10 seconds of usage.
-- Take the singularity.
-- <Skill name="Empower" /> and use <Skill name="Mantra of Potence" /> once during
-  this cast.
-- <Skill name="Symbol of Swiftness" /> on the way to the boss and swap to Axe before
-  the fight starts to place <Skill name="Symbol of Vengeance" />.
-
-</Card>
-
-<Grid>
-
-<GridItem sm="6">
-<Card title="Aegis">
+### Aegis
 
 - Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
 - <Skill name="Shield of Judgment" /> is your main accessible source of <Boon name="Aegis"/> unless you slot <Skill name="Advance"/>.
@@ -305,11 +280,22 @@ All Tomes are built similarly:
 - <Skill name="Advance" /> is the only instant-cast skill providing <Boon name="Aegis" /> when chosen and can be used while casting other skills to not get interrupted.
 - If Mace is equipped, <Skill name="Protectors Strike"/> also grants <Boon name="Aegis"/> when blocking an attack while channeling.
 
-</Card>
 </GridItem>
-
 <GridItem sm="6">
-<Card title="Stability">
+<Card title="Pre-Stacking Boons">
+
+- Provide a Fire Field if needed. <Skill name="Chapter 4: Scorched Aftermath"/> in <Skill name="Tome of Justice"/> provides a short Fire Field. <Skill name="Hallowed Ground"/> provides a longer Fire Field as well as extra <Boon name="Resolution"/> but has to be specifically slotted for pre-stacking.
+- <Skill name="Holy Strike" /> to blast <Boon name="Might" />.
+- <Skill name="Empower" /> and cast every equipped Mantra as often as you can during the cast.
+- <Skill name="Feel My Wrath" /> if you have it equipped.
+- Take the singularity.
+- <Skill name="Empower" /> and use <Skill name="Mantra of Potence" /> once during
+  this cast.
+- <Skill name="Symbol of Swiftness" /> on the way to the boss and swap to Axe before
+  the fight starts to place <Skill name="Symbol of Vengeance" />.
+
+</Card>
+### Stability
 
 - Correct application of <Boon name="Stability"/> requires knowledge of the encounters and which attacks and be negated with <Boon name="Stability"/> without taking too much damage.
 - Make sure to not apply too much <Boon name="Stability"/> at once. For example, if you use <Skill name="Stand Your Ground"/>, you will most likely not need to apply any more <Boon name="Stability"/> until the boon ends since it provides 5 stacks.
@@ -319,14 +305,12 @@ All Tomes are built similarly:
 - <Skill name="Tome of Courage" /> will also grant access to a very high amount of <Boon name="Stability" /> but is on a fairly long cooldown. Make sure to open the Tome ahead of time due to both the Tome and the skills within having a cast time.
 - Make sure to provide enough healing while in <Skill name="Tome of Courage"/> since it replaces your weapons skills. This can be achieved through dodges, utility skills, or pre-placed symbols.
 
-</Card>
 </GridItem>
-
 </Grid>
 
 <Divider text="Healing"/>
 
-<Card title="Sustained Healing">
+### Sustained Healing
 
 - Try to keep your group alive as well as you can through sustained healing and use your burst healing only when it is needed. Keep in mind that active damage mitigation through avoiding attacks or blocking them is very valuable and will help a lot more than a slight increase in healing numbers.
 - A lot of consistent healing comes from your symbols through <Trait name="Writ of Persistence"/>. Since you want to use <Skill name="Symbol of Vengeance"/> and <Skill name="Symbol of Swiftness"/> off-cooldown anyways to provide boons, This will give you a nice amount of healing through the entire fight. Same goes for <Skill name="Empower"/>.
@@ -334,9 +318,7 @@ All Tomes are built similarly:
 - If <Skill name="Mantra of Lore"/> is equipped, it will provide <Boon name="Regeneration"/> to your group so make sure to use it down to 2 charges whenever it goes back up to 3.
 - If Mace is equipped the auto-attacks will provide a good amount of healing and <Skill name="Symbol of Faith"/> will provide extra <Boon name="Regeneration"/>.
 
-</Card>
-
-<Card title="Burst Healing">
+### Burst Healing
 
 - For emergencies you have some smaller burst healing options as well
   as your <Skill name="Tome of Resolve" />.
@@ -351,17 +333,13 @@ All Tomes are built similarly:
   the healing does not need to be immediate you can use 2-5-4-1-2, if you need the
   instant burst healing you can use 5-4-2-1-1.
 
-</Card>
-
-<Card title="Condition Cleanse">
+### Condition Cleanse
 
 - If a lot of condition cleanse is needed you will most likely slot <Skill name="Mantra of Lore"/> which will then be your main reliable source of condition cleanse while also providing some extra <Boon name="Regeneration"/>.
 - Blasting Light Fields also causes area condition to cleanse. On Staff you can place <Skill name="Symbol of Swiftness"/> and blast it with <Skill name="Holy Strike"/>.
 - In <Skill name="Tome of Resolve" /> <Skill name="Chapter 2: Radiant Recovery"/> and <Skill name="Epilogue: Eternal Oasis"/> will cleanse conditions as well,
   however same as with burst healing this is often a last resort. When running Virtues,
   opening this Tome will also cleanse conditions.
-
-</Card>
 
 <Divider text="Videos"/>
 

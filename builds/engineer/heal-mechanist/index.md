@@ -1,16 +1,9 @@
 ---
-title: Heal Alacrity Mechanist
 hidden: false
 archive: false
-rating: Good
-role: Support
 author: Parpage.9867
-profession: Engineer
 specialization: Mechanist
 traits: []
-conditions:
-  - name: Vulnerability
-    uptime: 5 Stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -30,19 +23,26 @@ boons:
   - name: Protection
     variant: Party
     uptime: 100%
-code: '[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 2
   - 2
   - 1
   - 2
-date: '2023-04-04T13:59:24.184Z'
+date: "2023-06-02T18:17:21.973Z "
+title: Heal Alacrity Mechanist
+rating: Good
+role: Support
+profession: Engineer
+conditions:
+  - name: Vulnerability
+    uptime: 5 Stacks
 ---
 
 <Warning>
 
-This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/teamcomp101/). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities.
+This build is very common in PuGs. It is currently the best heal build to use in PuGs. More info about this can be found [here](/guides/teamcomp101/). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. 
 
 </Warning>
 
@@ -55,13 +55,17 @@ It offers a large of healing thanks to <Skill name="Med Kit"/>, <Skill name="Sup
 <CharacterWithAr> 
 <Character title="Heal Alacrity Mechanist" gear='{"attributes":{"profession":"Engineer","specialization":"Mechanist","data":{"Health":24782,"Armor":3140,"Power":2189,"Precision":1000,"Toughness":2022,"Vitality":1886,"Ferocity":0,"Condition Damage":750,"Expertise":0,"Concentration":1276,"Healing Power":1727,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1.0006666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Outgoing Healing":0.5535000000000001,"Effective Power":3776.0249999999996,"NonCrit Effective Power":3283.5,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":184221599.59185752,"Survivability":93656.12587283047,"Effective Healing":1410.7333500000002,"Healing":1410.7333500000002}},"armor":{"weight":"Medium","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Minstrel","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Minstrel","weapon1OffInfusionId":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":24615},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528},"skills":{"healId":5802,"utility1Id":"","utility2Id":5933,"utility3Id":63262,"eliteId":30800},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[394,1834,1916],[521,470,473],[2296,2276,2281]],"lines":[47,29,70]}}'>
 
-Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="boon duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces but make sure you are maintaining as close to 100% <Attribute name="Boon Duration"/> as possible. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 </CharacterWithAr>
 
-<Divider text="Default Build"/>
+<Divider text="Traits and Skills"/>
 
+### Traits
+
+<Grid>
+<GridItem sm="6">
 <Traits
   traits1="Inventions"
   traits1Selected="Over Shield, Soothing Detonation, Medical DIspersion Field"
@@ -71,29 +75,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits3Selected="Mech Arms: High-Impact Drivers, Mech Frame: Channeling Conduits, Mech Core: Barrier Engine"
 />
 
-<Divider text="Situational Traits and Skills"/>
-<Grid>
-<GridItem sm="6">
-<Card title="Common Utility Skills">
-
-|                                                               |                                                                                                                                                             |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                                                            |
-| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase, |
-| <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/>                                         |
-| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                                                               |
-| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                                                            |
-| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                                                                    |
-| <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                                                              |
-| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                                                          |
-
-</Card>
-
-</GridItem>
-
-<GridItem sm="6">
-
-<Card title="Situational Traits">
+#### Situational Traits
 
 |                                                                |                                                                                                                         |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -101,9 +83,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Trait name="Purity of Purpose" size="big" disableText/>       | Useful on condi heavy and boonstrip heavy encounters to mass condi cleans and generate boons.                           |
 | <Trait name="Gyroscopic Acceleration" size="big" disableText/> | In the <Specialization name="Scrapper"/> traitline. Useful to share <Effect name="superspeed"/> for movement and skips. |
 
-</Card>
-
-<Card title="Defiance Bar Damage">
+### Defiance Bars
 
 | Skill                                  | Defiance Bar Damage                      |
 | -------------------------------------- | ---------------------------------------- |
@@ -116,40 +96,55 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Glob Shot"/>              | <Condition name="Crippled"/> 20/s damage |
 | <Skill id="63365"/>                    | <Condition name="Weakness"/> 20/s damage |
 
-</Card>
+</GridItem>
+
+<GridItem sm="6">
+
+### Situational Utility Skills
+
+|                                                               |                                                                                                                                                             |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Personal Battering Ram" size="big" disableText/> | Used to provide CC if no other utility is needed                                                                                                            |
+| <Skill name="Shift Signet" size="big" disableText/>           | Can be used as a stunbreak and also allows greater control of your mech porting it and yourself to your target. Additionally can be used as a dps increase, |
+| <Skill name="Thumper Turret" size="big" disableText/>         | Deals a large amount of CC. If using <Trait name="Experimental Turrets"/> will also share <Boon name="Protection"/>                                         |
+| <Skill name="Net Turret" size="big" disableText/>             | If using <Trait name="Experimental Turrets"/> can be placed to share <Boon name="Swiftness"/>                                                               |
+| <Skill name="Tool Kit" size="big" disableText/>               | Has access to a block with <Skill id="5998"/> and a pull with <Skill id="5996"/>                                                                            |
+| <Skill name="Throw Mine" size="big" disableText/>             | Can be used for some emergency boonstrip                                                                                                                    |
+| <Skill name="Overclock Signet" size="big" disableText/>       | Can be used to resummon your mech if <Skill name="Crash Down"/> is on cooldown                                                                              |
+| <Skill name="Sneak Gyro" size="big" disableText/>             | A <Specialization name="Scrapper"/> skill, used for group <Effect name="Stealth"/> in T4 fractals.                                                          |
+
 </GridItem>
 </Grid>
 
 <Divider text="Skill Explanations"/>
 
+### Weapons 
 <Grid>
 <GridItem sm="6">
-<Card title="Mace">
+#### Mace
 
 - <Skill name="Barrier Blast" /> Your third auto attack skill generates <Effect name="Barrier"/> in a 240 radius around you. When granting <Effect name="Barrier"/> you also grant <Boon name="Alacrity"/> thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 - <Skill name="Energizing Slam" /> grants <Boon name="Regeneration"/> and <Boon name="Vigor"/> to allies, while applying some <Condition name="Vulnerability"/> to enemies.
 - <Skill name="Rocket Fist Prototype" /> can be used for CC.
 
-</Card>
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Shield">
+#### Shield
 
 - <Skill name="Magnetic Shield" /> offers projectile reflection and some CC when released though <Skill name="Magnetic Inversion  "/>.
 - <Skill name="Static Shield" /> can be used as a long block that CCs any enemies attacking you. After the block is over it will cc with <Skill name="Throw Shield"/>.
 
-</Card>
 </GridItem>
 </Grid>
 
-<Card title="Kits">
+### Kits
 
 A large part of the support is generated through the use of your Jade Mech and Kits.
 
 Engineering kits can be opened instantly to give access to 5 new skills, which when closed again return you to your weapon set. Each kit skill will have its separate cooldown, although as you play the class you come to get a feel for when each skill will be available.
 
-<Skill name="Crash Down" text="Jade Mech"/>:
+<Skill name="Crash Down" text="Jade Mech" size="medium"/>:
 
 Your jade mech is your main source of <Boon name="Alacrity"/> generation, while also providing a significant portion of your other boons. It inherits your concentration and healing power thanks to <Trait name="Mech Frame: Channeling Conduits"/>.
 
@@ -160,7 +155,7 @@ Your jade mech is your main source of <Boon name="Alacrity"/> generation, while 
 - Sometimes your Mech can get stuck, you can try to use _Return to Me_ to get it to come to you, if this doesn't work you may have to recall it instead. Alternatively if <Skill name="Shift Signet"/> is availible, this can be used to port your Mech to your target.
 - Remember your Mech commands will generate boons in a radius around your Mech. Make sure it is in range of you and your party before using them!
 
-<Skill name="Med Kit"/>:
+<Skill name="Med Kit" size="medium"/>:
 
 Your Med Kit is your main source of healing. It has a mixture of condi cleanse, supportive boon generation, and burst healing thanks to <Trait name="Health Insurance"/>
 
@@ -170,7 +165,7 @@ Your Med Kit is your main source of healing. It has a mixture of condi cleanse, 
 - <Skill name="Infusion Bomb"/> is a blast finisher that can be used to blast your water field from <Skill name="Cleansing Field"/> for burst healing. It also provides some <Boon name="Regeneration"/>, <Boon name="Vigor"/> and <Boon name="Swiftness"/>.
 - Remember that many skills in <Skill name="Med Kit"/> heal in a small radius so make sure you are close to your party.
 
-<Skill name="Elixir Gun" />:
+<Skill name="Elixir Gun" size="medium"/>:
 
 Provides some additional support through condi cleanse, some burst healing, and slow CC.
 
@@ -181,7 +176,7 @@ Provides some additional support through condi cleanse, some burst healing, and 
 - <Skill name="Super Elixir"/> is a burst heal, Once hit it also creates an area of continual healing for 10 seconds, making this one of your best healing abilities. It also condi-cleanses and grants <Boon name="might"/> through <Trait name="HGH"/>
 - While not every skill in this kit is commonly used, in particular, the condi cleanse and burst heal are very useful in high-pressure situations.
 
-<Skill name="Elite Mortar Kit"/>:
+<Skill name="Elite Mortar Kit" size="medium"/>:
 
 While not every skill is commonly used, it still provides some slow CC and has access to a strong AoE pulsing heal.
 
@@ -189,11 +184,11 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - <Skill name="Flash Shell"/> applies some slow cc through <Condition name="Blinded"/>.
 - <Skill name="Elixir Shell"/> is a strong AoE pulsing heal that can be used proactively before high pressure situations. It also grants <Boon name="might"/> through <Trait name="HGH"/>.
 
-</Card>
-
 <Divider text="Providing Boons"/>
 
-<Card title="Standard Boons">
+<Grid>
+<GridItem sm="6">
+#### Standard Boons
 
 - <Boon name="Alacrity"/> is applied by two methods. The first is <Skill id="63293"/>, which should be pressed off cooldown. In addition to this through the trait <Trait name="Mech Frame: Channeling Conduits"/>, when you apply <Effect name="Barrier"/> you will also share <Boon name="Alacrity"/>. With high <Attribute name="Boon Duration"/> it is very easy to upkeep 100% duration.
 - <Boon name="Might"/> is mainly generated from <Skill id="63141"/>, which will allow you to easily maintain 15 stacks. Outside of this you slowly generate <Boon name="Might"/> thanks to <Trait name="HGH"/>, which slowly will ramp might up to 25 stacks over time. If <Boon name="Might"/> is really suffering, you can also use utility skills such as <Skill name="Flame Turret"/> along with <Trait name="Experimental Turrets"/> to help.
@@ -206,8 +201,8 @@ While not every skill is commonly used, it still provides some slow CC and has a
 - <Boon name="Vigor"/> can be maintained permanantly by using <Skill name="Energizing Slam"/> off cooldown. When using <Skill name="Med Kit"/>, you also share it when using <Skill name="Infusion Bomb"/>.
 - <Effect name="Barrier"/> helps to provide <Boon name="Alacrity"/> through the trait <Trait name="Mech Frame: Channeling Conduits"/>, while providing excellent damage mitigation. You have 3 main methods of generating <Effect name="Barrier"/>; <Trait name="Mech Core: Barrier Engine"/> passivley generates it over time, Your utility skills <Skill id="63141"/> and <Skill name="Barrier Signet"/> and finally by using <Skill name="Barrier Blast" /> Your third auto attack skill on Mace.
 
-</Card>
-
+</GridItem>
+<GridItem sm="6">
 <Card title="Pre-Stacking Boons">
 
 - To provide most of your boons, you can simiply cast <Skill id="63293"/>, <Skill id="63141"/> and <Skill name="Energizing Slam"/>.
@@ -219,60 +214,58 @@ While not every skill is commonly used, it still provides some slow CC and has a
   - <Skill name="Magnetic Inversion"/>, the second activation of Shield 4.
 
 </Card>
+</GridItem>
+</Grid> 
 
 <Divider text="Healing"/>
 
-<Card title="Sustained Healing">
+### Sustained Healing
 
 - A large amount of your sustsined healing comes from traits. <Trait name="Soothing Detonation"/>, <Trait name="Compounding Chemicals"/> and <Trait name="Backpack Regenerator"/> generate a lot of passive healing to yourself, which is then shared with <Trait name="Medical Dispersion Field"/> and amplified with <Trait name="Health Insurance"/>.
 - When under constant pressure <Skill name="Super Elixir"/> and <Skill name="Elixir Shell"/> can be used. It is reccomended to use <Skill name="Super Elixir"/> first due to its shorter cooldwon.
 - If your parties hp is not full you can use <Skill name="Med Blaster"/> in <Skill name="Med Kit"/> which is very strong. However, you should first consider other abilities to heal your party quicker since you want to maximize your time on mace to generate <Effect name="Barrier"/>.
 - Your best form of sustained healing is to keep your <Effect name="Barrier"/> uptime high. By using <Skill name="Barrier Blast"/>, <Skill id="63141"/> and if needed <Skill name="Barrier Signet"/>, your party will not lose much health due to tanking damage.
 
-</Card>
-
-<Card title="Burst Healing">
+### Burst Healing
 
 - <Skill name="Vital Burst"/> and <Skill name="Bandage Blast"/> can be used for some burst healing.
 - Aditionally you have 2 water fields with <Skill name="Cleansing Field"/> and <Skill name="Elixir Shell"/> which can then be blasted with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> and <Skill name="Infusion Bomb"/> for massive healing.
 - If you don't have any burst healing abilities up, you can use <Skill name="Barrier Signet"/> for a large amount of <Effect name="Barrier"/> to help sustain your party while you heal them back up.
 - If you are anticipating a large amount of incoming damage using <Skill name="Super Elixir"/> or <Skill name="Elixir Shell"/> before for strong healing over time can be useful.
 
-</Card>
-
-<Card title="Condition Cleanse">
+### Condition Cleanse
 
 - Your strongest condition cleanse is <Skill name="Fumigate"/> in <Skill name="Elixir Gun"/>, removing up to 5 conditions on 5 targets.
 - Blasting Light Fields also causes area condition cleanse. You can place light fields with <Skill name="Super Elixir"/> or <Skill name="Flash Shell"/> and then blast with <Skill name="Acid Bomb"/>, <Skill name="Magnetic Inversion"/> or <Skill name="Infusion Bomb"/>.
 - If you have a high amount of condition pressure you can use <Skill name="Cleansing Field"/> or <Skill name="Super Elixir"/> for a longer-lasting condition cleanse over time.
 
-</Card>
-
 <Divider text="Underwater Guide"/>
+
+<Warning>
+Remember to equip a <Item id="24842"/> to your Aquabreather, so you will get the 6th bonus underwater!
+</Warning>
 
 When underwater, <Specialization name="Mechanist" text="Heal Alacrity Mechanist"/> is unplayable due to your <Skill name="Crash Down" text="Jade Mech"/> skills not being availible, which leaves you with a couple of options. You can either swap class to a <Boon name="Alacrity"/> provider that will work underwater (<Specialization name="Renegade"/> or <Specialization name="Tempest"/>). Alternatively, if you want to stay as an <Specialization name="Engineer"/> your best option is to swap to <Specialization name="Scrapper" text="Heal Quickness Scrapper"/>.
 <Grid>
 <GridItem sm="7">
 
-<Card title="Traits">
+### Traits
 
 <Traits traits1Id="43" traits1="Scrapper" traits1SelectedIds="1917,1954,2052" unembossed/>
 
 Your other trait lines remain the same as on land.
-</Card>
+
 
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Skills">
+### Skills
 <Skills healId={5802} utility1Id={5933} utility2Id={31248} utility3Id={29739} eliteId={30800}/>
-</Card>
-<Card title="Underwater Gear">
+
+### Weapons
 <Weapons weapon1MainType="Speargun" weapon1MainAffix="Minstrel" weapon1MainSigil1="Transference" weapon1MainSigil2="Water" weapon1MainInfusion1Id={49432} weapon1MainInfusion2Id={49432}/>
 The rest of your gear will remain the same as on land.
-<Warning>
-Remember to equip a <Item id="24842"/> to your Aquabreather, so you will get the 6th bonus underwater!
-</Warning>
-</Card>
+
+
 </GridItem>
 </Grid>

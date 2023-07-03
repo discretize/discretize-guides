@@ -1,12 +1,12 @@
 ---
-cycle: Night
 potions:
   - id: 8883
     description: for the Svanir & end boss
-date: "2022-07-01T17:34:15.200Z"
+hasCM: false
+cycle: Night
+layout: src/layouts/Fractal.astro
+date: "2023-06-30T17:23:37.948Z "
 title: Snowblind
-description: We'll take everything from you. Even your lives.
-long_description: ""
 image: images/header_old.jpg
 group: T4
 api: 2952
@@ -44,8 +44,8 @@ record:
     - id: ACQlHBKCUxM
       name: Magic
       specialization: Daredevil
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+description: We'll take everything from you. Even your lives.
 ---
 
 ## Ice Wall <Item id="8883" disableText/><Item id="24667" disableText/>
@@ -72,7 +72,9 @@ First swap your legend to <Skill name="Legendary Centaur Stance"/> / <Skill name
 
 <GridItem sm="4">
 ![Starting area](images/the_start_area.jpg)
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 </GridItem>
+
 </Grid>
 
 ---
@@ -106,6 +108,7 @@ When cast on top of the Elemental Source, skills like <Skill name="Sanctuary"/>,
 
 <GridItem sm="6">
 ![Elemental Source](images/the_elemental_source.jpg)
+<GifPlayer sourceId="snowblind-source-light-fire-reenc" caption="Light the fires around the Elemental Source" />
 </GridItem>
 
 </Grid>
@@ -154,6 +157,8 @@ He gains 3 stacks of _Rime Shield_ reducing his incoming damage from the three r
 
 At 75%, 50% and 25% you will need to kill a summoned _Icebrood Effigy_. Dodge every red circle during the fight and break the defiance bars immediately to prevent mechanics.
 
+At 25% the boss transforms into a powerful bear. It's CC bar should be broken and killed quickly. The animation on the side gives an idea about how the encounter.
+
 <Tabs>
 <Tab specialization="Renegade">
 Take either <Skill name="Legendary Dwarf Stance"/> or <Skill name="Legendary Centaur Stance"/> as secondary legend, both have their advantages. <Skill name="Legendary Dwarf Stance" disableText/> can give <Boon name="Stability"/> while <Skill name="Legendary Centaur Stance" disableText/> can give more condition cleanse and projectile absorption with <Skill name="Protective solace"/>.
@@ -171,5 +176,7 @@ Equip a greatsword and <Skill name="blood reckoning"/> for double <Skill name="a
 
 <GridItem sm="4">
 ![Shaman Lornarr Dragonseekers cave](images/shaman_lornarr_dragonseeker.jpg)
+
+<GifPlayer sourceId="snowblind-endboss-transform" caption="Enrage at 25%"/>
 </GridItem>
 </Grid>

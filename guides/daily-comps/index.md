@@ -1,7 +1,7 @@
 ---
 title: dT Daily Comps
-date: "2023-04-07T14:49:28.272Z "
-image: ./images/mama.jpg
+date: "2023-07-03T17:42:43.688Z "
+image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
 
@@ -15,7 +15,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 4. It's extremely important to execute a good boon precast before every boss, which means blasting <Boon name="Might"/>, sharing <Boon name="Quickness"/> and <Boon name="Alacrity"/> on a precast template that has high boon duration, so that these will stay for longer during the encounters.
 5. Supports aren't healers. As a support your job is to deal as much damage as you can while providing the boons you were chosen for.
 
-<Divider text="Compositions"/>
+<Divider text="Compositions"/> 
 
 <Card title="Shattered Observatory and Nightmare CM">
 
@@ -24,7 +24,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | <Specialization name="Renegade" disableText/>                                                                                                                                              | <BuildLink build="Power Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 10 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control and damage mitigation. It applies a very high amount of <Condition name="vulnerability"/> and it remains unmatched for the success of a power composition in short phases. <br/>                                                                       |
 | <Specialization name="Scrapper" disableText/>                                                                                                                                              | <BuildLink build="Power Scrapper"  specialization="Scrapper"/> provides 100% <Boon name="Quickness"/> uptime, 10 stacks of <Boon name="Might"/> with your <Skill name="Blast Gyro"/> , utilities in terms of crowd control and reflects. It also provides <Skill name="Superspeed"/>, and brings some more <Condition name="vulnerability"/> which helps the renegade.<br/>                                                                                   |
 | <Specialization name="Soulbeast" disableText/>                                                                                                                                             | Two or Three <BuildLink build="Power Soulbeast"  specialization="Soulbeast"/> provide massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently unmatched by any other class on most bosses.                                                                                                                                                                         |
-| <Specialization name="Soulbeast" disableText/><Specialization name="Weaver" disableText/> <Specialization name="Dragonhunter" disableText/><Specialization name="Bladesworn" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's extra <Boon name="Quickness"/> and CC from <BuildLink build="Power Bladesworn"  specialization="Bladesworn"/> or faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/>, or the high burst and late fight damage from <BuildLink build="Power Weaver" specialization="Weaver"/>. |
+| <Specialization name="Soulbeast" disableText/><Specialization name="Weaver" disableText/> <Specialization name="Dragonhunter" disableText/><Specialization name="Bladesworn" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's extra CC from <BuildLink build="Power Bladesworn"  specialization="Bladesworn"/> or faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/>, or the high burst and late fight damage from <BuildLink build="Power Weaver" specialization="Weaver"/>. Most builds will work well in this slot, providing they can cover the small amount of CC that is missing on the CC heavy encounters (MAMA and Artsariiv). |
 
 </Card>
 
@@ -32,11 +32,11 @@ It all comes down to some important concepts that need to be fulfilled permanent
 
 |                                                                                           |                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of Sunqua Peak. This class provides 5 stacks of <Boon name="Might"/>, 50% <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
-| <Specialization name="Mirage" disableText/> <Specialization name="Renegade" disableText/> | <BuildLink build="Condi Mirage"  specialization="Mirage"/> (Staxe) provides the rest of the <Boon name="Might"/> and <Boon name="Alacrity"/> needed, while also doing extremely good dps.<BuildLink build="Condi Alac Renegade"  specialization="Renegade"/> is also a good substitute that does lower damage, but brings more CC if needed.<br/>           |
-| <br/> <Specialization name="Harbinger" disableText/>                                      | <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is a very solid dps pick that brings a package of good CC, <Boon name="Might"/> and your main source of <Condition name="vulnerability"/>.                                                                                                                                    |
-| <Specialization name="Firebrand" disableText/>                                            | As your only source of <Boon name="Quickness"/>, <BuildLink build="Condi Firebrand"  specialization="Firebrand"/> is a great pick for CC and good damage, as you'll be able to chain CC skills like <Skill name="Sanctuary"/> to solo the sorrow on Dark AI, among other useful things                                                         |
-| <Specialization name="Soulbeast" disableText/>                                            | For the last dps spot, <BuildLink build="Condi Soulbeast"  specialization="Soulbeast"/> brings a lot of damage through stance sharing, while helping to contribute some <Condition name="vulnerability"/>                                                                                                                                         |
+| <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of Sunqua Peak. This class provides permanent <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
+| <Specialization name="Holosmith" disableText/>  | <BuildLink build="Condi Holosmith"  specialization="Holosmith"/> is the current king of DPS for this fractal. It has acess to enough CC to not leave the rest of the party lacking, and provides some <Condition name="Vulnerability"/> for the party and also some <Boon name="Might"/>         |
+| <br/> <Specialization name="Harbinger" disableText/>                                      | <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is a very solid dps pick that brings a package of good CC, <Boon name="Might"/> and your main source of <Condition name="vulnerability"/>. If required aswell it can also switch to a  solid <Boon name="Quickness"/> build.                                                                                                                               |
+| <Specialization name="Scrapper" disableText/>                                            | While not the only potential source of <Boon name="Quickness"/>, <BuildLink build="Power Scrapper"  specialization="Scrapper"/> is a great pick for CC and good damage, especially when reflecting Ai's Focused Wrath attack.  It also contributes <Condition name="Vulnerability"/> uptime, <Boon name="Might"/>, and some <Effect name="Superspeed"/>.                                                      |
+| <Specialization name="Soulbeast" disableText/>                                            | For the last dps spot, <BuildLink build="Hybrid Soulbeast"  specialization="Soulbeast"/> brings a lot of damage through stance sharing, while helping to contribute some <Condition name="vulnerability"/>                                                                                                                                         |
 
 </Card>
 
@@ -103,24 +103,6 @@ In this section you can find links to different parts of the site with informati
 <Card title="Example Condi PoVs + Logs">
 
 <Tabs>
-<Tab specialization="Renegade">
-
-| Boss         | PoV                                                        | Log | Player |
-| ------------ | ---------------------------------------------------------- | --- | ------ |
-| Elemental Ai |                                                            |     |        |
-| Dark Ai      | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=453s) |     | Inky   |
-
-</Tab>
-
-<Tab specialization="Mirage">
-
-| Boss         | PoV                                  | Log                                                      | Player |
-| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
-| Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint  |
-
-</Tab>
-
 <Tab specialization="Specter">
 
 | Boss         | PoV                                  | Log                                                      | Player |
@@ -130,12 +112,21 @@ In this section you can find links to different parts of the site with informati
 
 </Tab>
 
-<Tab specialization="Firebrand">
+<Tab specialization="Scrapper">
 
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/nI2Innr3-as) | [DPS.Report](https://dps.report/l5JF-20230221-215418_ai) | Magic  |
+| Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint  |
+
+</Tab>
+
+<Tab specialization="Holosmith">
+
+| Boss         | PoV                                  | Log                                                      | Player |
+| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
+| Elemental Ai |                                      |                                                          |        |
+| Dark Ai      |  |   |
 
 </Tab>
 <Tab specialization="Soulbeast">

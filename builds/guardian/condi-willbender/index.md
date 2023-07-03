@@ -1,31 +1,31 @@
 ---
-title: Condi Willbender
 hidden: false
 archive: false
 hasBeginner: true
-rating: Good
-role: Condi Damage
-profession: Guardian
 specialization: Willbender
 skills: null
-conditions:
-  - name: Burning
-  - name: Vulnerability
-    uptime: 12 stacks (using Sword of Justice)
 boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: '[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 3
-date: '2023-04-04T11:46:38.248Z'
+date: "2023-06-28T23:30:59.685Z "
+title: Condi Willbender
+rating: Good
+role: Condi Damage
+profession: Guardian
+conditions:
+  - name: Burning
+  - name: Vulnerability
+    uptime: 12 stacks (using Sword of Justice)
 ---
-
+ 
 The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very good CC, and great mobility, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
 
 <Advanced>
@@ -74,6 +74,12 @@ The 3rd utility skill slot is flexible. Look at the Situational Skills below for
 
 This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
 
+You will want the following weapons to swap to during fractal runs:
+
+- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
+- A staff for <Boon name="Might"/> pre-stacking.
+- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
+
 </Character> 
 </CharacterWithAr>
 </Advanced>
@@ -82,26 +88,27 @@ This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condi
 
 <Grid>
 <GridItem sm="7">
-<Advanced>
-<Card title="Extra Weapons">
 
-You will want the following weapons to swap to during fractal runs:
-
-- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
-- A staff for <Boon name="Might"/> pre-stacking.
-- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
-
-</Card>
-</Advanced>
+### Traits
 
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
+
+### Defiance Bar Damage
+
+|                                               |                                                                                |
+| --------------------------------------------- | ------------------------------------------------------------------------------ |
+| <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
+| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
+| <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
+| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
+| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
 
 </GridItem>
 
 <GridItem sm="5">
 
 <Advanced>
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                         |                                                                                     |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -117,11 +124,10 @@ You will want the following weapons to swap to during fractal runs:
 | <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                  |
 | <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
 
-</Card>
 </Advanced>
 
 <Beginner>
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                         |                                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
@@ -131,20 +137,7 @@ You will want the following weapons to swap to during fractal runs:
 | <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed. |
 | <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.            |
 
-</Card>
 </Beginner>
-
-<Card title="Defiance Bar Damage">
-
-|                                               |                                                                                |
-| --------------------------------------------- | ------------------------------------------------------------------------------ |
-| <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
-| <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
-| <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
-
-</Card>
 
 </GridItem>
 </Grid>
@@ -154,7 +147,7 @@ You will want the following weapons to swap to during fractal runs:
 <Grid>
 <GridItem sm="7">
 <Advanced>
-<Card title="Skill Priority">
+### Skill Priority
 
 In general for fractals there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. In general though make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
 
@@ -170,20 +163,11 @@ In general for fractals there is no set rotation for <Specialization name="Willb
 10. <Skill name="Sword of Wrath"/>, <Skill name="Sword Arc"/>, <Skill name="Sword Wave"/>
 11. <Skill name="Orb of Wrath"/>
 
-</Card>
-<Card title="Precasting">
-
-1.  Use <Skill name="hallowedground"/>
-2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-3.  Take the _Mistlock Singularity_
-
-You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
-</Card>
 </Advanced>
 
 <Beginner>
 
-<Card title="Step-by-Step Rotation">
+### Step-by-Step Rotation
 
 **Step 1: Basic Priority**
 
@@ -218,8 +202,6 @@ Finally, we will add <Skill name="Cleansing Flame"/> into the rotation. This ski
 
 Therefore we will only use this skill when there is at least a 2.5-second gap between other abilities so we do not delay anything more important. Ideally, there should never be another priority skill coming off-cooldown in the middle of the cast of <Skill name="Cleansing Flame"/> if used correctly.
 
-</Card>
-
 </Beginner>
 </GridItem>
 
@@ -227,13 +209,11 @@ Therefore we will only use this skill when there is at least a 2.5-second gap be
 
 <Beginner>
 
-<Card title="Step-by-Step Video">
+### Step=by-Step Video
 
 This video shows the step-by-step approach to the rotation listed on the left.
 
 <Video youtube="5229dOYuERI" caption="by Ascers"/>
-
-</Card>
 
 <Card title="Improving Further">
 
@@ -249,11 +229,20 @@ There is only one additional step (besides learning the rest of the utility you 
 </Card>  
   
 </Beginner>
+<Advanced>
+<Card title="Precasting">
 
-<Card title="Golem rotation">
+1.  Use <Skill name="hallowedground"/>
+2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
+3.  Take the _Mistlock Singularity_
+
+You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
+</Card>
+</Advanced>
+### Golem Rotation
 
 Please note the setup used in this benchmark is optimized for raids, it is fine to be used in fractals and is only a small DPS loss compared to the setup listed on this page.
 <Video youtube="MkEqyxM44VI" caption="Sword rotation by Support Hero"/>
-</Card>
+
 </GridItem>
 </Grid>

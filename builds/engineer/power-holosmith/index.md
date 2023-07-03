@@ -1,23 +1,23 @@
 ---
-title: Power Holosmith
 hidden: false
 archive: false
-rating: Good
-role: Power Damage
-profession: Engineer
 specialization: Holosmith
-conditions:
-  - name: Vulnerability
-    uptime: 20 Stacks
-code: '[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: '2023-04-04T17:40:50.083Z'
+date: "2023-06-30T12:08:30.695Z "
+title: Power Holosmith
+rating: Good
+role: Power Damage
+profession: Engineer
+conditions:
+  - name: Vulnerability
+    uptime: 20 Stacks
+cmGuide: ""
 ---
 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
@@ -57,39 +57,11 @@ You can use Off-Hand Pistol if there is absolutely no need for the CC from Shiel
 
 <Grid>
 <GridItem sm="7">
+
+### Traits
 <Traits traits1Id="38" traits1="Firearms" traits1SelectedIds="1914,1923,526" traits2Id="6" traits2="Explosives" traits2SelectedIds="1882,1892,1947" traits3Id="57" traits3="Holosmith" traits3SelectedIds="2106,2152,2137"/>
 
-</GridItem>
-
-<GridItem sm="5">
-<Card title="Additional Skills">
-
-|                                           |                                                                                                                                                                                                               |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="42163" size="big" disableText/>                                        |
-| <Skill id="6020" size="big" disableText/> | <Skill id="5806" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5810" size="big" disableText/> |
-
-</Card>
-
-<Card title="CC skills">
-
-|                                    |            |
-| ---------------------------------- | ---------- |
-| <Skill id="21661"/>                | 200 damage |
-| <Skill name="Magnetic Inversion"/> | 150 damage |
-| <Skill id="6057"/>                 | 100 damage |
-| <Skill id="42009"/>                | 232 damage |
-| <Skill id="42521"/>                | 232 damage |
-
-</Card>
-
-</GridItem>
-</Grid>
-
-<Grid>
-
-<GridItem sm="7">
-<Card title="Situational Traits">
+### Situational Traits
 
 |                                                                 |                                                                                                                    |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -103,11 +75,18 @@ If your <Boon name="Quickness"/> uptime is low, you can swap out the Firearms tr
 <Traits traits1="Scrapper" traits1Selected="Gyroscopic Acceleration" unembossed />
 
 For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect name="Stealth"/> and <Effect name="Superspeed"/>. <Effect name="Stealth"/> can be provided through <Skill name="Sneak Gyro"/>. <Effect name="Superspeed"/> is provided through Gyros with a delay due to <Trait name="Gyroscopic Acceleration"/>. <Skill name="Medic Gyro"/> also provides some instant <Effect name="Superspeed"/> on top. <Skill name="Bulwark Gyro"/> and <Skill name="Purge Gyro"/> can be used without drawing aggro from enemies. <Skill name="Bypass Coating"/> can provide some instant <Effect name="Superspeed"/> as well.
-</Card>
+
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Additional Skills
+
+|                                           |                                                                                                                                                                                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="42163" size="big" disableText/><Skill id="42938" size="big" disableText/>                                         |
+| <Skill id="6020" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/> |
+
+### Situational Skills
 
 |                                                     |                                                                                                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,16 +95,40 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 | <Skill name="Bomb Kit" size="big" disableText/>     | Default pick for the Rifle variant instead of <Skill name="Rifle Turret"/>. Can be helpful to provide a smoke field through <Skill name="Smoke Bomb"/> or fire field through <Skill name="Fire Bomb"/>. |
 | <Skill name="Flamethrower" size="big" disableText/> | Can provide a fire field and a blast finisher. You can pre-cast the toolbelt skill <Skill name="Incendiary Ammo"/> for some extra damage.                                                               |
 
-</Card>
+### CC Skills
+
+| Skill                              |  Damage    |
+| ---------------------------------- | ---------- |
+| <Skill id="21661"/>                | 200 damage |
+| <Skill name="Magnetic Inversion"/> | 150 damage |
+| <Skill id="6057"/>                 | 100 damage |
+| <Skill id="42009"/>                | 232 damage |
+| <Skill id="42521"/>                | 232 damage |
 
 </GridItem>
 </Grid>
 
 <Divider text="Rotation/Skill Usage"/>
 
+### Rotation Explanation
+
+- The idea of the opening is to stack as many damage modifiers as possible with your biggest skills. By entering Forge at the start, you will trigger <Trait name="Solar Focusing Lens"/>. Due to being in Forge, you will also gain the extra damage from <Trait name="Lasers Edge"/>. <Skill name="Grenade Barrage"/> will help with stacking <Trait name="Explosive Temper"/>.
+- You want to always use your big damaging skills like <Skill name="Laser Disk"/> and <Skill name="Prime Light Beam"/> in Forge when possible. Only use them outside of Forge if the boss will die/phase before you can go back into Forge to use them there.
+- In Forge, your high damage weapon skills are <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/>, as well as auto-attack chains. Try to not interrupt your Forge auto-attack chain. Your goal is to <Skill name="Deactivate Photon forge"/> at exactly 149 Heat. This can be achieved by using auto-attack chains until around 140 Heat (as seen in step 8), then using <Skill name="Corona Burst"/> and <Skill name="Deactivate Photon forge"/>. <Skill name="Corona Burst"/> will keep building up some Heat, however you cannot <Skill id="44386"/> if you already left Forge directly after its cast.
+- Out of Forge, your basic rotation can be seen in steps 15-17. The main goal is to use <Skill name="Refraction Cutter"/> above 100 Heat 3 times. If you are slow, you might want to skip some extra skills like <Skill name="Poison Grenade"/> and <Skill name="Freeze Grenade"/> and prioritize <Skill name="Engage Photon Forge"/> at 90 Heat.
+
+Extra notes:
+- Use <Skill id="6178"/> off cooldown.
+- Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
+- <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
+- When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
+- When running off-hand Pistol, <Skill id="5830"/> can help in controlling the movement of enemies without break bar.
+- Try to manage your Heat in split phases. Ideally, you always want to be back at 90 Heat when starting to burst into a new phase.
+- <Skill name="Poison Grenade" profession="Engineer"/> will not always be up at the same step as its cooldown is higher than the duration of your loop. The general idea of using 2 extra damaging skills while cooling down still applies.
+
 <Grid>
 <GridItem sm="6">
-<Card title="Rotation">
+### Rotation
 
 1.  **Preheat to 90**
 2.  <Skill name="Laser Disk" profession="Engineer"/>
@@ -150,30 +153,8 @@ For many skips in Tier 4 fractals, you can swap to Scrapper for more <Effect nam
 21. <Skill name="engage Photon Forge" profession="Engineer"/> (your heat should be around 90)
 22. Repeat from step 6
 
-</Card>
-<Card title="Notes">
-
-- Use <Skill id="6178"/> off cooldown.
-- Use <Skill id="42163"/> off-cooldown. This skill can be used inside the hitbox when multiple enemies are around to hit the boss multiple times. If this can be done, for example on Ensolyss, you can delay this skill for that.
-- <Skill id="5808"/> can be used to mitigate damage in add heavy fights.
-- When running off-hand Pistol, <Skill name="Blowtorch"/> is used instead of <Skill name="Freeze Grenade"/> in step 20.
-- When running off-hand Pistol, <Skill id="5830"/> can help in controlling the movement of enemies without break bar.
-- Try to manage your Heat in split phases. Ideally, you always want to be back at 90 Heat when starting to burst into a new phase.
-- <Skill name="Poison Grenade" profession="Engineer"/> will not always be up at the same step as its cooldown is higher than the duration of your loop. The general idea of using 2 extra damaging skills while cooling down still applies.
-
-</Card>
-
 </GridItem>
 <GridItem sm="6">
-
-<Card title="Rotation Explanation">
-
-- The idea of the opening is to stack as many damage modifiers as possible with your biggest skills. By entering Forge at the start, you will trigger <Trait name="Solar Focusing Lens"/>. Due to being in Forge, you will also gain the extra damage from <Trait name="Lasers Edge"/>. <Skill name="Grenade Barrage"/> will help with stacking <Trait name="Explosive Temper"/>.
-- You want to always use your big damaging skills like <Skill name="Laser Disk"/> and <Skill name="Prime Light Beam"/> in Forge when possible. Only use them outside of Forge if the boss will die/phase before you can go back into Forge to use them there.
-- In Forge, your high damage weapon skills are <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/>, as well as auto-attack chains. Try to not interrupt your Forge auto-attack chain. Your goal is to <Skill name="Deactivate Photon forge"/> at exactly 149 Heat. This can be achieved by using auto-attack chains until around 140 Heat (as seen in step 8), then using <Skill name="Corona Burst"/> and <Skill name="Deactivate Photon forge"/>. <Skill name="Corona Burst"/> will keep building up some Heat, however you cannot <Skill id="44386"/> if you already left Forge directly after its cast.
-- Out of Forge, your basic rotation can be seen in steps 15-17. The main goal is to use <Skill name="Refraction Cutter"/> above 100 Heat 3 times. If you are slow, you might want to skip some extra skills like <Skill name="Poison Grenade"/> and <Skill name="Freeze Grenade"/> and prioritize <Skill name="Engage Photon Forge"/> at 90 Heat.
-
-</Card>
 
 <Card title="Pre-Casting">
 

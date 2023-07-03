@@ -7,16 +7,16 @@ role: Power Damage
 profession: Revenant
 specialization: Herald
 boons:
-  - name: 'Quickness '
+  - name: "Quickness "
     uptime: 100%
-    variant: 'party '
+    variant: "party "
   - name: Might
     uptime: 13 Stacks
     variant: party
   - name: Protection
     uptime: 100%
     variant: party
-  - name: 'Fury '
+  - name: "Fury "
     uptime: 100%
     variant: party
   - name: Swiftness
@@ -25,16 +25,16 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: party
-code: '[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]'
+code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
 classification:
   - 3
   - 2
   - 4
   - 1
   - 3
-date: '2023-04-06T12:49:36.709Z'
+date: "2023-02-05T17:43:22.753Z "
 ---
-
+ 
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>.
 
 It can also provide <Boon name="Stability"/> or Projectile Block for a small to a moderate dps loss.
@@ -55,9 +55,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Divider text="Build"/>
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon, Roiling Mists" traits3="Herald" traits3Selected="Core Value, Shared Empowerment, Draconic Echo"/>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon, Roiling Mists" traits3="Herald" traits3Selected="Core Value, Shared Empowerment, Elevated Compassion"/>
 
-<Card title="Defiance Bar">
+### Defiance Bar Damage
 
 **Hard Crowd Control:**
 
@@ -79,10 +79,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
-</Card>
 </GridItem>
 <GridItem sm="4">
-<Card title="Situational Skills">
+### Situational Skills
 
 |                                                                |                                                                                                              |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -94,10 +93,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Breakrazor's Bastion" size="big" disableText/>    | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
 | <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
 
-</Card>
 </GridItem>
-<GridItem sm="8">
-<Card title="Precasting">
+</Grid>
+
+<Divider text="Details"/>
+### Precasting
 
 Start on <Skill name="Legendary Dragon Stance"/>.
 
@@ -112,11 +112,7 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 9. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
 10. Swap back to <Skill name="Legendary Dragon Stance"/>.
 
-</Card>
-</GridItem>
-
-<GridItem sm="4">
-<Card title="Burst Rotation">
+### Burst Rotation
 
 1.  <Skill name="Burst of Strength"/>
 2.  <Skill name="Elemental Blast" />
@@ -126,14 +122,7 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 
 Ideally you would want to do your burst rotation when the enemy is under the effect of <Effect name="Exposed"/>.
 
-</Card>
-</GridItem>
-</Grid>
-
-<Divider text="Details"/>
-<Grid>
-<GridItem sm="12">
-<Card title="Abilities">
+### Abilities
 **Facet/Consume Skills:**
 - <Skill name="facetofnature" /> - Increase the duration of boons applied to allies. This effect gives a flat 20% increase to the duration of boons applied to the target. This can go over the 100% boon duration cap, essentially giving your party a possible 120% boon duration.
   - <Skill name="truenature" /> - (Dragon)  Increase the duration of allies' boons. The current boons get extended by 2 seconds (3 seconds with <Trait name="Core Value"/>).
@@ -174,14 +163,7 @@ Ideally you would want to do your burst rotation when the enemy is under the eff
 - <Trait name="reinforcedpotency" /> - Gain Concentration and deal increased strike damage for each active Boon you have.
 - <Trait name="draconicecho" /> - Consume Skills grant <Boon name="Quickness" /> and retain the facets passive effect for 6s.
 
-</Card>
-</GridItem>
-
-</Grid>
-
-<Grid>
-<GridItem sm="12">
-<Card title="Legends">
+### Legends
 
 **<Skill name="Legendary Dragon Stance"/>**
 
@@ -236,11 +218,3 @@ Ideally you would want to do your burst rotation when the enemy is under the eff
 - <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
 - <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
 - <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
-
-</Card>
-</GridItem>
-
-<GridItem sm="12">
-
-</GridItem>
-</Grid>
