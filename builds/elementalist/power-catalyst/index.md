@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2023-06-02T18:02:40.318Z "
+date: "2023-06-28T18:02:40.318Z "
 title: Power Catalyst
 rating: Good
 role: Power Damage

@@ -27,7 +27,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-07-02T09:53:12.780Z "
+date: "2023-05-03T09:53:12.780Z "
 title: Condi (Quick) Harbinger
 rating: Good
 role: Condi Damage
