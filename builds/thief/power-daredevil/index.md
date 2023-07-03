@@ -9,7 +9,7 @@ classification:
   - 2
   - 2
   - 4
-date: "2023-07-03T17:43:22.753Z "
+date: "2023-03-05T17:43:22.753Z "
 title: Power Daredevil
 rating: Other
 role: Power Damage
