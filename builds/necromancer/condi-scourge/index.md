@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 author: "Discord: Amerikajinn#9784"
 specialization: Scourge
 boons:
