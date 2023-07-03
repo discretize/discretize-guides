@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-06-03T23:50:09.815Z "
+date: "2023-06-28T23:50:09.815Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
