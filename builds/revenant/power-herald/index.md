@@ -1,6 +1,10 @@
 ---
+title: Power Quick Herald
 hidden: false
 archive: false
+rating: Meta
+role: Power Damage
+profession: Revenant
 specialization: Herald
 boons:
   - name: "Quickness "
@@ -28,11 +32,7 @@ classification:
   - 4
   - 1
   - 3
-date: "2023-07-01T15:58:25.786Z "
-title: Power Quick Herald
-rating: Meta
-role: Power Damage
-profession: Revenant
+date: "2023-07-03T17:43:22.753Z "
 ---
  
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>.
@@ -55,7 +55,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Divider text="Build"/>
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon, Roiling Mists" traits3="Herald" traits3Selected="Core Value, Shared Empowerment, Draconic Echo"/>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon, Roiling Mists" traits3="Herald" traits3Selected="Core Value, Shared Empowerment, Elevated Compassion"/>
 
 ### Defiance Bar Damage
 
