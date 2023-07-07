@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-07-07T21:36:24.018Z "
+date: "2023-07-07T21:40:17.197Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -92,7 +92,7 @@ Swap Weapons:
 |                                                          |                                                                                                                                                                                                                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="One with Air" size="big" disableText/>      | Useful for skipping with <Effect name="Superspeed"/>, especially in combination with <Item name="executioneraxetoy"/> or <Item name="endlesschoyapiatatonic"/>.                                                                                |
-| <Trait name="mastersfortitude" size="big" disableText /> | If there are no other <Condition name="Weakness" /> source in your party  besides yourself. Make sure to adjust your gear accordingly for the loss of <Attribute name="precision"/>. In most cases, if you have a Soulbeast in your group, <Condition name="Weakness" /> should be covered with their <Skill name="Winter's Bite"/>. Furthermore, you may ask the Soulbeast to bring <Trait name="Wilting Strike"/> for additional <Condition name="Weakness" /> uptime.|
+| <Trait name="mastersfortitude" size="big" disableText /> | If there are no other <Condition name="Weakness" /> source in your party  besides yourself. Make sure to adjust your gear accordingly for the loss of <Attribute name="precision"/>. In many cases, if you have a Soulbeast in your group, <Condition name="Weakness" /> should be covered with their <Skill name="Winter's Bite"/>. Furthermore, you may ask the Soulbeast to bring <Trait name="Wilting Strike"/> for additional <Condition name="Weakness" /> uptime.|
 
 ### Defiance Bar Damage
 
