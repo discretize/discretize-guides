@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-06-02T18:03:28.997Z "
+date: "2023-07-07T21:21:22.861Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -81,15 +81,17 @@ Swap Weapons:
 
 ### Defiance Bar Damage
 
-| Skill                          | Damage                                       |
-| ------------------------------ | --------------------------------------------- |
-| <Skill name="Updraft"/>        | 332 with <Control name="Launch"/>             |
+| Skill                            | Damage                                        |
+| -------------------------------- | --------------------------------------------- |
+| <Skill name="Updraft"/>          | 332 with <Control name="Launch"/>             |
 | <Skill name="Wind Blast"/> from <Skill name="Conjure Lightning Hammer"/>     | 232 with <Control name="Launch"/>             |
-| <Skill name="Polaric Leap"/>   | 100 with <Control name="Daze"/>               |
-| <Skill name="Earthquake"/>     | 200 with <Control name="Knockdown"/>          |
-| <Skill name="Gale Strike"/>    | 125 with <Control name="Float"/>              |
-| <Skill name="Twin Strike"/>    | 33 / s (99) with <Condition name="Chilled"/>  |
-| <Skill name="Earthen Vortex"/> | 15 / s (45) with <Condition name="Crippled"/> |
+| <Skill name="Polaric Leap"/>     | 100 with <Control name="Daze"/>               |
+| <Skill name="Earthquake"/>       | 200 with <Control name="Knockdown"/>          |
+| <Skill name="Gale Strike"/>      | 200 with <Control name="Float"/>              |
+| <Skill name="Tailored Victory"/> | 250 with <Control name="Float"/>              |
+| <Skill name="Twin Strike"/>      | 33 / s (99) with <Condition name="Chilled"/>  |
+| <Skill name="Earthen Vortex"/>   | 15 / s (45) with <Condition name="Crippled"/> |
+| <Skill name="Churning Earth"/>   | 15 / s (60) with <Condition name="Crippled"/> |
 
 </GridItem>
 
