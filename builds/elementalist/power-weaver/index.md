@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-07-07T21:21:22.861Z "
+date: "2023-07-07T21:36:24.018Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -60,7 +60,22 @@ Swap Weapons:
 - A focus to precast <Skill name="Flame Wall"/> on some encounters
 - A staff to precast <Skill name="Meteor Shower"/> on some encounters
 </Character>
+
+<Character title="Without Superior Elements" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":18915,"Armor":2210,"Power":3755.2,"Precision":2437,"Toughness":1243,"Vitality":1727,"Ferocity":1501.3,"Condition Damage":850,"Expertise":0,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0,"Boon Duration":0.162,"Critical Chance":1.0342857142857143,"Critical Damage":2.5008666666666666,"Power Coefficient":3758,"Power2 Coefficient":0,"Burning Coefficient":5.96,"Bleeding Coefficient":3.5,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":28872.726301777013,"NonCrit Effective Power":11545.088223460005,"Power DPS":41780.40255759646,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":114.0625,"Bleeding Stacks":3.5,"Bleeding DPS":399.21875,"Burning Damage":410.546875,"Burning Stacks":7.152,"Burning DPS":2936.2312500000003,"Confusion Damage":122.4,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":132.03125,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":169.21875,"Torment Stacks":0,"Torment DPS":0,"Damage":45255.60255759646,"Effective Health":83188358.20895523,"Survivability":42291.99705589996,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24818,"helmRune":"Thief","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":24818,"shouldersRune":"Thief","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":24818,"coatRune":"Thief","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":24818,"glovesRune":"Thief","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":24818,"leggingsRune":"Thief","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":24818,"bootsRune":"Thief","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49432,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Berserker","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21656,"utility1Id":5539,"utility2Id":40183,"utility3Id":5734,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2115,2061,2131]],"lines":[31,41,56]}}'>
+
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants! With <Item id="43360"/> or <Item id="73191"/> some _Dragon_ stat pieces can be minimally better.
+
+Swap Weapons:
+- Dagger with <Item name="Night" type="Sigil"/>
+- Dagger with <Item name="Serpent Slaying" type="Sigil"/>
+- Daggers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
+- A focus to precast <Skill name="Flame Wall"/> on some encounters
+- A staff to precast <Skill name="Meteor Shower"/> on some encounters
+
+</Character>
 </CharacterWithAr>
+
+
 </Advanced>
 
 <Divider text="Build"/>
