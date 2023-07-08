@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-07-07T23:14:48.848Z "
+date: "2023-07-08T15:28:11.496Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -121,6 +121,7 @@ Swap Weapons:
 | <Skill name="Arcane Brilliance" size="big" disableText/>          | Take it for additional <Boon name="Might"/> from fire fields. It is much less healing than glyph.                                                                                                                                                                                                                                          |
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Provides a larger burst heal than <Skill name="signetofrestoration" />.                                                                                                                                                                                                                                                                    |
 | <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                                                                                                                                                                                                                         |
+| <Skill name="signetofrestoration" size="big" disableText/> | Passive healing skill, take it if you do not plan to press your healing skill for any reason.                                                                                                                                                                                                                                                                   |
 | Offensive                                                         |                                                                                                                                                                                                                                                                  | <Skill name="conjurefierygreatsword" size="big" disableText/>                | Use this skill instead if you are unfamilar with the <Skill name="Weaveself"/> rotation. |                                                                          |
 | <Skill name="Arcane Wave" size="big" disableText/>                | Use this skill instead of <Skill name="Arcane Blast"/> if you need extra cleave damage at the cost of some target dps. Also useful to generate <Boon name="Might"/> with a fire field.                                                                                                                                                     |
 | <Skill name="Unravel" size="big" disableText/>                    | Must have when phase times are pretty short and it is impossible to get full burst inside <Effect name="Exposed"/> effect or phases are too short.                                                                                                                                                                                         |
