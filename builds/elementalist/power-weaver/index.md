@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-07-08T15:35:49.654Z "
+date: "2023-07-08T15:39:01.563Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -210,6 +210,7 @@ It is recommended to use separate precast templates to easily make use of differ
   - Precast <Skill name="Meteor Shower"/> on staff, attune to <Skill name="Air Attunement" disableText/> <Skill name="Air Attunement" disableText/> while casting, then swap back to sword/dagger after the cast. 
   - When there is an available _Mistlock Singularity_ but the party is not going for a full precast (mostly in t4s) at least precast <Skill id="5516"/> for yourself.
   - Choosing between <Skill id="5516"/> and <Skill name="Weave Self"/> as elite skill depends on phase time, and if you are able to utilize the second <Skill id="5516"/>, and other factors such as CC skills. 
+- On some bosses you can precast <Skill name="Conjure Lightning Hammer"/> to pick it up later in the fight.
 
 </Card>
 </GridItem>
