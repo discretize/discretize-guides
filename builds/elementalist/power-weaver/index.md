@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-07-09T11:24:14.329Z "
+date: "2023-07-09T14:13:32.023Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -535,7 +535,7 @@ This video shows the step-by-step approach to the rotation listed on the left.
 </Card>
 <Card title="Improving Further">
 
-Once you are comfortable with the above steps, you are already doing most of the full rotation and will be able to deal great damage.
+Once you are comfortable with the above steps, you are already doing a large part of the full rotation and will be able to deal great damage.
 
 There will be a few additional things on the advanced page to improve further but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far.
 
@@ -543,7 +543,8 @@ The additional steps are:
 
 - Finishing auto-attack chains when possible, <Skill name="calllightning" profession="elementalist" /> in <Skill name="airattunement" /> and <Skill name="searingslash" /> in <Skill name="fireattunement" />.
 - Incorporating <Skill name="arcaneblast" /> into the rotation.
-- Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" /> or <Skill name="unravel" />.
+- Learning when to use different utility skills for extra DPS depending on hitbox size/phase timings such as <Skill name="conjurelightninghammer" />.
+- Learning rotations using <Skill name="weave self"/>, these add <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/> increasing your damage and making your rotation even more fluid.
 
 </Card>
 </GridItem>
