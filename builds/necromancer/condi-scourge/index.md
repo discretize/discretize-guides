@@ -1,7 +1,7 @@
 ---
 hidden: false
-archive: true
-author: "Discord: Amerikajinn#9784"
+archive: false
+author: ""
 specialization: Scourge
 boons:
   - name: Might
@@ -14,7 +14,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-07-02T09:41:41.449Z "
+date: "2023-08-05T23:04:32.962Z "
 title: Condi Scourge
 rating: Good
 role: Condi Damage
@@ -28,7 +28,7 @@ conditions:
   - name: Poisoned
 cmGuide: ""
 ---
- 
+  
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades and <Skill name="Epidemic"/>. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
 The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
@@ -60,8 +60,11 @@ Situational Runes:
 <GridItem sm="7">
 ### Traits
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
+### Alacrity Scourge
+To provide <Boon name="Alacrity"/>, your gear and traits remain mostly the same. If you are struggling to maintain <Boon name="Alacrity"/> or have low <Attribute name="Agony Resistance"/>, you may want to take some Ritualist gear for some extra <Attribute name="Boon Duration"/>. Apart from this take the following traits in the <Specialization name="Scourge"/> traitline:
+<Traits traits1="Scourge" traits1Selected="Fell Beacon , Sandstorm Shroud, Desert Empowerment"/>
 ### Situational Traits
-
+#### Blood Magic
 Running Blood Magic instead of Soul Reaping can be an option if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
 
 <Traits traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
@@ -89,6 +92,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Epidemic" size="big" disableText/>               | Spreads conditions on your current target to up to 5 enemies in the surrounding area. Particularly useful on mob heavy T4s and also Arkk CM, where it can be used to kill the Anomaly.                                                                                                                                                                                                                            |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
+| <Skill name="Plague Signet" size="big" disableText/>    | Used as a dps increase on condition heavy fights such as Kanaxai.                                                                                                                                      |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   |
 | <Skill name="Summon Bone Minions" size="big" disableText/>    | If your group has more than one Necromancer (though this benefits Scourge a lot more) take this to provide Life Force for all Necromancer players for far more overall gain (summon and detonate off cooldown). Bone Minions can also work well if a target is highly mobile or you have frequent downtime where haunt can not be used on a target (e.g. Light Phase Ai in [Sunqua Peak](/fractals/sunqua-peak)). |
 | <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          |
@@ -96,7 +100,6 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova](/fractals/thaumanova-reactor) fractal. Also great for consuming conditions on consoles in the [Aetherblade](/fractals/aetherblade) fractal.                                                                                                                                                                                |
 | <Skill name="Trail of Anguish" size="big" disableText/>       | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                                                                                                                                                                                        |
-| <Skill name="Signet of Vampirism" size="big" disableText/>    | This can provide you a minor dps increase in situations where barrier application is not needed. If you are using <Skill name="Signet of Vampirism"/> and no other Punishment skill, you can take <Trait name="Desert Empowerment"/> over <Trait name="Sadistic Searing"/>.                                                                                                                                       |
 | <Skill name="Sand Swell" size="big" disableText/>             | A useful skill that allows you to double up on blinks. Also works as a Punishment skill and has synergy with <Trait name="Sadistic Searing"/>.                                                                                                                                                                                                                                                                    |
 
 </GridItem>
@@ -136,7 +139,7 @@ While you perform the above prioritization, you'll be using your shade skills to
 
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
-- While you want to maintain 3 shades up, you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
+- Maintain at least 1 shade at all times. Although you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
 - Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within the range of your shade abilities.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
