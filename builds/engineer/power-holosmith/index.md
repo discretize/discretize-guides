@@ -9,7 +9,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-06-30T12:08:30.695Z "
+date: "2023-08-04T02:34:10.710Z "
 title: Power Holosmith
 rating: Good
 role: Power Damage
@@ -31,8 +31,6 @@ It offers:
 - Some **self**-generation of <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Fury"/>
 
 The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
-
-The main thing the build lacks compared to other Power DPS classes is a unique party buff for Power compositions like <Specialization text="Power Dragonhunter" name="Dragonhunter"/>'s <Skill name="Bane Signet"/> share.
 
 There are 3 different versions of <Specialization text="Power Holosmith" name="Holosmith"/>, namely Sword ECSU, Sword PBM, and Rifle PBM. They are named after:
 
