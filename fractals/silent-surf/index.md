@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-06T13:49:47.467Z "
+date: "2023-08-06T13:52:16.071Z "
 title: Silent Surf
 difficulties:
   - level: 101
@@ -33,7 +33,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 https://discretize.pages.dev/docs/
 
 
-Join forces with Captain Thess and his intrepid Serpent Clan crew,  to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths, an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns,  and together with Captain Thess, you will unveil the sinister truth that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous, the stakes are monumental, Will you pierce the shroud of growing evil and find the survivors?
+Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors?
 
 <Divider text="Normal Mode"/>
 
@@ -84,7 +84,7 @@ Intro about how its mostly the same. Take portal to champ and to spawn him kill 
 | Numbers  | Spread out without standing in another players circle    | insert gif |
 
 ## Kanaxai, Scythe of House Aurkus
-Intro about the boss, condi heavy encounter, bit buggy ect...
+Intro about the boss, condi heavy encounter, bit buggy ect... 
 ### 100% - 66%
 
 | Mechanic  | Mitigation  (What is the mechanic and how to manage it) | Example    |
