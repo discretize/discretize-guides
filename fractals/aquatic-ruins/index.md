@@ -9,6 +9,12 @@ title: Aquatic Ruins
 difficulties:
   - level: 76
     ar: 107
+  - level: 61
+    ar: 81
+  - level: 26
+    ar: 18
+  - level: 7
+    ar: 0
 consumables:
   - 78978
 record:
@@ -127,7 +133,7 @@ If you get this path, swim together and take the _Luminous Plants_ on the way to
 
 <GridItem> 
 
-<GifPlayer sourceId="aquatic-ruins-dark-path" />
+<GifPlayer sourceId="aquatic-ruins-dark-path" caption="Use the plants to protect yourself from piranha attacks"/>
 </GridItem>
 
 <GridItem>
@@ -155,7 +161,7 @@ When the <Instability name="Afflicted"/> is present, it is highly recommended to
 
 <GridItem sm="5">
 
-<GifPlayer sourceId="aquatic-boss-puzzle" />
+<GifPlayer sourceId="aquatic-boss-puzzle" caption="Guitar-hero styled mini puzzle during the boss fight"/>
 
 
 <Tabs>
