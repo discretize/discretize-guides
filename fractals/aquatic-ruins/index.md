@@ -38,7 +38,7 @@ record:
 long_description: The Aquatic Ruins Fractal takes you on a journey through the
   long-forgotten ruins of an ancient civilization. Swimming through the
   submerged corridors, watch out for deadly sea creatures, treacherous currents,
-  and the legendary Jellyfish Beast. Don your underwater gear and prepare to
+  and the legendary Jellyfish Beast. Don't forget your underwater gear and prepare to
   explore and uncover the secrets hidden within the depths.
 image: images/header_old.jpg
 api: 2956
