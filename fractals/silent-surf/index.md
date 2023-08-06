@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-06T14:28:27.420Z "
+date: "2023-08-06T15:01:17.531Z "
 title: Silent Surf
 difficulties:
   - level: 101
@@ -84,7 +84,7 @@ Short descrioption of route. Kill some trash. Insert gif of route
 
 ### Bouncing Mushrooms
 
-Short descrioption of route. Kill some trash. Insert gif of route
+Short description of route. Kill some trash. Insert gif of route
 
 ### Alltogether
 
@@ -125,6 +125,7 @@ Accept the harbinger's challenge and complete the Silent Surf fractal with no on
 </Achievement>
 </GridItem>
 </Grid>
+
 Intro about how its mostly the same. Take portal to champ and to spawn him kill some adds. Make note to not take mistlock till after champ and after triggering the circle, party is in combat until champ is dead. 
 
 ## Corrupted First Mate Dolus
@@ -139,15 +140,17 @@ Intro about how its mostly the same. Take portal to champ and to spawn him kill 
 Accept the harbinger's challenge and defeat the final boss while he has ten or more stacks of Dread Defiance. 
 </Achievement>
 
-Intro about the boss, condi heavy encounter, bit buggy ect... 
+Intro about the boss, condi heavy encounter, bit buggy etc... 
 ### 100% - 66%
 
 | Mechanic  | Mitigation  (What is the mechanic and how to manage it) | Example    |
 |-----------|---------------------------------------------------------|------------|
 | Fear      | Look Away                                               | insert gif |
-| Numbers   | Spread out without standing in another players circle   | insert gif |
-| Boonstrip | Move out of large expanding AoE, cannot be dodged       | insert gif |
-| Axes      | Move the small expanding AoE out of the group           | insert gif |
+| Numbers   | Spread out without standing in another players circle nor in the circle spawned by the boss initially. If a player go to an island to kill an aspect (due to failed cc), they should pay attention to boss' position in the main platform before coming back.  | insert gif |
+| Boonstrip | Move out of large expanding AoE, cannot be dodged. Spawned by blue projectiles fired by Aspects.       | insert gif |
+| Axes      | Move the small expanding AoE out of the group.           | insert gif |
+
+Q: Is there a strategy for how to best position those axes?
 
 ### 66% World Eater
 
@@ -171,4 +174,4 @@ Intro about the boss, condi heavy encounter, bit buggy ect...
 ### 33% - 0%
 | Mechanic     | Mitigation  (What is the mechanic and how to manage it)     | Example    |
 |--------------|-------------------------------------------------------------|------------|
-| Numbers Fear | Same as before but look away                                | insert gif |
+| Numbers Fear | Same as before but look away during fear                                | insert gif |
