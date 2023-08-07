@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-08-06T20:02:19.119Z "
+date: "2023-08-07T00:25:27.208Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
@@ -41,7 +41,7 @@ This build also does not have a formal rotation and instead has a prioritization
 
 Due to being a condition-based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
 
-<Divider text="Equipment"/>  
+<Divider text="Equipment"/>   
 
 <CharacterWithAr>  
 <Character title="Condi Scourge" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":23812,"Armor":2192,"Power":2923,"Precision":1813,"Toughness":1225,"Vitality":1460,"Ferocity":0,"Condition Damage":2811,"Expertise":964,"Concentration":450,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.8426666666666667,"Boon Duration":0.3,"Critical Chance":0.8871428571428572,"Critical Damage":1.5,"Power Coefficient":1459,"Power2 Coefficient":0,"Burning Coefficient":2.89,"Bleeding Coefficient":20.405285714285718,"Poison Coefficient":4,"Torment Coefficient":14.35,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.2,"Torment Duration":0.15,"Effective Power":6593.061383928572,"NonCrit Effective Power":4567.1875,"Power DPS":3703.9955945905995,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":309.8225,"Bleeding Stacks":40.810571428571436,"Bleeding DPS":12644.033266428572,"Burning Damage":920.8956249999999,"Burning Stacks":5.325306666666667,"Burning DPS":4904.051611116666,"Confusion Damage":365.233375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":328.51,"Poison Stacks":7.370666666666667,"Poison DPS":2421.3377066666667,"Torment Damage":578.4796875,"Torment Stacks":28.594766666666665,"Torment DPS":16541.491685468747,"Damage":40214.90986427125,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30702,"weapon2OffType":"Warhorn","weapon2OffSigilId":48911,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":86997,"utilityId":77567},"skills":{"healId":21762,"utility1Id":10611,"utility2Id":10544,"utility3Id":"","eliteId":10549},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[2013,816,801],[875,894,905],[2074,2067,2164]],"lines":[39,50,60]}}'>
@@ -61,7 +61,15 @@ Situational Rune:
 ### Traits
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
 ### Alacrity Scourge
-To provide <Boon name="Alacrity"/>, your gear and traits remain mostly the same. If you are struggling to maintain <Boon name="Alacrity"/> or have low <Attribute name="Agony Resistance"/>, you may want to take some Ritualist gear for some extra <Attribute name="Boon Duration"/>. Apart from this take the following traits in the <Specialization name="Scourge"/> traitline:
+To provide <Boon name="Alacrity"/>, your gear and traits remain mostly the same. Make sure to play with <Skill name="Sand Flare"/> using it during downtimes.
+
+If you are still struggling to maintain <Boon name="Alacrity"/> or have low <Attribute name="Agony Resistance"/>, you may want to use it more frequently during the combat or simply take some Ritualist gear for some extra <Attribute name="Boon Duration"/>. 
+
+Compared to a full dps <Specialization name="Scourge"/>, you are supposed to use <Skill name="Sand Cascade" /> on cooldown. Therefor it can be mandatory to play <Skill name="Summon Shadow Fiend"/> or <Skill name="Spectral Grasp"/> as your third utility choice, for additional Life Force generation. 
+
+<Skill name="Desiccate"/> would be necessary if your group lacks <Boon name="Fury"/> or additional 8x <Boon name="Might"/> and provides Life Force as well.   
+
+Apart from this take the following traits in the <Specialization name="Scourge"/> traitline:
 <Traits traits1="Scourge" traits1Selected="Fell Beacon , Sandstorm Shroud, Desert Empowerment"/>
 ### Situational Traits
 #### Blood Magic
@@ -90,9 +98,10 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                             |
-| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> to help stack up golems at the [Chaos](/fractals/chaos) Anomaly fight or the adds in the Arkk (see [Shattered Observatory](/fractals/shattered-observatory)) fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside.                                                          |
+| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> that provides an extra 15% Life Force and 150 defiance bar damage per hit, up to five times if you cast it inside a mob with other enemies outside.                                                          |
 | <Skill name="Sand Flare" size="big" disableText/>         | The alternative heal skill for more personal survivability and shared group barrier.                                                          |
 | <Skill name="Signet of Spite" size="big" disableText/>         | Your highest dps option on your third utility slot, if lifeforce is covered e.g. the dark Phase of[Sunqa Peak](/fractals/uncategorized) Challenge Mode.                                                          |
+| <Skill name="Desiccate" size="big" disableText/>         | Useful to provide permanent <Boon name="Fury"/>, additional 8x <Boon name="Might"/> and Life Force.                                                          |
 | <Skill name="Plague Signet" size="big" disableText/>    | Used as a dps increase on condition heavy fights such as Kanaxai and Sunqa Peak during days with <Instability name="Afflicted" />.                                                                                                                                   |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                   ||
 | <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          |
@@ -104,6 +113,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Serpent Siphon" size="big" disableText/>             | A source of <Boon name="Aegis"/>.                                                                                                                                                                                                                                                                  |
 | <Skill name="Epidemic" size="big" disableText/>               | Only use this skill in organised groups at the dark Phase of the[Sunqa Peak](/fractals/uncategorized) Challenge Mode. Copying all slow CC conditions like <Condition name="Immobile" /> and <Condition name="Slow" /> onto the Sorrows, which usually requires a Specter to become an alternative of Spectral Grasp .
 
+
 </GridItem>
 </Grid>
 
@@ -113,13 +123,16 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 
 **Precasting:**
 
-You can pre-emptively cast some shades before a fight starts to begin ramping up the benefits from <Trait name="Sand Sage"/>. <Skill name="Desert Shroud"/> can be precasted for the increased damage modifier and to transfer the conditions from <Skill name="Blood is Power"/> as the first cast of the fight.
+You can pre-emptively cast a shade before a fight starts for the benefits from <Trait name="Sand Sage"/>. <Skill name="Desert Shroud"/> can be precasted for the increased damage modifier and to transfer the conditions from <Skill name="Blood is Power"/> as the first cast of the fight.
 
 **Prioritization: [Weapon/Utility Skills]**
 
 Always use this skill off-cooldown, even if it means interrupting auto-attack chains:
 
 1. <Skill name="Feast of Corruption" /> (Scepter 3)
+2. <Skill name="Nefarious Favor" /> 
+
+Make sure to place a shade at your target or stay within 180 range for your shade-skills.
 
 Use after finishing your current auto-attack chain:
 
@@ -131,17 +144,16 @@ Use after finishing your current auto-attack chain:
 
 **Shade Skills**
 
-While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>) and <Condition name="Torment"/>. If you can ensure that you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force with the following prioritization:
+While you perform the above prioritization, you'll be using your shade skills to get additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>) and <Condition name="Torment"/>. If you can ensure that you have enough Life Force to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> at all times, you can use any excess Life Force for <Skill name="Sand Cascade" />.
 
-1. <Skill name="Nefarious Favor" />
-2. <Skill name="Sand Cascade" />
-3. <Skill name="Garish Pillar" />
 
 ### Notes
 
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
+- <Trait name="Plague Sending"/> has a 5s effect duration after using <Skill name="Desert Shroud"/>, transfering the next conditions you'll get within that window.
 - Maintain at least 1 shade at all times. Although you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
 - Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within the range of your shade abilities.
+- Additionally shade effects do not stack, they only expand the area in which they get applied.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
 - Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your shade skills (including <Skill name="Manifest Sand Shade"/> and <Skill name="Desert Shroud"/>) instead of blindly spamming them off cooldown.
