@@ -1,6 +1,6 @@
 ---
 title: New Player Guide
-date: "2022-08-10T22:09:13.528Z"
+date: "2023-08-07T16:57:53.467Z "
 image: images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481 and Mistlocked [FotM]
@@ -120,18 +120,6 @@ While there are no hard-set rules or things you "must" bring to clear an encount
 ## Trouble finding groups? Looking for training runs?
 
 <Grid>
-<GridItem sm="1" md="1">
-![[FotM]](images/mistlocked.png)
-</GridItem>
-
-<GridItem sm="11" md="11">
-
-Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  
-While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons! For fractals, training will be offered every Saturday at 20:00 CET for T1, T2, T3, T4, and CM fractals. There is no sign-up, just join their discord.
-
-All information is available on their [discord](https://discord.gg/CE3TswT).
-
-</GridItem>
 
 <GridItem sm="1" md="1">
 ![GW2University](images/gw2university.png)
@@ -140,7 +128,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 
 Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
 
-For more information, check out their [website](https://www.gw2university.com/)
+For more information, check out their [Discord](https://discord.gg/kzQdtpSxq6)
 
 </GridItem>
 
@@ -414,18 +402,6 @@ Below is a list of all current instabilities and their possible countermeasures.
 ## Trouble finding groups?
 
 <Grid>
-<GridItem sm="1" md="1">
-![[FotM]](images/mistlocked.png)
-</GridItem>
-
-<GridItem sm="11" md="11">
-
-Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  
-While Fractals are their main focus, they do offer other training & organized groups for Raids, as well as Strike Missions, and Dungeons!
-
-All information is available on their [discord](https://discord.gg/CE3TswT).
-
-</GridItem>
 
 <GridItem sm="1" md="1">
 ![GW2University](images/gw2university.png)
@@ -434,7 +410,7 @@ All information is available on their [discord](https://discord.gg/CE3TswT).
 
 Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
 
-For more information, check out their [website](https://www.gw2university.com/)
+For more information, check out their [Discord](https://discord.gg/kzQdtpSxq6)
 
 </GridItem>
 </Grid>
