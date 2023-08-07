@@ -1,21 +1,12 @@
 ---
+hasCM: false
 cycle: Day
-date: "2022-07-01T17:41:07.100Z"
+layout: src/layouts/Fractal.astro
+date: "2023-08-07T22:00:58.754Z "
 title: Chaos Isles
-description: I'm warning you—you don't belong here. Get out now.
-long_description: ""
-image: images/legendary_brazen_gladiator.jpg
-api: 3038
 difficulties:
   - level: 88
     ar: 129
-  - level: 97
-    ar: 145
-sigils:
-  - id: 24615
-  - id: 24554
-    description: for the Chaos Anomaly
-  - id: 24868
 consumables:
   - 49940
 record:
@@ -36,8 +27,17 @@ record:
     - id: kC8D0_69KvE
       name: Inky
       specialization: Renegade
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+image: images/legendary_brazen_gladiator.jpg
+api: 3038
+bosses: 2
+description: I'm warning you—you don't belong here. Get out now.
+group: t4
+sigils:
+  - id: 24615
+  - id: 24554
+    description: for the Chaos Anomaly
+  - id: 24868
 ---
 
 <Grid>
