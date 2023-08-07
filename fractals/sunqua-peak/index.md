@@ -2,11 +2,11 @@
 hasCM: false
 cycle: Day (non CM) / Night (CM)
 layout: src/layouts/Fractal.astro
-date: "2023-08-07T09:17:25.654Z "
+date: "2023-08-07T21:59:36.752Z "
 title: Sunqua Peak
 difficulties:
-  - level: 100
-    ar: 150
+  - level: 99
+    ar: 148
 consumables:
   - 78978
 record:
