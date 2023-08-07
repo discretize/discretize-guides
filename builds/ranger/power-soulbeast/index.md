@@ -1,7 +1,11 @@
 ---
+title: Power Soulbeast
 hidden: false
 archive: false
 hasBeginner: false
+rating: Meta
+role: Power Damage
+profession: Ranger
 specialization: Soulbeast
 code: "[&DQQgPx49Nyp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
@@ -10,12 +14,8 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-07-01T14:34:13.859Z "
+date: "2023-08-07T15:31:42.151Z "
 cmguide: static
-title: Power Soulbeast
-rating: Meta
-role: Power Damage
-profession: Ranger
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -93,7 +93,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 | <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse.                                    |
 | <Skill name="Signet of stone" size="big" disableText/>    | Prevents you from taking damage. Can be used to perform skip for the left path in [Deepstone](/fractals/deepstone).
 
-### PEts
+### Pets
 
 |                                            |                                                                                                                                                                                          |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
