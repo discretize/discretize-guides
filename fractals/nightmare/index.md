@@ -4,11 +4,11 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-07T08:42:21.112Z "
+date: "2023-08-07T21:58:15.065Z "
 title: Nightmare
 difficulties:
-  - level: 98
-    ar: 147
+  - level: 97
+    ar: 145
 consumables:
   - 43360
   - 8764
