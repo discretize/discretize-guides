@@ -1,12 +1,24 @@
 ---
-title: Condi Scourge
 hidden: false
 archive: false
+author: ""
+specialization: Scourge
+boons:
+  - name: Might
+    uptime: 20 stacks
+    variant: party
+code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 3
+  - 4
+  - 2
+  - 3
+date: "2023-08-07T21:33:22.427Z "
+title: Condi Scourge
 rating: Good
 role: Condi Damage
-author: ""
 profession: Necromancer
-specialization: Scourge
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -14,19 +26,7 @@ conditions:
   - name: Bleeding
   - name: Burning
   - name: Poisoned
-boons:
-  - name: Might
-    uptime: 20 stacks
-    variant: party
-code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
-classification:
-  - 2
-  - 3
-  - 4
-  - 2
-  - 3
-date: "2023-08-07T01:07:23.724Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
@@ -40,11 +40,11 @@ itself to fit many given situations in fractals.
 This build also does not have a formal rotation and instead has a prioritization for its skills making it easy to focus on side objectives and quickly pick up where you left off in dealing damage.
 
 Due to being a condition-based build, it will not benefit as highly from slaying potions or <Item name="Impact" type="Sigil"/> as much as power builds.
-
+ 
 <Divider text="Equipment"/>   
 
 <CharacterWithAr>  
-<Character title="Condi Scourge" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":23812,"Armor":2192,"Power":2923,"Precision":1813,"Toughness":1225,"Vitality":1460,"Ferocity":0,"Condition Damage":2811,"Expertise":964,"Concentration":450,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.8426666666666667,"Boon Duration":0.3,"Critical Chance":0.8871428571428572,"Critical Damage":1.5,"Power Coefficient":1459,"Power2 Coefficient":0,"Burning Coefficient":2.89,"Bleeding Coefficient":20.405285714285718,"Poison Coefficient":4,"Torment Coefficient":14.35,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.2,"Torment Duration":0.15,"Effective Power":6593.061383928572,"NonCrit Effective Power":4567.1875,"Power DPS":3703.9955945905995,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":309.8225,"Bleeding Stacks":40.810571428571436,"Bleeding DPS":12644.033266428572,"Burning Damage":920.8956249999999,"Burning Stacks":5.325306666666667,"Burning DPS":4904.051611116666,"Confusion Damage":365.233375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":328.51,"Poison Stacks":7.370666666666667,"Poison DPS":2421.3377066666667,"Torment Damage":578.4796875,"Torment Stacks":28.594766666666665,"Torment DPS":16541.491685468747,"Damage":40214.90986427125,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30702,"weapon2OffType":"Warhorn","weapon2OffSigilId":48911,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":86997,"utilityId":77567},"skills":{"healId":21762,"utility1Id":10611,"utility2Id":10544,"utility3Id":"","eliteId":10549},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[2013,816,801],[875,894,905],[2074,2067,2164]],"lines":[39,50,60]}}'>
+<Character title="Condi Scourge" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":23812,"Armor":2192,"Power":2923,"Precision":1813,"Toughness":1225,"Vitality":1533,"Ferocity":0,"Condition Damage":2846,"Expertise":1036,"Concentration":450,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.8906666666666667,"Boon Duration":0.3,"Critical Chance":0.8871428571428572,"Critical Damage":1.5,"Power Coefficient":1364,"Power2 Coefficient":0,"Burning Coefficient":5.14,"Bleeding Coefficient":17.895285714285716,"Poison Coefficient":3.52,"Torment Coefficient":12.02,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":6593.061383928572,"NonCrit Effective Power":4567.1875,"Power DPS":3462.8169917899777,"Power2 DPS":0,"Siphon DPS":153.72500000000002,"Bleeding Damage":313.235,"Bleeding Stacks":35.79057142857143,"Bleeding DPS":11210.859641428573,"Burning Damage":1022.6823750000001,"Burning Stacks":9.718026666666667,"Burning DPS":9938.45459178,"Confusion Damage":331.6365,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":331.9225,"Poison Stacks":6.655146666666667,"Poison DPS":2208.992919466667,"Torment Damage":622.3103249999999,"Torment Stacks":22.725813333333335,"Torment DPS":14142.508281355998,"Damage":41117.35742582122,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":24848,"helmRune":"Nightmare","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":24848,"shouldersRune":"Nightmare","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":24848,"coatRune":"Nightmare","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":24848,"glovesRune":"Nightmare","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":24848,"leggingsRune":"Nightmare","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":24848,"bootsRune":"Nightmare","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30702,"weapon2OffType":"Warhorn","weapon2OffSigilId":48911,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":77567},"skills":{"healId":21762,"utility1Id":10611,"utility2Id":10544,"utility3Id":"","eliteId":10549},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[2013,816,801],[875,894,905],[2074,2067,2164]],"lines":[39,50,60]}}'>
 
 Situational Rune:
 
@@ -65,11 +65,11 @@ To provide <Boon name="Alacrity"/>, your gear and traits remain mostly the same.
 
 If you are still struggling to maintain <Boon name="Alacrity"/> or have low <Attribute name="Agony Resistance"/>, you may want to use it more frequently during the combat or simply take some Ritualist gear for some extra <Attribute name="Boon Duration"/>. 
 
-Compared to a full dps <Specialization name="Scourge"/>, you are supposed to use <Skill name="Sand Cascade" /> on cooldown. Therefor it can be mandatory to play <Skill name="Summon Shadow Fiend"/> or <Skill name="Spectral Grasp"/> as your third utility choice, for additional Life Force generation. 
+Unlike a full dps <Specialization name="Scourge"/>, you are should to use <Skill name="Sand Cascade" /> off cooldown. You will want to play <Skill name="Summon Shadow Fiend"/> or <Skill name="Spectral Grasp"/> as your third utility choice, for additional Life Force generation. 
 
-<Skill name="Desiccate"/> would be necessary if your group lacks <Boon name="Fury"/> or additional 8x <Boon name="Might"/> and provides Life Force as well.   
+<Skill name="Desiccate"/> is an alternative if your group lacks <Boon name="Fury"/> or will benefit from th  8 stacks of <Boon name="Might"/> and provides Life Force as well.   
 
-Apart from this take the following traits in the <Specialization name="Scourge"/> traitline:
+The final change is to take the following traits in the <Specialization name="Scourge"/> traitline:
 <Traits traits1="Scourge" traits1Selected="Fell Beacon , Sandstorm Shroud, Desert Empowerment"/>
 ### Situational Traits
 #### Blood Magic
