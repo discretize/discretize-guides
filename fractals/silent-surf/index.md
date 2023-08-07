@@ -3,11 +3,11 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-06T15:01:17.531Z "
+date: "2023-08-07T22:01:59.185Z "
 title: Silent Surf
 difficulties:
-  - level: 101
-    ar: 155
+  - level: 100
+    ar: 150
 consumables: []
 record: {}
 long_description: ""
