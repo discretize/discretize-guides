@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-10T22:33:34.430Z "
+date: "2023-08-10T22:37:09.690Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -32,7 +32,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 
 https://discretize.pages.dev/docs/
 
-
+ 
 Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors?
 
 <Divider text="Normal Mode"/>
@@ -80,7 +80,7 @@ On entering the fractal you will meet Captain Thess. Near to Thess is a box of l
 - <Skill name="Black Powder Charge"/> (Skill 3)
 - <Skill name="Flare"/> (SKill 5)
 
-You will need to use these skills to progress through the cave, however, be careful since these skills are ammunition based. As you progress through the fractal you will encounter more leftover supplies to replenish ammunition. As you move through each section, Thress will open up portals behind you to allow you to return to previous areas, or any slower party members to skip forward and catch up. Additionally, if you fall, you will be ported to the last checkpoint by Thess for another attempt.
+You will need to use these skills to progress through the cave, however, be careful since these skills are ammunition based. As you progress through the fractal you will encounter more leftover supplies to replenish ammunition. As you move through each section, Thress will open up portals behind you to allow you to return to previous areas, or any slower party members to skip forward and catch up. Additionally, if you fall, you will be ported to the last checkpoint by Thess for another attempt. Also by using <Skill name="Grappling Hook"/> (Skill 1), or <Skill name="Parachute"/> (Skill 2), or landing directly on a bouncing mushroom, you will negate any fall damage when landing on platforms.
 
 <Information>
 There are multiple ways to progress through the "jumping puzzle" section of this fractal. It is not necessary to follow the skill usage below, especially if going for the Peace and Quiet achievement!
@@ -132,7 +132,7 @@ Like the last section, you need at least two players to stand in the white circl
 
 On the platform is another box of leftover supplies. This box gives you <Skill name="Grappling Hook" text="3 Grappling Hooks"/>, <Skill name="Parachute" text="2 Parachutes"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. When ready enter the next Wind Tunnel, which weill shoot you onto a zupline above. At the end of the zipline you will be dismounted and fall towards more bouncing mushrooms (if you need, use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to adjust your course). The mushrooms will send you into another Wind Tunnel leaving you on another ledge.
 
-In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have availible. TRhese bouncing mushrooms will send you into another Wind Tunnel, onto a zipline, which will again discount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
+In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have availible. These bouncing mushrooms will send you into another Wind Tunnel, onto a zipline, which will again discount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
 
 Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted First Mate Dolus. 
 
