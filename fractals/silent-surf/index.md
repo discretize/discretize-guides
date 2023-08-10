@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-07T22:01:59.185Z "
+date: "2023-08-10T22:33:34.430Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -19,7 +19,7 @@ group: Challenge Mode
 sigils: []
 ---
 
-
+ 
 <Achievement title="Still Faster Than Light">
 Dont get hit by the lasers! Watch out especially at the 2nd phase when the lasers start to spin with different speeds.
 </Achievement>
@@ -74,21 +74,70 @@ Complete all the achievements associated with the Silent Surf fractal.
 
 Insert something about the kit, link the skills (might need to add them to discretizeui if they arent in the gw2 api).
 
+On entering the fractal you will meet Captain Thess. Near to Thess is a box of leftover supplies. Interacting with this will give you access to a bundle using your special action key, giving you access to the followng skills:
+- <Skill name="Grappling Hook"/> (Skill 1)
+- <Skill name="Parachute"/> (Skill 2)
+- <Skill name="Black Powder Charge"/> (Skill 3)
+- <Skill name="Flare"/> (SKill 5)
+
+You will need to use these skills to progress through the cave, however, be careful since these skills are ammunition based. As you progress through the fractal you will encounter more leftover supplies to replenish ammunition. As you move through each section, Thress will open up portals behind you to allow you to return to previous areas, or any slower party members to skip forward and catch up. Additionally, if you fall, you will be ported to the last checkpoint by Thess for another attempt.
+
+<Information>
+There are multiple ways to progress through the "jumping puzzle" section of this fractal. It is not necessary to follow the skill usage below, especially if going for the Peace and Quiet achievement!
+</Information>
+
+<Grid>
+<GridItem sm="6">
+
 ### First Drop
 
-Short descrioption of route. Insert gif of route
+Interacting with the first box of leftover supplies will provide you with a <Skill name="Parachute" text="1 Parachute"/>. When you are ready jump into the hole and use <Skill name="Parachute"/> (skill 2) to safely land at the bottom, triggering the first checkpoint.
 
+</GridItem>
+<GridItem sm="6">
+<GifPlayer/>
+</GridItem>
+
+<GridItem sm="6">
+<GifPlayer/>
+</GridItem>
+<GridItem sm="6">
 ### Zipline
 
-Short descrioption of route. Kill some trash. Insert gif of route
+At the bottom you will find a second box giving you <Skill name="Grappling Hook" text="1 Grappling Hook"/> amd <Skill name="Parachute" text="1 Parachute"/>. Use the <Skill name="Grappling Hook"/> (skill 1) to grapple to the platform in front of you and take the zipline to the platform below. Take the next zipline, which will dismount you at the end and send you falling towards the ground. Use <Skill name="Parachute"/> (skill 2) to break your fall. 
 
+When ready stand in the white circle (you need at least two playsers in this circle for the fractal to continue). With enough players in the circle, a short event will spawn requiring you to fend off an attack from some bats and spiders. Fending off the attack will trigger the second checkpoint and Thess will open a portal that can be used to travel back through the fractal.
+
+</GridItem>
+
+<GridItem sm="6">
 ### Bouncing Mushrooms
 
-Short description of route. Kill some trash. Insert gif of route
+The third box of leftover supplies will give you <Skill name="Grappling Hook" text="1 Grappling Hook"/>, <Skill name="Parachute" text="1 Parachute"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. Looking over the edge of the platform you will see some large bouncing mushrooms below.
 
-### Alltogether
+Jump down onto the mushrooms (as long as you hit them you will not take fall damage) and as you get flung into the air use <Skill name="Grappling Hook"/> (skill 1) on the  large Stalactite in the center of the cavern. If required, you can then use <Skill name="Black Powder Charge"/> (skill 3) to boost yourself forward to land on the ground infront of you. Use the Wind Tunnel to get boosted up to the next platform.
 
-Short descrioption of route. Kill some trash. Insert gif of route
+Like the last section, you need at least two players to stand in the white circle on the platform to progress the fractal. This starts the event clear out the Naga raiders. Once dealt with the third checkpoint will trigger and Thess will open up another portal.
+
+</GridItem>
+<GridItem sm="6">
+<GifPlayer/>
+</GridItem>
+
+<GridItem sm="6">
+<GifPlayer/>
+</GridItem>
+<GridItem sm="6">
+### Wind Cannons
+
+On the platform is another box of leftover supplies. This box gives you <Skill name="Grappling Hook" text="3 Grappling Hooks"/>, <Skill name="Parachute" text="2 Parachutes"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. When ready enter the next Wind Tunnel, which weill shoot you onto a zupline above. At the end of the zipline you will be dismounted and fall towards more bouncing mushrooms (if you need, use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to adjust your course). The mushrooms will send you into another Wind Tunnel leaving you on another ledge.
+
+In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have availible. TRhese bouncing mushrooms will send you into another Wind Tunnel, onto a zipline, which will again discount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
+
+Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted First Mate Dolus. 
+
+</GridItem>
+</Grid>
 
 ## Corrupted First Mate Dolus
 
@@ -132,8 +181,10 @@ Intro about how its mostly the same. Take portal to champ and to spawn him kill 
 
 | Mechanic  | Mitigation  (What is the mechanic and how to manage it) | Example    |
 |-----------|---------------------------------------------------------|------------|
-| Fear     | Look Away                                                | insert gif |
-| Numbers  | Spread out without standing in another players circle    | insert gif |
+| Fear      | Look Away                                                | insert gif |
+| Numbers   | Spread out without standing in another players circle    | insert gif |
+
+Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 
 ## Kanaxai, Scythe of House Aurkus
 <Achievement title="Defiance Demolisher ">
@@ -150,6 +201,7 @@ Intro about the boss, condi heavy encounter, bit buggy etc...
 | Boonstrip | Move out of large expanding AoE, cannot be dodged. Spawned by blue projectiles fired by Aspects.       | insert gif |
 | Axes      | Move the small expanding AoE out of the group.           | insert gif |
 
+Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 Q: Is there a strategy for how to best position those axes?
 
 ### 66% World Eater
@@ -158,6 +210,8 @@ Q: Is there a strategy for how to best position those axes?
 |-------------|-------------------------------------------------------------|------------|
 | World Eater | If you have tether go to island and kill aspect             | insert gif |
 
+Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
+
 ### 66% - 33%
 
 | Mechanic    | Mitigation  (What is the mechanic and how to manage it) | Example    |
@@ -165,13 +219,19 @@ Q: Is there a strategy for how to best position those axes?
 | Island Fear | Look Away                                               | insert gif |
 | Tether      | GO to island, kill aspect, phasmo effect                | insert gif |
 
+Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
+
 ### 33% World Eater
 
 | Mechanic    | Mitigation  (What is the mechanic and how to manage it)     | Example    |
 |-------------|-------------------------------------------------------------|------------|
 | World Eater | If you have tether go to island and kill aspect             | insert gif |
 
+Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
+
 ### 33% - 0%
 | Mechanic     | Mitigation  (What is the mechanic and how to manage it)     | Example    |
 |--------------|-------------------------------------------------------------|------------|
 | Numbers Fear | Same as before but look away during fear                                | insert gif |
+
+Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
