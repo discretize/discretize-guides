@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-11T12:30:21.235Z "
+date: "2023-08-11T12:34:21.353Z "
 title: Silent Surf
 image: images/hero_sunqua2.jpg
 group: Challenge Mode
@@ -24,7 +24,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 
 ## Documentation
-
+ 
 https://discretize.pages.dev/docs/
 
  
@@ -291,7 +291,7 @@ Probably some more detail here about strats or mechnaics than the short overview
 ### Mechanics Overview
 Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
 <Tabs>
-<Tab title="Dread Visage">
+<Tab title="Island Fear">
 <Grid>
 <GridItem sm="6">
 Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
