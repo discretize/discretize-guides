@@ -3,20 +3,20 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-11T10:04:08.650Z "
+date: "2023-08-11T12:30:21.235Z "
 title: Silent Surf
+image: images/hero_sunqua2.jpg
+group: Challenge Mode
+api: 5446
+bosses: 2
 difficulties:
   - level: 100
     ar: 150
+sigils: []
 consumables: []
 record: {}
 long_description: ""
-image: images/hero_sunqua2.jpg
-api: 5446
-bosses: 2
 description: Why are you here? I came to this mountain to be alone.
-group: Challenge Mode
-sigils: []
 ---
  
 You can also use little animations. for that, please just record the video in good quality with minimal ui and effects, and send only the snippet to princeps. 
@@ -138,8 +138,9 @@ Once again, have two players stand in the white circle to progress the fractal t
 
 Corrupted First Mate Dolus is a simple fight that has two main mechanics. When Dolus appears he is untargatable while he does his first attack, Dread Visage. A large eye will appear above his head, when you see this turn your character model to face away to avoid getting <Condition name="Fear" text="Feared"/>. Thess will be knocked off the platform and the fight will begin.
 
-Dolus will now be targetable and start casting Frightening Speed (the numbers attack). Each player will be marked with a number and get an expanding AoE around them. Spread out making sure to not stand in another players circle and after a short period Dolus will dash to each player in order attacking them.  Dolus has a small defiance bar, which when broken will <Control name="Stun"/> him, cancelling his current attack and in higher dps groups, allow you to stack and ignore the numbers mechanic, killing Dolus before he has a chance to cast anything else.
+Dolus will now be targetable and start casting Frightening Speed (the numbers attack). Each player will be marked with a number and get an expanding AoE around them. Spread out making sure to not stand in another players circle and after a short period Dolus will dash to each player in ascending order attacking them.  Dolus has a small defiance bar, which when broken will <Control name="Stun"/> him, cancelling his current attack and in higher dps groups, allow you to stack and ignore the numbers mechanic, killing Dolus before he has a chance to cast anything else.
 
+Once you have finished the fight, take the _Mistlock Singularity_ to reset your cooldowns, interact with the box of leftover supplies which will give you <Skill name="Parachute" text="1 Parachute"/> and jump off the edge to find the final boss platform. If you need to go back through the fractal for any reason, before jumping feel fee to take the portal which will take you back to previous checkpoints.
 <Grid>
 <GridItem sm="6">
 <GifPlayer caption="Dread Visage mechanic"/>
@@ -186,11 +187,30 @@ Similar to Sunqua Peak, at the start you interact with the Challenge Mote to spa
 Do not take mistlock before triggering the circle! This way you can kill Dolus quickly and reset your cooldowns before fighting Kanaxai. 
 
 ## Corrupted First Mate Dolus
-
-| Mechanic  | Mitigation  (What is the mechanic and how to manage it) | Example    |
-|-----------|---------------------------------------------------------|------------|
-| Fear      | Look Away                                                | insert gif |
-| Numbers   | Spread out without standing in another players circle    | insert gif |
+### Mechanics Overview
+Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+<Tabs>
+<Tab title="Dread Visage">
+<Grid>
+<GridItem sm="6">
+Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Dread Visage mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Frightening Speed">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 
@@ -201,45 +221,131 @@ Accept the harbinger's challenge and defeat the final boss while he has ten or m
 
 Intro about the boss, condi heavy encounter, bit buggy etc... 
 ### 100% - 66%
+### Mechanics Overview
+Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+<Tabs>
+<Tab title="Dread Visage">
+<Grid>
+<GridItem sm="6">
+Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Dread Visage mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Frightening Speed">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Axes">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Boonstrip">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
-| Mechanic  | Mitigation  (What is the mechanic and how to manage it) | Example    |
-|-----------|---------------------------------------------------------|------------|
-| Fear      | Look Away                                               | insert gif |
-| Numbers   | Spread out without standing in another players circle nor in the circle spawned by the boss initially. If a player go to an island to kill an aspect (due to failed cc), they should pay attention to boss' position in the main platform before coming back.  | insert gif |
-| Boonstrip | Move out of large expanding AoE, cannot be dodged. Spawned by blue projectiles fired by Aspects.       | insert gif |
-| Axes      | Move the small expanding AoE out of the group.           | insert gif |
-
+### Details
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 Q: Is there a strategy for how to best position those axes?
 
-### 66% World Eater
+### 66% World Cleaver
+### Mechanics Overview
+Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+<Card title="World Cleaver">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Card>
 
-| Mechanic    | Mitigation  (What is the mechanic and how to manage it)     | Example    |
-|-------------|-------------------------------------------------------------|------------|
-| World Eater | If you have tether go to island and kill aspect             | insert gif |
-
+### Details
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 
 ### 66% - 33%
+### Mechanics Overview
+Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+<Tabs>
+<Tab title="Dread Visage">
+<Grid>
+<GridItem sm="6">
+Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Island Fear"/>
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Tether">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Tab>
+</Tabs>
 
-| Mechanic    | Mitigation  (What is the mechanic and how to manage it) | Example    |
-|-------------|---------------------------------------------------------|------------|
-| Island Fear | Look Away                                               | insert gif |
-| Tether      | GO to island, kill aspect, phasmo effect                | insert gif |
-
+### Details
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 
 ### 33% World Eater
+### Mechanics Overview
+Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+<Card title="World Cleaver">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Card>
 
-| Mechanic    | Mitigation  (What is the mechanic and how to manage it)     | Example    |
-|-------------|-------------------------------------------------------------|------------|
-| World Eater | If you have tether go to island and kill aspect             | insert gif |
-
+### Details
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 
 ### 33% - 0%
-| Mechanic     | Mitigation  (What is the mechanic and how to manage it)     | Example    |
-|--------------|-------------------------------------------------------------|------------|
-| Numbers Fear | Same as before but look away during fear                                | insert gif |
+### Mechanics Overview
+Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+<Card title="Numbers Fear">
+<Grid>
+<GridItem sm="6">
+Mitigation  (What is the mechanic and how to manage it)
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
+</Card>
 
+### Details
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
