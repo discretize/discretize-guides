@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-10T22:37:09.690Z "
+date: "2023-08-11T03:07:35.369Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -18,11 +18,6 @@ description: Why are you here? I came to this mountain to be alone.
 group: Challenge Mode
 sigils: []
 ---
-
- 
-<Achievement title="Still Faster Than Light">
-Dont get hit by the lasers! Watch out especially at the 2nd phase when the lasers start to spin with different speeds.
-</Achievement>
 
 You can also use little animations. for that, please just record the video in good quality with minimal ui and effects, and send only the snippet to princeps. 
 princeps has a transcode script, which makes the videos small and webfriendly.
@@ -132,7 +127,7 @@ Like the last section, you need at least two players to stand in the white circl
 
 On the platform is another box of leftover supplies. This box gives you <Skill name="Grappling Hook" text="3 Grappling Hooks"/>, <Skill name="Parachute" text="2 Parachutes"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. When ready enter the next Wind Tunnel, which weill shoot you onto a zupline above. At the end of the zipline you will be dismounted and fall towards more bouncing mushrooms (if you need, use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to adjust your course). The mushrooms will send you into another Wind Tunnel leaving you on another ledge.
 
-In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have availible. These bouncing mushrooms will send you into another Wind Tunnel, onto a zipline, which will again discount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
+In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have available. These bouncing mushrooms will send you into another Wind Tunnel, onto a zipline, which will again dismount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
 
 Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted First Mate Dolus. 
 
@@ -141,7 +136,7 @@ Once again, have two players stand in the white circle to progress the fractal t
 
 ## Corrupted First Mate Dolus
 
-Are there mechanics to this?
+Dolus will cast the Fear mechanic (large Eye above his model) before becoming targetable, so look away until it's finished. Then he starts casting the Numbers mechanic &mdash; you can break his bar to stun and stop this attack. He doesn't have a ton of HP so bursting him down should be straightforward.
 
 ## Unknown Demon
 <Achievement title="The Fearless Few ">
@@ -175,7 +170,9 @@ Accept the harbinger's challenge and complete the Silent Surf fractal with no on
 </GridItem>
 </Grid>
 
-Intro about how its mostly the same. Take portal to champ and to spawn him kill some adds. Make note to not take mistlock till after champ and after triggering the circle, party is in combat until champ is dead. 
+Similar to Sunqua Peak, at the start you interact with the Challenge Mote to spawn a portal, which will take you directly to the platform where you fight First Mate Dolus. After triggering the circle, a couple of Naga will spawn and then, after a couple of lines from Captain Thess, Dolus will spawn similar to Normal Mode. 
+
+Do not take mistlock before triggering the circle! This way you can kill Dolus quickly and reset your cooldowns before fighting Kanaxai. 
 
 ## Corrupted First Mate Dolus
 
