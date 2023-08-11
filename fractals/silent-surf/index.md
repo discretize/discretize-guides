@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-11T12:34:21.353Z "
+date: "2023-08-11T12:40:22.171Z "
 title: Silent Surf
 image: images/hero_sunqua2.jpg
 group: Challenge Mode
@@ -24,7 +24,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 
 ## Documentation
- 
+  
 https://discretize.pages.dev/docs/
 
  
@@ -222,7 +222,7 @@ Accept the harbinger's challenge and defeat the final boss while he has ten or m
 Intro about the boss, condi heavy encounter, bit buggy etc... 
 ### 100% - 66%
 ### Mechanics Overview
-Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Tabs>
 <Tab title="Dread Visage">
 <Grid>
@@ -272,7 +272,7 @@ Q: Is there a strategy for how to best position those axes?
 
 ### 66% World Cleaver
 ### Mechanics Overview
-Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Card title="World Cleaver">
 <Grid>
 <GridItem sm="6">
@@ -289,7 +289,7 @@ Probably some more detail here about strats or mechnaics than the short overview
 
 ### 66% - 33%
 ### Mechanics Overview
-Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Tabs>
 <Tab title="Island Fear">
 <Grid>
@@ -318,7 +318,7 @@ Probably some more detail here about strats or mechnaics than the short overview
 
 ### 33% World Eater
 ### Mechanics Overview
-Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Card title="World Cleaver">
 <Grid>
 <GridItem sm="6">
@@ -335,8 +335,8 @@ Probably some more detail here about strats or mechnaics than the short overview
 
 ### 33% - 0%
 ### Mechanics Overview
-Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
-<Card title="Numbers Fear">
+Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
+<Card title="Frightening Speed, but it's also Dread Visage">
 <Grid>
 <GridItem sm="6">
 Mitigation  (What is the mechanic and how to manage it)
