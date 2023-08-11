@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-06-30T12:49:52.973Z "
+date: "2023-08-11T04:19:06.948Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -71,7 +71,7 @@ The build benefits from slaying potions such as <Item name="Powerful Potion of s
 | <Skill name="supplycrate"/>                         | 200 damage                                                         |
 | <Skill name="blastgyro"/>                           | 232 damage                                                         |
 | <Skill name="throwmine" profession="engineer"/>     | 200 damage                                                         |
-| <Skill name="Rocket Charge" profession="engineer"/> | 100 damage <br/> (leap finisher in <Skill name="Function Gyro"/>) |
+| <Skill name="Rocket Charge" profession="engineer"/> | 100 damage <br/> (Leap Finisher in the Lightning Field from <Skill name="Function Gyro"/> or <Skill name="sparecapacitor"/>) |
 
 </GridItem>
 <GridItem sm="5">
@@ -87,7 +87,7 @@ The build benefits from slaying potions such as <Item name="Powerful Potion of s
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Shredder Gyro" size="big" disableText/>        | An higher damage alternative for <Skill name="Blast Gyro"/>, if might is not required. Also gives access to the toolbelt skill <Skill name="Spare Capacitor"/>. |
-| <Skill name="Healing Turret" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/>. To blast use the flip skill <Skill id="5961"/>. |
+| <Skill name="Healing Turret" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
 | <Skill name="Sneak Gyro" size="big" disableText/>       | Used to provide <Effect name="Stealth"/>, especially useful in T4s for skipping large groups of mobs.                                                                                                                             |
 | <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
 | <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put condition on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
