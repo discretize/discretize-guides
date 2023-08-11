@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-11T03:07:35.369Z "
+date: "2023-08-11T10:04:08.650Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -18,7 +18,7 @@ description: Why are you here? I came to this mountain to be alone.
 group: Challenge Mode
 sigils: []
 ---
-
+ 
 You can also use little animations. for that, please just record the video in good quality with minimal ui and effects, and send only the snippet to princeps. 
 princeps has a transcode script, which makes the videos small and webfriendly.
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
@@ -110,7 +110,7 @@ When ready stand in the white circle (you need at least two playsers in this cir
 
 The third box of leftover supplies will give you <Skill name="Grappling Hook" text="1 Grappling Hook"/>, <Skill name="Parachute" text="1 Parachute"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. Looking over the edge of the platform you will see some large bouncing mushrooms below.
 
-Jump down onto the mushrooms (as long as you hit them you will not take fall damage) and as you get flung into the air use <Skill name="Grappling Hook"/> (skill 1) on the  large Stalactite in the center of the cavern. If required, you can then use <Skill name="Black Powder Charge"/> (skill 3) to boost yourself forward to land on the ground infront of you. Use the Wind Tunnel to get boosted up to the next platform.
+Jump down onto the mushrooms (as long as you hit them you will not take fall damage) and as you get flung into the air use <Skill name="Grappling Hook"/> (skill 1) on the  large Stalactite in the center of the cavern. If required, you can then use <Skill name="Black Powder Charge"/> (skill 3) to boost yourself forward to land on the ground infront of you. Use the Wind Cannon to get boosted up to the next platform.
 
 Like the last section, you need at least two players to stand in the white circle on the platform to progress the fractal. This starts the event clear out the Naga raiders. Once dealt with the third checkpoint will trigger and Thess will open up another portal.
 
@@ -125,9 +125,9 @@ Like the last section, you need at least two players to stand in the white circl
 <GridItem sm="6">
 ### Wind Cannons
 
-On the platform is another box of leftover supplies. This box gives you <Skill name="Grappling Hook" text="3 Grappling Hooks"/>, <Skill name="Parachute" text="2 Parachutes"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. When ready enter the next Wind Tunnel, which weill shoot you onto a zupline above. At the end of the zipline you will be dismounted and fall towards more bouncing mushrooms (if you need, use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to adjust your course). The mushrooms will send you into another Wind Tunnel leaving you on another ledge.
+On the platform is another box of leftover supplies. This box gives you <Skill name="Grappling Hook" text="3 Grappling Hooks"/>, <Skill name="Parachute" text="2 Parachutes"/>, and <Skill name="Black Powder Charge" text="1 Black Powder Charge"/>. When ready enter the next Wind Cannon, which weill shoot you onto a zupline above. At the end of the zipline you will be dismounted and fall towards more bouncing mushrooms (if you need, use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to adjust your course). The mushrooms will send you into another Wind Cannon leaving you on another ledge.
 
-In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have available. These bouncing mushrooms will send you into another Wind Tunnel, onto a zipline, which will again dismount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
+In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have available. These bouncing mushrooms will send you into another Wind Cannon, onto a zipline, which will again dismount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
 
 Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted First Mate Dolus. 
 
@@ -136,7 +136,18 @@ Once again, have two players stand in the white circle to progress the fractal t
 
 ## Corrupted First Mate Dolus
 
-Dolus will cast the Fear mechanic (large Eye above his model) before becoming targetable, so look away until it's finished. Then he starts casting the Numbers mechanic &mdash; you can break his bar to stun and stop this attack. He doesn't have a ton of HP so bursting him down should be straightforward.
+Corrupted First Mate Dolus is a simple fight that has two main mechanics. When Dolus appears he is untargatable while he does his first attack, Dread Visage. A large eye will appear above his head, when you see this turn your character model to face away to avoid getting <Condition name="Fear" text="Feared"/>. Thess will be knocked off the platform and the fight will begin.
+
+Dolus will now be targetable and start casting Frightening Speed (the numbers attack). Each player will be marked with a number and get an expanding AoE around them. Spread out making sure to not stand in another players circle and after a short period Dolus will dash to each player in order attacking them.  Dolus has a small defiance bar, which when broken will <Control name="Stun"/> him, cancelling his current attack and in higher dps groups, allow you to stack and ignore the numbers mechanic, killing Dolus before he has a chance to cast anything else.
+
+<Grid>
+<GridItem sm="6">
+<GifPlayer caption="Dread Visage mechanic"/>
+</GridItem>
+<GridItem sm="6">
+<GifPlayer caption="Frightening Speed mechanic"/>
+</GridItem>
+</Grid>
 
 ## Unknown Demon
 <Achievement title="The Fearless Few ">
