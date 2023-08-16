@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: true
 specialization: Specter
 code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-08-16T22:43:44.539Z "
+date: "2023-08-16T22:48:07.428Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -227,7 +227,7 @@ On Scepter/Dagger you want to use:
 
 You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and <Item id="24609"/>
 
-In <Skill name="Enter Shadow Shroud" text="Shadow Shorud"/> you want to use:
+In <Skill name="Enter Shadow Shroud" text="Shadow Shroud"/> you want to use:
 
 - <Skill name="Eternal Night"/> (Shroud 4)
 - <Skill name="Grasping Shadows"/> (Shroud 2)
