@@ -26,7 +26,6 @@ The <Specialization name="Soulbeast"/> is a DPS build with very high burst damag
 This build is rather self-sufficient due to:
 
 - <Boon name="Quickness"/> from <Trait name="livefast"/>
-- <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
 - High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 
