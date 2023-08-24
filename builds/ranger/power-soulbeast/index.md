@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-08-13T01:51:44.537Z "
+date: "2023-08-16T20:57:31.162Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -49,7 +49,6 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 |                                                            |                                                                                                                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Resounding Timbre" size="big" disableText/>             | Currently bugged and still applying a cooldown reduction to commands. Can be taken to reduce the cooldown of <Skill name="Sic Em"/> if needed.                                                                                             |
 | <Trait name="Wilting Strike" size="big" disableText/>      | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
 | <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword or underwater Spear for cooldown reduction and more damage.                              |
 | <Trait id="2128" size="big" disableText/>                  | Taken on fights where it can be casted each phase such as Ensolyss                                                                          |
