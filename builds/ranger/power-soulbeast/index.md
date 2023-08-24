@@ -1,11 +1,7 @@
 ---
-title: Power Soulbeast
 hidden: false
 archive: false
 hasBeginner: false
-rating: Meta
-role: Power Damage
-profession: Ranger
 specialization: Soulbeast
 code: "[&DQQgPx49Nyp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
@@ -14,8 +10,12 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-08-07T15:31:42.151Z "
+date: "2023-08-13T01:51:44.537Z "
 cmguide: static
+title: Power Soulbeast
+rating: Meta
+role: Power Damage
+profession: Ranger
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -26,7 +26,6 @@ The <Specialization name="Soulbeast"/> is a DPS build with very high burst damag
 This build is rather self-sufficient due to:
 
 - <Boon name="Quickness"/> from <Trait name="livefast"/>
-- <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
 - High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 
