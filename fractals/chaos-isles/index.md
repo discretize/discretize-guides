@@ -2,11 +2,20 @@
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-07T22:00:58.754Z "
+date: "2023-08-27T19:50:29.946Z "
 title: Chaos Isles
+image: images/legendary_brazen_gladiator.jpg
+group: t4
+api: 3038
+bosses: 2
 difficulties:
   - level: 88
     ar: 129
+sigils:
+  - id: 24615
+  - id: 24554
+    description: for the Chaos Anomaly
+  - id: 24868
 consumables:
   - 49940
 record:
@@ -28,16 +37,7 @@ record:
       name: Inky
       specialization: Renegade
 long_description: ""
-image: images/legendary_brazen_gladiator.jpg
-api: 3038
-bosses: 2
 description: I'm warning you—you don't belong here. Get out now.
-group: t4
-sigils:
-  - id: 24615
-  - id: 24554
-    description: for the Chaos Anomaly
-  - id: 24868
 ---
 
 <Grid>
@@ -45,7 +45,7 @@ sigils:
 
 ## Start: You think this is Cliffside
 
-Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person may rush ahead and move to the next checkpoint at the _Chaos Anomaly_, which involves a small jumping puzzle and kitty golems that <Control name="Knockback" /> the player off the platforms. As soon as one person reached the checkpoint, everyone else can `/gg` and resurrect at the checkpoint at the _Chaos Anomaly_.
+Kill the four _Veteran Chanters_ at the beginning to open the gate to the right side of the map. The fastest person may rush ahead on the path leading to the next encounter, which involves a small jumping puzzle and kitty golems that <Control name="Knockback" /> the player off the platforms. As soon as one person reaches the checkpoint, everyone else can `/gg` and resurrect at the platform near the [Chaos Anomaly](https://wiki.guildwars2.com/wiki/Chaos_Anomaly).
 
 While the video showcases the skip for <Specialization name="Thief"/> any class can execute the skip effectively with the help of blocks and reflects.
 
@@ -66,7 +66,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. Always the golem that gets killed last will be eliminated and not reappear in the next phase.
+Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. _Alternatively, you can check if you still need one of them for the **Kitty Compactor** and focus on it. Every 25% health, The Chaos Anomaly will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. Always the golem that gets killed last will be eliminated and not reappear in the next phase.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 
