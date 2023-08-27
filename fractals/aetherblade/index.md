@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T16:32:51.311Z "
+date: "2023-08-27T18:55:19.849Z "
 title: Aetherblade
 image: images/header_old.jpg
 group: t4
@@ -103,7 +103,7 @@ Jump on the rocks to the right of the entrance, use <Skill name="Shackling Wave"
 Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
 
-<Tab specialization="Guardian">
+<Tab specialization="Guardian"> 
 <ProfessionVideo title="First puzzle skip" profession="Guardian" src="MmJTsOhdQeo" timestamp="460"/>
 Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. Equip conditions cleanses such as <Skill id="45460"/> or <Skill id="9187"/> and clear the consoles. The<Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
@@ -118,6 +118,10 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skills such as <Skill id="10685"/> or <Skill id="10609"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
 </Tabs>
+
+<Achievement title="Holo-Hornpipe">
+Dance with the Aetherblade hologram dancers by simply typing /dance near the two hologram dancers in the lasers room.
+</Achievement>
 
 </GridItem>
 
