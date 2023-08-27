@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T22:43:45.257Z "
+date: "2023-08-27T23:50:41.874Z "
 title: Aetherblade
 image: images/header_old.jpg
 group: t4
@@ -170,7 +170,7 @@ After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small 
 
 When the first golem dies, the two _Small Lasers_ disappear and two _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you can only bypass entirely with <Effect name="Invulnerability"/>.
 
-As soon as the two golems are dead, the two _Small Lasers_ **and** the two _Large Lasers_ spin simultaneously and two final golems wake up. Kill the last golems to finish the fight.
+As soon as the two golems are dead, the two _Small Lasers_ **and** the two _Large Lasers_ spin simultaneously and two final golem wake up. Kill the last golem to finish the fight.
 
 If a golem walks through a laser, it powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
 <Achievement title="Still Faster Than Light">
