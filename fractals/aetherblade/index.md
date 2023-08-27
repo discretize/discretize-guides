@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T23:50:41.874Z "
+date: "2023-08-27T23:58:37.388Z "
 title: Aetherblade
 image: images/header_old.jpg
 group: t4
@@ -119,7 +119,7 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 </Tab>
 </Tabs>
 <Achievement title="Holo-Hornpipe">
-Dance with the Aetherblade hologram dancers by simply typing /dance near the two hologram dancers in the lasers room.
+Dance with the Aetherblade hologram dancers by simply typing `/dance` near the two hologram dancers in the lasers room.
 </Achievement>
 </GridItem>
 
