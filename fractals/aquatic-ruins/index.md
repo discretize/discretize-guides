@@ -4,8 +4,12 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-06-30T17:11:46.451Z "
+date: "2023-08-27T16:58:47.199Z "
 title: Aquatic Ruins
+image: images/header_old.jpg
+group: t4
+api: 2956
+bosses: 1
 difficulties:
   - level: 76
     ar: 107
@@ -15,6 +19,9 @@ difficulties:
     ar: 18
   - level: 7
     ar: 0
+sigils:
+  - id: 24658
+  - id: 24615
 consumables:
   - 78978
 record:
@@ -38,16 +45,9 @@ record:
 long_description: The Aquatic Ruins Fractal takes you on a journey through the
   long-forgotten ruins of an ancient civilization. Swimming through the
   submerged corridors, watch out for deadly sea creatures, treacherous currents,
-  and the legendary Jellyfish Beast. Don't forget your underwater gear and prepare to
-  explore and uncover the secrets hidden within the depths.
-image: images/header_old.jpg
-api: 2956
-bosses: 1
+  and the legendary Jellyfish Beast. Don't forget your underwater gear and
+  prepare to explore and uncover the secrets hidden within the depths.
 description: The krait took our people into the water. You have to stop them!
-group: t4
-sigils:
-  - id: 24658
-  - id: 24615
 ---
 
 <Grid>
@@ -57,7 +57,7 @@ sigils:
 <Warning >
 This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance. Make sure you have a rune equipped on your <Item name="zojjasclothbreather" text="Aquabreather"/> and sigils on your weapons (these should be the same as on land). This will make the fractal significantly easier to complete, even if you dont have the right weapon or breather stats.
 
-When adjusting your build for underwater, coordinate with your team and make sure you can cover <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. There can also be large amounts of incoming damage on this fractal so we reccomend making sure you have <Boon name="Protection"/>, <Boon name="Stability"/>, and plenty of condition cleanse!
+When adjusting your build for underwater, coordinate with your team and make sure you can cover <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. There can also be large amounts of incoming damage on this fractal so we recommend making sure you have <Boon name="Protection"/>, <Boon name="Stability"/>, and plenty of condition cleanse!
 </Warning>
 
 </GridItem>
@@ -119,7 +119,7 @@ As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText
 
 ## Path to endboss
 
-In the next section, there are two paths available that change weekly. 
+In the next section, there are two paths available that change daily. 
 
 <Grid>
 <GridItem>
