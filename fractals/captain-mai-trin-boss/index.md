@@ -4,7 +4,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T19:24:15.133Z "
+date: "2023-08-27T23:18:18.932Z "
 title: Captain Mai Trin Boss
 image: images/header_old.jpg
 group: T4
@@ -87,6 +87,9 @@ Play Greatsword with <Skill name="blood reckoning"/> for maximum cleave with dou
 Bring <Skill name="mantraofliberation"/> and <Skill name="wallofreflection"/>. Coordinate with your <Specialization name="Renegade"/>! Use your pulls on <Skill name="Blazing Edge"/> and <Skill name="Chapter 3: Heated Rebuke"/> to stack up the additional adds.
 </Tab>
 </Tabs>
+<Achievement name="Aetherblade Captain Stabilizer">
+  You've completed the Captain Mai Trin boss fractal inside the Fractals of the Mists. _"Mai tried, but Trin didn't Win."_
+</Achievement>
 
 </GridItem>
 
