@@ -2,7 +2,7 @@
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T21:07:10.368Z "
+date: "2023-08-27T23:49:58.617Z "
 title: Chaos Isles
 image: images/legendary_brazen_gladiator.jpg
 group: t4
@@ -42,8 +42,14 @@ description: I'm warning you—you don't belong here. Get out now.
 
 <Grid>
 <GridItem sm="6">
+## Before you start: 
 
-## Start: You think this is Cliffside
+Keep your eye out for [Lost Journal Pages](https://wiki.guildwars2.com/wiki/Lost_Journal_Page) throughout the fractal! 
+
+<Achievement name="Notetaker">
+  Find all 7 of the lost journal pages in Chaos Isles.
+</Achievement>
+## Start: You think this is Cliffside 
 
 Kill the four _Veteran Chanters_ at the beginning to open the gate to the right side of the map. The fastest person may rush ahead on the path leading to the next encounter, which involves a small jumping puzzle and kitty golems that <Control name="Knockback" /> the player off the platforms. As soon as one person reaches the checkpoint, everyone else can `/gg` and resurrect at the platform near the [Chaos Anomaly](https://wiki.guildwars2.com/wiki/Chaos_Anomaly).
 
@@ -66,7 +72,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. _Alternatively, you can check if you still need one of them for the **Kitty Compactor** and focus on it._ Every 25% health, The Chaos Anomaly will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. Always the golem that gets killed last will be eliminated and not reappear in the next phase.
+Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. _Alternatively, you can check if you still need one of them for the **Kitty Compactor** and focus on it._ Every 25% health, The Chaos Anomaly will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. _This is the one that will count towards the achievement_. The last golem to be killed is the one that will not spawn in the next phase.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 
@@ -83,6 +89,9 @@ You can use <Skill name="Binding Blade"/> to group the little cats at the start 
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 </Tabs>
+<Achievement name="Kitty Compactor">
+  Defeat each of the Champion Golems. This will require to run the fractal a minimum of 4 times; kill the same golem first at each phase to make the Champion version spawn! _CHOP can be tricky because of Stealth_
+</Achievement>
 </GridItem>
 
 <GridItem>
@@ -101,9 +110,9 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 ## Blizzard path (Forest)
 
-You will need to enlighten four _bonfires_ on the path to progress to the end boss. **The _Enlighten_ special action key has unlimited charges, which means the forest may be solod.**
+You will need to light four _bonfires_ on the path leading to the end boss. **The _Enlighten_ special action key has unlimited charges, which means the forest may be soloed.**
 
-You could stack <Effect name="Stealth"/> to skip the mobs although it usually is not necessary. Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
+You could stack <Effect name="Stealth"/> to skip the mobs although it's usually not necessary. Learn to dodge the tentacles <Control name="Knockback"/>. Mobility skills and <Item id="49940"/> are very good here.
 </GridItem>
 </Grid>
 
@@ -143,7 +152,9 @@ Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take 
 Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
 </Tab>
 </Tabs>
-
+<Achievement name="Chaos Demolisher">
+  Complete the Chaos Fractal on the Master tier.
+</Achievement>
 </GridItem>
 
 <GridItem sm="5">
