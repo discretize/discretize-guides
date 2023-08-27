@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Daredevil
-code: "[&DQUcPSMbBzmUEoUAVAEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
+code: '[&DQUcPSMbBzmUEoUAVAEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
 classification:
   - 4
   - 3
   - 2
   - 2
   - 4
-date: "2023-08-27T21:10:36.631Z "
+date: '2023-08-27T21:10:36.631Z '
 title: Power Daredevil
 rating: Other
 role: Power Damage
@@ -18,7 +18,7 @@ conditions:
   - name: Vulnerability
     uptime: 5 stacks
 ---
- 
+
 <Warning>
 <Specialization name="Daredevil" text="Power Daredevil"/> is an incredibly strong build to play in T4 fractals and is a great build to swap to if you play <BuildLink build="Condi Specter" specialization="Specter"/> in CMs. In T4s recognising when to swap between <Specialization name="Daredevil" text="Power Daredevil"/> and <Specialization name="Specter" text="Condi Specter"/> will be a massive gain to your team and well worth the extra effort, making thief a very rewarding class to play!
 </Warning>
@@ -39,8 +39,9 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 
 Relics:
 
-- <Item id="100916"> is a good default option and the best option for phases longer than 20s/split phases without adds.
-- <Item id= "100916"> is a great alternative for short phases and fights without split phases with adds. If you wanna pre-cast your elite skill before a fight, make sure to swap out the relic first, use the elite skill and then swap it back in.
+- <Item id="100916"/> is a good default option and the best option for phases longer than 20s/split phases without adds.
+- <Item id= "100916"/> is a great alternative for short phases and fights without split phases with adds. If you wanna pre-cast your elite skill before a fight, make sure to swap out the relic first, use the elite skill and then swap it back in.
+
 Alternative weapons:
 
 - Staff with <Item id="36053" disableText/> / <Item id="24615" disableText/> and slaying sigils
@@ -85,6 +86,7 @@ If no one in your party can boonrip when the <Instability name="No Pain, No Gain
 | <Skill id="13012"/> | 200 Defiance bar damage (260 with <Item id="24639"/>) |
 
 ### T4 Skips
+
 <Video youtube="Alpgs_GaZV0"/>
 
 </GridItem>
