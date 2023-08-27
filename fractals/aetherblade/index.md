@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T19:22:19.515Z "
+date: "2023-08-27T22:43:45.257Z "
 title: Aetherblade
 image: images/header_old.jpg
 group: t4
@@ -121,14 +121,13 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 <Achievement title="Holo-Hornpipe">
 Dance with the Aetherblade hologram dancers by simply typing /dance near the two hologram dancers in the lasers room.
 </Achievement>
-
 </GridItem>
 
 <GridItem sm="3">
 ![Moving laser pattern](images/moving_lasers.jpg)
 ![Spinning lasers](images/spinning_lasers.jpg)
-
 <GifPlayer sourceId="aetherblade-consoles" caption="Use Condition cleanses to activate all consoles solo"/>
+
 </GridItem>
 </Grid>
 
@@ -174,11 +173,13 @@ When the first golem dies, the two _Small Lasers_ disappear and two _Aetherblade
 As soon as the two golems are dead, the two _Small Lasers_ **and** the two _Large Lasers_ spin simultaneously and two final golems wake up. Kill the last golems to finish the fight.
 
 If a golem walks through a laser, it powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
-
 <Achievement title="Still Faster Than Light">
 Don't get hit by the lasers! The hardest part is when all lasers are up, rotating at different speeds.
 </Achievement>
 
+<Achievement title="Aetherblade Retreat Stabilizer">
+You've completed the Aetherblade fractal inside the Fractals of the Mists.
+</Achievement>
 </GridItem>
 
 <GridItem>
