@@ -4,7 +4,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T19:35:00.290Z "
+date: "2023-08-27T23:13:30.844Z "
 title: Aquatic Ruins
 image: images/header_old.jpg
 group: t4
@@ -162,6 +162,9 @@ The boss always starts with an AoE stun-spin attack. <Boon name="Stability"/> sp
 Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Krait spawn. Kill them to continue the fight.
 
 When the <Instability name="Afflicted"/> is present, it is highly recommended to bring some kind of condition-cleanse due to the ticking aura during the split phases applying conditions.
+<Achievement name="Aquatic Ruins Fractal Stabilizer">
+ You've completed the Aquatic Ruins fractal inside the Fractals of the Mists.
+</Achievement>
 </GridItem>
 
 <GridItem sm="5">
