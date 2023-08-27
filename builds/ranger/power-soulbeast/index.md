@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-08-16T20:57:31.162Z "
+date: "2023-08-27T18:46:28.573Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -21,7 +21,7 @@ conditions:
     uptime: 20 stacks
 ---
 
-The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that can provides strong party buffs with <Skill name="One Wolf Pack"/> and other stances, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
   
 This build is rather self-sufficient due to:
 
@@ -71,24 +71,26 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 <GridItem sm="5">
 ### Swap Weapons
 
-- Warhorn for <Boon name="Might"/> pre-stacking, can use a concentration sigil in prestack warhorn.
+- Warhorn for <Boon name="Might"/> pre-stacking, can use <Item name="Concentration" type="Sigil"/> in prestack warhorn.
+- Hammer instead of Longbow in slower groups for extra CC and more potential DPS.
+- Weapons with specific slaying sigils and/or <Item name="Night" type="Sigil" /> (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
+- Longbows with <Item name="Severance" type="Sigil"/> are strong for several bosses, especially in faster groups. Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast)) for more information.
+- An Axe with <Item name="Severance" type="Sigil"/> instead of <Item name="Impact" type="Sigil"/> in **very fast** groups is good on Artsariiv.
 - Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-- Axes, Longbows, Swords, and Greatswords with slaying/night sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
-- Longbows with Severance are strong for some bosses (Artsariiv, Arkk, MAMA, Ensolyss), especially in faster groups. For Ensolyss you will need a Longbow with Serpent/Severance, the other fights should be Force/Severance.
-- An Axe with Severance to replace Impact in **very fast** groups is good on Artsariiv.
+
 
 ### Situational Skills
 
 |                                                           |                                                                                                                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Signet of the wild" size="big" disableText/> | Your standard 3rd utility, dealing the most damage.                                                                                                                     |
-| <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking. Can also be run in fight to allow for other players to run offensive builds. |
-| <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.                           |
-| <Skill name="Signet of the hunt" size="big" disableText/>  | A source of <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.                           |
-| <Skill name="Dolyak Stance" size="big" disableText/>      | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles).                                                                  |
-| <Skill name="sharpeningstone" size="big" disableText/>    | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS.                                                       |
-| <Skill name="Bear stance" size="big" disableText/>        | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv.                                                 |
-| <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse.                                    |
+| <Skill name="Signet of the wild" size="big" disableText/> | Your standard 3rd utility, dealing the most damage.|
+| <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking. Can also be run in fight to allow for other players to run offensive builds.|
+| <Skill name="Bear stance" size="big" disableText/>        | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy in [Captain Mai Trin](/fractals/captain-mai-trin-boss), [Artsariiv](/fractals/shattered-observatory), and during any fractal with <Instability name="Afflicted"/>.|
+| <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. The same situations described in <Skill name="Bear stance" size="small" disableText /> apply here.|
+| <Skill name="Dolyak Stance" size="big" disableText/>      | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles).|
+| <Skill name="sharpeningstone" size="big" disableText/>    | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS.|
+| <Skill name="Signet of the hunt" size="big" disableText/>  | A source of <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.|
+| <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.|
 | <Skill name="Signet of stone" size="big" disableText/>    | Prevents you from taking damage. Can be used to perform skip for the left path in [Deepstone](/fractals/deepstone).
 
 ### Pets
@@ -105,9 +107,9 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 <Divider text="Details"/>
 
-The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="Exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="Exposed"/> on the boss.
+All DPS builds should focus on getting as much damage into the <Effect name="Exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="Exposed"/> on the boss.
 
-Also as <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>.
+As <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>.
 
 In PuGs, however, it is quite hard to predict when the boss will be CC'd as well as phases can last a lot longer than expected, because of this the golem rotation is listed in the next section so that you can resort back to it if you end up in a longer phase.
 
