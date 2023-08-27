@@ -4,7 +4,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T16:58:47.199Z "
+date: "2023-08-27T19:35:00.290Z "
 title: Aquatic Ruins
 image: images/header_old.jpg
 group: t4
@@ -139,7 +139,12 @@ If you get this path, swim together and take the _Luminous Plants_ on the way to
 <GridItem>
 ### Dolphin Path
 
-If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get <Effect name="Stealth"/>. `Skill 5` can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the checkpoint you wait for your party to `/gg` and spawn next to you. Kill the Champion Krait to get to the Jellyfish Beast.
+If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get <Effect name="Stealth"/>. `Skill 5` can be used to instantly revive nearby dead allies. As soon as someone reaches the checkpoint you wait for your party to `/gg` and spawn next to you. Kill the Champion Krait to get to the Jellyfish Beast.
+
+<Achievement name="Flawless Fins Foil Foes">
+ As a dolphin, don't get caught by Krait by dodging **twice** when you anticipate a Krait attack.
+</Achievement>
+
 </GridItem>
 </Grid>
 
