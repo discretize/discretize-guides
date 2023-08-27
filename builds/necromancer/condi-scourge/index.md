@@ -70,9 +70,11 @@ Unlike a full dps <Specialization name="Scourge"/>, you are should to use <Skill
 <Skill name="Desiccate"/> is an alternative if your group lacks <Boon name="Fury"/> or will benefit from th  8 stacks of <Boon name="Might"/> and provides Life Force as well.   
 
 The final change is to take the following traits in the <Specialization name="Scourge"/> traitline:
-<Traits traits1="Scourge" traits1Selected="Fell Beacon , Sandstorm Shroud, Desert Empowerment"/>
+<Traits traits1="Scourge" traits1Selected="Fell Beacon,heraldofsorrow,Desert Empowerment"/>
+
 ### Situational Traits
 #### Blood Magic
+
 Running Blood Magic instead of Soul Reaping can be an option if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
 
 <Traits traits1="Blood Magic" traits1SelectedIds="780, 1844, 778"/>
