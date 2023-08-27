@@ -4,7 +4,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T18:11:23.501Z "
+date: "2023-08-27T18:22:00.747Z "
 title: Captain Mai Trin Boss
 image: images/header_old.jpg
 group: T4
@@ -54,8 +54,11 @@ You can precast <Skill name="Conjure Fiery Greatsword"/> without it despawning e
 
 <Grid>
 <GridItem sm="7">
-Mai Trin is protected by ten stacks of [Captain’s Shield](https://wiki.guildwars2.com/wiki/Captain%27s_Shield), each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horrik's _Electric Blast_. Standing in the electric field will remove one stack per second from her. The fire field projectile from Horrik can be reflected and absorbed. You can easily recognize the projectile type from the icon above the targeted player (see image) and the telegraphed electric fields on the ground.
+When you enter the arena, there is a hard <Attribute name="Agony Resistance" /> check, resulting in being instantly downed if you do not have the minimum requirement.
+
+Mai Trin is protected by ten stacks of [Captain’s Shield](https://wiki.guildwars2.com/wiki/Captain%27s_Shield), each stack reducing her incoming damage by 10%. The only way to remove stacks is by pulling her into electric fields from Horrik's _Electric Blast_. Standing in the electric field will remove one stack per second from her.You can easily recognize it from the icon above the targeted player (see image) and the telegraphed electric fields on the ground. 
 ![Electric Blast](fractals/captain-mai-trin-boss/images/Electric_blast.png)
+ Horrik's other projectile attack, _Cannon Blast_ which deals damage and inflicts <Condition name="Burning" /> on targets can be reflected and absorbed. 
 
 The key is to stack on Mai Trin during the whole fight: this way she will always be in an electric field, even if she teleports to the furthest player away.
 
