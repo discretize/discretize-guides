@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T18:55:19.849Z "
+date: "2023-08-27T19:22:19.515Z "
 title: Aetherblade
 image: images/header_old.jpg
 group: t4
@@ -68,7 +68,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <GridItem sm="4">
 ![Mines in the water tunnel](images/start.jpg)
 </GridItem>
-</Grid>
+</Grid> 
 
 ---
 
@@ -118,7 +118,6 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skills such as <Skill id="10685"/> or <Skill id="10609"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
 </Tabs>
-
 <Achievement title="Holo-Hornpipe">
 Dance with the Aetherblade hologram dancers by simply typing /dance near the two hologram dancers in the lasers room.
 </Achievement>
