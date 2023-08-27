@@ -5,7 +5,7 @@ hidden: true
 layout: src/layouts/Fractal.astro
 date: "2023-08-11T12:40:22.171Z "
 title: Silent Surf
-image: images/hero_sunqua2.jpg
+image: images/silent_surf_cave.jpg
 group: Challenge Mode
 api: 5446
 bosses: 2
