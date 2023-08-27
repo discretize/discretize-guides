@@ -9,7 +9,7 @@ classification:
   - 2
   - 2
   - 4
-date: "2023-08-27T11:20:08.938Z "
+date: "2023-08-27T21:08:50.710Z "
 title: Power Daredevil
 rating: Other
 role: Power Damage
@@ -144,7 +144,7 @@ Another amazing shortbow skill is <Skill id="13041"/> (Shortbow 2). It is a blas
 
 Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="Daredevil"/> doesn't have access to <Effect name="Superspeed">, you can use a template with <Item id="85244"/> or <Item id="49940"/> to execute even more skips for your party in T4s.
+Although <Specialization name="Daredevil"/> doesn't have access to <Effect name="Superspeed"/>, you can use a template with <Item id="85244"/> or <Item id="49940"/> to execute even more skips for your party in T4s.
 
 ### Rotation
 
