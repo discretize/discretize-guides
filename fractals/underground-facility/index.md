@@ -1,27 +1,17 @@
 ---
-cycle: Night
 potions:
   - id: 8892
     description: for all the Dredge enemies
   - id: 8885
     description: for the Ice Elemental endboss
-date: "2022-01-28T10:13:18.167Z"
+hasCM: false
+cycle: Night
+layout: src/layouts/Fractal.astro
+date: "2023-08-28T11:14:15.308Z "
 title: Underground Facility
-description: Fear the collective!
-long_description: ""
-image: images/header_old.jpg
-group: T4
-api: 2947
-bosses: 2
 difficulties:
   - level: 81
     ar: 117
-sigils:
-  - id: 36053
-  - id: 24684
-    description: for all Dredge enemies
-  - id: 24661
-    description: for the Ice Elemental endboss
 consumables:
   - 78978
   - 49940
@@ -43,8 +33,18 @@ record:
     - id: OMUxEYbtnWE
       name: Deathly
       specialization: Daredevil
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+image: images/header_old.jpg
+api: 2947
+bosses: 2
+description: Fear the collective!
+group: T4
+sigils:
+  - id: 36053
+  - id: 24684
+    description: for all Dredge enemies
+  - id: 24661
+    description: for the Ice Elemental endboss
 ---
 
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
@@ -142,7 +142,7 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 ![The gun path](images/gun_path.jpg)
 
 <Tabs>
-<Tab specialization="thief">
+<Tab specialization="Thief">
 Cast <Skill id="13117"/> for immediate <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
