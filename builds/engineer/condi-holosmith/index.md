@@ -9,7 +9,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-08-28T02:14:51.345Z "
+date: "2023-08-28T02:23:49.599Z "
 title: Condi Holosmith
 rating: Good
 role: Condi Damage
@@ -87,28 +87,28 @@ Soft CC
 
 | Skill                        |  Damage    |
 | ---------------------------- | ---------- |
-<Item name="yassithsrevolver" text="Pistols"/>
+<Item name="yassithsrevolver" text="Pistols" size="medium" />
 
 |                    |                                                                           |
 | ------------------ | ------------------------------------------------------------------------- |
 | <Skill id="5829"/> | <Condition name="Blinded"/> 20/s                                          |
 | <Skill id="5830"/> | <Condition name="Immobile"/> 50/s <br/> <Condition name="Crippled"/> 15/s | 
 
-<Skill name="Grenade Kit"/>
+<Skill name="Grenade Kit" size="medium" />
 
 |                    |                                  |
 | ------------------ | -------------------------------- |
 | <Skill id="5808"/> | <Condition name="Blinded"/> 20/s |
 | <Skill id="5809"/> | <Condition name="Chilled"/> 50/s |
 
-<Skill name="Bomb Kit"/> 
+<Skill name="Bomb Kit" size="medium" /> 
 
 |                    |                                                                           |
 | ------------------ | ------------------------------------------------------------------------- |
 | <Skill id="5824"/> | <Condition name="Blinded"/> 20/s                                          |
 | <Skill id="5939"/> | <Condition name="Immobile"/> 50/s <br/> <Condition name="Crippled"/> 15/s |
 
-<Skill name="Flamethrower"/>
+<Skill name="Flamethrower" size="medium" />
 
 |                    |                                  |
 | ------------------ | -------------------------------- |
