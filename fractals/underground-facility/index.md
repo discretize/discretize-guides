@@ -7,7 +7,7 @@ potions:
 hasCM: false
 cycle: Night
 layout: src/layouts/Fractal.astro
-date: "2023-08-28T11:14:15.308Z "
+date: "2023-08-28T11:24:54.460Z "
 title: Underground Facility
 difficulties:
   - level: 81
@@ -102,11 +102,11 @@ Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 Use <Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="Knockback"/>.
 </Tab>
 
-<Tab specialization="thief">
+<Tab specialization="Thief">
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="Stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="Stealth"/> to completely activate the console.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Ranger">
 
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
@@ -185,7 +185,7 @@ The most deadly skills here are the _Bombs_ from the Dredge Powersuit (they spaw
 
 <Tabs>
 
-<Tab specialization="thief">
+<Tab specialization="Thief">
 
 Teleport to the lava buckets from below with <Skill id="13025"/>.
 </Tab>
