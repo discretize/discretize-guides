@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2023-04-07T14:51:47.520Z "
+date: "2023-08-28T10:18:43.004Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -10,7 +10,7 @@ description: Everything around compositions in fractals
 It boils down to five important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
 
 1. Boons: 25 stacks of <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>.
-2. Conditions: 25 stacks of <Condition name="vulnerability"/>, along with any unique condis that your class needs to gain damage modifiers.
+2. Conditions: 25 stacks of <Condition name="Vulnerability"/>, along with any unique condis that your class needs to gain damage modifiers.
 3. Breaking [CC bars](guides/cc-distribution) to gain the damage modifier from <Effect name="Exposed"/>.
 4. High and fast group single target burst potential.
 5. Using strong damaging class skills such as <Skill name="Spider Venom"/> or <Skill name="onewolfpack"/>
