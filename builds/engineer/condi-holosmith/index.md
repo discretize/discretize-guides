@@ -9,7 +9,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-06-30T14:22:40.735Z "
+date: "2023-08-28T02:14:51.345Z "
 title: Condi Holosmith
 rating: Good
 role: Condi Damage
@@ -20,7 +20,7 @@ conditions:
 cmGuide: ""
 ---
 
-The <Specialization text="Condi Holosmith" name="Holosmith"/> is a bursty and high-damage condi build that performs very well in condition comps, and especially well in the Sunqua Peak fractal.  and a bit of <Boon name="Might"/> .
+The <Specialization text="Condi Holosmith" name="Holosmith"/> is a bursty and high-damage condi build that performs very well in condition comps, and especially well in the Sunqua Peak fractal.
 
 It offers:
 
@@ -29,7 +29,7 @@ It offers:
 - Good utility through <Condition name="Vulnerability"/> and access to some <Condition name="Blinded"/>, <Condition name="Crippled"/>, <Condition name="Chilled"/> and <Condition name="Immobile"/>
 - Some <Boon name="Might"/> to the party through <Skill name="Corona Burst"/>
 
-In fractals, the build plays with <Trait name="Photonic Blasting Module"/> exclusively. The <Trait name="Thermal Release Valve"/> variant is a bit too complex, and is really only good on very long and uninterrupted encounters such as Dark Ai.
+There's another variant of this build that uses the trait <Trait name="Thermal Release Valve"/> (TRV) where the build in this page uses <Trait name="Photonic Blasting Module" /> (PBM). TRV can reach its peak damage more often when compared to PBM, but it can be unreliable in real fights because of boon uptimes. With PBM, even if your group lacks perfect Alacrity and Vigor, you'll eventually reach 0 Heat and be able to start Photon Forge again. However, with TRV you will likely have to delay Photon Forge thus resulting in a larger DPS loss. 
 
 <Divider text="Equipment"/>
 
@@ -60,8 +60,8 @@ In fractals, the build plays with <Trait name="Photonic Blasting Module"/> exclu
 ### Situational Skills
 |                                                     |                                                                                                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="5857" size="big" disableText/>           | An alternative heal skill if condition cleanse is needed. You can cast it AFTER (cause of water field) a fire field to blast <Boon name="might"/>.                                                      |
-| <Skill id="43739" size="big" disableText/>          | A (group) block that also reflects projectiles if heat is above 50.                                                                                                                                     |
+| <Skill id="5857" size="big" disableText/>           | An alternative heal skill if condition cleanse is needed. You can cast it in a Fire Field to blast <Boon name="might" />, but make sure you do it after the field is down because this turret creates a Water Field.                                                      |
+| <Skill id="5930" size="big" disableText/>          | This skill also reflects projectiles in front of you.                                                                                                                                     |
 
 
 </GridItem>
@@ -133,7 +133,7 @@ The rotation is like a priority list, with your most important skills being:
 
 Abilities listed above are all very high-damage skills. Taking cast times and cooldowns in consideration, the priority list is thus:  <Skill name="Poison Dart Volley"/>, <Skill name="Blowtorch"/>, <Skill name="Shrapnel Grenade"/>, <Skill name="Poison Grenade"/>, <Skill name="Fire Bomb"/>, <Skill name="Napalm"/> and <Skill name="Flame Blast"/>. Those skills are all very important when in a state of <Skill id="45219"/>, while <Skill name="Corona Burst"/> and <Skill name="Photon Blitz"/> are the major abilities to be used in <Skill name="Engage Photon Forge"/>.
 
-**Always preheat to 80 Heat before engaging combat.**
+**Always preheat to 77&ndash;80 Heat before engaging combat.**
 
 #### Extra Notes
 - Use <Skill name="Incendiary Ammo"/> off cooldown.
