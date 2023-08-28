@@ -1,21 +1,14 @@
 ---
+hasCM: false
 cycle: Night
-date: "2022-07-01T17:29:49.600Z"
+layout: src/layouts/Fractal.astro
+date: "2023-08-28T11:11:19.080Z "
 title: Swampland
-description: Ugh, a swamp. I knew I should've sprayed you all with mosquito repellent before you left.
-long_description: ""
-image: images/bloomhunger_spirit_onslaught.jpg
-group: T4
-api: 2892
-bosses: 1
 difficulties:
   - level: 77
     ar: 109
   - level: 89
     ar: 130
-sigils:
-  - id: 36053
-  - id: 24868
 consumables:
   - 78978
 record:
@@ -36,8 +29,16 @@ record:
     - id: DqQh95QUX3M
       name: Roach
       specialization: Soulbeast
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+image: images/bloomhunger_spirit_onslaught.jpg
+api: 2892
+bosses: 1
+description: Ugh, a swamp. I knew I should've sprayed you all with mosquito
+  repellent before you left.
+group: T4
+sigils:
+  - id: 36053
+  - id: 24868
 ---
 
 <Grid>
@@ -64,7 +65,7 @@ Use <Skill id="14516"/> for better mobility. Also <Skill name="shake it off"/> c
 Equip <Skill id="5536"/> for mobility and <Skill id="5507"/> for a condition cleanse.
 </Tab>
 
-<Tab specialization="daredevil">
+<Tab specialization="Daredevil">
 Use <Skill id="13038"/> or <Skill id="13002"/> for fast delivery.
 </Tab>
 </Tabs>
