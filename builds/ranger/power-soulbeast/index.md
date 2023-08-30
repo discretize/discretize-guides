@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-08-27T18:46:28.573Z "
+date: "2023-08-28T01:32:19.643Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -21,7 +21,7 @@ conditions:
     uptime: 20 stacks
 ---
 
-The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that can provides strong party buffs with <Skill name="One Wolf Pack"/> and other stances, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that can provide strong party buffs with <Skill name="One Wolf Pack"/> and other stances, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
   
 This build is rather self-sufficient due to:
 
@@ -75,7 +75,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 - Hammer instead of Longbow in slower groups for extra CC and more potential DPS.
 - Weapons with specific slaying sigils and/or <Item name="Night" type="Sigil" /> (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 - Longbows with <Item name="Severance" type="Sigil"/> are strong for several bosses, especially in faster groups. Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast)) for more information.
-- An Axe with <Item name="Severance" type="Sigil"/> instead of <Item name="Impact" type="Sigil"/> in **very fast** groups is good on Artsariiv.
+- An Axe with <Item name="Severance" type="Sigil"/> instead of <Item name="Impact" type="Sigil"/> in **very fast** groups is good on Artsariiv. Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast)) for more information.
 - Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
 
 
