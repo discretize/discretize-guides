@@ -3,7 +3,7 @@ title: Scrapper CM guides
 type: Static
 profession: Engineer
 specialization: Scrapper
-date: "2023-04-20T11:43:41.600Z "
+date: "2023-08-28T02:21:53.655Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -16,7 +16,7 @@ disableBosses:
 - Make sure to chain your skills properly while finishing your auto chains.
 - Link <Skill name="shrapnelgrenade" /> after <Skill name="electrowhirl" /> and use your cooldowns properly to not over damage  phases.
 - If your party is lacking <Condition name="Vulnerability" /> application, be aware that applying <Condition name="Vulnerability" /> is up to you and the <Specialization name="Renegade" />. Do not cast <Skill name="grenadebarrage" /> or <Skill name="minefield" /> late into the phases if you're running comps with a low <Condition name="Vulnerability" /> ramp-up.
-- Always precast <Boon name="Stability"/> and <Skill name="superspeed" /> whenever possible to profit from <Trait name="objectinmotion" />.
+- Always precast <Boon name="Stability"/> (via <Skill name="Defense Field" />, toolbelt of <Skill name="Bulwark Gyro" />) and <Skill name="superspeed" /> whenever possible to profit from <Trait name="objectinmotion" />.
 </CMInformation>
 </Phase>
 
