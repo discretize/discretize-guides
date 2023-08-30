@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: "2023-08-30T22:20:25.474Z "
+date: "2023-08-30T22:33:08.595Z "
 cmGuide: ""
 ---
  
@@ -127,6 +127,8 @@ It's recommended to have a short bow for additional movement during downtime and
 This build can maintain <Boon name="Alacrity"/> solo. You will need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/?s=TVPLpTL3v1) with your appropriate AR to gain at least 40% <Attribute name="Boon Duration"/> if you want to upkeep it permanantly.
 
 <Trait name="shadestep" /> is currently bugged and provides more alacrity to your allies than it does to yourself. 2 seconds (before <Attribute name="Boon Duration" />) of <Boon name="Alacrity" /> is applied to your allies, only 1.25 seconds is applied to yourself.
+
+<Boon name="Alacrity" /> is applied to allies around your _Tethered Ally_ via your _Shroud Skills_.
 
 <Traits traits1Id="71" traits1="Specter" traits1SelectedIds="2284,2290,2289" unembossed/>
 
