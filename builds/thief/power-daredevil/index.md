@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Daredevil
-code: '[&DQUcPSMbBzmUEoUAVAEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]'
+code: "[&DQUcPSMbBzmUEoUAVAEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 2
   - 2
   - 4
-date: '2023-08-27T21:10:36.631Z '
+date: "2023-08-30T12:18:15.194Z "
 title: Power Daredevil
 rating: Other
 role: Power Damage
@@ -40,7 +40,7 @@ The build benefits from slaying potions such as <Item id="50082"/> and <Item nam
 Relics:
 
 - <Item id="100916"/> is a good default option and the best option for phases longer than 20s/split phases without adds.
-- <Item id= "100916"/> is a great alternative for short phases and fights without split phases with adds. If you wanna pre-cast your elite skill before a fight, make sure to swap out the relic first, use the elite skill and then swap it back in.
+- <Item id= "100074"/> is a great alternative for short phases and fights without split phases with adds. If you wanna pre-cast your elite skill before a fight, make sure to swap out the relic first, use the elite skill and then swap it back in.
 
 Alternative weapons:
 
