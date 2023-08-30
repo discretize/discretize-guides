@@ -1,5 +1,18 @@
 ---
+title: Condi (Alac) Specter
+hidden: false
 archive: false
+hasBeginner: true
+rating: Good
+role: Condi Damage
+profession: Thief
+specialization: Specter
+conditions:
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Poisoned
+  - name: Bleeding
+  - name: Torment
 boons:
   - name: Fury
     uptime: 75%
@@ -10,6 +23,7 @@ boons:
   - name: Swiftness
     uptime: 75%
     variant: party
+code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 4
@@ -17,25 +31,11 @@ classification:
   - 2
   - 3
 compositions: null
-hidden: false
-hasBeginner: true
-specialization: Specter
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-08-16T22:48:07.428Z "
-title: Condi (Alac) Specter
-rating: Good
-role: Condi Damage
-profession: Thief
-conditions:
-  - name: Vulnerability
-    uptime: 20 stacks
-  - name: Poisoned
-  - name: Bleeding
-  - name: Torment
+date: "2023-08-30T12:37:53.708Z "
 cmGuide: ""
 ---
  
-<Advanced>
+<Advanced> 
 <Warning>
 <Specialization text="Condi Specter" name="Specter"/> is a very strong build, especially in fractal CMs. However, like all condi thief builds it does suffer from a lack of cleave damage, which is important in T4s. We suggest that you also consider gearing <BuildLink build="Power Daredevil" specialization="Daredevil"/> to swap to on certain sections of T4 fractals where cleave is important and power damage is more suited to the boss. By swapping between both builds and also learning skips, you can carry your party and vastly speed up a fractal clear.
 </Warning>
@@ -64,7 +64,7 @@ Although this build lists 150 <Attribute name="Agony Resistance"/>, it is not a 
 
 <Beginner>
 <CharacterWithAr>  
-<Character title="DPS" gear='{"attributes":{"profession":"Thief","specialization":"Specter","data":{"Health":16245,"Armor":2343,"Power":2869,"Precision":1719,"Toughness":1225,"Vitality":1533,"Ferocity":0,"Condition Damage":2791,"Expertise":780,"Concentration":225,"Healing Power":122,"Agony Resistance":150,"Condition Duration":0.52,"Boon Duration":0.15,"Critical Chance":0.6423809523809524,"Critical Damage":1.5,"Power Coefficient":2620,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.58,"Poison Coefficient":18.096,"Torment Coefficient":22.2,"Confusion Coefficient":0,"Flat DPS":0,"Poison Duration":0.48,"Outgoing Healing":0.2,"Torment Duration":0.5,"Effective Power":7300.494287142857,"NonCrit Effective Power":5525.6939999999995,"Power DPS":7365.150185719786,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":304.08329999999995,"Bleeding Stacks":3.9216,"Bleeding DPS":1192.4930692799999,"Burning Damage":904.586025,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":321.99349499999994,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":428.97926399999994,"Poison Stacks":36.192,"Poison DPS":15525.617522687999,"Torment Damage":567.7486875,"Torment Stacks":44.4,"Torment DPS":25208.041725,"Damage":49291.30250268779,"Effective Health":75745343.2835821,"Survivability":38508.054541729594,"Effective Healing":511.92,"Healing":511.92}},"armor":{"weight":"Medium","helmAffix":"Viper","helmRuneId":44956,"helmRune":"Tormenting","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Sinister","shouldersRuneId":44956,"shouldersRune":"Tormenting","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":44956,"coatRune":"Tormenting","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Sinister","glovesRuneId":44956,"glovesRune":"Tormenting","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":44956,"leggingsRune":"Tormenting","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Sinister","bootsRuneId":44956,"bootsRune":"Tormenting","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24609,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Sinister","accessory1InfusionId":37130,"accessory2Affix":"Sinister","accessory2InfusionId":37130},"consumables":{"foodId":97422,"utilityId":48917},"skills":{"healId":13050,"utility1Id":13037,"utility2Id":13055,"utility3Id":13026,"eliteId":13132},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1164,1292,1291],[1163,1277,1187],[2284,2290,2264]],"lines":[28,44,71]}}'>
+<Character title="DPS" gear='{"attributes":{"profession":"Thief","specialization":"Specter","data":{"Health":13995,"Armor":2118,"Power":2923,"Precision":1633,"Toughness":1000,"Vitality":1297,"Ferocity":0,"Condition Damage":2857,"Expertise":944,"Concentration":0,"Healing Power":127,"Agony Resistance":0,"Condition Duration":0.7793333333333333,"Boon Duration":0,"Critical Chance":0.6014285714285714,"Critical Damage":1.5,"Power Coefficient":2620,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.58,"Poison Coefficient":18.096,"Torment Coefficient":22.2,"Confusion Coefficient":0,"Flat DPS":0,"Poison Duration":0.48,"Outgoing Healing":0.2,"Effective Power":6467.181344999998,"NonCrit Effective Power":4972.022999999999,"Power DPS":6524.457113554099,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":274.17285,"Bleeding Stacks":4.59068,"Bleeding DPS":1258.6398190379998,"Burning Damage":813.4111125000001,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":290.27139750000003,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":386.330553,"Poison Stacks":36.192,"Poison DPS":13982.075374176,"Torment Damage":511.94784375000006,"Torment Stacks":39.5012,"Torment DPS":20222.554165537502,"Damage":41987.7264723056,"Effective Health":44240910.4477612,"Survivability":22491.566063935537,"Effective Healing":513.72,"Healing":513.72}},"armor":{"weight":"Medium","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24609,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":97422,"utilityId":48917},"skills":{"healId":63292,"utility1Id":13026,"utility2Id":13055,"utility3Id":13037,"eliteId":13132},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[1164,1292,1291],[1163,1277,1187],[2284,2290,2264]],"lines":[28,44,71]}}'>
   
 The <Skill id="21778"/> is a great option to support your party as it brings a tremendous amount of party healing.
 
