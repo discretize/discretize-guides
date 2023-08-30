@@ -2,7 +2,7 @@
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T23:49:58.617Z "
+date: "2023-08-30T13:50:29.861Z "
 title: Chaos Isles
 image: images/legendary_brazen_gladiator.jpg
 group: t4
@@ -60,7 +60,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 </GridItem>
 
 <GridItem sm="6">
-![Starting area](images/start.jpg)
+![Starting area](images/start.jpg) 
 </GridItem>
 
 </Grid>
@@ -126,10 +126,10 @@ You could stack <Effect name="Stealth"/> to skip the mobs although it's usually 
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.  
 He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or - most commonly - bring permanent <Boon name="Stability" />. It may also be avoided by not standing in front of him when his attack hits. Learn to recognize the animation.
 
-By bringing permanent <Boon name="Stability"/> and reflects, enough DPS or a dedicated healer the fight can be easily cheesed.
+By bringing permanent <Boon name="Stability"/> and reflects, enough DPS or a dedicated healer the mechanics of this fight can easily be ignored.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
-Another trick is to bypass the damage from purple zones by repeated jumping.
+Another trick is to bypass the damage from purple zones by jumping repeatedly.
 
 Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
