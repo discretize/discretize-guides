@@ -42,7 +42,7 @@ description: I'm warning you—you don't belong here. Get out now.
 
 <Grid>
 <GridItem sm="6">
-## Before you start: 
+## Before you start
 
 Keep your eye out for [Lost Journal Pages](https://wiki.guildwars2.com/wiki/Lost_Journal_Page) throughout the fractal! 
 
