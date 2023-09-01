@@ -31,7 +31,7 @@ classification:
   - 2
   - 3
 compositions: null
-date: "2023-08-30T22:37:51.578Z "
+date: "2023-09-01T15:14:59.996Z "
 cmGuide: ""
 ---
  
@@ -269,7 +269,7 @@ This video shows the full golem rotation. It optimizes the use of <Item type="Si
 
 </Beginner>
 
-<Video youtube="pg7GEcnZ2Kw" caption="by Incera"/>
+<Video youtube="CvCn4vQbDuw" caption="by Incera"/>
 <Advanced>
 <Card title="Precasting">
 
