@@ -26,10 +26,10 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-05T19:42:52.803Z "
+date: "2023-09-05T20:13:13.016Z "
 ---
   
-The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
+The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of  conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
 The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
 skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" /> 
@@ -66,6 +66,11 @@ The final change is to take the following traits in the <Specialization name="Sc
 <Traits traits1="Scourge" traits1Selected="Fell Beacon,heraldofsorrow,Desert Empowerment"/>
 
 ### Situational Traits
+
+#### Insidious Disruption
+
+On [Dark Ai](/fractals/sunqua-peak/) there is no need to play any Life Force generating utility skill, therefor take <Skill name="Plague Signet"/> in combination with <Trait name="Insidious Disruption"/> instead of <Trait name="Plague Sending"/> to gain a significant dps gain. 
+
 #### Blood Magic
 
 Running Blood Magic instead of Soul Reaping can be an option if you need more team revival power via <Trait name="Ritual of Life"/> and <Trait name="Transfusion"/> and more sustain in general. It will cause a personal damage loss but it can be helpful if your party is having trouble staying alive.
@@ -95,8 +100,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | ------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                             |
 | <Skill name="Signet of Spite" size="big" disableText/>         | Your highest dps option on your third utility slot.|
 | <Skill name="Summon Shadow Fiend" size="big" disableText/>         | An alternative for Signet of the Undead as a minor dps gain.                                                          |
-| <Skill name="Plague Signet" size="big" disableText/>    | Used as a dps increase on condition heavy fights such as Kanaxai and during days with <Instability name="Afflicted" />. 
-On [Dark Ai](/fractals/sunqua-peak/) there is no need to play any Life Force generating utility skill, therefor Plague Signet in combination with <Trait name="Insidious Disruption"/> grants a decent dps gain. |
+| <Skill name="Plague Signet" size="big" disableText/>    | Used as a dps increase on condition heavy fights such as Kanaxai and during days with <Instability name="Afflicted" />.  |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> that provides an extra 15% Life Force per hit and 150 defiance bar damage per hit, up to five times if you cast it inside a mob with other enemies outside.                                                          |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                 |
 | <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          ||
@@ -114,28 +118,26 @@ On [Dark Ai](/fractals/sunqua-peak/) there is no need to play any Life Force gen
 </GridItem>
 </Grid>
 
-<Divider text="General Skill Usage"/>
+<Divider text="General Infos"/>
 
-**Shade Skills**
+### Shade Skills
 
-Make sure to place a shade at your target or stay within 180 range for your shade-skills.
+In order to utilize shade-skills you either place a shade onto your target or stay within 180 range yourself.
 
-Using your shade skills will add additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>), <Condition name="Torment"/> and <Condition name="Vulnerability"/> (from <Trait name="Unyielding Blast"/>). 
-
-Make sure to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> on cooldown.
-
-Any excess Life Force can be used on <Skill name="Sand Cascade" />, as long as you are not delaying your priority shade skills.
+- Maintain at least 1 shade at all times.
+- Using your shade skills will add additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>), <Condition name="Torment"/> and <Condition name="Vulnerability"/> (from <Trait name="Unyielding Blast"/>). 
+- Make sure to cast <Skill name="Nefarious Favor"/> and <Skill name="Desert Shroud"/> on cooldown.
+- Any excess Life Force can be used on <Skill name="Sand Cascade" />, as long as you are not delaying your priority shade skills.
+- Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your <Skill name="Manifest Sand Shade"/> and <Skill name="Sand Cascade"/>) instead of blindly spamming them off cooldown.
+- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within the range of your shade abilities.
+- Additionally shade effects do not stack, they only expand the area in which they get applied.
 
 
 ### Notes
 
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
 - <Trait name="Plague Sending"/> has a 6s effect duration after using <Skill name="Desert Shroud"/>, transfering the next conditions you'll get within that window.
-- Maintain at least 1 shade at all times. Although you still want to focus on the rest of the skill prioritization as the wasted cooldown time outweighs the minor loss of Expertise.
-- Casting your <Skill name="Manifest Sand Shade"/> on the group will provide large amounts of barrier passively through your rotation. They can also be used on other significant targets such as the Anomalies in the [Shattered Observatory](/fractals/shattered-observatory) fractal. A <Specialization name="Scourge"/> counts as a shade activator itself and will also hit any targets within the range of your shade abilities.
-- Additionally shade effects do not stack, they only expand the area in which they get applied.
 - If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
-- Your <Trait name="Dhuumfire"/> trait has an internal cooldown of one second. Be sure to space out your <Skill name="Manifest Sand Shade"/> and <Skill name="Sand Cascade"/>) instead of blindly spamming them off cooldown.
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 
 
