@@ -26,13 +26,13 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-05T19:23:34.225Z "
+date: "2023-09-05T19:24:21.788Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial.
 
 The <Specialization name="Scourge" text="Condi Scourge" /> has multiple offensive control
-skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" />
+skill options, like using <Control name="Pull" />, corrupt boons for <Instability name="No Pain, No Gain" /> 
 , cause conditions like <Condition name="Blinded" /> and <Condition name="Immobile" />
 , etc. <Specialization name="Scourge" text="Condi Scourge" /> and can modify
 itself to fit many given situations in fractals. 
