@@ -14,7 +14,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-06T18:38:29.496Z "
+date: "2023-09-07T18:42:12.151Z "
 title: Condi Scourge
 rating: Good
 role: Condi Damage
@@ -48,7 +48,7 @@ The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to le
 <Grid>
 <GridItem sm="7">
 ### Traits
-<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Desert Empowerment, Demonic Lore"/>
+<Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
 ### Alacrity Scourge
 To provide <Boon name="Alacrity"/>, your gear and traits remain mostly the same. Make sure to play with <Skill name="Sand Flare"/> using it during downtimes.
 
