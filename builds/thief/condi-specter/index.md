@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: true
 specialization: Specter
 code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-09-04T18:02:12.510Z "
+date: "2023-09-08T15:31:40.297Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -115,12 +115,11 @@ It's recommended to have a short bow for additional movement during downtime and
 </Advanced>
 
 <Divider text="Build"/>
-
+ 
 <Grid>
 <GridItem sm="7">
 ### Traits
 <Traits traits1Id="44" traits1="Trickery" traits1SelectedIds="1163,1190,1187" traits2Id="28" traits2="Deadly Arts" traits2SelectedIds="1164,1292,1291" traits3Id="71" traits3="Specter" traits3SelectedIds="2284,2290,2264"/>
-<Traits traits1="Trickery" traits1Selected="Thrill of the Crime,Pressure Striking,Quick Pockets" traits2="Deadly Arts" traits2Selected="Deadly Ambition,Panic Strike,Potent Poison" traits3="Specter" traits3Selected="Consume Shadows,Larcenous Torment,Strength of Shadows"/>
 
 ### Situational Trait
 <Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed.
