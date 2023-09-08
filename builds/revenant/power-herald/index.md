@@ -1,10 +1,6 @@
 ---
-title: Power Quick Herald
 hidden: false
 archive: false
-rating: Meta
-role: Power Damage
-profession: Revenant
 specialization: Herald
 boons:
   - name: "Quickness "
@@ -32,7 +28,11 @@ classification:
   - 4
   - 1
   - 3
-date: "2023-02-05T17:43:22.753Z "
+date: "2023-09-08T19:25:47.767Z "
+title: Power Quick Herald
+rating: Meta
+role: Power Damage
+profession: Revenant
 ---
  
 The Power Quickness <Specialization name="Herald"/> provides permanent <Boon name="Quickness"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Swiftness"/>, <Boon name="Regeneration"/>, ~13 <Boon name="Might"/>, additional incoming boon duration, and good CC with <Skill name="Surge of the mists"/>.
@@ -41,15 +41,17 @@ It can also provide <Boon name="Stability"/> or Projectile Block for a small to 
 
 <Divider text="Equipment"/>
 <CharacterWithAr>
-<Character title="" gear='{"attributes":{"profession":"Revenant","specialization":"Herald","data":{"Health":22574,"Armor":2496,"Power":3845,"Precision":1946,"Toughness":1225,"Vitality":1460,"Ferocity":1228,"Condition Damage":500,"Expertise":0,"Concentration":451,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.30066666666666664,"Critical Chance":1.0004761904761905,"Critical Damage":2.3186666666666667,"Power Coefficient":2821,"Power2 Coefficient":0,"Burning Coefficient":1.44,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":33108.51487604055,"NonCrit Effective Power":14279.11797414055,"Power DPS":35964.23583569903,"Power2 DPS":0,"Siphon DPS":164.20625,"Bleeding Damage":86.125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":345.328125,"Burning Stacks":1.44,"Burning DPS":497.2725,"Confusion Damage":108.153125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":105.171875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":127.19999999999999,"Torment Stacks":0,"Torment DPS":0,"Damage":36625.71458569903,"Effective Health":112128764.17910449,"Survivability":57004.96399547763,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Diviner","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Diviner","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1774,1719],[1806,1738,1772]],"lines":[15,3,52]}}'>
+<Character title="Quickness Herald" gear='{"attributes":{"profession":"Revenant","specialization":"Herald","data":{"Health":22871,"Armor":2496,"Power":3800,"Precision":1947,"Toughness":1225,"Vitality":1561,"Ferocity":1342,"Condition Damage":500,"Expertise":0,"Concentration":811,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.5406666666666667,"Critical Chance":1.000952380952381,"Critical Damage":2.3946666666666667,"Power Coefficient":2862,"Power2 Coefficient":0,"Burning Coefficient":1.54,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":33866.36086808725,"NonCrit Effective Power":14142.411275648907,"Power DPS":37322.11197707574,"Power2 DPS":0,"Siphon DPS":164.20625,"Bleeding Damage":86.125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":345.328125,"Burning Stacks":1.54,"Burning DPS":531.8053125,"Confusion Damage":93.22368750000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":105.171875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":127.19999999999999,"Torment Stacks":0,"Torment DPS":0,"Damage":38018.12353957575,"Effective Health":113604011.94029853,"Survivability":57754.962857294624,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":84505},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1774,1719],[1806,1738,1772]],"lines":[15,3,52]}}'>
+
+Use <Item id="100916"/>.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-</Character>
+Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
-<Character title="" gear='{"attributes":{"profession":"Revenant","specialization":"Herald","data":{"Health":23762,"Armor":2604,"Power":3880,"Precision":1961,"Toughness":1333,"Vitality":1568,"Ferocity":1256,"Condition Damage":500,"Expertise":0,"Concentration":453,"Healing Power":0,"Agony Resistance":222,"Condition Duration":0,"Boon Duration":0.302,"Critical Chance":1.0076190476190476,"Critical Damage":2.3373333333333335,"Power Coefficient":2821,"Power2 Coefficient":0,"Burning Coefficient":1.44,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Maximum Health":0.10000000000000009,"Siphon Base Coefficient":139.75,"Effective Power":33678.862584354865,"NonCrit Effective Power":14409.096941395406,"Power DPS":36583.77795551216,"Power2 DPS":0,"Siphon DPS":164.20625,"Bleeding Damage":86.125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":345.328125,"Burning Stacks":1.44,"Burning DPS":497.2725,"Confusion Damage":108.153125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":105.171875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":127.19999999999999,"Torment Stacks":0,"Torment DPS":0,"Damage":37245.25670551216,"Effective Health":123136811.94029853,"Survivability":62601.3278801721,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"legends":{"legend1Id":28134,"legend2Id": 28085},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1774,1719],[1806,1738,1772]],"lines":[15,3,52]}}'>
-</Character>
+On fights where the CC is not required, Sword/Sword can be ran in its place as a utility set (Or in place of Greatsword for players without [Weaponmaster Training](https://wiki.guildwars2.com/wiki/Weaponmaster_Training) unlocked).
 
+</Character>
 </CharacterWithAr>
 
 <Divider text="Build"/>
@@ -69,6 +71,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 **Soft Crowd Control:**
 
+- <Skill name="Arcing Mists"/> - <Condition name="Chilled"/> for 33 per second.
+- <Skill name="Phantom's Onslaught"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 - <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
@@ -112,7 +116,15 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 9. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
 10. Swap back to <Skill name="Legendary Dragon Stance"/>.
 
-### Burst Rotation
+### Greatsword Burst Rotation
+
+1.  <Skill name="Eternity's Requiem"/><Skill name="Burst of Strength"/>
+2.  <Skill name="Burst of Strength"/>
+3.  <Skill name="Elemental Blast" />
+4.  <Skill name="Mist Unleashed"/>
+5.  <Skill name="Phantom's Onslaught"/>
+
+### Sword Burst Rotation
 
 1.  <Skill name="Burst of Strength"/>
 2.  <Skill name="Elemental Blast" />
@@ -136,6 +148,14 @@ Ideally you would want to do your burst rotation when the enemy is under the eff
   - <Skill name="truenature" /> - (Demon) Transfer conditions to nearby enemies. Gain <Boon name="Might"/> for each condition transferred.
 
 ---
+
+**Greatsword Skills:**
+
+- <Skill name="Mist Swing"/> - The auto-attack chain cleaves up to 5 targets and provides <Condition name="Vulnerability"/> on the second and third attacks in the chain. The third attack also applies <Condition name="Chilled"/>
+- <Skill name="Mist Unleashed"/> - High damage skill with low cooldown and energy cost, also applies <Condition name="Vulnerability"/>.
+- <Skill name="Phantom's Onslaught"/> - A movement skill that will rush you toward your target and apply <Condition name="Chilled"/>.
+- <Skill name="Imperial Guard"/> - A 2 second block. Once used, the flip skill <Skill name="True Strike"/> is useable. This will deal increased damage per attack blocked.
+- <Skill name="Eternity's Requiem"/> - High damage skill that will hit at least 5 times. Each time the skill hits a damage reduction of 10% is applied for the next hit.
 
 **Sword Skills:**
 
