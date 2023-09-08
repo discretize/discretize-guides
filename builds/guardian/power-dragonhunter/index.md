@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-09-08T17:51:31.417Z "
+date: "2023-09-08T20:59:19.926Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -59,7 +59,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <CharacterWithAr>  
 <Character title="Radiance Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":19455,"Armor":2496,"Power":3815,"Precision":1795,"Toughness":1225,"Vitality":1870,"Ferocity":1593,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0285714285714285,"Critical Damage":2.5620000000000003,"Power Coefficient":4085,"Power2 Coefficient":0,"Burning Coefficient":2.59,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":27702.863411903327,"NonCrit Effective Power":10812.983377011446,"Power DPS":43575.74009920104,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":2.59,"Burning DPS":920.5426562499999,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":44636.03275545104,"Effective Health":96636179.10447763,"Survivability":49128.71332205268,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Dragon","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[574,565,1683],[634,653,2017],[1898,1835,1955]],"lines":[16,42,27]}}'>
 
-Use <Item id="100947"/>.
+Use <Item id="100947"/>. 
+
+Note: This build is optimal for <Item id="91805"/> and <Item id="77569"/> For other consumable pairs using either <Item id="50082"/> or <Item id="43360"/> use the [gear optimizer](https://optimizer.discretize.eu/) to adjust setup (including runes)!
+
+For bosses on which you wish to run <Item id="50082"/> and <Item id="91805"/>, like Ensolyss, you may switch both trinkets to Berserker's.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
