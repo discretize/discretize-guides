@@ -16,7 +16,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2023-09-08T14:26:56.808Z "
+date: "2023-09-08T14:29:16.816Z "
 title: Power Alac Renegade
 rating: Meta
 role: Power Damage
@@ -115,7 +115,8 @@ On fights where the CC is not required, Sword/Sword can be ran in its place as a
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 **Soft Crowd Control:**
-
+- <Skill name="Arcing Mists"/> - <Condition name="Chilled"/> for 33 per second.
+- <Skill name="Phantom's Onslaught"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 - <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
