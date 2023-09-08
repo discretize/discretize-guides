@@ -16,7 +16,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2023-07-01T16:03:53.719Z "
+date: "2023-09-08T14:03:26.661Z "
 title: Power Alac Renegade
 rating: Meta
 role: Power Damage
@@ -26,14 +26,12 @@ conditions:
     uptime: 10 stacks
 cmGuide: static
 ---
- 
+  
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other damage dealing classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
 
 Since the <Specialization name="Renegade"/> is a power-oriented build it benefits from <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
-To see how the <Specialization name="Renegade"/> is played in Pick Up Groups refer to [Renegade CM guides](https://discretize.eu/cm-guides/revenant/power-renegade/pug/).
 
 <Divider text="Equipment"/>
 <CharacterWithAr>
@@ -77,12 +75,12 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Incensed Response,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 ### Situational Traits
 
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Spirit Boon" size="big" disableText/>    | If you can't profit from <Trait name="Incensed Response"/> and someone in your party needs any of the boons given by <Trait name="spiritboon" />. This would most likely be a <Specialization name="Guardian" /> in need of <Boon name="Resolution" />.                                                                           |
+| <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
 | <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
 | <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
 
@@ -131,6 +129,17 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
 
+#### Greatsword Burst
+
+1.  <Skill name="Citadel Bombardment"/>
+2.  <Skill name="Eternity's Requiem"/>
+3.  <Skill name="Mist Unleashed"/>
+4.  <Skill name="Phantom's Onslaught"/>
+5.  <Skill name="Mist Swing"/> -> <Skill name="Mist Slash"/> -> <Skill name="Arcing Mists"/> -> <Skill name="Mist Swing"/>
+6.  <Skill name="Mist Unleashed"/>
+
+#### Sword Burst
+
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Citadel Bombardment"/>
 3.  <Skill name="Shackling Wave"/>
@@ -163,7 +172,7 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
 </Warning>
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
 
@@ -180,6 +189,14 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 - <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
 
 ---
+
+**Greatsword Skills:**
+
+- <Skill name="Mist Swing"/> - The auto-attack chain cleaves up to 5 targets and provides <Condition name="Vulnerability"/> on the second and third attacks in the chain. The third attack also applies <Condition name="Chilled"/>
+- <Skill name="Mist Unleashed"/> - High damage skill with low cooldown and energy cost, also applies <Condition name="Vulnerability"/>.
+- <Skill name="Phantom's Onslaught"/> - A movement skill that will rush you toward your target and apply <Condition name="Chilled"/>.
+- <Skill name="Imperial Guard"/> - A 2 second block. Once used, the flip skill <Skill name="True Strike"/> is useable. This will deal increased damage per attack blocked.
+- <Skill name="Eternity's Requiem"/> - High damage skill that will hit at least 5 times. Each time the skill hits a damage reduction of 10% is applied for the next hit.
 
 **Sword Skills:**
 
