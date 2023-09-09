@@ -8,7 +8,7 @@ boons:
     uptime: 150%
     variant: group
   - name: Might
-    uptime: 23 stacks
+    uptime: 25 stacks
     variant: group
   - name: Stability
     uptime: On Demand
@@ -32,7 +32,7 @@ classification:
   - 3
   - 1
   - 2
-date: "2023-06-03T23:39:55.943Z "
+date: "2023-09-09T10:01:13.914Z "
 title: Heal Firebrand
 rating: Good
 role: Support
@@ -56,9 +56,20 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
-<Character title="Heal Firebrand" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":23445,"Armor":3374,"Power":2095,"Precision":1000,"Toughness":2103,"Vitality":2180,"Ferocity":0,"Condition Damage":1254,"Expertise":0,"Concentration":1133,"Healing Power":1741,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1.0053333333333332,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Outgoing Healing":0.8175,"Effective Power":3809.6265624999996,"NonCrit Effective Power":3312.7187499999995,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":139.7825,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":467.719375,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":168.656125,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":156.31375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":207.94875,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":157419761.19402987,"Survivability":80030.38189833751,"Effective Healing":1658.1052499999998,"Healing":1658.1052499999998}},"armor":{"weight":"Heavy","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Minstrel","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":72339,"weapon1MainAffix":"Minstrel","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":74326,"weapon1OffAffix":"Minstrel","weapon1OffInfusionId":37125,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":72339,"weapon2MainAffix":"Minstrel","weapon2MainInfusion1Id":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":74326},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528},"skills":{"healId":41714,"utility1Id":40915,"utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[617,610,554],[1899,557,558],[2101,2063,2105]],"lines":[46,49,62]}}'>
+<Character title="Monk Runes" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":21265,"Armor":2971,"Power":2565,"Precision":1000,"Toughness":1700,"Vitality":2060,"Ferocity":0,"Condition Damage":1226,"Expertise":0,"Concentration":1127,"Healing Power":1795,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1.0013333333333334,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Outgoing Healing":0.47986000000000006,"Effective Power":4664.292187499998,"NonCrit Effective Power":4055.9062499999995,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":137.3675,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":461.480625,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":146.65950000000004,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":153.89875,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":204.32625,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":125727990.04975127,"Survivability":63918.652796009796,"Effective Healing":1374.05001,"Healing":1374.05001}},"armor":{"weight":"Heavy","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":72339,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":74326,"weapon1OffAffix":"Harrier","weapon1OffInfusionId":37125,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":72339,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":74326},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Harrier","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528},"skills":{"healId":41714,"utility1Id":40915,"utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[617,610,554],[1899,557,558],[2101,2063,2105]],"lines":[46,49,62]}}'>
 
-Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out more Harrier pieces for Minstrel or Cleric but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+Use <Item id="100031"/>.
+
+Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out gear fore more Harrier, Minstrel, Givers, or Cleric stats but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+</Character>
+<Character title="Water Runes" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":24195,"Armor":3508,"Power":1938,"Precision":1000,"Toughness":2237,"Vitality":2368,"Ferocity":0,"Condition Damage":1264,"Expertise":0,"Concentration":975,"Healing Power":1762,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Outgoing Healing":0.4657200000000001,"Effective Power":3524.131874999999,"NonCrit Effective Power":3064.4624999999996,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":140.645,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":469.94749999999993,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":150.100875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":157.17625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":209.2425,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":168907582.08955225,"Survivability":85870.65688335143,"Effective Healing":1346.4103920000002,"Healing":1346.4103920000002}},"armor":{"weight":"Heavy","helmAffix":"Minstrel","helmRuneId":24839,"helmRune":"Water","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24839,"shouldersRune":"Water","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Minstrel","coatRuneId":24839,"coatRune":"Water","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24839,"glovesRune":"Water","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Harrier","leggingsRuneId":24839,"leggingsRune":"Water","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Minstrel","bootsRuneId":24839,"bootsRune":"Water","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":72339,"weapon1MainAffix":"Minstrel","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":74326,"weapon1OffAffix":"Minstrel","weapon1OffInfusionId":37125,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":72339,"weapon2MainAffix":"Minstrel","weapon2MainInfusion1Id":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":74326},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528},"skills":{"healId":41714,"utility1Id":40915,"utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[617,610,554],[1899,557,558],[2101,2063,2105]],"lines":[46,49,62]}}'>
+
+Use <Item id="100031"/>.
+
+This setup can be used if you don't want to farm <Item id="24842"/> from dungeons.
+
+Note that this build variant is optimized for 150 agony resistance. If you have more Agony Resistance, feel free to swap out gear fore more Harrier, Minstrel, Givers, or Cleric stats but make sure you are maintaining 100% boon duration on both weapon sets. You can play full Harrier, however, you will lose some <Attribute name="Healing Power"/>. Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 </CharacterWithAr> 
@@ -70,7 +81,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits1="Virtues"
   traits1Selected="Master of Consecrations, Absolute Resolve, Battle Presence"
   traits2="Honor"
-  traits2Selected="Invigorated Bulwark, Honorable Staff, Writ of Persistence"
+  traits2Selected="Protector's Restoration, Empowering Might, Writ of Persistence"
   traits3="Firebrand"
   traits3Selected="Liberators Vow, Weighty Terms, Stoic Demeanor"
 />
@@ -80,7 +91,9 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 |                                                              |                                                                                                                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Right-Hand Strength" size="big" disableText/>   | If there is no need for the personal <Boon name="Resolution"/> from <Trait name="Healers Resolution"/> while running the Radiance trait line. |
+| <Trait name="Stalwart Speed" size="big" disableText/>   | Can be run to make maintaining <Boon name="Quickness"/> easier, especially when playing with <Skill name="Mantra of Liberation"/>. |
+| <Trait name="Invigorated Bulwark" size="big" disableText/>         | Taken if you are running Mace, or can be used as a healing modifier if you are blocking lots of attacks with <Boon name="Aegis"/>.                           |
+| <Trait name="Honorable Staff" size="big" disableText/>         | Can be taken for some extra <Attribute name="Concentration"/> which will increase your <Attribute name="Boon Duration"/> if you are not at 100%. Also can be used to reduce Staff skills cooldown, notably <Skill name="Empower"/>, which can help with <Boon name="Might"/> uptime.                           |
 | <Trait name="Pure of Heart" size="big" disableText/>         | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds.                           |
 | <Trait name="Resolute Subconscious" size="big" disableText/> | Use this when you are not using any Consecration skill while running the Virtues trait line.                                                  |
 
@@ -190,7 +203,6 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <Skill name="Blazing Edge"/>                                                | 150 damage                                                                          |
 | <Skill name="Shield of Absorption"/>                                        | 150 damage                                                                          |
-| <Skill name="Bane Signet"/>                                                 | 300 damage                                                                          |
 | <Skill name="Hammer of Wisdom"/>                                            | 200 damage                                                                          |
 | <Skill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                                          |
 | <Skill name="Sanctuary"/>                                                   | 150/s damage for 5 (or 7 with Virtues) seconds,<br/> adding up to 750 (1050) damage |
@@ -223,8 +235,7 @@ All Tomes are built similarly:
 - <Skill name="Chapter 4: Scorched Aftermath"/> creates a Fire Field that can be used to blast <Boon name="Might"/>.
 - <Skill name="Epilogue: Ashes of the Just"/> grants an effect to allies that makes them inflict burning on their next attacks. This scales with <Attribute name="Condition Damage"/> so be careful when using this skill or skip it entirely when running with <Specialization name="Firebrand" text="Condi Firebrands"/>.
 - When running Radiance, dealing damage with any skill in this Tome will trigger <Trait name="Wrath of Justice"/> and share the <Attribute name="Condition Damage"/> to allies through <Trait name="Perfect Inscriptions"/>.
-- When running Radiance killing certain enemies will lower the cooldown on this Tome. Keep in mind this will not reset the skills in the Tome.
-- A common rotation in this Tome is 4-(5)-exit.
+- A common rotation in this Tome is 4-5-exit.
 
 <Skill name="Tome of Resolve" />:
 
@@ -235,7 +246,6 @@ All Tomes are built similarly:
 - <Skill name="Chapter 4: Shining River"/> places a healing field that can also be blasted for extra healing.
 - <Skill name="Epilogue: Eternal Oasis"/> converts conditions into boons and grants allies an incoming healing modifier.
 - When running Virtues entering this Tome also cleanses conditions.
-- Common rotations in this Tome are 2-5-4-1-2 for maximum sustained healing or 5-4-2-1-1 for maximum burst healing.
 
 <Skill name="Tome of Courage" />:
 
@@ -246,7 +256,6 @@ All Tomes are built similarly:
 - <Skill name="Chapter 4: Stalwart Stand"/> places a field that pulses <Boon name="Resistance"/> to allies. This will help dealing with non-damaging conditions such as <Condition name="Blinded"/> and <Condition name="Slow"/>.
 - <Skill name="Epilogue: Unbroken Lines"/> provides <Boon name="Protection"/>, <Boon name="Aegis"/>, <Boon name="Stability"/> as well as extra Toughness.
 - There is no set rotation in this Tome, use whatever skills you need for their utility and make sure to press Skill 5 as it is an incredibly strong skill.
-- You can camp in this Tome for a few extra seconds to get an extra cast on an important skill, for example, a 2nd reflect. However only do this when needed as you will not have access to the boons and healing your weapon skills provide.
 
 
 <Divider text="Providing Boons"/>
@@ -329,9 +338,7 @@ All Tomes are built similarly:
 - <Skill name="Bow of Truth" /> is a great option for high burst healing when slotted.
 - <Skill name="Tome of Resolve" /> is the biggest source of burst healing and should
   be used as a last resort due to its long cooldown. However, due to the cast of both
-  opening the Tome and the skills within, make sure to not hesitate too long. If
-  the healing does not need to be immediate you can use 2-5-4-1-2, if you need the
-  instant burst healing you can use 5-4-2-1-1.
+  opening the Tome and the skills within, make sure to not hesitate too long.
 
 ### Condition Cleanse
 
