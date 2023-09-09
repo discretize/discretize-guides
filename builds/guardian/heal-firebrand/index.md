@@ -32,7 +32,7 @@ classification:
   - 3
   - 1
   - 2
-date: "2023-09-09T10:00:51.969Z "
+date: "2023-09-09T10:01:13.914Z "
 title: Heal Firebrand
 rating: Good
 role: Support
@@ -203,7 +203,6 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <Skill name="Blazing Edge"/>                                                | 150 damage                                                                          |
 | <Skill name="Shield of Absorption"/>                                        | 150 damage                                                                          |
-| <Skill name="Bane Signet"/>                                                 | 300 damage                                                                          |
 | <Skill name="Hammer of Wisdom"/>                                            | 200 damage                                                                          |
 | <Skill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                                          |
 | <Skill name="Sanctuary"/>                                                   | 150/s damage for 5 (or 7 with Virtues) seconds,<br/> adding up to 750 (1050) damage |
