@@ -14,7 +14,7 @@ long_description: ""
 image: images/silent_surf_cave.jpg
 api: 5446
 bosses: 2
-description: Why are you here? I came to this mountain to be alone.
+description: I don't often mingle with prey, but you've earned an introduction.
 group: Challenge Mode
 sigils: []
 ---
