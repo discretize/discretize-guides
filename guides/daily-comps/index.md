@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2023-09-08T03:32:08.530Z "
+date: "2023-09-09T17:09:04.830Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -42,7 +42,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 <Divider text="Useful Links"/>
 In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of PoVs, Class Guides for CM bosses, Example Logs, and PoVs. All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution)
 
-<Card title="Example Power PoVs + Logs">
+<Card title="Example 97+98 PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Renegade">
@@ -99,7 +99,7 @@ In this section you can find links to different parts of the site with informati
 
 </Card>
 
-<Card title="Example Condi PoVs + Logs">
+<Card title="Example 99+100CM PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Specter">
@@ -109,7 +109,7 @@ In this section you can find links to different parts of the site with informati
 | Elemental Ai |                                      |                                                          |        |
 | Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp (Alac)    |
 | Dark Ai      | [Link](https://youtu.be/oUI8duydsV4) | [DPS.Report](https://dps.report/215X-20230825-205540_ai) | Lydia (DPS)    |
-
+| Kanaxai |                                      |                                                          |        |
 
 
 </Tab>
@@ -156,3 +156,4 @@ In this section you can find links to different parts of the site with informati
 |              |      |      |
 
 </Card>
+ 
