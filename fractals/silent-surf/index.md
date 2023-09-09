@@ -3,20 +3,20 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-08-11T12:40:22.171Z "
+date: "2023-09-09T16:41:49.059Z "
 title: Silent Surf
-image: images/silent_surf_cave.jpg
-group: Challenge Mode
-api: 5446
-bosses: 2
 difficulties:
   - level: 100
     ar: 150
-sigils: []
 consumables: []
 record: {}
 long_description: ""
+image: images/silent_surf_cave.jpg
+api: 5446
+bosses: 2
 description: Why are you here? I came to this mountain to be alone.
+group: Challenge Mode
+sigils: []
 ---
  
 You can also use little animations. for that, please just record the video in good quality with minimal ui and effects, and send only the snippet to princeps. 
@@ -182,9 +182,9 @@ Accept the harbinger's challenge and complete the Silent Surf fractal with no on
 </GridItem>
 </Grid>
 
-Similar to Sunqua Peak, at the start you interact with the Challenge Mote to spawn a portal, which will take you directly to the platform where you fight First Mate Dolus. After triggering the circle, a couple of Naga will spawn and then, after a couple of lines from Captain Thess, Dolus will spawn similar to Normal Mode. 
+Similar to Sunqua Peak, at the start you interact with the Challenge Mote to spawn a portal, which will take you directly to the platform where you fight First Mate Dolus. After triggering the circle, a small group of Naga will spawn and then Captain Thess will say a few lines before Dolus spawns similar to Normal Mode. 
 
-Do not take mistlock before triggering the circle! This way you can kill Dolus quickly and reset your cooldowns before fighting Kanaxai. 
+Do not take the mistlock before triggering the circle! This way you can use all your long cooldowns to kill Dolus quickly and reset them before fighting Kanaxai. 
 
 ## Corrupted First Mate Dolus
 ### Mechanics Overview
@@ -212,14 +212,19 @@ Mitigation  (What is the mechanic and how to manage it)
 </Tab>
 </Tabs>
 
-Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
+There isn't much to this fight. Most groups should be able to break Dolus' bar quickly and burst him down before he can do anything, but if the CC is not high enough you can just spread out and do the mechanics.
 
 ## Kanaxai, Scythe of House Aurkus
 <Achievement title="Defiance Demolisher ">
 Accept the harbinger's challenge and defeat the final boss while he has ten or more stacks of Dread Defiance. 
 </Achievement>
 
-Intro about the boss, condi heavy encounter, bit buggy etc... 
+This fight has similar mechanics to Normal Mode but they're all more punishing. The overall damage pressure is low &mdash; the numbers mechanic (_Frightening Speed_) deals 50% of each players' HP and the boss deals high amounts of torment and bleed to whoever's tanking. That means your group needs to be ready to share heals right after splitting up and condition cleanses can be very useful.
+
+It is considered a condition-favored encounter because there's a lot of downtime where you can't hit the boss at all: he has iframes during _Frightening Speed_, he can teleport to the nearby islands, and bad positioning of _Axes_ may force you to walk around until you can stack with the rest of the party.
+
+The same reasoning determines that builds with access to ranged attacks should perform better as it's possible to keep DPS uptime while dropping _Axes_, staying out of the _Boonstrip_ fields, and spreading out before _Frightening Speed_.
+
 ### 100% - 66%
 ### Mechanics Overview
 Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
