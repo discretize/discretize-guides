@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-09-09T16:41:49.059Z "
+date: "2023-09-09T17:07:54.769Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -221,7 +221,7 @@ Accept the harbinger's challenge and defeat the final boss while he has ten or m
 
 This fight has similar mechanics to Normal Mode but they're all more punishing. The overall damage pressure is low &mdash; the numbers mechanic (_Frightening Speed_) deals 50% of each players' HP and the boss deals high amounts of torment and bleed to whoever's tanking. That means your group needs to be ready to share heals right after splitting up and condition cleanses can be very useful.
 
-It is considered a condition-favored encounter because there's a lot of downtime where you can't hit the boss at all: he has iframes during _Frightening Speed_, he can teleport to the nearby islands, and bad positioning of _Axes_ may force you to walk around until you can stack with the rest of the party.
+It is considered a condition-favored encounter because the fight is divided into relatively long phases and that allows condition builds, which generally have the higher benchmarks in the current balance, to ramp-up. Another consideration is that some of these builds have easier access to self sustain and damage mitigation without large tradeoffs when compared to power builds.
 
 The same reasoning determines that builds with access to ranged attacks should perform better as it's possible to keep DPS uptime while dropping _Axes_, staying out of the _Boonstrip_ fields, and spreading out before _Frightening Speed_.
 
