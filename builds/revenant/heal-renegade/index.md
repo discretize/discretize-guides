@@ -1,10 +1,6 @@
 ---
-title: Heal Renegade
 hidden: false
 archive: true
-rating: Offmeta
-role: Support
-profession: Revenant
 specialization: Renegade
 skills:
   - 45773
@@ -15,8 +11,6 @@ skills:
 traits:
   - 1786
   - 1814
-conditions:
-  - name: Vulnerability
 boons:
   - name: Alacrity
     variant: Party
@@ -39,15 +33,21 @@ boons:
   - name: Resistance
     uptime: On Demand
     variant: Party
-code: '[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]'
-cmGuide: ''
+code: "[&DQkPJgw/Pz/cEdwRBhLUESsSBhLUESsSyhHKERIRDw4GEtQRKxIAAAAAAAA=]"
 classification:
   - 4
   - 1
   - 3
   - 2
   - 2
-date: '2022-08-05T22:39:42.575Z'
+date: "2023-09-10T10:09:49.655Z "
+title: Heal Renegade
+rating: Offmeta
+role: Support
+profession: Revenant
+conditions:
+  - name: Vulnerability
+cmGuide: ""
 ---
 
 The **<Specialization text="Heal Renegade" name="Renegade"/>** plays with a mix of harrier's and cleric's gear for maximum power and healing power while still hitting 100% boon duration.
@@ -62,7 +62,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Salvation" traits1Selected="Tranquil Balance,Invoking Harmony,Generous Abundance" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
+<Traits traits1="Salvation" traits1Selected="Invoking Harmony,Words of Censure,Generous Abundance" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Lasting Legacy"/>
 <Card title="Second trait variant">
 If you run out of energy too quickly, we recommend the Salvation/Invocation variant. This variant is also better for fractals where <Trait name="Assassins Presence"/> doesn't help your party. This would include fractals where damage is time-gated and where you can't critically hit the enemies that matter.
 
