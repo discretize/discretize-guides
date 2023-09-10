@@ -19,7 +19,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-10T13:42:41.588Z "
+date: "2023-09-10T14:03:07.380Z "
 benchmark:
   small:
     dps: 34302
@@ -34,7 +34,7 @@ options (<Control name="Pull" />, boon corruptions for <Instability name="No Pai
   name="Reaper" 
   text="Power Reaper"
 /> can modify itself to fit many given situations in fractals.
-
+ 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment" />   
@@ -168,7 +168,7 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 </GridItem>
 <GridItem sm="5">
 
-**Loop (>50% hp):**
+**Loop (above 50% hp):**
 
 Use <Skill name="You are all Weaklings!" /> (Utility) on Cooldown
 
@@ -201,34 +201,30 @@ Use <Skill name="You are all Weaklings!" /> (Utility) on Cooldown
 
 <GridItem sm="5">
 
-**Loop (>50% hp):**
+**Loop (below 50% hp):**
 
 Use <Skill name="You are all Weaklings!" /> (Utility) on Cooldown
 
-1. <Skill name="Dark Pact" /> (Dagger 3)
-2. <Skill name="Life Siphon" /> (Dagger 2)
-3. **Weapon Swap** 
-4. <Skill name="Gravedigger" /> (Greatsword 2)
-5. <Skill name="Death Spiral" /> (Greatsword 3)
-6. **Auto-attack chain** 
-7. <Skill name="Gravedigger" /> (Greatsword 2)
-8. <Skill name="Grasping Darkness" /> (Greatsword 5)
-9. <Skill name="Nightfall" /> (Greatsword 4)
-10. <Skill name="Well of Darkness" /> (Utility)
-11. <Skill name="Well of Suffering" /> (Utility)
-12. **Shroud**
-13. <Skill name="Gravedigger" /> (Greatsword 2)
-14. <Skill name="Death Spiral" /> (Greatsword 3)
-15. **Auto-attack chain** 
-16. <Skill name="Gravedigger" /> (Greatsword 2)
-17. <Skill name="Nightfall" /> (Greatsword 4)
-18. <Skill name="Grasping Darkness" /> (Greatsword 5)
-19. **Weapon Swap** 
-20. <Skill name="Dark Pact" /> (Dagger 3)
-21. <Skill name="Well of Darkness" /> (Utility)
-22. <Skill name="Well of Suffering" /> (Utility)
-23. <Skill name="Life Siphon" /> (Dagger 2)
-24. **Shroud**
+1. <Skill name="Life Siphon" /> (Dagger 2)
+2. **Weapon Swap** 
+3. <Skill name="Gravedigger" /> (Greatsword 2)
+4. <Skill name="Death Spiral" /> (Greatsword 3)
+5. <Skill name="Gravedigger" /> (Greatsword 2) 4x
+6. <Skill name="Grasping Darkness" /> (Greatsword 5)
+7. <Skill name="Nightfall" /> (Greatsword 4)
+8. <Skill name="Well of Darkness" /> (Utility)
+9. <Skill name="Well of Suffering" /> (Utility)
+10. **Shroud**
+11. <Skill name="Gravedigger" /> (Greatsword 2)
+12. <Skill name="Death Spiral" /> (Greatsword 3)
+13. <Skill name="Gravedigger" /> (Greatsword 2) 4x
+14. <Skill name="Nightfall" /> (Greatsword 4)
+15. <Skill name="Grasping Darkness" /> (Greatsword 5)
+16. **Weapon Swap** 
+27. <Skill name="Well of Darkness" /> (Utility)
+18. <Skill name="Well of Suffering" /> (Utility)
+19. <Skill name="Life Siphon" /> (Dagger 2)
+20. **Shroud**
 
 </GridItem>
 </Grid>
