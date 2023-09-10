@@ -19,7 +19,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-10T14:17:41.523Z "
+date: "2023-09-10T14:28:12.694Z "
 benchmark:
   small:
     dps: 34302
@@ -40,7 +40,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Divider text="Equipment" />   
 
 <CharacterWithAr>
-<Character title="Impact Sigil " gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":23812,"Armor":2192,"Power":3622,"Precision":2155,"Toughness":1225,"Vitality":1533,"Ferocity":1330,"Condition Damage":500,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.3866666666666667,"Power Coefficient":1658,"Power2 Coefficient":2696,"Burning Coefficient":0,"Bleeding Coefficient":0.31,"Poison Coefficient":2.1,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Alternative Power":3622,"Alternative Critical Chance":1,"Alternative Critical Damage":2.586666666666667,"Effective Power":23537.565471817838,"NonCrit Effective Power":9862.108437912502,"Power DPS":15027.06336244666,"Alternative Effective Power":29336.48523331039,"Power2 DPS":30454.818709666855,"Siphon DPS":153.72500000000002,"Bleeding Damage":81.25,"Bleeding Stacks":0.31,"Bleeding DPS":25.1875,"Burning Damage":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":87.946875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":99.21875,"Poison Stacks":2.1,"Poison DPS":208.359375,"Torment Damage":120,"Torment Stacks":0,"Torment DPS":0,"Damage":45869.15394711351,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Assassin","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Assassin","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":10547,"utility1Id":10546,"utility2Id":10607,"utility3Id":29414,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
+<Character title="Impact Sigil " gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":23812,"Armor":2192,"Power":3622,"Precision":2155,"Toughness":1225,"Vitality":1533,"Ferocity":1330,"Condition  Damage":500,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.3866666666666667,"Power Coefficient":1658,"Power2 Coefficient":2696,"Burning Coefficient":0,"Bleeding Coefficient":0.31,"Poison Coefficient":2.1,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Alternative Power":3622,"Alternative Critical Chance":1,"Alternative Critical Damage":2.586666666666667,"Effective Power":23537.565471817838,"NonCrit Effective Power":9862.108437912502,"Power DPS":15027.06336244666,"Alternative Effective Power":29336.48523331039,"Power2 DPS":30454.818709666855,"Siphon DPS":153.72500000000002,"Bleeding Damage":81.25,"Bleeding Stacks":0.31,"Bleeding DPS":25.1875,"Burning Damage":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":87.946875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":99.21875,"Poison Stacks":2.1,"Poison DPS":208.359375,"Torment Damage":120,"Torment Stacks":0,"Torment DPS":0,"Damage":45869.15394711351,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Assassin","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Assassin","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":10547,"utility1Id":10546,"utility2Id":10607,"utility3Id":29414,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
 
 Use <Item id="100947"/>.
 
@@ -62,7 +62,7 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 <GridItem sm="7">
 ### Traits
 
-<Traits traits1Id="53" traits1="Spite" traits1SelectedIds="914,829,853" traits2Id="50" traits2="Soul Reaping" traits2SelectedIds="898,894,893" traits3Id="34" traits3="Reaper" traits3SelectedIds="2020,1969,2021"/>
+<Traits traits1Id="53" traits1="Spite" traits1SelectedIds="914,829,853" traits2Id="50" traits2="Soul Reaping" traits2SelectedIds="875,894,893" traits3Id="34" traits3="Reaper" traits3SelectedIds="2020,1969,2021"/>
 
 ### Situational Weapons
 
@@ -110,30 +110,32 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 </GridItem>
 </Grid>
 
-<Divider text="Rotation / Skill Usage" />
+<Divider text="Skill Usage" />
+
+### Precasting
+
+- Staff marks if possible
+- Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
+- If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on encounters that are too far away from the _Mistlock Singularity_ to make use of your Lich precast.
+- Alternativly <Skill name="Spectral Walk"/> can be used before taking a portal to precast your <Skill id="10636"/> and still being able to take the _Mistlock Singularity_.
+- Optional: Precast <Skill name="Rise" /> (Utility) and swap back to your combat skills.
+
 ### Notes
 
-The given rotation below is meant for a golem-like scenario and has to be adapted based on phase-lengths/mechanics/the following aspects: 
-- Below 50% boss HP: <Skill name="Gravedigger" /> (Greatsword 2) replaces  <Skill name="Death Spiral" /> (Greatsword 3) and Greatsword auto-attacks. 
- Cancel the aftercasts with any other skill or weaponswap (shroud works as well) or simply by pressing auto-attack in between two casts. Also skip one Auto-attack chain at the end of your Greastsword shroud loop.
+The given rotation below is meant for a golem-like scenario and has to be adapted based on phase-lengths/exposed/mechanics/the following aspects: 
+
 - Below 25% boss HP: use <Skill name="Executioner's Scythe" /> (Shroud 5).
 - All shouts require to stand in melee range (240 range) to get their full value.
 - <Skill name="Deaths Charge" /> (Shroud 2) only deals slightly more damage compared to shroud auto-attacks.
 - <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of life force from incomming damage for 6s. 
 Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends the damage mitigation and can interrupt e.g. <Skill name="Soul Spiral" /> (Shroud 4), so be careful to not double cast it by accident.
 
-### Preacasting
-
-- Staff marks if possible (check the notes section).
-- If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on MAMA, Siax and Ensolyss (then put back <Skill name="Lich Form"/>) since you are too far away from _Mistlock Singularity_ to make use of <Skill name="Lich Form" disableText/> precast.
-- Optional: Precast <Skill name="Rise" /> (Utility) and swap back to <Skill name="You are all Weaklings!" />.
-- Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
-
 #### Below 50% hp
 
 - <Skill name="Gravedigger"/> (Greatsword 2) has no recharge cooldown anymore
 - skip <Skill name="Dark Pact"/> (Dagger 3) and Greatsword Auto-Attacks for more Gravdiggers
 - only use <Skill name="Death Spiral"/> if you need additional Life Force
+
 
 ### Rotation 
 <Grid>
