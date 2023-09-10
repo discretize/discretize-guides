@@ -11,7 +11,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-10T16:19:13.889Z "
+date: "2023-09-10T16:20:05.814Z "
 title: Power Reaper
 role: Power Damage
 profession: Necromancer
@@ -44,7 +44,7 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 
 You can freely swap <Item id="24868"/> for <Item id="24615"/> on fights where you don't benefit from <Effect name="Exposed"/>.
 
-On fights where you benefit from a sigil such as <Item id=""/> and <Item id=""/>, use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust gear due to the <Attribute name="precision"/> loss from dropping <Item id="24618"/>.
+On fights where you benefit from a sigil such as <Item id="24658"/> and <Item id="24868"/>, use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust gear due to the <Attribute name="precision"/> loss from dropping <Item id="24618"/>.
 
 </Character>
 </CharacterWithAr>
