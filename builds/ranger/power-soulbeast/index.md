@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-09-10T15:51:14.580Z "
+date: "2023-09-10T16:01:29.003Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -176,6 +176,21 @@ For that reason you can find a video below with openers for each of the CM bosse
 </Warning>
 <Grid>
 <GridItem sm="6">
+
+### Hammer Opener
+
+1.  <Skill name="Barrage"/> (Longbow 5)
+2.  _Swap to Hammer_
+3.  <Skill id="63075"/> (Hammer 3)
+4.  <Skill name="Sicem"/> (during the cast of <Skill id="63075"/>)
+5.  <Skill name="Frost Trap"/>
+6.  <Skill id="63131"/> (Hammer 4)
+7.  <Skill id="63335"/> (Hammer 2)
+8.  _Weaponswap_
+9.  _Continue with Sword or Axe burst from step 6_
+
+Note: If you don't precast <Skill name="Barrage"/>, you may want to use <Skill name="Worldly Impact"/> or <Skill id="63208"/> early to proc <Item id="100947"/>.
+
 ### Sword Opener
 
 1.  <Skill name="Barrage"/> (Longbow 5)
