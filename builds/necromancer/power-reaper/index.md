@@ -19,7 +19,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-10T14:28:12.694Z "
+date: "2023-09-10T15:29:44.230Z "
 benchmark:
   small:
     dps: 34302
@@ -66,8 +66,15 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 
 ### Situational Weapons
 
-- You can play with Axe/Warhorn on single target encounters with the need of additional defiance bar damage, utilising  <Skill name="Wail of Doom" /> (Warhorn 4).
-- On <Instability name="No Pain, No Gain" /> encounters Axe/Focus can generate a damage increase by stripping boons with  <Skill name="Spinal Shivers" /> (Focus 5), but generally speaking <Skill name="Corrupt Boon" /> (Utility) can be used on both weaponsets and does not require adjusting the gear.
+- Staff: used for precasting and cleave damage. 
+
+Playing Staff over Dagger at single target encounters is not bad, but recognize that <Skill name="Life Siphon" /> (Dagger 2) continues during your shroud and therefore takes advantage of <Trait name="Death Perception"/>. 
+
+-> Staff will fall behind in fast groups!
+
+- Warhorn: when it comes to break bar damage <Skill name="Oppressive Collapse" /> (Torch 5) is simply a better version of <Skill name="Wail of Doom" /> (Warhorn 4), but <Skill name="Locust Swarm" /> (Warhorn 5) can be precasted for a long uptime of your Fireworks relic.
+This can be useful during downtimes e.g. Arkk.
+- Focus: can be used during days with <Instability name="No Pain, No Gain" /> to generate a damage increase by stripping boons with  <Skill name="Spinal Shivers" /> (Focus 5), but generally speaking <Skill name="Well of Corruption" /> (Utility) or <Skill name="Corrupt Boon" /> (Utility) can be used on both weaponsets and do not require adjusting your gear.
 
 ### Defiance Bar Damage
 
@@ -76,6 +83,7 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 | <Skill name="Terrify"/>                         | 100 with <Condition name="Fear"/>                                          |
 | <Skill name="Executioners Scythe"/>             | 150 with <Control name="Stun"/> 
 | <Skill name="Grasping Darkness"/>               | 150 with <Control name="Pull"/>
+| <Skill name="Oppressive Collapse"/>               | 200 from <Effect name="knockdown"/>
 | <Skill name="Reaper's Mark"/>                   | 100 with <Condition name="Fear"/>
 | <Skill name="Wail of Doom"/>                    | 100 base plus 100 with <Condition name="Fear"/> (300 total if traited)   |
 | <Skill name="Spectral Grasp"/>                    | 150-750 damage with <Control name="Pull"/> (see situational skills)   |
@@ -96,7 +104,7 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 |                                                               |                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Well of Darkness" size="big" disableText/>       | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                           |
-| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />                                                                                                                                                      |
+| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />. If you are the one responsible to strip all boons on MAMA and Arkk, take <Skill name="Corrupt Boon"/> instead.                                                                                                                                                     |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
@@ -124,17 +132,20 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 
 The given rotation below is meant for a golem-like scenario and has to be adapted based on phase-lengths/exposed/mechanics/the following aspects: 
 
-- Below 25% boss HP: use <Skill name="Executioner's Scythe" /> (Shroud 5).
+- Take into account exposed/impact burst windows! 
+- Since most fractal phases are on a faster pace, you might have to use your <Skill name="Soul Spiral" /> (Shroud 4) earlier. 
+- <Skill name="Deaths Charge" /> (Shroud 2) deals a decent chunk of its damage at the end of the cast, so it can be beneficial to skip it towards the end of a phase.
 - All shouts require to stand in melee range (240 range) to get their full value.
-- <Skill name="Deaths Charge" /> (Shroud 2) only deals slightly more damage compared to shroud auto-attacks.
-- <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of life force from incomming damage for 6s. 
+- <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of Life Force from incomming damage for 6s. 
 Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends the damage mitigation and can interrupt e.g. <Skill name="Soul Spiral" /> (Shroud 4), so be careful to not double cast it by accident.
 
 #### Below 50% hp
 
-- <Skill name="Gravedigger"/> (Greatsword 2) has no recharge cooldown anymore
-- skip <Skill name="Dark Pact"/> (Dagger 3) and Greatsword Auto-Attacks for more Gravdiggers
-- only use <Skill name="Death Spiral"/> if you need additional Life Force
+- <Trait name="Close to Death"/> increases all of your strike damage.
+- <Skill name="Gravedigger"/> (Greatsword 2) has no recharge cooldown anymore.
+- Skip <Skill name="Dark Pact"/> (Dagger 3) and Greatsword Auto-Attacks for more Gravdiggers.
+- Only use <Skill name="Death Spiral"/> if you need additional Life Force.
+- Below 25% boss HP <Skill name="Executioner's Scythe" /> (Shroud 5) deals its highest amount of damage.
 
 
 ### Rotation 
@@ -197,7 +208,6 @@ Use <Skill name="You are all Weaklings!" /> (Utility) on Cooldown
 22. <Skill name="Well of Suffering" /> (Utility)
 23. <Skill name="Life Siphon" /> (Dagger 2)
 24. **Shroud**
-
 
 </GridItem>
 </Grid>
