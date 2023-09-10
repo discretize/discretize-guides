@@ -1,37 +1,37 @@
 ---
+title: Power Reaper
 hidden: false
 archive: false
 hasBeginner: false
+rating: Good
+role: Power Damage
 author: ""
+profession: Necromancer
 specialization: Reaper
+conditions:
+  - name: Vulnerability
+    uptime: 22 stacks
 code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 3
   - 3
   - 4
   - 2
   - 3
-date: "2023-09-08T20:11:20.662Z "
-title: Power Reaper
-role: Power Damage
-profession: Necromancer
-conditions:
-  - name: Vulnerability
-    uptime: 22 stacks
-cmGuide: ""
+date: "2023-09-10T14:17:41.523Z "
 benchmark:
   small:
     dps: 34302
     by: Westet
     youtube: I1Tjyfk-DKI
-rating: Good
 ---
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/>, <Boon name="Might"/>, <Boon name="Stability"/> and damage mitigation, it is good in parties where your teammates do not perform very well.
 
 The <Specialization name="Reaper" text="Power Reaper" /> has multiple offensive skill
 options (<Control name="Pull" />, boon corruptions for <Instability name="No Pain, No Gain" />
 , <Condition name="Blinded" />, <Condition name="Immobile" />, etc.) <Specialization
-  name="Reaper"
+  name="Reaper" 
   text="Power Reaper"
 /> can modify itself to fit many given situations in fractals.
 
@@ -129,14 +129,13 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 - Optional: Precast <Skill name="Rise" /> (Utility) and swap back to <Skill name="You are all Weaklings!" />.
 - Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
 
-#### Staff Marks
+#### Below 50% hp
 
-- On Skorvald/Arkk/Siax phase 1 the direct hit damage does not connect, but you will still apply conditions and combo- fields/finishers, as well as getting life force from <Trait name="Soul Marks"/>, which can especially be useful during the orb phases of Ensolyss.
-- For Arstariiv phase 1 they can be precasted into her jumping path.
-- At MAMA you place them onto the spawn area of the first knight.
-- To be able to precast them into Ensolyss phase 1, they need to be slighty below the initial hitbox.
+- <Skill name="Gravedigger"/> (Greatsword 2) has no recharge cooldown anymore
+- skip <Skill name="Dark Pact"/> (Dagger 3) and Greatsword Auto-Attacks for more Gravdiggers
+- only use <Skill name="Death Spiral"/> if you need additional Life Force
 
-### Rotation
+### Rotation 
 <Grid>
 <GridItem sm="7">
 
@@ -144,54 +143,59 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 1. <Skill name="Grasping Darkness" /> (Greatsword 5)
 2. <Skill name="Nightfall" /> (Greatsword 4)
-3. **Weapon Swap**
-4. <Skill name="Reaper's Mark" /> (Staff 5)
+3. **Weapon Swap** 
+4. <Skill name="You are all Weaklings!" /> (Utility) 
 5. <Skill name="Well of Darkness" /> (Utility)
 6. <Skill name="Well of Suffering" /> (Utility)
-7. <Skill name="You are all Weaklings!" /> (Utility)
-8. <Skill name="Chillblains" /> (Staff 3)
-9. <Skill name="Reapers Shroud" /> (F1)
-10. <Skill name="Deaths Charge" /> (Shroud 2)
-11. <Skill name="Soul Spiral" /> (Shroud 4)
-12. **Auto-attack chain**
-13. <Skill name="Deaths Charge" /> (Shroud 2)
-14.  **Auto-attack chain** 2x
-15.  <Skill name="Deaths Charge" /> (Shroud 2)
-16.  **Auto-attack chain**
-17. <Skill name="Exit Reapers Shroud" /> (F1)
-18.  <Skill name="Mark of Blood" /> (Staff 2)
-19. <Skill name="Chillblains" /> (Staff 3)
-20. <Skill name="Reaper's Mark" /> (Staff 5)
-21. **Weapon Swap**
+8. <Skill name="Life Siphon" /> (Dagger 2)
+9. **Shroud**
+10. continue with **Loop**
+
+
+**Shroud:** 
+
+1. <Skill name="Reapers Shroud" /> (F1)
+2. <Skill name="Deaths Charge" /> (Shroud 2)
+3. **Auto-attack chain** 2x
+4. <Skill name="Deaths Charge" /> (Shroud 2)
+5. <Skill name="Soul Spiral" /> (Shroud 4)
+6. **Auto-attack chain** 
+7. <Skill name="Deaths Charge" /> (Shroud 2)
+8. <Skill name="Executioner's Scythe" /> (Shroud 5)
+9. <Skill name="Exit Reapers Shroud" /> (F1)
 
 </GridItem>
 <GridItem sm="5">
 
-**Loop**
+**Loop (above 50% hp):**
 
-1. <Skill name="Gravedigger" /> (Greatsword 2)
-2. <Skill name="Death Spiral" /> (Greatsword 3)
-3. <Skill name="You are all Weaklings!" /> (Utility)
-4. **Auto-attack chain**
-5. <Skill name="Gravedigger" /> (Greatsword 2)
-6. <Skill name="Grasping Darkness" /> (Greatsword 5)
-7. <Skill name="Nightfall" /> (Greatsword 4)
-8. <Skill name="Well of Darkness" /> (Utility)
-9. <Skill name="Well of Suffering" /> (Utility)
-10. <Skill name="Reapers Shroud" /> (F1)
-11. <Skill name="Deaths Charge" /> (Shroud 2)
-12. <Skill name="Soul Spiral" /> (Shroud 4)
-13. **Auto-attack chain**
-14. <Skill name="Deaths Charge" /> (Shroud 2)
-15.  **Auto-attack chain** 2x
-16.  <Skill name="Deaths Charge" /> (Shroud 2)
-17.  **Auto-attack chain** 2x
-18. <Skill name="Exit Reapers Shroud" /> (F1)
-19. <Skill name="Gravedigger" /> (Greatsword 2)
-20. <Skill name="Death Spiral" /> (Greatsword 3)
-21. <Skill name="You are all Weaklings!" /> (Utility)
-22. **Auto-attack chain**
-23. <Skill name="Gravedigger" /> (Greatsword 2)
+Use <Skill name="You are all Weaklings!" /> (Utility) on Cooldown
+
+1. <Skill name="Dark Pact" /> (Dagger 3)
+2. <Skill name="Life Siphon" /> (Dagger 2)
+3. **Weapon Swap** 
+4. <Skill name="Gravedigger" /> (Greatsword 2)
+5. <Skill name="Death Spiral" /> (Greatsword 3)
+6. **Auto-attack chain** 
+7. <Skill name="Gravedigger" /> (Greatsword 2)
+8. <Skill name="Grasping Darkness" /> (Greatsword 5)
+9. <Skill name="Nightfall" /> (Greatsword 4)
+10. <Skill name="Well of Darkness" /> (Utility)
+11. <Skill name="Well of Suffering" /> (Utility)
+12. **Shroud**
+13. <Skill name="Gravedigger" /> (Greatsword 2)
+14. <Skill name="Death Spiral" /> (Greatsword 3)
+15. **Auto-attack chain** 
+16. <Skill name="Gravedigger" /> (Greatsword 2)
+17. <Skill name="Nightfall" /> (Greatsword 4)
+18. <Skill name="Grasping Darkness" /> (Greatsword 5)
+19. **Weapon Swap** 
+20. <Skill name="Dark Pact" /> (Dagger 3)
+21. <Skill name="Well of Darkness" /> (Utility)
+22. <Skill name="Well of Suffering" /> (Utility)
+23. <Skill name="Life Siphon" /> (Dagger 2)
+24. **Shroud**
+
 
 </GridItem>
 </Grid>
