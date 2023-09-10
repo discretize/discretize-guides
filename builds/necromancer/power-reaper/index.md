@@ -19,7 +19,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-09-10T13:39:57.195Z "
+date: "2023-09-10T13:40:21.217Z "
 benchmark:
   small:
     dps: 34302
@@ -116,9 +116,7 @@ This gearset can be optimised slightly using <Item id="37132"/>. Use the [gear o
 The given rotation below is meant for a golem-like scenario and has to be adapted based on phase-lengths/mechanics/the following aspects: 
 - Below 50% boss HP: <Skill name="Gravedigger" /> (Greatsword 2) replaces  <Skill name="Death Spiral" /> (Greatsword 3) and Greatsword Auto-Attacks. 
  Cancel the aftercasts with any other skill or weaponswap (shroud works as well) or simply by pressing auto-attack in between two casts. Also skip one Auto-attack chain at the end of your Greatsword shroud loop.
-- Below 25% boss HP: use <Skill name="Executioner's Scythe" /> (Shroud 5).
 - All shouts require to stand in melee range (240 range) to get their full value.
-- <Skill name="Deaths Charge" /> (Shroud 2) only deals slightly more damage compared to shroud auto-attacks.
 - <Skill name="Infusing Terror" /> (first instance of shroud 3) should always be utilised during shroud to prevent getting interrupted and to reduce the loss of life force from incomming damage for 6s. 
 Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends the damage mitigation and can interrupt e.g. <Skill name="Soul Spiral" /> (Shroud 4), so be careful to not double cast it by accident.
 
