@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-09-08T22:42:46.012Z "
+date: "2023-09-10T15:51:14.580Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -33,9 +33,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 <Divider text="Equipment"/>
 <CharacterWithAr>  
-<Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":4170,"Precision":2111,"Toughness":1375,"Vitality":1690,"Ferocity":2386,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.079047619047619,"Critical Damage":3.0906666666666665,"Power Coefficient":3310,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.28,"Poison Coefficient":0.41,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35499.88449194001,"NonCrit Effective Power":11486.1576225,"Power DPS":45246.290977405246,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":2.508,"Bleeding DPS":297.825,"Burning Damage":422.65625,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":127.321875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":0.451,"Poison DPS":61.66015625,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":45745.52613365524,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30690,"weapon2MainType":"Hammer","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
-
-Use <Item id="100947"/>.
+<Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":4170,"Precision":2111,"Toughness":1375,"Vitality":1690,"Ferocity":2386,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.079047619047619,"Critical Damage":3.0906666666666665,"Power Coefficient":3310,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.28,"Poison Coefficient":0.41,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35499.88449194001,"NonCrit Effective Power":11486.1576225,"Power DPS":45246.290977405246,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":2.508,"Bleeding DPS":297.825,"Burning Damage":422.65625,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":127.321875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":0.451,"Poison DPS":61.66015625,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":45745.52613365524,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30690,"weapon2MainType":"Hammer","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
 
 </Character>
 </CharacterWithAr>
@@ -60,13 +58,17 @@ Use <Item id="100947"/>.
 
 | Skill               | Damage                                                                      |
 | ------------------- | --------------------------------------------------------------------------- |
-| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
+| <Skill id="45743"/> | 200 damage (F2 in Rock Gazelle <Skill id="42944"/>)                         |
+| <Skill id="63075"/> | First <Control name="Daze"/> 100 damage, second<Control name="Daze"/> 125 damage, (Hammer 3)                                                       |
+| <Skill id="63330"/> | 200 damage (Hammer 5)                                                      |
 | <Skill id="12511"/> | 150 damage (Longbow 4)                                                      |
 | <Skill id="12638"/> | 150 damage (Axe 4)                                                          |
 | <Skill id="12475"/> | 150 damage (Greatsword 5)                                                   |
 | <Skill id="12523"/> | 150 damage (Greatsword 4 after a block)                                     |
-| <Skill id="41908"/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
+| <Skill id="41908"/> | 232 damage (F2 in Pheonix <Skill id="42944"/>)                              |
+| <Skill id="42907"/> | 200 damage (F2 in Smokescale <Skill id="42944"/>)                           |
 | <Skill id="12490"/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
+| <Skill id="63197"/> | 33/s <Condition name="Blinded"/> (Hammer 3) |
 
 ### Pets
 
@@ -83,7 +85,13 @@ Use <Item id="100947"/>.
 ### Swap Weapons
 #### Weapon Selections
 **Set 1**
-- Hammer - is the standard weapon choice for most bosses except a few cases in fast daily kills or speedruns. Remember you can still precast <Skill name="Barrage"/> with Longbow before fights start for extra burst. 
+- Hammer - is the standard weapon choice for most bosses except a few cases in fast daily kills or speedruns. Remember you can still precast <Skill name="Barrage"/> with Longbow before fights start for extra burst.
+
+  Standard Hammer Skills
+  <Skill id="63118" size="big" disableText/><Skill id="63335" size="big" disableText/><Skill id="63075" size="big" disableText/><Skill id="63131" size="big" disableText/><Skill id="63208" size="big" disableText/>
+  - If you need some extra CC, swap to <Skill id="63330"/> (Hammer 5). This is particularly usefuil on Artsarriv and MAMA.
+  - If you do not need the CC or <Trait name="Twice as Vicious"/> proc, swap to <Skill id="63197"/>.
+
 - Longbow - is taken on encounters where phases are so short, you do not need to swap back to bow during active phases. Once the phase has finished you should have time to swap back to bow and be ready to burst again. If you find yourself stuck on Longbow at points in a fight where you need extra damage, Hammer will probably be a better option.
 - Axe/Warhorn - is a niche weapon choice, but viable on some encounters over Longbow if you don't have access to a Hammer.
 
