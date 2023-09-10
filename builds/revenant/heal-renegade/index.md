@@ -40,7 +40,7 @@ classification:
   - 3
   - 2
   - 2
-date: "2023-09-10T10:08:11.488Z "
+date: "2023-09-10T10:09:49.655Z "
 title: Heal Renegade
 rating: Offmeta
 role: Support
@@ -62,7 +62,7 @@ Feel free to run full Harrier if you are confident that you don't need the extra
 
 <Grid>
 <GridItem sm="7">
-<Traits traits1="Salvation" traits1Selected="Invoking Harmony,Words of Censure,Generous Abundance" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Righteous Rebel"/>
+<Traits traits1="Salvation" traits1Selected="Invoking Harmony,Words of Censure,Generous Abundance" traits2="Devastation" traits2Selected="Unsuspecting Strikes,Assassins Presence,Swift Termination" traits3="Renegade" traits3Selected="Wrought-Iron Will,All for One,Lasting Legacy"/>
 <Card title="Second trait variant">
 If you run out of energy too quickly, we recommend the Salvation/Invocation variant. This variant is also better for fractals where <Trait name="Assassins Presence"/> doesn't help your party. This would include fractals where damage is time-gated and where you can't critically hit the enemies that matter.
 
