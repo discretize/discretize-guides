@@ -1,30 +1,30 @@
 ---
-title: Power Reaper
 hidden: false
 archive: false
 hasBeginner: false
-rating: Good
-role: Power Damage
 author: ""
-profession: Necromancer
 specialization: Reaper
-conditions:
-  - name: Vulnerability
-    uptime: 22 stacks
 code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 3
   - 3
   - 4
   - 2
   - 3
-date: "2023-09-10T15:53:29.175Z "
+date: "2023-09-10T16:19:13.889Z "
+title: Power Reaper
+role: Power Damage
+profession: Necromancer
+conditions:
+  - name: Vulnerability
+    uptime: 22 stacks
+cmGuide: ""
 benchmark:
   small:
     dps: 34302
     by: Westet
     youtube: I1Tjyfk-DKI
+rating: Good
 ---
 The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/>, <Boon name="Might"/>, <Boon name="Stability"/> and damage mitigation, it is good in parties where your teammates do not perform very well.
 
@@ -36,15 +36,15 @@ options (<Control name="Pull" />, boon corruptions for <Instability name="No Pai
 /> can modify itself to fit many given situations in fractals.
 
 It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
-
+ 
 <Divider text="Equipment" />   
 
 <CharacterWithAr>
-<Character gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":23992,"Armor":2210,"Power":3764,"Precision":2008,"Toughness":1243,"Vitality":1552,"Ferocity":1331,"Condition Damage":500,"Expertise":0,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0,"Boon Duration":0.162,"Critical Chance":1,"Critical Damage":2.3873333333333333,"Power Coefficient":1658,"Power2 Coefficient":2696,"Burning Coefficient":0,"Bleeding Coefficient":0.31,"Poison Coefficient":2.1,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Alternative Power":3764,"Alternative Critical Chance":1,"Alternative Critical Damage":2.5873333333333335,"Effective Power":23547.36593090347,"NonCrit Effective Power":9863.4596192,"Power DPS":15033.320259313807,"Alternative Effective Power":29348.066532954992,"Power2 DPS":30466.84149897831,"Siphon DPS":153.72500000000002,"Bleeding Damage Tick":81.25,"Bleeding Stacks":0.31,"Bleeding DPS":25.1875,"Burning Damage Tick":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":87.946875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":99.21875,"Poison Stacks":2.1,"Poison DPS":208.359375,"Torment Damage Tick":120,"Torment Stacks":0,"Torment DPS":0,"Damage":45887.433633292116,"Effective Health":105517054.72636817,"Survivability":53643.64754772149,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24618,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37132,"weapon1MainInfusion2Id":37132,"weapon1MainSigil2Id":24615,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24618,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37132,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24868,"weapon2OffAffix":"Berserker","weapon2OffInfusionId":37132},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37132,"accessory2Affix":"Berserker","accessory2InfusionId":37132},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":10547,"utility1Id":10546,"utility2Id":10607,"utility3Id":29414,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
+<Character gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":23992,"Armor":2210,"Power":3764,"Precision":2008,"Toughness":1243,"Vitality":1552,"Ferocity":1331,"Condition Damage":500,"Expertise":0,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0,"Boon Duration":0.162,"Critical Chance":1,"Critical Damage":2.3873333333333333,"Power Coefficient":1658,"Power2 Coefficient":2696,"Burning Coefficient":0,"Bleeding Coefficient":0.31,"Poison Coefficient":2.1,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Alternative Power":3764,"Alternative Critical Chance":1,"Alternative Critical Damage":2.5873333333333335,"Effective Power":23547.36593090347,"NonCrit Effective Power":9863.4596192,"Power DPS":15033.320259313807,"Alternative Effective Power":29348.066532954992,"Power2 DPS":30466.84149897831,"Siphon DPS":153.72500000000002,"Bleeding Damage Tick":81.25,"Bleeding Stacks":0.31,"Bleeding DPS":25.1875,"Burning Damage Tick":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":87.946875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":99.21875,"Poison Stacks":2.1,"Poison DPS":208.359375,"Torment Damage Tick":120,"Torment Stacks":0,"Torment DPS":0,"Damage":45887.433633292116,"Effective Health":105517054.72636817,"Survivability":53643.64754772149,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24618,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37132,"weapon1MainInfusion2Id":37132,"weapon1MainSigil2Id":24615,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24618,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37132,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24868,"weapon2OffAffix":"Berserker","weapon2OffInfusionId":37132},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37132,"accessory2Affix":"Berserker","accessory2InfusionId":37132},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":10547,"utility1Id":10546,"utility2Id":10607,"utility3Id":29414,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
 
-Play with <Item id="100947"/>.
+You can freely swap <Item id="24868"/> for <Item id="24615"/> on fights where you don't benefit from <Effect name="Exposed"/>.
 
-Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust gear.
+On fights where you benefit from a sigil such as <Item id=""/> and <Item id=""/>, use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust gear due to the <Attribute name="precision"/> loss from dropping <Item id="24618"/>.
 
 </Character>
 </CharacterWithAr>
