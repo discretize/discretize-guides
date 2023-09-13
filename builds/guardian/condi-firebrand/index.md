@@ -27,7 +27,7 @@ classification:
   - 5
   - 2
   - 3
-date: "2023-09-13T22:13:48.647Z "
+date: "2023-09-13T22:14:29.651Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
@@ -219,8 +219,6 @@ To keep up <Boon name="Quickness"/>:
 - Use <Skill name=" mantraofsolace"/> Keep in mind that <Skill name="mantraofsolace"/> does <Boon name="Quickness"/> only every seven seconds (<Trait name="liberatorsvow"/>)!
 - Only use these skills close to your allies - try to "puke" on them with the mantras
 - Keep in mind that equipping or stowing a tome grants you 3 seconds of <Boon name="Quickness"/> every 8 seconds thanks to <Trait name="swift scholar"/>!
-
-Tomes are very useful when no other skills are ready. <Skill name="Tome of Justice"/> also gets refreshed every time an enemy dies (works with anomalies at Skorvald/Artsariiv/Arkk, knights at MAMA, and hallucinations at Siax).
 
 The <Skill name="Tome of Courage"/> and <Skill name="Tome of Resolve"/> are great for high incoming damage scenarios.
 
