@@ -27,7 +27,7 @@ classification:
   - 5
   - 2
   - 3
-date: "2023-09-13T21:13:08.739Z "
+date: "2023-09-13T21:19:31.401Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
@@ -38,14 +38,14 @@ conditions:
     uptime: 12 stacks (using Sword of Justice)
 cmGuide: ""
 ---
-  
+   
 <Beginner>
 
-The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Further, this build brings <Boon name="Stability"/> for the team. Don't be fooled though; the DPS sacrifice is neglectable so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties' needs ideally.
+The **<Specialization text="Condi Firebrand" name="Firebrand"/>** is a self-sufficient DPS build, which is not entirely relying on support from the party. This is achieved by bringing slightly more than 50% <Boon name="Quickness" /> to the party. Further, this build brings <Boon name="Stability"/> for the team. Don't be fooled though; the DPS sacrifice is neglectable so that the <Specialization text="Condi Firebrand" name="Firebrand"/> maintains consistent very high DPS. In addition to that, a free utility slot allows the <Specialization text="Condi Firebrand" name="Firebrand"/> to adapt to almost any situation and fill the parties' needs ideally. The DPS version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face.
 
-The beginner version should not be played in the slot of a <Boon name="Quickness" />-provider. Instead, it is a fully fledged DPS class! The added <Boon name="Quickness" /> will help to cover potential gaps in <Boon name="Quickness"/> application and alleviate some of stress the <Boon name="Quickness" />-provider might face.
+If you want to take the role of a DPS <Boon name="Quickness" /> provider, you can run the <Specialization text="Condi Quickness Firebrand" name="Firebrand"/> build. This is a great introduction to a DPS boon provider role in fractals, with strong support to help your party providing things like <Boon name="Aegis"/>, <Boon name="Stability"/>, and utility such as reflects. Whilst maintaining permenant <Boon name="Quickness" /> and helping out with some extra <Boon name="Fury"/> and <Boon name="Might"/>. 
 
-This is a great build to get started in fractals as you provide a base amount of supportive utility. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
+This is a great build to get started in fractals as you provide a base amount of supportive utility. As you progress through fractals and discover new depths of the immersive gameplay of Guild Wars 2, you can tweak this build more and more. Before reading the advanced version of this page, we recommend acquiring an in-depth understanding of your CC skills and when to use them efficiently. You also should be able to hit more than 45% <Boon name="Quickness"/> uptime on the DPS build, and close to 100% on the Quickness build (measure this with the [arc-dps](https://www.deltaconnected.com/arcdps/) boon table [addon](https://github.com/knoxfighter/GW2-ArcDPS-Boon-Table)). And finally, you should be able to execute the basic step-by-step rotation provided below without spending too much thought on it.
 
 The advanced page provides a more complete overview of all the utilities the <Specialization name="Guardian"/> has to offer. If you ever feel like you are missing information feel free to already swap to the advanced page!
 
