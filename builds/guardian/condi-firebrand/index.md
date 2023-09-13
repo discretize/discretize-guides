@@ -27,7 +27,7 @@ classification:
   - 5
   - 2
   - 3
-date: "2023-09-13T21:30:28.937Z "
+date: "2023-09-13T21:43:27.582Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
@@ -75,8 +75,8 @@ Overall this build is one of the best picks for newer players, for PuGs as <Boon
 
 There are a couple of different gear, utility, and trait setups that allow you to maintain quickness that can be situationally chosen. Check the [gear optimizer](https://optimizer.discretize.eu/) to adjust your gear for the boon durations listed below:
 
-- <Trait name="Liberators Vow"/>, <Trait name="Legendary Lore"/>, <Skill name="Mantra of Solace"/> (not using final charge), <Skill name="Mantra of Potence"/> (using final charge) and <Skill name="Feel My Wrath"/> - Minimum duration 32.5%bd
-- <Trait name="Liberators Vow"/>, <Trait name="Weighty Terms"/>, <Skill name="Mantra of Solace"/> (not using final charge), <Skill name="Mantra of Potence"/> (not using final charge) and <Skill name="Feel My Wrath"/> - Minimum duration 41.7%bd
+- <Trait name="Liberators Vow"/>, <Skill name="Mantra of Solace"/> (not using final charge), and <Skill name="Mantra of Potence"/> (using final charge) - Minimum duration 29.73%bd
+- <Skill name="Mantra of Potence"/> (using final charge) and <Skill name="Feel My Wrath"/> - Minimum duration 55.33%bd
 
 </Warning>
 </Advanced>
