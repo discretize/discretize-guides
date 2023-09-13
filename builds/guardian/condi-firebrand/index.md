@@ -27,7 +27,7 @@ classification:
   - 5
   - 2
   - 3
-date: "2023-09-13T22:14:29.651Z "
+date: "2023-09-13T22:15:23.915Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
@@ -205,6 +205,7 @@ If your are playing solo you can swap Virtues trait line with Zeal and run <Skil
 | <Skill name="Sanctuary"/>                                                      | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
 | <Skill name="Chains of light"/>                                                | <Condition name="Immobile"/> 50/s                                              |
 | <Skill name="Chapter 2: Daring Challenge"/> in <Skill name="Tome of Courage"/> | <Condition name="Taunt"/> 75/s                                                 |
+| <Skill name="Symbol of Vengeance"/> with <Trait name="Unrelenting Criticism"/>                                                                                                       | 100 damage                                                                          |
 
 </GridItem>
 </Grid>
