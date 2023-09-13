@@ -4,24 +4,11 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T23:13:30.844Z "
+date: "2023-09-13T16:58:46.241Z "
 title: Aquatic Ruins
-image: images/header_old.jpg
-group: t4
-api: 2956
-bosses: 1
 difficulties:
   - level: 76
     ar: 107
-  - level: 61
-    ar: 81
-  - level: 26
-    ar: 18
-  - level: 7
-    ar: 0
-sigils:
-  - id: 24658
-  - id: 24615
 consumables:
   - 78978
 record:
@@ -47,7 +34,14 @@ long_description: The Aquatic Ruins Fractal takes you on a journey through the
   submerged corridors, watch out for deadly sea creatures, treacherous currents,
   and the legendary Jellyfish Beast. Don't forget your underwater gear and
   prepare to explore and uncover the secrets hidden within the depths.
+image: images/header_old.jpg
+api: 2956
+bosses: 1
 description: The krait took our people into the water. You have to stop them!
+group: t4
+sigils:
+  - id: 24658
+  - id: 24615
 ---
 
 <Grid>
