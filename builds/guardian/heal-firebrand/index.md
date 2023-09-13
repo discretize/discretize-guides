@@ -32,7 +32,7 @@ classification:
   - 3
   - 1
   - 2
-date: "2023-09-10T12:59:22.163Z "
+date: "2023-09-13T16:56:24.793Z "
 title: Heal Firebrand
 rating: Good
 role: Support
@@ -53,6 +53,14 @@ It offers a decent amount of healing through symbols, dodges, <Skill name="Mantr
 
 The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. The [CM Guides](/cm-guides/guardian/heal-firebrand/) will also give an overview of what you can run on different encounters.
 
+<Warning>
+### Boon Duration Required for 100% Quickness Uptime
+- <Skill name="Mantra of Potence"/> (all charges off cooldown) - 90.85%
+- <Skill name="Mantra of Solace"/> with <Trait name="Liberators Vow"/>, <Skill name="Mantra of Potence"/> (all charges off cooldown) - 29.2%
+- <Skill name="Mantra of Potence"/> (all charges off cooldown) and <Skill name="Feel My Wrath"/> - 54.24%
+- <Skill name="Mantra of Solace"/> with <Trait name="Liberators Vow"/>, <Skill name="Mantra of Potence"/> (all charges off cooldown), and <Skill name="Feel My Wrath"/> - 11.32%
+
+</Warning>
 <Divider text="Equipment"/>
 
 <CharacterWithAr> 
@@ -81,14 +89,15 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits2="Honor"
   traits2Selected="Protector's Restoration, Empowering Might, Writ of Persistence"
   traits3="Firebrand"
-  traits3Selected="Liberators Vow, Weighty Terms, Stoic Demeanor"
+  traits3Selected="Unrelenting Criticism, Weighty Terms, Stoic Demeanor"
 />
-</GridItem>
+</GridItem> 
 <GridItem>
 <Card title="Situational Traits">
 
 |                                                              |                                                                                                                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Trait name="Liberators Vow" size="big" disableText/>   | Can be run to make maintaining <Boon name="Quickness"/> easier. |
 | <Trait name="Stalwart Speed" size="big" disableText/>   | Can be run to make maintaining <Boon name="Quickness"/> easier, especially when playing with <Skill name="Mantra of Liberation"/>. |
 | <Trait name="Invigorated Bulwark" size="big" disableText/>         | Taken if you are running Mace, or can be used as a healing modifier if you are blocking lots of attacks with <Boon name="Aegis"/>.                           |
 | <Trait name="Honorable Staff" size="big" disableText/>         | Can be taken for some extra <Attribute name="Concentration"/> which will increase your <Attribute name="Boon Duration"/> if you are not at 100%. Also can be used to reduce Staff skills cooldown, notably <Skill name="Empower"/>, which can help with <Boon name="Might"/> uptime.                           |
@@ -204,6 +213,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 | <Skill name="Hammer of Wisdom"/>                                            | 200 damage                                                                          |
 | <Skill name="Chapter 3: Heated Rebuke"/> in <Skill name="Tome of Justice"/> | 150 damage                                                                          |
 | <Skill name="Sanctuary"/>                                                   | 150/s damage for 5 (or 7 with Virtues) seconds,<br/> adding up to 750 (1050) damage |
+| <Skill name="Symbol of Vengeance"/> with <Trait name="Unrelenting Criticism"/>                                                                                                       | 100 damage                                                                          |
 
 </GridItem>
 
@@ -262,9 +272,8 @@ All Tomes are built similarly:
 <GridItem sm="6">
 ### Standard Boons
 
-- <Boon name="Quickness" /> will be provided by using <Skill name="Mantra of Solace" /> (which
-  triggers <Trait name="Liberators Vow" /> every 7 seconds algning nicely with the recharge time of the skill with Alacrity and <Trait name="Weighty Terms"/>) and <Skill name="Mantra of Potence" />. You can use <Skill name="Mantra of Potence" /> down to 0 charges whenever you are stacked with your group.
-- <Boon name="Might" /> comes from different sources. <Skill name="Empower" /> is
+- <Boon name="Quickness" /> will be provided by using all charges of <Skill name="Mantra of Potence" /> off cooldown. <Skill name="Mantra of Solace" /> can also be used (if playing <Trait name="Liberators Vow" />) every 7 seconds. Finally, if playing <Trait name="Stalwart Speed"/> you will also generate <Boon name="Quickness" />, when gving allies <Boon name="Aegis"/> or <Boon name="Stability"/>.
+- <Boon name="Might" /> comes from different sources. <Trait name="Stoic Demeanor"/> will generate <Boon name="Might" /> when you disable (CC), or apply <Condition name="Immobile"/> or <Condition name="slow"/>. This synergises well with <Trait name="Unrelenting Criticism"/> and <Trait name="Weighty Terms"/>. <Skill name="Empower" /> is
   a big source of <Boon name="Might" /> and should be used off-cooldown whenever
   you are on Staff and on the group. Using <Skill name="Tome of Justice" /> Skill
   4 and blasting it with <Skill name="Holy Strike" /> will also grant <Boon name="Might" /> and
