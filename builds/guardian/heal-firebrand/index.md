@@ -32,7 +32,7 @@ classification:
   - 3
   - 1
   - 2
-date: "2023-09-13T16:56:24.793Z "
+date: "2023-09-15T09:02:55.704Z "
 title: Heal Firebrand
 rating: Good
 role: Support
@@ -44,7 +44,7 @@ cmGuide: pug
 <Warning> 
 
 This build is very common in PuGs. More info about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
-
+ 
 </Warning>
 
 The <Specialization name="Firebrand" text="Heal Firebrand" /> provides a good amount of <Boon name="Might" />, permanent <Boon name="Quickness" />, <Boon name="Fury" />, <Boon name="Regeneration" /> and <Boon name="Swiftness" /> as well as some <Boon name="Protection" /> and <Boon name="Resolution" />. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability" /> and <Boon name="Resistance" />.
@@ -89,7 +89,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
   traits2="Honor"
   traits2Selected="Protector's Restoration, Empowering Might, Writ of Persistence"
   traits3="Firebrand"
-  traits3Selected="Unrelenting Criticism, Weighty Terms, Stoic Demeanor"
+  traits3Selected="Liberators Vow, Weighty Terms, Stoic Demeanor"
 />
 </GridItem> 
 <GridItem>
@@ -97,8 +97,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 
 |                                                              |                                                                                                                                               |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Liberators Vow" size="big" disableText/>   | Can be run to make maintaining <Boon name="Quickness"/> easier. |
-| <Trait name="Stalwart Speed" size="big" disableText/>   | Can be run to make maintaining <Boon name="Quickness"/> easier, especially when playing with <Skill name="Mantra of Liberation"/>. |
+| <Trait name="Unrelenting Criticism" size="big" disableText/>   | If you are comfortable maintaining <Boon name="Quickness"/>, this can be run for extra <Boon name="Might"/> generation and some CC. |
 | <Trait name="Invigorated Bulwark" size="big" disableText/>         | Taken if you are running Mace, or can be used as a healing modifier if you are blocking lots of attacks with <Boon name="Aegis"/>.                           |
 | <Trait name="Honorable Staff" size="big" disableText/>         | Can be taken for some extra <Attribute name="Concentration"/> which will increase your <Attribute name="Boon Duration"/> if you are not at 100%. Also can be used to reduce Staff skills cooldown, notably <Skill name="Empower"/>, which can help with <Boon name="Might"/> uptime.                           |
 | <Trait name="Pure of Heart" size="big" disableText/>         | Trades in some <Boon name="Might"/> for extra healing, can be useful for some T4 fractals with many attacking adds.                           |
