@@ -1,27 +1,17 @@
 ---
-cycle: Night
 potions:
   - id: 8892
     description: for all the Dredge enemies
   - id: 8885
     description: for the Ice Elemental endboss
-date: "2022-01-28T10:13:18.167Z"
+hasCM: false
+cycle: Night
+layout: src/layouts/Fractal.astro
+date: "2023-08-28T11:24:54.460Z "
 title: Underground Facility
-description: Fear the collective!
-long_description: ""
-image: images/header_old.jpg
-group: T4
-api: 2947
-bosses: 2
 difficulties:
   - level: 81
     ar: 117
-sigils:
-  - id: 36053
-  - id: 24684
-    description: for all Dredge enemies
-  - id: 24661
-    description: for the Ice Elemental endboss
 consumables:
   - 78978
   - 49940
@@ -43,8 +33,18 @@ record:
     - id: OMUxEYbtnWE
       name: Deathly
       specialization: Daredevil
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+image: images/header_old.jpg
+api: 2947
+bosses: 2
+description: Fear the collective!
+group: T4
+sigils:
+  - id: 36053
+  - id: 24684
+    description: for all Dredge enemies
+  - id: 24661
+    description: for the Ice Elemental endboss
 ---
 
 ## Start: Locked Gates <Item id="8892" disableText/><Item id="24684" disableText/>
@@ -102,11 +102,11 @@ Take <Skill id="5536"/> or <Skill id="5641"/> when activating the console.
 Use <Skill id="30029"/>, <Skill id="9084"/> and <Skill id="9253"/> block the console <Control name="Knockback"/>.
 </Tab>
 
-<Tab specialization="thief">
+<Tab specialization="Thief">
 Use the smoke field from <Skill id="13113"/> or <Skill id="13065"/> to stack <Effect name="Stealth"/>. <Skill id="13027"/> and <Skill id="13117"/> combined with <Trait id="1136"/> provide enough <Effect name="Stealth"/> to completely activate the console.
 </Tab>
 
-<Tab specialization="ranger">
+<Tab specialization="Ranger">
 
 Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"/>.
 </Tab>
@@ -142,7 +142,7 @@ On the **bombs** path, be sure to take the _Concealing Dust_ at the begin **and*
 ![The gun path](images/gun_path.jpg)
 
 <Tabs>
-<Tab specialization="thief">
+<Tab specialization="Thief">
 Cast <Skill id="13117"/> for immediate <Effect name="Stealth"/>.
 </Tab>
 </Tabs>
@@ -185,7 +185,7 @@ The most deadly skills here are the _Bombs_ from the Dredge Powersuit (they spaw
 
 <Tabs>
 
-<Tab specialization="thief">
+<Tab specialization="Thief">
 
 Teleport to the lava buckets from below with <Skill id="13025"/>.
 </Tab>

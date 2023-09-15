@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Daredevil
-code: "[&DQUcPSMbBzmUEoUALwEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQUcPSMbBzmUEoUAVAEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 2
   - 2
   - 4
-date: "2023-03-05T17:43:22.753Z "
+date: "2023-09-10T16:07:46.578Z "
 title: Power Daredevil
 rating: Other
 role: Power Damage
@@ -18,25 +18,29 @@ conditions:
   - name: Vulnerability
     uptime: 5 stacks
 ---
- 
+
 <Warning>
 <Specialization name="Daredevil" text="Power Daredevil"/> is an incredibly strong build to play in T4 fractals and is a great build to swap to if you play <BuildLink build="Condi Specter" specialization="Specter"/> in CMs. In T4s recognising when to swap between <Specialization name="Daredevil" text="Power Daredevil"/> and <Specialization name="Specter" text="Condi Specter"/> will be a massive gain to your team and well worth the extra effort, making thief a very rewarding class to play!
 </Warning>
 
-The <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/> becomes quite hard to master.
+The <Specialization name="Daredevil" text="Power Daredevil"/> has great sustained DPS, great burst on stacked trash mobs, good single target burst, brings excellent crowd control and offers <Effect name="Stealth"/>, which paired with top tier mobility thanks to <Skill id="13014"/>, <Skill id="13025"/>, <Skill id="13002"/> and <Skill id="13064"/> can enable fast skips in T4s. <Specialization name="Daredevil"/> has a very simplistic rotation, which makes it fairly easy to play, but due to initiative and energy management, <Specialization name="Daredevil"/> becomes quite hard to master.
 
 In fractals <Specialization name="Daredevil" text="Power Daredevil"/> does have some drawbacks:
 
-1. First reason is <Trait id="1268"/>, which forces <Specialization name="Daredevil"/> to constantly flank to crit cap, unless you adjust your gear (with the current setup this isn't required if you run <Skill name="Signet of Agility"/>).
-2. While being a very strong build on a lot of T4s, <Specialization name="Daredevil" text="Power Daredevil"/> struggles to keep up with other power builds on CMs and it is reccomended to play <BuildLink build="Condi Specter" specialization="Specter"/> instead.
-3. Because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social Awkwardness"/> instability into deadly zones.
+1. While being a very strong build on a lot of T4s, <Specialization name="Daredevil" text="Power Daredevil"/> struggles to keep up with other power builds on CMs, but a lot of value comes from the utility, CC and skips it can provide.
+2. Because of <Trait id="2047"/>, you may be pushing your teammates on fractals with <Instability name="Social Awkwardness"/> instability into deadly zones.
 
 The build benefits from slaying potions such as <Item id="50082"/> and <Item name="Impact" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Power Daredevil" gear='{"attributes":{"profession":"Thief","specialization":"Daredevil","data":{"Health":18185,"Armor":2343,"Power":3930,"Precision":2009,"Toughness":1225,"Vitality":1654,"Ferocity":1706,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0004761904761905,"Critical Damage":2.6373333333333333,"Power Coefficient":2925,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0.94,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":36335.27381797647,"NonCrit Effective Power":12262.819525453036,"Power DPS":40924.40351081293,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":118.665625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0.94,"Poison DPS":106.07312499999999,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":41170.226635812935,"Effective Health":104680191.6344205,"Survivability":53218.1960520694,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30698,"weapon1MainType":"Staff","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":"","utility1Id":13046,"utility2Id":30868,"utility3Id":"","eliteId":""},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1245,1704,1269],[1268,1272,1904],[1933,1893,2047]],"lines":[28,35,7]}}'>
+<Character title="Power Daredevil" gear='{"attributes":{"profession":"Thief","specialization":"Daredevil","data":{"Health":18365,"Armor":2361,"Power":3935.96,"Precision":2009,"Toughness":1243,"Vitality":1756,"Ferocity":1706,"Condition Damage":750,"Expertise":0,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0,"Boon Duration":0.162,"Critical Chance":1.0004761904761905,"Critical Damage":2.6373333333333333,"Power Coefficient":3362,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":2.95,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":36850.97492730646,"NonCrit Effective Power":12436.863889738543,"Power DPS":47706.190876243476,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":2.95,"Poison DPS":332.8890625,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":48178.829938743474,"Effective Health":106528505.62004793,"Survivability":54157.85745808232,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30698,"weapon1MainType":"Staff","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30686,"weapon2MainType":"Short Bow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100916},"skills":{"healId":30400,"utility1Id":13057,"utility2Id":13046,"utility3Id":30868,"eliteId":13132},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1245,1704,1269],[1268,1272,1904],[1933,1893,2047]],"lines":[28,35,7]}}'>
+ 
+Relics:
+
+- <Item id="100916"/> is a good default option and the best option for phases longer than 20s/split phases without adds.
+- <Item id= "100074"/> is a great alternative for short phases and fights without split phases with adds. If you wanna pre-cast your elite skill before a fight, make sure to swap out the relic first, use the elite skill and then swap it back in.
 
 Alternative weapons:
 
@@ -44,7 +48,7 @@ Alternative weapons:
 - A Shortbow to stack <Boon name="Might"/>, <Effect name="Stealth"/> and to use for skips and mobility
 - A Sword/Pistol set to use for skips and opening CC
 
-With <Skill name="Signet of Agility"/>, you will be critcapped even without the flank bonus from <Trait id="1268"/>.
+With <Skill name="Signet of Agility"/>, you will be critcapped even without the flank bonus from <Trait id="1268"/> when fighting non-defiant foes.
 
 </Character>
 </CharacterWithAr>
@@ -82,6 +86,7 @@ If no one in your party can boonrip when the <Instability name="No Pain, No Gain
 | <Skill id="13012"/> | 200 Defiance bar damage (260 with <Item id="24639"/>) |
 
 ### T4 Skips
+
 <Video youtube="Alpgs_GaZV0"/>
 
 </GridItem>
@@ -141,7 +146,7 @@ Another amazing shortbow skill is <Skill id="13041"/> (Shortbow 2). It is a blas
 
 Keep in mind you can precast skills like <Skill id="13037"/>, <Skill id="13082"/> or <Skill id="13132"/> and take the mistlock singularity to refresh their coolddown. For example: Precast <Skill id="13082"/>, take mistlock, cast <Skill id="13132"/>, and swap to <Skill id="13082"/> again.
 
-Although <Specialization name="Daredevil"/> doesn't have access to <Effect name="Superspeed"/> by default. You can use a template with <Item id="88118"/>, <Item id="85244"/> or <Item id="49940"/> can be used to execute even more skips for your party in T4s.
+Although <Specialization name="Daredevil"/> doesn't have access to <Effect name="Superspeed"/>, you can use a template with <Item id="85244"/> or <Item id="49940"/> to execute even more skips for your party in T4s.
 
 ### Rotation
 

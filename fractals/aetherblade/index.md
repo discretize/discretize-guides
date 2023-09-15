@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-06-30T17:42:42.851Z "
+date: "2023-08-28T20:08:06.541Z "
 title: Aetherblade
 image: images/header_old.jpg
 group: t4
@@ -68,7 +68,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <GridItem sm="4">
 ![Mines in the water tunnel](images/start.jpg)
 </GridItem>
-</Grid>
+</Grid> 
 
 ---
 
@@ -77,7 +77,7 @@ Use <Skill id="31568"/> from your Smokescale pet to stack <Effect name="Stealth"
 <Grid>
 <GridItem sm="9">
 
-After the door opens, you enter a large area with two deathly laser puzzles.
+After the door opens, you enter a large area with two deadly laser puzzles.
 
 The first one consists of a _moving laser square pattern_ and can be disabled by activating four consoles inside a small room at the end of it. Pressing a console applies <Condition name="Immobile"/> to you.
 
@@ -95,7 +95,7 @@ Speed is important here. Do not hesitate to `/gg` if you are certain the first c
 
 <Tab specialization="Revenant">
 <ProfessionVideo title="First puzzle skip" profession="Revenant" src="rePLyrDp3Pc"/>
-To skip this part you are going to need a little jumping, along with damaging the Inquest with an AoE, non targetable skill like <Skill name="Shackling Wave"/>. **Once it comes down from the higher level**, you can use <Skill name="Phase Traversal"/> to reach the platform and go to the console room. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>) and disable the consoles.
+Jump on the rocks to the right of the entrance, use <Skill name="Shackling Wave"/> or any other non-targetable skill to hit the Inquest and lure him down **from the higher level**. Target the Inquest and use <Skill name="Phase Traversal"/> to reach the platform and go to the console room. Give yourself <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>) and disable the consoles.
 </Tab>
 
 <Tab specialization="Elementalist">
@@ -103,7 +103,7 @@ To skip this part you are going to need a little jumping, along with damaging th
 Teleport up to the first level with <Skill id="5536"/> and cast <Skill id="5507"/> to periodically clear <Condition name="Immobile"/> while activating the four consoles. Attune to x/<Skill id="5493" disableText/> for additional condition clear with <Skill id="5551"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
 
-<Tab specialization="Guardian">
+<Tab specialization="Guardian"> 
 <ProfessionVideo title="First puzzle skip" profession="Guardian" src="MmJTsOhdQeo" timestamp="460"/>
 Use <Skill name="Sword of Justice"/> upon the platform, then teleport to it with <Skill name="Merciful Intervention"/>. Equip conditions cleanses such as <Skill id="45460"/> or <Skill id="9187"/> and clear the consoles. The<Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
@@ -118,14 +118,16 @@ You can solo both the first and second room if you are fast enough. Use <Skill i
 Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skills such as <Skill id="10685"/> or <Skill id="10609"/>. <Specialization name="Revenant"/> can help giving <Boon name="Resistance"/> with <Skill name="Pain Absorption"/> (<Skill name="Legendary Demon Stance" disableText/>).
 </Tab>
 </Tabs>
-
+<Achievement title="Holo-Hornpipe">
+Dance with the Aetherblade hologram dancers by simply typing `/dance` near the two hologram dancers in the lasers room.
+</Achievement>
 </GridItem>
 
 <GridItem sm="3">
 ![Moving laser pattern](images/moving_lasers.jpg)
 ![Spinning lasers](images/spinning_lasers.jpg)
-
 <GifPlayer sourceId="aetherblade-consoles" caption="Use Condition cleanses to activate all consoles solo"/>
+
 </GridItem>
 </Grid>
 
@@ -133,7 +135,7 @@ Use <Skill id="10543"/> to teleport to the platform. Clear conditions with skill
 
 ## Breach the gate <Item id="50082" disableText/>
 
-Kill the respawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
+Kill the spawning enemies to fill the progress bar and open the gate. Avoid the dazing cannon shots and switch back your skills & traits if needed.
 
 <Tabs>
 <Tab specialization="Revenant">
@@ -162,20 +164,22 @@ You can use <Skill name="spectral grasp"/> to group the mobs.
 
 Talk to _Inspector Ellen Kiel_ to teleport your party into the final room. Stack <Boon name="Might"/> as soon as you are in.
 
-Initially, Frizz and two Inquest approach. talk to Frizz to begin the fight. As soon as Frizz reaches 75%, he teleports to the middle and becomes invulnerable.
+Initially, Frizz and two Inquest approach. Talk to Frizz to begin the fight. As soon as Frizz reaches 75%, he teleports to the middle and becomes invulnerable.
 
-After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small Lasers_ start spinning. You can jump over the small lasers by utilizing the elevated boxes around the arena.
+After about five seconds, the first _Aetherblade Golem_ wakes up and two _Small Lasers_ start spinning, splitting the room in two. You can avoid the small lasers by jumping on the pile of boxes around the arena.
 
-When the first golem dies, the two _Small Lasers_ will disappear and two more _Aetherblade Golems_ wake up. _Large Lasers_ start spinning which you cannot completely bypass without <Effect name="Invulnerability"/>.
+When the first golem dies, the two _Small Lasers_ disappear and two _Aetherblade Golem_ wake up. _Large Lasers_ start spinning which you can only bypass entirely with <Effect name="Invulnerability"/>.
 
-As soon as the two golems are dead, the two _Small Lasers_ will join the two _Large Lasers_ again and two final golems wake up. Kill the last golems to finish the fight.
+As soon as the two golem are dead, the two _Small Lasers_ **and** the two _Large Lasers_ spin simultaneously and two final golem wake up. Kill the last golem to finish the fight.
 
 If a golem walks through a laser, it powers up and blocks all attacks for a short time. Pay attention to their <Control name="Pull"/> attack, though it should not be a problem with high damage.
-
 <Achievement title="Still Faster Than Light">
-Dont get hit by the lasers! Watch out especially at the 2nd phase when the lasers start to spin with different speeds.
+Don't get hit by the lasers! The hardest part is when all lasers are up, rotating at different speeds.
 </Achievement>
 
+<Achievement title="Aetherblade Retreat Stabilizer">
+You've completed the Aetherblade fractal inside the Fractals of the Mists.
+</Achievement>
 </GridItem>
 
 <GridItem>

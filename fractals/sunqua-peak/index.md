@@ -1,19 +1,12 @@
 ---
+hasCM: false
 cycle: Day (non CM) / Night (CM)
-date: "2022-07-01T17:43:27.300Z"
+layout: src/layouts/Fractal.astro
+date: "2023-08-07T21:59:36.752Z "
 title: Sunqua Peak
-description: Why are you here? I came to this mountain to be alone.
-long_description: ""
-image: images/hero_sunqua2.jpg
-group: Challenge Mode
-api: 5446
-bosses: 5
 difficulties:
-  - level: 100
-    ar: 150
-sigils:
-  - id: 36053
-  - id: 24868
+  - level: 99
+    ar: 148
 consumables:
   - 78978
 record:
@@ -34,8 +27,15 @@ record:
     - id: jWqgOwQLY48
       name: Jetrell
       specialization: Guardian
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+image: images/hero_sunqua2.jpg
+api: 5446
+bosses: 5
+description: Why are you here? I came to this mountain to be alone.
+group: Challenge Mode
+sigils:
+  - id: 36053
+  - id: 24868
 ---
 
 The Sunqua Peak fractal is different from previously released fractals: After doing all the achievements a Challenge Mote is unlocked which opens a portal to the last boss in Challenge Mode. The bosses in normal mode are supposed to teach the mechanics of the endboss.
@@ -94,7 +94,7 @@ The second boss of the fractal is a big pile of rocks. Avoid the orange AoEs tha
 </GridItem>
 </Grid>
 
-### Path two the next boss
+### Path to the next boss
 
 <Grid>
 <GridItem sm="8">
@@ -136,7 +136,8 @@ Kill the boss and move on to the final encounter of this fractal.
 
 ---
 
-## Sorrowful Spellcaster <Label>15,000,000 HP</Label>
+## Sorrowful Spellcaster 
+<Label>15,000,000 HP</Label>
 
 This section explains CM and non-CM. The first part is for both the same, except that the Sorrowful Spellcaster has more HP and hits harder on CM. Mechanically it is the same.
 
@@ -144,7 +145,8 @@ This section explains CM and non-CM. The first part is for both the same, except
 When you break Ai's breakbar she gets a buff on her bar preventing a new breakbar from spawning for 30 seconds. The breakbar has an insane size of 3200 making it hard to break. It is recommended to bring all the CC skills your class provides.
 </Warning>
 
-### Part 1: Normal Form <Label>Day</Label>
+### Part 1: Normal Form 
+<Label>Day</Label>
 
 <Grid>
 <GridItem sm="8">
@@ -158,7 +160,8 @@ The boss has multiple phases themed around the different elements air, fire, wat
 </GridItem>
 </Grid>
 
-#### Air Phase <Label>100%-66%</Label>
+#### Air Phase 
+<Label>100%-66%</Label>
 
 <Grid>
 <GridItem xs="12" sm="7">
@@ -176,7 +179,8 @@ If you do not manage to bring her to 66%, she will dash twice and get <Effect na
 </GridItem>
 </Grid>
 
-#### Fire Phase <Label>66%-33%</Label>
+#### Fire Phase 
+<Label>66%-33%</Label>
 
 <Grid>
 <GridItem xs="12" sm="5">
@@ -194,7 +198,8 @@ After the meteor attack, the pattern from the Air Phase repeats. If you do not m
 </GridItem>
 </Grid>
 
-### Water Phase <Label>33%-1%</Label>
+### Water Phase
+<Label>33%-1%</Label>
 
 <Grid>
 <GridItem xs="12" sm="7">
@@ -214,7 +219,8 @@ If you do not manage to bring her to 1% in the middle, she will dash twice and i
 
 ---
 
-### Part 2: Laser disco <Label>Night</Label>
+### Part 2: Laser disco 
+<Label>Night</Label>
 
 After a long roleplay, Ai transforms into her demon form and the whole arena gets darker. This part of the phase does not have distinct phases like the first one but instead has checkpoints at 66% and 33% that when passed add new mechanics to the fight.
 

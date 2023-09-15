@@ -4,7 +4,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-06-30T17:11:46.451Z "
+date: "2023-09-13T16:58:46.241Z "
 title: Aquatic Ruins
 difficulties:
   - level: 76
@@ -32,8 +32,8 @@ record:
 long_description: The Aquatic Ruins Fractal takes you on a journey through the
   long-forgotten ruins of an ancient civilization. Swimming through the
   submerged corridors, watch out for deadly sea creatures, treacherous currents,
-  and the legendary Jellyfish Beast. Don your underwater gear and prepare to
-  explore and uncover the secrets hidden within the depths.
+  and the legendary Jellyfish Beast. Don't forget your underwater gear and
+  prepare to explore and uncover the secrets hidden within the depths.
 image: images/header_old.jpg
 api: 2956
 bosses: 1
@@ -51,7 +51,7 @@ sigils:
 <Warning >
 This is an underwater fractal. Make sure you have appropriate underwater equipment with enough Agony Resistance. Make sure you have a rune equipped on your <Item name="zojjasclothbreather" text="Aquabreather"/> and sigils on your weapons (these should be the same as on land). This will make the fractal significantly easier to complete, even if you dont have the right weapon or breather stats.
 
-When adjusting your build for underwater, coordinate with your team and make sure you can cover <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. There can also be large amounts of incoming damage on this fractal so we reccomend making sure you have <Boon name="Protection"/>, <Boon name="Stability"/>, and plenty of condition cleanse!
+When adjusting your build for underwater, coordinate with your team and make sure you can cover <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. There can also be large amounts of incoming damage on this fractal so we recommend making sure you have <Boon name="Protection"/>, <Boon name="Stability"/>, and plenty of condition cleanse!
 </Warning>
 
 </GridItem>
@@ -113,7 +113,7 @@ As rotation, alternate between <Skill id="29719"/> (<Skill id="5494" disableText
 
 ## Path to endboss
 
-In the next section, there are two paths available that change weekly. 
+In the next section, there are two paths available that change daily. 
 
 <Grid>
 <GridItem>
@@ -127,13 +127,18 @@ If you get this path, swim together and take the _Luminous Plants_ on the way to
 
 <GridItem> 
 
-<GifPlayer sourceId="aquatic-ruins-dark-path" />
+<GifPlayer sourceId="aquatic-ruins-dark-path" caption="Use the plants to protect yourself from piranha attacks"/>
 </GridItem>
 
 <GridItem>
 ### Dolphin Path
 
-If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get <Effect name="Stealth"/>. `Skill 5` can be used to instantly revive nearby dead allies. Always dodge **twice** when you anticipate a Krait attack. As soon as someone reaches the checkpoint you wait for your party to `/gg` and spawn next to you. Kill the Champion Krait to get to the Jellyfish Beast.
+If you get this path, spam `Skill 1` during swimming to reveal nearby hidden Krait and keep to the right. You can use `Skill 2` to create a distraction and `Skill 3` to get <Effect name="Stealth"/>. `Skill 5` can be used to instantly revive nearby dead allies. As soon as someone reaches the checkpoint you wait for your party to `/gg` and spawn next to you. Kill the Champion Krait to get to the Jellyfish Beast.
+
+<Achievement name="Flawless Fins Foil Foes">
+ As a dolphin, don't get caught by Krait by dodging **twice** when you anticipate a Krait attack.
+</Achievement>
+
 </GridItem>
 </Grid>
 
@@ -151,11 +156,14 @@ The boss always starts with an AoE stun-spin attack. <Boon name="Stability"/> sp
 Every 25% the boss gets <Effect name="Invulnerability"/> and Elite Krait spawn. Kill them to continue the fight.
 
 When the <Instability name="Afflicted"/> is present, it is highly recommended to bring some kind of condition-cleanse due to the ticking aura during the split phases applying conditions.
+<Achievement name="Aquatic Ruins Fractal Stabilizer">
+ You've completed the Aquatic Ruins fractal inside the Fractals of the Mists.
+</Achievement>
 </GridItem>
 
 <GridItem sm="5">
 
-<GifPlayer sourceId="aquatic-boss-puzzle" />
+<GifPlayer sourceId="aquatic-boss-puzzle" caption="Guitar-hero styled mini puzzle during the boss fight"/>
 
 
 <Tabs>

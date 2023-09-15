@@ -1,25 +1,21 @@
 ---
 potions:
   - id: 50082
-title: Nightmare
-description: I am...awake. I am aware. Suffer, mortal things.
-long_description: ""
-date: "2021-02-24"
-image: images/header_old.jpg
-group: Challenge Mode
-api: 3177
-bosses: 3
-difficulties:
-  - level: 98
-    ar: 147
+hasCM: false
 cycle: Day
+layout: src/layouts/Fractal.astro
+date: "2023-08-07T21:58:15.065Z "
+title: Nightmare
+difficulties:
+  - level: 97
+    ar: 145
 consumables:
   - 43360
   - 8764
   - 8801
   - 78978
 record:
-  time: "5 min 44 sec"
+  time: 5 min 44 sec
   by:
     - name: Invicta Luna
       tag: iV
@@ -39,16 +35,21 @@ record:
     - id: x_2ahQx_QDQ
       name: Pineapple
       specialization: Renegade
+long_description: ""
+image: images/header_old.jpg
+api: 3177
+bosses: 3
+description: I am...awake. I am aware. Suffer, mortal things.
+group: Challenge Mode
 sigils:
   - id: 24615
   - id: 24868
   - id: 24658
     description: after MAMA
-layout: src/layouts/Fractal.astro
-hasCM: false
 ---
 
-## Assault Knights <Item id="50082" disableText/><Label>426,071 HP</Label>
+## Assault Knights <Item id="50082" disableText/>
+<Label>426,071 HP</Label>
 
 <Grid>
 <GridItem sm="7">
@@ -62,7 +63,8 @@ Break their defiance bars, kill them to awaken MAMA and use `/gg` to reset your 
 </GridItem>
 </Grid>
 
-## MAMA <Item id="50082" disableText/><Item id="43360" disableText/> <Label>5,200,519 HP</Label> <Label>CC mama: 1800, CC adds: 800</Label>
+## MAMA <Item id="50082" disableText/><Item id="43360" disableText/> 
+<Label>5,200,519 HP</Label> <Label>CC mama: 1800, CC adds: 800</Label>
 
 Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before jumping down. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to MAMA.
 
@@ -158,7 +160,8 @@ At the second set of altars use your <Skill name="Huntersverdict"/> to pull out 
 
 ---
 
-## Siax the Corrupted <Item id="50082" disableText/><Item id="43360" disableText/> <Label>6,138,797 HP</Label> <Label>CC: 2000</Label>
+## Siax the Corrupted <Item id="50082" disableText/><Item id="43360" disableText/> 
+<Label>6,138,797 HP</Label> <Label>CC: 2000</Label>
 
 Stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> before approaching the red orb and starting the fight. In organized teams use a <Item name="watchworkportaldevice"/> to teleport from the mistlock to Siax.
 
@@ -172,9 +175,10 @@ When Siax reaches 66% health, he gains <Effect name="Invulnerability"/> and four
 
 Assign players to each add before the fight starts by setting waypoints. In PuGs the <Specialization name="Firebrand"/> and <Specialization name="Renegade"/> will usually focus on one mob together due to their lower DPS.
 
-## ![Siax the Corrupted](images/siax.jpg)
+![Siax the Corrupted](images/siax.jpg)
 
-## Ensolyss of the Endless Torment <Label>14,059,890 HP</Label> <Label>CC phase 1: 2000, phase 2: 2250 </Label>
+## Ensolyss of the Endless Torment 
+<Label>14,059,890 HP</Label> <Label>CC phase 1: 2000 </Label> <Label>CC phase 2: 2250 </Label>
 
 <Grid>
 <GridItem>

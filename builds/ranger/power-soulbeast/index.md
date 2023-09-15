@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-07-01T14:34:13.859Z "
+date: "2023-09-15T09:00:22.160Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -21,12 +21,11 @@ conditions:
     uptime: 20 stacks
 ---
 
-The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that also provides strong party buffs with <Skill name="One Wolf Pack"/>, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+The <Specialization name="Soulbeast"/> is a DPS build with very high burst damage that can provide strong party buffs with <Skill name="One Wolf Pack"/> and other stances, some <Condition name="Vulnerability"/> and crowd control (CC) skills. Furthermore, <Skill name="Whirling Defense"/> is an exceedingly strong reflect skill that comes in handy on several encounters (e.g. Artsariiv). The build benefits from slaying potions and slaying sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
   
 This build is rather self-sufficient due to:
 
 - <Boon name="Quickness"/> from <Trait name="livefast"/>
-- <Boon name="Might"/> from <Trait name="Huntersgaze"/>
 - Boon extension by <Trait name="Essence of speed"/>, <Skill name="We heal as one"/>
 - High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 
@@ -34,8 +33,8 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 <Divider text="Equipment"/>
 <CharacterWithAr>  
-<Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":4170,"Precision":2110,"Toughness":1375,"Vitality":1610,"Ferocity":2385,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.0785714285714287,"Critical Damage":3.09,"Power Coefficient":2594,"Power2 Coefficient":0,"Burning Coefficient":0.58,"Bleeding Coefficient":4.51,"Poison Coefficient":2.43,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35130.92128891538,"NonCrit Effective Power":11369.230190587501,"Power DPS":35090.3387845385,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":4.961,"Bleeding DPS":589.1187500000001,"Burning Damage":422.65625,"Burning Stacks":0.638,"Burning DPS":269.6546875,"Confusion Damage":145.15625,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":2.6730000000000005,"Poison DPS":365.44921875000006,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":36454.3114407885,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
- 
+<Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":4170,"Precision":2111,"Toughness":1375,"Vitality":1690,"Ferocity":2386,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.079047619047619,"Critical Damage":3.0906666666666665,"Power Coefficient":3310,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.28,"Poison Coefficient":0.41,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35499.88449194001,"NonCrit Effective Power":11486.1576225,"Power DPS":45246.290977405246,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":2.508,"Bleeding DPS":297.825,"Burning Damage":422.65625,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":127.321875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":0.451,"Poison DPS":61.66015625,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":45745.52613365524,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30690,"weapon2MainType":"Hammer","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
+
 </Character>
 </CharacterWithAr>
 
@@ -50,7 +49,6 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 |                                                            |                                                                                                                                                         |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Trait name="Resounding Timbre" size="big" disableText/>             | Currently bugged and still applying a cooldown reduction to commands. Can be taken to reduce the cooldown of <Skill name="Sic Em"/> if needed.                                                                                             |
 | <Trait name="Wilting Strike" size="big" disableText/>      | Take this instead of <Trait name="Natural Healing"/> if you need to help provide <Condition name="weakness"/> for your <Specialization name="Weaver"/>. |
 | <Trait name="Two Handed Training" size="big" disableText/> | Take this instead of <Trait name="Natural Healing"/> if you are running Greatsword or underwater Spear for cooldown reduction and more damage.                              |
 | <Trait id="2128" size="big" disableText/>                  | Taken on fights where it can be casted each phase such as Ensolyss                                                                          |
@@ -60,56 +58,77 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 | Skill               | Damage                                                                      |
 | ------------------- | --------------------------------------------------------------------------- |
-| <Skill id="45743"/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
+| <Skill id="45743"/> | 200 damage (F2 in Rock Gazelle <Skill id="42944"/>)                         |
+| <Skill id="63075"/> | First <Control name="Daze"/> 100 damage, second<Control name="Daze"/> 125 damage, (Hammer 3)                                                       |
+| <Skill id="63330"/> | 200 damage (Hammer 5)                                                      |
 | <Skill id="12511"/> | 150 damage (Longbow 4)                                                      |
 | <Skill id="12638"/> | 150 damage (Axe 4)                                                          |
 | <Skill id="12475"/> | 150 damage (Greatsword 5)                                                   |
 | <Skill id="12523"/> | 150 damage (Greatsword 4 after a block)                                     |
-| <Skill id="41908"/> | 200 damage (F2 in <Skill id="42944"/>)                                      |
+| <Skill id="41908"/> | 232 damage (F2 in Pheonix <Skill id="42944"/>)                              |
+| <Skill id="42907"/> | 200 damage (F2 in Smokescale <Skill id="42944"/>)                           |
 | <Skill id="12490"/> | 33/s <Condition name="Chilled"/>, 20/s <Condition name="Weakness"/> (Axe 3) |
+| <Skill id="63197"/> | 33/s <Condition name="Blinded"/> (Hammer 3) |
 
-</GridItem>
-
-<GridItem sm="5">
-### Swap Weapons
-
-- Warhorn for <Boon name="Might"/> pre-stacking, can use a concentration sigil in prestack warhorn.
-- Greatsword to replace Longbow on some T4 fights where cleave or sustained DPS is more important.
-- Axes, Longbows, Swords, and Greatswords with slaying/night sigils (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
-- Longbows with Severance are strong for some bosses (Artsariiv, Arkk, MAMA, Ensolyss), especially in faster groups. For Ensolyss you will need a Longbow with Serpent/Severance, the other fights should be Force/Severance.
-- An Axe with Severance to replace Impact in **very fast** groups is good on Artsariiv.
-
-### Situational Skills
-
-|                                                           |                                                                                                                                                                         |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Signet of the wild" size="big" disableText/> | Your standard 3rd utility, dealing the most damage.                                                                                                                     |
-| <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking. Can also be run in fight to allow for other players to run offensive builds. |
-| <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.                           |
-| <Skill name="Signet of the hunt" size="big" disableText/>  | A source of <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.                           |
-| <Skill name="Dolyak Stance" size="big" disableText/>      | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles).                                                                  |
-| <Skill name="sharpeningstone" size="big" disableText/>    | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS.                                                       |
-| <Skill name="Bear stance" size="big" disableText/>        | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy for Mai Trin and Artsariiv.                                                 |
-| <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse.                                    |
-| <Skill name="Signet of stone" size="big" disableText/>    | Prevents you from taking damage. Can be used to perform skip for the left path in [Deepstone](/fractals/deepstone).
-
-### PEts
+### Pets
 
 |                                            |                                                                                                                                                                                          |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Highest DPS pet to use in <Skill id="42944"/> if CC isn't needed.                                    |
 | <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Slight DPS loss but provides substantial CC both in and out of <Skill id="42944"/>.                            |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                            |
-| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/> |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>. It can also be used as a CC pet if you need extra <Item id="100947"/> uptime.                                           |
+| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/>. It can be used as a if you need extra <Item id="100947"/> uptime.       |
+
+</GridItem>
+
+<GridItem sm="5">
+### Swap Weapons
+#### Weapon Selections
+**Set 1**
+- Hammer - is the standard weapon choice for most bosses except a few cases in fast daily kills or speedruns. Remember you can still precast <Skill name="Barrage"/> with Longbow before fights start for extra burst.
+
+  Standard Hammer Skills
+  <Skill id="63118" size="big" disableText/><Skill id="63335" size="big" disableText/><Skill id="63075" size="big" disableText/><Skill id="63131" size="big" disableText/><Skill id="63208" size="big" disableText/>
+  - If you need some extra CC, swap to <Skill id="63330"/> (Hammer 5). This is particularly useful on Artsarriv and MAMA.
+  - If you do not need the CC or <Trait name="Twice as Vicious"/> proc, swap to <Skill id="63197"/>.
+
+- Longbow - is taken on encounters where phases are so short, you do not need to swap back to bow during active phases. Once the phase has finished you should have time to swap back to bow and be ready to burst again. If you find yourself stuck on Longbow at points in a fight where you need extra damage, Hammer will probably be a better option.
+- Axe/Warhorn - is a niche weapon choice, but viable on some encounters over Longbow if you don't have access to a Hammer.
+
+**Set 2**
+- Mainhand Axe - is taken if a phase ends before you start auto attacking with <Skill name="Ricochet"/> for too long. Also in Low gravity it is preferable to play over Sword.
+- Mainhand Sword - is taken when phases are long enough to be autoattacking and the sustained damage is more important than the slightly higher Axe burst.
+
+Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
+#### Additional Options 
+
+- Warhorn for <Boon name="Might"/> pre-stacking, can use <Item name="Concentration" type="Sigil"/> in prestack warhorn.
+- Weapons with specific slaying sigils and/or <Item name="Night" type="Sigil" /> (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
+- Longbows or Hammers with <Item name="Severance" type="Sigil"/> are strong for several bosses, especially in faster groups. Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast)) for more information.
+- An Axe with <Item name="Severance" type="Sigil"/> instead of <Item name="Impact" type="Sigil"/> in **very fast** groups is good on Artsariiv. Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast)) for more information.
+
+### Situational Skills
+
+|                                                           |                                                                                                                                                                         |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Signet of the wild" size="big" disableText/> | Your standard 3rd utility, dealing the most damage.|
+| <Skill name="Moa Stance" size="big" disableText/>         | Allows all boons that are applied during its uptime to last longer, great for prestacking. Can also be run in fight to allow for other players to run offensive builds.|
+| <Skill name="Bear stance" size="big" disableText/>        | Area condi cleanse, also for allies if you play <Trait name="leaderofthepack"/>. Very handy in [Captain Mai Trin](/fractals/captain-mai-trin-boss), [Artsariiv](/fractals/shattered-observatory), and during any fractal with <Instability name="Afflicted"/>.|
+| <Skill name="Healing Spring" size="big" disableText/>     | Area condi cleanse, taken if you are playing <Trait name="Oppressivesuperiority"/> or your party needs a long lasting condi cleanse. The same situations described in <Skill name="Bear stance" size="small" disableText /> apply here.|
+| <Skill name="Dolyak Stance" size="big" disableText/>      | A team source of <Boon name="Stability"/>, can be taken in T4s such as [Chaos](/fractals/chaos-isles).|
+| <Skill name="sharpeningstone" size="big" disableText/>    | Can be used before _Mistlock Singularity_ precast for and swapped with a usual utility for some extra opener DPS.|
+| <Skill name="Signet of the hunt" size="big" disableText/>  | A source of <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.|
+| <Skill name="Quickening Zephyr" size="big" disableText/>  | A source of <Boon name="Quickness"/> and <Effect name="Superspeed"/> that allows you to perform skips in combination with <Item id="85244"/>.|
+| <Skill name="Signet of stone" size="big" disableText/>    | Prevents you from taking damage. Can be used to perform skip for the left path in [Deepstone](/fractals/deepstone).
 
 </GridItem>
 </Grid>
 
 <Divider text="Details"/>
 
-The main idea of <Specialization name="Soulbeast"/> (as with all classes) is to ensure you get as much damage into the <Effect name="Exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="Exposed"/> on the boss.
+All DPS builds should focus on getting as much damage into the <Effect name="Exposed"/> buff. As your largest damage skill you want to ensure that <Skill name="Whirling Defense"/> under the effects of <Skill name="Sicem"/> is your first priority when you see <Effect name="Exposed"/> on the boss.
 
-Also as <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>.
+As <Specialization name="Soulbeast"/> you have quite a few ticking damage over time AoEs, such as <Skill name="Barrage"/> and <Skill name="Frost Trap"/> (as well as <Skill id="5531"/> if you have <Skill id="5516"/> from your <Specialization name="Weaver"/>). You want to precast these AoEs where possible when you know that the boss is about to be <Effect name="Exposed"/>.
 
 In PuGs, however, it is quite hard to predict when the boss will be CC'd as well as phases can last a lot longer than expected, because of this the golem rotation is listed in the next section so that you can resort back to it if you end up in a longer phase.
 
@@ -117,15 +136,15 @@ In PuGs, however, it is quite hard to predict when the boss will be CC'd as well
 
 For your First weapon set you have a choice of 3 weapons:
 
-- **Longbow is a default pick for fractal <Specialization name="Soulbeast"/>** as it has a higher burst potential through the ability to precast <Skill name="Barrage"/> which is high damage ticking AoE, however, you will end up with lower damage if your phases are too long since its auto attacks are very weak. Longbow synergizes well with <Item id="84505"/> which you can proc for a nice damage bonus.
-- Warhorn is a strong weapon to run if you cannot cast another <Skill name="Barrage"/> during the fight.
-- Greatsword offers great sustained DPS. You need to be smart about utilizing the <Uncategorized name="attackofopportunity"/> effect that you gain from <Skill id="12525"/>. Finally, you also have <Skill name="Counterattack"/> which is a handy block in certain scenarios. It also allows you to move quickly around in fractals thanks to <Skill id="12521"/>. The greatsword is generally worth taking if your phases end during the downtime of the Longbow rotation (e.g. stuck auto-attacking) and you don't have time for another Longbow burst.
+- Hammer - is the standard weapon choice for most bosses except a few cases in fast daily kills or speedruns. Remember you can still precast <Skill name="Barrage"/> with Longbow before fights start for extra burst. 
+- Longbow - is taken on encounters where phases are so short, you do not need to swap back to bow during active phases. Once the phase has finished you should have time to swap back to bow and be ready to burst again. If you find yourself stuck on Longbow at points in a fight where you need extra damage, Hammer will probably be a better option.
+- Axe/Warhorn - is a niche weapon choice, but viable on some encounters over Longbow if you don't have access to a Hammer.
 
-For your second weapon set, you always want Axe off-hand, but for main-hand, you have a choice of 3 weapons again:
+**Set 2**
+- Mainhand Axe - is taken if a phase ends before you start auto attacking with <Skill name="Ricochet"/> for too long. Also in Low gravity it is preferable to play over Sword.
+- Mainhand Sword - is taken when phases are long enough to be autoattacking and the sustained damage is more important than the slightly higher Axe burst.
 
-- You should mostly run a main-hand Sword as it offers the highest damage of all main hand weapons.
-- You should run a main-hand Axe when Sword's effectiveness is reduced by low gravity (Artsariiv, Arkk), or when the extra range is useful.
-- Dagger, although its lower DPS than sword or axe in fractals can be taken and also has <Skill name="Instinctive Engage"/> which is a nice source of <Boon name="Quickness"/>.
+Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
 
 **Pets:**
 
@@ -157,9 +176,24 @@ For that reason you can find a video below with openers for each of the CM bosse
 </Warning>
 <Grid>
 <GridItem sm="6">
+
+### Hammer Opener
+
+1.  <Skill name="Barrage"/> (Longbow 5)
+2.  _Swap to Hammer_
+3.  <Skill id="63075"/> (Hammer 3)
+4.  <Skill name="Sicem"/> (during the cast of <Skill id="63075"/>)
+5.  <Skill name="Frost Trap"/>
+6.  <Skill id="63131"/> (Hammer 4)
+7.  <Skill id="63335"/> (Hammer 2)
+8.  _Weaponswap_
+9.  _Continue with Sword or Axe burst from step 6_
+
+Note: If you don't precast <Skill name="Barrage"/>, you may want to use <Skill name="Worldly Impact"/> or <Skill id="63208"/> early to proc <Item id="100947"/>.
+
 ### Sword Opener
 
-1.  <Skill name="Barrage"/> (Lonbow 5)
+1.  <Skill name="Barrage"/> (Longbow 5)
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
 3.  <Skill name="Point Blank Shot"/> (Longbow 4)
 4.  <Skill name="Frost Trap"/>
@@ -173,7 +207,7 @@ For that reason you can find a video below with openers for each of the CM bosse
 
 ### Axe Opener
 
-1.  <Skill name="Barrage"/> (Lonbow 5)
+1.  <Skill name="Barrage"/> (Longbow 5)
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
 3.  <Skill name="Point Blank Shot"/> (Longbow 4)
 4.  <Skill name="Frost Trap"/>

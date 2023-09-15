@@ -1,16 +1,16 @@
 ---
+hasCM: false
 cycle: Day
-date: "2022-07-01T17:41:07.100Z"
+layout: src/layouts/Fractal.astro
+date: "2023-08-30T13:50:29.861Z "
 title: Chaos Isles
-description: I'm warning you—you don't belong here. Get out now.
-long_description: ""
 image: images/legendary_brazen_gladiator.jpg
+group: t4
 api: 3038
+bosses: 2
 difficulties:
   - level: 88
     ar: 129
-  - level: 97
-    ar: 145
 sigils:
   - id: 24615
   - id: 24554
@@ -36,16 +36,22 @@ record:
     - id: kC8D0_69KvE
       name: Inky
       specialization: Renegade
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+description: I'm warning you—you don't belong here. Get out now.
 ---
 
 <Grid>
 <GridItem sm="6">
+## Before you start
 
-## Start: You think this is Cliffside
+Keep your eye out for [Lost Journal Pages](https://wiki.guildwars2.com/wiki/Lost_Journal_Page) throughout the fractal! 
 
-Kill the four _Veteran Chanters_ at the beginning to open the gate on the right-hand side. The fastest person may rush ahead and move to the next checkpoint at the _Chaos Anomaly_, which involves a small jumping puzzle and kitty golems that <Control name="Knockback" /> the player off the platforms. As soon as one person reached the checkpoint, everyone else can `/gg` and resurrect at the checkpoint at the _Chaos Anomaly_.
+<Achievement name="Notetaker">
+  Find all 7 of the lost journal pages in Chaos Isles.
+</Achievement>
+## Start: You think this is Cliffside 
+
+Kill the four _Veteran Chanters_ at the beginning to open the gate to the right side of the map. The fastest person may rush ahead on the path leading to the next encounter, which involves a small jumping puzzle and kitty golems that <Control name="Knockback" /> the player off the platforms. As soon as one person reaches the checkpoint, everyone else can `/gg` and resurrect at the platform near the [Chaos Anomaly](https://wiki.guildwars2.com/wiki/Chaos_Anomaly).
 
 While the video showcases the skip for <Specialization name="Thief"/> any class can execute the skip effectively with the help of blocks and reflects.
 
@@ -54,7 +60,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 </GridItem>
 
 <GridItem sm="6">
-![Starting area](images/start.jpg)
+![Starting area](images/start.jpg) 
 </GridItem>
 
 </Grid>
@@ -66,7 +72,7 @@ While the video showcases the skip for <Specialization name="Thief"/> any class 
 <Grid>
 <GridItem>
 
-Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. Every 25% health, she will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. Always the golem that gets killed last will be eliminated and not reappear in the next phase.
+Stack <Boon name="Might"/> before approaching the four _K1T-A golems_, pull them together to kill them so that the Chaos Anomaly spawns. _Alternatively, you can check if you still need one of them for the **Kitty Compactor** and focus on it._ Every 25% health, The Chaos Anomaly will become immune to damage and you have to kill K1T-A golems again to continue. With every phase there will be one less K1T-A golem but the remaining grow in strength. The final single golem at 25% health has about 1.5m health and is a champion. _This is the one that will count towards the achievement_. The last golem to be killed is the one that will not spawn in the next phase.
 
 Pay attention to the <Control name="Knockback"/> zones from the small JT-12 golems and look out for _Flux Bombs_, the debuff can be hard to notice on the mosaic ground.
 
@@ -83,6 +89,9 @@ You can use <Skill name="Binding Blade"/> to group the little cats at the start 
 Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 </Tab>
 </Tabs>
+<Achievement name="Kitty Compactor">
+  Defeat each of the Champion Golems. This will require to run the fractal a minimum of 4 times; kill the same golem first at each phase to make the Champion version spawn! _CHOP can be tricky because of Stealth_
+</Achievement>
 </GridItem>
 
 <GridItem>
@@ -101,9 +110,9 @@ Run an offhand axe and use <Skill id="12638"/> to pull golems closer.
 
 ## Blizzard path (Forest)
 
-You will need to enlighten four _bonfires_ on the path to progress to the end boss. **The _Enlighten_ special action key has unlimited charges, which means the forest may be solod.**
+You will need to light four _bonfires_ on the path leading to the end boss. **The _Enlighten_ special action key has unlimited charges, which means the forest may be soloed.**
 
-You could stack <Effect name="Stealth"/> to skip the mobs although it usually is not necessary. Learn to dodge the tentacle <Control name="Knockback"/>s. Mobility skills and <Item id="49940"/> are very good here.
+You could stack <Effect name="Stealth"/> to skip the mobs although it's usually not necessary. Learn to dodge the tentacles <Control name="Knockback"/>. Mobility skills and <Item id="49940"/> are very good here.
 </GridItem>
 </Grid>
 
@@ -117,10 +126,10 @@ You could stack <Effect name="Stealth"/> to skip the mobs although it usually is
 The end boss is only vulnerable when his protective bubble is removed by pulling him into the moving purple areas.  
 He will also apply a group-wide <Control name="Daze"/> if he hits anyone with the third hit of his auto-attack chain. Avoiding this is the highest priority during the fight. Either use blocks, dodges and skills that make you invulnerable or - most commonly - bring permanent <Boon name="Stability" />. It may also be avoided by not standing in front of him when his attack hits. Learn to recognize the animation.
 
-By bringing permanent <Boon name="Stability"/> and reflects, enough DPS or a dedicated healer the fight can be easily cheesed.
+By bringing permanent <Boon name="Stability"/> and reflects, enough DPS or a dedicated healer the mechanics of this fight can easily be ignored.
 
 Note that you can take aggro from him by walking inside his hitbox and cancel the third auto-attack by moving out before.  
-Another trick is to bypass the damage from purple zones by repeated jumping.
+Another trick is to bypass the damage from purple zones by jumping repeatedly.
 
 Starting at 50% health, he will randomly start a _pulling attack_ which can be prevented by breaking his defiance bar. Save your crowd control skills for this.
 
@@ -143,7 +152,9 @@ Tome 3 skill 1 and 5 grants <Boon name="Stability"/>, if that's not enough take 
 Take <Skill name="Headbutt"/> for the 50% Defiance bar and <Skill name="Outrage"/> against the <Control name="Daze"/>!
 </Tab>
 </Tabs>
-
+<Achievement name="Chaos Demolisher">
+  Complete the Chaos Fractal on the Master tier.
+</Achievement>
 </GridItem>
 
 <GridItem sm="5">

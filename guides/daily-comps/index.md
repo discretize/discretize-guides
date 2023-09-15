@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2023-07-03T17:42:43.688Z "
+date: "2023-09-09T17:09:04.830Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -28,22 +28,21 @@ It all comes down to some important concepts that need to be fulfilled permanent
 
 </Card>
 
-<Card title="Sunqua Peak CM">
+<Card title="Sunqua Peak CM and Silent Surf CM">
 
 |                                                                                           |                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of Sunqua Peak. This class provides permanent <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
-| <Specialization name="Holosmith" disableText/>  | <BuildLink build="Condi Holosmith"  specialization="Holosmith"/> is the current king of DPS for this fractal. It has acess to enough CC to not leave the rest of the party lacking, and provides some <Condition name="Vulnerability"/> for the party and also some <Boon name="Might"/>         |
-| <br/> <Specialization name="Harbinger" disableText/>                                      | <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is a very solid dps pick that brings a package of good CC, <Boon name="Might"/> and your main source of <Condition name="vulnerability"/>. If required aswell it can also switch to a  solid <Boon name="Quickness"/> build.                                                                                                                               |
-| <Specialization name="Scrapper" disableText/>                                            | While not the only potential source of <Boon name="Quickness"/>, <BuildLink build="Power Scrapper"  specialization="Scrapper"/> is a great pick for CC and good damage, especially when reflecting Ai's Focused Wrath attack.  It also contributes <Condition name="Vulnerability"/> uptime, <Boon name="Might"/>, and some <Effect name="Superspeed"/>.                                                      |
-| <Specialization name="Soulbeast" disableText/>                                            | For the last dps spot, <BuildLink build="Hybrid Soulbeast"  specialization="Soulbeast"/> brings a lot of damage through stance sharing, while helping to contribute some <Condition name="vulnerability"/>                                                                                                                                         |
+| <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of condi alac. This class provides permanent <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
+| <Specialization name="Scourge" disableText/>  | Two or Three <BuildLink build="Condi Scourge"  specialization="Scourge"/> is the current king of DPS. It has access to massive CC from <Skill name="spectralgrasp" /> and nothing else comes close to competing with its DPS        |
+| <Specialization name="Scrapper" disableText/><Specialization name="Harbinger" disableText/>       | Both <BuildLink build="Power Scrapper"  specialization="Scrapper"/> and <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> are solid <Boon name="Quickness"/> picks. <BuildLink build="Power Scrapper"  specialization="Scrapper"/> is a great pick for CC and good damage, especially when reflecting Ai's Focused Wrath attack.  It also contributes <Condition name="Vulnerability"/> uptime, <Boon name="Might"/>, and some <Effect name="Superspeed"/>. <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> provides higher DPS in the fastest runs where there is not enough movement for Scrapper's reflect to pull ahead. On [Kanaxai CM](/fractals/silent-surf), <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is a fairly large improvement no matter the kill time.                                                          |
+| <Specialization name="Specter" disableText/>                                            | For the last dps spot, <BuildLink build="Condi Specter"  specialization="Specter"/> can replace a Scourge as a pure DPS pick. Care needs to be taken to not overlap venoms with the Alac Specter. This pick is fairly even with a <BuildLink build="Condi Scourge"  specialization="Scourge"/> on [Dark Ai](/fractals/sunqua-peak) but not nearly as good on [Kanaxai CM](/fractals/silent-surf). |
 
 </Card>
 
 <Divider text="Useful Links"/>
 In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of PoVs, Class Guides for CM bosses, Example Logs, and PoVs. All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution)
 
-<Card title="Example Power PoVs + Logs">
+<Card title="Example 97+98 PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Renegade">
@@ -100,7 +99,7 @@ In this section you can find links to different parts of the site with informati
 
 </Card>
 
-<Card title="Example Condi PoVs + Logs">
+<Card title="Example 99+100CM PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Specter">
@@ -108,7 +107,10 @@ In this section you can find links to different parts of the site with informati
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp    |
+| Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp (Alac)    |
+| Dark Ai      | [Link](https://youtu.be/oUI8duydsV4) | [DPS.Report](https://dps.report/215X-20230825-205540_ai) | Lydia (DPS)    |
+| Kanaxai |                                      |                                                          |        |
+
 
 </Tab>
 
@@ -120,29 +122,22 @@ In this section you can find links to different parts of the site with informati
 | Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint  |
 
 </Tab>
-
-<Tab specialization="Holosmith">
-
-| Boss         | PoV                                  | Log                                                      | Player |
-| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
-| Elemental Ai |                                      |                                                          |        |
-| Dark Ai      |  |   |
-
-</Tab>
-<Tab specialization="Soulbeast">
-
-| Boss         | PoV                                  | Log                                                      | Player  |
-| ------------ | ------------------------------------ | -------------------------------------------------------- | ------- |
-| Elemental Ai | [Link](https://youtu.be/gG1vvlHn4kM) | [DPS.Report](https://dps.report/9nHZ-20220924-222032_ai) | Jetrell |
-| Dark Ai      | [Link](https://youtu.be/ewdKTjtD4AY) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Jetrell |
-
-</Tab>
 <Tab specialization="Harbinger">
 
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
 | Dark Ai      | [Link](https://youtu.be/fdGXM_aYVAo) | [DPS.Report](https://dps.report/8iUH-20221107-000901_ai) | Hyp    |
+| Kanaxai |                                      |                                                          |        |
+
+</Tab>
+<Tab specialization="Scourge">
+
+| Boss         | PoV                                  | Log                                                      | Player |
+| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
+| Elemental Ai |                                      | [DPS.Report](https://dps.report/tN4m-20230906-203453_ai)                                                          | Lydia      |
+| Dark Ai      |  | [DPS.Report](https://dps.report/KcFr-20230906-203736_ai) | Lydia    |
+| Kanaxai      | [Link](https://youtu.be/4dqAZAIyG8g) | [DPS.Report](https://dps.report/jrk4-20230904-205043_kana) | Lydia    |
 
 </Tab>
 </Tabs>
@@ -161,3 +156,4 @@ In this section you can find links to different parts of the site with informati
 |              |      |      |
 
 </Card>
+ 
