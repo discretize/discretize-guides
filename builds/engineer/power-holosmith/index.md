@@ -9,7 +9,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-09-13T02:36:27.367Z "
+date: "2023-09-15T09:01:08.805Z "
 title: Power Holosmith
 rating: Good
 role: Power Damage
@@ -36,8 +36,6 @@ There are 2 different versions of <Specialization text="Power Holosmith" name="H
 
 - The weapon they are holding, Sword+Shield vs Hammer.
 - The Grandmaster Holosmith Trait they use, Enhanced Capacity Storage Unit (ECSU) vs Photonic Blasting Module (PBM).
-
-This guide will focus mainly on the Sword ECSU variant.
 
 <Divider text="Equipment"/>
 
