@@ -28,7 +28,7 @@ classification:
   - 4
   - 1
   - 3
-date: "2023-09-10T15:54:07.815Z "
+date: "2023-09-15T11:19:48.969Z "
 title: Power Quick Herald
 rating: Meta
 role: Power Damage
@@ -116,7 +116,7 @@ Start on <Skill name="Legendary Dragon Stance"/>.
 
 ### Greatsword Burst Rotation
 
-1.  <Skill name="Eternity's Requiem"/><Skill name="Burst of Strength"/>
+1.  <Skill name="Eternity's Requiem"/>
 2.  <Skill name="Burst of Strength"/>
 3.  <Skill name="Elemental Blast" />
 4.  <Skill name="Mist Unleashed"/>
