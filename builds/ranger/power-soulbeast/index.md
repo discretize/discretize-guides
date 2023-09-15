@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-09-10T16:01:29.003Z "
+date: "2023-09-15T09:00:22.160Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -89,7 +89,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
   Standard Hammer Skills
   <Skill id="63118" size="big" disableText/><Skill id="63335" size="big" disableText/><Skill id="63075" size="big" disableText/><Skill id="63131" size="big" disableText/><Skill id="63208" size="big" disableText/>
-  - If you need some extra CC, swap to <Skill id="63330"/> (Hammer 5). This is particularly usefuil on Artsarriv and MAMA.
+  - If you need some extra CC, swap to <Skill id="63330"/> (Hammer 5). This is particularly useful on Artsarriv and MAMA.
   - If you do not need the CC or <Trait name="Twice as Vicious"/> proc, swap to <Skill id="63197"/>.
 
 - Longbow - is taken on encounters where phases are so short, you do not need to swap back to bow during active phases. Once the phase has finished you should have time to swap back to bow and be ready to burst again. If you find yourself stuck on Longbow at points in a fight where you need extra damage, Hammer will probably be a better option.
@@ -97,9 +97,9 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 **Set 2**
 - Mainhand Axe - is taken if a phase ends before you start auto attacking with <Skill name="Ricochet"/> for too long. Also in Low gravity it is preferable to play over Sword.
-- Mainhand Sword - is taken when phases are long enough to be autoattacking and the sustained damage is mopre important than the slightly higher Axe burst.
+- Mainhand Sword - is taken when phases are long enough to be autoattacking and the sustained damage is more important than the slightly higher Axe burst.
 
-Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weaponchoice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
+Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
 #### Additional Options 
 
 - Warhorn for <Boon name="Might"/> pre-stacking, can use <Item name="Concentration" type="Sigil"/> in prestack warhorn.
@@ -142,9 +142,9 @@ For your First weapon set you have a choice of 3 weapons:
 
 **Set 2**
 - Mainhand Axe - is taken if a phase ends before you start auto attacking with <Skill name="Ricochet"/> for too long. Also in Low gravity it is preferable to play over Sword.
-- Mainhand Sword - is taken when phases are long enough to be autoattacking and the sustained damage is mopre important than the slightly higher Axe burst.
+- Mainhand Sword - is taken when phases are long enough to be autoattacking and the sustained damage is more important than the slightly higher Axe burst.
 
-Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weaponchoice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
+Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
 
 **Pets:**
 
