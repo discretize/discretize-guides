@@ -42,9 +42,9 @@ boons:
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
 cmGuide: ""
 classification: []
-date: "2023-09-17T20:58:10.620Z "
+date: "2023-09-17T21:17:44.351Z "
 ---
-The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.
+The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control. 
 
 This build works for several reasons:
 - Most of its support comes through barrier and not actual healing, this means that it does not really benefit from outgoing healing modifiers, allowing for more offensive choices compared to the traditional Heal Scourge builds.
@@ -115,7 +115,7 @@ traits3Id="60" traits3="Scourge" traits3SelectedIds="2167, 2123, 2080"/>
 </Grid>
 
 <Divider text="General Information"/>
-- Any [Punishment type skill](https://wiki.guildwars2.com/wiki/Punishment) Will corrupt one boon from enemy targets. 
+- Any [Punishment type skill](https://wiki.guildwars2.com/wiki/Punishment) will corrupt one boon from enemy targets. 
 - Dodging will create a <Skill id="13918"/> that will grant <Boon name="Regeneration"/> to yourself and nearby allies when triggered.
 - <Skill name="Well of Blood"/> will grant <Boon name="Regeneration"/> and partially revive downed allies through <Trait name="Ritual of Life"/>.
 - <Skill name="Serpent Siphon"/> will grant <Boon name="Regeneration"/>, <Boon name="Aegis"/>, barrier and <Boon name="Alacrity"/>.
