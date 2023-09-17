@@ -42,16 +42,16 @@ boons:
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
 cmGuide: ""
 classification: []
-date: "2023-09-17T21:17:44.351Z "
+date: "2023-09-17T22:56:40.292Z "
 ---
-The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control. 
+The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.  
 
 This build works for several reasons:
 - Most of its support comes through barrier and not actual healing, this means that it does not really benefit from outgoing healing modifiers, allowing for more offensive choices compared to the traditional Heal Scourge builds.
 - Barrier application bypasses healing debuffs like <Condition name="Poisoned"/> and <Effect name="Agony"/>, allowing you to effectively "heal" through <Instability name="Toxic Trail"/>, <Instability name="Flux Bomb"/> and other mechanics that apply one, both or other similar effects.
 - Except for <Skill name="Manifest Sand Shade"/> all your shade skills are instant casts, low cooldown and can be spammed on cooldown through the Life Force generation from <Trait name="Fear of Death"/>, <Trait name="Eternal Life"/>, <Skill name="Weeping Shots"/>, <Skill name="Vile Blast"/> and <Skill name="Harrowing Wave"/>.
 - It has ridiculous amounts of condition cleanses, effectively nullifying the damage pressure of mechanics like <Instability name="Afflicted"/> or the Imbued Shaman from [Volcanic Fractal](/fractals/volcanic). 
-- It has both built-in and acess to extreme amounts of hard and soft [CC](/guides/cc-distribution/).
+- It has both built-in and acess to high amounts of hard and soft [CC](/guides/cc-distribution/).
 - Even though it can only give <Boon name="Fury"/> through <Skill name="Desiccate"/>, most quickness and DPS [builds](/discretize.eu/builds) give themselves or the group permanent or high uptimes, allowing you to take other support or offensive utilities.
 
 
