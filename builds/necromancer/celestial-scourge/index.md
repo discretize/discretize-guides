@@ -41,13 +41,8 @@ boons:
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
 cmGuide: ""
-classification:
-  - 2
-  - 3
-  - 4
-  - 2
-  - 3
-date: "2023-09-17T17:48:33.277Z "
+classification: []
+date: "2023-09-17T17:53:10.831Z "
 ---
 The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.
 The build is not locked to any utility skill, you should pick and choose depending on what your party may need. For example, you may swap out <Skill name="Desiccate"/> if you don't have to cover fury, <Skill name="Trail of Anguish"/> if you don't need the <Boon name="Stability"/> and <Skill name="Serpent Siphon"/> if you can't make use of the <Boon name="Aegis"/>. 
