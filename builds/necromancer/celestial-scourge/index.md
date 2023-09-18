@@ -1,19 +1,8 @@
 ---
-title: Celestial (Alac) Scourge
-hidden: true
+hidden: false
 archive: false
-rating: Good
-role: Hybrid
 author: ""
-profession: Necromancer
 specialization: Scourge
-conditions:
-  - 'Map { "name": "Vulnerability"'
-  - '"uptime": "25 stacks" }'
-  - 'Map { "name": "Torment" }'
-  - 'Map { "name": "Confusion" }'
-  - 'Map { "name": "Burning" }'
-  - 'Map { "name": "Poisoned" }'
 boons:
   - name: Alacrity
     uptime: 100%
@@ -40,12 +29,23 @@ boons:
     uptime: 50% - on demand if taking Serpent Siphon
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
-cmGuide: ""
 classification: []
-date: "2023-09-17T22:56:40.292Z "
+date: "2023-09-18T17:01:19.694Z "
+title: Celestial (Alac) Scourge
+rating: Good
+role: Hybrid
+profession: Necromancer
+conditions:
+  - 'Map { "name": "Vulnerability"'
+  - '"uptime": "25 stacks" }'
+  - 'Map { "name": "Torment" }'
+  - 'Map { "name": "Confusion" }'
+  - 'Map { "name": "Burning" }'
+  - 'Map { "name": "Poisoned" }'
+cmGuide: ""
 ---
 The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.  
-
+ 
 This build works for several reasons:
 - Most of its support comes through barrier and not actual healing, this means that it does not really benefit from outgoing healing modifiers, allowing for more offensive choices compared to the traditional Heal Scourge builds.
 - Barrier application bypasses healing debuffs like <Condition name="Poisoned"/> and <Effect name="Agony"/>, allowing you to effectively "heal" through <Instability name="Toxic Trail"/>, <Instability name="Flux Bomb"/> and other mechanics that apply one, both or other similar effects.
