@@ -30,16 +30,16 @@ boons:
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
 classification: []
-date: "2023-09-18T17:01:19.694Z "
+date: "2023-09-18T17:07:16.110Z "
 title: Celestial (Alac) Scourge
 rating: Good
 role: Hybrid
 profession: Necromancer
 conditions:
   - 'Map { "name": "Vulnerability"'
-  - '"uptime": "25 stacks" }'
+  - '"uptime": "20 stacks" }'
   - 'Map { "name": "Torment" }'
-  - 'Map { "name": "Confusion" }'
+  - 'Map { "name": "Bleeding" }'
   - 'Map { "name": "Burning" }'
   - 'Map { "name": "Poisoned" }'
 cmGuide: ""
