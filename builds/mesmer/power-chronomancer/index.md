@@ -1,11 +1,7 @@
 ---
-title: Power Chronomancer
-hidden: false
-archive: true
-rating: Good
-role: Power Damage
-author: 'Discord: [CnD] Tipcat#0698'
-profession: Mesmer
+hidden: true
+archive: false
+author: "Discord: [CnD] Tipcat#0698"
 specialization: Chronomancer
 skills:
   - 10311
@@ -15,6 +11,25 @@ traits:
   - 2020
   - 2018
   - 853
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: self - on demand
+  - name: Might
+    uptime: 25 stacks
+    variant: self - on demand
+code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 4
+  - 4
+  - 3
+  - 4
+date: "2023-10-01T23:44:49.754Z "
+title: Power Alac Chronomancer
+rating: Good
+role: Power Damage
+profession: Mesmer
 conditions:
   - name: Vulnerability
   - name: Weakness
@@ -23,24 +38,9 @@ conditions:
   - name: Poisoned
   - name: Blinded
   - name: Slow
-boons:
-  - name: Quickness
-    uptime: 100%
-    variant: self - on demand
-  - name: Might
-    uptime: 25 stacks
-    variant: self - on demand
-code: '[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]'
-cmGuide: ''
-classification:
-  - 2
-  - 4
-  - 4
-  - 3
-  - 4
-date: '2022-08-05T10:35:34.916Z'
+cmGuide: ""
 ---
-
+ 
 The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 
 To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hindrance for your group.
@@ -68,7 +68,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 - Shield for CC, blocks, and precasting.
 
 </Card>
-<Traits traits1="Dueling" traits1Selected="Phantasmal Fury,Fencers Finesse,Superiority Complex" traits2="Domination" traits2Selected="Bountiful Blades,Egotism,Vicious Expression" traits3="Chronomancer" traits3Selected="Time Catches Up,Improved Alacrity,Chronophantasma"/>
+<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
 <Card title="Situational Traits">
 
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
