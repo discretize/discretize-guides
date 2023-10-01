@@ -30,8 +30,8 @@ boons:
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
 classification: []
-date: "2023-09-18T17:07:16.110Z "
-title: Celestial (Alac) Scourge
+date: "2023-10-01T23:48:11.494Z "
+title: Celestial Alac Scourge
 rating: Good
 role: Hybrid
 profession: Necromancer
