@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T20:18:36.820Z "
+date: "2023-10-02T20:30:54.382Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -255,24 +255,24 @@ At the boss
 
 <GridItem xs="12" sm="6">
 
-### Opener
-These are basic openers, refer to the video for more advanced openers (video description for written rotation).
+### One Fractal Opener 
+This is just an example of a average phase length:
 
-- With <Skill name="Continuum Split"/>, Start on Sword/Focus
+- With <Skill name="Continuum Split"/>, Start on Dagger/Sword
 
-1. <Skill name="Phantasmal Warden"/>
-1. <Skill name="Mirror Images"/> mid-cast.
-1. Weapon Swap
+1. Precast finished
+   1. <Skill name="Phantasmal Disenchanter"/> on <Instability name="No Pain, No Gain" /> days without a defiance bar
+   2. or <Skill name="Signet of Humility"/> + <Skill name="Time Sink"/> if the boss has a defiance bar (strips NPNG as well)
 1. <Skill name="Phantasmal Swordsman"/>
-
-   1. <Skill name="Continuum Split"/>
-   2. <Skill name="Mirror Images"/> (if you precast <Skill name="Mimic"/> )
-   3. You can delay your <Skill name="Continuum Split" disableText/> towards the end of the cast of <Skill name="Phantasmal Swordsman" disableText/> to give yourself more time.
-
-1. <Skill name="Phantasmal Disenchanter"/>
-1. <Skill name="Illusionary Leap"/> into <Skill name="Signet of the Ether"/>
-
-   1. You want to use <Skill name="Signet of the Ether" disableText/> as soon as you see a clone spawn from <Skill name="Illusionary Leap"/>.
+1. <Skill name="Bladecall"/> -> Weapon Swap
+1. <Skill name="Mirror Blade"/>
+   1. <Skill name="Illusionary Wave"/> if the boss has a defiance bar 
+ 
+1. <Skill name="Well of Calamity"/> (<Skill name="Continuum Split"/>)
+   1. <Skill name="Well of Action"/> (<Skill name="Mantra of Pain"/>)
+   2. <Skill name="Phantasmal Berserker"/> 
+   3. <Skill name="Signet of the Ether"/>
+   4. <Skill name="Phantasmal Berserker"/> (<Skill name="Split Second"/>) + remaining shatters
 
 1. <Skill name="Phantasmal Swordsman"/>
 
