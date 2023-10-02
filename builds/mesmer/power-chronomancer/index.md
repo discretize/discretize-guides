@@ -38,15 +38,15 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T09:01:19.094Z "
+date: "2023-10-02T11:05:38.227Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
  
  It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 <Boon name="Might"/> up to 16 <Boon name="Might"/>.
  
- Despite having longer ramp-up times compared to Power Alac Renegades, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
+ Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
  
-To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class, but even then you can not change the basic design of Phantasms, with their delayed damage application.
+To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
 
 You'll provide boon removal through a various range of options, especially by utilizing <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
@@ -57,6 +57,10 @@ If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name
 This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
 <Divider text="Equipment" />   
+
+A Firework Relic instead of Thief will increase your personal target damage, but eventually trade of cleave damage on Skorvald/Arkk/MAMA.
+
+For PuGs we recommend to stick with Thief due to overall longer phase times.
 
 Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
 
@@ -70,68 +74,85 @@ Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust 
  
 <Grid>
 <GridItem sm="7">
-<Card title="Extra Weapons">
+### Weapons Choices
 
-- Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
-- Pistol is faster but has lower burst so swap accordingly depending on your group.
-  - Use it on Arkk to not wipe your group since the Warden 'protects' the Balls from your SAK.
-- Torch for stealth, blasting, and precasting
-- Greatsword for precasting at certain bosses.
-- Staff for precasting at certain bosses.
-- Shield for CC, blocks, and precasting.
+Always play Greatsword main-hand.
 
-</Card>
+Dagger:
+
+- strongest raw dps output
+- ranged cleave damage
+
+Sword:
+- burst
+- evade
+- boon rip on your Auto-Attack chain
+- 600 range leap onto a target
+
+Shield:
+- additional 8 group <Boon name="Might"/>
+
+Pistol:
+- highest CC option
+
+Focus:
+- 5 target pull
+- projectile block
 
 
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
-<Card title="Situational Traits">
+### Situational Traits
 
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
 
-You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
+You can go play Illusions over Domination when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
 
-|                                                            |                                                     |
-| ---------------------------------------------------------- | --------------------------------------------------- |
-| <Trait name="Empowered Illusions" size="big" disableText/> | If you're playing with Focus instead of Greatsword. |
+<Trait name="All's Well That Ends Well"/> can be taken for additional group sustain.
 
-<Traits traits1="Mirage" traits1Selected="Elusive Mind" unembossed/>
 
 Utilize Mirage for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
-</Card>
 </GridItem>
 
 <GridItem sm="5">
-<Card title="Situational Skills">
+### Situational Skills
 
-Swap out <Skill name="Mantra of Pain" size="medium"/> before any other skill.
+Every utility skill can be exchanged. 
+
+Check out the toolkit below to decide.
 
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Gravity Well" size="big" disableText/>          | Higher DPS but slower and less CC                                                                                                                                                          |
-| <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Mirror Images"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                               |
-| <Skill name="Null Field" size="big" disableText/>            | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
-| <Skill name="Signet of Inspiration" size="big" disableText/> | For precasting before the boss.                                                                                                                                                            |
+| <Skill name="Well of Calamity" size="big" disableText/>          | Highest damage priority.                                                                                                                                                         |
+| <Skill name="Well of Action" size="big" disableText/>          | Necessary in order to provide 8 <Boon name="Might"/> and permanent <Boon name="Fury"/>.                                                                                                                                                         |
+| <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain" />.                                                                                                                                                         |
+| <Skill name="Well of Senility" size="big" disableText/>          | 300 break bar damage combined with a small dps gain compared to <Skill name="Phantasmal Disenchanter"/>.                                                                                                                                                         |
+| <Skill name="Mantra of Pain" size="big" disableText/>          | A personal dps gain, when no additional utility is required.                                                                                                                 |
+| <Skill name="Mantra of Distraction" size="big" disableText/>          | Two instant casts of 150 break bar damage each.                                                                                                                                                         |
+| <Skill name="Signet of Domination" size="big" disableText/>          | 300 break bar damage immediately.                                                                                                                                                         |
+| <Skill name="Gravity Well" size="big" disableText/>          | Higher DPS compared to <Skill name="Signet of Humility"/> but slower and less CC.                                                                                                                                                         |
+| <Skill name="Mantra of Concentration" size="big" disableText/>          | Two instant cast of group-wide <Boon name="Stability"/> and additionally <Boon name="Aegis"/> when channeled e.g. to single handedly block the AoE at the start of Arstariiv p2 and p3.         
+| <Skill name="Mantra of Resolve" size="big" disableText/>          | Group-wide condi cleanse.        
+| <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips.                                                               
 | <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
 | **Skips**                                                    |                                                                                                                                                                                            |
 | <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                       |
 | <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/>  | Situational uses such as the Underground Facility door.                                                                                                                                    |
+| <Skill name="Well of Precognition" size="big" disableText/>  | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door.                                                                                                                                    |
 | <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
 | <Skill name="Illusionary Ambush" size="big" disableText/>    | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
-</Card>
 </GridItem>
 </Grid>
 
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="7">
 <Card title="Skill priority">
 
 To play <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than skills from other classes
@@ -157,23 +178,24 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 </Card>
 </GridItem>
 
-<GridItem sm="4">
-<Card title="CC skills">
+<GridItem sm="5">
+### Defiance Bar Damage
 
 |                                    |                      |
 | ---------------------------------- | -------------------- |
 | <Skill name="Time Sink"/>          | 100-400 damage       |
 | <Skill name="Counter Blade"/>      | 200 damage           |
-| <Skill name="Into the Void"/>      | 150 damage           |
 | <Skill name="Gravity Well"/>       | 550 damage           |
 | <Skill name="Signet of Humility"/> | 600 damage           |
 | <Skill name="Illusionary Wave"/>   | 150 damage           |
-| <Skill name="Tides of Time"/>      | 200 damage           |
+| <Skill name="Tides of Time"/>      | 2x 100 damage        |
 | <Skill name="Magic Bullet"/>       | 250 damage           |
-| <Skill name="Phantasmal Mage"/>    | 100 damage           |
+| <Skill name="Into the Void"/>      | 150 damage           |
 | <Condition name="Slow"/>           | 50 damage per second |
+| <Skill name="Well of Senility"/>   | 300 damage           |
+| <Skill name="Signet of Domination"/> | 300 damage         |
+| <Skill name="Mantra of Distraction"/| 150 damage per cast |
 
-</Card>
 </GridItem>
 </Grid>
 
