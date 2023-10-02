@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T19:25:31.498Z "
+date: "2023-10-02T20:18:36.820Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -249,6 +249,7 @@ At the boss
 - Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
 - As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
 - Depending on the phase length and if cc is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
+- Use <Skill name="Unstable Bladestorm"/>.
 
 </GridItem>
 
@@ -301,7 +302,7 @@ These are basic openers, refer to the video for more advanced openers (video des
    1. You'll want to cast <Skill name="Split Second"/> and <Skill name="Rewinder"/> between this step and the next.
 
 7. <Skill name="Phantasmal Disenchanter"/>
-8. <Skill name="Blurred Frenzy"/>
+8. <Skill name="Blurred Frenzy"/> 
 
 </GridItem>
 </Grid>
