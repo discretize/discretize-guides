@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T13:58:30.569Z "
+date: "2023-10-02T14:08:50.424Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -114,6 +114,19 @@ Utilize Mirage for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
+### Information
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+
+They do however benefit from <Effect name="Exposed"/>.
+
+### Golem Rotation
+
+<Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
+
+
+
 </GridItem>
 
 <GridItem sm="5">
@@ -169,7 +182,8 @@ If you lose yourself in the rotation follow this priority list:
    2. <Skill name="Well of Action"/>
    3. <Skill name="Gravity Well"/> (when no cc is required)
    4. <Skill name="Phantasmal Disenchanter"/>
-
+   
+4.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefor is supposed to get canceled as soon as one of the higher priority skills becomes available again.
 
 If the boss is close to phasing, remember that your personal damage skills are faster than wells and phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
 
@@ -199,19 +213,6 @@ If the boss is close to phasing, remember that your personal damage skills are f
 
 <Grid>
 <GridItem xs="12" sm="6">
-<Card title="Information">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
-
-They do however benefit from <Effect name="Exposed"/>.
-</Card>
-
-### Golem Rotation
-
-<Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
-
 
 ### Precasting
 At the Mistlock Singularity
