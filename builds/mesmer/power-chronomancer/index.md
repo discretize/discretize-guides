@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T14:10:38.182Z "
+date: "2023-10-02T14:38:32.772Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -172,20 +172,23 @@ To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/>
 
 If you lose yourself in the rotation follow this priority list:
 
-1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swaping (utilizing <Skill name="Signet of the Ether"/>). Ideally <Skill name="Mind Stab"/> can be used twice and <Skill name="Mirror Blade"/> three times.
+1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swaping (utilizing <Skill name="Signet of the Ether"/>).
 
-2.  On Dagger/Sword you basically prioritise the same way, <Skill name="Phantasmal Swordsman"/> should be casted twice, <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
+2.  On Sword <Skill name="Phantasmal Swordsman"/> follows the same principle.
 
-3. As soon as your weapon skills are on cooldown, you want to use your utility skills if the following prio:
+3. You want to use your utility skills in the following priority:
   
    1. <Skill name="Well of Calamity"/>
    2. <Skill name="Well of Action"/>
    3. <Skill name="Gravity Well"/> (when no cc is required)
    4. <Skill name="Phantasmal Disenchanter"/>
-   
+
+
+4.  Ideally <Skill name="Mirror Blade"/> can be used three times and <Skill name="Mind Stab"/> twice. On Dagger/Sword you basically prioritise the same way, <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
+
 4.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefor is supposed to get canceled as soon as one of the higher priority skills becomes available again.
 
-If the boss is close to phasing, remember that your personal damage skills are faster than wells and phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
+If the boss gets close to phasing, remember that your personal damage skills are faster than wells and phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
 
 </GridItem>
 <GridItem sm="5">
@@ -213,6 +216,25 @@ If the boss is close to phasing, remember that your personal damage skills are f
 
 <Grid>
 <GridItem xs="12" sm="6">
+
+### Shatter
+Even tho casting phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
+
+Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many clones as possible, to build up spare uptime.
+
+
+### Continuum Split
+At the Mistlock Singularity
+
+- Blast fire fields with <Skill name="The Prestige"/>.
+- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
+- Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+
+At the boss
+
+- Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
+- As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
+- Depending on the phase length and if cc is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
 
 ### Precasting
 At the Mistlock Singularity
