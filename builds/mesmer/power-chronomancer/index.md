@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T14:44:28.294Z "
+date: "2023-10-02T15:01:22.961Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -227,17 +227,15 @@ Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep th
 As long as that requirment is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
 
 ### Continuum Split
-At the Mistlock Singularity
+<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
+The durations depends on the amount of clones spent, but usually two clones are the optimal amount.
 
-- Blast fire fields with <Skill name="The Prestige"/>.
-- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
-- Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as ofthen as usual. 
 
-At the boss
+**Do not use it with three clones, staying in for the maxium duration, just for the sake of getting more lower priority skills in!**
 
-- Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
-- As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
-- Depending on the phase length and if cc is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
+Since your shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
+
 
 ### Precasting
 At the Mistlock Singularity
