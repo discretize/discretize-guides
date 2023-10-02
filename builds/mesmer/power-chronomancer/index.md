@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T14:08:50.424Z "
+date: "2023-10-02T14:10:38.182Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -168,7 +168,7 @@ Check out the toolkit below to decide.
 <GridItem sm="7">
 ### Skill priority
 
-To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms/wells are our main damage source, but also slower than skills from other classes
+To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as phantasms/wells are our main damage source, but also slower than most skills of other classes.
 
 If you lose yourself in the rotation follow this priority list:
 
