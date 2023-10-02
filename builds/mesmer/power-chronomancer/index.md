@@ -1,7 +1,11 @@
 ---
+title: Power Alac Chronomancer
 hidden: true
 archive: false
+rating: Good
+role: Power Damage
 author: "Discord: [CnD] Tipcat#0698"
+profession: Mesmer
 specialization: Chronomancer
 skills:
   - 10311
@@ -11,25 +15,6 @@ traits:
   - 2020
   - 2018
   - 853
-boons:
-  - name: Quickness
-    uptime: 100%
-    variant: self - on demand
-  - name: Might
-    uptime: 25 stacks
-    variant: self - on demand
-code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
-classification:
-  - 2
-  - 4
-  - 4
-  - 3
-  - 4
-date: "2023-10-01T23:44:49.754Z "
-title: Power Alac Chronomancer
-rating: Good
-role: Power Damage
-profession: Mesmer
 conditions:
   - name: Vulnerability
   - name: Weakness
@@ -38,23 +23,51 @@ conditions:
   - name: Poisoned
   - name: Blinded
   - name: Slow
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: self - on demand
+  - name: Might
+    uptime: 25 stacks
+    variant: self - on demand
+code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
+classification:
+  - 2
+  - 4
+  - 4
+  - 3
+  - 4
+date: "2023-10-02T08:59:14.748Z "
 ---
+ The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
  
-The <Specialization text="Power Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals. Despite having one of the highest benchmarks in the game, this build is not that great in fractals due to long ramp-up times which make it strong for PuGs and a suboptimal pick for faster groups. If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
+ It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 up to 16 <Boon name="Might"/> for your group.
+ 
+ Despite having longer ramp-up times compared to Power Alac Renegades, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>. 
+ 
+ If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 
-To succeed as a <Specialization text="Power Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation on the go and push the limits of your class, but even then you will probably be a hindrance for your group.
+To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class, but even then you can not change the basic design of Phantasms, with their delayed damage application.
 
-You'll provide boon removal through your clones, auto-attack chains, <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+You'll provide boon removal through a various range of options, especially by utilizing <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
-The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized.
+The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
 
 This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment" />   
+
+Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
+
+<CharacterWithAr>
+<Character title="" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":18272,"Armor":1967,"Power":3288,"Precision":2468,"Toughness":1000,"Vitality":1297,"Ferocity":1216.2,"Condition Damage":750,"Expertise":0,"Concentration":0,"Healing Power":0,"Agony Resistance":0,"Condition Duration":0,"Boon Duration":0,"Critical Chance":0.999047619047619,"Critical Damage":2.3108,"Clone Critical Chance":0.7490476190476191,"Phantasm Critical Chance":0.999047619047619,"Phantasm Critical Damage":2.3108,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":12.58035714285714,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":20218.834218924105,"NonCrit Effective Power":6632.815612500001,"Power DPS":25980.07307991904,"Phantasm Effective Power":10916.09572742857,"Power2 DPS":4354.668915524066,"Siphon DPS":139.75,"Bleeding Damage Tick":83.75,"Bleeding Stacks":12.58035714285714,"Bleeding DPS":1053.6049107142856,"Burning Damage Tick":309.0625,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":90.045,"Confusion Stacks":0.81,"Confusion DPS":72.93645000000001,"Poison Damage Tick":98.125,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":124.125,"Torment Stacks":0,"Torment DPS":0,"Damage":31601.033356157386,"Effective Health":53643319.40298508,"Survivability":27271.641791044778,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24703,"helmRune":"Infiltration","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24703,"shouldersRune":"Infiltration","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24703,"coatRune":"Infiltration","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24703,"glovesRune":"Infiltration","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24703,"leggingsRune":"Infiltration","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24703,"bootsRune":"Infiltration","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24868,"weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Assassin","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":67530,"relicId":100916},"skills":{"healId":21750,"utility1Id":30525,"utility2Id":10267,"utility3Id":30814,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[1995,1978,1942]],"lines":[10,1,40]}}'>
+
+</Character>
+</CharacterWithAr>
 
 <Divider text="Build"/>
-
+ 
 <Grid>
 <GridItem sm="7">
 <Card title="Extra Weapons">
@@ -68,6 +81,8 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 - Shield for CC, blocks, and precasting.
 
 </Card>
+
+
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
 <Card title="Situational Traits">
 
