@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T13:20:36.675Z "
+date: "2023-10-02T13:58:30.569Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -155,28 +155,25 @@ Check out the toolkit below to decide.
 <GridItem sm="7">
 ### Skill priority
 
-To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than skills from other classes
+To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms/wells are our main damage source, but also slower than skills from other classes
 
-If you lose yourself in the rotation follow this priority list.
+If you lose yourself in the rotation follow this priority list:
 
-1.  Your goal should be to to cast
+1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swaping (utilizing <Skill name="Signet of the Ether"/>). Ideally <Skill name="Mind Stab"/> can be used twice and <Skill name="Mirror Blade"/> three times.
 
+2.  On Dagger/Sword you basically prioritise the same way, <Skill name="Phantasmal Swordsman"/> should be casted twice, <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
+
+3. As soon as your weapon skills are on cooldown, you want to use your utility skills if the following prio:
   
-  
-2.  Use <Skill id="21750"/> to recharge them all.
-3.  Use <Skill name="Split Second"/> with three clones as much as possible only delay it for <Effect name="Exposed"/>
-4.  Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end, and <Skill name="Split Second"/> is on cooldown.
-5.  Use <Skill id="10334"/> and <Skill id="30525"/> (if used) off recharge.
+   1. <Skill name="Well of Calamity"/>
+   2. <Skill name="Well of Action"/>
+   3. <Skill name="Gravity Well"/> (when no cc is required)
+   4. <Skill name="Phantasmal Disenchanter"/>
 
-- <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
-Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that <Skill name="Blurred Frenzy"/> and auto-attacks get higher priority if the boss is close to phasing.
+If the boss is close to phasing, remember that your personal damage skills are faster than wells and phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
 
-Utilize <Skill name="Time Sink"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> or <Skill name="Gravity Well"/> so they don't overlap with other powerful CC skills.
-
-Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
 </GridItem>
-
 <GridItem sm="5">
 
 ### Defiance Bar Damage
@@ -205,7 +202,6 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 <Card title="Information">
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-For that reason, you can find a video with openers, that are efficient to use here.
 
 It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
 
@@ -216,8 +212,6 @@ They do however benefit from <Effect name="Exposed"/>.
 
 <Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
 
-</GridItem>
-</Grid>
 
 ### Precasting
 At the Mistlock Singularity
@@ -285,3 +279,5 @@ These are basic openers, refer to the video for more advanced openers (video des
 7. <Skill name="Phantasmal Disenchanter"/>
 8. <Skill name="Blurred Frenzy"/>
 
+</GridItem>
+</Grid>
