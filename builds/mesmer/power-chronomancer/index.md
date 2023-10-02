@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T14:38:32.772Z "
+date: "2023-10-02T14:44:28.294Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -222,6 +222,9 @@ Even tho casting phantasms already covers a large portion of the necessary Alacr
 
 Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many clones as possible, to build up spare uptime.
 
+Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three clones for this one, since it's your main damage shatter.
+
+As long as that requirment is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
 
 ### Continuum Split
 At the Mistlock Singularity
