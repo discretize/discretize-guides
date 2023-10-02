@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T12:47:39.716Z "
+date: "2023-10-02T13:20:36.675Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -153,16 +153,16 @@ Check out the toolkit below to decide.
 
 <Grid>
 <GridItem sm="7">
-<Card title="Skill priority">
+### Skill priority
 
-To play <Specialization text="Power Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than skills from other classes
+To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go as phantasms are our main damage source but they are slower than skills from other classes
 
 If you lose yourself in the rotation follow this priority list.
 
-1.  Cast your phantasms whenever ready.
-    - <Skill id="10174"/>
-    - <Skill id="10267"/>
-    - <Skill id="10282"/>
+1.  Your goal should be to to cast
+
+  
+  
 2.  Use <Skill id="21750"/> to recharge them all.
 3.  Use <Skill name="Split Second"/> with three clones as much as possible only delay it for <Effect name="Exposed"/>
 4.  Use <Skill name="Rewinder"/> whenever you don't have any clones, situationally you can shatter it with three clones such as in your burst rotation or when a phase is about to end, and <Skill name="Split Second"/> is on cooldown.
@@ -175,12 +175,11 @@ Remember that your personal damage skills are faster than phantasms, but that th
 Utilize <Skill name="Time Sink"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> or <Skill name="Gravity Well"/> so they don't overlap with other powerful CC skills.
 
 Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used twice with <Skill id="29830"/> if needed. Cast <Skill id="10173"/> to quickly get up another illusion.
-</Card>
 </GridItem>
 
 <GridItem sm="5">
-### Defiance Bar Damage
 
+### Defiance Bar Damage
 |                                      |                      |
 | ----------------------------------   | -------------------- |
 | <Skill name="Time Sink"/>            | 100-400 damage       |
@@ -213,52 +212,31 @@ It's important to note that phantasms do not benefit from most modifiers unless 
 They do however benefit from <Effect name="Exposed"/>.
 </Card>
 
-<Card title="Chronomancer openers">
+### Golem Rotation
 
-<Video caption="by Tipcat, edited by [dT] Vince" youtube="UY5HgwrCYoE"/>
-</Card>
+<Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
 
-<Card title="Precasting">
+</GridItem>
+</Grid>
 
+### Precasting
 At the Mistlock Singularity
 
 - Blast fire fields with <Skill name="The Prestige"/>.
-- Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
 - Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
-- Additionally, you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
-At the boss (spawnable bosses)
+At the boss
 
-- You can precast <Skill name="The Prestige"/>, <Skill name="Tides of Time"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+- Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
+- As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
+- Depending on the phase length and if cc is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
 
-At the boss (pre spawned bosses)
-
-- Precast rotation. Start on Staff or Shield.
-
-1.  <Skill name="Phantasmal Warlock"/>
-2.  <Skill name="Phase Retreat"/>
-    1.  Omit this step if <Skill name="Mimic"/> is precast
-3.  Swap to Greatsword from inventory
-4.  <Skill name="Phantasmal Berserker"/>
-5.  <Skill name="Mirror Blade"/>
-6.  Swap to Focus and proceed with the regular rotation
-
-- If you start on Shield use <Skill name="Echo of Memory"/> before step 1.
-- Precasting phantasms on MAMA is possible but the timing is trickier in PuGs as combat starts once your group hits the boss.
-
-**Optional**
-
-If you want to be more self-sufficient in fractals you can get a 100% boon duration set and take <Trait name="Bountiful disillusionment" size="small"/>.
-
-Then enter <Skill name="Continuum split"/>, cast all shatters, exit <Skill name="Continuum split"/>, cast all shatters again and use <Skill name="Signet of Inspiration"/>. Precast <Skill name="Mimic"/> and take the singularity.
-
-Alternatively you can also precast <Skill name="Well of Recall"/> to help with <Boon name="Alacrity"/> uptime.
-</Card>
 </GridItem>
 
 <GridItem xs="12" sm="6">
-<Card title="Opener">
 
+### Opener
 These are basic openers, refer to the video for more advanced openers (video description for written rotation).
 
 - With <Skill name="Continuum Split"/>, Start on Sword/Focus
@@ -307,12 +285,3 @@ These are basic openers, refer to the video for more advanced openers (video des
 7. <Skill name="Phantasmal Disenchanter"/>
 8. <Skill name="Blurred Frenzy"/>
 
-</Card>
-
-<Card title="Golem Rotation">
-
-<Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
-
-</Card>
-</GridItem>
-</Grid>
