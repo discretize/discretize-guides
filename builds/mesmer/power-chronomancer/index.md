@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T15:01:22.961Z "
+date: "2023-10-02T19:25:31.498Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
@@ -123,7 +123,7 @@ They do however benefit from <Effect name="Exposed"/>.
 
 ### Golem Rotation
 
-<Video youtube="hkl9kewy_1k" caption="by Tipcat"/>
+<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
 
 
 
