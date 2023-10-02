@@ -38,21 +38,21 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T08:59:14.748Z "
+date: "2023-10-02T09:01:19.094Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
  
- It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 up to 16 <Boon name="Might"/> for your group.
+ It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 <Boon name="Might"/> up to 16 <Boon name="Might"/>.
  
- Despite having longer ramp-up times compared to Power Alac Renegades, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>. 
+ Despite having longer ramp-up times compared to Power Alac Renegades, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
  
- If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
-
 To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class, but even then you can not change the basic design of Phantasms, with their delayed damage application.
 
 You'll provide boon removal through a various range of options, especially by utilizing <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
+
+If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
 
 This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
