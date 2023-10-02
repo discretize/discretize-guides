@@ -38,10 +38,10 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T11:05:38.227Z "
+date: "2023-10-02T12:47:39.716Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
- 
+
  It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 <Boon name="Might"/> up to 16 <Boon name="Might"/>.
  
  Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
@@ -181,20 +181,20 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 <GridItem sm="5">
 ### Defiance Bar Damage
 
-|                                    |                      |
-| ---------------------------------- | -------------------- |
-| <Skill name="Time Sink"/>          | 100-400 damage       |
-| <Skill name="Counter Blade"/>      | 200 damage           |
-| <Skill name="Gravity Well"/>       | 550 damage           |
-| <Skill name="Signet of Humility"/> | 600 damage           |
-| <Skill name="Illusionary Wave"/>   | 150 damage           |
-| <Skill name="Tides of Time"/>      | 2x 100 damage        |
-| <Skill name="Magic Bullet"/>       | 250 damage           |
-| <Skill name="Into the Void"/>      | 150 damage           |
-| <Condition name="Slow"/>           | 50 damage per second |
-| <Skill name="Well of Senility"/>   | 300 damage           |
-| <Skill name="Signet of Domination"/> | 300 damage         |
-| <Skill name="Mantra of Distraction"/| 150 damage per cast |
+|                                      |                      |
+| ----------------------------------   | -------------------- |
+| <Skill name="Time Sink"/>            | 100-400 damage       |
+| <Skill name="Counter Blade"/>        | 200 damage           |
+| <Skill name="Gravity Well"/>         | 550 damage           |
+| <Skill name="Signet of Humility"/>   | 600 damage           |
+| <Skill name="Illusionary Wave"/>     | 150 damage           |
+| <Skill name="Tides of Time"/>        | 2x 100 damage        |
+| <Skill name="Magic Bullet"/>         | 250 damage           |
+| <Skill name="Into the Void"/>        | 150 damage           |
+| <Condition name="Slow"/>             | 50 damage per second |
+| <Skill name="Well of Senility"/>     | 300 damage           |
+| <Skill name="Signet of Domination"/> | 300 damage           |
+| <Skill name="Mantra of Distraction"/>| 150 damage per cast  |
 
 </GridItem>
 </Grid>
