@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T22:53:40.000Z "
+date: "2023-10-03T22:56:25.071Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
@@ -172,11 +172,11 @@ Check out the toolkit below to decide.
 <GridItem sm="7">
 
 ### Skill priority
-To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as phantasms/wells are our main damage source, but also slower than most skills of other classes.
+To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as Phantasms/Wells are our main damage source, but also slower than most skills of other classes.
 
 If you lose yourself in the rotation follow this priority list:
 
-1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swaping (utilizing <Skill name="Signet of the Ether"/>).
+1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swaping (utilising <Skill name="Signet of the Ether"/>).
 
 2.  On Sword <Skill name="Phantasmal Swordsman"/> follows the same principle.
 
@@ -184,7 +184,7 @@ If you lose yourself in the rotation follow this priority list:
   
    1. <Skill name="Well of Calamity"/>
    2. <Skill name="Well of Action"/>
-   3. <Skill name="Gravity Well"/> (when no cc is required)
+   3. <Skill name="Gravity Well"/> (when no CC is required)
    4. <Skill name="Phantasmal Disenchanter"/>
 
 
@@ -192,7 +192,7 @@ If you lose yourself in the rotation follow this priority list:
 
 4.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefor is supposed to get canceled as soon as one of the higher priority skills becomes available again.
 
-If the boss gets close to phasing, remember that your personal damage skills are faster than wells and phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
+If the boss gets close to phasing, remember that your personal damage skills are faster than Wells and Phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
 
 </GridItem>
 <GridItem sm="5">
