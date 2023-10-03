@@ -30,18 +30,12 @@ boons:
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
 classification: []
-date: "2023-10-01T23:48:11.494Z "
+date: "2023-10-03T20:57:49.654Z "
 title: Celestial Alac Scourge
 rating: Good
 role: Hybrid
 profession: Necromancer
-conditions:
-  - 'Map { "name": "Vulnerability"'
-  - '"uptime": "20 stacks" }'
-  - 'Map { "name": "Torment" }'
-  - 'Map { "name": "Bleeding" }'
-  - 'Map { "name": "Burning" }'
-  - 'Map { "name": "Poisoned" }'
+conditions: []
 cmGuide: ""
 ---
 The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.  
