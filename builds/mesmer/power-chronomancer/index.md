@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T22:51:01.438Z "
+date: "2023-10-03T22:51:41.442Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
@@ -121,7 +121,7 @@ Most fractal encounters include downtimes in between their phases, which means t
 
 Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three clones for this one, since it's your main damage shatter.
 
-As long as that requirment is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+As long as that requirement is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
 
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
