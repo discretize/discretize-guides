@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-03T13:28:16.772Z "
+date: "2023-10-03T13:29:07.099Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
@@ -130,7 +130,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 
 ### Shade Skills
 
-In order to utilize shade-skills you either place a shade onto your target or stay within 180 range yourself.
+In order to utilise shade-skills you either place a shade onto your target or stay within 180 range yourself.
 
 - Maintain at least 1 shade at all times.
 - Using your shade skills will add additional applications of <Condition name="Burning"/> (from <Trait name="Dhuumfire"/>), <Condition name="Torment"/> and <Condition name="Vulnerability"/> (from <Trait name="Unyielding Blast"/>). 
