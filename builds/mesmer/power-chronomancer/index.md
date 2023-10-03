@@ -4,7 +4,7 @@ hidden: true
 archive: false
 rating: Good
 role: Power Damage
-author: "Discord: [CnD] Tipcat#0698"
+author: ""
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -38,11 +38,11 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-02T20:30:54.382Z "
+date: "2023-10-03T11:12:49.346Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
 
- It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 <Boon name="Might"/> up to 16 <Boon name="Might"/>.
+ It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 <Boon name="Might"/> up to 16 <Boon name="Might"/>. 
  
  Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
  
@@ -257,12 +257,14 @@ At the boss
 
 ### One Fractal Opener 
 This is just an example of a average phase length:
+- <Skill name="Mantra of Pain"/> would usually be your dps choice if there is no need for <Skill name="Phantasmal Disenchanter"/> or <Skill name="Well of Senility"/> 
 
 - With <Skill name="Continuum Split"/>, Start on Dagger/Sword
 
-1. Precast finished
+1. **Precast** finished
    1. <Skill name="Phantasmal Disenchanter"/> on <Instability name="No Pain, No Gain" /> days without a defiance bar
    2. or <Skill name="Signet of Humility"/> + <Skill name="Time Sink"/> if the boss has a defiance bar (strips NPNG as well)
+
 1. <Skill name="Phantasmal Swordsman"/>
 1. <Skill name="Bladecall"/> -> Weapon Swap
 1. <Skill name="Mirror Blade"/>
@@ -273,36 +275,20 @@ This is just an example of a average phase length:
    2. <Skill name="Phantasmal Berserker"/> 
    3. <Skill name="Signet of the Ether"/>
    4. <Skill name="Phantasmal Berserker"/> (<Skill name="Split Second"/>) + remaining shatters
+   5. <Skill name="Mind Stab"/> -> <Skill name="Mirror Blade"/> (<Skill name="Continuum Split"/> ends)
 
+1. <Skill name="Well of Calamity"/> (<Skill name="Mantra of Pain"/>)
+1. <Skill name="Well of Action"/>
+1. <Skill name="Phantasmal Berserker"/>
+1. <Skill name="Signet of the Ether"/>
+1. <Skill name="Phantasmal Berserker"/>
+1. <Skill name="Mirror Blade"/>
+1. <Skill name="Mind Stab"/>
+1. Weapon Swap
 1. <Skill name="Phantasmal Swordsman"/>
-
-   1. You'll want to cast <Skill name="Split Second"/>, <Skill name="Rewinder"/> and <Skill name="Time Sink"/> between this step and the next.
-
-1. <Skill name="Phantasmal Disenchanter"/>
-1. <Skill name="Time Warp"/>
-1. <Skill name="Blurred Frenzy"/> (<Skill name="Continuum Split" disableText/> ends)
-
-   1. It's important that you use <Skill name="Blurred Frenzy" disableText/> to cancel the aftercast of <Skill name="Time Warp"/>.
-
-- Without <Skill name="Continuum Split"/>, Start on Sword/Focus
-
-1. <Skill name="Phantasmal Warden"/>
-
-   1. <Skill name="Mirror Images"/> mid-cast.
-
-2. Weapon Swap
-3. <Skill name="Phantasmal Swordsman"/>
-4. <Skill name="Phantasmal Disenchanter"/>
-5. <Skill name="Illusionary Leap"/> into <Skill name="Signet of the Ether"/>
-
-   - You want to use <Skill name="Signet of the Ether" disableText/> as soon as you see a clone spawn from <Skill name="Illusionary Leap"/>.
-
-6. <Skill name="Phantasmal Swordsman"/>
-
-   1. You'll want to cast <Skill name="Split Second"/> and <Skill name="Rewinder"/> between this step and the next.
-
-7. <Skill name="Phantasmal Disenchanter"/>
-8. <Skill name="Blurred Frenzy"/> 
+1. <Skill name="Unstable Bladestorm"/>
+1. <Skill name="Bladecall"/>
+2. remaining stacks of <Skill name="Mantra of Pain"/> 
 
 </GridItem>
 </Grid>
