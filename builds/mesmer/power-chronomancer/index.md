@@ -38,17 +38,17 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T11:12:49.346Z "
+date: "2023-10-03T12:24:49.404Z "
 ---
- The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is the strongest (and only) build for <Specialization name="Mesmer"/> in fractals.
+ The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest build for <Specialization name="Mesmer"/> in fractals.
 
- It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 <Boon name="Might"/> up to 16 <Boon name="Might"/>. 
+ It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 up to 16 <Boon name="Might"/>. 
  
  Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
  
 To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
 
-You'll provide boon removal through a various range of options, especially by utilizing <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
 
@@ -198,14 +198,14 @@ If the boss gets close to phasing, remember that your personal damage skills are
 | ----------------------------------   | -------------------- |
 | <Skill name="Time Sink"/>            | 100-400 damage       |
 | <Skill name="Counter Blade"/>        | 200 damage           |
-| <Skill name="Gravity Well"/>         | 550 damage           |
+| <Skill name="Gravity Well"/>         | 550 damage within 3s |
 | <Skill name="Signet of Humility"/>   | 600 damage           |
 | <Skill name="Illusionary Wave"/>     | 150 damage           |
 | <Skill name="Tides of Time"/>        | 2x 100 damage        |
 | <Skill name="Magic Bullet"/>         | 250 damage           |
 | <Skill name="Into the Void"/>        | 150 damage           |
 | <Condition name="Slow"/>             | 50 damage per second |
-| <Skill name="Well of Senility"/>     | 300 damage           |
+| <Skill name="Well of Senility"/>     | 300 damage after 3s  |
 | <Skill name="Signet of Domination"/> | 300 damage           |
 | <Skill name="Mantra of Distraction"/>| 150 damage per cast  |
 
@@ -232,8 +232,6 @@ The durations depends on the amount of clones spent, but usually two clones are 
 
 Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as ofthen as usual. 
 
-**Do not use it with three clones, staying in for the maxium duration, just for the sake of getting more lower priority skills in!**
-
 Since your shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
 
 
@@ -255,11 +253,11 @@ At the boss
 
 <GridItem xs="12" sm="6">
 
-### One Fractal Opener 
-This is just an example of a average phase length:
+### Opener
+Example with <Skill name="Continuum Split"/>:
 - <Skill name="Mantra of Pain"/> would usually be your dps choice if there is no need for <Skill name="Phantasmal Disenchanter"/> or <Skill name="Well of Senility"/> 
 
-- With <Skill name="Continuum Split"/>, Start on Dagger/Sword
+- Start on Dagger/Sword
 
 1. **Precast** finished
    1. <Skill name="Phantasmal Disenchanter"/> on <Instability name="No Pain, No Gain" /> days without a defiance bar
@@ -289,6 +287,22 @@ This is just an example of a average phase length:
 1. <Skill name="Unstable Bladestorm"/>
 1. <Skill name="Bladecall"/>
 2. remaining stacks of <Skill name="Mantra of Pain"/> 
+
+</GridItem>
+</Grid>
+
+<Grid>
+<GridItem sm="12">
+### Rotation Adjustments
+The Opener above takes ~15s and <Skill name="Continuum Split"/> has 70s Cooldown with permanent <Boon name="Alacrity"/>. 
+
+Now it is up to you to think about how many usages you can get at a certain fractal encounter and which phases would even be long enough to recommend using it.
+
+Oftentimes you won't even have access to all the skills that got used in the Opener above, or maybe you still gonna have Cooldown on your Weapon-Swap.
+
+Based on that, another approach could be to by-pass phases with low ressources by duplicating the few options you've got.
+
+Otherwise double-casting Wells only makes sense at 9s+. Therefor you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
 
 </GridItem>
 </Grid>
