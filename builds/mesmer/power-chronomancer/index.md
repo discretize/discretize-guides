@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T22:32:51.277Z "
+date: "2023-10-03T22:46:07.046Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest build for <Specialization name="Mesmer"/> in fractals.
 
@@ -84,20 +84,19 @@ Dagger:
 - ranged cleave damage
 
 Sword:
-- burst
-- evade
-- boon rip on your Auto-Attack chain
-- 600 range leap onto a target
+- Auto-Attack chains boon rip
+- <Skill name="Blurred Frenzy"/> as a strong burst/evade
+- <Skill name="Swap"/> to leap at a target at max 600 range
 
 Shield:
-- additional 8 group <Boon name="Might"/>
+- <Skill name="Tides of Time"/> adds 8 group <Boon name="Might"/>
 
 Pistol:
-- highest CC option
+- <Skill name="Magic Bullet"/> is your highest CC option 
 
 Focus:
-- 5 target pull
-- projectile block
+- <Skill name="Temporal Curtain"/> is a 5 target pull
+- <Skill name="Phantasmal Warden"/> mitigates projectiles
 
 
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
@@ -217,7 +216,7 @@ If the boss gets close to phasing, remember that your personal damage skills are
 </GridItem>
 </Grid>
 
-<Divider text="Rotation / Skill usage"/>
+<Divider text="Rotation / Skill usage"/> 
 
 <Grid>
 <GridItem xs="12" sm="6">
