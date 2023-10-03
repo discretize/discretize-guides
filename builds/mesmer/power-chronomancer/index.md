@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T23:04:56.724Z "
+date: "2023-10-03T23:07:22.406Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
@@ -292,11 +292,11 @@ Example with <Skill name="Continuum Split"/>:
 <Grid>
 <GridItem sm="12">
 ### Rotation Adjustments
-The Opener above takes around 15s and <Skill name="Continuum Split"/> has 70s Cooldown with permanent <Boon name="Alacrity"/>. 
+The Opener above takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
 
 Now it is up to you to figure out how many usages you can get at a certain fractal encounter and which phases would even be long enough to recommend using it.
 
-Oftentimes you won't even have access to all the skills that got used in the Opener above, or maybe you still gonna have Cooldown on your Weapon-Swap.
+Oftentimes you won't even have access to all the skills that got used in the opener above, or maybe you still gonna have cooldown on your Weapon-Swap.
 
 Based on that, another approach could be to by-pass phases with low ressources by duplicating the few options you've got.
 
