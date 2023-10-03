@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-03T13:29:07.099Z "
+date: "2023-10-03T13:32:22.918Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
@@ -201,9 +201,9 @@ In order to utilise shade-skills you either place a shade onto your target or st
 23. <Skill name="Manifest Sand Shade"/>
 
 ### Shorter Phases/Exposed
-The Opener/Golem Rotation above is not taking in account <Effect name="Exposed"/> and can be adjust for shorter "burst" windows.
+The Opener/Golem Rotation above is not taking in account <Effect name="Exposed"/> and can be adjusted to shorter "burst" windows.
 
-To do so start on Scepter, eventually utilising a double <Skill name="Blood is Power"/> Opener e.g. at [Dark Ai](/fractals/sunqua-peak/) to ramp up group <Boon name="Might"/> and a early <Skill name="Signet of Spite"/> stacking conditions based on their durations.
+To do so start on Scepter, eventually utilising a double <Skill name="Blood is Power"/> Opener e.g. at [Dark Ai](/fractals/sunqua-peak/) with side CC, to ramp up group <Boon name="Might"/> and a early <Skill name="Signet of Spite"/> stacking conditions based on their durations.
 
 This allows you to delay your Pistol and Torch skills up to right before getting your 10s of <Effect name="Exposed"/>.
 
