@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-03T13:10:22.553Z "
+date: "2023-10-03T13:28:16.772Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
@@ -92,6 +92,12 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Charge" profession="necromancer"t/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
 | <Skill name="Spectral Grasp"/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
 
+### Golem Rotation
+
+<Video youtube="mI7ky1a2-eQ" caption="by Incera"/>
+
+
+
 </GridItem>
 
 <GridItem sm="5">
@@ -100,7 +106,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                             |
 | <Skill name="Signet of Spite" size="big" disableText/>         | Your highest dps option on your third utility slot.|
-| <Skill name="Summon Shadow Fiend" size="big" disableText/>         | An alternative for Signet of the Undead as a minor dps gain.                                                          |
+| <Skill name="Summon Shadow Fiend" size="big" disableText/>         | An alternative for Signet of the Undead as a minor dps gain. Compared to the Signet it does require a target to aquire Life Force.                                       |
 | <Skill name="Plague Signet" size="big" disableText/>    | Used as a dps increase on condition heavy fights such as Kanaxai and during days with <Instability name="Afflicted" />.  |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> that provides an extra 15% Life Force per hit and 150 defiance bar damage per hit, up to five times if you cast it inside a foe with other targets within range.                                                          |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                 |
@@ -193,6 +199,13 @@ In order to utilize shade-skills you either place a shade onto your target or st
 21. <Skill name="Harrowing Wave"/>
 22. <Skill name="Oppressive Collapse"/>
 23. <Skill name="Manifest Sand Shade"/>
+
+### Shorter Phases/Exposed
+The Opener/Golem Rotation above is not taking in account <Effect name="Exposed"/> and can be adjust for shorter "burst" windows.
+
+To do so start on Scepter, eventually utilising a double <Skill name="Blood is Power"/> Opener e.g. at [Dark Ai](/fractals/sunqua-peak/) to ramp up group <Boon name="Might"/> and a early <Skill name="Signet of Spite"/> stacking conditions based on their durations.
+
+This allows you to delay your Pistol and Torch skills up to right before getting your 10s of <Effect name="Exposed"/>.
 
 </GridItem>
 </Grid>
