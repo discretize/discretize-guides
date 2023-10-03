@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T22:56:25.071Z "
+date: "2023-10-03T22:57:27.499Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
@@ -224,7 +224,7 @@ If the boss gets close to phasing, remember that your personal damage skills are
 ### Information
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+It's important to note that Phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
 
@@ -238,13 +238,13 @@ At the Mistlock Singularity
 
 - Blast fire fields with <Skill name="The Prestige"/>.
 - Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
-- Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+- Precast <Skill name="Mimic"/> and take the Singularity when your group is done pre-buffing.
 
 At the boss
 
 - Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
 - As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
-- Depending on the phase length and if cc is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
+- Depending on the phase length and if CC is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
 - Use <Skill name="Unstable Bladestorm"/>.
 
 </GridItem>
