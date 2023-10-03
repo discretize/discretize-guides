@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T23:00:18.925Z "
+date: "2023-10-03T23:01:58.315Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
@@ -114,7 +114,7 @@ Utilise Mirage for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
-### Shatter
+### Shatters
 Even though casting phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
 
 Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many clones as possible, to build up spare uptime.
