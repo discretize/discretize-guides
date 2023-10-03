@@ -4,7 +4,7 @@ hidden: true
 archive: false
 rating: Good
 role: Power Damage
-author: ""
+author: drauskam
 profession: Mesmer
 specialization: Chronomancer
 skills:
@@ -30,6 +30,9 @@ boons:
   - name: Might
     uptime: 25 stacks
     variant: self - on demand
+  - name: Fury
+    uptime: 100%
+    variant: party
 code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
 classification:
@@ -38,7 +41,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T23:07:22.406Z "
+date: "2023-10-03T23:11:29.247Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
