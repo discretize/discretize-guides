@@ -1,24 +1,12 @@
 ---
+title: Condi Scourge
 hidden: false
 archive: false
-author: ""
-specialization: Scourge
-boons:
-  - name: Might
-    uptime: 20 stacks
-    variant: party
-code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-classification:
-  - 2
-  - 3
-  - 4
-  - 2
-  - 3
-date: "2023-09-10T14:13:08.111Z "
-title: Condi Scourge
 rating: Good
 role: Condi Damage
+author: ""
 profession: Necromancer
+specialization: Scourge
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -26,17 +14,29 @@ conditions:
   - name: Bleeding
   - name: Burning
   - name: Poisoned
+boons:
+  - name: Might
+    uptime: 20 stacks
+    variant: party
+code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
+classification:
+  - 2
+  - 3
+  - 4
+  - 2
+  - 3
+date: "2023-10-03T12:46:25.999Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). The build can place lots of  conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial. Additionally it can also corrupt boons when <Instability name="No Pain, No Gain" /> is active and has a large supportive toolkit with lots of CC and utility skills like <Skill name="Corrosive Poison Cloud"/> and <Skill name="Trail of Anguish"/>, which can be invaluable on some T4 Fractals.
  
-<Divider text="Equipment"/>   
+<Divider text="Equipment"/>    
  
 <CharacterWithAr>  
-<Character title="" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":23992,"Armor":2210,"Power":2923,"Precision":1813,"Toughness":1243,"Vitality":1552,"Ferocity":0,"Condition Damage":2835,"Expertise":831,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0.704,"Boon Duration":0.162,"Critical Chance":0.8871428571428572,"Critical Damage":1.5,"Power Coefficient":1459,"Power2 Coefficient":0,"Burning Coefficient":2.89,"Bleeding Coefficient":20.405285714285718,"Poison Coefficient":4,"Torment Coefficient":14.35,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.2,"Torment Duration":0.15,"Effective Power":6593.061383928572,"NonCrit Effective Power":4567.1875,"Power DPS":3703.9955945905995,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":312.16249999999997,"Bleeding Stacks":38.85166400000001,"Bleeding DPS":12128.0325634,"Burning Damage":1019.6346874999999,"Burning Stacks":4.9245600000000005,"Burning DPS":5021.252196675,"Confusion Damage":330.510375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":330.84999999999997,"Poison Stacks":6.816,"Poison DPS":2255.0735999999997,"Torment Damage":620.1706875,"Torment Stacks":26.6049,"Torment DPS":16499.57912386875,"Damage":39607.93307853435,"Effective Health":105517054.72636817,"Survivability":53643.64754772149,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30693,"weapon2MainType":"Pistol","weapon2MainSigil1Id":44944,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":95942,"utilityId":77567,"relicId":100432},"skills":{"healId":21762,"utility1Id":10611,"utility2Id":10544,"utility3Id":"","eliteId":10549},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[2013,816,801],[875,894,905],[2074,2067,2164]],"lines":[39,50,60]}}'>
+<Character title="" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":23992,"Armor":2210,"Power":2923,"Precision":1813,"Toughness":1243,"Vitality":1552,"Ferocity":0,"Condition Damage":2835,"Expertise":831,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Condition Duration":0.704,"Boon Duration":0.162,"Critical Chance":0.8871428571428572,"Critical Damage":1.5,"Power Coefficient":1459,"Power2 Coefficient":0,"Burning Coefficient":2.89,"Bleeding Coefficient":20.405285714285718,"Poison Coefficient":4,"Torment Coefficient":14.35,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.2,"Torment Duration":0.15,"Effective Power":6593.061383928572,"NonCrit Effective Power":4567.1875,"Power DPS":3703.9955945905995,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":312.16249999999997,"Bleeding Stacks":38.85166400000001,"Bleeding DPS":12128.0325634,"Burning Damage":1019.6346874999999,"Burning Stacks":4.9245600000000005,"Burning DPS":5021.252196675,"Confusion Damage":330.510375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":330.84999999999997,"Poison Stacks":6.816,"Poison DPS":2255.0735999999997,"Torment Damage":620.1706875,"Torment Stacks":26.6049,"Torment DPS":16499.57912386875,"Damage":39607.93307853435,"Effective Health":105517054.72636817,"Survivability":53643.64754772149,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30693,"weapon2MainType":"Pistol","weapon2MainSigil1Id":44944,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":95942,"utilityId":77567,"relicId":100153},"skills":{"healId":21762,"utility1Id":10611,"utility2Id":10544,"utility3Id":"","eliteId":10549},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[2013,816,801],[875,894,905],[2074,2067,2164]],"lines":[39,50,60]}}'>
  
-- Alternatives relics that can be played are <Item id="100153"/> or <Item id="100849"/>. 
+- Alternatives relics that can be played are <Item id="100432"/> or <Item id="100849"/>. 
 - Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust gear.
 
 </Character>
@@ -145,12 +145,12 @@ In order to utilize shade-skills you either place a shade onto your target or st
 ### Opener
 
 1. <Skill name="Manifest Sand Shade"/> (ideally precasted)
-2. <Skill name="Plaguelands"/>
-3. <Skill name="Nefarious Favor"/> + <Skill name="Blood is Power"/>
-4. <Skill name="Desert Shroud"/>
-5. <Skill name="Vile Blast"/>
-6. <Skill name="Weeping Shots"/>
-7. Weapon swap
+2. <Skill name="Blood is Power"/>
+   1. during cast <Skill name="Desert Shroud"/> and <Skill name="Nefarious Favor"/>
+3. <Skill name="Plaguelands"/>
+4. <Skill name="Vile Blast"/>
+5. <Skill name="Weeping Shots"/>
+6. Weapon swap
 
 ### Loop
 
@@ -160,12 +160,14 @@ In order to utilize shade-skills you either place a shade onto your target or st
 4. <Skill name="Devouring Darkness"/>
 5. <Skill name="Grasping Dead"/>
 6. Weapon Swap
-7. <Skill name="Vile Blast"/>
-8. <Skill name="Weeping Shots"/>
+7. <Skill name="Weeping Shots"/>
+8. <Skill name="Vile Blast"/>
 9. Filler Skills + Auto Attacks
-10. <Skill name="Weeping Shots"/> 
-11. <Skill name="Vile Blast"/>
-12. Weapon Swap
+10. <Skill name="Weeping Shots"/>
+11. Filler Skills + Auto Attacks
+12. <Skill name="Vile Blast"/>
+13. <Skill name="Weeping Shots"/>
+14. Weapon Swap
 
 
 </GridItem>
@@ -181,10 +183,10 @@ In order to utilize shade-skills you either place a shade onto your target or st
 ### Filler Priority
 18. <Skill name="Manifest Sand Shade"/> (at 0/3 shades)
 19. <Skill name="Plaguelands"/>
-20. <Skill name="Signet of Spite"/>
-21. Finishing your Scepter Attack Chain
-22. <Skill name="Harrowing Wave"/>
-23. <Skill name="Oppressive Collapse"/>
+20. Finishing your Scepter Attack Chain
+21. <Skill name="Harrowing Wave"/>
+22. <Skill name="Oppressive Collapse"/>
+23. <Skill name="Signet of Spite"/>
 24. <Skill name="Manifest Sand Shade"/>
 
 </GridItem>
