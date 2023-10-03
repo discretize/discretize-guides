@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-03T12:47:57.585Z "
+date: "2023-10-03T13:03:55.816Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
@@ -102,7 +102,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Signet of Spite" size="big" disableText/>         | Your highest dps option on your third utility slot.|
 | <Skill name="Summon Shadow Fiend" size="big" disableText/>         | An alternative for Signet of the Undead as a minor dps gain.                                                          |
 | <Skill name="Plague Signet" size="big" disableText/>    | Used as a dps increase on condition heavy fights such as Kanaxai and during days with <Instability name="Afflicted" />.  |
-| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> that provides an extra 15% Life Force per hit and 150 defiance bar damage per hit, up to five times if you cast it inside a mob with other enemies outside.                                                          |
+| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target <Control name="Pull"/> that provides an extra 15% Life Force per hit and 150 defiance bar damage per hit, up to five times if you cast it inside a foe with other targets within range.                                                          |
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                 |
 | <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          ||
 | <Skill name="Sand Flare" size="big" disableText/>         | The alternative heal skill for more personal survivability and shared group barrier.                                                          |
@@ -138,7 +138,7 @@ In order to utilize shade-skills you either place a shade onto your target or st
 
 - You want to combo <Skill name="Blood is Power"/> and <Skill name="Desert Shroud"/> together to take advantage of <Trait name="Plague Sending"/>. Use <Skill name="Desert Shroud"/> as you cast <Skill name="Blood is Power"/> to ensure you transfer the right conditions (the self caused <Condition name="Bleeding"/> and <Condition name="Torment"/> from <Skill name="Blood is Power"/> specifically).
 - <Trait name="Plague Sending"/> has a 6s effect duration after using <Skill name="Desert Shroud"/>, transfering the next conditions you'll get within that window.
-- If your group has three (or more) Scourges, you can all take <Skill name="Summon Bone Minions"/> and replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown).
+- If your group has multiple Scourges, you can all take <Skill name="Summon Bone Minions"/> and <Skill name="Summon Bloodfiend"/> to replace <Skill name="Signet of Undeath"/> with a different utility skill of choice (provided all Scourges use their <Skill name="Putrid Explosion"/> skill off cooldown and <Skill name="Taste of Death"/> during downtimes).
 - If you're using <Skill name="Summon Shadow Fiend"/>, you should use <Skill name="Haunt"/> off cooldown as it has no cast time.
 
 
@@ -180,6 +180,7 @@ In order to utilize shade-skills you either place a shade onto your target or st
 <Card title="Precast (at Singularity)">
 
 - Use any heal skill while having Relic of Vass equipped to apply additional <Condition name="Poisoned" />.
+- Situationally Staff Marks can be precasted as well.
 - Use <Skill name="Desert Shroud"/> right before taking the Mistlock Singularity to pulse conditons for 6s and precast <Trait name="Plague Sending"/> for 6s.
 
 </Card>
@@ -187,11 +188,10 @@ In order to utilize shade-skills you either place a shade onto your target or st
 ### Filler Priority
 18. <Skill name="Manifest Sand Shade"/> (at 0/3 shades)
 19. <Skill name="Plaguelands"/>
-20. Finishing your Scepter Attack Chain
+20. <Skill name="Signet of Spite"/>
 21. <Skill name="Harrowing Wave"/>
 22. <Skill name="Oppressive Collapse"/>
-23. <Skill name="Signet of Spite"/>
-24. <Skill name="Manifest Sand Shade"/>
+23. <Skill name="Manifest Sand Shade"/>
 
 </GridItem>
 </Grid>
