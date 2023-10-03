@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-03T13:32:22.918Z "
+date: "2023-10-03T13:35:01.932Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
@@ -195,9 +195,9 @@ In order to utilise shade-skills you either place a shade onto your target or st
 ### Filler Priority
 18. <Skill name="Manifest Sand Shade"/> (at 0/3 shades)
 19. <Skill name="Plaguelands"/>
-20. <Skill name="Signet of Spite"/>
-21. <Skill name="Harrowing Wave"/>
-22. <Skill name="Oppressive Collapse"/>
+20. <Skill name="Harrowing Wave"/>
+21. <Skill name="Oppressive Collapse"/>
+22. <Skill name="Signet of Spite"/>
 23. <Skill name="Manifest Sand Shade"/>
 
 ### Shorter Phases/Exposed
