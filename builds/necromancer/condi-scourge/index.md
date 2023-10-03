@@ -26,7 +26,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-03T13:03:55.816Z "
+date: "2023-10-03T13:10:22.553Z "
 ---
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
@@ -106,6 +106,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Summon Flesh Golem" size="big" disableText/>     | Can be taken if your group needs additional CC at the cost of a small DPS loss.                                                                                                                                                                                                                                                                                                                                 |
 | <Skill name="Corrupt Boon" size="big" disableText/>           | A strong boon corrupt which can be used to boon rip on days with <Instability name="No Pain, No Gain"/>.                                                                                                                                                                                                                                                                                                          ||
 | <Skill name="Sand Flare" size="big" disableText/>         | The alternative heal skill for more personal survivability and shared group barrier.                                                          |
+| <Skill name="Consume Conditions" size="big" disableText/>         | On condition heavy fights such as Kanaxai during days with <Instability name="Afflicted" />.                                                          |
 | <Skill name="Desiccate" size="big" disableText/>         | Useful to provide permanent <Boon name="Fury"/> and additional 8x <Boon name="Might"/>, as well as personal Life Force.                                                          |
 | <Skill name="Trail of Anguish" size="big" disableText/>       | A go-to stunbreak skill for Scourge, that can also provide some decent conditions if you step in and out of your targets hitbox to proc it multiple times. On T4 fractals with <Instability name="No Pain, No Gain"/> it can provide large amounts of passive barrier from <Trait id="2059"/>.                                                                                                                                                             |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                                                                                                                                                                                        |
