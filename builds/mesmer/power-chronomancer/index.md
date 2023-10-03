@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T23:02:12.904Z "
+date: "2023-10-03T23:04:56.724Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
@@ -117,19 +117,19 @@ Utilise Mirage for skips!
 ### Shatters
 Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
 
-Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many clones as possible, to build up spare uptime.
+Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many Clones as possible, to build up spare uptime.
 
-Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three clones for this one, since it's your main damage shatter.
+Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
 
-As long as that requirement is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
 
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
-The durations depends on the amount of clones spent, but usually two clones are the optimal amount.
+The durations depends on the amount of Clones spent, but usually two Clones are the optimal amount.
 
 Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as often as usual. 
 
-Since your shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
+Since your Shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
 
 </GridItem>
 
@@ -176,7 +176,7 @@ To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/>
 
 If you lose yourself in the rotation follow this priority list:
 
-1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swaping (utilising <Skill name="Signet of the Ether"/>).
+1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swapping (utilising <Skill name="Signet of the Ether"/>).
 
 2.  On Sword <Skill name="Phantasmal Swordsman"/> follows the same principle.
 
