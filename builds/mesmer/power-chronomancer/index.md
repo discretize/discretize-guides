@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-03T21:04:04.758Z "
+date: "2023-10-03T21:07:48.005Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest build for <Specialization name="Mesmer"/> in fractals.
 
@@ -101,6 +101,7 @@ Focus:
 
 
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
+
 ### Situational Traits
 
 <Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
@@ -114,18 +115,22 @@ Utilize Mirage for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
-### Information
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+### Shatter
+Even tho casting phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
 
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many clones as possible, to build up spare uptime.
 
-They do however benefit from <Effect name="Exposed"/>.
+Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three clones for this one, since it's your main damage shatter.
 
-### Golem Rotation
+As long as that requirment is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
 
-<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
+### Continuum Split
+<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
+The durations depends on the amount of clones spent, but usually two clones are the optimal amount.
 
+Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as ofthen as usual. 
 
+Since your shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
 
 </GridItem>
 
@@ -166,8 +171,8 @@ Check out the toolkit below to decide.
 
 <Grid>
 <GridItem sm="7">
-### Skill priority
 
+### Skill priority
 To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as phantasms/wells are our main damage source, but also slower than most skills of other classes.
 
 If you lose yourself in the rotation follow this priority list:
@@ -217,22 +222,16 @@ If the boss gets close to phasing, remember that your personal damage skills are
 <Grid>
 <GridItem xs="12" sm="6">
 
-### Shatter
-Even tho casting phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
+### Information
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
 
-Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many clones as possible, to build up spare uptime.
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
 
-Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three clones for this one, since it's your main damage shatter.
+They do however benefit from <Effect name="Exposed"/>.
 
-As long as that requirment is matched you can freely use any spare clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+### Golem Rotation
 
-### Continuum Split
-<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
-The durations depends on the amount of clones spent, but usually two clones are the optimal amount.
-
-Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as ofthen as usual. 
-
-Since your shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
+<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
 
 
 ### Precasting
