@@ -29,8 +29,13 @@ boons:
     uptime: 50% - on demand if taking Serpent Siphon
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
-classification: []
-date: "2023-10-03T20:57:49.654Z "
+classification:
+  - 3
+  - 2
+  - 3
+  - 2
+  - 3
+date: "2023-10-15T17:07:57.393Z "
 title: Celestial Alac Scourge
 rating: Good
 role: Hybrid
