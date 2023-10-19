@@ -1,8 +1,13 @@
 ---
+title: Celestial Alac Scourge
 hidden: false
 archive: false
+rating: Good
+role: Hybrid
 author: ""
+profession: Necromancer
 specialization: Scourge
+conditions: []
 boons:
   - name: Alacrity
     uptime: 100%
@@ -29,19 +34,14 @@ boons:
     uptime: 50% - on demand if taking Serpent Siphon
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
+cmGuide: ""
 classification:
   - 3
   - 2
   - 3
   - 2
   - 3
-date: "2023-10-15T17:07:57.393Z "
-title: Celestial Alac Scourge
-rating: Good
-role: Hybrid
-profession: Necromancer
-conditions: []
-cmGuide: ""
+date: "2023-10-19T17:19:14.220Z "
 ---
 The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.  
  
@@ -118,7 +118,7 @@ traits3Id="60" traits3="Scourge" traits3SelectedIds="2167, 2123, 2080"/>
 - Dodging will create a <Skill id="13918"/> that will grant <Boon name="Regeneration"/> to yourself and nearby allies when triggered.
 - <Skill name="Well of Blood"/> will grant <Boon name="Regeneration"/> and partially revive downed allies through <Trait name="Ritual of Life"/>.
 - <Skill name="Serpent Siphon"/> will grant <Boon name="Regeneration"/>, <Boon name="Aegis"/>, barrier and <Boon name="Alacrity"/>.
-- If you need more boon strip for <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/>, replace <Item name="Torment" type="Sigil"/> for <Item name="Absorption" type="Sigil"/>, <Skill name="Vile Blast"/>, <Skill name="Oppressive Collapse"/>, <Skill name="Garish Pillar"/>, <Skill name="Wail of Doom"/> and any other hard CC or <Condition name="Fear"/> skill you slot will trigger it.
+- If you need more boon strip for <Instability name="No Pain, No Gain"/> or <Instability name="Vengeance"/>, replace <Item name="Demons" type="Sigil"/> for <Item name="Absorption" type="Sigil"/>, <Skill name="Vile Blast"/>, <Skill name="Oppressive Collapse"/>, <Skill name="Garish Pillar"/>, <Skill name="Wail of Doom"/> and any other hard CC or <Condition name="Fear"/> skill you slot will trigger it.
 - Only swap to <Item affix="Celestial" type="Warhorn" text="Warhorn"/> if you need the CC from <Skill name="Wail of Doom"/> or <Boon name="Swiftness"/> from <Skill name="Locust Swarm"/>.
 
 ### Shade Skills
