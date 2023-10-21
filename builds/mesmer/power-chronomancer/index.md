@@ -28,7 +28,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-21T15:46:45.861Z "
+date: "2023-10-21T15:54:05.818Z "
 title: Power Alac Chronomancer
 rating: Good
 role: Power Damage
@@ -48,7 +48,7 @@ cmGuide: ""
  It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 up to 16 <Boon name="Might"/>. 
  
  Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
- 
+  
 To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
 
 You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
@@ -81,27 +81,33 @@ Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust 
 
 Always play Greatsword main-hand.
 
-Dagger:
-
+<Grid>
+<GridItem sm="6">
+#### Main-hand
+**Dagger:**
 - strongest raw dps output
 - ranged cleave damage
 
-Sword:
+**Sword:**
 - Auto-Attack chains boon rip
 - <Skill name="Blurred Frenzy"/> as a strong burst/evade
 - <Skill name="Swap"/> to leap at a target at max 600 range
 
-Shield:
+</GridItem>
+<GridItem sm="6">
+#### Off-hand
+**Shield:**
 - <Skill name="Tides of Time"/> adds 8 group <Boon name="Might"/>
 
-Pistol:
+**Pistol:**
 - <Skill name="Magic Bullet"/> is your highest CC option 
 
-Focus:
+**Focus:**
 - <Skill name="Temporal Curtain"/> is a 5 target pull
 - <Skill name="Phantasmal Warden"/> mitigates projectiles
 
-
+</GridItem>
+</Grid>
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
 
 ### Situational Traits
@@ -113,26 +119,25 @@ You can go play Illusions over Domination when you're facing <Boon name="Quickne
 <Trait name="All's Well That Ends Well"/> can be taken for additional group sustain.
 
 
-Utilise Mirage for skips!
+Utilise <Specialization name="Mirage"/> for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
-### Shatters
-Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
-
-Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many Clones as possible, to build up spare uptime.
-
-Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
-
-As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
-
-### Continuum Split
-<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
-The durations depends on the amount of Clones spent, but usually two Clones are the optimal amount.
-
-Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as often as usual. 
-
-Since your Shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
+### Defiance Bar Damage
+|                                      |                      |
+| ----------------------------------   | -------------------- |
+| <Skill name="Time Sink"/>            | 100-400 damage       |
+| <Skill name="Counter Blade"/>        | 200 damage           |
+| <Skill name="Gravity Well"/>         | 550 damage within 3s |
+| <Skill name="Signet of Humility"/>   | 600 damage           |
+| <Skill name="Illusionary Wave"/>     | 150 damage           |
+| <Skill name="Tides of Time"/>        | 2x 100 damage        |
+| <Skill name="Magic Bullet"/>         | 250 damage           |
+| <Skill name="Into the Void"/>        | 150 damage           |
+| <Condition name="Slow"/>             | 50 damage per second |
+| <Skill name="Well of Senility"/>     | 300 damage after 3s  |
+| <Skill name="Signet of Domination"/> | 300 damage           |
+| <Skill name="Mantra of Distraction"/>| 150 damage per cast  |
 
 </GridItem>
 
@@ -199,22 +204,22 @@ If the boss gets close to phasing, remember that your personal damage skills are
 
 </GridItem>
 <GridItem sm="5">
+### Shatters
+Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
 
-### Defiance Bar Damage
-|                                      |                      |
-| ----------------------------------   | -------------------- |
-| <Skill name="Time Sink"/>            | 100-400 damage       |
-| <Skill name="Counter Blade"/>        | 200 damage           |
-| <Skill name="Gravity Well"/>         | 550 damage within 3s |
-| <Skill name="Signet of Humility"/>   | 600 damage           |
-| <Skill name="Illusionary Wave"/>     | 150 damage           |
-| <Skill name="Tides of Time"/>        | 2x 100 damage        |
-| <Skill name="Magic Bullet"/>         | 250 damage           |
-| <Skill name="Into the Void"/>        | 150 damage           |
-| <Condition name="Slow"/>             | 50 damage per second |
-| <Skill name="Well of Senility"/>     | 300 damage after 3s  |
-| <Skill name="Signet of Domination"/> | 300 damage           |
-| <Skill name="Mantra of Distraction"/>| 150 damage per cast  |
+Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many Clones as possible, to build up spare uptime.
+
+Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
+
+As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+
+### Continuum Split
+<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
+The durations depends on the amount of Clones spent, but usually two Clones are the optimal amount.
+
+Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as often as usual. 
+
+Since your Shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
 
 </GridItem>
 </Grid>
@@ -230,29 +235,6 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 It's important to note that Phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
-
-### Golem Rotation
-
-<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
-
-
-### Precasting
-At the Mistlock Singularity
-
-- Blast fire fields with <Skill name="The Prestige"/>.
-- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
-- Precast <Skill name="Mimic"/> and take the Singularity when your group is done pre-buffing.
-
-At the boss
-
-- Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
-- As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
-- Depending on the phase length and if CC is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
-- Use <Skill name="Unstable Bladestorm"/>.
-
-</GridItem>
-
-<GridItem xs="12" sm="6">
 
 ### Opener
 Example with <Skill name="Continuum Split"/>:
@@ -290,12 +272,29 @@ Example with <Skill name="Continuum Split"/>:
 2. remaining stacks of <Skill name="Mantra of Pain"/> 
 
 </GridItem>
-</Grid>
 
-<Grid>
-<GridItem sm="12">
+<GridItem xs="12" sm="6">
+<Card title="Precasting">
+At the Mistlock Singularity
+
+- Blast fire fields with <Skill name="The Prestige"/>.
+- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
+- Precast <Skill name="Mimic"/> and take the Singularity when your group is done pre-buffing.
+
+At the boss
+
+- Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
+- As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
+- Depending on the phase length and if CC is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
+- Use <Skill name="Unstable Bladestorm"/>.
+
+</Card>
+### Golem Rotation
+
+<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
+
 ### Rotation Adjustments
-The Opener above takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
+The Opener takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
 
 Now it is up to you to figure out how many usages you can get at a certain fractal encounter and which phases would even be long enough to recommend using it.
 
@@ -304,6 +303,5 @@ Oftentimes you won't even have access to all the skills that got used in the ope
 Based on that, another approach could be to by-pass phases with low ressources by duplicating the few options you've got.
 
 Otherwise double-casting Wells only makes sense at 9s+. Therefor you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
-
 </GridItem>
 </Grid>
