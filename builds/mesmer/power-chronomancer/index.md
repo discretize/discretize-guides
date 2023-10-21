@@ -1,11 +1,7 @@
 ---
-title: Power Alac Chronomancer
-hidden: true
+hidden: false
 archive: false
-rating: Good
-role: Power Damage
 author: drauskam
-profession: Mesmer
 specialization: Chronomancer
 skills:
   - 10311
@@ -15,14 +11,6 @@ traits:
   - 2020
   - 2018
   - 853
-conditions:
-  - name: Vulnerability
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
-  - name: Slow
 boons:
   - name: Quickness
     uptime: 100%
@@ -34,14 +22,26 @@ boons:
     uptime: 100%
     variant: party
 code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: "2023-10-03T23:11:29.247Z "
+date: "2023-10-21T15:46:45.861Z "
+title: Power Alac Chronomancer
+rating: Good
+role: Power Damage
+profession: Mesmer
+conditions:
+  - name: Vulnerability
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
+  - name: Slow
+cmGuide: ""
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
 
