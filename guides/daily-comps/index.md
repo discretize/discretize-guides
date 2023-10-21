@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2023-09-09T17:09:04.830Z "
+date: "2023-10-21T17:02:50.758Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -27,15 +27,14 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | <Specialization name="Soulbeast" disableText/><Specialization name="Weaver" disableText/> <Specialization name="Dragonhunter" disableText/><Specialization name="Bladesworn" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's extra CC from <BuildLink build="Power Bladesworn"  specialization="Bladesworn"/> or faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/>, or the high burst and late fight damage from <BuildLink build="Power Weaver" specialization="Weaver"/>. Most builds will work well in this slot, providing they can cover the small amount of CC that is missing on the CC heavy encounters (MAMA and Artsariiv). |
 
 </Card>
-
+ 
 <Card title="Sunqua Peak CM and Silent Surf CM">
 
 |                                                                                           |                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of condi alac. This class provides permanent <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
-| <Specialization name="Scourge" disableText/>  | Two or Three <BuildLink build="Condi Scourge"  specialization="Scourge"/> is the current king of DPS. It has access to massive CC from <Skill name="spectralgrasp" /> and nothing else comes close to competing with its DPS        |
 | <Specialization name="Scrapper" disableText/><Specialization name="Harbinger" disableText/>       | Both <BuildLink build="Power Scrapper"  specialization="Scrapper"/> and <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> are solid <Boon name="Quickness"/> picks. <BuildLink build="Power Scrapper"  specialization="Scrapper"/> is a great pick for CC and good damage, especially when reflecting Ai's Focused Wrath attack.  It also contributes <Condition name="Vulnerability"/> uptime, <Boon name="Might"/>, and some <Effect name="Superspeed"/>. <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> provides higher DPS in the fastest runs where there is not enough movement for Scrapper's reflect to pull ahead. On [Kanaxai CM](/fractals/silent-surf), <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is a fairly large improvement no matter the kill time.                                                          |
-| <Specialization name="Specter" disableText/>                                            | For the last dps spot, <BuildLink build="Condi Specter"  specialization="Specter"/> can replace a Scourge as a pure DPS pick. Care needs to be taken to not overlap venoms with the Alac Specter. This pick is fairly even with a <BuildLink build="Condi Scourge"  specialization="Scourge"/> on [Dark Ai](/fractals/sunqua-peak) but not nearly as good on [Kanaxai CM](/fractals/silent-surf). |
+| <Specialization name="Druid" disableText/><Specialization name="Soulbeast" disableText/><Specialization name="Harbinger" disableText/><Specialization name="Scourge" disableText/><Specialization name="Specter" disableText/><Specialization name="Holosmith" disableText/>                                            | For the dps spots a range of builds can be effective depending on the encounter and team comp. Make sure to consider things like CC requirements, <Condition name="Vulnerability"/> uptime, and team support when selecting a build.  |
 
 </Card>
 
