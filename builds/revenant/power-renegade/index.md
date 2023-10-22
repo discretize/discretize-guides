@@ -9,14 +9,14 @@ boons:
   - name: Might
     uptime: 10 stacks
     variant: party
-code: "[&DQkDLg8qPz3cEdwRKxIGEgYSKxLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2023-09-10T15:53:37.058Z "
+date: "2023-10-22T15:53:37.058Z "
 title: Power Alac Renegade
 rating: Meta
 role: Power Damage
