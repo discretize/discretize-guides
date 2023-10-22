@@ -4,14 +4,14 @@ archive: false
 hasBeginner: true
 specialization: Virtuoso
 boons: []
-code: "[&DQcBHQoZQjojDyMPjwGPAd0aawFpAWkB7RK8AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQcBHQoZQjojDyMP3RqPAY8B3RppAWkB7RIAAAAAAAAAAAAAAAAAAAAAAAADLwAxAFoAAA==]"
 classification:
   - 3
   - 4
   - 3
   - 3
   - 4
-date: "2023-09-10T14:12:08.114Z "
+date: "2023-10-10T14:12:08.114Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage

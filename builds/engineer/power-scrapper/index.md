@@ -9,14 +9,14 @@ boons:
   - name: Might
     uptime: 13 stacks
     variant: party
-code: "[&DQMGNyYvKy3ZEtkShgAnE64SBwEnE64S+RKDEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQMGOyYvKy3ZEtkShgCGACYBJgEnEycTgxKDEgAAAAAAAAAAAAAAAAAAAAACMwBXAAA=]"
 classification:
   - 4
   - 3
   - 3
   - 2
   - 4
-date: "2023-09-10T12:15:59.048Z "
+date: "2023-10-10T12:15:59.048Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage

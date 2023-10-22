@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 specialization: Catalyst
 boons:
   - name: Might
@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2023-06-28T18:02:40.318Z "
+date: "2023-10-15T17:26:52.659Z "
 title: Power Catalyst
 rating: Good
 role: Power Damage

@@ -20,14 +20,14 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: party
-code: "[&DQEQGi4fPjZLFwAAehYAAEwBTAFIAUgBiRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQGi4fPiVLF0sXehZ6FkwBTAEWAUgBiRIYFgAAAAAAAAAAAAAAAAAAAAACBQBmAAA=]"
 classification:
   - 5
   - 4
   - 5
   - 2
   - 3
-date: "2023-09-13T22:15:23.915Z "
+date: "2023-10-13T22:15:23.915Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
