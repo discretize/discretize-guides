@@ -20,14 +20,14 @@ boons:
   - name: Regeneration
     uptime: 50%
     variant: (using Quickness variant)
-code: "[&DQgnNjI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQgnNTI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 4
   - 4
   - 3
   - 4
-date: "2023-05-03T09:53:12.780Z "
+date: "2023-10-22T09:53:12.780Z "
 title: Condi (Quick) Harbinger
 rating: Good
 role: Condi Damage
