@@ -3,14 +3,14 @@ hidden: false
 archive: false
 hasBeginner: false
 specialization: Soulbeast
-code: "[&DQQgPx49Nyp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
+code: "[&DQQeOSA+Nzp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
   - 5
   - 5
   - 3
   - 3
   - 4
-date: "2023-09-15T09:00:22.160Z "
+date: "2023-10-22T09:00:22.160Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
