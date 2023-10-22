@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Daredevil
-code: "[&DQUcPSMbBzmUEoUAVAEvATMBVwGwEjMBDgEOAQAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQUcPSMbBzmUEgAAVAEAADMBAACwEgAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 3
   - 2
   - 2
   - 4
-date: "2023-09-10T16:07:46.578Z "
+date: "2023-10-22T16:07:46.578Z "
 title: Power Daredevil
 rating: Other
 role: Power Damage
