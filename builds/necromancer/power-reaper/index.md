@@ -4,14 +4,14 @@ archive: false
 hasBeginner: false
 author: ""
 specialization: Reaper
-code: "[&DQg1KTIlIjYoDygPgQCBAEABQAF1AXUBegGVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQg1KTIlIjabACgPgQCBAEABQAHxEnUBlQCVAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
   - 3
   - 4
   - 2
   - 3
-date: "2023-09-10T16:28:04.163Z "
+date: "2023-10-22T16:28:04.163Z "
 title: Power Reaper
 role: Power Damage
 profession: Necromancer
