@@ -20,8 +20,8 @@ compositions: null
 hidden: false
 hasBeginner: true
 specialization: Specter
-code: "[&DQUcGywfRxcMAQAACwEAAC8BAAA+AQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2023-09-10T16:06:35.399Z "
+code: "[&DQUcGywfRxUVGwAACwEAAD4BAAAvAQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
+date: "2023-10-22T16:06:35.399Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
