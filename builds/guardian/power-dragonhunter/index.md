@@ -4,14 +4,14 @@ archive: false
 hasBeginner: true
 specialization: Dragonhunter
 boons: []
-code: "[&DQEQLio6GzkmDwAAihIAAEgBTAH+ABYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQPyo6GzkmDyYPihJIAUgBLQH+ALkBtRI3AQAAAAAAAAAAAAAAAAAAAAACMgAjAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 4
-date: "2023-10-03T20:59:28.119Z "
+date: "2023-10-13T20:59:28.119Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
