@@ -15,14 +15,14 @@ boons:
   - name: Aegis
     uptime: on demand
     variant: group
-code: "[&DQEQGjEvPj5LFwAAehYAAAAATAEWARYBiRI3AQAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQGjEvPiZLF0sXehZ6FkwBTAEWARUXGBYYFgAAAAAAAAAAAAAAAAAAAAACBQBmAAA=]"
 classification:
   - 4
   - 3
   - 4
   - 3
   - 4
-date: "2023-09-17T12:34:52.295Z "
+date: "2023-10-17T12:34:52.295Z "
 title: Celestial Firebrand
 role: Hybrid
 cmGuide: ""
