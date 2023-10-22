@@ -12,15 +12,15 @@ traits:
   - 2018
   - 853
 boons:
-  - name: Quickness
+  - name: Alacrity
     uptime: 100%
-    variant: self - on demand
+    variant: Party
   - name: Might
-    uptime: 25 stacks
-    variant: self - on demand
+    uptime: 8-16 stacks
+    variant: Party
   - name: Fury
     uptime: 100%
-    variant: party
+    variant: Party
 code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 2

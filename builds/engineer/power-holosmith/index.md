@@ -2,14 +2,14 @@
 hidden: false
 archive: false
 specialization: Holosmith
-code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQMmLwY7OSsqDwAAhgAAACYBAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAACMwBXAAA=]"
 classification:
   - 2
   - 4
   - 4
   - 3
   - 4
-date: "2023-09-15T09:01:08.805Z "
+date: "2023-10-15T09:01:08.805Z "
 title: Power Holosmith
 rating: Good
 role: Power Damage

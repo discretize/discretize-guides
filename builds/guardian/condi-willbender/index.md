@@ -8,14 +8,14 @@ boons:
   - name: Might
     uptime: 2 stacks
     variant: party
-code: "[&DQEQGi4XQSUmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQEQGi4XQSXjGgAA2BoAAEwBTAExAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAACBQBmAAA=]"
 classification:
   - 3
   - 4
   - 3
   - 2
   - 3
-date: "2023-09-13T22:19:00.613Z "
+date: "2023-10-13T22:19:00.613Z "
 title: Condi Willbender
 rating: Good
 role: Condi Damage

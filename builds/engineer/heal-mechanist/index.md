@@ -23,14 +23,14 @@ boons:
   - name: Protection
     variant: Party
     uptime: 100%
-code: "[&DQMvOR0nRiqEAAAAiAAAAJUBAAALGwAACRsAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQMvOR0fRioAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 2
   - 2
   - 1
   - 2
-date: "2023-09-10T13:52:23.488Z "
+date: "2023-10-10T13:52:23.488Z "
 title: Heal Alacrity Mechanist
 rating: Good
 role: Support
