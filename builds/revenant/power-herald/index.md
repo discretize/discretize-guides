@@ -21,14 +21,14 @@ boons:
   - name: Regeneration
     uptime: 100%
     variant: party
-code: "[&DQkDNg8qNCXcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
+code: "[&DQkDNg8qNBbcEQAABhIAACsSAADUEQAAyhEAAAECAADUESsSBhIAAAAAAAA=]"
 classification:
   - 3
   - 2
   - 4
   - 1
   - 3
-date: "2023-10-21T16:11:13.171Z "
+date: "2023-10-22T11:19:48.969Z "
 title: Power Quick Herald
 rating: Meta
 role: Power Damage

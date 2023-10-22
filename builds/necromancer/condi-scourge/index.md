@@ -1,12 +1,24 @@
 ---
-title: Condi Scourge
 hidden: false
 archive: false
+author: ""
+specialization: Scourge
+boons:
+  - name: Might
+    uptime: 20 stacks
+    variant: party
+code: "[&DQgnNjI1PCooDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+classification:
+  - 2
+  - 3
+  - 4
+  - 2
+  - 3
+date: "2023-10-22T14:13:08.111Z "
+title: Condi Scourge
 rating: Good
 role: Condi Damage
-author: ""
 profession: Necromancer
-specialization: Scourge
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -14,20 +26,9 @@ conditions:
   - name: Bleeding
   - name: Burning
   - name: Poisoned
-boons:
-  - name: Might
-    uptime: 20 stacks
-    variant: party
-code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 cmGuide: ""
-classification:
-  - 2
-  - 3
-  - 4
-  - 2
-  - 3
-date: "2023-10-03T13:35:01.932Z "
 ---
+
   
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
 

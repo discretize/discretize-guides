@@ -11,14 +11,14 @@ boons:
   - name: Might
     uptime: "8 Stacks "
     variant: Party (Using Empower Allies)
-code: "[&DQIEHwsVRCumAAAA8hoAAP0aCgAAAKIB/BqcAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQIEHws1RCunAAAA8hoAAP0aAADwGgAA/BoAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 4
   - 5
   - 3
   - 3
   - 4
-date: "2023-09-10T16:08:47.294Z "
+date: "2023-10-22T16:08:47.294Z "
 title: Power Bladesworn
 rating: Good
 role: Power Damage
