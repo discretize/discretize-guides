@@ -7,14 +7,14 @@ boons:
   - name: Might
     uptime: 20 stacks
     variant: party
-code: "[&DQgnNjI1PCYoDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQgnNjI1PCooDwAAbwEAAIAAAAAAAAAAkgAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 2
   - 3
   - 4
   - 2
   - 3
-date: "2023-09-10T14:13:08.111Z "
+date: "2023-10-22T14:13:08.111Z "
 title: Condi Scourge
 rating: Good
 role: Condi Damage
