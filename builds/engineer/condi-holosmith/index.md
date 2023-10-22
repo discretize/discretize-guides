@@ -2,7 +2,7 @@
 hidden: false
 archive: false
 specialization: Holosmith
-code: "[&DQMmLwY7OSsqDwAAhgAAAKMAAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQMGJyY5OTcqDyoPhgCGAAcBBwGTAQAA8BWJAQAAAAAAAAAAAAAAAAAAAAACMwBXAAA=]"
 classification:
   - 2
   - 4
