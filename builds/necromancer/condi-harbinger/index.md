@@ -1,9 +1,20 @@
 ---
+title: Condi (Quick) Harbinger
 hidden: false
 archive: false
 hasBeginner: false
+rating: Good
+role: Condi Damage
+profession: Necromancer
 specialization: Harbinger
 traits: []
+conditions:
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Torment
+  - name: Bleeding
+  - name: Poisoned
+  - name: Burning
 boons:
   - name: Quickness
     uptime: 100%
@@ -20,25 +31,14 @@ boons:
   - name: Regeneration
     uptime: 50%
     variant: (using Quickness variant)
-code: "[&DQgnNTI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQgnNTI1QD/nGhIAdQFvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAADMgAvADEAAA==]"
 classification:
   - 3
   - 4
   - 4
   - 3
   - 4
-date: "2023-10-22T09:53:12.780Z "
-title: Condi (Quick) Harbinger
-rating: Good
-role: Condi Damage
-profession: Necromancer
-conditions:
-  - name: Vulnerability
-    uptime: 20 stacks
-  - name: Torment
-  - name: Bleeding
-  - name: Poisoned
-  - name: Burning
+date: "2023-10-28T21:25:24.193Z "
 ---
  
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
