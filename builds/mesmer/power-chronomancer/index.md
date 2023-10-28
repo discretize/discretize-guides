@@ -33,12 +33,12 @@ boons:
 code: "[&DQcKGQEdKB4jDwAABBMAAI8BAADPEgAA7RIAAAAAAAAAAAAAAAAAAAAAAAADLwBXADIAAA==]"
 cmGuide: ""
 classification:
-  - 2
+  - 4
   - 4
   - 4
   - 3
   - 4
-date: "2023-10-28T21:12:42.833Z "
+date: "2023-10-28T21:15:04.193Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
  
