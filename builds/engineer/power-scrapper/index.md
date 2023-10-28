@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-10-10T12:15:59.048Z "
+date: "2023-10-28T14:06:00.296Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -32,7 +32,7 @@ It offers:
 - High initial burst and strong sustained damage
 - A large amount of crowd control
 - Group support with high <Condition name="Vulnerability"/> uptime, around 13 stacks of <Boon name="Might"/> and some <Boon name="Protection"/>.
-- The ability to boonstrip with <Skill name="Detonate Mine Field"/> when running <Skill name="Throw Mine"/>
+- The ability to boonstrip with <Skill name="Detonate"/> when running <Skill name="Throw Mine"/> 
 - An incredible skill set for various skips in Tier 4 fractals due to access to <Effect name="Stealth"/>, as well as <Effect name="Superspeed"/> and a targeted leap with <Skill name="Jump Shot"/>
 
 The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
