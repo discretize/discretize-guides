@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: '2023-04-04T00:23:43.159Z'
+date: "2023-11-16T15:17:16.986Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -13,11 +13,12 @@ disableBosses:
 This guide is currently a work in progress. The information shown here is correct and notes for each boss are planned to be added at a later date!
 </Warning>
 
-<Boss name="mama" video="90pdA_RXrZg" videoCreator="Hyp" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Force" weapon2MainInfusion1Id="37131">
+<Boss name="mama" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Frenzy" weapon2MainInfusion1Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle.
+- Pet: <Skill id="43636" disableText/> Rock Gazelle for <Skill id="45743"/> at every Knight.
 - Take <Trait name="Oppressive Superiority"/>.
-- Use <Skill name="OneWolfPack"/> when you return to MAMA in phase 2. The reason for this is because in phase 1 and 4 you have the damage modifier from <Effect name="Exposed"/>, so compensating with <Skill name="OneWolfPack"/> can help the team phase MAMA faster here.
+- Play with <Skill name="Unleashed Overbearing Smash"/> and <Skill name="Unleashed Thump"/>.
+- Use <Skill name="OneWolfPack"/> in the boss phase where your group lacks damage.
 
 </Boss>
 
@@ -48,18 +49,21 @@ This guide is currently a work in progress. The information shown here is correc
 <InformationBlock title="Overview">
 
 </InformationBlock>
+Precast your <Skill name="Barrage"/> towards Knight 1.
+Be careful to not hit the invisible hitbox and get in combat early.
+Swap to your Hammer set and place down <Skill name="Frost Trap"/> right before MAMA becomes vulnerable.
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
+1. Precast <Skill name="Barrage"/> (Longbow 5)
 2. <Skill name="Frost Trap"/>
 3. <Skill name="Sic Em"/>
-4. <Skill name="Point Blank Shot"/> (Longbow 4)
-5. _Weapon Swap_
-6. <Skill name="Path of Scars"/> (Axe 4)
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Worldly Impact"/> (F3)
+4. <Skill name="Unleashed Savage Shockwave"/> (Hammer 4)
+5. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+6. _Weapon Swap_
+7. <Skill name="Path of Scars"/> (Axe 4)
+8. <Skill name="Serpent's Strike"/> (Sword 3)
+9. <Skill name="Pounce"/> (Sword 2)
 
 </IdealRotation>
 </Phase>
@@ -73,8 +77,7 @@ This guide is currently a work in progress. The information shown here is correc
 <IdealRotation>
 
 1. <Skill id="45743"/> (F2)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. <Skill id="41524"/> (F1)
+2. <Skill name="Whirling Defense"/> (Axe 5)
 
 </IdealRotation>
 </Phase>
@@ -87,13 +90,12 @@ This guide is currently a work in progress. The information shown here is correc
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="One Wolf Pack"/>
-2.  <Skill name="Splitblade"/> (Axe 2)
-3.  <Skill name="Whirling Defense"/> (Axe 5)
+1.  <Skill name="Pounce"/> (Sword 2)
+2.  <Skill name="Serpent's Strike"/> (Sword 3)
+3.  <Skill name="Worldly Impact"/> (F3)
 4.  <Skill name="Path of Scars"/> (Axe 4)
-5.  <Skill name="Winters Bite"/> (Axe 3)
-6.  <Skill name="Splitblade"/> (Axe 2)
-7.  _Weapon Swap_
+5.  _Weapon Swap_
+6.  <Skill name="Unleashed Wild Swing"/> (Hammer 2)
 
 </IdealRotation>
 </Phase>
@@ -107,8 +109,8 @@ This guide is currently a work in progress. The information shown here is correc
 <IdealRotation>
 
 1. <Skill id="45743"/> (F2)
-2. <Skill name="Rapid Fire"/> (Longbow 2)
-3. <Skill name="Barrage"/> (Longbow 5)
+2. <Skill id="41524"/> (F1)
+3. <Skill name="Unleashed Overbearing Smash"/> (Hammer 3)
 
 </IdealRotation>
 </Phase>
@@ -121,14 +123,15 @@ This guide is currently a work in progress. The information shown here is correc
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Sic Em"/>
-2.  <Skill name="Frost Trap"/>
-3.  <Skill name="Point Blank Shot"/> (Longbow 4)
-4.  _Weapon Swap_
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  <Skill name="Winters Bite"/> (Axe 3)
-7.  <Skill name="Path of Scars"/> (Axe 4)
-8.  <Skill name="Worldly Impact"/> (F3)
+1. <Skill name="Unleashed Thump"/> (Hammer 5)
+2. <Skill name="Sic Em"/>
+3. <Skill name="Frost Trap"/>
+4. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+5. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+6. _Weapon Swap_
+7. <Skill name="Path of Scars"/> (Axe 4)
+8. <Skill name="Serpent's Strike"/> (Sword 3)
+9. <Skill name="Pounce"/> (Sword 2)
 
 </IdealRotation>
 </Phase>
@@ -142,8 +145,7 @@ This guide is currently a work in progress. The information shown here is correc
 <IdealRotation>
 
 1. <Skill id="45743"/> (F2)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. <Skill id="41524"/> (F1)
+2. <Skill name="Whirling Defense"/> (Axe 5)
 
 </IdealRotation>
 </Phase>
@@ -156,21 +158,22 @@ This guide is currently a work in progress. The information shown here is correc
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Splitblade"/> (Axe 2)
-2.  <Skill name="Winters Bite"/> (Axe 3)
-3.  <Skill name="Path of Scars"/> (Axe 4)
-4.  <Skill name="Whirling Defense"/> (Axe 5)
-5.  <Skill name="Splitblade"/> (Axe 2)
-6.  _Weapon Swap_
-7.  <Skill name="Rapid Fire"/> (Longbow 2)
+1.  <Skill name="Path of Scars"/> (Axe 4)
+2.  <Skill name="Serpent's Strike"/> (Sword 3)
+3.  <Skill name="Pounce"/> (Sword 2)
+4.  _Weapon Swap_
+5.  <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+5.  <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+5.  <Skill name="Unleashed Overbearing Smash"/> (Hammer 3)
 
 </IdealRotation>
 </Phase>
 
-<Boss name="siax" video="vznqacW_-mU" videoCreator="Jetrell" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
+<Boss name="siax" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Serpentslaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
 
 - Pet: <Skill id="44617" disableText/> Red Moa
 - Take <Trait name="Oppressive Superiority"/>.
+- Play with <Skill name="Unleashed Overbearing Smash"/> and <Skill name="Thump"/>.
 - Remember to use <Item id="24658"/> for this encounter!
 
 </Boss>
@@ -186,13 +189,13 @@ This guide is currently a work in progress. The information shown here is correc
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="Bonfire"/> (Torch 5)
-2.  <Skill name="Call of the Wild"/> (Warhorn 5)
-3.  <Skill name="Worldly Impact"/> (F3)
-4.  <Skill name="We Heal As One"/>
-5.  <Skill name="One Wolf Pack"/>
-6.  Take _Mistlock Singularity_
-7.  <Skill name="Call of the Wild"/> (Warhorn 5)
+1. <Skill name="Bonfire"/> (Torch 5)
+2. <Skill name="Call of the Wild"/> (Warhorn 5)
+3. <Skill name="Worldly Impact"/> (F3)
+4. <Skill name="We Heal As One"/>
+5. <Skill name="One Wolf Pack"/>
+6. Take _Mistlock Singularity_
+7. <Skill name="Call of the Wild"/> (Warhorn 5)
 
 </IdealRotation>
 </Phase>
@@ -200,20 +203,17 @@ This guide is currently a work in progress. The information shown here is correc
 <Phase>
 <CMInformation title="Phase 1">
 <InformationBlock title="Overview">
-If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Scars"/> untill after <Skill name="Winters Bite"/>.
+Place <Skill name="Frost Trap"/> as soon as you get in combat and follow up with <Skill name="Unleashed Savage Shock Wave"/> immediately.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Barrage"/> (Longbow 5)
-2. _Weapon Swap_
-3. <Skill name="Frost Trap"/>
-4. <Skill name="Path of Scars"/> (Axe 4)
-5. <Skill name="Sic Em"/>
-6. <Skill name="Splitblade"/> (Axe 2)
-7. <Skill name="Winters Bite"/> (Axe 3)
-8. <Skill name="Worldly Impact"/> (F3)
-9. <Skill name="Frenzied Attack"/> (F2)
+1. Precast <Skill name="Barrage"/> (Longbow 5)
+2. <Skill name="Frost Trap"/>
+3. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+4. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+5. _Weapon Swap_
+6. <Skill name="Path of Scars"/> (Axe 4)
 
 </IdealRotation>
 </Phase>
@@ -227,6 +227,7 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 <IdealRotation>
 
 1. <Skill name="Splitblade"/> (Axe 2)
+2. <Skill name="Winter's Bite"/> (Axe 3)
 2. <Skill name="Ricochet"/> (Axe 1)
 
 </IdealRotation>
@@ -240,14 +241,13 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1.  <Skill name="One Wolf Pack"/>
-2.  <Skill name="Splitblade"/> (Axe 2)
-3.  <Skill name="Winters Bite"/> (Axe 3)
-4.  <Skill name="Path of Scars"/> (Axe 4)
-5.  <Skill name="Whirling Defense"/> (Axe 5)
-6.  <Skill name="Splitblade"/> (Axe 2)
-7.  _Weapon Swap_
-8.  <Skill name="Frenzied Attack"/> (F2)
+1. <Skill name="One Wolf Pack"/>
+2. <Skill name="Splitblade"/> (Axe 2)
+3. <Skill name="Path of Scars"/> (Axe 4)
+4. <Skill name="Whirling Defense"/> (Axe 5)
+5. <Skill name="Splitblade"/> (Axe 2)
+7. _Weapon Swap_
+8. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
 
 </IdealRotation>
 </Phase>
@@ -260,7 +260,7 @@ If you precast <Skill name="Spike Trap"/> you can delay <Skill name="Path of Sca
 </CMInformation>
 <IdealRotation>
 
-1. <Skill name="Point Blank Shot"/> (Longbow 4)
+1. <Skill name="Thump"/> (Longbow 4)
 2. <Skill name="Rapid Fire"/> (Longbow 2)
 
 </IdealRotation>
