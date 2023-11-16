@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-11-16T18:23:44.816Z "
+date: "2023-11-16T18:29:35.809Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -18,14 +18,14 @@ This guide is currently a work in progress. The information shown here is correc
 - Pet: <Skill id="43636" disableText/> Rock Gazelle for <Skill id="45743"/> at every Knight.
 - Take <Trait name="Oppressive Superiority"/>.
 - Play with <Skill name="Unleashed Overbearing Smash"/> and <Skill name="Unleashed Thump"/>.
-- Use <Skill name="OneWolfPack"/> in the boss phase where your group lacks damage.
+- Use <Skill name="OneWolfPack"/> in a boss phase where your group lacks damage.
 
 </Boss>
 
 <Phase>
 <CMInformation title="Precast">
 <InformationBlock>
-Use <Skill name="One Wolf Pack"/> **once** at the _Mistlock Singularity_, as it should be used in a phase where your group lacks damage.
+Use <Skill name="One Wolf Pack"/> **once** at the _Mistlock Singularity_, as it should be used in a boss phase where your group lacks damage.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -51,7 +51,7 @@ Follow up with high priority Hammer skills, swap weapons and finish the phase on
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- If you precast <Skill name="Frost Trap"/> at Knight 1 skip it and instead drop it while moving away after phase 1 has ended. Your <Specialization name="Scrapper"/> is able to trigger the trap with gyros when moving back to the boss for phase 2.
+- If you precast <Skill name="Frost Trap"/> at Knight 1 skip it and instead drop it while moving away after phase 1 has ended. Your <Specialization name="Scrapper"/> is able to trigger the trap with gyros when moving back to MAMA for phase 2.
 
 </InformationBlock>
 </CMInformation>
@@ -87,7 +87,7 @@ Move to the Knight with <Skill id="45743"/> and immediately transition into <Ski
 <Phase>
 <CMInformation title="Phase 2 (75%-50%)">
 <InformationBlock>
-Leap back to the boss with <Skill name="Pounce"/>, then use Sword/Axe skills.
+Leap back to MAMA with <Skill name="Pounce"/>, then use Sword/Axe skills.
 Fill with auto attacks in case your weapon swap is not up yet.
 Swap to Hammer, use <Skill name="Unleashed Wild Swing"/>, and finish the phase with auto attacks.
 </InformationBlock>
@@ -382,7 +382,7 @@ Usually this is shortly after your <Skill name="Whirling Defense"/> ends.
 <Phase>
 <CMInformation title="Phase 2 & 3 (66%-33% & 33%-0%)">
 <InformationBlock>
-Precast <Skill name="Barrage"/> before the boss is vulnerable, then help stack <Condition name="Vulnerability"/> with <Skill id="41524"/>.
+Precast <Skill name="Barrage"/> before Ensolyss is vulnerable, then help stack <Condition name="Vulnerability"/> with <Skill id="41524"/>.
 Fill with <Skill name="One Wolf Pack"/> and <Skill name="Frost Trap"/> until the defiance bar appears.
 As in phase 1, use <Skill id="45743"/> and <Skill name="Point Blank Shot"/> into the defiance bar.
 During <Effect name="Exposed"/> burst with the same rotation as in phase 1.
@@ -424,7 +424,7 @@ During <Effect name="Exposed"/> burst with the same rotation as in phase 1.
 - Take <Trait name="Oppressive Superiority"/>.
 - Play with <Skill name="Overbearing Smash"/> and <Skill name="Unleashed Thump"/>.
 - Use <Item id="24661"/> to speed up killing the Anomalies.
-- With good instabilities, use <Item id="73191"/> as Utility food.
+- With good instabilities use <Item id="73191"/> as Utility food.
 
 </Boss>
 
@@ -534,7 +534,7 @@ Try to contribute as much damage to the Anomalies as possible.
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle.
 - Take <Trait name="Oppressive Superiority"/> and <Trait name="Trappers Expertise"/> (when precasting traps).
-- If good instabilities, use <Item id="73191"/> as Utility food.
+- With good instabilities use <Item id="73191"/> as Utility food.
 
 </Boss>
 
@@ -870,7 +870,7 @@ Interrupt your <Skill name="Whirling Defense"/> early to fit <Skill name="Splitb
 Open with <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/> while running towards Arkk and use <Skill name="Sic Em"/>.
 Follow up with <Skill name="Frenzied Attack"/> for <Condition name="Vulnerability"/> and <Item name="Relic of Fireworks"/>.
 Place <Skill name="Frost Trap"/> and use <Skill name="One Wolf Pack"/>.
-Cast all Axe skills, then swap and use Hammer skills until Arkk is dead.
+Cast all Axe skills, then swap weapons and use Hammer skills until Arkk is dead.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
