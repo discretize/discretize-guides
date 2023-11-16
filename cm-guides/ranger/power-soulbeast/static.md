@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-11-16T18:22:13.732Z "
+date: "2023-11-16T18:23:44.816Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -739,7 +739,7 @@ At the end of the phase leave <Skill name="Beastmode"/> to not unmerge in case t
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 2 (80% - 70%)">
+<CMInformation title="Phase 2 (80%-70%)">
 <InformationBlock>
 Use <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/> while running towards Arkk.
 Follow up with <Skill name="Worldly Impact"/> to proc <Item name="Relic of Fireworks"/>.
@@ -778,7 +778,7 @@ Then use <Skill name="Unleashed Thump"/> and during it press _Hypernova Launch_.
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 3 (70% - 50%)">
+<CMInformation title="Phase 3 (70%-50%)">
 <InformationBlock>
 Cast both <Skill name="One Wolf Pack"/> and <Skill name="Frost Trap"/> right before Arkk teleports back.
 <Skill name="Sic Em"/> as soon as possible.
@@ -804,7 +804,7 @@ Step out of the pizza slice as <Skill name="Whirling Defense"/> ends.
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 4 (50% - 40%)">
+<CMInformation title="Phase 4 (50%-40%)">
 <InformationBlock>
 Use <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/> while running towards Arkk.
 Follow up with <Skill name="Worldly Impact"/> to proc <Item name="Relic of Fireworks"/>.
@@ -845,7 +845,7 @@ Use <Skill name="Unleashed Thump"/> and during it press _Hypernova Launch_.
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 5 (40% - 30%)">
+<CMInformation title="Phase 5 (40%-30%)">
 <InformationBlock>
 Use high priority Hammer skills, then swap and use <Skill name="Path of Scars"/> and <Skill name="Whirling Defense"/> to refresh <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/>.
 Interrupt your <Skill name="Whirling Defense"/> early to fit <Skill name="Splitblade"/> and <Skill name="Winters Bite"/> into the phase.
@@ -865,7 +865,7 @@ Interrupt your <Skill name="Whirling Defense"/> early to fit <Skill name="Splitb
 </Phase>
 
 <Phase>
-<CMInformation title="Phase 6 (30% - 0%)">
+<CMInformation title="Phase 6 (30%-0%)">
 <InformationBlock>
 Open with <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/> while running towards Arkk and use <Skill name="Sic Em"/>.
 Follow up with <Skill name="Frenzied Attack"/> for <Condition name="Vulnerability"/> and <Item name="Relic of Fireworks"/>.
