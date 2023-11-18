@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-11-18T20:56:34.414Z "
+date: "2023-11-18T21:01:55.947Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -523,11 +523,13 @@ Prioritize <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/>.
 <Phase>
 <CMInformation title="Split 1 & 2">
 <InformationBlock>
-Try to contribute as much damage to the Anomalies as possible.
+Contribute as much damage to the Anomalies as possible.
+Try to use two skills at each Anomaly at minimum.
 </InformationBlock>
 <InformationBlock title="Tips">
 
 - You can use <Skill name="Unleashed Thump"/> and <Skill id="45743"/> to move through updrafts more quickly.
+- Use <Item name="Elemental Slaying"/> to speed up killing the Anomalies.
 - With <Instability name="Outflanked"/> try to flank the Anomalies.
 
 </InformationBlock>
@@ -777,7 +779,7 @@ At the end of the phase <Skill name="Leave Beastmode"/> to not unmerge in case t
 1. <Skill name="Frost Trap"/>
 2. <Skill name="Overbearing Smash"/>
 3. <Skill name="Sic Em"/>
-4. <Skill name="Worldly Impact"/>
+4. <Skill name="Worldly Impact"/> (F3)
 5. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
 6. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
 7. _Weapon Swap_
