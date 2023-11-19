@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-28T21:15:04.193Z "
+date: "2023-11-19T11:10:55.329Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
  
@@ -46,7 +46,7 @@ date: "2023-10-28T21:15:04.193Z "
   
 To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
 
-You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>. 
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
 
