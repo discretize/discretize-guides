@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-11-18T21:01:55.947Z "
+date: "2023-11-25T15:23:23.924Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -55,7 +55,7 @@ Follow up with high priority Hammer skills, swap weapons and finish the phase on
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- If you precast <Skill name="Frost Trap"/> at Knight 1, skip it in phase 1 and instead drop it while moving away after the phase has ended. Your <Specialization name="Scrapper"/> is able to trigger the trap with gyros when moving back to MAMA for phase 2.
+- If you precast <Skill name="Frost Trap"/> at Knight 1, skip it in phase 1 and instead drop it while moving away after the phase has ended. Your <Specialization name="Scrapper"/> is able to trigger the trap with Gyros when moving back to MAMA for phase 2.
 
 </InformationBlock>
 </CMInformation>
@@ -225,7 +225,7 @@ Make sure to save <Skill name="Whirling Defense"/> for phase 2.
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- If you precast <Skill name="Barrage"/> and <Skill name="Spike Trap"/>, you can skip <Skill name="Overbearing Smash"/> and <Skill name="Worldly Impact"/>.
+- Precasting <Skill name="Barrage"/> and <Skill name="Spike Trap"/> allows for instant <Item name="Relic of Fireworks"/> and <Trait name="Twice as Vicious"/>.
 
 </InformationBlock>
 </CMInformation>
@@ -467,7 +467,7 @@ During <Effect name="Exposed"/> burst with the same rotation as in phase 1.
 
 <Boss name="skorvald" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Impact" weapon1MainSigil2="Elemental Slaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Elemental Slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle for mobility or <Skill id="44617" disableText/> Red Moa for <Condition name="Vulnerability"/> and <Item id="100947"/>.
+- Pet: <Skill id="43636" disableText/> Rock Gazelle for CC and mobility.
 - Take <Trait name="Oppressive Superiority"/>.
 - Play with <Skill name="Overbearing Smash"/> and <Skill name="Unleashed Thump"/>.
 - Use <Item id="24661"/> to speed up killing the Anomalies.
@@ -496,9 +496,10 @@ Use <Skill name="One Wolf Pack"/> **twice** at the _Mistlock Singularity_.
 <Phase>
 <CMInformation title="Phase 1 (100%-66%)">
 <InformationBlock>
-Precast <Skill name="Barrage"/> and swap to Hammer before getting in combat.
-Place <Skill name="Frost Trap"/> right when you get in combat and immediately follow up with <Skill name="Unleashed Savage Shock Wave"/> and <Skill name="Unleashed Wild Swing"/>.
+Precast <Skill name="Barrage"/> and <Skill name="Frost Trap"/> before getting in combat.
+Use <Skill name="Overbearing Smash"/> and <Skill id="45743"/>.
 <Skill name="Sic Em"/> as soon as possible.
+Follow up with <Skill name="Unleashed Savage Shock Wave"/> and <Skill name="Unleashed Wild Swing"/>.
 Swap weapons and finish the phase with an Axe/Axe burst.
 Prioritize <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/>.
 </InformationBlock>
@@ -506,16 +507,18 @@ Prioritize <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/>.
 <IdealRotation>
 
 1. Precast <Skill name="Barrage"/> (Longbow 5)
-2. <Skill name="Frost Trap"/>.
-2. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
-3. <Skill name="Sic Em"/>
-4. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-5. _Weapon Swap_
-6. <Skill name="Path of Scars"/> (Axe 4)
-7. <Skill name="Splitblade"/> (Axe 2)
-8. <Skill name="Winters Bite"/> (Axe 3)
-9. <Skill name="Worldly Impact"/> (F3)
-10. <Skill name="Whirling Defense"/> (Axe 5)
+2. <Skill name="Frost Trap"/>
+3. <Skill name="Overbearing Smash"/> (Hammer 3)
+4. <Skill id="45743"/> (F2)
+5. <Skill name="Sic Em"/>
+6. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+7. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+8. _Weapon Swap_
+9. <Skill name="Path of Scars"/> (Axe 4)
+10. <Skill name="Splitblade"/> (Axe 2)
+11. <Skill name="Winters Bite"/> (Axe 3)
+12. <Skill name="Worldly Impact"/> (F3)
+13. <Skill name="Whirling Defense"/> (Axe 5)
 
 </IdealRotation>
 </Phase>
@@ -770,24 +773,37 @@ At the end of the phase <Skill name="Leave Beastmode"/> to not unmerge in case t
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- Precasting <Skill name="Spike Trap"/> and <Skill name="Barrage"/> ensures instant <Item name="Relic of Fireworks"/> and <Trait name="Twice as Vicious"/>. This allows skipping <Skill name="Overbearing Smash"/> and <Skill name="Worldly Impact"/> and fitting more Axe skills before the eye mechanic.
+- Precasting <Skill name="Spike Trap"/> and <Skill name="Barrage"/> ensures instant <Item name="Relic of Fireworks"/> and <Trait name="Twice as Vicious"/>. This allows more comfortably fitting skills before the eye mechanic.
 
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="Frost Trap"/>
-2. <Skill name="Overbearing Smash"/>
+2. <Skill name="Frenzied Attack"/>
 3. <Skill name="Sic Em"/>
-4. <Skill name="Worldly Impact"/> (F3)
-5. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
-6. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-7. _Weapon Swap_
-8. <Skill name="Path of Scars"/> (Axe 4)
-9. <Skill name="Whirling Defense"/> (Axe 5)
-10. <Skill name="Splitblade"/> (Axe 2)
-11. <Skill name="Winters Bite"/> (Axe 3)
-12. <Skill name="Leave Beastmode"/>
+4. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+5. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+6. _Weapon Swap_
+7. <Skill name="Path of Scars"/> (Axe 4)
+8. <Skill name="Whirling Defense"/> (Axe 5)
+0. <Skill name="Splitblade"/> (Axe 2)
+10. <Skill name="Winters Bite"/> (Axe 3)
+11. <Skill name="Leave Beastmode"/>
+
+</IdealRotation>
+</Phase>
+
+<Phase>
+<CMInformation title="Bloom Phases">
+<InformationBlock>
+Position yourself far from your assigned Bloom and close to the lightning.
+Use <Skill name="Ricochet"/> to push the Bloom in two hits.
+</InformationBlock>
+</CMInformation>
+<IdealRotation>
+
+1. <Skill name="Ricochet"/>
 
 </IdealRotation>
 </Phase>
@@ -798,6 +814,11 @@ At the end of the phase <Skill name="Leave Beastmode"/> to not unmerge in case t
 Use <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/> while running towards Arkk.
 Follow up with <Skill name="Worldly Impact"/> to proc <Item name="Relic of Fireworks"/>.
 Use available Axe skills, then swap weapons and finish the phase on Hammer.
+</InformationBlock>
+<InformationBlock title="Tips">
+
+- If your _Nova Launch_ is up, you can use it to get back to Arkk quickly after pushing your Bloom.
+
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
@@ -832,8 +853,10 @@ This will grant you <Item name="Relic of Fireworks"/> as well as <Trait name="Tw
 
 1. <Skill name="Frenzied Attack"/> (F2)
 2. <Skill name="Unleashed Overbearing Smash"/> (Hammer 3)
-3. <Skill name="Unleashed Thump"/> (Hammer 5)
-4. _Hypernova Launch_
+3. <Skill name="Hammer Strike"/> <Skill name="Hammer Slam"/> <Skill name="Heavy Smash"/> (Hammer 1)
+4. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+5. <Skill name="Unleashed Thump"/> (Hammer 5)
+6. _Hypernova Launch_
 
 </IdealRotation>
 </Phase>
