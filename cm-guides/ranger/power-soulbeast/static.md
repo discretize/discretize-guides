@@ -3,14 +3,14 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-11-25T15:23:23.924Z "
+date: "2023-12-04T21:34:35.858Z "
 disableBosses:
   - LightAi
   - DarkAi
 ---
 
 <Warning>
-This guide is currently a work in progress. The information shown here is correct and notes for each boss are planned to be added at a later date!
+This guide is currently a work in progress. The information shown here is correct and POVs for each boss are planned to be added at a later date!
 </Warning>
 
 <Boss name="mama" foodId="43360" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Force" weapon1MainSigil2="Impact" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Frenzy" weapon2MainInfusion1Id="37131">
@@ -334,7 +334,7 @@ Swap to Axe/Axe and use everything until Siax is dead.
 
 <Boss name="ensolyss" foodId="91805" utilityId="50082" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Serpentslaying" weapon1MainSigil2="Severance" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Impact" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Sword" weapon2MainSigil1="Serpentslaying" weapon2MainInfusion1Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle for <Skill id="45743"/> every phase.
+- Pet: <Skill id="12756" disableText/> Pig for damage from <Skill id="41406"/> and CC from <Skill id="46432"/>.
 - Take <Trait id="2128"/>.
 - Remember to use <Item id="24658"/> and <Item id="24868"/> for this encounter!
 - One <Specialization name="Soulbeast"/> should swap <Skill id="12491"/> for <Skill id="45970"/> to allow your your <Specialization name="Renegade"/> to play more offensively while still maintaing <Boon name="Alacrity"/>.
@@ -370,13 +370,12 @@ Use <Skill name="One Wolf Pack"/> **twice** at the _Mistlock Singularity_.
 <InformationBlock>
 Precast <Skill name="Barrage"/>, then combo <Skill id="45743"/> into <Skill name="Point Blank Shot"/> to assist with breaking the defiance bar.
 Swap weapons and immediately start bursting into <Effect name="Exposed"/>.
-Start with <Skill name="Path of Scars"/> to fit a second one into the phase.
-Then use <Skill name="Serpents Strike"/> and <Skill name="Pounce"/> so their second cast is right before _Nightmare Devastation_ (bubble).
+Start with <Skill name="Serpents Strike"/> and <Skill name="Pounce"/> to make their second cast fit before _Nightmare Devastation_ (bubble).
 </InformationBlock>
 <InformationBlock title="Tips">
 
 - If you have a precasted <Skill name="Frost Trap"/>, delay the one casted in fight until after the bubble spawns.
-Usually this is shortly after your <Skill name="Whirling Defense"/> ends.
+Usually this is right after your <Skill name="Whirling Defense"/> ends.
 - When playing with <Skill name="Moa Stance"/> use it near the end of the phase.
 
 </InformationBlock>
@@ -386,19 +385,22 @@ Usually this is shortly after your <Skill name="Whirling Defense"/> ends.
 1. <Skill name="Barrage"/> (Longbow 5)
 4. <Skill name="Sic Em"/>
 3. <Skill name="Frost Trap"/>
-5. <Skill id="45743"/> (F2)
+5. <Skill id="46432"/> (F2)
 6. <Skill name="Point Blank Shot"/> (Longbow 4)
 7. _Weapon Swap_
-8. <Skill name="Path of Scars"/> (Axe 4)
-9. <Skill name="Serpents Strike"/> (Sword 3)
-10. <Skill name="Pounce"/> (Sword 2)
-11. <Skill name="Worldly Impact"/> (F3)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1)
-14. <Skill name="Pounce"/> (Sword 2)
-15. <Skill name="Serpents Strike"/> (Sword 3)
-16. <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1)
-17. <Skill name="Path of Scars"/> (Axe 4)
+8. <Skill name="Serpents Strike"/> (Sword 3)
+9. <Skill name="Pounce"/> (Sword 2)
+10. <Skill name="Path of Scars"/> (Axe 4)
+11. <Skill id="41406"/> (F1)
+12. <Skill name="Worldly Impact"/> (F3)
+13. <Skill name="Whirling Defense"/> (Axe 5)
+14. <Skill name="Slash"/> (Sword 1)
+15. <Skill name="Pounce"/> (Sword 2)
+16. <Skill name="Serpents Strike"/> (Sword 3)
+19. 2x <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1 chain)
+18. <Skill name="Path of Scars"/> (Axe 4)
+20. <Skill id="41406"/> (F1)
+21. <Skill name="Pounce"/> (Sword 2)
 
 </IdealRotation>
 </Phase>
@@ -444,32 +446,34 @@ During <Effect name="Exposed"/> burst with the same rotation as in phase 1.
 <IdealRotation>
 
 1. <Skill name="Barrage"/> (Longbow 5)
-2. <Skill id="41524"/> (F1)
 3. <Skill name="One Wolf Pack"/>
+2. <Skill id="41406"/> (F1)
 4. <Skill name="Frost Trap"/>
-5. <Skill name="Sic Em"/>
-6. <Skill id="45743"/> (F2)
+5. <Skill id="46432"/> (F2)
+6. <Skill name="Sic Em"/>
 7. <Skill name="Point Blank Shot"/> (Longbow 4)
 8. _Weapon Swap_
-8. <Skill name="Path of Scars"/> (Axe 4)
 9. <Skill name="Serpents Strike"/> (Sword 3)
 10. <Skill name="Pounce"/> (Sword 2)
-11. <Skill name="Worldly Impact"/> (F3)
-12. <Skill name="Whirling Defense"/> (Axe 5)
-13. <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1)
-14. <Skill name="Pounce"/> (Sword 2)
-15. <Skill name="Serpents Strike"/> (Sword 3)
-16. <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1)
-17. <Skill name="Path of Scars"/> (Axe 4)
+11. <Skill name="Path of Scars"/> (Axe 4)
+12. <Skill name="Worldly Impact"/> (F3)
+13. <Skill name="Whirling Defense"/> (Axe 5)
+14. <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1 chain)
+15. <Skill name="Pounce"/> (Sword 2)
+16. <Skill name="Serpents Strike"/> (Sword 3)
+2. <Skill id="41406"/> (F1)
+17. 2x <Skill name="Slash"/> <Skill name="Crippling Thrust"/> <Skill name="Precision Swipe"/> (Sword 1 chain)
+18. <Skill name="Path of Scars"/> (Axe 4)
+19. <Skill name="Pounce"/> (Sword 2)
 
 </IdealRotation>
 </Phase>
 
 <Boss name="skorvald" foodId="43360" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Hammer" weapon1MainSigil1="Impact" weapon1MainSigil2="Elemental Slaying" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Elemental Slaying" weapon2OffInfusionId="37131" weapon2MainAffix="Berserker" weapon2MainType="Axe" weapon2MainSigil1="Impact" weapon2MainInfusion1Id="37131">
 
-- Pet: <Skill id="43636" disableText/> Rock Gazelle for CC and mobility.
+- Pet: <Skill id="12756" disableText/> Pig for damage from <Skill id="41406"/> and CC from <Skill id="46432"/>.
 - Take <Trait name="Oppressive Superiority"/>.
-- Play with <Skill name="Overbearing Smash"/> and <Skill name="Unleashed Thump"/>.
+- Play with <Skill name="Unleashed Overbearing Smash"/> and <Skill name="Unleashed Thump"/>.
 - Use <Item id="24661"/> to speed up killing the Anomalies.
 - With good instabilities use <Item id="73191"/> as Utility food.
 
@@ -496,25 +500,24 @@ Use <Skill name="One Wolf Pack"/> **twice** at the _Mistlock Singularity_.
 <Phase>
 <CMInformation title="Phase 1 (100%-66%)">
 <InformationBlock>
-Precast <Skill name="Barrage"/> and <Skill name="Frost Trap"/> before getting in combat.
-Use <Skill name="Overbearing Smash"/> and <Skill id="45743"/>.
+Precast <Skill name="Barrage"/> and <Skill name="Frost Trap"/>.
+Start casting <Skill name="Unleashed Savage Shock Wave"/> as soon as you get in combat (without having a target).
+Follow up with <Skill id="46432"/> to help break Skorvald's defiance bar.
 <Skill name="Sic Em"/> as soon as possible.
-Follow up with <Skill name="Unleashed Savage Shock Wave"/> and <Skill name="Unleashed Wild Swing"/>.
-Swap weapons and finish the phase with an Axe/Axe burst.
-Prioritize <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/>.
+Use <Skill name="Unleashed Wild Swing"/>, swap weapons and finish the phase with Axe/Axe skills and <Skill id="41406"/>.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. Precast <Skill name="Barrage"/> (Longbow 5)
 2. <Skill name="Frost Trap"/>
-3. <Skill name="Overbearing Smash"/> (Hammer 3)
-4. <Skill id="45743"/> (F2)
-5. <Skill name="Sic Em"/>
-6. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
-7. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-8. _Weapon Swap_
-9. <Skill name="Path of Scars"/> (Axe 4)
+3. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+4. <Skill name="Sic Em"/>
+5. <Skill id="46432"/> (F2)
+6. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+7. _Weapon Swap_
+8. <Skill name="Path of Scars"/> (Axe 4)
+9. <Skill id="41406"/> (F1)
 10. <Skill name="Splitblade"/> (Axe 2)
 11. <Skill name="Winters Bite"/> (Axe 3)
 12. <Skill name="Worldly Impact"/> (F3)
@@ -527,11 +530,11 @@ Prioritize <Skill name="Path of Scars"/> for <Trait name="Twice as Vicious"/>.
 <CMInformation title="Split 1 & 2">
 <InformationBlock>
 Contribute as much damage to the Anomalies as possible.
-Try to use two skills at each Anomaly at minimum.
+If possible, try to use two skills at each Anomaly.
+Use <Skill id="46432"/> at the last island to refresh <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for the upcoming boss phase.
 </InformationBlock>
 <InformationBlock title="Tips">
-
-- You can use <Skill name="Unleashed Thump"/> and <Skill id="45743"/> to move through updrafts more quickly.
+- You can use <Skill name="Unleashed Thump"/> to move through updrafts more quickly.
 - Use <Item name="Elemental Slaying"/> to speed up killing the Anomalies.
 - With <Instability name="Outflanked"/> try to flank the Anomalies.
 
@@ -542,23 +545,23 @@ Try to use two skills at each Anomaly at minimum.
 **Island 1**
 
 1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Path of Scars"/> (Axe 4)
+2. <Skill name="Winters Bite"/> (Axe 3)
 
 **Island 2**
 
-1. <Skill name="Splitblade"/> (Axe 2)
-2. <Skill name="Winters Bite"/> (Axe 3)
+2. <Skill name="Path of Scars"/> (Axe 4)
+1. <Skill id="41406"/> (F1)
+3. _Weapon Swap_
 
 **Island 3**
 
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. _Weapon Swap_
-3. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+1. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+2. <Skill name="Hammer Strike"/> (Hammer 1)
 
 **Island 4**
 
-1. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-2. <Skill name="Overbearing Smash"/> (Hammer 3)
+1. <Skill id="46432"/> (F2)
+2. <Skill name="Unleashed Overbearing Smash"/> (Hammer 3)
 
 </IdealRotation>
 </Phase>
@@ -566,23 +569,24 @@ Try to use two skills at each Anomaly at minimum.
 <Phase>
 <CMInformation title="Phase 2 & 3 (66%-33% & 33%-0%)">
 <InformationBlock>
-Right after taking the portal back to Skorvald, <Skill name="Sic Em"/> and use <Skill name="Worldly Impact"/> for <Item name="Relic of Fireworks"/>.
-Place your <Skill name="Frost Trap"/> and repeat the burst from phase 1.
+<Skill name="Sic Em"/> Skorvald right after taking the portal back to the boss.
+Place your <Skill name="Frost Trap"/> and repeat the burst from phase 1 except for <Skill id="46432"/>.
 </InformationBlock>
 </CMInformation>
 <IdealRotation>
 
 1. <Skill name="Sic Em"/>
-2. <Skill name="Worldly Impact"/> (F3)
-3. <Skill name="One Wolf Pack"/> (in phase 3)
-4. <Skill name="Frost Trap"/>
-5. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
-6. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-7. _Weapon Swap_
-8. <Skill name="Path of Scars"/> (Axe 4)
+2. <Skill name="One Wolf Pack"/> (in phase 3)
+3. <Skill name="Frost Trap"/>
+4. <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+5. <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+6. _Weapon Swap_
+7. <Skill name="Path of Scars"/> (Axe 4)
+8. <Skill id="41406"/> (F1)
 9. <Skill name="Splitblade"/> (Axe 2)
 10. <Skill name="Winters Bite"/> (Axe 3)
-11. <Skill name="Whirling Defense"/> (Axe 5)
+11. <Skill name="Worldly Impact"/> (F3)
+12. <Skill name="Whirling Defense"/> (Axe 5)
 
 </IdealRotation>
 </Phase>
