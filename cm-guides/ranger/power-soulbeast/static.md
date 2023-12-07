@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-12-04T21:34:35.858Z "
+date: "2023-12-07T00:08:18.007Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -693,7 +693,7 @@ Try to time and position <Skill name="Path of Scars"/> in a way that you proc <I
 <InformationBlock title="Tips">
 
 - Be careful to place your <Skill name="Frost Trap"/> close enough and not too early, or it will not trigger.
-- Swapping to Axe/Axe right after she becomes vulnerable allows you to greed one hit of <Item name="Air"/>. Do not delay the rest of your rotation for this!
+- Swapping to Axe/Axe right after Artsariiv becomes vulnerable allows you to greed one hit of <Item name="Air"/>. **Do not** delay the rest of your rotation for this!
 
 </InformationBlock>
 </CMInformation>
@@ -849,7 +849,7 @@ This will grant you <Item name="Relic of Fireworks"/> as well as <Trait name="Tw
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- With <Instability name="Outflanked"/> make sure to flank the Archdiviner and use your <Skill name="Unleashed Thump"/> into _Hypernova Launch_ combo more quickly.
+- With <Instability name="Outflanked"/> make sure to flank the Archdiviner and use your <Skill name="Unleashed Thump"/> into _Hypernova Launch_ combo more quickly to still get the hit.
 
 </InformationBlock>
 </CMInformation>
@@ -921,7 +921,7 @@ Use <Skill name="Unleashed Thump"/> and during it press _Hypernova Launch_ for <
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- With <Instability name="Outflanked"/> make sure to flank the Gladiator and use your <Skill name="Unleashed Thump"/> into _Hypernova Launch_ combo more quickly. Due to the increased damage from flanking you can <Skill name="Sic Em"/> Arkk instead after he ports out before the Gladiator spawns.
+- With <Instability name="Outflanked"/> make sure to flank the Gladiator and use your <Skill name="Unleashed Thump"/> into _Hypernova Launch_ combo more quickly to still get the hit. Due to the increased damage from flanking you can <Skill name="Sic Em"/> Arkk instead after he ports out before the Gladiator spawns.
 
 </InformationBlock>
 </CMInformation>
