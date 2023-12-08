@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-12-07T00:08:18.007Z "
+date: "2023-12-08T21:25:27.996Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -55,7 +55,7 @@ Follow up with high priority Hammer skills, swap weapons and finish the phase on
 </InformationBlock>
 <InformationBlock title="Tips">
 
-- If you precast <Skill name="Frost Trap"/> at Knight 1, skip it in phase 1 and instead drop it while moving away after the phase has ended. Your <Specialization name="Scrapper"/> is able to trigger the trap with Gyros when moving back to MAMA for phase 2.
+- If you precast <Skill name="Frost Trap"/> at Knight 1, skip it in phase 1 and instead drop it while moving away a bit after the phase has ended. MAMA will trigger it when teleporting at the start of _Nightmare Devastation_ (bubble).
 
 </InformationBlock>
 </CMInformation>
@@ -104,6 +104,7 @@ Swap to Hammer, use <Skill name="Unleashed Wild Swing"/>, and finish the phase w
 4.  <Skill name="Path of Scars"/> (Axe 4)
 5.  _Weapon Swap_
 6.  <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+7.  <Skill name="Hammer Strike"/> (Hammer 1)
 
 </IdealRotation>
 </Phase>
@@ -180,10 +181,10 @@ Swap weapons to Hammer and finish the phase with all Hammer skills and auto atta
 3.  <Skill name="Worldly Impact"/> (F3)
 4.  <Skill name="Pounce"/> (Sword 2)
 5.  _Weapon Swap_
-6.  <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-7.  <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+6.  <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4)
+7.  <Skill name="Unleashed Wild Swing"/> (Hammer 2)
 8.  <Skill name="Unleashed Overbearing Smash"/> (Hammer 3)
-8.  <Skill name="Unleashed Thump"/> (Hammer 5)
+9.  <Skill name="Unleashed Thump"/> (Hammer 5)
 
 </IdealRotation>
 </Phase>
@@ -746,6 +747,7 @@ Finally, finish the CC phase with <Skill name="Point Blank Shot"/> and _Nova Lau
 - Play with <Skill name="Overbearing Smash"/> and <Skill name="Unleashed Thump"/>. When precasting <Skill name="Spike Trap"/> use <Skill name="Unleashed Overbearing Smash"/> instead.
 - Swap to <Item id="50082"/>!
 - Try to ensure <Item name="Relic of Fireworks"/> and <Trait name="Twice as Vicious"/> every phase.
+- Stack in _Cosmic Meteor_ (green) whenever possible and use <Skill name="Harmonic Cry"/> after to help with healing.
 - Wherever possible you should try to hit multiple targets with your <Skill name="Pathofscars"/>. This can mean hitting an anomaly to help your <Specialization name="renegade"/> kill it. Pulling the adds is also great since they can hurt your <Trait name="Loud Whistle"/> uptime.
 
 </Boss>
