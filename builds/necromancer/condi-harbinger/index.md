@@ -1,9 +1,20 @@
 ---
+title: Condi (Quick) Harbinger
 hidden: false
 archive: false
 hasBeginner: false
+rating: Good
+role: Condi Damage
+profession: Necromancer
 specialization: Harbinger
 traits: []
+conditions:
+  - name: Vulnerability
+    uptime: 20 stacks
+  - name: Torment
+  - name: Bleeding
+  - name: Poisoned
+  - name: Burning
 boons:
   - name: Quickness
     uptime: 100%
@@ -20,32 +31,21 @@ boons:
   - name: Regeneration
     uptime: 50%
     variant: (using Quickness variant)
-code: "[&DQgnNTI1QD/nGhIA1BpvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQgnNTI1QD/nGhIAdQFvAYAAcAHsGncBkgCVAAAAAAAAAAAAAAAAAAAAAAADMgAvADEAAA==]"
 classification:
+  - 4
+  - 4
+  - 4
   - 3
   - 4
-  - 4
-  - 3
-  - 4
-date: "2023-10-22T09:53:12.780Z "
-title: Condi (Quick) Harbinger
-rating: Good
-role: Condi Damage
-profession: Necromancer
-conditions:
-  - name: Vulnerability
-    uptime: 20 stacks
-  - name: Torment
-  - name: Bleeding
-  - name: Poisoned
-  - name: Burning
+date: "2023-11-19T11:11:15.974Z "
 ---
  
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
 
-<Divider text="Equipment"/>
+<Divider text="Equipment"/>  
  
 <CharacterWithAr>
 <Character title="Condi DPS Harbinger" gear='{"attributes":{"profession":"Necromancer","specialization":"Harbinger","data":{"Health":26212,"Armor":2192,"Power":2938.3,"Precision":1813,"Toughness":1225,"Vitality":1785,"Ferocity":0,"Condition Damage":3172,"Expertise":825,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.8,"Boon Duration":0.15,"Critical Chance":0.8871428571428572,"Critical Damage":1.5,"Power Coefficient":2314,"Power2 Coefficient":0,"Burning Coefficient":2.784,"Bleeding Coefficient":11.665785714285713,"Poison Coefficient":6.36,"Torment Coefficient":23.445999999999998,"Confusion Coefficient":0.65,"Flat DPS":0,"Bleeding Duration":0.2,"Torment Duration":0.15,"Effective Power":6627.571763392858,"NonCrit Effective Power":4591.09375,"Power DPS":5905.352737963448,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage Tick":345.5508,"Bleeding Stacks":23.331571428571426,"Bleeding DPS":8062.243172399999,"Burning Damage Tick":1013.3791499999999,"Burning Stacks":5.0112,"Burning DPS":5078.245596479999,"Confusion Damage Tick":365.5723050000001,"Confusion Stacks":1.1700000000000002,"Confusion DPS":427.71959685000013,"Poison Damage Tick":364.26705,"Poison Stacks":11.448,"Poison DPS":4170.1291884,"Torment Damage Tick":516.3731999999999,"Torment Stacks":45.7197,"Torment DPS":23608.427792039995,"Damage":47252.11808413344,"Effective Health":114341699.50248758,"Survivability":58129.994663186364,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":44950,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":48911,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":44950,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24560,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":95942,"utilityId":48917,"relicId":100153},"skills":{"healId":62667,"utility1Id":62662,"utility2Id":10544,"utility3Id":10622,"eliteId":10549},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1883,816,801],[875,894,905],[2185,2209,2203]],"lines":[39,50,64]}}'>
