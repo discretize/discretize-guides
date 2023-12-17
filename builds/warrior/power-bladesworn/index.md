@@ -1,9 +1,16 @@
 ---
+title: Power Bladesworn
 hidden: false
 archive: false
+rating: Good
+role: Power Damage
+profession: Warrior
 specialization: Bladesworn
 skills: null
 traits: null
+conditions:
+  - name: Vulnerability
+    uptime: 7 stacks
 boons:
   - name: Might
     uptime: "3 Stacks "
@@ -18,17 +25,10 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-10-22T16:08:47.294Z "
-title: Power Bladesworn
-rating: Good
-role: Power Damage
-profession: Warrior
-conditions:
-  - name: Vulnerability
-    uptime: 7 stacks
+date: "2023-10-24T15:29:39.565Z "
 ---
  
-The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses sustained damage in favor of short damage spikes. Along with this <Specialization text="Power Bladesworn" name="Bladesworn"/> provides a lot of boon support to a party, sharing <Boon name="Might"/> and <Boon name="Quickness"/> from traits along with optional utility skills like <Skill name="Forgreatjustice"/> which can carry a party with low boon uptime by providing 12 stacks of <Boon name="Might"/> (becomes 20 stacks, taking into account <Boon name="Might"/> from traits) and a high <Boon name="Fury"/> uptime.
+The <Specialization text="Power Bladesworn" name="Bladesworn"/> is a strong build for <Specialization name="Warrior"/> in fractals. It has more initial burst than <Specialization text="Power Berserker" name="Berserker"/> thanks to <Skill name="Dragon Trigger" />, but loses sustained damage in favor of short damage spikes. Along with this <Specialization text="Power Bladesworn" name="Bladesworn"/> provides a lot of boon support to a party, sharing <Boon name="Might"/> from traits along with optional utility skills like <Skill name="Forgreatjustice"/> which can carry a party with low boon uptime by providing 12 stacks of <Boon name="Might"/> (becomes 20 stacks, taking into account <Boon name="Might"/> from traits) and a high <Boon name="Fury"/> uptime.
 
 The <Specialization text="Power Bladesworn" name="Bladesworn"/> is one of the harder builds to play in fractals dues to its quick rotation, relying on maintaining damage modifiers and your highest damaging skill locking you in place, requiring good positioning during fights. Furthermore, the build benefits from damage modifying sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
   
