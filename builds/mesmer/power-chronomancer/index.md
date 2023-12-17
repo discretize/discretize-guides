@@ -1,16 +1,25 @@
 ---
+title: Power Alac Chronomancer
 hidden: false
 archive: false
+rating: Good
+role: Power Damage
 author: drauskam
+profession: Mesmer
 specialization: Chronomancer
-skills:
-  - 10311
-  - 29830
-  - 21750
+skills: []
 traits:
   - 2020
   - 2018
   - 853
+conditions:
+  - name: Vulnerability
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
+  - name: Slow
 boons:
   - name: Alacrity
     uptime: 100%
@@ -21,37 +30,23 @@ boons:
   - name: Fury
     uptime: 100%
     variant: Party
-code: "[&DQcKGgEdKD4jD24BawFkAWkBaQGPAY8B7RLtEgAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQcKGQEdKB4jDwAABBMAAI8BAADPEgAA7RIAAAAAAAAAAAAAAAAAAAAAAAADLwBXADIAAA==]"
+cmGuide: ""
 classification:
-  - 2
+  - 4
   - 4
   - 4
   - 3
   - 4
-date: "2023-10-21T15:55:43.968Z "
-title: Power Alac Chronomancer
-rating: Good
-role: Power Damage
-profession: Mesmer
-conditions:
-  - name: Vulnerability
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
-  - name: Slow
-cmGuide: ""
+date: "2023-11-19T11:10:55.329Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
-
- It provides permanent <Boon name="Alacrity"/>, <Boon name="Fury"/> and 8 up to 16 <Boon name="Might"/>. 
  
  Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
   
 To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
 
-You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>.
+You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>. 
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
 
@@ -61,7 +56,7 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 
 <Divider text="Equipment" />   
 <CharacterWithAr>
-<Character title="" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":20522,"Armor":2192,"Power":3286,"Precision":2470,"Toughness":1225,"Vitality":1533,"Ferocity":1255,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.336666666666667,"Clone Critical Chance":0.75,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.336666666666667,"Power Coefficient":3123,"Power2 Coefficient":1363,"Burning Coefficient":0,"Bleeding Coefficient":26.565,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.73,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":24915.4940204257,"NonCrit Effective Power":8077.906244460939,"Power DPS":29961.912909429902,"Phantasm Effective Power":11037.537083333335,"Power2 DPS":5792.900671768709,"Siphon DPS":139.75,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":26.565,"Bleeding DPS":2558.5415625,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0.73,"Confusion DPS":75.5927775,"Poison Damage Tick":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":38528.69792119861,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24703,"helmRune":"Infiltration","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24703,"shouldersRune":"Infiltration","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24703,"coatRune":"Infiltration","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24703,"glovesRune":"Infiltration","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24703,"leggingsRune":"Infiltration","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24703,"bootsRune":"Infiltration","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24868,"weapon2OffAffix":"Assassin","weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":67530,"relicId":100916},"skills":{"healId":21750,"utility1Id":30525,"utility2Id":10267,"utility3Id":30525,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[1995,1978,1942]],"lines":[10,1,40]}}'>
+<Character title="" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":20522,"Armor":2192,"Power":3286,"Precision":2470,"Toughness":1225,"Vitality":1533,"Ferocity":1255,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.336666666666667,"Clone Critical Chance":0.75,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.336666666666667,"Power Coefficient":3123,"Power2 Coefficient":1363,"Burning Coefficient":0,"Bleeding Coefficient":26.565,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.73,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":24915.4940204257,"NonCrit Effective Power":8077.906244460939,"Power DPS":29961.912909429902,"Phantasm Effective Power":11037.537083333335,"Power2 DPS":5792.900671768709,"Siphon DPS":139.75,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":26.565,"Bleeding DPS":2558.5415625,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0.73,"Confusion DPS":75.5927775,"Poison Damage Tick":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":38528.69792119861,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24703,"helmRune":"Infiltration","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24703,"shouldersRune":"Infiltration","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24703,"coatRune":"Infiltration","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24703,"glovesRune":"Infiltration","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24703,"leggingsRune":"Infiltration","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24703,"bootsRune":"Infiltration","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24868,"weapon2OffAffix":"Assassin","weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":67530,"relicId":100916},"skills":{"healId":21750,"utility1Id":30525,"utility2Id":10267,"utility3Id":30814,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[1995,1978,1942]],"lines":[10,1,40]}}'>
 
 <Item id="100947"/> instead of <Item id="100916"/> will increase your personal target damage, but eventually trade of cleave damage on Skorvald/Arkk/MAMA. 
 
