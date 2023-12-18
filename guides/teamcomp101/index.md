@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2023-08-28T10:18:43.004Z "
+date: "2023-12-18T14:20:06.838Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -36,8 +36,82 @@ For people without the time to do this, we recommend quite an open comp when usi
 
 By building your party around the following concepts you will find an in-game lfg run in most cases is much faster and smoother than just taking any old build. You first want to look at covering the important boons: <Boon name="Might" text="25 Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. Also you want to aim as a group to be able to maintain <Condition name="vulnerability" text="25 Vulnerability"/> on your targets. Finally builds that can bring high CC and damage mitigation such as reflects, <Boon name="Aegis"/> and <Boon name="Stability"/> are much more beneficial to run than pure damage dealers.
 
-<Card title="PuG Comp">
+<Grid>
+<GridItem sm="6" md="6">
+### Alacrity
+#### Heal
+| | |
+|-|-|
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is  |
+| <Boon name="Alacrity" size="big" disable text/> | Other builds such as  |
 
+#### Hybrid
+| | |
+|-|-|
+| <Specialization name="Scourge" size="big" disable text/> | <BuildLink build="Celestial Scourge" specialization="Scourge"/> is  |
+
+#### Power
+| | |
+|-|-|
+| <Specialization name="Renegade" size="big" disable text/> | <BuildLink build="Power Renegade" specialization="Renegade"/> is  |
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Power Chronomancer" specialization="Chronomancer"/> is  |
+| <Boon name="Alacrity" size="big" disable text/> | Other builds such as  |
+
+#### Condition
+| | |
+|-|-|
+| <Specialization name="Specter" size="big" disable text/> | <BuildLink build="Condi Specter" specialization="Specter"/> is  |
+| <Specialization name="Renegade" size="big" disable text/> | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> is  |
+| <Boon name="Alacrity" size="big" disable text/> | Other builds such as  |
+
+</GridItem>
+
+<GridItem sm="6" md="6">
+### Quickness
+#### Heal
+| | |
+|-|-|
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is  |
+| <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> is  |
+| <Specialization name="Herald" size="big" disable text/> | <BuildLink build="Heal Herald" specialization="Herald"/> is  |
+| <Boon name="Quickness" size="big" disable text/> | Other builds such as  |
+
+#### Hybrid
+| | |
+|-|-|
+| <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Celestial Firebrand" specialization="Firebrand"/> is  |
+
+#### Power
+| | |
+|-|-|
+| <Specialization name="Scrapper" size="big" disable text/> | <BuildLink build="Power Scrapper" specialization="Scrapper"/> is  |
+| <Specialization name="Herald" size="big" disable text/> | <BuildLink build="Power Herald" specialization="Herald"/> is  |
+| <Boon name="Quickness" size="big" disable text/> | Other builds such as  |
+
+#### Condition
+| | |
+|-|-|
+| <Specialization name="Harbinger" size="big" disable text/> | <BuildLink build="Condi Harbinger" specialization="Harbinger"/> is  |
+| <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> is  |
+| <Boon name="Quickness" size="big" disable text/> | Other builds such as  |
+
+</GridItem>
+</Grid>
+## DPS
+<Grid>
+<GridItem sm="6" md="6">
+### Power DPS
+
+</GridItem>
+
+<GridItem sm="6" md="6">
+### Condition DPS
+
+</GridItem>
+</Grid>
+
+<Card title="PuG Comp">
+ 
 |                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Boon name="Alacrity"/> source                                                                                                                                                                                                                                                               | <BuildLink build="Heal Mechanist" specialization="Mechanist"/> provides 100% <Boon name="Alacrity"/> and has access to every boon in the game except from <Boon name="Quickness"/>. Along with huge amounts of <Effect name="barrier"/> generation and great utility it makes it currently the strongest heal build in fractals.<br/><BuildLink build="Condi Alac Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 13 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control, damage mitigation and decent DPS on its own. Due to its self sustain and higher damage over time we recommend this build for <Specialization name="Renegade"/> in most PuG groups.<br/><BuildLink build="Power Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 10 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control and damage mitigation. In the right hands it can deal good damage but in most PuG groups Condi Alac Renegade will be higher damage.<br/><BuildLink build="Condi Specter" specialization="Specter"/> provides 100% <Boon name="Alacrity"/> uptime, 5 stacks of <Boon name="Might"/> and around 75% <Boon name="Fury"/> uptime. Alongside this, <Specialization name="Specter"/> provides a large amount of <Effect name="Barrier"/> and healing to your party and it can also boonstrip <Instability name="No Pain No Gain"/>. Although <Boon name="Might"/> and <Boon name="Fury"/> are lacking, if this is covered by other party members, <Specialization name="Specter"/> can be a strong choice. <br/><BuildLink build="Power Mechanist" specialization="Mechanist"/> provides 100% <Boon name="Alacrity"/>, <Boon name="Fury"/> and 25 <Boon name="Might"/>. It also provides some <Boon name="Protection"/>, <Effect name="Barrier"/>, 1 stack of <Boon name="Stability"/> and a single <Boon name="Aegis"/>. It is a very simple build to play making it ideal for new players with an easy rotation dealing solid damage and easy boon generation. However, it lacks CC and defensive support compared to <Specialization name="Renegade"/>.<br/>There are also other <Boon name="Alacrity"/> providers such as <Specialization name="Untamed" text="Alacrity Untamed"/> or <Specialization name="Tempest" text="Heal Alac Tempest"/> that can be played, we do not currently have pages for them on the site. This does not mean that they are bad, but may be situationally strong, or require the group to compensate for support or damage with other roles. |
