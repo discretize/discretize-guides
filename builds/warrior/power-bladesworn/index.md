@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-18T10:42:24.168Z "
+date: "2023-12-18T10:45:45.169Z "
 title: Power Bladesworn
 rating: Good
 role: Power Damage
@@ -96,11 +96,11 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 This opener is used for short phases, or where you need to contribute CC instantly.
 
 1. Precast <Skill id="68085"/>, <Skill name="Tactical Reload"/> and charge <Skill name="dragontrigger" /> before the fight starts
-2. <Skill name="dragonslashforce" />
-3. <Skill name="Flicker Step"/>
+2. <Skill name="Flicker Step"/> and <Skill name="Trigger Guard"/>
+3. <Skill name="dragonslashforce" />
 4. <Skill name="dragonspikemine" />
 5. Charge <Skill name="dragontrigger" />
-6. <Skill name="Flicker Step"/>
+6. <Skill name="Flicker Step"/> and <Skill name="Trigger Guard"/>
 7. <Skill name="dragonslashforce" />
 
 ### Pistol Opener
@@ -111,15 +111,15 @@ In phases where you have more time, want to wait for <Condition name="Vulnerabil
 2. <Skill name="Dragons Roar"/>
 3. <Skill name="Final Thrust"/>
 4. Charge <Skill name="dragontrigger"/>
-5. <Skill name="dragonslashforce" />
-6. <Skill name="Flicker Step"/>
+5. <Skill name="Flicker Step"/> and <Skill name="Trigger Guard"/>
+6. <Skill name="dragonslashforce" />
 7. <Skill name="dragonspikemine" />
 8. Charge <Skill name="dragontrigger" />
-9. <Skill name="Flicker Step"/>
+9. <Skill name="Flicker Step"/> and <Skill name="Trigger Guard"/>
 10. <Skill name="dragonslashforce" />
 
 </GridItem>
-
+ 
 <GridItem xs="12" sm="6">
 
 <Card title="Precasting">
