@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-10-22T09:00:22.160Z "
+date: "2023-12-18T11:08:21.072Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -30,7 +30,7 @@ This build is rather self-sufficient due to:
 - High CC with <Skill id="45743"/>, <Skill name="pointblankshot"/> and <Skill name="pathofscars"/>
 
 Overall this is a very well-rounded build that is rewarding to play in both PuGs and organized teams alike.
-
+ 
 <Divider text="Equipment"/>
 <CharacterWithAr>  
 <Character title="Power Soulbeast" gear='{"attributes":{"profession":"Ranger","specialization":"Soulbeast","data":{"Health":22022,"Armor":2493,"Power":4170,"Precision":2111,"Toughness":1375,"Vitality":1690,"Ferocity":2386,"Condition Damage":900,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.1,"Boon Duration":0.15,"Critical Chance":1.079047619047619,"Critical Damage":3.0906666666666665,"Power Coefficient":3310,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.28,"Poison Coefficient":0.41,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":35499.88449194001,"NonCrit Effective Power":11486.1576225,"Power DPS":45246.290977405246,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":118.75,"Bleeding Stacks":2.508,"Bleeding DPS":297.825,"Burning Damage":422.65625,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":127.321875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":136.71875,"Poison Stacks":0.451,"Poison DPS":61.66015625,"Torment Damage":176.25,"Torment Stacks":0,"Torment DPS":0,"Damage":45745.52613365524,"Effective Health":109255414.92537315,"Survivability":55544.186540606584,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":76158,"weapon1OffType":"Axe","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30690,"weapon2MainType":"Hammer","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":31914,"utility1Id":"","utility2Id":12492,"utility3Id":12633,"eliteId":45717},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,1016,1888],[1606,970,1066],[2071,2161,2143]],"lines":[30,32,55]}}'>
@@ -58,6 +58,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 | Skill               | Damage                                                                      |
 | ------------------- | --------------------------------------------------------------------------- |
+| <Skill id="46432"/> | 300 damage (F2 in Pig <Skill id="42944"/>)                         |
 | <Skill id="45743"/> | 200 damage (F2 in Rock Gazelle <Skill id="42944"/>)                         |
 | <Skill id="63075"/> | First <Control name="Daze"/> 100 damage, second<Control name="Daze"/> 125 damage, (Hammer 3)                                                       |
 | <Skill id="63330"/> | 200 damage (Hammer 5)                                                      |
@@ -74,10 +75,10 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 
 |                                            |                                                                                                                                                                                          |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="44617" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - Highest DPS pet to use in <Skill id="42944"/> if CC isn't needed.                                    |
-| <Skill id="43636" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Slight DPS loss but provides substantial CC both in and out of <Skill id="42944"/>.                            |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>. It can also be used as a CC pet if you need extra <Item id="100947"/> uptime.                                           |
-| <Skill id="41908" size="big" disableText/> | [Pheonix](https://wiki.guildwars2.com/wiki/Juvenile_Phoenix) - An alternative to Rock Gazelle. Does slighlty more CC, but <Skill id="64038"/> deals less damage than <Skill id="41524"/>. It can be used as a if you need extra <Item id="100947"/> uptime.       |
+| <Skill id="46432" size="big" disableText/> | [Pig](https://wiki.guildwars2.com/wiki/Juvenile_Pig) - Currently the highest DPS pet with <Skill id="41406"/>, also giving access to a strong CC skill, <Skill id="46432"/>, that also procs <Item id="100947"/>.       |
+| <Skill id="43548" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) - A slight DPS loss compared to Pig, but gives access to <Skill id="43548"/> for additional <Condition name="Vulnerability"/>.        |
+| <Skill id="45743" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) - Provides substantial CC on a low cooldwon  with <Skill id="45743"/>.                            |
+| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) - Provides a 5 second smoke combo field to stack <Effect name="Stealth"/>.                                        |
 
 </GridItem>
 
@@ -102,6 +103,7 @@ Overall this is a very well-rounded build that is rewarding to play in both PuGs
 Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using. 
 #### Additional Options 
 
+- <Item name="Relic of the Dragonhunter"/> on fights with short phases that you can cast <Skill name="Frost Trap"/> at the start of, such as Skorvald.
 - Warhorn for <Boon name="Might"/> pre-stacking, can use <Item name="Concentration" type="Sigil"/> in prestack warhorn.
 - Weapons with specific slaying sigils and/or <Item name="Night" type="Sigil" /> (see [Cheat Sheet](/guides/cheat-sheet) and [CM Guides](/cm-guides/ranger/power-soulbeast)).
 - Longbows or Hammers with <Item name="Severance" type="Sigil"/> are strong for several bosses, especially in faster groups. Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast)) for more information.
@@ -181,26 +183,26 @@ For that reason you can find a video below with openers for each of the CM bosse
 
 1.  <Skill name="Barrage"/> (Longbow 5)
 2.  _Swap to Hammer_
-3.  <Skill id="63075"/> (Hammer 3)
-4.  <Skill name="Sicem"/> (during the cast of <Skill id="63075"/>)
-5.  <Skill name="Frost Trap"/>
+3.  <Skill name="Frost Trap"/>
+4.  <Skill id="63075"/> (Hammer 3) make sure to stow or cancel after the first hit
+5.  <Skill name="Sicem"/> (during the cast of <Skill id="63075"/>)
 6.  <Skill id="63131"/> (Hammer 4)
 7.  <Skill id="63335"/> (Hammer 2)
 8.  _Weaponswap_
-9.  _Continue with Sword or Axe burst from step 6_
+9.  _Continue with Sword or Axe opener from step 6_
 
-Note: If you don't precast <Skill name="Barrage"/>, you may want to use <Skill name="Worldly Impact"/> or <Skill id="63208"/> early to proc <Item id="100947"/>.
+Note: If you don't precast <Skill name="Barrage"/> or use <Skill id="46432"/> for CC, you will want to use <Skill name="Worldly Impact"/> after the first hit of <Skill id="63075"/> to proc <Item id="100947"/>.
 
 ### Sword Opener
 
 1.  <Skill name="Barrage"/> (Longbow 5)
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-3.  <Skill name="Point Blank Shot"/> (Longbow 4)
-4.  <Skill name="Frost Trap"/>
+3.  <Skill name="Frost Trap"/>
+4.  <Skill name="Point Blank Shot"/> (Longbow 4)
 5.  _Weaponswap_
-6.  <Skill id="69203"/> (Sword 2)
-7.  <Skill id="12482"/> (Sword 3)
-8.  <Skill name="Path of Scars"/> (Axe 4)
+6.  <Skill name="Path of Scars"/> (Axe 4)
+7.  <Skill id="69203"/> (Sword 2)
+8.  <Skill id="12482"/> (Sword 3)
 9.  <Skill name="Worldly Impact"/> (Axe 5)
 10. <Skill name="Whirling Defense"/> (Axe 5)
 11. <Skill id="69203"/> (Sword 2)
@@ -209,12 +211,12 @@ Note: If you don't precast <Skill name="Barrage"/>, you may want to use <Skill n
 
 1.  <Skill name="Barrage"/> (Longbow 5)
 2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-3.  <Skill name="Point Blank Shot"/> (Longbow 4)
-4.  <Skill name="Frost Trap"/>
+3.  <Skill name="Frost Trap"/>
+4.  <Skill name="Point Blank Shot"/> (Longbow 4)
 5.  _Weaponswap_
-6.  <Skill name="Splitblade"/> (Axe 2)
-7.  <Skill name="Winters Bite"/> (Axe 3)
-8.  <Skill name="Path of Scars"/> (Axe 4)
+6.  <Skill name="Path of Scars"/> (Axe 4)
+7.  <Skill name="Splitblade"/> (Axe 2)
+8.  <Skill name="Winters Bite"/> (Axe 3)
 9.  <Skill name="Worldly Impact"/> (Axe 5)
 10. <Skill name="Whirling Defense"/> (Axe 5)
 11. <Skill name="Splitblade"/> (Axe 2)
@@ -232,20 +234,19 @@ If you have a _Mistlock Singularity_ present you can use this rotation:
 4.  `Optional` Use <Skill id="12537"/> then change back the utility that it was in place of.
 5.  <Skill id="12621"/> to blast might.
 6.  <Skill id="31914"/> to extend your boons.
-7.  Pick up <Skill id="5516"/> if there is one.
-8.  <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
+7.  <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and trigger the boss.
 
 If you don't have _Mistlock Singularity_ present you can use this simplified rotation:
 
 1.  If a fire field isn’t present, equip an offhand torch and use <Skill id="12504"/>.
 2.  <Skill id="12621"/> to blast might.
 3.  <Skill id="31914"/> to extend your boons.
-4.  Pick up <Skill id="5516"/> if there is one.
+
 
 </Card>
 ### Golem Rotation
 
-<Video youtube="kHk1W5KpYG0" caption="by vpo"/>
+<Video youtube="" caption=""/>
 
 Note: The golem benchmark uses a different build setup than the ones above due to its use in raids. Check the description of the benchmark for a link to the build used.
 
