@@ -1,4 +1,5 @@
 ---
+archive: true
 skills:
   - 30461
   - 9109
@@ -6,12 +7,7 @@ skills:
 Traits:
   - 551
   - 586
-title: Healadin
 hidden: false
-archive: true
-rating: Meta
-role: April Fool
-profession: Guardian
 specialization: Firebrand
 boons:
   - name: Aegis
@@ -27,14 +23,18 @@ boons:
     uptime: 100%
     variant: party
 code: "[&DQExOQ0mPj9LFwAAeAEAAFMXAAC5AQAAcRIAAAAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 5
   - 2
   - 5
   - 1
   - 1
-date: "2022-03-31T20:20:16.252Z"
+date: "2023-12-18T11:36:40.905Z "
+title: Healadin
+rating: Meta
+role: April Fool
+profession: Guardian
+cmGuide: ""
 ---
 
 <Divider text="Overview"/>
@@ -47,12 +47,16 @@ While there is no dedicated healing or tanking classes in Guild Wars 2, I've des
 </GridItem>
 
 <GridItem>
-<GifPlayer caption="" url="https://pub-80c25841bf1e4cbda246ab1b42798500.r2.dev/clown_pepe.mp4"/>
+![](https://cdn.discordapp.com/attachments/611680795240693761/1186270420945612820/chadbrand.png?ex=6592a36c&is=65802e6c&hm=0d33b13009f91158e572bd1c93c9a6f8a846db1c86d39dac17eb50b0945e16b3&)
 </GridItem>
 </Grid>
 
 <Divider text="Equipment"/>
+<CharacterWithAr> 
+<Character title="Healadin" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":23745,"Armor":4157,"Power":2711,"Precision":1000,"Toughness":2886,"Vitality":2320,"Ferocity":0,"Condition Damage":1000,"Expertise":0,"Concentration":358,"Healing Power":1881,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.43866666666666665,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Outgoing Healing":0.5485,"Effective Power":4481.621875,"NonCrit Effective Power":3897.0625,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage Tick":117.875,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage Tick":411.125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":126.192375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":134.40625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":175.0875,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":196433761.19402987,"Survivability":99864.64727708687,"Effective Healing":1477.73355,"Healing":1477.73355}},"armor":{"weight":"Heavy","helmAffix":"Cleric","helmRuneId":24699,"helmRune":"Dolyak","helmRuneCount":6,"helmInfusionId":37135,"shouldersAffix":"Cleric","shouldersRuneId":24699,"shouldersRune":"Dolyak","shouldersRuneCount":6,"shouldersInfusionId":37135,"coatAffix":"Cleric","coatRuneId":24699,"coatRune":"Dolyak","coatRuneCount":6,"coatInfusionId":37135,"glovesAffix":"Cleric","glovesRuneId":24699,"glovesRune":"Dolyak","glovesRuneCount":6,"glovesInfusionId":37135,"leggingsAffix":"Cleric","leggingsRuneId":24699,"leggingsRune":"Dolyak","leggingsRuneCount":6,"leggingsInfusionId":37135,"bootsAffix":"Cleric","bootsRuneId":24699,"bootsRune":"Dolyak","bootsRuneCount":6,"bootsInfusionId":37135},"weapon":{"weapon1MainId":30692,"weapon1MainType":"Mace","weapon1MainSigil1Id":24607,"weapon1MainAffix":"Cleric","weapon1MainInfusion1Id":37135,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":74326,"weapon1OffAffix":"Cleric","weapon1OffInfusionId":37135,"weapon2MainId":76158,"weapon2MainType":"Axe","weapon2MainSigil1Id":24582,"weapon2MainAffix":"Cleric","weapon2MainInfusion1Id":37135,"weapon2OffId":86098,"weapon2OffType":"Focus","weapon2OffSigilId":24607,"weapon2OffAffix":"Cleric","weapon2OffInfusionId":37135},"backAndTrinket":{"backItemAffix":"Cleric","backItemInfusion1Id":37135,"backItemInfusion2Id":37135,"amuletAffix":"Cleric","ring1Affix":"Cleric","ring1Infusion1Id":37135,"ring1Infusion2Id":37135,"ring1Infusion3Id":37135,"ring2Affix":"Cleric","ring2Infusion1Id":37135,"ring2Infusion2Id":37135,"ring2Infusion3Id":37135,"accessory1Affix":"Cleric","accessory1InfusionId":37135,"accessory2Affix":"Cleric","accessory2InfusionId":37135},"consumables":{"foodId":12473,"utilityId":81157,"relicId":100411},"skills":{"healId":41714,"utility1Id":9245,"utility2Id":45460,"utility3Id":9246,"eliteId":30461},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[581,580,586],[1899,549,1682],[2086,2116,2159]],"lines":[13,49,62]}}'>
 
+</Character>
+</CharacterWithAr> 
 <Divider text="Build"/>
 
 <Grid>
