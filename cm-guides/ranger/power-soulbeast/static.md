@@ -3,7 +3,7 @@ title: Soulbeast CM guides
 type: Static
 profession: Ranger
 specialization: Soulbeast
-date: "2023-12-08T21:25:27.996Z "
+date: "2023-12-19T18:44:42.767Z "
 disableBosses:
   - LightAi
   - DarkAi
@@ -595,7 +595,7 @@ Place your <Skill name="Frost Trap"/> and repeat the burst from phase 1 except f
 <Boss name="artsariiv" video="8bQUWBhMaHo" videoCreator="Jetrell" foodId="91805" utilityId="9443" healId="31914" utility1Id="12633" utility2Id="12491" utility3Id="12492" eliteId="45717" weapon1MainAffix="Berserker" weapon1MainType="Longbow" weapon1MainSigil1="Hydromancy" weapon1MainSigil2="Air" weapon1MainInfusion1Id="37131" weapon2MainType="Axe" weapon2MainAffix="Berserker" weapon2MainSigil1="Force" weapon2OffAffix="Berserker" weapon2OffType="Axe" weapon2OffSigil="Severance" weapon2OffInfusionId="37131">
 
 - Pet: <Skill id="43636" disableText/> Rock Gazelle for CC phases.
-- Take <Trait name="Oppressive Superiority"/> and <Trait name="Trappers Expertise"/> (when precasting traps).
+- Take <Trait name="Oppressive Superiority"/> and <Trait name="Wilting Strike"/> instead of <Trait name="Natural Healing"/> for the first CC.
 - With good instabilities use <Item id="73191"/> as Utility food.
 
 </Boss>
@@ -663,7 +663,8 @@ Jump over the shockwave while casting <Skill name="Rapid Fire"/>.
 <CMInformation title="Split 1">
 <InformationBlock>
 Command your unmerged pet to use <Skill id="43636"/> on your assigned corner.
-Use <Skill name="Point Blank Shot"/> yourself.
+This will also apply <Condition name="Weakness"/> due to <Trait name="Wilting Strike"/>.
+Use <Skill name="Point Blank Shot"/> while moving towards the clone.
 Then enter <Skill name="Beastmode"/> again and finish the CC with <Skill id="45743"/>.
 Use _Nova Launch_ to get back to the center.
 </InformationBlock>
@@ -679,6 +680,7 @@ Use _Nova Launch_ to get back to the center.
 2. <Skill name="Point Blank Shot"/> (Longbow 4)
 3. <Skill name="Beastmode"/>
 4. <Skill id="45743"/> (F2)
+5. _Nova Launch_
 
 </IdealRotation>
 </Phase>
@@ -736,6 +738,7 @@ Finally, finish the CC phase with <Skill name="Point Blank Shot"/> and _Nova Lau
 2. _Weapon Swap_
 3. <Skill id="45743"/> (F2)
 4. <Skill name="Point Blank Shot"/> (Longbow 4)
+5. _Nova Launch_
 
 </IdealRotation>
 </Phase>
