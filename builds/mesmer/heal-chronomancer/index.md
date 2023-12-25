@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T17:48:59.958Z "
+date: "2023-12-25T17:49:54.466Z "
 ---
   
 <Warning> 
@@ -94,7 +94,7 @@ If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and
 <GridItem sm="7">
 ### Weapons Choices
 
-Always play Shield offhand on one weapon-set.
+Always play Shield offhand on your main weapon-set.
 
 <Grid>
 <GridItem sm="6">
