@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T18:20:49.727Z "
+date: "2023-12-25T18:26:11.629Z "
 ---
   
 <Warning> 
@@ -306,9 +306,9 @@ At the boss
 - Use <Skill name="Unstable Bladestorm"/>.
 
 </Card>
-### Golem Rotation
+### Quickness Precast
 
-<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
+<Video youtube="ed76iNEw_Pg" caption="by drauskam"/>
 
 ### Rotation Adjustments
 The Opener takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
