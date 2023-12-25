@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T17:07:39.425Z "
+date: "2023-12-25T17:37:08.270Z "
 ---
   
 <Warning> 
@@ -48,19 +48,21 @@ This build is made for PuGs environments. More info about building effective tea
 </Warning> 
 
 
-The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.  
+The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
+
+The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
+
+It offers a great amount of healing through clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>, etc.
+
+You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> in order to deal with <Instability name="No Pain, No Gain"/>.
+
+<Warning> 
+
+This build has a great boon uptime as long as you can generate clones/phantasms and can struggles to provide long lasting boons during downtimes or precast scenarios. 
+
+Compared to <Specialization name="Firebrand" text="Heal Firebrand"/> we recommend to start playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> as an <Boon name="Alacrity"/> provider until you reached a certain level of depth build knowledge.
  
-Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
-  
-To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
-
-You'll provide boon removal through a various range of options, especially by utilising <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/>. 
-
-The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
-
-If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
-
-This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
+</Warning>
 
 <Divider text="Equipment" />   
 <CharacterWithAr>
