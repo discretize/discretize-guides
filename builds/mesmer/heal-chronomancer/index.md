@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T18:20:28.557Z "
+date: "2023-12-25T18:20:49.727Z "
 ---
   
 <Warning> 
@@ -72,7 +72,7 @@ Note that this build variant is optimized for 150 agony resistance and providing
 
 If you have more Agony Resistance, feel free to swap out gear for additional Minstrel stats.
 
-<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
+<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
 
 In case you struggle to keep up <Boon name="Regeneration"/> or simply want to use your Raid setup, full Harrier can be played alternatively, loosing some <Attribute name="Healing Power"/> and a massive amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
 
