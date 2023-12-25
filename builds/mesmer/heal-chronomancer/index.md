@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T17:37:51.541Z "
+date: "2023-12-25T17:38:17.009Z "
 ---
   
 <Warning> 
@@ -87,12 +87,6 @@ If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and
 
 </Character>
 </CharacterWithAr>
-
-<Warning>  
-
-Heal Chrono is supposed to be played in PuGs. More info about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Boon Chrono](/builds/mesmer/power-chronomancer/) or swap to one of the alternative boon builds.
- 
-</Warning> 
 
 <Divider text="Build"/>
  
