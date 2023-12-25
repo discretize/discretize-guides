@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T18:37:20.626Z "
+date: "2023-12-25T18:40:08.573Z "
 ---
   
 <Warning> 
@@ -141,7 +141,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
 ### Defiance Bar Damage
-Numbers with and without <Item id="24639"/> accounted.
+Numbers without and with <Item id="24639"/> accounted.
 |                                      |                          |
 | ----------------------------------   | --------------------     |
 | <Skill name="Time Sink"/>            | 100/130-400/520 damage   |
