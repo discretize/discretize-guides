@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T18:40:08.573Z "
+date: "2023-12-25T19:16:12.890Z "
 ---
   
 <Warning> 
@@ -136,6 +136,10 @@ but inspiration opens a ton of different optimisations depending on your needs.
 
 <Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> for a maxed out rez potential as wells as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
 
+<Trait name="Blurred Inscriptions"/> can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.
+
+Mental Defence is very situational, but it can help dealing with <Condition name="Weakness"/> on Arstariiv.
+
 Utilise <Specialization name="Mirage"/> for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
@@ -166,13 +170,12 @@ Check out the toolkit below to decide.
 
 |                                                              |                                                                                                                                                                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Well of Calamity" size="big" disableText/>          | Highest damage priority.                                                                                                                                                         |
-| <Skill name="Well of Action" size="big" disableText/>          | Necessary in order to provide 8 <Boon name="Might"/> and permanent <Boon name="Fury"/>.                                                                                                                                                         |
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain" />.                                                                                                                                                         |
-| <Skill name="Well of Senility" size="big" disableText/>          | 300 break bar damage combined with a small dps gain compared to <Skill name="Phantasmal Disenchanter"/>.                                                                                                                                                         |
-| <Skill name="Mantra of Pain" size="big" disableText/>          | A personal dps gain, when no additional utility is required.                                                                                                                 |
-| <Skill name="Mantra of Distraction" size="big" disableText/>          | Two instant casts of 150 break bar damage each.                                                                                                                                                         |
-| <Skill name="Signet of Domination" size="big" disableText/>          | 300 break bar damage immediately.                                                                                                                                                         |
+| <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.|
+| <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                                                         |
+| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 3-4 stacks of <Boon name="Stability"/> on each of the three instances.|
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses,                                                                                                                 |
+| <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
+| <Skill name="Signet of Inspiration" size="big" disableText/>          | 300 break bar damage immediately.                                                                                                                                                         |
 | <Skill name="Gravity Well" size="big" disableText/>          | Higher DPS compared to <Skill name="Signet of Humility"/> but slower and less CC.                                                                                                                                                         |
 | <Skill name="Mantra of Concentration" size="big" disableText/>          | Two instant cast of group-wide <Boon name="Stability"/> and additionally <Boon name="Aegis"/> when channeled e.g. to single handedly block the AoE at the start of Arstariiv p2 and p3.         
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Group-wide condi cleanse.        
