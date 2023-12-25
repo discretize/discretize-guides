@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T19:16:12.890Z "
+date: "2023-12-25T19:20:14.417Z "
 ---
   
 <Warning> 
@@ -175,10 +175,7 @@ Check out the toolkit below to decide.
 | <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 3-4 stacks of <Boon name="Stability"/> on each of the three instances.|
 | <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses,                                                                                                                 |
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
-| <Skill name="Signet of Inspiration" size="big" disableText/>          | 300 break bar damage immediately.                                                                                                                                                         |
-| <Skill name="Gravity Well" size="big" disableText/>          | Higher DPS compared to <Skill name="Signet of Humility"/> but slower and less CC.                                                                                                                                                         |
-| <Skill name="Mantra of Concentration" size="big" disableText/>          | Two instant cast of group-wide <Boon name="Stability"/> and additionally <Boon name="Aegis"/> when channeled e.g. to single handedly block the AoE at the start of Arstariiv p2 and p3.         
-| <Skill name="Mantra of Resolve" size="big" disableText/>          | Group-wide condi cleanse.        
+| <Skill name="Signet of Inspiration" size="big" disableText/>          | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>.     
 | <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips.                                                               
 | <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
 | **Skips**                                                    |                                                                                                                                                                                            |
