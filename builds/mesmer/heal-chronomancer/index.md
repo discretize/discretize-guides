@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T17:57:58.993Z "
+date: "2023-12-25T18:20:28.557Z "
 ---
   
 <Warning> 
@@ -72,7 +72,7 @@ Note that this build variant is optimized for 150 agony resistance and providing
 
 If you have more Agony Resistance, feel free to swap out gear for additional Minstrel stats.
 
-<Item id="99965"/> adds some barrier to the toolkit and great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
+<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
 
 In case you struggle to keep up <Boon name="Regeneration"/> or simply want to use your Raid setup, full Harrier can be played alternatively, loosing some <Attribute name="Healing Power"/> and a massive amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
 
@@ -121,12 +121,20 @@ Always play Shield offhand on your main weapon-set.
 
 ### Situational Traits
 
-<Traits traits1="Illusions" traits1Selected="Shatter Storm,Phantasmal Haste,Phantasmal Force" unembossed/>
+If you need more defiance bar damage at Arstariiv split phases or MAMA, exchange <Trait name="All's Well That Ends Well"/> with <Trait name="Delayed Reactions"/> and ideally play Mantras instead of Wells e.g. <Skill name="Mantra of Recovery"/> <Skill name="Mantra of Concentration"/> and <Skill name="Mantra of Distraction"/>. 
 
-You can go play Illusions over Domination when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
+Chaos and the remaining Chrono traits should stay the way they are, 
+but inspiration opens a ton of different optimisations depending on your needs.
 
-<Trait name="All's Well That Ends Well"/> can be taken for additional group sustain.
+<Trait name="Medic's Feedback"/> in groups with a lot of downstates.
 
+<Trait name="Sympathetic Visage"/> as additional condition cleanse 
+
+(make sure make use of <Skill name="Echo of Memory"/> to get the value)
+
+<Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
+
+<Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> for a maxed out rez potential as wells as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
 
 Utilise <Specialization name="Mirage"/> for skips!
 
