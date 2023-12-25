@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T17:38:17.009Z "
+date: "2023-12-25T17:48:59.958Z "
 ---
   
 <Warning> 
@@ -94,25 +94,19 @@ If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and
 <GridItem sm="7">
 ### Weapons Choices
 
-Always play Greatsword main-hand.
+Always play Shield offhand on one weapon-set.
 
 <Grid>
 <GridItem sm="6">
 #### Main-hand
-**Dagger:**
-- strongest raw dps output
-- ranged cleave damage
+**Scepter:**
+- best passive clone generation on your third Auto Attack
+- <Skill name="Illusionary Counter"/> a block with low cooldown
 
-**Sword:**
-- Auto-Attack chains boon rip
-- <Skill name="Blurred Frenzy"/> as a strong burst/evade
-- <Skill name="Swap"/> to leap at a target at max 600 range
-
-</GridItem>
-<GridItem sm="6">
 #### Off-hand
 **Shield:**
-- <Skill name="Tides of Time"/> adds 8 group <Boon name="Might"/>
+- <Skill name="Echo of Memory"/> two blocks that generate phantasms for additional boon uptime and <Condition name="Slow"/> 
+- <Skill name="Tides of Time"/> grants 8 group <Boon name="Might"/> and half of the required <Boon name="Swiftness"/>
 
 **Pistol:**
 - <Skill name="Magic Bullet"/> is your highest CC option 
