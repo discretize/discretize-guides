@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T17:49:54.466Z "
+date: "2023-12-25T17:57:58.993Z "
 ---
   
 <Warning> 
@@ -117,7 +117,7 @@ Always play Shield offhand on your main weapon-set.
 
 </GridItem>
 </Grid>
-<Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
+<Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,1866" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978,1942"/>
 
 ### Situational Traits
 
