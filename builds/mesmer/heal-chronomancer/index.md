@@ -38,9 +38,9 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T16:28:54.200Z "
+date: "2023-12-25T16:43:45.755Z "
 ---
-The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals. 
+The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.  
  
 Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
   
@@ -61,6 +61,8 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 Note that this build variant is optimized for 150 agony resistance and providing yourself with permanent <Boon name="Regeneration"/> in order to achieve 100% boon duration (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>. 
 
 If you have more Agony Resistance, feel free to swap out gear for additional Minstrel stats.
+
+<Item id="99965"/> adds some barrier to the toolkit and great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
 
 In case you struggle to keep up <Boon name="Regeneration"/> or simply want to use your Raid setup, full Harrier can be played alternatively, loosing some <Attribute name="Healing Power"/> and a massive amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
 
