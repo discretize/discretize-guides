@@ -38,8 +38,16 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T16:51:34.038Z "
+date: "2023-12-25T17:07:39.425Z "
 ---
+  
+<Warning> 
+
+This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/effective-comp). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options. 
+ 
+</Warning> 
+
+
 The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.  
  
 Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
