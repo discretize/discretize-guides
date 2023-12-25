@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T16:43:45.755Z "
+date: "2023-12-25T16:51:34.038Z "
 ---
 The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.  
  
@@ -71,13 +71,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Character title="Full Harrier" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":20522,"Armor":2192,"Power":3131,"Precision":1000,"Toughness":1225,"Vitality":1533,"Ferocity":0,"Condition Damage":750,"Expertise":0,"Concentration":1186,"Healing Power":1671,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.9406666666666667,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.40854,"Effective Power":6155.309218125,"NonCrit Effective Power":5150.886375000001,"Power DPS":7909.228671884146,"Phantasm Effective Power":4011.5937499999995,"Power2 DPS":1600.312331536388,"Siphon DPS":0,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":0.68,"Bleeding DPS":65.4925,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0.81,"Confusion DPS":83.8769175,"Poison Damage Tick":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":9658.910420920534,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":1255.4317019999999,"Healing":1255.4317019999999}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Harrier","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Harrier","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Harrier","ring1Affix":"Harrier","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Harrier","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Harrier","accessory1InfusionId":49432,"accessory2Affix":"Harrier","accessory2InfusionId":49432},"consumables":{"foodId":68634,"utilityId":67528},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,0,0],[756,740,1866],[1987,1978,1942]],"lines":[1,23,40]}}'>
 
-<Item id="100947"/> instead of <Item id="100916"/> will increase your personal target damage, but eventually trade of cleave damage on Skorvald/Arkk/MAMA. 
+This setup reaches ~94% boon duration without <Boon name="Regeneration"/> beeing required.
 
-This setup can be used if you don't want to farm <Item id="24842"/> from dungeons.
-
-For PuGs we recommend to stick with <Item id="100916"/> due to overall longer phase times.
-
-Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
+If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and check out the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
 
 </Character>
 </CharacterWithAr>
