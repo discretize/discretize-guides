@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-28T18:01:07.651Z "
+date: "2023-12-28T18:02:11.835Z "
 ---
   
 <Warning> 
@@ -186,7 +186,7 @@ Check out the toolkit below to decide.
 | <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                       |
 | <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/>  | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door.                                                                                                                                    |
+
 | <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
 | <Skill name="Illusionary Ambush" size="big" disableText/>    | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
