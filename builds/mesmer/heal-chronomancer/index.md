@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-28T18:02:28.777Z "
+date: "2023-12-28T18:04:54.659Z "
 ---
   
 <Warning> 
@@ -149,14 +149,14 @@ Numbers without and with <Item id="24639"/> accounted.
 |                                      |                          |
 | ----------------------------------   | --------------------     |
 | <Skill name="Time Sink"/>            | 100/130-400/520 damage   |
-| <Skill name="Gravity Well"/>         | 550 damage within 3s     |
+| <Condition name="Slow"/>             | 50 damage per second     |
 | <Skill name="Signet of Humility"/>   | 600/800 damage           |
+| <Skill name="Gravity Well"/>         | 550 damage within 3s     |
 | <Skill name="Tides of Time"/>        | 2x 100/130 damage        |
 | <Skill name="Magic Bullet"/>         | 250/325 damage           |
 | <Skill name="Into the Void"/>        | 150 damage               |
-| <Condition name="Slow"/>             | 50 damage per second     |
-| <Skill name="Well of Senility"/>     | 300/400 damage after 3s  |
 | <Skill name="Signet of Domination"/> | 300/400 damage           |
+| <Skill name="Well of Senility"/>     | 300/400 damage after 3s  |
 | <Skill name="Mantra of Distraction"/>| 150/195 damage per cast  |
 
 </GridItem>
