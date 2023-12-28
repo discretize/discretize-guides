@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-28T17:58:29.903Z "
+date: "2023-12-28T17:59:37.893Z "
 ---
   
 <Warning> 
@@ -173,14 +173,14 @@ Check out the toolkit below to decide.
 | <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.|
 | <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                                                         |
 | <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 4->3 stacks of <Boon name="Stability"/> on each of the three instances.|
-| <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within three pulses.                                                                                                                 |
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses.                                                                                                                 |
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
 | <Skill name="Signet of Inspiration" size="big" disableText/>          | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>.     
 | <Skill name="Feedback" size="big" disableText/>              | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. (Situational Traits)                                                                                                                                                  |
 | <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage, in combination with <Item id="24639"/>, your go to choice for single target encounter.                                                                                                  |
 | <Skill name="Gravity Well" size="big" disableText/> | For AoE add group control.                                                                                                                               |
 | <Skill name="Signet of Domination" size="big" disableText/>     | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                       |
-| <Skill name="Well of Senility" size="big" disableText/>  | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes three boons.                                               |
+| <Skill name="Well of Senility" size="big" disableText/>  | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                               |
 | <Skill name="Mantra of Distraction" size="big" disableText/>  | Separates the amount of break bar damage into two AoE instant casts.                                                            |
 | **Skips**                                                                                                 |
 | <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                       |
