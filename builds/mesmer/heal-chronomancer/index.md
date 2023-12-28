@@ -38,14 +38,14 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-28T14:50:28.248Z "
+date: "2023-12-28T17:58:29.903Z "
 ---
   
 <Warning> 
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/effective-comp). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
  
-</Warning> 
+</Warning>  
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
@@ -173,7 +173,7 @@ Check out the toolkit below to decide.
 | <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.|
 | <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                                                         |
 | <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 4->3 stacks of <Boon name="Stability"/> on each of the three instances.|
-| <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses,                                                                                                                 |
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within three pulses.                                                                                                                 |
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
 | <Skill name="Signet of Inspiration" size="big" disableText/>          | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>.     
 | <Skill name="Feedback" size="big" disableText/>              | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. (Situational Traits)                                                                                                                                                  |
