@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-28T17:59:37.893Z "
+date: "2023-12-28T18:01:07.651Z "
 ---
   
 <Warning> 
@@ -177,7 +177,7 @@ Check out the toolkit below to decide.
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
 | <Skill name="Signet of Inspiration" size="big" disableText/>          | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>.     
 | <Skill name="Feedback" size="big" disableText/>              | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. (Situational Traits)                                                                                                                                                  |
-| <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage, in combination with <Item id="24639"/>, your go to choice for single target encounter.                                                                                                  |
+| <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage (in combination with <Item id="24639"/>) your go to choice for single target encounter.                                                                                                  |
 | <Skill name="Gravity Well" size="big" disableText/> | For AoE add group control.                                                                                                                               |
 | <Skill name="Signet of Domination" size="big" disableText/>     | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                       |
 | <Skill name="Well of Senility" size="big" disableText/>  | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                               |
