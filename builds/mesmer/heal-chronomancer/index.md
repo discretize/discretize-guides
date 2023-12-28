@@ -38,12 +38,12 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-25T19:20:14.417Z "
+date: "2023-12-28T14:50:28.248Z "
 ---
   
 <Warning> 
 
-This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/effective-comp). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options. 
+This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/effective-comp). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
  
 </Warning> 
 
@@ -134,7 +134,7 @@ but inspiration opens a ton of different optimisations depending on your needs.
 
 <Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
 
-<Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> for a maxed out rez potential as wells as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
+<Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> for a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
 
 <Trait name="Blurred Inscriptions"/> can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.
 
@@ -172,13 +172,17 @@ Check out the toolkit below to decide.
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.|
 | <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                                                         |
-| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 3-4 stacks of <Boon name="Stability"/> on each of the three instances.|
+| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 4->3 stacks of <Boon name="Stability"/> on each of the three instances.|
 | <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses,                                                                                                                 |
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
 | <Skill name="Signet of Inspiration" size="big" disableText/>          | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>.     
-| <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips.                                                               
-| <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| **Skips**                                                    |                                                                                                                                                                                            |
+| <Skill name="Feedback" size="big" disableText/>              | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. (Situational Traits)                                                                                                                                                  |
+| <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage, in combination with <Item id="24639"/>, your go to choice for single target encounter.                                                                                                  |
+| <Skill name="Gravity Well" size="big" disableText/> | For AoE add group control.                                                                                                                               |
+| <Skill name="Signet of Domination" size="big" disableText/>     | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                       |
+| <Skill name="Well of Senility" size="big" disableText/>  | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes three boons.                                               |
+| <Skill name="Mantra of Distraction" size="big" disableText/>  | Separates the amount of break bar damage into two AoE instant casts.                                                            |
+| **Skips**                                                                                                 |
 | <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                       |
 | <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
