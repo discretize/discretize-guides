@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:35:52.530Z "
+date: "2023-12-30T02:39:15.151Z "
 ---
   
 <Warning> 
@@ -192,18 +192,16 @@ The passive Clone generation gets covered by the third hit of your Scepter attac
 
 ### Healing
 Every summoning of Illusions (Clones/Phantasms) heals allies within a 360 radius.
-Following the Basics above in order to provide boons, already covers most of your sustained heal. 
+Following the Basics above, already covers most of your sustained heal. 
 
-Cast <Skill name="Mantra of Recovery"/> whenever it gets back to two charges to make use of the 
-<Boon name="Regeneration"/>, provided by <Trait name="Metaphysical Rejuvenation"/>.
+Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
+<Boon name="Regeneration"/> provided by <Trait name="Metaphysical Rejuvenation"/>.
 
 <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> add up to that, as most of your utility skill choices are going to fall into that category.
 
-After you initially ramped up your boons, try to safe up on Clones to shatter in case of foreseeable damage threats. 
+After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats. 
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
-
-It offers a great amount of healing through clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>
 
 </GridItem>
 
