@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T04:02:15.386Z "
+date: "2023-12-30T04:09:15.938Z "
 ---
   
 <Warning> 
@@ -153,7 +153,7 @@ Check out the toolkit below to decide.
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.|
 | <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                                                         |
-| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 4->3 stacks of <Boon name="Stability"/> on each of the three instances.|
+| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants <Boon name="Aegis"/> on the initial channel and 4-3 stacks of <Boon name="Stability"/> on each of the three instances.|
 | <Skill name="Well of Precognition" size="big" disableText/>          | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses.                                                                                                                 |
 | <Skill name="Mantra of Resolve" size="big" disableText/>          | Your main tool dealing with condition pressure.                                                                                                                                                         |
 | <Skill name="Signet of Inspiration" size="big" disableText/>          | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>.     
@@ -180,7 +180,7 @@ Check out the toolkit below to decide.
 <GridItem xs="12" sm="6">
 
 ### Basics
-To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to create Clones/Phantasms.
+To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to constantly create Clones/Phantasms.
 
 Which can then be spent on Shatters, to trigger:
 - <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>
