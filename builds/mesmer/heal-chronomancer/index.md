@@ -47,7 +47,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T04:30:14.775Z "
+date: "2023-12-30T04:33:33.550Z "
 ---
   
 <Warning> 
@@ -109,21 +109,21 @@ If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and
 If you need more defiance bar damage at Arstariiv split phases or MAMA, exchange <Trait name="All's Well That Ends Well"/> with <Trait name="Delayed Reactions"/> and ideally play Mantras instead of Wells e.g. <Skill name="Mantra of Recovery"/> <Skill name="Mantra of Concentration"/> and <Skill name="Mantra of Distraction"/>. 
 
 Chaos and the remaining Chrono traits should stay the way they are, 
-but Inspiration opens a ton of different optimisations depending on your needs.
+but Inspiration opens a ton of different optimisations depending on your needs:
 
-<Trait name="Medic's Feedback"/> in groups with a lot of downstates.
+- <Trait name="Medic's Feedback"/> in groups with a lot of downstates.
 
-<Trait name="Sympathetic Visage"/> as additional condition cleanse 
+- <Trait name="Sympathetic Visage"/> as additional condition cleanse 
 
 (make sure make use of <Skill name="Echo of Memory"/> to get the value).
 
-<Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
+- <Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
 
-<Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
+- <Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
 
-<Trait name="Blurred Inscriptions"/> can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.
+- <Trait name="Blurred Inscriptions"/> can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.
 
-Mental Defence is very situational, but it can help dealing with <Condition name="Weakness"/> on Arstariiv.
+- Mental Defence is very situational, but it can help dealing with <Condition name="Weakness"/> on Arstariiv.
 
 Utilise <Specialization name="Mirage"/> for skips!
 
