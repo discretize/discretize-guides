@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T00:54:36.685Z "
+date: "2023-12-30T01:26:42.675Z "
 ---
   
 <Warning> 
@@ -196,31 +196,13 @@ Check out the toolkit below to decide.
 <Grid>
 <GridItem sm="7">
 
-### Skill priority
-To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as Phantasms/Wells are our main damage source, but also slower than most skills of other classes.
+### Basics
+To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you need to create Clones/Phantasms, which then can be spent on your Shatters.
 
-If you lose yourself in the rotation follow this priority list:
+The passive Clone generation will be covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting <Skill name="Illusionary Counter"/> (Scepter 2).
 
-1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swapping (utilising <Skill name="Signet of the Ether"/>).
+<Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/> which can used whenever you are on your secondary weapon-set.
 
-2.  On Sword <Skill name="Phantasmal Swordsman"/> follows the same principle.
-
-3. You want to use your utility skills in the following priority:
-  
-   1. <Skill name="Well of Calamity"/>
-   2. <Skill name="Well of Action"/>
-   3. <Skill name="Gravity Well"/> (when no CC is required)
-   4. <Skill name="Phantasmal Disenchanter"/>
-
-
-4.  Ideally <Skill name="Mirror Blade"/> can be used three times and <Skill name="Mind Stab"/> twice. On Dagger/Sword you basically prioritise the same way, <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
-
-4.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefor is supposed to get canceled as soon as one of the higher priority skills becomes available again.
-
-If the boss gets close to phasing, remember that your personal damage skills are faster than Wells and Phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
-
-</GridItem>
-<GridItem sm="5">
 ### Shatters
 Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
 
@@ -256,41 +238,6 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 It's important to note that Phantasms do not benefit from most modifiers unless it is stated to be the case.
 
 They do however benefit from <Effect name="Exposed"/>.
-
-### Opener
-Example with <Skill name="Continuum Split"/>:
-- <Skill name="Mantra of Pain"/> would usually be your dps choice if there is no need for <Skill name="Phantasmal Disenchanter"/> or <Skill name="Well of Senility"/> 
-
-- Start on Dagger/Sword
-
-1. **Precast** finished
-   1. <Skill name="Phantasmal Disenchanter"/> on <Instability name="No Pain, No Gain" /> days without a defiance bar
-   2. or <Skill name="Signet of Humility"/> + <Skill name="Time Sink"/> if the boss has a defiance bar (strips NPNG as well)
-
-1. <Skill name="Phantasmal Swordsman"/>
-1. <Skill name="Bladecall"/> -> Weapon Swap
-1. <Skill name="Mirror Blade"/>
-   1. <Skill name="Illusionary Wave"/> if the boss has a defiance bar 
- 
-1. <Skill name="Well of Calamity"/> (<Skill name="Continuum Split"/>)
-   1. <Skill name="Well of Action"/> (<Skill name="Mantra of Pain"/>)
-   2. <Skill name="Phantasmal Berserker"/> 
-   3. <Skill name="Signet of the Ether"/>
-   4. <Skill name="Phantasmal Berserker"/> (<Skill name="Split Second"/>) + remaining shatters
-   5. <Skill name="Mind Stab"/> -> <Skill name="Mirror Blade"/> (<Skill name="Continuum Split"/> ends)
-
-1. <Skill name="Well of Calamity"/> (<Skill name="Mantra of Pain"/>)
-1. <Skill name="Well of Action"/>
-1. <Skill name="Phantasmal Berserker"/>
-1. <Skill name="Signet of the Ether"/>
-1. <Skill name="Phantasmal Berserker"/>
-1. <Skill name="Mirror Blade"/>
-1. <Skill name="Mind Stab"/>
-1. Weapon Swap
-1. <Skill name="Phantasmal Swordsman"/>
-1. <Skill name="Unstable Bladestorm"/>
-1. <Skill name="Bladecall"/>
-2. remaining stacks of <Skill name="Mantra of Pain"/> 
 
 </GridItem>
 
