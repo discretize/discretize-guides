@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:26:42.675Z "
+date: "2023-12-30T01:29:03.345Z "
 ---
   
 <Warning> 
@@ -191,10 +191,10 @@ Check out the toolkit below to decide.
 </GridItem>
 </Grid>
 
-<Divider text="Details"/>
+<Divider text="Rotation / Skill usage"/> 
 
 <Grid>
-<GridItem sm="7">
+<GridItem xs="12" sm="6">
 
 ### Basics
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you need to create Clones/Phantasms, which then can be spent on your Shatters.
@@ -222,22 +222,6 @@ The durations depends on the amount of Clones spent.
 Since your Shatters will get rewinded as well, you can shatter **all** of them for additional boons.
 
 Make use of it at Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
-
-
-</GridItem>
-</Grid>
-
-<Divider text="Rotation / Skill usage"/> 
-
-<Grid>
-<GridItem xs="12" sm="6">
-
-### Information
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-
-It's important to note that Phantasms do not benefit from most modifiers unless it is stated to be the case.
-
-They do however benefit from <Effect name="Exposed"/>.
 
 </GridItem>
 
