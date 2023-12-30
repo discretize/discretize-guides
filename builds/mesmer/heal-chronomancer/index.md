@@ -47,7 +47,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T04:29:18.933Z "
+date: "2023-12-30T04:30:14.775Z "
 ---
   
 <Warning> 
@@ -225,7 +225,7 @@ The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Tra
 
 ### Stability / Aegis
 <Skill name="Distortion"/> and <Skill name="Mantra of Concentration"/> share <Boon name="Stability"/>,
-as well as one stack of <Boon name="Aegis"/> 
+as well as one stack of <Boon name="Aegis"/>. 
 
 While <Skill name="Well of Precognition"/> and <Skill name="Signet of Illusions"/> (with <Trait name="Blurred Inscriptions"/>) only grant <Boon name="Aegis"/> to allies. 
 
