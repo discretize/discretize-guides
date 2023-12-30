@@ -49,14 +49,14 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T20:27:36.502Z "
+date: "2023-12-30T20:36:51.821Z "
 ---
   
 <Warning> 
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
  
-</Warning>   
+</Warning>    
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
@@ -314,11 +314,9 @@ Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, t
 
 <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> add up to that, as most of your utility skill choices are going to fall into that category.
 
-### Burst Heal
+### Burst Heal/Condition Cleanse
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats. 
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
 
 The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
-
-### Condition Cleanse
