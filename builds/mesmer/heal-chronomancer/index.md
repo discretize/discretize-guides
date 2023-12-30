@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:30:34.577Z "
+date: "2023-12-30T01:33:25.757Z "
 ---
   
 <Warning> 
@@ -92,29 +92,7 @@ If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and
  
 <Grid> 
 <GridItem sm="7">
-### Weapons Choices
 
-<Grid>
-<GridItem sm="6">
-#### Main-hand
-**Scepter:**
-- best passive clone generation on your third Auto Attack
-- <Skill name="Illusionary Counter"/> a block with low cooldown
-
-#### Off-hand
-**Shield:**
-- <Skill name="Echo of Memory"/> two blocks that generate phantasms for additional boon uptime and <Condition name="Slow"/> 
-- <Skill name="Tides of Time"/> grants 8 group <Boon name="Might"/> and half of the required <Boon name="Swiftness"/>
-
-**Pistol:**
-- <Skill name="Magic Bullet"/> is your highest CC option 
-
-**Focus:**
-- <Skill name="Temporal Curtain"/> is a 5 target pull
-- <Skill name="Phantasmal Warden"/> mitigates projectiles
-
-</GridItem>
-</Grid>
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,1866" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978,1942"/>
 
 ### Situational Traits
