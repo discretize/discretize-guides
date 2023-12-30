@@ -21,15 +21,21 @@ conditions:
   - name: Blinded
   - name: Slow
 boons:
+  - name: Quickness
+    uptime: 100%
+    variant: party
   - name: Alacrity
     uptime: 100%
     variant: Party
   - name: Might
-    uptime: 8-16 stacks
+    uptime: 25 stacks
     variant: Party
   - name: Fury
     uptime: 100%
     variant: Party
+  - name: Regeneration
+    uptime: 100%
+    variant: party
 code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
 cmGuide: ""
 classification:
@@ -38,7 +44,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T04:18:57.963Z "
+date: "2023-12-30T04:20:14.193Z "
 ---
   
 <Warning> 
