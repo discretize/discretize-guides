@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:05:27.613Z "
+date: "2023-12-30T03:06:04.224Z "
 ---
   
 <Warning> 
@@ -174,7 +174,7 @@ Check out the toolkit below to decide.
 </GridItem>
 </Grid>
 
-<Divider text="Rotation / Skill usage"/> 
+<Divider text="Skill usage"/> 
 
 <Grid>
 <GridItem xs="12" sm="6">
