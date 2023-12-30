@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:57:59.486Z "
+date: "2023-12-30T04:02:15.386Z "
 ---
   
 <Warning> 
@@ -240,7 +240,7 @@ If the last stack of one of your Mantras gets used during the Continuum Split, i
 
 Use **all** Shatters for additional boons.
 
-Utilise <Skill name="Continuum Split"/> during Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
+<Skill name="Continuum Split"/> gets the most value at Precasts and during combat, if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
 
 <Card title="Precasting">
 At the Mistlock Singularity
