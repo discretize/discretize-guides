@@ -1,13 +1,18 @@
 ---
+title: Heal Boon Chronomancer
 hidden: true
 archive: false
+rating: Good
+role: Support
 author: Drauskam
+profession: Mesmer
 specialization: Chronomancer
 skills: []
 traits:
   - 2020
   - 2018
   - 853
+conditions: []
 boons:
   - name: Alacrity
     uptime: 100%
@@ -37,26 +42,21 @@ boons:
     uptime: on Demand
     variant: party
 code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
+cmGuide: ""
 classification:
   - 4
   - 1
   - 3
   - 3
   - 4
-date: "2023-12-30T18:24:35.263Z "
-title: Heal Boon Chronomancer
-rating: Good
-role: Support
-profession: Mesmer
-conditions: []
-cmGuide: ""
+date: "2023-12-30T20:27:36.502Z "
 ---
   
 <Warning> 
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
  
-</Warning>  
+</Warning>   
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
@@ -77,7 +77,7 @@ Compared to <Specialization name="Firebrand" text="Heal Firebrand"/> we recommen
 
 <Divider text="Equipment" />   
 <CharacterWithAr>
-<Character title="Harrier/Minstrel Mix" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1278,"Healing Power":1696,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.002,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.42279999999999995,"Effective Power":4794.889550625,"NonCrit Effective Power":4012.4598750000005,"Power DPS":6161.16535634795,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7597.201357386809,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1278.81264,"Healing":1278.81264}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Harrier","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":68634,"utilityId":67528},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[756,740,1866],[1987,1978,1942]],"lines":[45,23,40]}}'>
+<Character title="" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1278,"Healing Power":1696,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.002,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.42279999999999995,"Effective Power":4794.889550625,"NonCrit Effective Power":4012.4598750000005,"Power DPS":6161.16535634795,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7597.201357386809,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1278.81264,"Healing":1278.81264}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Harrier","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":68634,"utilityId":67528},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[756,740,1866],[1987,1978,1942]],"lines":[45,23,40]}}'>
 
 Note that this build variant is optimized for 150 agony resistance and providing yourself with permanent <Boon name="Regeneration"/> in order to achieve 100% boon duration (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>). 
 
@@ -85,16 +85,9 @@ If you have more Agony Resistance, feel free to swap out gear for additional Min
 
 <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
 
-In case you struggle to keep up <Boon name="Regeneration"/> or simply want to use your Raid setup, full Harrier can be played alternatively, loosing some <Attribute name="Healing Power"/> and a massive amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
+Using your Raid setup is possible, but you are going to loose some <Attribute name="Healing Power"/> and a decent amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-</Character>
-
-<Character title="Full Harrier" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":20522,"Armor":2192,"Power":3131,"Precision":1000,"Toughness":1225,"Vitality":1533,"Ferocity":0,"Condition Damage":750,"Expertise":0,"Concentration":1186,"Healing Power":1671,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.9406666666666667,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.40854,"Effective Power":6155.309218125,"NonCrit Effective Power":5150.886375000001,"Power DPS":7909.228671884146,"Phantasm Effective Power":4011.5937499999995,"Power2 DPS":1600.312331536388,"Siphon DPS":0,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":0.68,"Bleeding DPS":65.4925,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0.81,"Confusion DPS":83.8769175,"Poison Damage Tick":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":9658.910420920534,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":1255.4317019999999,"Healing":1255.4317019999999}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Harrier","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Harrier","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Harrier","ring1Affix":"Harrier","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Harrier","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Harrier","accessory1InfusionId":49432,"accessory2Affix":"Harrier","accessory2InfusionId":49432},"consumables":{"foodId":68634,"utilityId":67528},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[0,0,0],[756,740,1866],[1987,1978,1942]],"lines":[1,23,40]}}'>
-
-This setup reaches ~94% boon duration without <Boon name="Regeneration"/> being required.
-
-If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and check out the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
 
 </Character>
 </CharacterWithAr> 
