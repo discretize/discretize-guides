@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-10-22T15:26:19.007Z "
+date: "2023-12-30T18:32:12.174Z "
 title: Hybrid Soulbeast
 rating: Meta
 role: Condi Damage
@@ -29,7 +29,7 @@ This build is strong in [Sunqua Peak CM](/fractals/sunqua-peak/). In power group
 
 </Warning>
 
-<Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build is intended to be used for 99CM. For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+<Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build is intended to be used **only** for condi CMs (99,100). For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
 This build has a relatively unforgiving rotation and can be awkward to play in pugs due to a lack of CC. However, <Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is one of the highest damage builds on 99CM when played correctly.
 
@@ -82,8 +82,8 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 ### Pets
 |                                                       |                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Preferred pet for 100CM. F2 can be precast at mistlock. It is the best CDPS pet for when there are multiple targets.  |
-| <Skill id="46432" size="big" disableText/>     |  [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Best CDPS pet that also brings CC.
+| <Skill name="Sharpen Spines" size="big" disableText/>     |  [Bristleback](https://wiki.guildwars2.com/wiki/Juvenile_Bristleback) - Preferred DPS pet. F2 can be precast at mistlock.  |
+| <Skill id="46432" size="big" disableText/>     |  [Warthog](https://wiki.guildwars2.com/wiki/Juvenile_Warthog) - Alternative pet that also brings CC.
 
 </GridItem>
 </Grid>
@@ -94,8 +94,6 @@ If healing isn't an issue, <Item name="writofmasterfulmalice"/> provides a sligh
 <GridItem sm="6">
 
 The main idea behind the rotation is to use your high damage skills under the effects of <Skill name="Sic Em"/>. The rest of your utility skills can be used as soon as they are available. 
-
-On 99CM, make sure to use <Skill name="Rain of Spikes"/> in the center of the arena where possible to get extra procs from the invisible hitbox, or when there are multiple fears around Ai.
 
 Where possible, do not intterupt your auto attack chain. This is because the later attacks in the chain apply stacks of <Condition name="Bleeding"/> and <Condition name="Poisoned"/>. 
 
@@ -151,17 +149,17 @@ Use while Ai is still in mid:
 
 <Card title="Precasting">
 
-This build will not perform well outside of 99CM so this precasting section will be focused on 99CM precasts.
+This build will not perform well outside of Condi CMs so this precasting section will be focused on Condi CM precasts.
 
 #### **Skills**
 
-**<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. Lasts 30 seconds. Is not wiped when the fight starts on 100CM. If you use a second time while you still have charges left, the original charges will be overwritten.
+**<Skill name="Sharpening Stone"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. Lasts 30 seconds. Is not wiped when the fight starts on 99/100CM. If you use a second time while you still have charges left, the original charges will be overwritten.
 
-**<Skill name="Sharpen Spines"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. Lasts 30 seconds. Is not wiped when the fight starts on 100CM. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
+**<Skill name="Sharpen Spines"/> -** Used for some additional <Condition name="Bleeding"/> at the start of the fight. Lasts 30 seconds. Is not wiped when the fight starts on 99/100CM. This stacks in intensity so you can use the skill after taking the mistlock giving you 10 stacks of <Condition name="Bleeding"/>.
 
-**<Skill name="Double Arc"/> -** Can be precasted giving you the effect _Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges. The effect is not wiped when the fight starts on 99CM.
+**<Skill name="Double Arc"/> -** Can be precasted giving you the effect _Poisonous Strike_ lasting for 7 seconds. When you have this effect and are merged your next 2 attacks will inflict 1 stack of <Condition name="poisoned" text ="Poison"/> lasting for 6 seconds. This skill can be used twice giving you 3 charges. The effect is not wiped when the fight starts on 99/100CM.
 
-**<Skill name="Crippling Shot"/> -** Can be precasted giving you the effect _Bloodthirst_ lasting for 12 seconds. When you have this effect and are merged your next 3 attacks will inflict 1 stack of <Condition name="bleeding" text ="Bleed"/>. The effect is not wiped when the fight starts on 99CM.
+**<Skill name="Crippling Shot"/> -** Can be precasted giving you the effect _Bloodthirst_ lasting for 12 seconds. When you have this effect and are merged your next 3 attacks will inflict 1 stack of <Condition name="bleeding" text ="Bleed"/>. The effect is not wiped when the fight starts on 99/100CM.
 
 **<Skill name="Sic 'Em"/> -** Can be cast if the boss is triggered without starting the fight, allowing it to be targeted. The effect is not wiped. This allows you to delay your first **<Skill name="Sic 'Em"/>** to when the boss charges to the first wall. NOTE: this will cause any pets to immediately aggro to the boss. Should only be used if portalling from mistlock to the boss.
 
