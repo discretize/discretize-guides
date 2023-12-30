@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:53:22.007Z "
+date: "2023-12-30T03:57:59.486Z "
 ---
   
 <Warning> 
@@ -234,13 +234,13 @@ as long as you keep it for defiance breaks.
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
 
-If the last stack of one of your Mantras gets used during the Continuum Split, it does not get rewinded!
-
 The durations depends on the amount of Clones spent.
 
-Since your Shatters will get rewinded as well, you can shatter **all** of them for additional boons.
+If the last stack of one of your Mantras gets used during the Continuum Split, it does not get rewinded!
 
-Make use of it at Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
+Use **all** Shatters for additional boons.
+
+Utilise <Skill name="Continuum Split"/> during Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
 
 <Card title="Precasting">
 At the Mistlock Singularity
