@@ -13,13 +13,7 @@ traits:
   - 2018
   - 853
 conditions:
-  - name: Vulnerability
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
-  - name: Slow
+  - 'Map { "name": "Slow"}'
 boons:
   - name: Quickness/Alacrity
     uptime: 100%
@@ -53,7 +47,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T04:27:20.819Z "
+date: "2023-12-30T04:29:18.933Z "
 ---
   
 <Warning> 
