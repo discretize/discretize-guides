@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-28T18:07:18.878Z "
+date: "2023-12-30T00:35:46.573Z "
 ---
   
 <Warning> 
@@ -294,19 +294,18 @@ Example with <Skill name="Continuum Split"/>:
 <Card title="Precasting">
 At the Mistlock Singularity
 
-- Blast fire fields with <Skill name="The Prestige"/>.
-- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
-- Precast <Skill name="Mimic"/> and take the Singularity when your group is done pre-buffing.
+1. <Skill name="Well of Action"/>
+2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
+   1. <Skill name="Time Warp"/> 
+   2. all shatters
+1. <Skill name="Time Warp"/>
+2. all shatters
+2. <Skill name="Tides of Time"/>
+3. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
 
-At the boss
-
-- Use <Skill name="Well of Calamity"/> before your <Skill name="Mimic"/> timer runs out.
-- As long as you are not already in combat cast <Skill name="Tides of Time"/> and swap to your combat set.
-- Depending on the phase length and if CC is required, you can also precast <Skill name="Gravity Well"/> or <Skill name="Well of Senility"/>.
-- Use <Skill name="Unstable Bladestorm"/>.
 
 </Card>
-### Quickness Precast
+### Video Example
 
 <Video youtube="ed76iNEw_Pg" caption="by drauskam"/>
 
