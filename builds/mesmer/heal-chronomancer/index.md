@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:02:01.669Z "
+date: "2023-12-30T03:05:27.613Z "
 ---
   
 <Warning> 
@@ -125,7 +125,7 @@ Pistol is your strongest off-hand weapon when it comes to single target CC.
 
 That being said, Focus can be played instead, if you need <Skill name="Into the Void"/> for 5 target add pulls & <Boon name="Swiftness"/>, or <Skill name="Phantasmal Warden"/> as projectile mitigation.
 
-### Defiance Bar Damage
+### Defiance Bar Damage 
 Numbers without and with <Item id="24639"/> accounted.
 |                                      |                          |
 | ----------------------------------   | --------------------     |
@@ -190,6 +190,15 @@ The passive Clone generation gets covered by the third hit of your Scepter attac
 
 <Skill name="Well of Action"/> grants <Boon name="Fury"/> and one third of your <Boon name="Might"/> application after a 3 second delay, so be careful of not missing out. 
 
+### Shatters
+<Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
+ideally with 3 active Clones.
+
+The same can be applied to <Skill name="Time Sink"/>, 
+as long as you keep it for defiance breaks.
+
+<Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
+
 ### Healing
 Every summoning of Illusions (Clones/Phantasms) heals allies within a 360 radius.
 Following the Basics above, already covers most of your sustained heal. 
@@ -207,14 +216,6 @@ After you initially ramped up your boons, try to safe up on Clones, to shatter t
 
 <GridItem xs="12" sm="6">
 
-### Shatters
-<Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
-ideally with 3 active Clones.
-
-The same can be applied to <Skill name="Time Sink"/>, 
-as long as you keep it for defiance breaks.
-
-<Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
 
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
