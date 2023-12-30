@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:00:41.402Z "
+date: "2023-12-30T03:01:24.384Z "
 ---
   
 <Warning> 
@@ -123,7 +123,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 ### Alternative Weapon 
 Pistol is your strongest off-hand weapon when it comes to single target CC.
 
-That being said, Focus can be played instead, if you need <Skill name="Into the Void"/> for 5 target add pulls & <Boon name="Swiftness"/> and <Skill name="Phantasmal Warden"/> as projectile mitigation.
+That being said, Focus can be played instead, if you need <Skill name="Into the Void"/> for 5 target add pulls & <Boon name="Swiftness"/>, or <Skill name="Phantasmal Warden"/> as projectile mitigation.
 
 ### Defiance Bar Damage
 Numbers without and with <Item id="24639"/> accounted.
