@@ -9,7 +9,10 @@ traits:
   - 2018
   - 853
 boons:
-  - name: Quickness/Alacrity
+  - name: Alacrity
+    uptime: 100%
+    variant: party
+  - name: Quickness
     uptime: 100%
     variant: party
   - name: Might
@@ -21,17 +24,17 @@ boons:
   - name: Protection
     uptime: 100%
     variant: party
+  - name: Swiftness
+    uptime: ~60%
+    variant: party
+  - name: Regeneration
+    uptime: 100%
+    variant: party
   - name: "Stability "
     uptime: on Demand
     variant: party
   - name: Aegis
     uptime: on Demand
-    variant: party
-  - name: Regeneration
-    uptime: 100%
-    variant: party
-  - name: Swiftness
-    uptime: ~60%
     variant: party
 code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
 classification:
@@ -40,13 +43,12 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T17:57:15.157Z "
+date: "2023-12-30T18:24:35.263Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
 profession: Mesmer
-conditions:
-  - 'Map { "name": "Slow"}'
+conditions: []
 cmGuide: ""
 ---
   
@@ -104,33 +106,32 @@ If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and
 
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,1866" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978"/>
 
+|                                                         |                                                               |
+|---------------------------------------------------------|---------------------------------------------------------------|
+| <Trait name="Stretched Time" size="big" disableText/>     | Take this to provide your party with <Boon name="Alacrity"/>  |
+| <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
+
+Utilise <Specialization name="Mirage"/> for skips!
+
+<Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 </GridItem>
 
 <GridItem sm="5">
 ### Situational Traits
 
-If you need more defiance bar damage at Arstariiv split phases or MAMA, exchange <Trait name="All's Well That Ends Well"/> with <Trait name="Delayed Reactions"/> and ideally play Mantras instead of Wells e.g. <Skill name="Mantra of Recovery"/> <Skill name="Mantra of Concentration"/> and <Skill name="Mantra of Distraction"/>. 
-
-Chaos and the remaining Chrono traits should stay the way they are, 
-but Inspiration opens a ton of different optimisations depending on your needs:
-
-- <Trait name="Medic's Feedback"/> in groups with a lot of downstates.
-
-- <Trait name="Sympathetic Visage"/> as additional condition cleanse 
-
-(make sure make use of <Skill name="Echo of Memory"/> to get the value).
-
-- <Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
-
-- <Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
-
-- <Trait name="Blurred Inscriptions"/> can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.
-
-- Mental Defence is very situational, but it can help dealing with <Condition name="Weakness"/> on Arstariiv.
-
-Utilise <Specialization name="Mirage"/> for skips!
-
-<Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+|                                                               |                                                                                                                                                                                                                                                                                 |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Chaos**                                                     |                                                                                                                                                                                                                                                                                 |
+| <Trait name="Master of Manipulation" size="big" disableText/> | Can be used for an extra source of <Boon name="Aegis"/>.                                                                                                                                                                                                                        |
+| **Inspiration**                                               |                                                                                                                                                                                                                                                                                 |
+| <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights where there is a potential for a lot of downstates.                                                                                                                                                                                           |
+| <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
+| <Trait name="Warden's Feedback" size="big" disableText/>      | Has some great value in T4 for extra add pulls e.g. Chaos or Aetherblade.                                                                                                                                                                                                       |
+| <Trait name="Temporal Enchanter" size="big" disableText/>   | Its main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. |
+| <Trait name="Blurred Inscriptions" size="big" disableText/> | Can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.                                                                             |
+| <Trait name="Mental Defense" size="big" disableText/>       | Very situational, but it can help dealing with <Condition name="Weakness"/> on encounters such as Arstariiv.                                                                                                                                                                    |
+| **Chronomancer**                                              |                                                                                                                                                                                                                                                                                 |
+| <Trait name="Delayed Reactions" size="big" disableText/>    | Can be used as a source of slow CC as a last resort if no-one else will help.                                                                                                                                                                                                   |
 
 </GridItem>
 </Grid>
@@ -196,7 +197,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 - <Skill name="Echo of Memory"/> (Shield 4)
 - <Skill name="Deja Vu"/> (Shield 4 flip skill)
 - <Skill name="Tides of Time"/> (Shield 5)
-
+ 
 ### Staff
 - <Skill name="Winds of Chaos"/> (Staff 1)
 - <Skill name="Phase Retreat"/> (Staff 2)
