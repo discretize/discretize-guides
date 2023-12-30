@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:02:56.280Z "
+date: "2023-12-30T02:35:52.530Z "
 ---
   
 <Warning> 
@@ -180,15 +180,30 @@ Check out the toolkit below to decide.
 <GridItem xs="12" sm="6">
 
 ### Basics
-To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you need to create Clones/Phantasms, which then can be spent on your Shatters.
+To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to create Clones/Phantasms, which can then be spent on your Shatters.
 
-The passive Clone generation will be covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting <Skill name="Illusionary Counter"/> (Scepter 2).
+The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2).
 
-<Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/> which can used whenever you are on your secondary weapon-set.
+<Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/>, which can used whenever you are on your secondary weapon-set.
 
-<Skill name="Tides of Time"/> can be aligned with defiance breaks, but do not hold it for too long, otherwise you could drop low on <Boon name="Might"/>.
+<Skill name="Tides of Time"/> can be aligned with defiance breaks, but prevent holding it for too long, otherwise you could drop out on <Boon name="Might"/>.
 
 <Skill name="Well of Action"/> grants <Boon name="Fury"/> and one third of your <Boon name="Might"/> application after a 3 second delay, so be careful of not missing out. 
+
+### Healing
+Every summoning of Illusions (Clones/Phantasms) heals allies within a 360 radius.
+Following the Basics above in order to provide boons, already covers most of your sustained heal. 
+
+Cast <Skill name="Mantra of Recovery"/> whenever it gets back to two charges to make use of the 
+<Boon name="Regeneration"/>, provided by <Trait name="Metaphysical Rejuvenation"/>.
+
+<Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> add up to that, as most of your utility skill choices are going to fall into that category.
+
+After you initially ramped up your boons, try to safe up on Clones to shatter in case of foreseeable damage threats. 
+
+<Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
+
+It offers a great amount of healing through clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>
 
 </GridItem>
 
