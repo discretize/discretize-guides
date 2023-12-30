@@ -38,9 +38,9 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:41:11.835Z "
+date: "2023-12-30T02:50:09.795Z "
 ---
- 
+  
 <Warning> 
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
@@ -52,13 +52,13 @@ The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able 
 
 The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
-It offers a great amount of healing through clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>, etc.
+It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>, etc.
 
 You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> in order to deal with <Instability name="No Pain, No Gain"/>.
 
 <Warning>  
 
-This build has a great boon uptime as long as you can generate clones/phantasms and can struggles to provide long lasting boons during downtimes or precast scenarios. 
+This build has a great boon uptime as long as you can generate Clones/Phantasms, while it struggles to provide long lasting boons during downtimes. 
 
 Compared to <Specialization name="Firebrand" text="Heal Firebrand"/> we recommend to start playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> as an <Boon name="Alacrity"/> provider until you reached a certain level of depth build knowledge.
  
