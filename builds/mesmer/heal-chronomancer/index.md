@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:53:47.935Z "
+date: "2023-12-30T03:00:41.402Z "
 ---
   
 <Warning> 
@@ -86,7 +86,7 @@ This setup reaches ~94% boon duration without <Boon name="Regeneration"/> being 
 If you want aim for 100%, replace <Item id="24842"/> with <Item id="24839"/> and check out the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
 
 </Character>
-</CharacterWithAr>
+</CharacterWithAr> 
 
 <Divider text="Build"/>
  
@@ -121,7 +121,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
 ### Alternative Weapon 
-Pistol is your strongest offhand weapon when it comes to single target CC.
+Pistol is your strongest off-hand weapon when it comes to single target CC.
 
 That being said, Focus can be played instead, if you need <Skill name="Into the Void"/> for 5 target add pulls & <Boon name="Swiftness"/> and <Skill name="Phantasmal Warden"/> as projectile mitigation.
 
