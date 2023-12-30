@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:52:14.390Z "
+date: "2023-12-30T02:52:38.424Z "
 ---
   
 <Warning> 
@@ -106,7 +106,7 @@ but Inspiration opens a ton of different optimisations depending on your needs.
 
 <Trait name="Sympathetic Visage"/> as additional condition cleanse 
 
-(make sure make use of <Skill name="Echo of Memory"/> to get the value)
+(make sure make use of <Skill name="Echo of Memory"/> to get the value).
 
 <Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
 
