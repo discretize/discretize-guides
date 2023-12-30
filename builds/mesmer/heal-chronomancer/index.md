@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:29:03.345Z "
+date: "2023-12-30T01:30:34.577Z "
 ---
   
 <Warning> 
@@ -203,15 +203,6 @@ The passive Clone generation will be covered by the third hit of your Scepter at
 
 <Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/> which can used whenever you are on your secondary weapon-set.
 
-### Shatters
-Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
-
-Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many Clones as possible, to build up spare uptime.
-
-Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
-
-As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
-
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
 
@@ -226,6 +217,16 @@ Make use of it at Precasts and during combat mostly if you either need additiona
 </GridItem>
 
 <GridItem xs="12" sm="6">
+
+### Shatters
+Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
+
+Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many Clones as possible, to build up spare uptime.
+
+Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
+
+As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+
 <Card title="Precasting">
 At the Mistlock Singularity
 
