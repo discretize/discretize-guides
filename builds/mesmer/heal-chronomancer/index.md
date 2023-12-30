@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T00:48:38.150Z "
+date: "2023-12-30T00:54:36.685Z "
 ---
   
 <Warning> 
@@ -56,7 +56,7 @@ It offers a great amount of healing through clone related traits like <Trait nam
 
 You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> in order to deal with <Instability name="No Pain, No Gain"/>.
 
-<Warning> 
+<Warning>  
 
 This build has a great boon uptime as long as you can generate clones/phantasms and can struggles to provide long lasting boons during downtimes or precast scenarios. 
 
@@ -313,15 +313,6 @@ At the Mistlock Singularity
 
 <Video youtube="ed76iNEw_Pg" caption="by drauskam"/>
 
-### Rotation Adjustments
-The Opener takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
 
-Now it is up to you to figure out how many usages you can get at a certain fractal encounter and which phases would even be long enough to recommend using it.
-
-Oftentimes you won't even have access to all the skills that got used in the opener above, or maybe you still gonna have cooldown on your Weapon-Swap.
-
-Based on that, another approach could be to by-pass phases with low ressources by duplicating the few options you've got.
-
-Otherwise double-casting Wells only makes sense at 9s+. Therefor you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
 </GridItem>
 </Grid>
