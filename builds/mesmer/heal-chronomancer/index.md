@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:33:25.757Z "
+date: "2023-12-30T01:41:32.145Z "
 ---
   
 <Warning> 
@@ -119,6 +119,11 @@ Mental Defence is very situational, but it can help dealing with <Condition name
 Utilise <Specialization name="Mirage"/> for skips!
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+
+### Alternative Weapon 
+Pistol is your strongest offhand weapon when it comes to single target CC.
+
+That being said, Focus can be played instead, if you need <Skill name="Into the Void"/> for 5 target add pulls & <Boon name="Swiftness"/> and <Skill name="Phantasmal Warden"/> as projectile mitigation.
 
 ### Defiance Bar Damage
 Numbers without and with <Item id="24639"/> accounted.
