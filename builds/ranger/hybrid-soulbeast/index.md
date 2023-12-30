@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-12-30T18:32:12.174Z "
+date: "2023-12-30T18:40:19.167Z "
 title: Hybrid Soulbeast
 rating: Meta
 role: Condi Damage
@@ -25,7 +25,7 @@ cmGuide: ""
 ---
 <Warning>
 
-This build is strong in [Sunqua Peak CM](/fractals/sunqua-peak/). In power groups and other bosses this build will fall behind <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
+This build is strong in [Sunqua Peak CM](/fractals/sunqua-peak/) and Silent Surf CM. In power groups and other bosses this build will perform very poorly compared to <BuildLink specialization="Soulbeast" build="Power Soulbeast"/> - the power damage counterpart.
 
 </Warning>
 
