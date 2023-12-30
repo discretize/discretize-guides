@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:06:04.224Z "
+date: "2023-12-30T03:11:49.641Z "
 ---
   
 <Warning> 
@@ -190,16 +190,8 @@ The passive Clone generation gets covered by the third hit of your Scepter attac
 
 <Skill name="Well of Action"/> grants <Boon name="Fury"/> and one third of your <Boon name="Might"/> application after a 3 second delay, so be careful of not missing out. 
 
-### Shatters
-<Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
-ideally with 3 active Clones.
 
-The same can be applied to <Skill name="Time Sink"/>, 
-as long as you keep it for defiance breaks.
-
-<Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
-
-### Healing
+### Sustained Healing
 Every summoning of Illusions (Clones/Phantasms) heals allies within a 360 radius.
 Following the Basics above, already covers most of your sustained heal. 
 
@@ -208,6 +200,7 @@ Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, t
 
 <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> add up to that, as most of your utility skill choices are going to fall into that category.
 
+### Burst Healing
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats. 
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
@@ -216,6 +209,14 @@ After you initially ramped up your boons, try to safe up on Clones, to shatter t
 
 <GridItem xs="12" sm="6">
 
+### Shatters
+<Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
+ideally with 3 active Clones.
+
+The same can be applied to <Skill name="Time Sink"/>, 
+as long as you keep it for defiance breaks.
+
+<Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
 
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
