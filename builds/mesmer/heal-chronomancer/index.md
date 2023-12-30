@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:19:52.084Z "
+date: "2023-12-30T03:20:41.318Z "
 ---
   
 <Warning> 
@@ -194,7 +194,7 @@ The passive Clone generation gets covered by the third hit of your Scepter attac
 
 <Skill name="Tides of Time"/> can be aligned with defiance breaks, but prevent holding it for too long, otherwise you could drop out on <Boon name="Might"/>.
 
-<Skill name="Well of Action"/> grants <Boon name="Fury"/> and one third of your <Boon name="Might"/> application after a 3 second delay, so be careful of not missing out. 
+<Skill name="Well of Action"/> grants <Boon name="Fury"/> and 1/3 of your <Boon name="Might"/> application after a 3 second delay, so be careful of not missing out. 
 
 
 ### Sustained Healing
