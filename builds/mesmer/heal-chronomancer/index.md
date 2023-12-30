@@ -38,9 +38,9 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:39:15.151Z "
+date: "2023-12-30T02:40:18.649Z "
 ---
-  
+ 
 <Warning> 
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/effective-comp). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
