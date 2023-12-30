@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:41:32.145Z "
+date: "2023-12-30T01:53:34.290Z "
 ---
   
 <Warning> 
@@ -202,13 +202,13 @@ Make use of it at Precasts and during combat mostly if you either need additiona
 <GridItem xs="12" sm="6">
 
 ### Shatters
-Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
+<Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
+ideally with 3 active Clones.
 
-Most fractal encounters include downtimes in between their phases, which means that you would want to make use of as many Clones as possible, to build up spare uptime.
+The same can be applied to <Skill name="Time Sink"/>, 
+as long as you keep it for defiance breaks.
 
-Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
-
-As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+<Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
 
 <Card title="Precasting">
 At the Mistlock Singularity
