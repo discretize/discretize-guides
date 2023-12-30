@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:53:34.290Z "
+date: "2023-12-30T01:54:26.710Z "
 ---
   
 <Warning> 
@@ -186,17 +186,6 @@ The passive Clone generation will be covered by the third hit of your Scepter at
 
 <Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/> which can used whenever you are on your secondary weapon-set.
 
-### Continuum Split
-<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
-
-If the last stack of one of your Mantras gets used during the Continuum Split, it does not get rewinded!
-
-The durations depends on the amount of Clones spent.
-
-Since your Shatters will get rewinded as well, you can shatter **all** of them for additional boons.
-
-Make use of it at Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
-
 </GridItem>
 
 <GridItem xs="12" sm="6">
@@ -209,6 +198,17 @@ The same can be applied to <Skill name="Time Sink"/>,
 as long as you keep it for defiance breaks.
 
 <Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
+
+### Continuum Split
+<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
+
+If the last stack of one of your Mantras gets used during the Continuum Split, it does not get rewinded!
+
+The durations depends on the amount of Clones spent.
+
+Since your Shatters will get rewinded as well, you can shatter **all** of them for additional boons.
+
+Make use of it at Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
 
 <Card title="Precasting">
 At the Mistlock Singularity
@@ -224,7 +224,7 @@ At the Mistlock Singularity
 
 
 </Card>
-### Video Example
+### Precast Example
 
 <Video youtube="ed76iNEw_Pg" caption="by drauskam"/>
 
