@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T02:52:38.424Z "
+date: "2023-12-30T02:53:47.935Z "
 ---
   
 <Warning> 
@@ -110,7 +110,7 @@ but Inspiration opens a ton of different optimisations depending on your needs.
 
 <Trait name="Warden's Feedback"/> has some great value in T4 with add pulls e.g. Chaos or Aetherblade.
 
-<Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> for a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
+<Trait name="Temporal Enchanter"/>'s main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>.
 
 <Trait name="Blurred Inscriptions"/> can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.
 
