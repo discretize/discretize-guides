@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T01:54:26.710Z "
+date: "2023-12-30T02:02:56.280Z "
 ---
   
 <Warning> 
@@ -185,6 +185,10 @@ To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you 
 The passive Clone generation will be covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting <Skill name="Illusionary Counter"/> (Scepter 2).
 
 <Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/> which can used whenever you are on your secondary weapon-set.
+
+<Skill name="Tides of Time"/> can be aligned with defiance breaks, but do not hold it for too long, otherwise you could drop low on <Boon name="Might"/>.
+
+<Skill name="Well of Action"/> grants <Boon name="Fury"/> and one third of your <Boon name="Might"/> application after a 3 second delay, so be careful of not missing out. 
 
 </GridItem>
 
