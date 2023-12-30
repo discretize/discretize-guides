@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:01:24.384Z "
+date: "2023-12-30T03:02:01.669Z "
 ---
   
 <Warning> 
@@ -182,7 +182,7 @@ Check out the toolkit below to decide.
 ### Basics
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to create Clones/Phantasms, which can then be spent on your Shatters.
 
-The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2).
+The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/>.
 
 <Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/>, which can used whenever you are on your secondary weapon-set.
 
