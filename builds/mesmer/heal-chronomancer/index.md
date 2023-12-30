@@ -3,7 +3,7 @@ title: Heal Boon Chronomancer
 hidden: true
 archive: false
 rating: Good
-role: Power Damage
+role: Support
 author: drauskam
 profession: Mesmer
 specialization: Chronomancer
@@ -30,7 +30,7 @@ boons:
   - name: Fury
     uptime: 100%
     variant: Party
-code: "[&DQcKGQEdKB4jDwAABBMAAI8BAADPEgAA7RIAAAAAAAAAAAAAAAAAAAAAAAADLwBXADIAAA==]"
+code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
 cmGuide: ""
 classification:
   - 4
@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T04:14:36.803Z "
+date: "2023-12-30T04:18:57.963Z "
 ---
   
 <Warning> 
