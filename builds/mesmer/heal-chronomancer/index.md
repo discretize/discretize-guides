@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:51:14.363Z "
+date: "2023-12-30T03:53:22.007Z "
 ---
   
 <Warning> 
@@ -182,7 +182,7 @@ Check out the toolkit below to decide.
 ### Basics
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to create Clones/Phantasms.
 
-Which can then be spent on Shatters to trigger:
+Which can then be spent on Shatters, to trigger:
 - <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>
 - <Trait name="Illusionary Defense"/>
 - <Trait name="Bountiful Disillusionment"/> 
@@ -198,7 +198,8 @@ The passive Clone generation gets covered by the third hit of your Scepter attac
 
 
 ### Sustained Healing
-Every summoning of Illusions (Clones/Phantasms) heals allies within a 360 radius.
+Every summoning of Illusions heals allies within a 360 radius.
+
 Following the Basics above, already covers most of your sustained heal. 
 
 Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
