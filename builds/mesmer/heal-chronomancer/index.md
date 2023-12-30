@@ -1,7 +1,7 @@
 ---
 hidden: true
 archive: false
-author: drauskam
+author: Drauskam
 specialization: Chronomancer
 skills: []
 traits:
@@ -40,7 +40,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T17:57:03.105Z "
+date: "2023-12-30T17:57:15.157Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
