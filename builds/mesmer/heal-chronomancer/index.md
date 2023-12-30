@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:11:49.641Z "
+date: "2023-12-30T03:19:52.084Z "
 ---
   
 <Warning> 
@@ -180,7 +180,13 @@ Check out the toolkit below to decide.
 <GridItem xs="12" sm="6">
 
 ### Basics
-To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to create Clones/Phantasms, which can then be spent on your Shatters.
+To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to create Clones/Phantasms.
+
+Which can then be spent on Shatters to trigger:
+- <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>
+- <Trait name="Illusionary Defense"/>
+- <Trait name="Bountiful Disillusionment"/> 
+- <Trait name="Illusionary Membrane"/> + <Trait name="Chaotic Transference"/>.
 
 The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/>.
 
