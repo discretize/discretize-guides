@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T00:35:46.573Z "
+date: "2023-12-30T00:48:38.150Z "
 ---
   
 <Warning> 
@@ -231,12 +231,16 @@ Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep th
 As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
 
 ### Continuum Split
-<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
-The durations depends on the amount of Clones spent, but usually two Clones are the optimal amount.
+<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
 
-Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as often as usual. 
+If the last stack of one of your Mantras gets used during the Continuum Split, it does not get rewinded!
 
-Since your Shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
+The durations depends on the amount of Clones spent.
+
+Since your Shatters will get rewinded as well, you can shatter **all** of them for additional boons.
+
+Make use of it at Precasts and during combat mostly if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
+
 
 </GridItem>
 </Grid>
