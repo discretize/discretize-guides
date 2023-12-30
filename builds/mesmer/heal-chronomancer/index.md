@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:20:41.318Z "
+date: "2023-12-30T03:27:44.291Z "
 ---
   
 <Warning> 
@@ -206,7 +206,7 @@ Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, t
 
 <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> add up to that, as most of your utility skill choices are going to fall into that category.
 
-### Burst Healing
+### Burst Heal + Cleanse
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats. 
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
