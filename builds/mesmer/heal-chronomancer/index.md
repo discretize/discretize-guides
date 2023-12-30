@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-12-30T03:27:44.291Z "
+date: "2023-12-30T03:44:09.341Z "
 ---
   
 <Warning> 
@@ -210,6 +210,8 @@ Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, t
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats. 
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
+
+The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
 
 </GridItem>
 
