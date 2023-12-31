@@ -1,10 +1,10 @@
 ---
 title: Teamcomp 101
-date: "2023-12-18T14:20:06.838Z "
+date: "2023-12-31T14:14:05.520Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
-
+ 
 ## What is necessary to clear fractals efficiently?
 
 It boils down to five important concepts that need to be fulfilled permanently while in combat. Failing one of these will decelerate the speed and smoothness of the run:
@@ -38,12 +38,12 @@ By building your party around the following concepts you will find an in-game lf
 
 <Grid>
 <GridItem sm="6" md="6">
-### Alacrity
+### Alacrity Providers
 #### Heal
 | | |
 |-|-|
-| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is  |
-| <Boon name="Alacrity" size="big" disable text/> | Other builds such as  |
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is one of the strongest, if not the strongest heal build currently for fractals. It can provide either <Boon name="Alacrity"/> or <Boon name="Quickness"/>, as well as 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>. It has multikple options for on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, as well as other mitigation such as reflects, plenty of condi cleanse and Crowd Control. Finally it has a unique toolkit for T4s with access to blinks and movement abilities for skips along with <Effect name="Stealth"/> and some <Effect name="Superspeed"/>. |
+| Alac Heal | Other builds such as <Specialization name="Mechanist"/>, <Specialization name="Druid"/>, or <Specialization name="Tempest"/> are also perfectly viable, however while providing all of the necessary boon support and healing, can sometimes have less access to damage mitigation or only one skill that provides <Boon name="Stability"/> and <Boon name="Aegis"/>. This is fine as long as other people in your party recognise this and adapt their playstyle or builds to help, but if their attitude is for the healer to solo carry the group, these builds will be much harder to play. |
 
 #### Hybrid
 | | |
@@ -55,26 +55,26 @@ By building your party around the following concepts you will find an in-game lf
 |-|-|
 | <Specialization name="Renegade" size="big" disable text/> | <BuildLink build="Power Renegade" specialization="Renegade"/> is  |
 | <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Power Chronomancer" specialization="Chronomancer"/> is  |
-| <Boon name="Alacrity" size="big" disable text/> | Other builds such as  |
+| Power Alac | Other builds such as  |
 
 #### Condition
 | | |
 |-|-|
 | <Specialization name="Specter" size="big" disable text/> | <BuildLink build="Condi Specter" specialization="Specter"/> is  |
 | <Specialization name="Renegade" size="big" disable text/> | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> is  |
-| <Boon name="Alacrity" size="big" disable text/> | Other builds such as  |
+| Condi Alac | Other builds such as  |
 
 </GridItem>
 
 <GridItem sm="6" md="6">
-### Quickness
+### Quickness Providers
 #### Heal
 | | |
 |-|-|
-| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is  |
-| <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Heal Firebrand" specialization="Firebrand"/> is  |
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is one of the strongest, if not the strongest heal build currently for fractals. It can provide either <Boon name="Alacrity"/> or <Boon name="Quickness"/>, as well as 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>. It has multikple options for on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, as well as other mitigation such as reflects, plenty of condi cleanse and Crowd Control. Finally it has a unique toolkit for T4s with access to blinks and movement abilities for skips along with <Effect name="Stealth"/> and some <Effect name="Superspeed"/>.  |
+| <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Heal Firebrand"  specialization="Firebrand"/> provides 100% <Boon name="Quickness"/> uptime, 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>, utilities in terms of crowd control, reflects and shared <Boon name="Aegis"/>. It can even provide <Boon name="Resistance"/> for a short time with tomes. If your party is new and tank lots of damage, this is a strong build to play. |
 | <Specialization name="Herald" size="big" disable text/> | <BuildLink build="Heal Herald" specialization="Herald"/> is  |
-| <Boon name="Quickness" size="big" disable text/> | Other builds such as  |
+| Quick Heal | Other builds such as <Specialization name="Scrapper"/> are also perfectly viable, however while providing all of the necessary boon support and healing, can sometimes have less access to damage mitigation or only one skill that provides <Boon name="Stability"/> and <Boon name="Aegis"/>. This is fine as long as other people in your party recognise this and adapt their playstyle or builds to help, but if their attitude is for the healer to solo carry the group, these builds will be much harder to play.  |
 
 #### Hybrid
 | | |
@@ -86,14 +86,14 @@ By building your party around the following concepts you will find an in-game lf
 |-|-|
 | <Specialization name="Scrapper" size="big" disable text/> | <BuildLink build="Power Scrapper" specialization="Scrapper"/> is  |
 | <Specialization name="Herald" size="big" disable text/> | <BuildLink build="Power Herald" specialization="Herald"/> is  |
-| <Boon name="Quickness" size="big" disable text/> | Other builds such as  |
+| Power Quick | Other builds such as  |
 
 #### Condition
 | | |
 |-|-|
 | <Specialization name="Harbinger" size="big" disable text/> | <BuildLink build="Condi Harbinger" specialization="Harbinger"/> is  |
 | <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> is  |
-| <Boon name="Quickness" size="big" disable text/> | Other builds such as  |
+| Condi Quick | Other builds such as  |
 
 </GridItem>
 </Grid>
