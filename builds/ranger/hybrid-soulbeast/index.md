@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-12-30T18:40:19.167Z "
+date: "2023-12-31T14:16:08.147Z "
 title: Hybrid Soulbeast
 rating: Meta
 role: Condi Damage
@@ -29,9 +29,9 @@ This build is strong in [Sunqua Peak CM](/fractals/sunqua-peak/) and Silent Surf
 
 </Warning>
 
-<Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build is intended to be used **only** for condi CMs (99,100). For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
+<Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is a DPS build with very high sustained damage but not much utility. This build is intended to be used **only** for 99 and 100 CMs. For most other fractals, especially if your group is playing power builds, you will be better off playing the power variant found [here](/builds/ranger/power-soulbeast/).
 
-This build has a relatively unforgiving rotation and can be awkward to play in pugs due to a lack of CC. However, <Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is one of the highest damage builds on 99CM when played correctly.
+This build has a relatively unforgiving rotation and can be awkward to play in pugs due to a lack of CC. However, <Specialization name="Soulbeast" text="Hybrid Soulbeast"/> is one of the highest damage builds on 99 and 100CM when played correctly.
 
 <Divider text="Equipment"/>
 
@@ -149,7 +149,7 @@ Use while Ai is still in mid:
 
 <Card title="Precasting">
 
-This build will not perform well outside of Condi CMs so this precasting section will be focused on Condi CM precasts.
+This build will not perform well outside of 99 and 100 CMs so this precasting section will be focused on precasts for those fractals.
 
 #### **Skills**
 
