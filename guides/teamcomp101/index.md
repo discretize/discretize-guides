@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2023-12-31T14:14:05.520Z "
+date: "2023-12-31T17:47:53.479Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -36,13 +36,12 @@ For people without the time to do this, we recommend quite an open comp when usi
 
 By building your party around the following concepts you will find an in-game lfg run in most cases is much faster and smoother than just taking any old build. You first want to look at covering the important boons: <Boon name="Might" text="25 Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. Also you want to aim as a group to be able to maintain <Condition name="vulnerability" text="25 Vulnerability"/> on your targets. Finally builds that can bring high CC and damage mitigation such as reflects, <Boon name="Aegis"/> and <Boon name="Stability"/> are much more beneficial to run than pure damage dealers.
 
-<Grid>
-<GridItem sm="6" md="6">
+
 ### Alacrity Providers
 #### Heal
 | | |
 |-|-|
-| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is one of the strongest, if not the strongest heal build currently for fractals. It can provide either <Boon name="Alacrity"/> or <Boon name="Quickness"/>, as well as 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>. It has multikple options for on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, as well as other mitigation such as reflects, plenty of condi cleanse and Crowd Control. Finally it has a unique toolkit for T4s with access to blinks and movement abilities for skips along with <Effect name="Stealth"/> and some <Effect name="Superspeed"/>. |
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is one of the strongest, if not the strongest heal build currently for fractals. It can provide either <Boon name="Alacrity"/> or <Boon name="Quickness"/>, as well as 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>. It has multiple options for on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, as well as other mitigation such as reflects, plenty of condi cleanse and Crowd Control. Finally it has a unique toolkit for T4s with access to blinks and movement abilities for skips along with <Effect name="Stealth"/> and some <Effect name="Superspeed"/>. |
 | Alac Heal | Other builds such as <Specialization name="Mechanist"/>, <Specialization name="Druid"/>, or <Specialization name="Tempest"/> are also perfectly viable, however while providing all of the necessary boon support and healing, can sometimes have less access to damage mitigation or only one skill that provides <Boon name="Stability"/> and <Boon name="Aegis"/>. This is fine as long as other people in your party recognise this and adapt their playstyle or builds to help, but if their attitude is for the healer to solo carry the group, these builds will be much harder to play. |
 
 #### Hybrid
@@ -64,14 +63,11 @@ By building your party around the following concepts you will find an in-game lf
 | <Specialization name="Renegade" size="big" disable text/> | <BuildLink build="Condi Alac Renegade" specialization="Renegade"/> is  |
 | Condi Alac | Other builds such as  |
 
-</GridItem>
-
-<GridItem sm="6" md="6">
 ### Quickness Providers
 #### Heal
 | | |
 |-|-|
-| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is one of the strongest, if not the strongest heal build currently for fractals. It can provide either <Boon name="Alacrity"/> or <Boon name="Quickness"/>, as well as 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>. It has multikple options for on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, as well as other mitigation such as reflects, plenty of condi cleanse and Crowd Control. Finally it has a unique toolkit for T4s with access to blinks and movement abilities for skips along with <Effect name="Stealth"/> and some <Effect name="Superspeed"/>.  |
+| <Specialization name="Chronomancer" size="big" disable text/> | <BuildLink build="Heal Boon Chronomancer" specialization="Chronomancer"/> is one of the strongest, if not the strongest heal build currently for fractals. It can provide either <Boon name="Alacrity"/> or <Boon name="Quickness"/>, as well as 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>. It has multiple options for on demand <Boon name="Stability"/> and <Boon name="Aegis"/>, as well as other mitigation such as reflects, plenty of condi cleanse and Crowd Control. Finally it has a unique toolkit for T4s with access to blinks and movement abilities for skips along with <Effect name="Stealth"/> and some <Effect name="Superspeed"/>.  |
 | <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Heal Firebrand"  specialization="Firebrand"/> provides 100% <Boon name="Quickness"/> uptime, 25 stacks of <Boon name="Might"/> and <Boon name="Fury"/>, utilities in terms of crowd control, reflects and shared <Boon name="Aegis"/>. It can even provide <Boon name="Resistance"/> for a short time with tomes. If your party is new and tank lots of damage, this is a strong build to play. |
 | <Specialization name="Herald" size="big" disable text/> | <BuildLink build="Heal Herald" specialization="Herald"/> is  |
 | Quick Heal | Other builds such as <Specialization name="Scrapper"/> are also perfectly viable, however while providing all of the necessary boon support and healing, can sometimes have less access to damage mitigation or only one skill that provides <Boon name="Stability"/> and <Boon name="Aegis"/>. This is fine as long as other people in your party recognise this and adapt their playstyle or builds to help, but if their attitude is for the healer to solo carry the group, these builds will be much harder to play.  |
@@ -95,8 +91,7 @@ By building your party around the following concepts you will find an in-game lf
 | <Specialization name="Firebrand" size="big" disable text/> | <BuildLink build="Condi Firebrand" specialization="Firebrand"/> is  |
 | Condi Quick | Other builds such as  |
 
-</GridItem>
-</Grid>
+
 ## DPS
 <Grid>
 <GridItem sm="6" md="6">
