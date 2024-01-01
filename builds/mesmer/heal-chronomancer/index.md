@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-01T23:31:57.690Z "
+date: "2024-01-01T23:35:49.687Z "
 ---
   
 <Warning> 
@@ -326,3 +326,5 @@ After you initially ramped up your boons, try to safe up on Clones, to shatter t
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
 
 The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
+
+If you want to add more condition cleanse, consider playing <Skill name="Well of Eternity"/> and <Item id="100390"/>.
