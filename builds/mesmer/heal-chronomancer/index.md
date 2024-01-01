@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-01T23:38:47.320Z "
+date: "2024-01-01T23:41:54.526Z "
 ---
   
 <Warning> 
@@ -136,7 +136,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 |                                                           |           |
 |-----------------------------------------------------------|-----------|
 | <Skill name="Mantra of Recovery" size="big" disableText/> | Great choice to generate Clones and provide <Boon name="Regeneration"/>.    |
-| <Skill name="Well of Eternity" size="big" disableText/>   | Something |
+| <Skill name="Well of Eternity" size="big" disableText/>   | Higher group heal on the initial cast and after a 3s delay and cleansing on every pulse. |
 
 ### Utility Skills
 
