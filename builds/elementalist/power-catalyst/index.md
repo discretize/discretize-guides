@@ -6,13 +6,17 @@ rating: Good
 role: Power Damage
 profession: Elementalist
 specialization: Catalyst
+skills: []
 conditions:
   - name: Vulnerability
     uptime: 10 stacks
 boons:
   - name: Might
-    uptime: 9 stacks
+    uptime: 5 stacks
     variant: party
+  - name: Protection
+    variant: "party "
+    uptime: 20%
 code: "[&DQYfHSkbQyb+GgAAUAEAAPgaAAC+AQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
 classification:
   - 3
@@ -20,9 +24,8 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-01T23:47:40.929Z "
+date: "2024-01-01T23:57:58.927Z "
 ---
-
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 This build has a bit less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
