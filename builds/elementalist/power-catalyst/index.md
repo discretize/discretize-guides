@@ -20,7 +20,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-01T22:31:13.063Z "
+date: "2024-01-01T22:39:02.258Z "
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -268,19 +268,18 @@ But if you don't want to go that way, as an elementalist, you also have easy acc
 3. Use <Skill name="Dargon's Tooth"/> while switching to water
 4. Wait for the combo to finish in water and swap to air
 5. Blast using <Skill name="Arcane Brilliance"/>
-6. Precast <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. You can also precast <Skill id="5635"/> and then swap back to your regular utility skills.
-7. Cast <Skill id="5516"/>.
+6. Attune to earth and blast with <Skill name="Sand Squall"/>
+7. Precast <Skill name="Conjured Fiery Greatsword"/>
 8. Take the _Mistlock Singularity_.
 
-It is recommended to use separate precast templates to cast different utility and weapon skills.
-Just make sure that both templates use the same traits to not get the status to reset on swap.
+This puts you at 5 stacks (4 from each combo in each attunement and 1 from the aura you gain when you use sand squall). It might be a bit more complicated and time consuming but it blasts a fire field 4 times meaning 12 might. 
 
 </Card>
 
 ### Extra Info
 
-- One possible way of adapting your rotation to your phase timing is skipping auto-attacks in <Skill name="Earth Attunement"/> to get to your big damaging skills in <Skill name="Air Attunement"/> like <Skill name="Grand Finale"/> faster if the phase is about to end.
-- Try to move away from your target early if you know it will go <Effect name="Invulnerability"/> like MAMA. Hitting an <Effect name="Invulnerability"/> target with your Hammer 3 orbs will make them disappear which can confuse your rotation as you will not be able to cast <Skill name="Grand Finale"/> unless the orb corresponding to the attunement you are in is active. You will also lose important damage buffs this way. You can reset your rotation from this happening by using <Skill name="Grand Finale"/> in <Skill name="Earth Attunement"/> if you notice it early enough so you can start over by activating <Skill name="Crescent Wind"/> in <Skill name="Air Attunement"/>.
+- It was made clear in previous sections how important <Trait name="Empowering Auras"/> are but other than precasting them, you also need to be able to maintain them in between phases or build them up if needed. There are 2 ways to do that: 1) you can combo in an attunement that you don't normally use, which is water. You can provide a field for yourself with <Skill name="Water Globe"/> and blast it with <Skill name="Arcane Brilliance"/>, 2) you can refresh your stacks with <Skill name="Sand Squall"/>. 
+- If the downtime is longer (for example skorvald islands or ensolyss capture phases), keep in mind that attuning to fire refreshes your stacks or gives you 1 if you have dropped them, because of <Trait name="Sunspot"/>
 
 </GridItem>
 </Grid>
