@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-01T23:35:49.687Z "
+date: "2024-01-01T23:38:47.320Z "
 ---
   
 <Warning> 
@@ -135,7 +135,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 
 |                                                           |           |
 |-----------------------------------------------------------|-----------|
-| <Skill name="Mantra of Recovery" size="big" disableText/> | Something |
+| <Skill name="Mantra of Recovery" size="big" disableText/> | Great choice to generate Clones and provide <Boon name="Regeneration"/>.    |
 | <Skill name="Well of Eternity" size="big" disableText/>   | Something |
 
 ### Utility Skills
@@ -278,17 +278,17 @@ Use **all** Shatters for additional boons.
 
 |                                                           |                                                                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaning casts                                                                        |
-| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging                                              |                                                                                                                                              |
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaning casts.                                                                        |
+| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                                                                                              |
 
 
 ### Aegis
 
 |                                                           |                                                                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Precognition" size="big" disableText/>          | One stack on every pulse                                                                        |
-| <Skill name="Distortion" size="big" disableText/>       | Grants one stacks via <Trait name="Inspiring Distortion"/> 
-| <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, if <Trait name="Blurred Inscriptions"/> is traited  |                                                                 |
+| <Skill name="Well of Precognition" size="big" disableText/>          | One stack on every pulse.                                                                        |
+| <Skill name="Distortion" size="big" disableText/>       | Grants one stacks via <Trait name="Inspiring Distortion"/>. 
+| <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, if <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
 
 
 </GridItem>
