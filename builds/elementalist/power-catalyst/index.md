@@ -20,7 +20,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-01T22:39:02.258Z "
+date: "2024-01-01T23:47:40.929Z "
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -44,6 +44,8 @@ Extra weapons that can be used are:
 - Swords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
 - A staff to precast <Trait name="Elemental Empowerment"/>
 - Scepter to precast <Boon name="Might"/>
+
+ 
 </Character>
 </CharacterWithAr>
 
@@ -245,7 +247,7 @@ The rotation will look like this:
 
 After learning what skills to press and in what order the last thing is to learn how to queque them and how to cancel some aftercasts. Skill quequing means that you can always click the next skill you want to press as long it can't interrupt your previous one (air and earth 2 can do that for example) so as the action happens immediately when the previous animation is done. You can also use a skill while you are switching attunements which is done with flame uprising, cyclone, and rust frenzy. 
 
-Aftercasts are animations that keep happening even after all the damage a skill can do has been applied to the target. They can be avoided by interrupting them with another skill. For example rust frenzy has a long aftercast that can be interrupted with polaric leap. 
+Aftercasts are animations that keep happening even after all the damage a skill can do has been applied to the target. They can be avoided by interrupting them with another skill. For example rust frenzy has a long aftercast that can be interrupted with polaric leap. Attuning to water is normally part of the rotation in the opener and after that when you have <Skill name="Tidal Surge"/> off cd and enough energy. On most fractal bosses there won't be enough time to attune to water due to how short phases are (exception being Ensolyss). You can save that attunement for cc. 
 
 In fractals, you will mostly use Conjures to precast skills at the start of the fight or between phases. The most important skills are <Skill name="Invoke Lightning"/> from <Skill name="Conjure Lightning Hammer"/> as well as <Skill name="Firestorm"/> from <Skill name="Conjure Fiery Greatsword"/>.
 
@@ -272,14 +274,14 @@ But if you don't want to go that way, as an elementalist, you also have easy acc
 7. Precast <Skill name="Conjured Fiery Greatsword"/>
 8. Take the _Mistlock Singularity_.
 
-This puts you at 5 stacks (4 from each combo in each attunement and 1 from the aura you gain when you use sand squall). It might be a bit more complicated and time consuming but it blasts a fire field 4 times meaning 12 might. 
+This puts you at 5 stacks (4 from each combo in each attunement and 1 from the aura you gain when you use sand squall). It might be a bit more complicated and time consuming but it blasts a fire field 4 times meaning 12 might. Keep in mind that stacks last for 10 seconds from the moment you last refreshed them so you want to start the fight before they expire so as you can instantly refresh them with <Skill name="Polaric Leap"/>.
 
 </Card>
 
 ### Extra Info
 
 - It was made clear in previous sections how important <Trait name="Empowering Auras"/> are but other than precasting them, you also need to be able to maintain them in between phases or build them up if needed. There are 2 ways to do that: 1) you can combo in an attunement that you don't normally use, which is water. You can provide a field for yourself with <Skill name="Water Globe"/> and blast it with <Skill name="Arcane Brilliance"/>, 2) you can refresh your stacks with <Skill name="Sand Squall"/>. 
-- If the downtime is longer (for example skorvald islands or ensolyss capture phases), keep in mind that attuning to fire refreshes your stacks or gives you 1 if you have dropped them, because of <Trait name="Sunspot"/>
+- If the downtime is longer (for example skorvald islands or ensolyss capture phases), keep in mind that attuning to fire refreshes your stacks or gives you 1 if you have dropped them, because of <Trait name="Sunspot"/> and you can perform extra combos by providing a field with <Skill name="Flame Uprising"/> and blasting it with <Skill name="Earthen Vortex"/>.
 
 </GridItem>
 </Grid>
