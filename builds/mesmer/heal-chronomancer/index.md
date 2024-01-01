@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-01T23:17:44.492Z "
+date: "2024-01-01T23:26:58.538Z "
 ---
   
 <Warning> 
@@ -114,8 +114,6 @@ Utilise <Specialization name="Mirage"/> for skips!
 
 |                                                               |                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Chaos**                                                     |                                                                                                                                                                                                                                                                                 |
-| <Trait name="Master of Manipulation" size="big" disableText/> | Can be used for an extra source of <Boon name="Aegis"/>.                                                                                                                                                                                                                        |
 | **Inspiration**                                               |                                                                                                                                                                                                                                                                                 |
 | <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights where there is a potential for a lot of downstates.                                                                                                                                                                                           |
 | <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
