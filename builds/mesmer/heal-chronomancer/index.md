@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-30T20:36:51.821Z "
+date: "2024-01-01T23:17:44.492Z "
 ---
   
 <Warning> 
@@ -60,7 +60,7 @@ This build is made for PuGs environments. More info about building effective tea
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
-
+ 
 The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>, etc.
@@ -269,26 +269,34 @@ Use **all** Shatters for additional boons.
 <Grid>
 <GridItem sm="6">
 ### Standard Boons
-- <Boon name="Alacrity"/>
-- <Boon name="Quickness"/>
+- <Boon name="Alacrity"/> or <Boon name="Quickness"/>
 - <Boon name="Might"/>
 - <Boon name="Fury"/>
 - <Boon name="Protection"/>
-- <Boon name="Swiftness"/>
 - <Boon name="Regeneration"/>
+- <Boon name="Swiftness"/>
 
-</GridItem>
-<GridItem sm="6">
 ### Stability
-<Skill name="Distortion"/> and <Skill name="Mantra of Concentration"/> share <Boon name="Stability"/>,
-as well as one stack of <Boon name="Aegis"/>. 
 
-While <Skill name="Well of Precognition"/> and <Skill name="Signet of Illusions"/> (with <Trait name="Blurred Inscriptions"/>) only grant <Boon name="Aegis"/> to allies. 
+|                                                           |                                                                                                                                                                                               |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaning casts                                                                        |
+| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging                                              |                                                                                                                                              |
+
 
 ### Aegis
 
+|                                                           |                                                                                                                                                                                               |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Well of Precognition" size="big" disableText/>          | One stack on every pulse                                                                        |
+| <Skill name="Distortion" size="big" disableText/>       | Grants one stacks via <Trait name="Inspiring Distortion"/> 
+| <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, if <Trait name="Blurred Inscriptions"/> is traited  |                                                                 |
+
+
+</GridItem>
+<GridItem sm="6">
 <Card title="Precasting">
-At the Mistlock Singularity use the following skills, this will provide...
+At the Mistlock Singularity use the following skills on both variants:
 
 1. <Skill name="Well of Action"/>
 2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
@@ -299,7 +307,7 @@ At the Mistlock Singularity use the following skills, this will provide...
 2. <Skill name="Tides of Time"/>
 3. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
 
-<Video youtube="ed76iNEw_Pg" caption="Precast exampleby Drauskam"/>
+<Video youtube="ed76iNEw_Pg" caption="Precast example by Drauskam"/>
 </Card>
 </GridItem>
 </Grid>
