@@ -20,7 +20,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-01T21:24:48.817Z "
+date: "2024-01-01T22:31:13.063Z "
 ---
 
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
@@ -131,13 +131,14 @@ Sword/Warhorn is a very straightforward set, you want to use every high damaging
 
 - Learning the icons of each attack in the auto attack chain can be helpful to make sure that you always complete it. In air and fire the final auto looks like an upwards facing sword <Skill name="Searing Slash"/> <Skill name="calllightning" profession="elementalist" />
 - <Skill name="Wildfire"/>, <Skill name="Lightning Orb"/> and <Skill name="Dust Storm"/> proc the fireworks buff and in air <Skill name="Cyclone"/> also does.
+- <Skill name="Polaric Leap"/>, <Skill name="Flame Uprising"/> and <Skill name="Earthen Vortex"/> are combo finishers and the main contribution for <Trait name="Elemental Empowerment"/> stacks
 
 Some of your weapon skills bring nice extra utility, like:
 
 - <Skill name="Earthen vortex"/> acts as a dodge.
 - <Skill name="Water Globe"/> heals and provides a water field.
 - <Skill name="Tidal Surge"/> heals and provides <Boon name="Regeneration"/>.
-- <Skill name="Sand Squall"/> extends boons.
+- <Skill name="Sand Squall"/> extends boons and also acts as a blast. 
 
 This can sometimes be quite handy, however, all these skills are either used in the rotation or locked behind specific attunements so you will usually not want to delay anything by a lot to use them.
 
@@ -201,63 +202,52 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 ### Step-by-Step Rotation
 
-This is a step-by-step explanation of the Catalyst rotation. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
+This is a step-by-step explanation of the Catalyst rotation. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation. Keep in mind that this rotation is performed on a standard average golem, on bosses with shorter phases and/or downtime in between although the general idea will be the same, there might be adjustments you need to make
 
 **Step 1: Attunement Order, Auto Attack Chains and Damaging Skills**
 
-In the first step, we will take a look at weapon skills. All of the orbs are instant-casts while <Skill name="Grand Finale"/> is not.
+In the first step, we will take a look at weapon skills.
 
-1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Crescent Wind"/>.
-2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/>.
-3. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/>.
-4. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>.
-5. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Grand Finale"/>.
-6. Repeat from step 1 (the cooldowns will take a bit to recover as we are not using any other skills yet)
+1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Polaric Leap"/>, <Skill name="Lightning Orb"/>, <Skill name="Quantum Strike"/>, <Skill name="Cyclone"/>
+2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Uprising"/>, <Skill name="Wildfire"/>, <Skill name="Cauterizing Strike"/>
+3. Perform 3x Auto Attack Chains until <Skill name="Flame Uprising"/> is ready again to be used
+4. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Earthen Vortex"/>, <Skill name="Dust Storm"/>, <Skill name="Rust Frenzy"/>
+5. Swap back to <Skill name="Air Attunement"/> and perform 3x Auto Attack Chains
+6. Repeat from step 1 
 
-This will maximize the uptime of the 2 offensive buffs from Hammer 3 and make sure that you always use <Skill name="Grand Finale"/> with all 4 orbs up. Make sure to not double-tap the skill on the first loop or you will cast <Skill name="Grand Finale"/> early losing your buffs and extra damage from sending all 4 orbs. In later loops, the skill will be on-cooldown so this will not be an issue.
+This will give you a basic idea of what skills are important, how their cooldowns line up and how the auto attack chain functions
 
-**Step 2: Jade Sphere and Augments**
+**Step 2: Jade Sphere and Utilities**
 
-Now it is time to take a look at the Jade Sphere and Augments, namely <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. These become stronger when cast near the corresponding Sphere. We will have enough energy to cast our Jade Sphere in Air, Fire, and Water. Use the Augments right after casting the corresponding Sphere. We will also use <Skill name="Relentless Fire"/> as a timer for counting auto-attacks in <Skill name="Earth Attunement"/> as this is our strongest auto-attack.
+Now it is time to take a look at the Jade Sphere and Utilities, namely <Skill name="Relentless Fire"/>, <Skill name="Arcane Blast"/> and <Skill name="Glyph of Storms"/>. Augments become stronger when cast near the corresponding Sphere. We will have enough energy to cast our Jade Sphere in Air, Fire, and Earth. Use the Augment right after casting the corresponding Sphere.Use Arcane Blast in Fire because that is where you have the highest damaging modifiers on you. Keep in mind that spheres are instant cast actions so they can be used immediately when you swap attunements as long as you have the energy needed. 
 
-1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Crescent Wind"/> and <Skill id="62940"/>.
-2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/> and <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/>.
-3. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/> and <Skill id="62723"/>, followed by <Skill name="SHattering Ice"/>.
-4. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>. Use <Skill name="Stonestrike"/> until <Skill name="Relentless Fire"/> has around 7-9 seconds cooldown left.
-5. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Grand Finale"/>.
-6. Repeat step 1
+1. Start in <Skill name="Air Attunement"/>, precast <Skill name="Lightning Storm"/>, cast <Skill id="62940"/> and cast <Skill name="Polaric Leap"/>, <Skill name="Lightning Orb"/>, <Skill name="Quantum Strike"/>, <Skill name="Cyclone"/>
+2. Swap to <Skill name="Fire Attunement"/>, <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/> and cast <Skill name="Flame Uprising"/>, <Skill name="Wildfire"/>, <Skill name="Cauterizing Strike"/> the Auto Attack x3 until <Skill name="Flame Uprising"/> is off cd
+3. Swap to <Skill name="Earth Attunement"/>, cast <Skill id="62837"/> and cast <Skill name="Earthen Vortex"/>, <Skill name="Dust Storm"/>, <Skill name="Rust Frenzy"/>
+5. Swap back to <Skill name="Air Attunement"/> and Auto Attack x3
+6. Repeat step 1 (without glyph of storms since it will be on cooldown)
 
-**Step 3: Hammer Skills**
+Try to use spheres back to back when possible (for example from air to fire) because that way you minimize the 5 seconds internal cooldown that exists until you can start generating energy again.
 
-All of your Hammer skills except <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) are worth using in your rotation. Once you swap to an attunement, cast all good weapon skills in that attunement. You can use longer channels such as <Skill name="Hurricane of Pain"/> to use your Hammer 3 and Jade Spheres as well as attunement swap during their casts. The rotation will look like this:
+**Step 3: Elite skill, 2x flame uprising, firestorm and wildfire off cd**
 
-1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Shock Blast"/> and <Skill name="Hurricane of Pain"/>.
-2. Use<Skill name="Crescent Wind"/> and <Skill id="62940"/> during the cast, swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/> and <Skill id="63396"/>
-3. Once <Skill name="Hurricane of Pain"/> finishes its channel, use <Skill name="Relentless Fire"/>, <Skill name="Molten End"/>, <Skill name="Triple Sear"/> and <Skill name="Surging Flames"/>.
-4. Swap to <Skill name="Water Attunement"/> and cast <Skill name="Icy Coil"/> and <Skill id="62723"/>, followed by <Skill name="Shattering Ice"/>.
-5. Use <Skill name="Cleansing Typhoon"/>, <Skill name="Crashing Font"/> and <Skill name="Rain of Blows"/>.
-6. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Rocky Loop"/>, followed by <Skill name="Ground Pound"/> and <Skill name="Whirling Stones"/>.
-7. Use <Skill name="Stonestrike"/> until <Skill name="Relentless Fire"/> has around 7-9 seconds cooldown left.
-8. Swap back to <Skill name="Air Attunement"/> and cast <Skill name="Hurricane of Pain"/>, followed by <Skill name="Grand Finale"/>. Cast <Skill id="62940"/> once you have enough energy. Use <Skill name="Shock Blast"/> when it is back.
-9. Repeat from step 2 (skipping the <Skill id="62940"/> as you already cast it in step 8).
+Glyph of storms gives you 4 different options depending on your attunement and the ones you want to be using are firestorm and lightning storm. Lightning storm is the strongest option but with a high cooldown so if you know you won't be able to use lightning storm in every phase or again in the entire fight, you can fit a firestorm somewhere in between and end with a lightning storm.
+If you have the catalyst elite skill slotted it can be used to either reset air skills or fire skills. 
+The rotation will look like this:
 
-You can focus on only using Hammer 2 in each attunement first if you struggle to press everything at once.
+1. Start in <Skill name="Air Attunement"/>, precast <Skill name="Lightning Storm"/>, cast <Skill id="62940"/> and cast <Skill name="Polaric Leap"/>, <Skill name="Lightning Orb"/>, <Skill name="Quantum Strike"/>, <Skill name="Cyclone"/>
+2. Swap to <Skill name="Fire Attunement"/>, <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/> and  <Skill name="Arcane Blast"/>, <Skill name="Wldfire"/>, <Skill name="Cauterizing Strike"/>, <Skill name="Flame Uprising"/>, <Skill name="Elemental Celerity"/>, <Skill name="Wldfire"/>, <Skill name="Cauterizing Strike"/>, <Skill name="Flame Uprising"/>
+3. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Earthen Vortex"/>, <Skill name="Dust Storm"/>, <Skill name="Rust Frenzy"/>
+5. Swap back to <Skill name="Air Attunement"/> and Auto Attack x3
+6. Repeat step 1 (without glyph of storms and elemental celerity since they will be on cooldown)
 
-**Note:** Not all skills will always be off-cooldown in this rotation. It is usually worth waiting for the following skills (as all their cooldowns should be the same as <Skill name="Relentless Fire"/> meaning you will not delay your rotation):
+**Step 4: Water Attunement, Skill quequing and Cancelling aftercasts**
 
-- <Skill name="Molten End"/>
-- <Skill name="Crashing Font"/>
-- <Skill name="Shock Blast"/>
+After learning what skills to press and in what order the last thing is to learn how to queque them and how to cancel some aftercasts. Skill quequing means that you can always click the next skill you want to press as long it can't interrupt your previous one (air and earth 2 can do that for example) so as the action happens immediately when the previous animation is done. You can also use a skill while you are switching attunements which is done with flame uprising, cyclone, and rust frenzy. 
 
-**Step 4: Glyph of Storms and Conjures**
-
-The last skills we need to incorporate are <Skill name="Glyph of Storms"/> and <Skill name="Conjure Fiery Greatsword"/> (as well as other Conjures if we're running any).
-
-Cast <Skill name="Glyph of Storms"/> at the start of the fight in <Skill name="Air Attunement"/>. You will be able to cast it approx. every 3 loops in <Skill name="Air Attunement"/>.
+Aftercasts are animations that keep happening even after all the damage a skill can do has been applied to the target. They can be avoided by interrupting them with another skill. For example rust frenzy has a long aftercast that can be interrupted with polaric leap. 
 
 In fractals, you will mostly use Conjures to precast skills at the start of the fight or between phases. The most important skills are <Skill name="Invoke Lightning"/> from <Skill name="Conjure Lightning Hammer"/> as well as <Skill name="Firestorm"/> from <Skill name="Conjure Fiery Greatsword"/>.
-
-In a golem situation (long single phase, no <Effect name="Exposed"/> to take advantage of), the highest damage is using <Skill name="Conjure Fiery Greatsword"/> skill 4 and 5 in <Skill name="Earth Attunement"/> instead of some <Skill name="Stonestrike"/>.
 
 </GridItem>
 
@@ -265,15 +255,19 @@ In a golem situation (long single phase, no <Effect name="Exposed"/> to take adv
 
 <Card title="Precasting">
 
-If a _Mistlock Singularity_ is present, you should precast boons and particular effects for better group performance.
+If a _Mistlock Singularity_ is present, you should precast your personal buffs and/or boons for better personal performance. Not precasting in fractals is gonna severly hurt your damage since the buff <Trait name="Empowering Auras"/> adds 10% to your damage and takes a while to build up which means the boss will have phased before you have 5 stacks. 
 
-As an elementalist, you have easy access to fire fields and plenty of blasts providing <Boon name="Might"/> as well as <Trait name="Empowering Auras"/> stacks. The amount of <Trait name="Empowering Auras"/> you can stack will depend on how fast the rest of your group finish their precasts. With a slightly slower precast, you can prestack up to 5 stacks of <Trait name="Empowering Auras"/>. However, in most cases, it is better to be faster and just go with 3-4 stacks <Trait name="Empowering Auras"/>.
+To deal with that issue the easiest precast you can do before interacting with _Mistlock Singularity_ is by having a staff in your other set start in <Skill name="Water Attunement"/> and use <Skill name="Ice Spike"/>, <Skill name="Frozen Ground"/>, <Skill name="Magnetic Aura"/>, <Skill name="Transmute Earth"/>. This grants you the maximum amount of stacks right away, then you should also refresh them with <Skill name="Sand Squall"/> and extent boons for you and your allies. 
 
-1. Start on <Skill id="5492"/> and cast <Skill id="63458"/> to provide a fire field. Alternatively, use an off-hand Dagger to provide a fire field with <Skill name="Ring of Fire"/>.
-2. Blast it using <Skill name="Molten End"/>.
-3. If you started with full energy, you can swap to <Skill name="Water Attunement"/> and use <Skill id="62723"/> to prolong the duration of <Skill name="Shattering Ice"/>.
-4. Attune to <Skill id="5495"/> and cast <Skill name="Ground Pound"/>.
-5. Attune to <Skill id="5494"/> and cast <Skill name="Shock Blast"/>. If you
+Note: <Skill name="Frozen Ground"/> is an ice field and it can interfere with the general group precast which relies on a fire field for might. If you want to do this kind of precast then simply place your field a bit outside of the group while still being in range to receive their boons. An ice field is neccessary because it is the only field which gives 2 auras and thus 2 stacks once you blast it. 
+
+But if you don't want to go that way, as an elementalist, you also have easy access to fire fields and blasts providing <Boon name="Might"/> as well as <Trait name="Empowering Auras"/> stacks. In that scenario you only need a scepter in your other set, you can start in fire and do the following sequence: 
+
+1. Start in <Skill name="Fire Attunement"/> and cast <Skill name="Wildfire"/> to provide a fire field. Alternatively, use an off-hand Dagger to provide a fire field with <Skill name="Ring of Fire"/>.
+2. Blast it using <Skill name="Phoenix"/>.
+3. Use <Skill name="Dargon's Tooth"/> while switching to water
+4. Wait for the combo to finish in water and swap to air
+5. Blast using <Skill name="Arcane Brilliance"/>
 6. Precast <Skill name="Relentless Fire"/> and <Skill name="Shattering Ice"/>. You can also precast <Skill id="5635"/> and then swap back to your regular utility skills.
 7. Cast <Skill id="5516"/>.
 8. Take the _Mistlock Singularity_.
