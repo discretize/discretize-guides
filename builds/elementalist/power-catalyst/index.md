@@ -1,7 +1,14 @@
 ---
+title: Power Catalyst
 hidden: false
 archive: true
+rating: Good
+role: Power Damage
+profession: Elementalist
 specialization: Catalyst
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 boons:
   - name: Might
     uptime: 9 stacks
@@ -13,37 +20,30 @@ classification:
   - 3
   - 4
   - 5
-date: "2023-10-15T17:26:52.659Z "
-title: Power Catalyst
-rating: Good
-role: Power Damage
-profession: Elementalist
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
+date: "2024-01-01T21:24:48.817Z "
 ---
 
-The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> through _Spheres_ and potentially blasting fire fields. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
+The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-This build has less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
+This build has a bit less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
 
-Unfortunately, the survivability of this build is on the lower end. While some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/>, you will use them during your normal rotation and not always be in the correct attunement when you need the defense. Therefore, it is recommended to have a high awareness of the encounters and good class knowledge before picking up this build.
+This build unlike <Specialization text="Power Weaver" name="Weaver"/> has higher survivalbility due to 20% extra stats from <Trait name="Elemental Empowerment"/>. Some defensive utilities are available in <Skill name="Water Attunement"/> and <Skill name="Earth Attunement"/> but you will be using them during your normal rotation and not always be in the correct attunement when you need the defense. .
 
 This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Power Catalyst" gear='{"attributes":{"profession":"Elementalist","specialization":"Catalyst","data":{"Health":18715,"Armor":2392,"Power":4414,"Precision":2352,"Toughness":1425,"Vitality":1707,"Ferocity":1820.9,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0938095238095238,"Critical Damage":2.7139333333333333,"Power Coefficient":3596,"Power2 Coefficient":0,"Burning Coefficient":4.01,"Bleeding Coefficient":5.57,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":37777.65741736097,"NonCrit Effective Power":13919.891455462295,"Power DPS":52309.76360139778,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":126.549375699075,"Bleeding Stacks":5.57,"Bleeding DPS":704.8800226438478,"Burning Damage":467.0049722626312,"Burning Stacks":4.811999999999999,"Burning DPS":2247.227926527781,"Confusion Damage":155.92016364117376,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":148.2705371996625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":187.5575075659425,"Torment Stacks":0,"Torment DPS":0,"Damage":55401.62155056941,"Effective Health":89087124.37810947,"Survivability":45290.86140219089,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569},"skills":{"healId":5503,"utility1Id":5539,"utility2Id":62965,"utility3Id":5734,"eliteId":5516},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2252,2247,2241]],"lines":[31,41,67]}}'>
+<Character title="Power Catalyst" gear='{"attributes":{"profession":"Elementalist","specialization":"Catalyst","data":{"Health":15845,"Armor":2117,"Power":4092,"Precision":2254,"Toughness":1150,"Vitality":1491,"Ferocity":1844.9,"Condition Damage":750,"Expertise":0,"Concentration":0,"Healing Power":0,"Agony Resistance":0,"Condition Duration":0,"Boon Duration":0,"Critical Chance":1.0971428571428572,"Critical Damage":2.7299333333333333,"Power Coefficient":3294,"Power2 Coefficient":0,"Burning Coefficient":4.07,"Bleeding Coefficient":5.49,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":27906.32643531942,"NonCrit Effective Power":10222.347225323972,"Power DPS":35396.0105036358,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":108.129625,"Bleeding Stacks":5.49,"Bleeding DPS":593.63164125,"Burning Damage Tick":399.03059375000004,"Burning Stacks":4.884,"Burning DPS":1948.8654198750003,"Confusion Damage Tick":116.25709950000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":126.68918750000002,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":160.2577875,"Torment Stacks":0,"Torment DPS":0,"Damage":38078.2575647608,"Effective Health":50065470.14925373,"Survivability":25452.70470221339,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49432,"weapon1OffId":30702,"weapon1OffType":"Warhorn","weapon1OffSigilId":24868,"weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Berserker","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":21656,"utility1Id":5539,"utility2Id":62965,"utility3Id":5734,"eliteId":62725},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2252,2247,2241]],"lines":[31,41,67]}}'>
 
-Stats are shown with <Skill name="Crescent Wind"/> and 10 stacks of <Trait name="Elemental Empowerment"/>.
+Stats are shown with 10 stacks of <Trait name="Elemental Empowerment"/>.
 
 Extra weapons that can be used are:
-- Hammers with <Item name="Night" type="Sigil"/>
-- Hammers with <Item name="Serpent Slaying" type="Sigil"/>
-- Hammers with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
-- A staff to precast <Skill name="Meteor Shower"/> on some encounters
-- Weapons to precast <Boon name="Might"/>
+- Sword with <Item name="Night" type="Sigil"/>
+- Sword with <Item name="Serpent Slaying" type="Sigil"/>
+- Swords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
+- A staff to precast <Trait name="Elemental Empowerment"/>
+- Scepter to precast <Boon name="Might"/>
 </Character>
 </CharacterWithAr>
 
@@ -68,16 +68,15 @@ Extra weapons that can be used are:
 ### Defiance Bar Damage
 | Skill | Damage |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <Skill name="Wind Storm"/>                                                                      | 200 with <Control name="Knockdown"/>     |
-| <Skill name="Shock Blast"/>                                                                     | 150 with <Control name="Stun"/>          |
+| <Skill name="Polaric Leap"/>                                                                      | 200 with <Control name="Daze"/>     |
+| <Skill name="Cyclone"/>                                                                     | 150 with <Control name="Pull"/>          |
+| <Skill name="Tidal Surge"/>   | 150 with <Control name="Knockback"/>  
+| <Skill name="Earthen Vortex"t/>                                                                   | 15 / s with <Condition name="Crippled"/> |
+| <Skill name="Dust Storm"t/>                                                                   | 20 / s with <Condition name="Blinded"/> |
 | <Skill name="Wind Blast"/>                                                                      | 232 with <Control name="Launch"/>        |
 | <Skill name="Deep Freeze"/>                                                                     | 300 with <Control name="Stun"/>          |
 | <Skill id="5547"/>                                                                              | 200 with <Control name="Daze"/>          |
 | <Skill id="5747"t/>                                                                              | 150 with <Control name="Pull"/>          |
-| <Skill name="Chilling Crack"/> <br/> <Skill name="Rain of Blows"/> <br/> | 33 / s with <Condition name="Chilled"/>  |
-| <Skill name="Crescent Wind"t/>                                                                   | 20 / s with <Condition name="Weakness"/> |
-
-
 
 </GridItem>
 
@@ -90,7 +89,7 @@ Extra weapons that can be used are:
 | Offensive                                                         |                                                                                                                                                                  |
 | <Skill name="Shattering Ice" size="big" disableText/>             | Good on encounter with longer phases like Ensolyss instead of <Skill name="Arcane Blast"/>.                                                                      |
 | Heal                                                              |                                                                                                                                                                  |
-| <Skill name="Arcane Brilliance" size="big" disableText/>          | Additional <Boon name="Might"/> by blasting fire fields.                                                                                                         |
+| <Skill name="Arcane Brilliance" size="big" disableText/>          | Additional <Boon name="Might"/> by blasting fire fields and <Trait name="Elemental Empowerment"/> by blasting any field during downtime.                                                                                                         |
 | <Skill name="Soothing Water" size="big" disableText/>             | Strong heal over time and condi cleanse.                                                                                                                         |
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | Strong burst heal.                                                                                                                                               |
 | Conjures                                                          |                                                                                                                                                                  |
@@ -122,46 +121,25 @@ As a Catalyst, your unique class mechanic is the energy system and your Jade Sph
 
 Certain traits interact with your sphere, namely:
 
-- <Trait name="Spectacular Sphere"/> makes your Sphere grant an extra boon based on the attunement. This allows you to provide <Boon name="Quickness"/> in <Skill name="Air Attunement"/> for example.
+- <Trait name="Spectacular Sphere"/> makes your Sphere grant an extra boon based on the attunement. At the same time it allows you to provide <Boon name="Quickness"/> with every sphere.
 
 - <Trait name="Sphere Specialist"/> doubles the duration of the boons applied, making it possible to provide higher boon uptime when traited with <Trait name="Spectacular Sphere"/>.
 
-### Hammer Skills
+### Weapon Skills
 
-The unique mechanic for the Hammer weapon set is the third skill. Mastering it is very important for the rotation.
+Sword/Warhorn is a very straightforward set, you want to use every high damaging skill and fill with auto attacks in between.
 
-- Pressing a third skill such as <Skill name="Crescent Wind"/> will summon an orb circling you dealing damage to enemies in its way.
-- The orb will last for 15 seconds and grants access to <Skill name="Grand Finale"/> on this attunement while active
-- The orb will grant a passive bonus like crit-chance in the case of <Skill name="Air Attunement"/> while active.
+- Learning the icons of each attack in the auto attack chain can be helpful to make sure that you always complete it. In air and fire the final auto looks like an upwards facing sword <Skill name="Searing Slash"/> <Skill name="calllightning" profession="elementalist" />
+- <Skill name="Wildfire"/>, <Skill name="Lightning Orb"/> and <Skill name="Dust Storm"/> proc the fireworks buff and in air <Skill name="Cyclone"/> also does.
 
-Connecting multiple orbs:
+Some of your weapon skills bring nice extra utility, like:
 
-- If you swap to a different attunement and use the third skill there, it will cast the according to the orb and refresh the duration of any currently active orb.
-- <Skill name="Grand Finale"/> will replace the third skill on any attunement that you have the active orb from already. It will send out all current orbs to your target to deal damage.
-- Your goal is to get all 4 orbs up at the same time, send them all at once with <Skill name="Grand Finale"/>, and repeat this loop during your entire rotation.
-- The hardest part will be the first loop as you can accidentally double press the third skill sending out the first projectiles as <Skill name="Grand Finale"/> is not yet on-cooldown for this loop.
+- <Skill name="Earthen vortex"/> acts as a dodge.
+- <Skill name="Water Globe"/> heals and provides a water field.
+- <Skill name="Tidal Surge"/> heals and provides <Boon name="Regeneration"/>.
+- <Skill name="Sand Squall"/> extends boons.
 
-Your attunement rotation will try to maximize uptime on the offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/> and will therefore be:
-
-1. <Skill name="Air Attunement"/>
-2. <Skill name="Fire Attunement"/>
-3. <Skill name="Water Attunement"/>
-4. <Skill name="Earth Attunement"/>
-5. Repeat
-
-You will cast <Skill name="Grand Finale"/> in <Skill name="Air Attunement"/> after the first loop and try to minimize downtime before getting back your offensive buffs from <Skill name="Crescent Wind"/> and <Skill name="Flame Wheel"/>.
-
-All of your Hammer skills are useful in some situations and all except <Skill name="Wind Storm"/> (Air 4) and <Skill name="Immutable Stone"/> (Earth 4) will be used for DPS.
-
-If you need to auto-attack to bridge the gap between skills, you'd ideally want to only do so in <Skill name="Earth Attunement"/> and partially <Skill name="Air Attunement"/>.
-
-Some of them bring nice extra utility, like:
-
-- <Skill name="Crashing Font"/> heals you for each enemy you hit with it.
-- <Skill name="Cleansing Typhoon"/> cleanses conditions from you.
-- <Skill name="Whirling Stones"/> blocks projectiles.
-
-This can sometimes be quite handy, however, all of these skills are used in the rotation so you will not want to delay them too long usually.
+This can sometimes be quite handy, however, all these skills are either used in the rotation or locked behind specific attunements so you will usually not want to delay anything by a lot to use them.
 
 ### Utility Skills
 
@@ -171,20 +149,32 @@ Augments grant you a buff and gain a bonus effect when cast near their correspon
 
 For example, <Skill name="Relentless Fire"/> will grant you a damage increase for 5 seconds. This is increased by 3 additional seconds when cast near a <Skill id="63458"/>. Therefore, you usually want to use them in the corresponding attunement.
 
+### Elite Skills
+
 Conjures are specific to the Elementalist class.
 
 - Casting a Conjure skill will give the weapon to you as a bundle replacing your weapon skills and leave one copy on the ground for yourself or an ally to pick up.
 - In fractals, you will mostly use these to precast additional damage at the start of the fight and between phases. Some Conjures will be used only for CC.
 
-The most common Conjure you will always run is <Skill name="Conjure Fiery Greatsword"/> (FGS).
+The most common Conjure you will be runnning most of the time is <Skill name="Conjure Fiery Greatsword"/> (FGS).
 
 - <Skill name="Firestorm"/> is the most used skill on this weapon. It deals constant damage in the targeted area and can therefore be precasted before the fight or between phases for extra burst.
 - If you pick up the FGS in the middle of your rotation, <Skill name="Fiery Rush"/> usually offers more damage than auto-attacking on your regular weapon set. It also rushes you to the enemy and is therefore great for mobility.
-- <Skill name="Fiery Whirl"/> is also great for mobility. It also does a decent amount of damage when used with the Special Action Key to get multiple hits on Arkk.
+- <Skill name="Fiery Whirl"/> is also great for mobility to get back from your split add during Siax. 
+
+<Skill name="Elemental Celerity"/> can replace fgs on some bosses with equal or better results. More specifically: 
+- If you can use it twice during the fight (but fgs only once) or if you can cast <Skill name="Firestorm"/> only once in total, then it is worth replacing <Skill name="Conjure Fiery Greatsword"/> (Skorvald, Arkk. Ensolyss)
+- In cases where you can get <Skill name="Elemental Celerity"/> twice but also 2x 
+<Skill name="Firestorm"/> they can be considered equal. (Artsariiv)
+- And in cases where you can get 2x <Skill name="Firestorm"/> but only 1 <Skill name="Elemental Celerity"/>, <Skill name="Conjure Fiery Greatsword"/> is better (MAMA, Siax)
+
+Notes:
+- The above examples are taking into account a relatively fast group, the slower your group is the more adjustments you need to consider making
+- If you play with <Skill name="Elemental Celerity"/> then <Skill name="Conjure Fiery Greatsword"/> can always be precasted before you take the mistlock
 
 ### Trait Interactions
 
-<Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 3% outgoing damage buff capping at 5 stacks.
+<Trait name="Empowering Auras"/> is a buff unique to Catalyst. It grants a 2% outgoing damage buff capping at 5 stacks.
 
 Traits that interact with Elemental Empowerment stacks are:
 
@@ -198,7 +188,7 @@ Traits that interact with Elemental Empowerment stacks are:
 - <Trait name="Vicious Empowerment"/> gives 2 stacks whenever you disable a foe.
 - <Trait name="Elemental Empowerment"/> gives 3 stacks while in combat.
 - <Trait name="Elemental Epitome"/> gives 1 stack every time you gain an aura and grants an aura when doing a combo.
-- <Trait name="Empowered Empowerment"/> doubles the effectiveness at 10 stacks (DPS build only).
+- <Trait name="Empowered Empowerment"/> doubles the effectiveness at 10 stacks and grants 50% effectiveness at <10 stacks (DPS build only).
 
 <Divider text="Rotation / Skill usage"/>
 
@@ -213,9 +203,9 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 This is a step-by-step explanation of the Catalyst rotation. A mostly complete written rotation and some extra info can be found in step 3. The steps do not indicate what skills do the most damage, it merely demonstrates a possible way to learn the rotation.
 
-**Step 1: Attunement Rotation/Hammer 3**
+**Step 1: Attunement Order, Auto Attack Chains and Damaging Skills**
 
-In the first step, we will take a look at the Hammer 3 skill. All of the orbs are instant-casts while <Skill name="Grand Finale"/> is not.
+In the first step, we will take a look at weapon skills. All of the orbs are instant-casts while <Skill name="Grand Finale"/> is not.
 
 1. Start in <Skill name="Air Attunement"/> and cast <Skill name="Crescent Wind"/>.
 2. Swap to <Skill name="Fire Attunement"/> and cast <Skill name="Flame Wheel"/>.
