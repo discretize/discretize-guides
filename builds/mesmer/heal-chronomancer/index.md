@@ -49,12 +49,12 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T02:41:55.639Z "
+date: "2024-01-02T02:52:47.978Z "
 ---
   
 <Warning>  
 
-This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
+This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.   
   
 </Warning>    
 
@@ -299,6 +299,23 @@ Use **all** Shatters for additional boons.
 <Grid>
 <GridItem sm="6">
 
+### Stability
+
+|                                                           |                                                                                                                                                                                               |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
+| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                         
+
+### Resistance
+
+|                                                           |                                                                                                                                                                                               |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Feedback" size="big" disableText/>          | Any Glamour skill like Feedback in combination with <Trait name="Temporal Enchanter"/>.                                                                         |
+| <Skill name="Distortion" size="big" disableText/>       | In combination with <Trait name="Mental Defense"/>.                                              |                                                                                                                                      
+
+</GridItem>
+<GridItem sm="6">
+
 ### Aegis
 
 |                                                           |                                                                                                                                                                                               |
@@ -306,16 +323,6 @@ Use **all** Shatters for additional boons.
 | <Skill name="Well of Precognition" size="big" disableText/>          | One stack on every pulse.                                                                        |
 | <Skill name="Distortion" size="big" disableText/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
 | <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, if <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
-
-</GridItem>
-<GridItem sm="6">
-
-### Stability
-
-|                                                           |                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
-| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                                                                                              |
 
 </GridItem>
 </Grid>
