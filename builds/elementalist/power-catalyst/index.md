@@ -28,7 +28,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T21:22:45.081Z "
+date: "2024-01-02T21:37:21.309Z "
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -289,7 +289,7 @@ This puts you at 5 stacks (4 from each combo in each attunement and 1 from the a
 
 - It was made clear in previous sections how important <Trait name="Empowering Auras"/> are but other than precasting them, you also need to be able to maintain them in between phases or build them up if needed. There are 2 ways to do that: 1) you can combo in an attunement that you don't normally use, which is water. You can provide a field for yourself with <Skill name="Water Globe"/> and blast it with <Skill name="Arcane Brilliance"/>, 2) you can refresh your stacks with <Skill name="Sand Squall"/>. 
 - If the downtime is longer (for example skorvald islands or ensolyss capture phases), keep in mind that attuning to fire refreshes your stacks or gives you 1 if you have dropped them, because of <Trait name="Sunspot"/> and you can perform extra combos by providing a field with <Skill name="Flame Uprising"/> and blasting it with <Skill name="Earthen Vortex"/>.
-- Hammer is a perfectly viable replacement for sword/warhorn that can achieve equal results on most bosses. Hammer orbs can't be precasted anymore because they dissapear on weapon swap and you need to precast <Trait name="Empowering Auras"/> stacks. Playing Hammer means you still do air opener on most bosses (exceptions being MAMA and Siax where fire opener is fine since you can precast firestorm that way and save lightning storm for later phases which are longer and when you are under the effects of <Trait name="Bolt to the Heart"/>). The main disadvantage of hammer is being unable to maintain or rebuild stacks once there is any downtime without anything to hit (or any field below you) and thus missing a major modifier.
+- Hammer is a perfectly viable replacement for sword/warhorn that can achieve equal results on most bosses. Hammer orbs can't be precasted anymore because they dissapear on weapon swap and you need to precast <Trait name="Empowering Auras"/> stacks. Playing Hammer means you still do air opener on most bosses (exceptions being MAMA and Siax where fire opener is fine since you can precast firestorm that way and save lightning storm for later phases which are longer and when you are under the effects of <Trait name="Bolt to the Heart"/>). The main disadvantage of hammer is being unable to maintain or rebuild stacks once there is any downtime without anything to hit (or any field below you) and thus missing a major modifier. On the other hand Hammer is a great weapon for non cm fractals because it has highest sustain due to <Skill name="Rocky Loop"/> a free block with  <Skill name="Immutable Stone"/>, condi cleanse with <Skill name="Cleansing Typhoon"/> and a significant heal with <Skill name="Crashing Font"/>. 
 
 </GridItem>
 </Grid>
