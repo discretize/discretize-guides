@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:09:46.619Z "
+date: "2024-01-02T01:19:43.520Z "
 ---
   
 <Warning> 
@@ -249,7 +249,7 @@ is the start of your Scepter auto attack chain. While this does not directly hea
 ### Basics
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to constantly create Clones/Phantasms.
 
-Which can then be spent on Shatters, to trigger:
+Clones can then be spent on Shatters, to trigger:
 - <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>
 - <Trait name="Illusionary Defense"/>
 - <Trait name="Bountiful Disillusionment"/> 
