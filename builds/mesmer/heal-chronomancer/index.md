@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:19:43.520Z "
+date: "2024-01-02T01:32:03.702Z "
 ---
   
 <Warning> 
@@ -202,14 +202,14 @@ is the start of your Scepter auto attack chain. While this does not directly hea
 - <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible.
 - <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block and applies <Condition name="Slow"/>. 
 - <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block and applies <Condition name="Slow"/>.
-- <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and some defiance bar damage.
+- <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and deals some defiance bar damage.
 
 ### Staff
 - <Skill name="Winds of Chaos"/> (Staff 1)
 - <Skill name="Phase Retreat"/> (Staff 2): 360 range teleport backwards, that can create a Clone.
-- <Skill name="Phantasmal Warlock"/> (Staff 3)
-- <Skill name="Chaos Armor"/> (Staff 4)
-- <Skill name="Chaos Storm"/> (Staff 5)
+- <Skill name="Phantasmal Warlock"/> (Staff 3): your best Phantasm generating skill. Perfect to start a phase or split.
+- <Skill name="Chaos Armor"/> (Staff 4): shares Chaos Aura and <Boon name="Regeneration"/>
+- <Skill name="Chaos Storm"/> (Staff 5): mainly provides <Boon name="Aegis"/>, <Boon name="Swiftness"/>, or <Boon name="Resolution"/> randomly on each pulse and deals minor defiance bar damage. If you want to make use out of the <Boon name="Aegis"/>, make sure to cast it early enough to deal with the random nature of this skill.
 
 
 ### Pistol 
