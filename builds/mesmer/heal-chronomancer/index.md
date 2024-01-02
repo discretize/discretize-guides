@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:41:24.221Z "
+date: "2024-01-02T01:42:21.737Z "
 ---
   
 <Warning> 
@@ -261,7 +261,7 @@ Cast Phantasms like <Skill name="Phantasmal Warlock"/> whenever available.
 
 After long split phases, they are gonna carry the inital boon application, until your passive Clone generation ramps up.
 
-Playing Staff <Skill name="Phase Retreat"/> (Staff 2) can be rough to use compared to Scepter, thats why it is recommended to start on Staff, then stay on Scepter during the phase and return back to Staff to use <Skill name="Phantasmal Warlock"/> right before a split, into repeating the loop.
+Playing with Staff, <Skill name="Phase Retreat"/> (Staff 2) can be rough to use compared to Scepter, thats why it is recommended to start on Staff, then stay on Scepter during the phase and return back to Staff to use <Skill name="Phantasmal Warlock"/> right before a split, into repeating the loop.
 
 <Skill name="Well of Action"/> grants 1/3 of your <Boon name="Might"/> application and <Boon name="Fury"/>, after a 3 second delay, so be careful of not missing out. 
 
