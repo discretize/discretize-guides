@@ -21,7 +21,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T23:26:39.465Z "
+date: "2024-01-02T23:27:07.989Z "
 title: Power Catalyst
 rating: Good
 role: Power Damage
@@ -258,7 +258,7 @@ The rotation will look like this:
 5. Swap back to <Skill name="Air Attunement"/> and Auto Attack x3
 6. Repeat step 1 (without glyph of storms and elemental celerity since they will be on cooldown)
 
-**Step 4: Skill Quequing and Cancelling Aftercasts**
+**Step 4: Skill Queuing and Cancelling Aftercasts**
 
 After learning what skills to press and in what order the last thing is to learn how to queque them and how to cancel some aftercasts. Skill quequing means that you can always click the next skill you want to press as long it can't interrupt your previous one (<Skill name="Polaric Leap"/> and <Skill name="Earthen Vortex"/> can do that for example) so as the action happens immediately when the previous animation is done. You can also use a skill while you are switching attunements which is done with <Skill name="Flame Uprising"/>, <Skill name="Quantum Strike"/>, <Skill name="Cyclone"/> and <Skill name="Rust Frenzy"/>. 
 
