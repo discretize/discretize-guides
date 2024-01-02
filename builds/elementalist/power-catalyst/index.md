@@ -24,15 +24,15 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T20:42:02.691Z "
+date: "2024-01-02T21:09:00.008Z "
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-This build has a bit less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres.
+This build has a bit less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres. <Specialization name="Catalyst" text="Power Catalyst"/> might not be a common pick for fractals but it's main advantage against other power classes commonly taken there, is a general elementalist benefit, the trait <Trait name="Bolt to the Heart"/> which heavily boosts your dps output in later phases during fights. 
 
 This build unlike <Specialization text="Power Weaver" name="Weaver"/> has higher survivalbility due to 20% extra stats from <Trait name="Elemental Empowerment"/>. Some defensive utilities are available in <Skill name="Earth Attunement"/> but you will be using them during your normal rotation and not always be in the correct attunement when you need the defense and in <Skill name="Water Attunement"/> which you mostly don't use due to short phases and can be saved for when you need heal or cc. 
 
-This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>. 
 
 <Divider text="Equipment"/>
 
@@ -47,6 +47,7 @@ Extra weapons that can be used are:
 - Swords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
 - A staff to precast <Trait name="Elemental Empowerment"/>
 - Scepter to precast <Boon name="Might"/>
+- Hammer to replace Sword/Warhorn (more about this in the Extra Info section)
 
  
 </Character>
@@ -145,7 +146,7 @@ Some of your weapon skills bring nice extra utility, like:
 - <Skill name="Tidal Surge"/> heals and provides <Boon name="Regeneration"/>.
 - <Skill name="Sand Squall"/> extends boons, acts as a blast and grants <Skill name="Magnetic Aura"/>. 
 
-These can sometim
+These can sometimes be quite handy but earth attunement and it's skills are used in the rotation so they might not be up when you need them. Water attunement is rarely used (mostly on Enoslyss) so you can use it during downtime if neccessary. Attuning to water is beneficial for damge if you have enough energy for it's sphere and <Skill name="Tidal Surge"/> off cd. 
 
 ### Utility Skills
 
@@ -239,7 +240,7 @@ If you have the catalyst elite skill slotted it can be used to either reset air 
 The rotation will look like this:
 
 1. Start in <Skill name="Air Attunement"/>, precast <Skill name="Lightning Storm"/>, cast <Skill id="62940"/> and cast <Skill name="Polaric Leap"/>, <Skill name="Lightning Orb"/>,<Skill name="Cyclone"/>, <Skill name="Quantum Strike"/>
-2. Swap to <Skill name="Fire Attunement"/>, <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/> and  <Skill name="Arcane Blast"/>, <Skill name="Wldfire"/>, <Skill name="Cauterizing Strike"/>, <Skill name="Flame Uprising"/>, <Skill name="Elemental Celerity"/>, <Skill name="Wldfire"/>, <Skill name="Cauterizing Strike"/>, <Skill name="Flame Uprising"/>
+2. Swap to <Skill name="Fire Attunement"/>, <Skill id="63396"/>, followed by <Skill name="Relentless Fire"/> and  <Skill name="Arcane Blast"/>, <Skill name="Wildfire"/>, <Skill name="Cauterizing Strike"/>, <Skill name="Flame Uprising"/>, <Skill name="Elemental Celerity"/>, <Skill name="Wildfire"/>, <Skill name="Cauterizing Strike"/>, <Skill name="Flame Uprising"/>
 3. Swap to <Skill name="Earth Attunement"/> and cast <Skill name="Earthen Vortex"/>, <Skill name="Dust Storm"/>, <Skill name="Rust Frenzy"/>
 4. Swap to <Skill name="Water Attunement"/>, cast <Skill id="62723"/> and <Skill name="Tidal Surge"/>
 5. Swap back to <Skill name="Air Attunement"/> and Auto Attack x3
@@ -249,7 +250,7 @@ The rotation will look like this:
 
 After learning what skills to press and in what order the last thing is to learn how to queque them and how to cancel some aftercasts. Skill quequing means that you can always click the next skill you want to press as long it can't interrupt your previous one (<Skill name="Polaric Leap"/> and <Skill name="Earthen Vortex"/> can do that for example) so as the action happens immediately when the previous animation is done. You can also use a skill while you are switching attunements which is done with <Skill name="Flame Uprising"/>, <Skill name="Quantum Strike"/>, <Skill name="Cyclone"/> and <Skill name="Rust Frenzy"/>. 
 
-Aftercasts are animations that keep happening even after all the damage a skill can do has been applied to the target. They can be avoided by interrupting them with another skill. For example <Skill name="Rust Frenzy"/> has a long aftercast that can be interrupted with <Skill name="Polaric Leap"/>. Attuning to water is normally part of the rotation in the opener and after that when you have <Skill name="Tidal Surge"/> off cd and enough energy. On most fractal bosses there won't be enough time to attune to water due to how short phases are (exception being Ensolyss). You can save that attunement for cc. 
+Aftercasts are animations that keep happening even after all the damage a skill can do has been applied to the target. They can be avoided by interrupting them with another skill. For example <Skill name="Rust Frenzy"/> has a long aftercast that can be interrupted with <Skill name="Polaric Leap"/>. Attuning to water is normally part of the rotation in the opener and after that when you have <Skill name="Tidal Surge"/> off cd and enough energy. On most fractal bosses there won't be enough time to attune to water due to how short phases are (exception being Ensolyss). You can save that attunement for cc or emergnecy healing.
 
 In fractals, you will mostly use Conjures to precast skills at the start of the fight or between phases. The most important skills are <Skill name="Invoke Lightning"/> from <Skill name="Conjure Lightning Hammer"/> as well as <Skill name="Firestorm"/> from <Skill name="Conjure Fiery Greatsword"/>.
 
@@ -261,19 +262,19 @@ In fractals, you will mostly use Conjures to precast skills at the start of the 
 
 If a _Mistlock Singularity_ is present, you should precast your personal buffs and/or boons for better personal performance. Not precasting in fractals is gonna severly hurt your damage since the buff <Trait name="Empowering Auras"/> adds 10% to your damage and takes a while to build up which means the boss will have phased before you have 5 stacks. 
 
-To deal with that issue the easiest precast you can do before interacting with _Mistlock Singularity_ is by having a staff in your other set start in <Skill name="Water Attunement"/> and use <Skill name="Ice Spike"/>, <Skill name="Frozen Ground"/>, <Skill name="Magnetic Aura"/>, <Skill name="Transmute Earth"/>. This grants you the maximum amount of stacks right away, then you should also refresh them with <Skill name="Sand Squall"/> and extent boons for you and your allies. 
+To deal with that issue the easiest precast you can do before interacting with _Mistlock Singularity_ is by having a staff in your other set start in <Skill name="Water Attunement"/>, use <Skill name="Ice Spike"/> and <Skill name="Frozen Ground"/>, swap to <Skill name="Earth Attunement"/> and use <Skill name="Magnetic Aura"/> and <Skill name="Transmute Earth"/>. This grants you the maximum amount of stacks right away, which you should also refresh with <Skill name="Sand Squall"/> and extent boons for you and your allies. 
 
 Note: <Skill name="Frozen Ground"/> is an ice field and it can interfere with the general group precast which relies on a fire field for might. If you want to do this kind of precast then simply place your field a bit outside of the group while still being in range to receive their boons. An ice field is neccessary because it is the only field which gives 2 auras and thus 2 stacks once you blast it. 
 
-But if you don't want to go that way, as an elementalist, you also have easy access to fire fields and blasts providing <Boon name="Might"/> as well as <Trait name="Empowering Auras"/> stacks. In that scenario you only need a scepter in your other set, you can start in fire and do the following sequence: 
+But if you don't want to go that way, as an elementalist, you also have easy access to fire fields and blasts providing <Boon name="Might"/> as well as <Trait name="Empowering Auras"/> stacks. In that scenario you only need a scepter in your other set, you can start in fire and perform the following sequence: 
 
 1. Start in <Skill name="Fire Attunement"/> and cast <Skill name="Wildfire"/> to provide a fire field. Alternatively, use an off-hand Dagger to provide a fire field with <Skill name="Ring of Fire"/>.
-2. Blast it using <Skill name="Phoenix"/>.
-3. Use <Skill name="Dargon's Tooth"/> while switching to water
-4. Wait for the combo to finish in water and swap to air
+2. Blast it using <Skill id="5675"/>.
+3. Use <Skill id="5692"/> while switching to <Skill name="Water Attunement"/>
+4. Wait for the combo to finish in <Skill name="Water Attunement"/> and swap to <Skill name="Air Attunement"/>
 5. Blast using <Skill name="Arcane Brilliance"/>
-6. Attune to earth and blast with <Skill name="Sand Squall"/>
-7. Precast <Skill name="Conjured Fiery Greatsword"/>
+6. Attune to <Skill name="Earth Attunement"/> and blast with <Skill name="Sand Squall"/>
+7. Precast <Skill name="Conjure Fiery Greatsword"/> 
 8. Take the _Mistlock Singularity_.
 
 This puts you at 5 stacks (4 from each combo in each attunement and 1 from the aura you gain when you use sand squall). It might be a bit more complicated and time consuming but it blasts a fire field 4 times meaning 12 might. Keep in mind that stacks last for 10 seconds from the moment you last refreshed them so you want to start the fight before they expire so as you can instantly refresh them with <Skill name="Polaric Leap"/>.
@@ -284,6 +285,7 @@ This puts you at 5 stacks (4 from each combo in each attunement and 1 from the a
 
 - It was made clear in previous sections how important <Trait name="Empowering Auras"/> are but other than precasting them, you also need to be able to maintain them in between phases or build them up if needed. There are 2 ways to do that: 1) you can combo in an attunement that you don't normally use, which is water. You can provide a field for yourself with <Skill name="Water Globe"/> and blast it with <Skill name="Arcane Brilliance"/>, 2) you can refresh your stacks with <Skill name="Sand Squall"/>. 
 - If the downtime is longer (for example skorvald islands or ensolyss capture phases), keep in mind that attuning to fire refreshes your stacks or gives you 1 if you have dropped them, because of <Trait name="Sunspot"/> and you can perform extra combos by providing a field with <Skill name="Flame Uprising"/> and blasting it with <Skill name="Earthen Vortex"/>.
+- Hammer is a perfectly viable replacement for sword/warhorn that can achieve equal results on most bosses. Hammer orbs can't be precasted anymore because they dissapear on weapon swap and you need to precast <Trait name="Empowering Auras"/> stacks. Playing Hammer means you still do air opener on most bosses (exceptions being MAMA and Siax where fire opener is fine since you can precast firestorm that way and save lightning storm for later phases which are longer and when you are under the effects of <Trait name="Bolt to the Heart"/>). The main disadvantage of hammer is being unable to maintain or rebuild stacks once there is any downtime without anything to hit (or any field below you). 
 
 </GridItem>
 </Grid>
