@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T03:01:30.655Z "
+date: "2024-01-02T03:04:01.398Z "
 ---
   
 <Warning>  
@@ -371,12 +371,12 @@ At the Mistlock Singularity:
 ### Sustained Healing
 Every summoning of Illusions heals allies within a 360 radius.
 
-Following the Basics above, already covers most of your sustained heal. 
+Following the basics above, already covers most of your sustained heal. 
 
 Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
 <Boon name="Regeneration"/> provided by <Trait name="Metaphysical Rejuvenation"/>.
 
-<Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> add up to that, as most of your utility skill choices are going to fall into that category.
+<Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> adds up to that, as most of your utility skill choices are going to fall into that category.
 
 ### Burst Heal/Condition Cleanse
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
