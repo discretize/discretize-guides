@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T00:14:07.123Z "
+date: "2024-01-02T00:25:24.584Z "
 ---
   
 <Warning> 
@@ -155,6 +155,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 | <Skill name="Mantra of Resolve" size="big" disableText/>       | Your main tool dealing with condition pressure.                                                                                                                                                |
 | <Skill name="Signet of Inspiration" size="big" disableText/>   | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>. |
 | <Skill name="Feedback" size="big" disableText/>                | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. (Situational Traits)                                                      |
+| <Skill name="Mantra of Pain" size="big" disableText/>    | Provides <Condition name="Vulnerability"/>, <Boon name="Might"/> and decent healing via <Trait name="Restorative Mantras"/>, but it should only compete with <Skill name="Signet of Inspiration"/> when no other utility is required.         |
 | <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
 | <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
 | <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
