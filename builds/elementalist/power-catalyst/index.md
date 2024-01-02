@@ -28,7 +28,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T22:37:37.488Z "
+date: "2024-01-02T22:39:57.134Z "
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -64,7 +64,7 @@ Extra weapons that can be used are:
 <GridItem sm="6">
 
 ### Situational Weapons
- <Item id="95684"/>
+ <Item id="95684" size="medium"/>
 Can be used as a perfectly viable replacement for sword/warhorn that can achieve equal results in most cases. 
 
 #### Hammer in CMs
