@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T00:54:07.265Z "
+date: "2024-01-02T00:56:29.319Z "
 ---
   
 <Warning> 
@@ -199,14 +199,14 @@ Utilise <Specialization name="Mirage"/> for skips!
 - <Skill name="Ether Bolt"/> (Scepter 1): 
 is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a clone if you do not have three already allowing for stronger Shatter Skills.
 - <Skill name="Illusionary Counter"/> (Scepter 2): use this to either block an attack or manually double cast it in order to let <Skill name="Counterspell"/> create a Clone regardless.
-- <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible
-- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block and applies <Condition name="Slow"/> 
-- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block and applies <Condition name="Slow"/> 
+- <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible.
+- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block and applies <Condition name="Slow"/>. 
+- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block and applies <Condition name="Slow"/>.
 - <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and some defiance bar damage.
 
 ### Staff
 - <Skill name="Winds of Chaos"/> (Staff 1)
-- <Skill name="Phase Retreat"/> (Staff 2)
+- <Skill name="Phase Retreat"/> (Staff 2): 360 range teleport backwards, that can create a Clone.
 - <Skill name="Phantasmal Warlock"/> (Staff 3)
 - <Skill name="Chaos Armor"/> (Staff 4)
 - <Skill name="Chaos Storm"/> (Staff 5)
@@ -215,9 +215,9 @@ is the start of your Scepter auto attack chain. While this does not directly hea
 ### Pistol 
  
 ### Alternative Weapons
-- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/>
-- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pulls 
-- <Skill name="Phantasmal Warden"/> (Focus 5): a Phantasms that mitigates projectiles and applies <Condition name="Vulnerability"/>
+- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/>.
+- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pulls. 
+- <Skill name="Phantasmal Warden"/> (Focus 5): a Phantasms that mitigates projectiles and applies <Condition name="Vulnerability"/>.
 
 </GridItem>
 <GridItem sm="6">
