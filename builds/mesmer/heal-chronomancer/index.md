@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T02:52:47.978Z "
+date: "2024-01-02T03:01:30.655Z "
 ---
   
 <Warning>  
@@ -332,7 +332,7 @@ Use **all** Shatters for additional boons.
 <GridItem sm="6">
 
 <Card title="Quickness Precast">
-At the Mistlock Singularity use the following skills, regardless of which variant you are playing:
+At the Mistlock Singularity:
 
 1. <Skill name="Well of Action"/>
 2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
@@ -350,7 +350,7 @@ At the Mistlock Singularity use the following skills, regardless of which varian
 <GridItem sm="6">
 
 <Card title="Alacrity Precast">
-At the Mistlock Singularity use the following skills, regardless of which variant you are playing:
+At the Mistlock Singularity:
 
 1. <Skill name="Time Warp"/>
 2. <Skill name="Well of Action"/>
