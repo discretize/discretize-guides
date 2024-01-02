@@ -4,6 +4,7 @@ hidden: false
 archive: true
 rating: Good
 role: Power Damage
+author: xChris
 profession: Elementalist
 specialization: Catalyst
 skills: []
@@ -27,15 +28,15 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T21:16:57.054Z "
+date: "2024-01-02T21:22:45.081Z "
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 This build has a bit less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres. <Specialization name="Catalyst" text="Power Catalyst"/> might not be a common pick for fractals but it's main advantage against other power classes commonly taken there, is a general elementalist benefit, the trait <Trait name="Bolt to the Heart"/> which heavily boosts your dps output in later phases during fights. 
 
-This build unlike <Specialization text="Power Weaver" name="Weaver"/> has higher survivalbility due to 20% extra stats from <Trait name="Elemental Empowerment"/>. Some defensive utilities are available in <Skill name="Earth Attunement"/> but you will be using them during your normal rotation and not always be in the correct attunement when you need the defense and in <Skill name="Water Attunement"/> which you mostly don't use due to short phases and can be saved for when you need heal or cc. 
+This build unlike <Specialization text="Power Weaver" name="Weaver"/> has higher survivalbility due to 20% extra stats from <Trait name="Elemental Empowerment"/>. Some defensive utilities are available in <Skill name="Earth Attunement"/> but you will be using them during your normal rotation and not always be in that attunement when you need the defense and in <Skill name="Water Attunement"/> which you mostly don't use due to short phases and can be saved for when you need heal or cc. 
 
-This build has one of the harder rotations in the game but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>. 
+This build has a relatively hard rotation considering the specifics of fractal bosses but is very enjoyable to play - if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>. 
 
 <Divider text="Equipment"/>
 
