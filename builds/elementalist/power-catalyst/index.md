@@ -28,7 +28,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T22:39:57.134Z "
+date: "2024-01-02T22:41:28.911Z "
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
@@ -71,7 +71,7 @@ Can be used as a perfectly viable replacement for sword/warhorn that can achieve
 Playing Hammer means that you can do either air opener or fire opener, this depends on whether you can fit 2 or 1 <Skill name="Lightning Storm"/> during the encounter (if you can fit only 1 it is beneficial to open in fire and precast <Skill id="5736"/>). The main disadvantage of hammer is being unable to maintain or rebuild stacks once there is any downtime without anything to hit (or any field below you) and thus missing a major modifier. 
 
 #### Hammer in T4s
-Hammer is the recommended option for normal tier 4 Fractals. It has the highest sustain due to <Skill name="Rocky Loop"/>, a free block with <Skill name="Immutable Stone"/>, condi cleanse with <Skill name="Cleansing Typhoon"/> and a significant amount of healing with <Skill name="Crashing Font"/>. If your group is struggling to stay alive either because you don't play with a healer or the instabilities are making it difficult you can consider replacing <Skill name="Conjure Fiery Greatsword"/> with <Skill id="25491"/>. This provides a very strong burst heal and cleanses a condi for you and your allies with <Skill id="25492"/>. Additionally you can even consider replacing fire traitline with water traitline for a minor dps loss but another big boost in sustain for both you and your group through <Trait name="Soothing Power"/> and <Trait name="Healing Ripple"/> thus making Catalyst a great choice overall for this content.
+Hammer is the recommended option for normal tier 4 Fractals. It has the highest sustain due to <Skill name="Rocky Loop"/>, a free block with <Skill name="Immutable Stone"/>, condi cleanse with <Skill name="Cleansing Typhoon"/> and a significant amount of healing with <Skill name="Crashing Font"/>. If your group is struggling to stay alive either because you don't play with a healer or the instabilities are making it difficult you can consider replacing <Skill name="Conjure Fiery Greatsword"/> with <Skill id="25491"/>. This provides a very strong burst heal and cleanses a condi for you and your allies with <Skill id="25492"/>. Additionally you can even consider replacing fire traitline with water traitline for a minor dps loss but another big boost in sustain for both you and your group through <Trait name="Soothing Mist"/>, <Trait name="Soothing Power"/> and <Trait name="Healing Ripple"/> thus making Catalyst a great choice overall for this content.
 
 ### Traits
 
