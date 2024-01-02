@@ -49,10 +49,10 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:51:42.025Z "
+date: "2024-01-02T02:41:55.639Z "
 ---
   
-<Warning> 
+<Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.  
   
@@ -287,9 +287,6 @@ Use **all** Shatters for additional boons.
 
 <Skill name="Continuum Split"/> gets the most value at Precasts and during combat, if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
 
-<Divider text="Providing Boons"/>
-<Grid>
-<GridItem sm="6">
 ### Standard Boons
 - <Boon name="Alacrity"/> or <Boon name="Quickness"/>
 - <Boon name="Might"/>
@@ -298,13 +295,9 @@ Use **all** Shatters for additional boons.
 - <Boon name="Regeneration"/>
 - <Boon name="Swiftness"/>
 
-### Stability
-
-|                                                           |                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
-| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                                                                                              |
-
+<Divider text="Situational Boons"/>
+<Grid>
+<GridItem sm="6">
 
 ### Aegis
 
@@ -314,10 +307,24 @@ Use **all** Shatters for additional boons.
 | <Skill name="Distortion" size="big" disableText/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
 | <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, if <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
 
-
 </GridItem>
 <GridItem sm="6">
-<Card title="Precasting">
+
+### Stability
+
+|                                                           |                                                                                                                                                                                               |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
+| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                                                                                              |
+
+</GridItem>
+</Grid>
+
+<Divider text="Precast"/>
+<Grid>
+<GridItem sm="6">
+
+<Card title="Quickness Precast">
 At the Mistlock Singularity use the following skills, regardless of which variant you are playing:
 
 1. <Skill name="Well of Action"/>
@@ -329,10 +336,30 @@ At the Mistlock Singularity use the following skills, regardless of which varian
 2. <Skill name="Tides of Time"/>
 3. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
 
-<Video youtube="ed76iNEw_Pg" caption="Precast example by Drauskam"/>
+<Video youtube="M8TDeNZY8Oo" caption="Precast example by Drauskam"/>
 </Card>
+
+</GridItem>
+<GridItem sm="6">
+
+<Card title="Alacrity Precast">
+At the Mistlock Singularity use the following skills, regardless of which variant you are playing:
+
+1. <Skill name="Time Warp"/>
+2. <Skill name="Well of Action"/>
+2. <Skill name="Tides of Time"/> 
+3. <Skill name="Signet of Inspiration"/> (<Skill name="Continuum Split"/>)
+   1. all shatters
+1. <Skill name="Mimic"/>
+2. all shatters
+2. 2x <Skill name="Signet of Inspiration"/>
+
+<Video youtube="QS8guFChyBA" caption="Precast example by Drauskam"/>
+</Card>
+
 </GridItem>
 </Grid>
+
 <Divider text="Healing"/>
 ### Sustained Healing
 Every summoning of Illusions heals allies within a 360 radius.
