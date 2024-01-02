@@ -1,16 +1,9 @@
 ---
-title: Power Catalyst
 hidden: false
-archive: true
-rating: Good
-role: Power Damage
+archive: false
 author: xChris
-profession: Elementalist
 specialization: Catalyst
 skills: []
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
 boons:
   - name: Might
     uptime: 5 stacks
@@ -28,11 +21,18 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-02T22:41:28.911Z "
+date: "2024-01-02T23:26:39.465Z "
+title: Power Catalyst
+rating: Good
+role: Power Damage
+profession: Elementalist
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 ---
 The <Specialization name="Catalyst" text="Power Catalyst"/> is a strong DPS build for fractals. <Specialization name="Catalyst" text="Power Catalyst"/> provides conjures and <Condition name="Vulnerability"/>, as well as some <Boon name="Might"/> and <Boon name="Protection"/> through _Spheres_ and potentially blasting fire fields and extending boons with <Skill name="Sand Squall"/>. It may also swap traits and gear to provide permanent <Boon name="Quickness"/> and a decent amount of extra <Boon name="Might"/>. It is also very useful for some T4 skips in fractals like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
-This build has a bit less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres. <Specialization name="Catalyst" text="Power Catalyst"/> might not be a common pick for fractals but it's main advantage against other power classes commonly taken there, is a general elementalist benefit, the trait <Trait name="Bolt to the Heart"/> which heavily boosts your dps output in later phases during fights. 
+This build has less burst than <Specialization text="Power Weaver" name="Weaver"/> but offers extra utility through the boons of the Jade Spheres. <Specialization name="Catalyst" text="Power Catalyst"/> might not be a common pick for fractals but it's main advantage against other power classes commonly taken there, is a general elementalist benefit, the trait <Trait name="Bolt to the Heart"/> which heavily boosts your dps output in later phases during fights. 
 
 This build unlike <Specialization text="Power Weaver" name="Weaver"/> has higher survivalbility due to 20% extra stats from <Trait name="Elemental Empowerment"/>. Some defensive utilities are available in <Skill name="Earth Attunement"/> but you will be using them during your normal rotation and not always be in that attunement when you need the defense and in <Skill name="Water Attunement"/> which you mostly don't use due to short phases and can be saved for when you need heal or cc. 
 
@@ -41,17 +41,15 @@ This build has a relatively hard rotation considering the specifics of fractal b
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Power Catalyst" gear='{"attributes":{"profession":"Elementalist","specialization":"Catalyst","data":{"Health":15845,"Armor":2117,"Power":4091,"Precision":2255,"Toughness":1150,"Vitality":1491,"Ferocity":1845.9,"Condition Damage":750,"Expertise":0,"Concentration":0,"Healing Power":0,"Agony Resistance":0,"Condition Duration":0,"Boon Duration":0,"Critical Chance":1.0976190476190475,"Critical Damage":2.7306,"Power Coefficient":3294,"Power2 Coefficient":0,"Burning Coefficient":4.07,"Bleeding Coefficient":5.49,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":27770.24573607512,"NonCrit Effective Power":10170.016017020114,"Power DPS":35223.407568206174,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":108.129625,"Bleeding Stacks":5.49,"Bleeding DPS":593.63164125,"Burning Damage Tick":399.03059375000004,"Burning Stacks":4.884,"Burning DPS":1948.8654198750003,"Confusion Damage Tick":116.25709950000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":126.68918750000002,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":160.2577875,"Torment Stacks":0,"Torment DPS":0,"Damage":37905.65462933118,"Effective Health":50065470.14925373,"Survivability":25452.70470221339,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49432,"weapon1OffId":30702,"weapon1OffType":"Warhorn","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Berserker","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":21656,"utility1Id":5539,"utility2Id":62965,"utility3Id":5734,"eliteId":62725},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2252,2247,2241]],"lines":[31,41,67]}}'> 
+<Character title="Power Catalyst" gear='{"attributes":{"profession":"Elementalist","specialization":"Catalyst","data":{"Health":18095,"Armor":2342,"Power":4340,"Precision":2369,"Toughness":1470,"Vitality":1825,"Ferocity":2014,"Condition Damage":900,"Expertise":0,"Concentration":270,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.18,"Critical Chance":1,"Critical Damage":2.8427,"Power Coefficient":3196,"Power2 Coefficient":0,"Burning Coefficient":3.08,"Bleeding Coefficient":5.74,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":33398.95166105758,"NonCrit Effective Power":12589.375462814842,"Power DPS":41102.44493983058,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":120.692125,"Bleeding Stacks":5.74,"Bleeding DPS":692.7727975,"Burning Damage Tick":445.38996875000004,"Burning Stacks":3.6959999999999997,"Burning DPS":1646.1613245,"Confusion Damage Tick":129.76384950000002,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":141.4079375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":178.8765375,"Torment Stacks":0,"Torment DPS":0,"Damage":43581.12906183058,"Effective Health":84335303.48258707,"Survivability":42875.09073847843,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30702,"weapon1OffType":"Warhorn","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":21656,"utility1Id":5539,"utility2Id":62965,"utility3Id":5734,"eliteId":62725},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,334,1510],[232,1502,226],[2252,2247,2241]],"lines":[31,41,67]}}'>
 
 Stats are shown with 10 stacks of <Trait name="Elemental Empowerment"/>.
 
 Extra weapons that can be used are:
-- Sword with <Item name="Night" type="Sigil"/>
-- Sword with <Item name="Serpent Slaying" type="Sigil"/>
 - Swords with slaying sigils (see [Cheat Sheet](/guides/cheat-sheet))
 - A staff to precast <Trait name="Elemental Empowerment"/>
 - Scepter to precast <Boon name="Might"/>
-- Hammer to replace Sword/Warhorn entirely (more information below)
+- Hammer to replace Sword/Warhorn (more information below)
 
  
 </Character>
@@ -62,16 +60,6 @@ Extra weapons that can be used are:
 <Grid>
   
 <GridItem sm="6">
-
-### Situational Weapons
- <Item id="95684" size="medium"/>
-Can be used as a perfectly viable replacement for sword/warhorn that can achieve equal results in most cases. 
-
-#### Hammer in CMs
-Playing Hammer means that you can do either air opener or fire opener, this depends on whether you can fit 2 or 1 <Skill name="Lightning Storm"/> during the encounter (if you can fit only 1 it is beneficial to open in fire and precast <Skill id="5736"/>). The main disadvantage of hammer is being unable to maintain or rebuild stacks once there is any downtime without anything to hit (or any field below you) and thus missing a major modifier. 
-
-#### Hammer in T4s
-Hammer is the recommended option for normal tier 4 Fractals. It has the highest sustain due to <Skill name="Rocky Loop"/>, a free block with <Skill name="Immutable Stone"/>, condi cleanse with <Skill name="Cleansing Typhoon"/> and a significant amount of healing with <Skill name="Crashing Font"/>. If your group is struggling to stay alive either because you don't play with a healer or the instabilities are making it difficult you can consider replacing <Skill name="Conjure Fiery Greatsword"/> with <Skill id="25491"/>. This provides a very strong burst heal and cleanses a condi for you and your allies with <Skill id="25492"/>. Additionally you can even consider replacing fire traitline with water traitline for a minor dps loss but another big boost in sustain for both you and your group through <Trait name="Soothing Mist"/>, <Trait name="Soothing Power"/> and <Trait name="Healing Ripple"/> thus making Catalyst a great choice overall for this content.
 
 ### Traits
 
@@ -97,6 +85,16 @@ Hammer is the recommended option for normal tier 4 Fractals. It has the highest 
 | <Skill name="Deep Freeze"/>                                                                     | 300 with <Control name="Stun"/>          |
 | <Skill id="5547"/>                                                                              | 200 with <Control name="Daze"/>          |
 | <Skill id="5747"t/>                                                                              | 150 with <Control name="Pull"/>          |
+
+### Situational Weapons
+#### Hammer
+Can be used as a perfectly viable replacement for sword/warhorn that can achieve equal results in most cases. 
+
+#### Hammer in CMs
+Playing Hammer means that you can do either air opener or fire opener, this depends on whether you can fit 2 or 1 <Skill name="Lightning Storm"/> during the encounter (if you can fit only 1 it is beneficial to open in fire and precast <Skill id="5736"/>). The main disadvantage of hammer is being unable to maintain or rebuild stacks once there is any downtime without anything to hit (or any field below you) and thus missing a major modifier. 
+
+#### Hammer in T4s
+Hammer is the recommended option for normal tier 4 Fractals. It has the highest sustain due to <Skill name="Rocky Loop"/>, a free block with <Skill name="Immutable Stone"/>, condi cleanse with <Skill name="Cleansing Typhoon"/> and a significant amount of healing with <Skill name="Crashing Font"/>. If your group is struggling to stay alive either because you don't play with a healer or the instabilities are making it difficult you can consider replacing <Skill name="Conjure Fiery Greatsword"/> with <Skill id="25491"/>. This provides a very strong burst heal and cleanses a condi for you and your allies with <Skill id="25492"/>. Additionally you can even consider replacing fire traitline with water traitline for a minor dps loss but another big boost in sustain for both you and your group through <Trait name="Soothing Mist"/>, <Trait name="Soothing Power"/> and <Trait name="Healing Ripple"/> thus making Catalyst a great choice overall for this content.
 
 </GridItem>
 
@@ -247,7 +245,7 @@ Now it is time to take a look at the Jade Sphere and Utilities, namely <Skill na
 
 Try to use spheres back to back when possible (for example from air to fire) because that way you minimize the 5 seconds internal cooldown that exists until you can start generating energy again.
 
-**Step 3: Elite skill, water attunement, firestorm and wildfire off cd**
+**Step 3: Elite Skill, Water Attunement, Firestorm and Wildfire**
 
 Glyph of storms gives you 4 different options depending on your attunement and the ones you want to be using are firestorm and lightning storm. Lightning storm is the strongest option but with a high cooldown so if you know you won't be able to use lightning storm in every phase or again in the entire fight, you can fit a firestorm somewhere in between and end with a lightning storm.
 If you have the catalyst elite skill slotted it can be used to either reset air skills or fire skills. 
@@ -260,7 +258,7 @@ The rotation will look like this:
 5. Swap back to <Skill name="Air Attunement"/> and Auto Attack x3
 6. Repeat step 1 (without glyph of storms and elemental celerity since they will be on cooldown)
 
-**Step 4: Skill quequing and Cancelling aftercasts**
+**Step 4: Skill Quequing and Cancelling Aftercasts**
 
 After learning what skills to press and in what order the last thing is to learn how to queque them and how to cancel some aftercasts. Skill quequing means that you can always click the next skill you want to press as long it can't interrupt your previous one (<Skill name="Polaric Leap"/> and <Skill name="Earthen Vortex"/> can do that for example) so as the action happens immediately when the previous animation is done. You can also use a skill while you are switching attunements which is done with <Skill name="Flame Uprising"/>, <Skill name="Quantum Strike"/>, <Skill name="Cyclone"/> and <Skill name="Rust Frenzy"/>. 
 
