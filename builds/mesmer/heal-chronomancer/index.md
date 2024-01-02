@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T00:25:24.584Z "
+date: "2024-01-02T00:35:07.446Z "
 ---
   
 <Warning> 
@@ -112,7 +112,12 @@ We recommend this setup on encounters that require greater or more frequent defi
 
 Utilise <Specialization name="Mirage"/> for skips!
 
-<Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+|                                                           |                                                                                                                                                                                            |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Mirage Thrust" size="big" disableText/>      | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
+| <Skill name="Jaunt" size="big" disableText/>              | 450 range blink, 3 charges.                                                                                                                                                                |
+| <Skill name="Illusionary Ambush" size="big" disableText/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+
 </GridItem>
 
 <GridItem sm="5">
@@ -156,9 +161,6 @@ Utilise <Specialization name="Mirage"/> for skips!
 | <Skill name="Signet of Inspiration" size="big" disableText/>   | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>. |
 | <Skill name="Feedback" size="big" disableText/>                | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. (Situational Traits)                                                      |
 | <Skill name="Mantra of Pain" size="big" disableText/>    | Provides <Condition name="Vulnerability"/>, <Boon name="Might"/> and decent healing via <Trait name="Restorative Mantras"/>, but it should only compete with <Skill name="Signet of Inspiration"/> when no other utility is required.         |
-| <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
-| <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
-| <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
 
 </GridItem>
 <GridItem sm="6">
@@ -177,9 +179,14 @@ Utilise <Specialization name="Mirage"/> for skips!
 | <Skill name="Blink" size="big" disableText/>              | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mimic" size="big" disableText/>       | Allows a second cast of another utility skill..                                                                                                                                       |
 | <Skill name="Mass Invisibility" size="big" disableText/>  | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Mirage Thrust" size="big" disableText/>      | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
-| <Skill name="Jaunt" size="big" disableText/>              | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+
+### Defiance Damage
+
+|                                                           |                                                                                                                                                                                            |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
+| <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
+| <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
 
 </GridItem>
 </Grid>
