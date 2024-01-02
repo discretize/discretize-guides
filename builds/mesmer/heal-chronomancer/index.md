@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:32:03.702Z "
+date: "2024-01-02T01:41:24.221Z "
 ---
   
 <Warning> 
@@ -255,11 +255,13 @@ Clones can then be spent on Shatters, to trigger:
 - <Trait name="Bountiful Disillusionment"/> 
 - <Trait name="Illusionary Membrane"/> + <Trait name="Chaotic Transference"/>.
 
-The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/>.
+The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2).
 
-<Skill name="Echo of Memory"/> has two instances and each can be used to create a Phantasm by blocking incoming hits, as well as <Skill name="Phantasmal Duelist"/>, which can used whenever you are on your secondary weapon-set.
+Cast Phantasms like <Skill name="Phantasmal Warlock"/> whenever available.
 
-<Skill name="Tides of Time"/> can be aligned with defiance breaks, but prevent holding it for too long, otherwise you could drop out on <Boon name="Might"/>.
+After long split phases, they are gonna carry the inital boon application, until your passive Clone generation ramps up.
+
+Playing Staff <Skill name="Phase Retreat"/> (Staff 2) can be rough to use compared to Scepter, thats why it is recommended to start on Staff, then stay on Scepter during the phase and return back to Staff to use <Skill name="Phantasmal Warlock"/> right before a split, into repeating the loop.
 
 <Skill name="Well of Action"/> grants 1/3 of your <Boon name="Might"/> application and <Boon name="Fury"/>, after a 3 second delay, so be careful of not missing out. 
 
