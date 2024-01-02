@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:49:17.480Z "
+date: "2024-01-02T01:51:42.025Z "
 ---
   
 <Warning> 
@@ -213,11 +213,11 @@ is the start of your Scepter auto attack chain. While this does not directly hea
 
 
 ### Pistol 
-- <Skill name="Phantasmal Duelist"/> (Pistol 4): creates a Phantasm
+- <Skill name="Phantasmal Duelist"/> (Pistol 4): creates a Phantasm.
 - <Skill name="Magic Bullet"/> (Pistol 5): your highest defiance bar weapon skill option.
  
 ### Alternative Weapons
-- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/>.
+- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/> or projectile reflect if <Trait name="Warden's Feedback"/> is traited.
 - <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pulls. 
 - <Skill name="Phantasmal Warden"/> (Focus 5): a Phantasms that mitigates projectiles and applies <Condition name="Vulnerability"/>.
 
