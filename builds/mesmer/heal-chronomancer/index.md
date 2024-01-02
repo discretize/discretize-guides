@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T00:36:09.693Z "
+date: "2024-01-02T00:54:07.265Z "
 ---
   
 <Warning> 
@@ -196,19 +196,28 @@ Utilise <Specialization name="Mirage"/> for skips!
 <Grid>
 <GridItem sm="6">
 ### Scepter / Shield
-- <Skill name="Ether Bolt"/> (Scepter 1) is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a clone if you do not have three already allowing for stronger Shatter Skills.
-- <Skill name="Illusionary Counter"/> (Scepter 2)
-- <Skill name="Confusing Images"/> (Scepter 3)
-- <Skill name="Echo of Memory"/> (Shield 4)
-- <Skill name="Deja Vu"/> (Shield 4 flip skill)
-- <Skill name="Tides of Time"/> (Shield 5)
- 
+- <Skill name="Ether Bolt"/> (Scepter 1): 
+is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a clone if you do not have three already allowing for stronger Shatter Skills.
+- <Skill name="Illusionary Counter"/> (Scepter 2): use this to either block an attack or manually double cast it in order to let <Skill name="Counterspell"/> create a Clone regardless.
+- <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible
+- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block and applies <Condition name="Slow"/> 
+- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block and applies <Condition name="Slow"/> 
+- <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and some defiance bar damage.
+
 ### Staff
 - <Skill name="Winds of Chaos"/> (Staff 1)
 - <Skill name="Phase Retreat"/> (Staff 2)
 - <Skill name="Phantasmal Warlock"/> (Staff 3)
 - <Skill name="Chaos Armor"/> (Staff 4)
 - <Skill name="Chaos Storm"/> (Staff 5)
+
+
+### Pistol 
+ 
+### Alternative Weapons
+- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/>
+- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pulls 
+- <Skill name="Phantasmal Warden"/> (Focus 5): a Phantasms that mitigates projectiles and applies <Condition name="Vulnerability"/>
 
 </GridItem>
 <GridItem sm="6">
@@ -218,7 +227,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 
 | Skill                                 | Damage without <Item id="24639"/> | Damage with <Item id="24639"/>   |
 |---------------------------------------|-----------------------------------|----------------------------------|
-| <Skill name="Time Sink"/>             | 100 damage plus 100 per clone     | 130 per clone plus 130 per clone |
+| <Skill name="Time Sink"/>             | 100 damage plus 100 per clone     | 130 damage plus 130 per clone  clone |
 | <Skill name="Signet of Humility"/>    | 600 damage                        | 800 damage                       |
 | <Skill name="Gravity Well"/>          | 550 damage                        | Not affected                     |
 | <Skill name="Tides of Time"/>         | 100 damage per hit                | 130 damage per hit               |
@@ -228,11 +237,6 @@ Utilise <Specialization name="Mirage"/> for skips!
 | <Skill name="Well of Senility"/>      | 300 damage on final pulse         | 400 damage on final pulse        |
 | <Skill name="Mantra of Distraction"/> | 150 damage per charge             | 195 damage per charge            |
 | <Condition name="Slow"/>              | 50 damage per second              | Not affected                     |
-
-### Alternative Weapons
-Pistol is your strongest off-hand weapon when it comes to single target CC.
-
-That being said, Focus can be played instead, if you need <Skill name="Into the Void"/> for 5 target add pulls & <Boon name="Swiftness"/>, or <Skill name="Phantasmal Warden"/> as projectile mitigation.
 
 </GridItem>
 </Grid>
