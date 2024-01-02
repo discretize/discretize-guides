@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-02T01:46:19.514Z "
+date: "2024-01-02T01:49:17.480Z "
 ---
   
 <Warning> 
@@ -197,7 +197,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 <GridItem sm="6">
 ### Scepter / Shield
 - <Skill name="Ether Bolt"/> (Scepter 1): 
-is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a clone if you do not have three already allowing for stronger Shatter Skills.
+is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a Clone.
 - <Skill name="Illusionary Counter"/> (Scepter 2): use this to either block an attack or manually double cast it in order to let <Skill name="Counterspell"/> create a Clone regardless.
 - <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible.
 - <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block and applies <Condition name="Slow"/>. 
