@@ -1,28 +1,28 @@
 ---
+title: Condi Weaver
 hidden: false
 archive: false
+rating: Good
+role: Condi Damage
 author: xChris
+profession: Elementalist
 specialization: Weaver
+conditions:
+  - name: Burning
+  - name: Bleeding
 boons:
   - name: Might
     variant: "party "
     uptime: ~5
 code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: "2024-01-03T20:48:30.840Z "
-title: Condi Weaver
-rating: Good
-role: Condi Damage
-profession: Elementalist
-conditions:
-  - name: Burning
-  - name: Bleeding
-cmGuide: ""
+date: "2024-01-03T21:23:07.532Z "
 ---
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).
@@ -114,7 +114,7 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Glyph of Renewal" size="big" disableText/>           | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.                
 
 ### Situational Weapons
-- **Warhorn** - A lower dps option that is fully ranged and opens up the offhand slot.
+- **Scepter** - A lower dps option that is fully ranged and opens up the offhand slot.
 - **Warhorn** - Your first choice of off hand, useful if your group struggles with boon uptime due to access to <Skill name="Sand Squall"/>.
 - **Focus** - Less dps than warhorn but offers more access to CC skills.
 
@@ -284,26 +284,26 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 ### **Precast in non boonstrip fights** 
 If you know you can only get one <Skill name="Weave Self"/> during the fight then you can precast it and use the second one later. To do that you have to: 
 
-- Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, replace a utility with <Skill name="Arcane Power"/> and precast it
+- Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, replace a utility with <Skill name="Arcane Power"/> and precast it.
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
-- Switch back your replaced utility
-- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
+- Switch back your replaced utility.
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>.
 - Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
 
 ### **Precast in fights with boonstrip** 
-In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some specific buffs get stripped the moment you enter combat so your precast has to be adjusted. Also these fights favor use of <Skill name="Glyph of Lesser Elementals"/>
+In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some specific buffs get stripped the moment you enter combat so your precast has to be adjusted. Also these fights favor use of <Skill name="Glyph of Lesser Elementals"/>.
 
-- Start on <Skill name="Fire Attunement"/>, precast <Skill name="Glyph of Lesser Elementals"/> replace your other utilities with <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/> and precast them
+- Start on <Skill name="Fire Attunement"/>, precast <Skill name="Glyph of Lesser Elementals"/> replace your other utilities with <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/> and precast them.
 - Take the _Mistlock Singularity_ and cast another <Skill name="Glyph of Lesser Elementals"/>
-- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and switch back to your normal utilities
-- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
-- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and switch back to your normal utilities.
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>.
+- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
 
 If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
 
-- Switch to the sigils 
+- Switch to the sigils.
 - For Sunqua Peak fall below the stairs before the boss' arena to get in combat and switch to any attunement.
 - For Silent Surf let go of the parachute a bit earlier so as you get in combat when you fall down and switch to any attunement. 
 - Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
