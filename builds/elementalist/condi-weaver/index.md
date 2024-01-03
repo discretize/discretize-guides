@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:31:46.971Z "
+date: "2024-01-03T11:42:40.245Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -341,11 +341,11 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 - Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
 
-- <Skill name="Primordial Stance"/> should be used during <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
+- <Skill name="Primordial Stance"/> should be used before attuning to <Skill name="Earth Attunement" disableText/> <Skill name="Fire Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
 
 - Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
 
-- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different from the 1st. However, due to the faster nature of fractal bosses, you will either phase the boss before you reach the 2nd rotation or there will be enough downtime to reset to the written rotation when <Skill name="Weave Self"/> is on cooldown.
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss is invulnerable then
 
 </Card>
 </GridItem>
@@ -396,7 +396,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is almost off cd
+1. <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is off cd
 2. <Skill name="Primordial Stance"/>
 3. <Skill name="Surging Flames"/> 
 
@@ -445,11 +445,44 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem sm="9">
 
 1. <Skill name="Whirling Stones"/> 
+2. <Skill name="Stonestrike"/> x3
+3. <Skill name="Grand Finale"/>
+5. <Skill name="Triple Sear"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill id="34736"/>
+2. <Skill name="Singeing Strike"/> x3
+3. <Skill id="69164"/>
+5. <Skill name="Ground Pound"/>
+6. <Skill name="Surging Flames"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Singeing Strike"/> x2 => <Skill name="Signet of Fire"/> => <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is off cd
 2. <Skill name="Primordial Stance"/>
-3. <Skill name="Signet of Fire"/>
-5. <Skill name="Surging Flames"/>
+3. <Skill name="Surging Flames"/>
 
+</GridItem>
 
+<GridItem sm="3">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Whirling Stones"/> 
+2. <Skill name="Stonestrike"/> 
+3. <Skill name="Grand Finale"/>
 
 </GridItem>
 </Grid>
