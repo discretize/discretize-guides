@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:18:37.619Z "
+date: "2024-01-03T11:21:40.115Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -410,32 +410,32 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 1. <Skill name="Grand Finale"/>
 2. <Skill name="Signet of Fire"/>
 3. <Skill name="Whirling Stones"/>
-4. <Skill name="Flamewall"/>
-5. <Skill name="Transmute Fire"/>
+4. <Skill id="69164"/>
+5. <Skill name="Stonestrike"/>
+6. <Skill name="Triple Sear"/>
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-2. <Skill name="Flame Uprising"/>
-3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
+1. <Skill name="Singeing Strike"/> x4
+2. <Skill name="Ground Pound"/>
+3. <Skill name="Surging Flames"/>
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Searing Slash"/>
-2. <Skill name="Lava Skin"/>
-3. <Skill name="Earthen Vortex"/>
-4. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> => <Skill name="Crystalline Sunder"/>
-5. <Skill name="Transmute Fire"/>
+1. <Skill name="Singeing Strike"/> x11
+2. <Skill name="Primordial Stance"/>
+3. <Skill name="Signet of Fire"/>
+4. <Skill name="Surging Flames"/> 
 
 </GridItem>
 
