@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T12:15:05.385Z "
+date: "2024-01-03T12:19:57.491Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -349,7 +349,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 - In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to air and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without entering <Skill name="Tailored Victory"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to attune to <Skill name="Air Attunement" disableText/> and start from there because completing weave self otherwise is going to be a lot more awkward. 
 
-- Hammer 3 orbs are an important part of your damage not only because of their offensive buff but also because they apply condis each time they hit the enemy (they hit once per second). That is why you want to have both <Skill name="Flame Wheel"/> and <Skill name="Rocky Loop"/> active for as longer as possible. Keep in mind that these buffs get activated together with <Skill id="69164"/> 
+- Hammer 3 orbs are an important part of your damage not only because of their offensive buff but also because they apply condis each time they hit the enemy (they hit once per second). That is why you want to have both <Skill name="Flame Wheel"/> and <Skill name="Rocky Loop"/> active for as longer as possible. Keep in mind that these buffs get activated together with <Skill id="69164"/> but you can only activate <Skill name="Flame Wheel"/> individually because you never double attune <Skill name="Earth Attunement"/>. Eventually the cooldown of <Skill id="69164"/> starts being less aligned with the rotation which is why you go from throwing <Skill name="Grand Finale"/> in <Skill name="Fire Attunement"/> to throwing it when you enter <Skill name="Earth Attunement" disable text/>/<Skill name="Fire Attunement" disable text/> and then when you leave <Skill name="Earth Attunement" disable text/>/<Skill name="Fire Attunement" disable text/>. If needed you can also use <Skill name="Grand Finale"/> in <Skill name="Fire Attunement" disable text/>/<Skill name="Earth Attunement" disable text/> as long as you know <Skill id="69164"/> is going to be ready to activate.  
 
 </Card>
 </GridItem>
