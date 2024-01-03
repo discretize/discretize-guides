@@ -14,7 +14,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T20:46:05.400Z "
+date: "2024-01-03T20:48:30.840Z "
 title: Condi Weaver
 rating: Good
 role: Condi Damage
@@ -25,8 +25,7 @@ conditions:
 cmGuide: ""
 ---
 
-
-The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs, and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss).
+The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).
 
 Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival strong builds like <BuildLink build="Condi Holosmith" specialization="Holosmith"/> and <BuildLink build="Condi Specter" specialization="Specter"/> when played properly.
 
