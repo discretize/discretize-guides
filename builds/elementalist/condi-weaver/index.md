@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T00:39:59.888Z "
+date: "2024-01-03T10:12:50.649Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -21,7 +21,7 @@ cmGuide: ""
 ---
 
 
-The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak)and Silent Surf CMs, and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss).
+The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs, and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss).
 
 Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival strong builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Scourge" specialization="Scourge"/> when played properly.
 
@@ -111,7 +111,7 @@ This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Ma
 
 <Warning>
 
-If you do want to switch any of your utilites in favor of one of the skills listed above, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
+If you do want to switch any of your utilites in favor of one of the skills listed below, you should prioritise dropping <Skill name="Glyph of Elemental Power"/> before <Skill name="Primordial Stance"/> and <Skill name="Signet of fire"/>.
 
 </Warning>
 
@@ -138,9 +138,9 @@ If you do want to switch any of your utilites in favor of one of the skills list
 |                                                                   |                                                                                                                                                |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Main Hand                                                             |
-| <Item id="96221" size="medium"/>          | A lower dps option that opens up the offhand slot. |  
+| <Item id="96221" size="medium"/>          | A lower dps option that is fully ranged and opens up the offhand slot. |  
 | Off Hand
-| <Item id="97783" size="medium"/>           |   Useful only if your group struggles with boon uptime due to <Skill name="Sand Squall"/>.                                           |                                                                                                  |
+| <Item id="97783" size="medium"/>           |   Useful only if your group struggles with boon uptime due to access to <Skill name="Sand Squall"/>.                                           |                                                                                                  |
 | <Item id="97165" size="medium"/>           | Less dps than warhorn but higher cc.                                     |
 
 </Card>
@@ -162,13 +162,15 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
 
-### **Weaver Precast**
+### **Weaver Precast in non boonstrip fights** 
+If you know you can only get one <Skill name="Weave Self"/> during the fight then you can precast it and use the second one later. To do that you have to: 
 
 - Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/>.
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
-- Take the _Mistlock Singularity_ and attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/>.
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"
+- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
 
-### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak)**
+### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
 
 If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
 
