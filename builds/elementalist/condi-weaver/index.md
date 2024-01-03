@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:05:15.579Z "
+date: "2024-01-03T11:11:46.099Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -255,45 +255,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 1. <Skill name="Surging Flames"/>
 2. <Skill name="Singeing Strike"/> x6
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Searing Slash"/>
-2. <Skill name="Transmute Fire"/>
 3. <Skill name="Signet of Fire"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Pyro Vortex"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Flame Uprising"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Cauterizing Strike"/>
-2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
 
 </GridItem>
 
@@ -302,32 +264,19 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Searing Slash"/>
-2. <Skill name="Transmute Fire"/>
-3. <Skill name="Flamewall"/>
-4. <Skill name="Earthen Vortex"/>
+1. <Skill name="Whirling Stones"/>
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Natural Frenzy"/>
-2. <Skill name="Magnetic Wave"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Flame Uprising"/>
-2. <Skill name="Signet of Fire"/>
-3. <Skill name="Twin strike"/>
-4. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+1. <Skill name="Singeing Strike"/> x3
+2. <Skill name="Surging Flames"/>
+3. <Skill id="34736"/>
+4. <Skill name="Ground Pound"/>
 
 </GridItem>
 
@@ -336,10 +285,42 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Transmute Fire"/>
-2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-3. <Skill name="Cauterizing Strike"/>
-4. <Skill name="Flame Uprising"/>
+1. <Skill name="Grand Finale"/>
+2. <Skill name="Singeing Strike"/>
+3. <Skill name="Triple Sear"/>
+4. <Skill name="Singeing Strike"/>
+5. <Skill name="Flame Wheel"/>
+6. <Skill name="Singeing Strike"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Whirling Stones"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill id="69413"/>
+2. <Skill name="Rain of Blows"/>
+3. <Skill name="Signet of Fire"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Surging Flames"/>
+2. <Skill name="Singeing Strike"/> x6
 
 </GridItem>
 </Grid>
