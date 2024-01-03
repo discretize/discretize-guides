@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T10:21:27.715Z "
+date: "2024-01-03T10:23:43.618Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -169,6 +169,14 @@ If you know you can only get one <Skill name="Weave Self"/> during the fight the
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
 - Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
 - Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
+
+### **Precast in fights with boonstrip** 
+In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some specific buffs get stripped the moment you enter combat so your precast has to be adjusted. Also these fights favor use of <Skill name="Glyph of Lesser Elementals"/>
+
+- Start on <Skill name="Fire Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/>.
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
+- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
 
