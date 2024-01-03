@@ -4,20 +4,25 @@ hidden: false
 archive: true
 rating: Good
 role: Condi Damage
+author: xChris
 profession: Elementalist
 specialization: Weaver
+conditions:
+  - name: Burning
+  - name: Bleeding
+boons:
+  - name: Might
+    variant: "party "
+    uptime: ~5
 code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
+cmGuide: ""
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: "2024-01-03T12:24:56.716Z "
-conditions:
-  - name: Burning
-  - name: Bleeding
-cmGuide: ""
+date: "2024-01-03T12:43:40.258Z "
 ---
 
 
