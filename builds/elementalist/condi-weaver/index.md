@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T10:23:43.618Z "
+date: "2024-01-03T11:02:18.162Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -51,7 +51,7 @@ This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Ma
 
 |                                                              |                                                                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at some personal DPS loss. |
+| <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at a minor personal DPS loss. This build can't generate any <Trait name="Persisting Flames"/> stacks so the dps loss comes only from the time you need until you ramp up your own might |
 | <Trait name="Masters Fortitude" size="big" disableText/>     | Provides a bit of tankiness in the form of extra vitality for minimal DPS loss.                   |
 
 </Card>
@@ -202,8 +202,8 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 1. <Skill name="Weave Self"/>
 2. <Skill name="Signet of Fire"/>
-3. <Skill name="Gale Strike"/>
-4. <Skill name="Magnetic Wave"/>
+3. <Skill name="Ground Pound"/>
+4. <Skill id="69246"/>
 
 </GridItem>
 
