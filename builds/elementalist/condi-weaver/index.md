@@ -1,34 +1,34 @@
 ---
-title: Condi Weaver
 hidden: false
-archive: true
-rating: Good
-role: Condi Damage
+archive: false
 author: xChris
-profession: Elementalist
 specialization: Weaver
-conditions:
-  - name: Burning
-  - name: Bleeding
 boons:
   - name: Might
     variant: "party "
     uptime: ~5
 code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: "2024-01-03T12:43:40.258Z "
+date: "2024-01-03T20:46:05.400Z "
+title: Condi Weaver
+rating: Good
+role: Condi Damage
+profession: Elementalist
+conditions:
+  - name: Burning
+  - name: Bleeding
+cmGuide: ""
 ---
 
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs, and will almost always outperform <BuildLink build="Power Weaver" specialization="Weaver"/> (if you find yourself in a slow group, this build can also be an attractive choice for ''slower'' encounters like Ensolyss).
 
-Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival strong builds like <BuildLink build="Condi Soulbeast" specialization="Soulbeast"/> and <BuildLink build="Condi Scourge" specialization="Scourge"/> when played properly.
+Condi <Specialization name="Weaver"/> can deal very high amounts of damage, and even rival strong builds like <BuildLink build="Condi Holosmith" specialization="Holosmith"/> and <BuildLink build="Condi Specter" specialization="Specter"/> when played properly.
 
 This build is naturally tanky due to its rotation, having above 90% uptime on the <Skill name="Rocky Loop"/> buff. On top of that damage reduction, it has permanent 10% DR from <Trait name="Geomancer's Training"/> and 7% DR on ~ 40% uptime from <Trait name="Stone Flesh"/>. 
 
@@ -37,7 +37,7 @@ The main downside of **<Specialization text="Condi Weaver" name="Weaver"/>** apa
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
-<Character title="" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":13995,"Armor":1967,"Power":3136.41,"Precision":1974,"Toughness":1000,"Vitality":1297,"Ferocity":9,"Condition Damage":2716,"Expertise":703,"Concentration":0,"Healing Power":0,"Agony Resistance":0,"Condition Duration":0.8186666666666667,"Boon Duration":0,"Critical Chance":0.9138095238095237,"Critical Damage":1.506,"Power Coefficient":2226,"Power2 Coefficient":0,"Burning Coefficient":14.274000000000001,"Bleeding Coefficient":14.87,"Poison Coefficient":0,"Torment Coefficient":3.066,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Bleeding Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":7807.516235742353,"NonCrit Effective Power":5338.882888537448,"Power DPS":6692.156773493445,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":280.88950400000004,"Bleeding Stacks":29.74,"Bleeding DPS":8353.65384896,"Burning Damage Tick":838.2644270000001,"Burning Stacks":28.548000000000002,"Burning DPS":23930.772861996003,"Confusion Damage Tick":297.49442310000006,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":298.35397900000004,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":419.51187600000003,"Torment Stacks":5.576032,"Torment DPS":2339.211644956032,"Damage":41455.54512940548,"Effective Health":45652014.92537314,"Survivability":23208.9552238806,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":48911,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":48911},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Viper","accessory1InfusionId":49432,"accessory2Affix":"Viper","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917,"relicId":100153},"skills":{"healId":5503,"utility1Id":5506,"utility2Id":40183,"utility3Id":5542,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[296,325,1510],[1507,275,287],[2177,2180,2131]],"lines":[31,26,56]}}'>
+<Character title="Condi Weaver" gear='{"attributes":{"profession":"Elementalist","specialization":"Weaver","data":{"Health":16245,"Armor":2192,"Power":3124.41,"Precision":1987,"Toughness":1225,"Vitality":1533,"Ferocity":9,"Condition Damage":2817,"Expertise":676,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.8006666666666666,"Boon Duration":0.15,"Critical Chance":0.9199999999999999,"Critical Damage":1.506,"Power Coefficient":2166,"Power2 Coefficient":0,"Burning Coefficient":12.584000000000001,"Bleeding Coefficient":16.8,"Poison Coefficient":0,"Torment Coefficient":3.046,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.2,"Bleeding Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":8839.56509297349,"NonCrit Effective Power":6031.69188613836,"Power DPS":7372.544471074539,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":325.90877299999994,"Bleeding Stacks":33.6,"Bleeding DPS":10950.534772799998,"Burning Damage Tick":968.4704552499999,"Burning Stacks":25.168000000000003,"Burning DPS":24374.464417732,"Confusion Damage Tick":345.08078054999993,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":345.52949799999993,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":486.8157794999999,"Torment Stacks":5.484830666666666,"Torment DPS":2670.1021164188373,"Damage":45507.39577802537,"Effective Health":78737512.43781096,"Survivability":40029.23865674172,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24560,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1MainInfusion2Id":37130,"weapon1MainSigil2Id":48911,"weapon2MainInfusion2Id":37130,"weapon2MainSigil2Id":48911},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":48917,"relicId":100153},"skills":{"healId":5503,"utility1Id":5506,"utility2Id":40183,"utility3Id":5542,"eliteId":43638},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[296,325,1510],[1507,275,287],[2177,2180,2131]],"lines":[31,26,56]}}'>
 
 This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Malign +9 Agony Infusion"/>.
 
@@ -49,70 +49,47 @@ This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Ma
 <Grid>
 
 <GridItem sm="7">
-
+### Traits
 <Traits traits1="Fire" traits1Selected="Burning Precision, Burning Rage, Persisting Flames" traits2="Earth" traits2Selected="Serrated Stones, Strength of Stone, Written in Stone" traits3="Weaver" traits3Selected="Superior Elements, Weavers Prowess, Elements of Rage"/>
 
-<Card title="Situational Traits">
-
+#### Situational Traits
 |                                                              |                                                                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at a minor personal DPS loss. This build can't generate any <Trait name="Persisting Flames"/> stacks so the dps loss comes only from the time you need until you ramp up your own might |
 | <Trait name="Masters Fortitude" size="big" disableText/>     | Provides a bit of tankiness in the form of extra vitality for minimal DPS loss.                   |
 
-</Card>
+### Defiance Bar Damage
+#### Hammer 
 
-<Card title="Defiance Bar Damage - Hammer">
-
-|                                                         |                                                 |
+| Skill                                                   | Damage                                            |
 | ------------------------------------------------------- | ----------------------------------------------- |
+| **Hammer**                                                         |                                            |
 | <Skill name="Shock Blast" size="big" disableText/>             | 150 with <Control name="Stun"/>            |
 | <Skill name="Wind Storm" size="big" disableText/>     | 200 with <Control name="Knockdown"/>                 |
 | <Skill name="Ground Pound" size="big" disableText/>            | 50/s with <Condition name="Immobile"/>                 |
 | <Skill name="Rain of Blows" size="big" disableText/>    | 33/s with <Condition name="Chilled"/>   |
 | <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/>   
-
-</Card>
-
-<Card title="Defiance Bar Damage - Scepter">
-
-|                                                         |                                                 |
-| ------------------------------------------------------- | ----------------------------------------------- |
+| **Scepter**                                                         |                                            |
 | <Skill name="Earthen Synergy" size="big" disableText/>             | 150 with <Control name="Stun"/>                     |
 | <Skill name="Fiery Frost" size="big" disableText/>    | 33/s  with <Condition name="Chilled"/>   |
 | <Skill name="Glacial Drift" size="big" disableText/>    | 33/s  with <Condition name="Chilled"/>
-
-</Card>
-
-<Card title="Defiance Bar Damage - Warhorn">
-
-|                                                         |                                                 |
-| ------------------------------------------------------- | ----------------------------------------------- |
+| **Warhorn**                                                         |                                            |
 | <Skill name="Cyclone" size="big" disableText/>             | 150 with <Control name="Pull"/>                     |
 | <Skill name="Tidal Surge" size="big" disableText/>    | 150 with <Control name="Knockback"/> |
 | <Skill name="Dust Storm" size="big" disableText/>    | 20/s with <Condition name="Blinded"/>
-
-</Card>
-
-<Card title="Defiance Bar Damage - Focus">
-
-|                                                         |                                                 |
-| ------------------------------------------------------- | ----------------------------------------------- |
+| **Focus**                                                         |                                            |
 | <Skill name="Gale" size="big" disableText/>             | 400 with <Control name="Knockdown"/>                     |
 | <Skill name="Magnetic Wave" size="big" disableText/>    | 15/s with <Condition name="Crippled"/> |
 | <Skill name="Freezing Gust" size="big" disableText/>    | 33/s with <Condition name="Chilled"/> |
 | <Skill name="Comet" size="big" disableText/>    | 200 with <Control name="Daze"/>
 
- 
-
 **Many of these skills aren't accessible during the normal rotation due to being locked behind attunements you don't use.**
-
-</Card>
 
 </GridItem>
 
 <GridItem sm="5">
 
-<Card title="Situational Skills">
+### Situational Skills
 
 <Warning>
 
@@ -137,69 +114,36 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Lightning Flash" size="big" disableText/>            | A 900 units teleport for easy repositioning.                                                                                                   |
 | <Skill name="Glyph of Renewal" size="big" disableText/>           | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.                
 
-</Card>
-
-<Card title="Situational Weapons">
-|                                                                   |                                                                                                                                                |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Main Hand                                                             |
-| <Item id="96221" size="medium"/>          | A lower dps option that is fully ranged and opens up the offhand slot. |  
-| Off Hand
-| <Item id="97783" size="medium"/>           |   Useful only if your group struggles with boon uptime due to access to <Skill name="Sand Squall"/>.                                           |                                                                                                  |
-| <Item id="97165" size="medium"/>           | Less dps than warhorn but higher cc.                                     |
-
-</Card>
+### Situational Weapons
+- **Warhorn** - A lower dps option that is fully ranged and opens up the offhand slot.
+- **Warhorn** - Your first choice of off hand, useful if your group struggles with boon uptime due to access to <Skill name="Sand Squall"/>.
+- **Focus** - Less dps than warhorn but offers more access to CC skills.
 
 </GridItem>
-
 </Grid>
 
 <Divider text="Rotation / Skill usage"/>
+<Warning>
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
+</Warning>
+
+### Important Notes
+
+- <Skill name="Signet of Fire"/> is one of your most important DPS skills. Use it off cooldown!
+
+- Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
+
+- <Skill name="Primordial Stance"/> should be used before attuning to <Skill name="Earth Attunement" disableText/> <Skill name="Fire Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
+
+- Although it is important to follow the weave self rotation as closer as possible, the timing when it comes to completing it, is extremely tight and you might find yourself unable to do it especially if you don't have boons precasted on you and they have to be applied once you get in combat. In that scenario the best adjustment you can do is slightly altering the ending. Instead of doing the <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Earth Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Water Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> loop, do this one: <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Water Attunement" disableText/><Skill name="Fire Attunement" disableText/>, use <Skill name="Triple Sear"/> and activate <Skill id="69184"/> there, attune to <Skill name="Earth Attunement" disableText/>/<Skill name="Water Attunement" disableText/>, use <Skill name="Whirling Stones"/>, activate <Skill id="69413"/>, move to <Skill name="Fire Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> and continue with the main loop. 
+
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to air and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without entering <Skill name="Tailored Victory"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to attune to <Skill name="Air Attunement" disableText/> and start from there because completing weave self otherwise is going to be a lot more awkward. 
+
+- Hammer 3 orbs are an important part of your damage not only because of their offensive buff but also because they apply condis each time they hit the enemy (they hit once per second). That is why you want to have both <Skill name="Flame Wheel"/> and <Skill name="Rocky Loop"/> active for as longer as possible. Keep in mind that these buffs get activated together with <Skill id="69164"/> but you can only activate <Skill name="Flame Wheel"/> individually because you never double attune <Skill name="Earth Attunement"/>. Eventually the cooldown of <Skill id="69164"/> starts being less aligned with the rotation which is why you go from throwing <Skill name="Grand Finale"/> before leaving <Skill name="Fire Attunement"/> to throwing it when you enter <Skill name="Earth Attunement" disable text/>/<Skill name="Fire Attunement" disable text/> and then when you leave <Skill name="Earth Attunement" disable text/>/<Skill name="Fire Attunement" disable text/>. If needed you can also use <Skill name="Grand Finale"/> in <Skill name="Fire Attunement" disable text/>/<Skill name="Earth Attunement" disable text/> as long as you know <Skill id="69164"/> is going to be ready to activate.  
 
 <Grid>
-<GridItem xs="12" sm="12">
-<Card title="Disclaimer">
-
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.  
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="12">
-<Card title="Precasting">
-
-### **Precast in non boonstrip fights** 
-If you know you can only get one <Skill name="Weave Self"/> during the fight then you can precast it and use the second one later. To do that you have to: 
-
-- Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, replace a utility with <Skill name="Arcane Power"/> and precast it
-- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
-- Switch back your replaced utility
-- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
-- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
-
-### **Precast in fights with boonstrip** 
-In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some specific buffs get stripped the moment you enter combat so your precast has to be adjusted. Also these fights favor use of <Skill name="Glyph of Lesser Elementals"/>
-
-- Start on <Skill name="Fire Attunement"/>, precast <Skill name="Glyph of Lesser Elementals"/> replace your other utilities with <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/> and precast them
-- Take the _Mistlock Singularity_ and cast another <Skill name="Glyph of Lesser Elementals"/>
-- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and switch back to your normal utilities
-- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
-- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight
-
-### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
-
-If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
-
-- Switch to the sigils 
-- For Sunqua Peak fall below the stairs before the boss' arena to get in combat and switch to any attunement.
-- For Silent Surf let go of the parachute a bit earlier so as you get in combat when you fall down and switch to any attunement. 
-- Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
-
-</Card>
-</GridItem>
-
-<GridItem xs="12" sm="6">
-
-<Card title="Rotation during Weave Self">
+<GridItem sm="6">
+### Rotation during Weave Self
 
 <Grid>
 <GridItem sm="3">
@@ -332,35 +276,41 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 </Grid>
 
-</Card>
-
-</GridItem>
-
-<GridItem xs="12" sm="6">
-
-<Card title="Golem Rotation">
+### Golem Rotation
 <Video youtube="-ML_bmcdBPo" caption="by Ryan" />
-</Card>
-
-<Card title="Important Notes">
-
-- <Skill name="Signet of Fire"/> is one of your most important DPS skills. Use it off cooldown!
-
-- Make sure to always use <Skill name="Glyph of ELemental Power"/> in <Skill name="Fire Attunement"/>. If the boss is about to phase or die, your next best option is to use it in <Skill name="Earth Attunement"/>. If you find yourself is any other element, you should use it regardless, as it grants increased strike damage on your next few attacks.
-
-- <Skill name="Primordial Stance"/> should be used before attuning to <Skill name="Earth Attunement" disableText/> <Skill name="Fire Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
-
-- Although it is important to follow the weave self rotation as closer as possible, the timing when it comes to completing it, is extremely tight and you might find yourself unable to do it especially if you don't have boons precasted on you and they have to be applied once you get in combat. In that scenario the best adjustment you can do is slightly altering the ending. Instead of doing the <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Earth Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Water Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> loop, do this one: <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Water Attunement" disableText/><Skill name="Fire Attunement" disableText/>, use <Skill name="Triple Sear"/> and activate <Skill id="69184"/> there, attune to <Skill name="Earth Attunement" disableText/>/<Skill name="Water Attunement" disableText/>, use <Skill name="Whirling Stones"/>, activate <Skill id="69413"/>, move to <Skill name="Fire Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> and continue with the main loop. 
-
-- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to air and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without entering <Skill name="Tailored Victory"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to attune to <Skill name="Air Attunement" disableText/> and start from there because completing weave self otherwise is going to be a lot more awkward. 
-
-- Hammer 3 orbs are an important part of your damage not only because of their offensive buff but also because they apply condis each time they hit the enemy (they hit once per second). That is why you want to have both <Skill name="Flame Wheel"/> and <Skill name="Rocky Loop"/> active for as longer as possible. Keep in mind that these buffs get activated together with <Skill id="69164"/> but you can only activate <Skill name="Flame Wheel"/> individually because you never double attune <Skill name="Earth Attunement"/>. Eventually the cooldown of <Skill id="69164"/> starts being less aligned with the rotation which is why you go from throwing <Skill name="Grand Finale"/> before leaving <Skill name="Fire Attunement"/> to throwing it when you enter <Skill name="Earth Attunement" disable text/>/<Skill name="Fire Attunement" disable text/> and then when you leave <Skill name="Earth Attunement" disable text/>/<Skill name="Fire Attunement" disable text/>. If needed you can also use <Skill name="Grand Finale"/> in <Skill name="Fire Attunement" disable text/>/<Skill name="Earth Attunement" disable text/> as long as you know <Skill id="69164"/> is going to be ready to activate.  
-
-</Card>
 </GridItem>
+<GridItem sm="6">
+<Card title="Precasting">
 
-<GridItem xs="12" sm="6">
-<Card title="Rotation out of Weave Self">
+### **Precast in non boonstrip fights** 
+If you know you can only get one <Skill name="Weave Self"/> during the fight then you can precast it and use the second one later. To do that you have to: 
+
+- Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, replace a utility with <Skill name="Arcane Power"/> and precast it
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
+- Switch back your replaced utility
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
+- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
+
+### **Precast in fights with boonstrip** 
+In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some specific buffs get stripped the moment you enter combat so your precast has to be adjusted. Also these fights favor use of <Skill name="Glyph of Lesser Elementals"/>
+
+- Start on <Skill name="Fire Attunement"/>, precast <Skill name="Glyph of Lesser Elementals"/> replace your other utilities with <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/> and precast them
+- Take the _Mistlock Singularity_ and cast another <Skill name="Glyph of Lesser Elementals"/>
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and switch back to your normal utilities
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
+- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight
+
+### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
+
+If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
+
+- Switch to the sigils 
+- For Sunqua Peak fall below the stairs before the boss' arena to get in combat and switch to any attunement.
+- For Silent Surf let go of the parachute a bit earlier so as you get in combat when you fall down and switch to any attunement. 
+- Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
+
+</Card>
+### Rotation outside of Weave Self
 
 <Grid>
 <GridItem sm="3">
@@ -496,6 +446,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 </Grid>
 
-</Card>
 </GridItem>
 </Grid>
+
+
