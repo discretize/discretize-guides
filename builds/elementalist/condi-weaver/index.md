@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:13:51.045Z "
+date: "2024-01-03T11:18:37.619Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -367,13 +367,15 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Signet of Fire"/>
-2. <Skill name="Rust Frenzy"/>
-3. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> =>
+1. <Skill name="Whirling Stones"/>
+2. <Skill id="69164"/>
+3. <Skill name="Triple Sear"/>
+4. <Skill name="Stonestrike"/>
+5. <Skill name="Signet of Fire"/>
 
 </GridItem>
 
@@ -382,9 +384,10 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Crystalline Sunder"/>
-2. <Skill name="Flame Uprising"/> + <Skill name="Magnetic Wave"/>
-3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
+1. <Skill name="Ground Pound"/>
+2. <Skill name="Singeing Strike"/> x4
+3. <Skill name="Surging Flames"/>
+4. <Skill id="34736"/>
 
 </GridItem>
 
@@ -393,21 +396,20 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Transmute Fire"/>
-2. <Skill name="Cauterizing Strike"/>
-3. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> => <Skill name="Searing Slash"/>
-4. <Skill name="Flame Uprising"/>
+1. <Skill name="Singeing Strike"/> x12
+2. <Skill name="Primordial Stance"/>
+3. <Skill name="Surging Flames"/> 
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Air Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Signet of Fire"/>
-2. <Skill name="Pyro Vortex"/>
-3. <Skill name="Charged Strike"/> => <Skill name="Polaric Slash"/> => <Skill id="45216"/>
+1. <Skill name="Grand Finale"/>
+2. <Skill name="Signet of Fire"/>
+3. <Skill name="Whirling Stones"/>
 4. <Skill name="Flamewall"/>
 5. <Skill name="Transmute Fire"/>
 
