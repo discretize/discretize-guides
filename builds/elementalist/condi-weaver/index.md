@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T00:29:39.849Z "
+date: "2024-01-03T00:39:59.888Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -123,7 +123,6 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                             |
 | Offensive                                                         |
 | <Skill name="Glyph of Lesser Elementals" size="big" disableText/> | A stronger alternative to <Skill name="Glyph of Elemental Power"/> but relies on rng and works better in fights with longer phases.   
-|
 | Defensive                                                         |
 | <Skill name="Arcane Shield" size="big" disableText/>              | A stun break with the addition of 3 blocks.                                                                                                    |
 | <Skill name="Armor of Earth" size="big" disableText/>             | Another stun break that provides extra <Boon name= "Protection"/> and <Boon name= "Stability"/>.                                               |
@@ -131,7 +130,18 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Twist of Fate" size="big" disableText/>              | Yet another stun break with the addition of evade frames.                                                                                      |
 | Utility                                                           |
 | <Skill name="Lightning Flash" size="big" disableText/>            | A 900 units teleport for easy repositioning.                                                                                                   |
-| <Skill name="Glyph of Renewal" size="big" disableText/>           | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.                                     |
+| <Skill name="Glyph of Renewal" size="big" disableText/>           | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.                
+
+</Card>
+
+<Card title="Situational Weapons">
+|                                                                   |                                                                                                                                                |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Main Hand                                                             |
+| <Item id="96221" size="medium"/>          | A lower dps option that opens up the offhand slot. |  
+| Off Hand
+| <Item id="97783" size="medium"/>           |   Useful only if your group struggles with boon uptime due to <Skill name="Sand Squall"/>.                                           |                                                                                                  |
+| <Item id="97165" size="medium"/>           | Less dps than warhorn but higher cc.                                     |
 
 </Card>
 
