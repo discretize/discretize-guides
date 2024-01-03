@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T10:14:48.635Z "
+date: "2024-01-03T10:21:27.715Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -162,12 +162,12 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 <GridItem xs="12" sm="12">
 <Card title="Precasting">
 
-### **Weaver Precast in non boonstrip fights** 
+### **Precast in non boonstrip fights** 
 If you know you can only get one <Skill name="Weave Self"/> during the fight then you can precast it and use the second one later. To do that you have to: 
 
 - Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/>.
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
-- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
 - Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
