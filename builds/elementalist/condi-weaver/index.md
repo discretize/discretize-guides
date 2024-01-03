@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:02:18.162Z "
+date: "2024-01-03T11:05:15.579Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -212,8 +212,9 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Flame Uprising"/>
-2. <Skill name="Pyro Vortex"/>
+1. <Skill name="Primordial Stance"/>
+2. <Skill name="Surging Flames"/>
+3. <Skill name="Grand Finale"/>
 
 </GridItem>
 
@@ -222,9 +223,8 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Transmute Fire"/>
-2. <Skill name="Cauterizing Strike"/>
-3. <Skill name="Flamewall"/>
+1. <Skill name="Triple Sear"/>
+2. <Skill name="Singeing Strike"/> x2
 
 </GridItem>
 
@@ -233,17 +233,9 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Lava Skin"/>
-2. <Skill name="Earthen Vortex"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Rust Frenzy"/>
+1. <Skill name="Flame Wheel"/>
+2. <Skill name="Whirling Stones"/>
+3. <Skill name="Primordial Stance"/>
 
 </GridItem>
 
@@ -252,8 +244,17 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Flame Uprising"/>
-2. <Skill name="Fire strike"/> => <Skill name="Fire Swipe"/> =>
+1. <Skill name="Singeing Strike"/> x4
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Surging Flames"/>
+2. <Skill name="Singeing Strike"/> x6
 
 </GridItem>
 
