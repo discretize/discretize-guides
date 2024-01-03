@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:11:46.099Z "
+date: "2024-01-03T11:13:51.045Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -332,7 +332,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 <GridItem xs="12" sm="6">
 
 <Card title="Golem Rotation">
-<Video youtube="H5ZyMQln6hw" caption="by Roul [SC]" />
+<Video youtube="-ML_bmcdBPo" caption="by Ryan" />
 </Card>
 
 <Card title="Important Notes">
@@ -355,15 +355,14 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 <Grid>
 <GridItem sm="3">
-<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Lava Skin"/>
-2. <Skill name="Earthen Vortex"/>
-3. <Skill name="Crystal Slash"/> => <Skill name="Crystalline Strike"/> => <Skill name="Crystalline Sunder"/>
-4. <Skill name="Transmute Fire"/>
-5. <Skill name="Flamewall"/>
+1. <Skill name="Singeing Strike"/> x5
+2. <Skill name="Grand Finale"/>
+3. <Skill name="Surging Flames"/>
+4. <Skill name="Primordial Stance"/>
 
 </GridItem>
 
