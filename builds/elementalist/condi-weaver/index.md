@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T10:12:50.649Z "
+date: "2024-01-03T10:14:48.635Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -174,7 +174,9 @@ If you know you can only get one <Skill name="Weave Self"/> during the fight the
 
 If you have an extra set of weapons (or legendary sigils), you can also precast the effects of <Item name="Doom"/> and <Item name="Leeching"/>. To do that:
 
-- Switch to the sigils, fall below the stairs before the boss' arena to get in combat and switch to any attunement.
+- Switch to the sigils 
+- For Sunqua Peak fall below the stairs before the boss' arena to get in combat and switch to any attunement.
+- For Silent Surf let go of the parachute a bit earlier so as you get in combat when you fall down and switch to any attunement. 
 - Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
 
 </Card>
