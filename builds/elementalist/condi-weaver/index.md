@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:42:40.245Z "
+date: "2024-01-03T11:50:26.119Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -345,7 +345,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 - Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
 
-- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss is invulnerable then
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to air and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without completing <Effect name="Perfect Weave"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to attune to <Skill name="Air Attunement" disableText/> and start from there because completing weave self otherwise is going to be a lot more awkward. 
 
 </Card>
 </GridItem>
