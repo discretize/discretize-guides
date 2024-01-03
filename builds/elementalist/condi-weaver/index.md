@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T12:11:06.389Z "
+date: "2024-01-03T12:12:17.971Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -168,7 +168,7 @@ If you know you can only get one <Skill name="Weave Self"/> during the fight the
 - Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, replace a utility with <Skill name="Arcane Power"/> and precast it
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
 - Switch back your replaced utility
-- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
 - Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
 
 ### **Precast in fights with boonstrip** 
@@ -176,8 +176,8 @@ In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some speci
 
 - Start on <Skill name="Fire Attunement"/>, precast <Skill name="Glyph of Lesser Elementals"/> replace your other utilities with <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/> and precast them
 - Take the _Mistlock Singularity_ and cast another <Skill name="Glyph of Lesser Elementals"/>
-- Switch back to your normal utilities
-- Attune to <Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and switch back to your normal utilities
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>
 - Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
