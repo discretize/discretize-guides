@@ -13,7 +13,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T11:50:26.119Z "
+date: "2024-01-03T12:02:21.364Z "
 conditions:
   - name: Burning
   - name: Bleeding
@@ -343,9 +343,11 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 
 - <Skill name="Primordial Stance"/> should be used before attuning to <Skill name="Earth Attunement" disableText/> <Skill name="Fire Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Fire Attunement" disableText/>.
 
-- Although it is important to finish auto attack chains, during <Skill name="Weave Self"/>, you should prioritize using your skills and entering <Skill name="Tailored Victory"/>, even if it means skipping some auto attacks. Maintaining the <Skill name="Fire Attunement" disableText/> buff of <Skill name="Weave Self"/> is most important.
+- Although it is important to follow the weave self rotation as closer as possible, the timing when it comes to completing it, is extremely tight and you might find yourself unable to do it especially if you don't have boons precasted on you and they have to be applied once you get in combat. In that scenario the best adjustment you can do is slightly altering the ending. Instead of doing the <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Earth Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Water Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> loop, do this one: <Skill name="Fire Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> => <Skill name="Water Attunement" disableText/><Skill name="Fire Attunement" disableText/>, use <Skill name="Triple Sear"/> and activate <Skill id="69184"/> there, attune to <Skill name="Earth Attunement" disableText/>/<Skill name="Water Attunement" disableText/>, use <Skill name="Whirling Stones"/>, activate <Skill id="69413"/>, move to <Skill name="Fire Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> and continue with the main loop. 
 
-- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to air and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without completing <Effect name="Perfect Weave"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to attune to <Skill name="Air Attunement" disableText/> and start from there because completing weave self otherwise is going to be a lot more awkward. 
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is the same as the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to air and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without entering <Skill name="Tailored Victory"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to attune to <Skill name="Air Attunement" disableText/> and start from there because completing weave self otherwise is going to be a lot more awkward. 
+
+
 
 </Card>
 </GridItem>
