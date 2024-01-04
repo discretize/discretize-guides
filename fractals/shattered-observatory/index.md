@@ -18,12 +18,6 @@ record:
     - name: Discretize
       tag: dT
   youtube:
-    - id: qhCSGO0cZ0o
-      name: Hyp
-      specialization: Scrapper
-    - id: L0tnVqb2WaM
-      name: Inky
-      specialization: Renegade
     - id: VJOA0w7c_rw
       name: Jetrell
       specialization: Soulbeast
@@ -33,6 +27,12 @@ record:
     - id: ODqSBG4M7_I
       name: Seatek
       specialization: Soulbeast
+    - id: qhCSGO0cZ0o
+      name: Hyp
+      specialization: Scrapper
+    - id: L0tnVqb2WaM
+      name: Inky
+      specialization: Renegade
 image: images/header_old.jpg
 api: 3458
 bosses: 3
@@ -47,11 +47,18 @@ sigils:
 
 ## **Skorvald the Shattered**
 
-![Skorvald the Shattered](images/skorvald.jpg)
-
 Skorvald the Shattered is the first boss in the Shattered Observatory fractal. He has <Label>5,551,340 HP</Label> and requires <Label>2200 CC</Label> units. The encounter has three phases separated by a mini event at 66% and 33% health of Skorvald. In this mini event the party has to kill four _Elite Flux Anomalies_ which spawn on the islands in the Southwest, Southeast, Northeast and Northwest.
 
 After accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> at the _Mistlock Singularity_ on the platform below and start the encounter by activating the orb in the center of the platform.
+
+<Grid>
+<GridItem sm="6">
+![Skorvald the Shattered](images/skorvald.jpg)
+</GridItem>
+<GridItem sm="6">
+![Arena of Skorvald the Shattered](images/skorvald_arena.jpg)
+</GridItem>
+</Grid>
 
 <Card title="Tactic Overview (TL;DR)">
 - fast crowd control, everyone must contribute
@@ -59,8 +66,6 @@ After accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon nam
 - don't hold back cooldowns on the _Elite Flux Anomalies_
 - use <Boon name="Stability"/> in the final phase; don't stand inside Skorvald's hitbox
 </Card>
-
-![Arena of Skorvald the Shattered](images/skorvald_arena.jpg)
 
 ### Tactic Skorvald
 
@@ -134,12 +139,12 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 ## **Artsariiv**
 
-![Artsariiv: the second boss](images/artsariiv.jpg)
-
 The second boss of the fractal is Artsariiv. She has <Label>5,962,266 HP</Label> and requires <Label>2100 CC</Label> units. The encounter has three phases separated by a CC-heavy mini event at 66% and 33% health of Artsariiv. The first CC mini event requires 5x 650 CC, the second 9x 375 CC.
 The encounter gets activated by bouncing a _Globolla Marble_ into her, be sure to prepare <Boon name="Might"/> and skills beforehand.
 
 Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="Knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Typically, these mobs are ignored or cleaved. Assign a player for the _Globolla Marble_ bouncing (typically one of the support classes) and a backup in case the main bouncer gets _Corporal Reassignment_. **Use your <SpecialActionKey name="hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
+
+![Artsariiv: the second boss](images/artsariiv.jpg)
 
 <Card title="Tactic Overview (TL;DR)">
 - 3 phases with CC-heavy mini events at 66% and 33% health
@@ -191,11 +196,11 @@ After the fight is over, take the portal in the North and move forward to get to
 
 ## **Arkk** <Item id="50082" disableText size="medium"/> <Item id="43360" disableText size="medium"/>
 
-![Arkk: the final boss](images/arkk.jpg)
-
 Arkk is the third and final boss of the fractal. He has <Label>9,942,250 HP</Label> and requires <Label>1800 CC</Label> units. The encounter has five phases separated by a mini event at 80%, 50% and 30% as well as mini bosses at 70% and 40% health of Arkk. He is by far the most challenging boss in the fractal and requires a lot of practice to master. The last 30% of the fight can get very chaotic due to overlapping mechanics. However, all mechanics can be avoided and a healer is not mandatory. In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
 
 An attentive player may have noticed the <SpecialActionKey name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="Launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
+
+![Arkk: the final boss](images/arkk.jpg)
 
 <Card title="Tactic Overview (TL;DR)">
 - at 80%, 50% and 30% health, push the _Solar Blooms_ **clockwise** into the pillars
