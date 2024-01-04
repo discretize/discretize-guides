@@ -5,7 +5,7 @@ potions:
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-07T21:58:48.299Z "
+date: '2023-08-07T21:58:48.299Z '
 title: Shattered Observatory
 difficulties:
   - level: 98
@@ -33,54 +33,66 @@ record:
     - id: ODqSBG4M7_I
       name: Seatek
       specialization: Soulbeast
-long_description: ""
 image: images/header_old.jpg
 api: 3458
 bosses: 3
 description: Is that...? The architecture, the symbology—this is asuran technology!
+long_description: >-
+  Welcome, to the Shattered Observatory Fractal, a place where reality is distorted. The Mistlock Observatory, the once-stable hub of fractal exploration, has been shattered by the forces of chaos. The very fabric of fractals unravelling, and you must navigate their broken shards to uncover the truth behind the cataclysmic event. But be warned, the Mists are unpredictable, and the instabilities that plague this place will challenge even the most skilled players. You'll face off against twisted versions of familiar foes, navigate treacherous terrain to restore stability to the Observatory. And, if you dare to test your limits, advanced players can tackle the Challenge Mode for a more brutal version of each fight. The fate of the Fractals of the Mists rests in your hands. Will you rise to the challenge and save the shattered observatory, or be lost to the chaos forever?
 group: Challenge Mode
 sigils:
   - id: 24615
   - id: 24868
 ---
 
-## Skorvald the Shattered <Label>5,551,340 HP</Label> <Label>CC: 2200</Label>
+## **Skorvald the Shattered**
+
+![Skorvald the Shattered](images/skorvald.jpg)
+
+Skorvald the Shattered is the first boss in the Shattered Observatory fractal. He has <Label>5,551,340 HP</Label> and requires <Label>2200 CC</Label> units. The encounter has three phases separated by a mini event at 66% and 33% health of Skorvald. In this mini event the party has to kill four _Elite Flux Anomalies_ which spawn on the islands in the Southwest, Southeast, Northeast and Northwest.
+
+After accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> at the _Mistlock Singularity_ on the platform below and start the encounter by activating the orb in the center of the platform.
+
+<Card title="Tactic Overview (TL;DR)">
+- fast crowd control, everyone must contribute
+- use movement skills to travel between the islands at 66% and 33% Skorvald health
+- don't hold back cooldowns on the _Elite Flux Anomalies_
+- use <Boon name="Stability"/> in the final phase; don't stand inside Skorvald's hitbox
+</Card>
+
+![Arena of Skorvald the Shattered](images/skorvald_arena.jpg)
+
+### Tactic Skorvald
+
+The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Due to the size of the bar, every player has to contribute to CC. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner, which enables you to precast some skills. Below you can find a full list of all attacks for further reference.
+
+**First phase (100%-66%)**: Skorvald is almost entirely stationary. Most attacks are well telegraphed and not significantly dangerous.
+
+**Second phase (66%-33%)**: Right after killing the fourth anomaly, Skorvald receives the <Effect name="Exposed"/> debuff. After its expiry, he focuses one player and dashes towards the player from the edge of the platform for a total of 3 times. After the rushes, he regains his Defiance bar and continues his attacks.
+
+**Third phase (33%-0%)**: Skorvald again receives <Effect name="Exposed"/>. However, after its expiry he starts spinning counter-clockwise. Make sure to never stand inside his hitbox as otherwise you will die almost immediately. Ideally, one or two members of the party provide <Boon name="Stability"/> to the group to prevent interrupts. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range. Under no circumstances stand inside of _Skorvalds_ hitbox as it will kill you immediately. After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
+
+### Tactic Island Mini Event
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="10">
 
-Skorvald the Shattered is the first boss in the Shattered Observatory fractal. Be sure to take the _Mistlock Singularity_ after accepting the Harbinger's challenge, stack <Boon name="Might"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/> on the platform below and start the encounter by activating the orb in the center of the platform.
+At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies don't have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
 
-### Tactic
+Since most of the time is spent on the isle mini events, it is recommended to use your most damaging skills on the _Elite Flux Anomalies_. To move quickly between the islands, use leaps and other movement modifying skills. **Always position yourself with the back to the wall of the island to avoid being knocked down.**
 
-The key to the fight is fast crowd control, as breaking Skorvald's Defiance bar prevents most of the mechanics. Immediately break it at the start and bring him down to 66% health. Please note, that you cannot _precast_ CC here. Your CC affects Skorvald, as soon as his HP bar appears in the top right corner.
+#### Advanced Portal Strategy
+
+It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. _Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._
 
 </GridItem>
-
-<GridItem sm="5">
-![Skorvald the Shattered](images/skorvald.jpg)
-</GridItem>
-
 <GridItem sm="2">
 ![An Elite Flux Anomaly](images/elite-flux-anomaly.jpg)
 </GridItem>
 
-<GridItem sm="10">
-
-### 66% + 33% island phase
-
-At 66% and 33%, Skorvald becomes immune to damage and the party has to kill four _Elite Flux Anomalies_ to proceed. They spawn on the islands in the Southwest, Southeast, Northeast and Northwest and have to be killed subsequently in that order - the party can use air turbulences to travel between the islands. The Anomalies don't have much health (170.244 HP) but knock players back with shockwaves. Pay attention to the animations and position yourself between Anomaly and wall.
-
-It is worth placing a <Item id="78978"/> portal on the main platform and opening it immediately when you reach the 4th _Elite Flux Anomaly_ to deal more damage to Skorvald before he continues his attacks, especially at 33%. **_Do not take the portal back to the boss before the add has landed its first jump. Otherwise it will leap out of all the damage zones and not die in time for your nuke._**
-
-</GridItem>
 </Grid>
 
-Below 33% health, Skorvald goes berserk and starts his rotating _Solar Cyclone_ attack. Keep your <Boon name="Stability"/> skills for this part. Practice the safe spots and keep the _Solar Blooms_ away from the party, but be ready to dodge if it explodes in party range. Under no circumstances stand inside of _Skorvalds_ hitbox as it will kill you immediately.
-
-After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile_) and regains his Defiance bar, if he is not dead yet break the bar and finish him.
-
-### Comprehensive list of all attacks:
+### Comprehensive List of All Attacks
 
 |                                      |                                                                                                                                                                                                                                                                                                                                                                                  |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,13 +111,13 @@ After about 30 seconds, Skorvald starts a huge laser beam attack (_Beaming Smile
 
 ---
 
-## Intermediate part
+## Intermediate Part
 
 <Grid>
 <GridItem sm="8">
 After Skorvald is dead, take the portal to the East and take the left portal in the control center area. You can activate a <Item id="78786"/> to walk during the cutscene and save some time.
 
-You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. For the moment, it is a 2100-range teleport with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_.
+You gain a new special action key: <SpecialActionKey name="hypernovalaunch"/>. For the moment, it is a 2100-range leap with stunbreak that blocks the next attack (1.75s <Boon name="Aegis"/>). Its cooldown refreshes after you bounce a _Globolla Marble_ (big white AoE).
 
 You will encounter several glass mobs on the way to the second boss, there are no differences to the regular Shattered Observatory. After the first group of mobs, you will have to bounce a white _Globolla Marble_ nine times with your head to progress.
 
@@ -120,32 +132,28 @@ If you have a spare <Item id="78978"/> or <Item id="44642"/>, you can skip direc
 
 ---
 
-## Artsariiv <Label>5,962,266 HP</Label> <Label>CC boss: 2100, first adds: 650, second adds: > 375</Label>
+## **Artsariiv**
 
-<Grid>
-<GridItem sm="8">
+![Artsariiv: the second boss](images/artsariiv.jpg)
 
-The second boss of the fractal is Artsariiv. The encounter gets activated by bouncing a _Globolla Marble_ into her, be sure to prepare <Boon name="Might"/> and skills in the northwest beforehand.
+The second boss of the fractal is Artsariiv. She has <Label>5,962,266 HP</Label> and requires <Label>2100 CC</Label> units. The encounter has three phases separated by a CC-heavy mini event at 66% and 33% health of Artsariiv. The first CC mini event requires 5x 650 CC, the second 9x 375 CC.
+The encounter gets activated by bouncing a _Globolla Marble_ into her, be sure to prepare <Boon name="Might"/> and skills beforehand.
 
-Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="Knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Discuss whether you kill all adds (safe tactic) or not.
+Artsariiv summons copies which split into smaller clones upon death, they use martial arts skills, <Control name="Knockdown"/>, shoot shocking projectiles and apply a lot of damaging conditions. Typically, these mobs are ignored or cleaved. Assign a player for the _Globolla Marble_ bouncing (typically one of the support classes) and a backup in case the main bouncer gets _Corporal Reassignment_. **Use your <SpecialActionKey name="hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
 
-Assign a player for the _Globolla Marble_ bouncing (typically the <Specialization name="Renegade"/>) and a backup in case the main bouncer gets _Corporal Reassignment_.
-
-**Use your <SpecialActionKey name="hypernovalaunch"/> special action key to quickly move around the platform, the <Boon name="Aegis"/> from it counters nearly all mechanics.**
-</GridItem>
-
-<GridItem sm="4">
-![Artsariiv: the second boss]
-</GridItem>
-</Grid>
+<Card title="Tactic Overview (TL;DR)">
+- 3 phases with CC-heavy mini events at 66% and 33% health
+- bring extra crowd control skills
+- when targeted by _Corporal Reassignment_ (red skull above your character), move to the center of the platform and kill the _Temporal Anomaly_ to spawn a containment chamber
+</Card>
 
 ### Tactic
 
-Immediately after the fight starts, Artsariiv channels her huge triple-laser attack _Beaming Smile_ (similar to Skorvald at low health). Do not get caught within those lasers and turn away from her to prevent <Condition name="Blinded"/> and <Condition name="fear"/>.
+Immediately after the fight starts, Artsariiv channels her huge triple-laser attack _Beaming Smile_ (similar to Skorvald at low health). Do not get caught within those lasers and turn away from the big red eye to prevent getting <Condition name="Blinded"/> and <Condition name="Fear"/>.
 
 Kill the first _Temporal Anomaly_ to spawn a containment for _Corporal Reassignment_ and cleave the first set of clones. When you feel safe enough, move northwest to Artsariiv, break her defiance bar and bring her down to 66% health.
 
-At 66% and 33% health, Artsariiv splits up into five and nine clones respectively. Those clones can't be damaged and only despawn when their defiance bar is broken. All party members get resurrected afterwards, so don't waste time on dead players.
+At 66% and 33% health, Artsariiv splits up into five and nine clones respectively. Those clones can't be damaged and only despawn when their defiance bar is broken. All party members get resurrected afterwards, so don't waste time to resurrect dead players.
 
 The central clone has the highest priority as it shoots additional damaging orbs. Also pay attention to the single _Globolla Marble_ during the CC phase, if it isn't bounced it deals medium damage to the party.
 
@@ -158,7 +166,7 @@ After the fight is over, take the portal in the North and move forward to get to
 <Grid>
 <GridItem sm="9">
 
-### Comprehensive list of all attacks:
+### Comprehensive List of All Attacks
 
 |                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -181,65 +189,56 @@ After the fight is over, take the portal in the North and move forward to get to
 
 ---
 
-## Arkk <Item id="50082" disableText/> <Label>9,942,250 HP</Label> <Label>CC: 1800</Label>
+## **Arkk** <Item id="50082" disableText size="medium"/> <Item id="43360" disableText size="medium"/>
 
-<Grid>
-<GridItem sm="8">
-
-Arkk is the third and final boss of the fractal. An attentive player may have noticed the <SpecialActionKey name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="Launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
-
-In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
-
-Arkk himself has no melee attacks, but a lot of abilities which can make the fight rather chaotic for inexperienced groups. However, all damage can be avoided and therefore a healer is not mandatory. More party DPS means less boss mechanics.
-
-Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"/>) and renew your _Mistlock Singularity_ before activating the orb to teleport to Arkk.
-</GridItem>
-
-<GridItem sm="4">
 ![Arkk: the final boss](images/arkk.jpg)
-</GridItem>
-</Grid>
 
-<GridItem sm="12">
+Arkk is the third and final boss of the fractal. He has <Label>9,942,250 HP</Label> and requires <Label>1800 CC</Label> units. The encounter has five phases separated by a mini event at 80%, 50% and 30% as well as mini bosses at 70% and 40% health of Arkk. He is by far the most challenging boss in the fractal and requires a lot of practice to master. The last 30% of the fight can get very chaotic due to overlapping mechanics. However, all mechanics can be avoided and a healer is not mandatory. In contrast to the other enemies in this fractal, Arkk belongs to Scarlet's army and <Item id="50082"/> works against him.
+
+An attentive player may have noticed the <SpecialActionKey name="hypernovalaunch"/> special action key became even stronger now, doing medium damage, a 232 <Control name="Launch"/> and executing a Blast finisher. Thanks to this, other crowd control skills are negligible for this fight.
+
+<Card title="Tactic Overview (TL;DR)">
+- at 80%, 50% and 30% health, push the _Solar Blooms_ **clockwise** into the pillars
+- when targeted by Corporal Reassignment (red skull above your character), kill the Temporal Anomaly to spawn a containment chamber
+- use <SpecialActionKey name="hypernovalaunch"/> to block the Solar Fury orbs, to CC Arkk and to travel quickly
+</Card>
 
 ### Tactic
 
-Immediately when the fight starts, turn away as Arkk uses his _Blinding Radiance_ ability. Always prioritize the respawning _Temporal Anomalies_, you only have a short time window to kill them before the player designated for _Corporal Reassignment_ explodes. The doomed person can see a white circle collapsing below the Temporal Anomaly, the moment it completes the explosion goes off.
+Stack <Boon name="Might"/> (you can use <SpecialActionKey name="hypernovalaunch"/>) and renew your _Mistlock Singularity_ before activating the orb to teleport to Arkk.
 
-A lot of the mechanics can occur at the same time, practice to avoid every single one.
+Immediately when the fight starts, turn away as Arkk uses his _Blinding Radiance_ ability. Always prioritize the respawning _Temporal Anomalies_, you only have a short time window to kill them before the player designated for _Corporal Reassignment_ explodes. The doomed person can see a white circle collapsing below the Temporal Anomaly, the moment it completes the explosion goes off. Typically, using a ranged ability suffices for eliminating the anomaly, given that all team members actively contribute. Killing the anomaly triggers kill-based nourishments like <Item id="43360"/>.
 
-Before triggering the Solar Bloom phases, you might want to wait for another Temporal Anomaly/Corporal Reassignment combination to prevent chaos during the intermediate phase.
+### Solar Blooms <Label>80%, 50%, 30%</Label>
 
-#### Solar Blooms <Label>80%, 50%, 30%</Label>
-
-When Arkk reaches 80% health, he gains <Effect name="Invulnerability"/> and players have to kite four _Solar Blooms_ into the pillars in the corners to destroy them.
-
-A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
+When Arkk reaches 80%, 50% and 30% health, he gains <Effect name="Invulnerability"/> and players have to kite four _Solar Blooms_ **clockwise** into the pillars in the corners to destroy them.
 
 ![Solar Blooms fixate on the closest player](images/so-solar-bloom.jpg)
 
+A common strategy is to assign four players to the spawning locations in the North, East, South and West, as the Solar Blooms fixate on the closest player a few seconds after their spawn. Players take aggro of their designated Solar Bloom and kite them clockwise to the next pillar on the right. You can also use direct damage skills to push back the Blooms.
+
 The fifth, remaining player should be a DPS ready to take out a possibly spawning _Temporal Anomaly_ during the phase. This player must also be ready to join the player with the green circle.
 
-After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your <SpecialActionKey name="hypernovalaunch"/> ability for an additional <Control name="Launch"/> if you are short of crowd control skills.
+After every Solar Bloom phase, Arkk's defiance bar has to be broken immediately or he kills all players. Use your <SpecialActionKey name="hypernovalaunch"/> ability for an additional <Control name="Launch"/> if you are short of crowd control skills. If the party fails to break the bar, the party wipes.
 
-#### Elite Bosses <Label>70%, 40%</Label>
+### Elite Bosses <Label>70%, 40%</Label>
 
-At 70% and 40% of Arkk's health, the party gets teleported to another dimension where you have to fight the _Elite Archdiviner_ from the [Cliffside Fractal](/fractals/cliffside) and the _Elite Brazen Gladiator_ from the [Chaos Isles Fractal](/fractals/chaos-isles) respectively.
+At 70% and 40% of Arkk's health, mobs from other fractals like the _Elite Archdiviner_ from the [Cliffside Fractal](/fractals/cliffside) and the _Elite Brazen Gladiator_ from the [Chaos Isles Fractal](/fractals/chaos-isles) respectively are summoned. Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Use <Control name="Pull"/>s and cleave the adds before finishing the boss as they will remain for the battle.
 
-Both bosses behave similar to their real version and are surrounded by four mobs (Cultists/Golems). Try to kill the adds before finishing the boss as they follow you back to Arkk. Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also does his huge pull attack below 50% health, prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
+Do not stand in the AoE spawned by the _Elite Archdiviner_ as they boonstrip.
 
-#### Final phase <Label>\<40%</Label>
+Remember the party-wide <Control name="Daze"/> if the third auto-attack of the Gladiator hits someone. The _Elite Brazen Gladiator_ also activates his pull attack below 50% health; prepare your <SpecialActionKey name="hypernovalaunch"/> skill to break his breakbar then.
 
-Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible.Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
+### Final Phases <Label>\<40%</Label>
+
+Below 40% health, random platforms start disappearing temporarily. Due to this mechanic, space is very limited and resurrecting a downed player is nearly impossible. Sometimes _Temporal Anomalies_ spawn on vanished platforms which makes the fight even more challenging.
 
 The most important thing is to keep calm. Remember that every single ability can be avoided, <SpecialActionKey name="hypernovalaunch"/> the _Solar Fury_ orbs, jump or dodge through the _Starburst Cascade_ and _Solar Stomp_ attacks, turn away from the _Blinding Radiance_ and move accordingly to the _Horizon Strike_ pattern. Keep a cool head and finish the fight!
-
-</GridItem>
 
 <Grid>
 <GridItem sm="9">
 
-### Comprehensive list of all attacks:
+### Comprehensive List of All Attacks
 
 |                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
