@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-05T00:47:02.983Z "
+date: "2024-01-05T01:04:52.203Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -37,7 +37,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 https://discretize.pages.dev/docs/
 
  
-Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors?
+Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors? 
 
 <Divider text="Normal Mode"/>
 <Grid>
@@ -231,7 +231,7 @@ There isn't much to this fight. Most groups should be able to break Dolus' bar q
 Accept the harbinger's challenge and defeat the final boss while he has ten or more stacks of Dread Defiance. 
 </Achievement>
 
-This fight has similar mechanics to Normal Mode but they're all more punishing. The overall damage pressure is fairly high &mdash; the numbers mechanic (_Frightening Speed_) deals 50% of each players' HP and the boss deals high amounts of torment and bleed to whoever's tanking. That means your group needs to be ready to share heals right after splitting up and condition cleanses can be very useful, especially on days with <Instability name="Toxic Trail"/>, <Instability name="Flux Bomb"/>, and <Instability name="Afflicted"/>. Additionally, failing certain mechanics or falling off the platform leads to instant death or a party wipe.
+This fight has similar mechanics to Normal Mode but they're all more punishing. The overall damage pressure is fairly high &mdash; the numbers mechanic (_Frightening Speed_) deals 50% of each players' HP and the boss deals high amounts of <Condition name="torment"/> and <Condition name="bleeding"/> to any players hit by the bosses auto attack. That means your group needs to be ready to share heals right after splitting up and condition cleanses can be very useful, especially on days with <Instability name="Toxic Trail"/>, <Instability name="Flux Bomb"/>, and <Instability name="Afflicted"/>. Additionally, failing certain mechanics or falling off the platform leads to instant death or a party wipe.
 
 It is considered a condition-favored encounter because the fight is divided into relatively long phases and that allows condition builds, which generally have the higher benchmarks in the current balance, to ramp-up. Another consideration is that some of these builds have easier access to self sustain and damage mitigation without large tradeoffs when compared to power builds.
 
@@ -317,10 +317,10 @@ Probably some more detail here about strats or mechnaics than the short overview
 ### Mechanics Overview
 Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Tabs>
-<Tab title="Island Fear">
+<Tab title="Dread Visage, on an Island">
 <Grid>
 <GridItem sm="6">
-Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+Also known as the Island Fear. This version of Dread Visage is almost the same as the mechanic in the first phase, however this time the boss will teleport to an Island when doing the fear. Once again face your characters model away from the boss and any Aspects to avoid being Feared off the platform, and after the attack the boss will return. Being hit by this attack will apply the same condtions and effects as the first phase.
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-island-fear" />
