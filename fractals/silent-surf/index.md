@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-05T01:04:52.203Z "
+date: "2024-01-05T01:06:54.279Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -202,7 +202,7 @@ Click the tabs below to see an overview of each mechanics for this fight and how
 <Tab title="Dread Visage">
 <Grid>
 <GridItem sm="6">
-Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit or 35% of your maximum health. If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>. If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-CFMD-DV" />
