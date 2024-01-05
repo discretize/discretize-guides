@@ -22,7 +22,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-01-03T21:23:07.532Z "
+date: "2024-01-05T09:59:31.841Z "
 ---
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).
@@ -54,7 +54,7 @@ This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Ma
 #### Situational Traits
 |                                                              |                                                                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at a minor personal DPS loss. This build can't generate any <Trait name="Persisting Flames"/> stacks so the dps loss comes only from the time you need until you ramp up your own might |
+| <Trait name="Pyromancers Puissance" size="big" disableText/> | Can easily cover a large amount of <Boon name="Might"/> for your group at a minor personal DPS loss. This build can't generate any <Trait name="Persisting Flames"/> stacks so the dps loss comes only from the time you need until your own might ramps up. |
 | <Trait name="Masters Fortitude" size="big" disableText/>     | Provides a bit of tankiness in the form of extra vitality for minimal DPS loss.                   |
 
 ### Defiance Bar Damage
