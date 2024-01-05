@@ -3,14 +3,23 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2023-09-09T17:07:54.769Z "
+date: "2024-01-05T01:04:52.203Z "
 title: Silent Surf
 difficulties:
   - level: 100
     ar: 150
 consumables: []
 record: {}
-long_description: "Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors?"
+long_description: Join forces with Captain Thess and his intrepid Serpent Clan
+  crew to unearth the survivors of the Jade Wind's devastating aftermath. As you
+  navigate through the haunting expanse of the petrified sea, an unforeseen
+  peril emerges from the depths—an encroaching evil that hungers for power. Dive
+  headfirst into the Silent Surf's caverns, and together with Captain Thess, you
+  will unveil the sinister force that lurks beneath the petrified sea's surface.
+  For those who seek an even greater challenge, you can test your skills in the
+  challenge mode. Here, you will face a more brutal version of the final fight.
+  The path below is treacherous; the stakes are monumental. Will you pierce the
+  shroud of growing evil and find the survivors?
 image: images/silent_surf_cave.jpg
 api: 5446
 bosses: 2
@@ -28,7 +37,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 https://discretize.pages.dev/docs/
 
  
-Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors?
+Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors? 
 
 <Divider text="Normal Mode"/>
 <Grid>
@@ -193,17 +202,20 @@ Click the tabs below to see an overview of each mechanics for this fight and how
 <Tab title="Dread Visage">
 <Grid>
 <GridItem sm="6">
-Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit or 35% of your maximum health. If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Dread Visage mechanic"/>
+<GifPlayer sourceId="silent-surf-CFMD-DV" />
 </GridItem>
 </Grid>
 </Tab>
 <Tab title="Frightening Speed">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+Also known as the numbers attack. Every player and the boss will get an orange AoE around them, and the plavers will get a random number. Spread out so you are not standing in another AoE and anfter a short period of time the boss will jump to each player and attack in numerical order. After attacking the players  the boss will return back to its original position and do one final attack, after which it is safe to return to melee range. If you stand in another players, or the bosses final AoE, and the boss attacks you will be killed instantly. When the boss attacks it deals a large amount of damage, based upon your total health, this can be avoided by moving quickly away out of range or by using a blink.
+
+_Note: Be mindful on days with instabilities such as <Instability name="Toxic Trail"/> and <Instability name="Flux Bomb"/>, since the fields left by these instabilities will cause you to take a lot of 
+unnecessary damage during this mechanic if you do not move out of them!_
 </GridItem>
 <GridItem sm="6">
 <GifPlayer caption="Frightening Speed mechanic"/>
@@ -219,7 +231,7 @@ There isn't much to this fight. Most groups should be able to break Dolus' bar q
 Accept the harbinger's challenge and defeat the final boss while he has ten or more stacks of Dread Defiance. 
 </Achievement>
 
-This fight has similar mechanics to Normal Mode but they're all more punishing. The overall damage pressure is low &mdash; the numbers mechanic (_Frightening Speed_) deals 50% of each players' HP and the boss deals high amounts of torment and bleed to whoever's tanking. That means your group needs to be ready to share heals right after splitting up and condition cleanses can be very useful.
+This fight has similar mechanics to Normal Mode but they're all more punishing. The overall damage pressure is fairly high &mdash; the numbers mechanic (_Frightening Speed_) deals 50% of each players' HP and the boss deals high amounts of <Condition name="torment"/> and <Condition name="bleeding"/> to any players hit by the bosses auto attack. That means your group needs to be ready to share heals right after splitting up and condition cleanses can be very useful, especially on days with <Instability name="Toxic Trail"/>, <Instability name="Flux Bomb"/>, and <Instability name="Afflicted"/>. Additionally, failing certain mechanics or falling off the platform leads to instant death or a party wipe.
 
 It is considered a condition-favored encounter because the fight is divided into relatively long phases and that allows condition builds, which generally have the higher benchmarks in the current balance, to ramp-up. Another consideration is that some of these builds have easier access to self sustain and damage mitigation without large tradeoffs when compared to power builds.
 
@@ -232,37 +244,46 @@ Click the tabs below to see an overview of each major mechanic for this phase an
 <Tab title="Dread Visage">
 <Grid>
 <GridItem sm="6">
-Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit or 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
+
+If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Dread Visage mechanic"/>
+<GifPlayer sourceId="silent-surf-FrighteningSpeed" />
 </GridItem>
 </Grid>
 </Tab>
 <Tab title="Frightening Speed">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+Also known as the numbers attack. Every player and the boss will get an orange AoE around them, and the plavers will get a random number. Spread out so you are not standing in another AoE and anfter a short period of time the boss will jump to each player and attack in numerical order. After attacking the playersthe boss will return back to its original position and do one final attack, after which it is safe to return to melee range. If you stand in another players, or the bosses final AoE, and the boss attacks you will be killed instantly. When the boss attacks it deals a large amount of damage, based upon your total health, as shown in the gif, this can be avoided by moving quickly away out of range or by using a blink.
+
+_Note: Be mindful on days with instabilities such as <Instability name="Toxic Trail"/> and <Instability name="Flux Bomb"/>, since the fields left by these instabilities will cause you to take a lot of 
+unnecessary damage during this mechanic if you do not move out of them!_
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
-</GridItem>
-</Grid>
-</Tab>
-<Tab title="Axes">
-<Grid>
-<GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
-</GridItem>
-<GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-DreadVisage" />
 </GridItem>
 </Grid>
 </Tab>
-<Tab title="Boonstrip">
+<Tab title="Rending Storm">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+Also known as the axes attack. A random player will be targeted by an orange AoE. After three seconds the AoE will lock in place, and after a further second the boss will throw a spinning axe leaving a red AoE on the ground lasting for 30 seconds. Standing in this AoE pulse <Condition name="Bleeding"/> and standing in another players AoE will pulse <Effect name="Exposed"/>.
+
+To deal with this mechanic simply walk the AoE away from the boss and other players and move out of it when it locks in place. You can also dodge roll through these AoEs without getting hit.
+</GridItem>
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-axe" />
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Harrowshot">
+<Grid>
+<GridItem sm="6">
+Also known as the boonstrip attack. The Aspects surrounding the platform will target random players with a large orange AoE. Shortly after they will shoot a projectile which when lands causes <Effect name="Agony"/> and a condition based upon the Aspect shooting the projectile to be applied to any players hit. Getting hit by this attack will also strip all of the players boons and transfer them to the boss.
+
+_Note: This attack cannot be mitigated in any way. The only way to avoid this attack is to leave the AoE before the projectile hits. Dodging, <Boon name="Aegis"/>, or skills that apply <Effect name="Invulnerability"/> will not block the attack!_
 </GridItem>
 <GridItem sm="6">
 <GifPlayer caption="Frightening Speed mechanic"/>
@@ -284,7 +305,7 @@ Click the tabs below to see an overview of each major mechanic for this phase an
 Mitigation  (What is the mechanic and how to manage it)
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-WorldCleaver" />
 </GridItem>
 </Grid>
 </Card>
@@ -296,13 +317,13 @@ Probably some more detail here about strats or mechnaics than the short overview
 ### Mechanics Overview
 Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Tabs>
-<Tab title="Island Fear">
+<Tab title="Dread Visage, on an Island">
 <Grid>
 <GridItem sm="6">
-Also known as the fear attack. A large eye will appear over the bosses head. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/> and some damage?  If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+Also known as the Island Fear. This version of Dread Visage is almost the same as the mechanic in the first phase, however this time the boss will teleport to an Island when doing the fear. Once again face your characters model away from the boss and any Aspects to avoid being Feared off the platform, and after the attack the boss will return. Being hit by this attack will apply the same condtions and effects as the first phase.
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Island Fear"/>
+<GifPlayer sourceId="silent-surf-island-fear" />
 </GridItem>
 </Grid>
 </Tab>
@@ -312,7 +333,7 @@ Also known as the fear attack. A large eye will appear over the bosses head. Whe
 Mitigation  (What is the mechanic and how to manage it)
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-inphase-tether" />
 </GridItem>
 </Grid>
 </Tab>
@@ -330,7 +351,7 @@ Click the tabs below to see an overview of each major mechanic for this phase an
 Mitigation  (What is the mechanic and how to manage it)
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-WorldCleaver" />
 </GridItem>
 </Grid>
 </Card>
@@ -347,7 +368,7 @@ Click the tabs below to see an overview of each major mechanic for this phase an
 Mitigation  (What is the mechanic and how to manage it)
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-33percent-numbers" />
 </GridItem>
 </Grid>
 </Card>
