@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-06T01:58:53.834Z "
+date: "2024-01-06T02:05:43.797Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -38,7 +38,7 @@ https://discretize.pages.dev/docs/
 
  
 Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors? 
-
+ 
 <Divider text="Normal Mode"/>
 <Grid>
 <GridItem>
@@ -300,14 +300,11 @@ At 90% HP, Kanaxai will gain a CC bar that is vulnerable for 5 seconds. Breaking
   
   1st - 1200, 2nd - 1510, 3rd - 1900, 4th - 2390, 5th - 3000, 6th - 3780, 7th - 4750, 8th - 5980, 9th - 7520, 10th - 9460
 
-The CC bars do not regenerate on this encounter, so if a bar is not broken in time, any damage done will cary ovver to the next time the bar is vulnerable. The CC bars in the fight that are vulnerable at the following health percentages: 
+The CC bars do not regenerate on this encounter, so if a bar is not broken in time, any damage done will cary ovver to the next time the bar is vulnerable. Kanaxai's defiance bar can be vulnerable at the following health percentages providing Kanaxai is not doing another mechanic (if the groups damage is high you will skip some of these bars due to mechanic and phase timings): 
 
   90%, 80%, 70%, 60%, 50%, 45%, 40%, 35%, 30%, 25%, 20%, 15% and 10%. 
 
 During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gathering Shadows"/>. If the bar is not broken, Kanaxai will spawn an Aspect on the edge of the platform. In later phases this can be taken advantage of to gain the <Effect name="Phantasmagoria"/> effect.
-
-Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
-Q: Is there a strategy for how to best position those axes?
 
 ### 66% World Cleaver
 ### Mechanics Overview
