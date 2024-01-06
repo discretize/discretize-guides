@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-05T01:06:54.279Z "
+date: "2024-01-06T01:58:53.834Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -27,7 +27,7 @@ description: I don't often mingle with prey, but you've earned an introduction.
 group: Challenge Mode
 sigils: []
 ---
- 
+  
 You can also use little animations. for that, please just record the video in good quality with minimal ui and effects, and send only the snippet to princeps. 
 princeps has a transcode script, which makes the videos small and webfriendly.
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
@@ -197,7 +197,7 @@ Do not take the mistlock before triggering the circle! This way you can use all 
 
 ## Corrupted First Mate Dolus
 ### Mechanics Overview
-Click the tabs below to see an overview of each mechanics for this fight and how to mitigate them.
+Click the tabs below to see an overview of each mechanic for this fight and how to mitigate them.
 <Tabs>
 <Tab title="Dread Visage">
 <Grid>
@@ -227,6 +227,7 @@ unnecessary damage during this mechanic if you do not move out of them!_
 There isn't much to this fight. Most groups should be able to break Dolus' bar quickly and burst him down before he can do anything, but if the CC is not high enough you can just spread out and do the mechanics.
 
 ## Kanaxai, Scythe of House Aurkus
+<Label>34,124,184 HP</Label>
 <Achievement title="Defiance Demolisher ">
 Accept the harbinger's challenge and defeat the final boss while he has ten or more stacks of Dread Defiance. 
 </Achievement>
@@ -239,20 +240,8 @@ The same reasoning determines that builds with access to ranged attacks should p
 
 ### 100% - 66%
 ### Mechanics Overview
-Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
+Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
 <Tabs>
-<Tab title="Dread Visage">
-<Grid>
-<GridItem sm="6">
-Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit or 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
-
-If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
-</GridItem>
-<GridItem sm="6">
-<GifPlayer sourceId="silent-surf-FrighteningSpeed" />
-</GridItem>
-</Grid>
-</Tab>
 <Tab title="Frightening Speed">
 <Grid>
 <GridItem sm="6">
@@ -263,6 +252,18 @@ unnecessary damage during this mechanic if you do not move out of them!_
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-DreadVisage" />
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Dread Visage">
+<Grid>
+<GridItem sm="6">
+Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit for 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
+
+If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+</GridItem>
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-FrighteningSpeed" />
 </GridItem>
 </Grid>
 </Tab>
@@ -293,16 +294,32 @@ _Note: This attack cannot be mitigated in any way. The only way to avoid this at
 </Tabs>
 
 ### Details
+The fight will start by interacting with the body of Captain Thess on the ground, placing the group in combat. Use the time until Kanaxai spawns and becomes vulnerable to precast any skills and position yourself around the boss ready to attack. Once vulnerable, Kanaxai will start with Frightening Speed, so slowly move out while still attacking ready to deal with the mechanic. As soon as the mechanic is over with, Kanaxai will then cast Dread Visage so make sure you are ready to face your character model away from the boss and the Aspects.
+
+At 90% HP, Kanaxai will gain a CC bar that is vulnerable for 5 seconds. Breaking it will apply <Effect name="Exposed"/> for 5 seconds. Every time the CC bar is broken Kanaxai will gain a stack of <Effect name="Dread Defiance"/> each stack will incoming defiance damage and <Effect name="Exposed"/> duration by 20.5% multiplicatively. Depending on how fast you kill the boss or how many bars you choose to break, <Effect name="Dread Defiance"/> will stack up to 10 stacks, with the following defiance bar values:
+  
+  1st - 1200, 2nd - 1510, 3rd - 1900, 4th - 2390, 5th - 3000, 6th - 3780, 7th - 4750, 8th - 5980, 9th - 7520, 10th - 9460
+
+The CC bars do not regenerate on this encounter, so if a bar is not broken in time, any damage done will cary ovver to the next time the bar is vulnerable. The CC bars in the fight that are vulnerable at the following health percentages: 
+
+  90%, 80%, 70%, 60%, 50%, 45%, 40%, 35%, 30%, 25%, 20%, 15% and 10%. 
+
+During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gathering Shadows"/>. If the bar is not broken, Kanaxai will spawn an Aspect on the edge of the platform. In later phases this can be taken advantage of to gain the <Effect name="Phantasmagoria"/> effect.
+
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 Q: Is there a strategy for how to best position those axes?
 
 ### 66% World Cleaver
 ### Mechanics Overview
-Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
+Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
 <Card title="World Cleaver">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+The boss will move to the center of the platform and gain <Effect name="Invulnerability"/>. The Aspects will target the closest players with an orange tether, applying the <Effect name="Phantasmagoria"/> effect until killed, and giving the player two charges of <Skill name="Grappling Hook"/>. After a few seconds the Aspect will move to an island signified by a blue beam of light and will now be targatable. All players that can see an Aspect will need to <Skill name="Grappling Hook"/> to their respective islands and kill their Aspect before the orange AoE in the center of the platform fills. If the party kills all of the Aspects in time the boss will attack applying <Effect name="Agony"/> then become vulnerable again. If any Aspects remain the party will wipe.
+
+_Note: The tether from an aspect to a player can be intercepted by a player standing in the tether. This can delay the Aspects moving to an island making it in some cases hard to kill in time. It is advisable unless you know what you are doing to not take tethers from other players. Additionally having <Boon name="Aegis"/>, <Effect name="Invulnerability"/>, or blocking will also delay the tether._
+
+_When using <Skill name="Grappling Hook"/>, make sure to aim towards the rear of the island to gain enough height in the air to land. On the taller islands you can easily not get enough height and hit the side instead causing you to fall to your death and the party to wipe!_
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-WorldCleaver" />
@@ -315,22 +332,28 @@ Probably some more detail here about strats or mechnaics than the short overview
 
 ### 66% - 33%
 ### Mechanics Overview
-Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
+Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
 <Tabs>
 <Tab title="Dread Visage, on an Island">
 <Grid>
 <GridItem sm="6">
-Also known as the Island Fear. This version of Dread Visage is almost the same as the mechanic in the first phase, however this time the boss will teleport to an Island when doing the fear. Once again face your characters model away from the boss and any Aspects to avoid being Feared off the platform, and after the attack the boss will return. Being hit by this attack will apply the same condtions and effects as the first phase.
+Also known as the Island Fear. This version of Dread Visage is almost the same as the mechanic in the first phase, however this time the boss will teleport to an Island when doing the fear. Once again face your characters model away from the boss and any Aspects to avoid being Feared off the platform, and after the attack the boss will return. Once again being hit by this attack will apply <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit for 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
+
+If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-island-fear" />
 </GridItem>
 </Grid>
 </Tab>
-<Tab title="Tether">
+<Tab title="Phantasmagoria">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+Also known as the tether attack. During Dread Visage at least one Aspect will instead tether the closest player, the same as the World Cleaver mechanic. This will apply the <Effect name="Phantasmagoria"/> effect applying a debuff reducing incoming and increasing outgoing damage by 50%, lasting 30 seconds or until the Aspect is killed, and giving the player two charges of <Skill name="Grappling Hook"/>. After a few seconds the Aspect will move to an island signified by a blue beam of light and will now be targatable and attack the group until killed or despwans after 30 seconds. The player that can see an Aspect will need to <Skill name="Grappling Hook"/> to the island and kill the Aspect which will remove the <Effect name="Phantasmagoria"/> effect.
+
+_Note: When using <Skill name="Grappling Hook"/>, make sure to aim towards the rear of the island to gain enough height in the air to land. On the taller islands you can easily not get enough height and hit the side instead causing you to fall to your death and the party to wipe!_
+
+_The <Effect name="Phantasmagoria"/> effect description is incorrect and will actually increase affected players outgoing strike and condition damage by 50%, instead of reducing it. This means in groups that can cope with the increased damage pressure it is beneficial to make sure the DPS players intercept the tether and to ignore the Aspect to deal significantly more damage._
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-inphase-tether" />
@@ -342,13 +365,17 @@ Mitigation  (What is the mechanic and how to manage it)
 ### Details
 Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
 
-### 33% World Eater
+### 33% World Cleaver
 ### Mechanics Overview
 Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
 <Card title="World Cleaver">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+The boss will move to the center of the platform and gain <Effect name="Invulnerability"/>. The Aspects will target the closest players with an orange tether, applying the <Effect name="Phantasmagoria"/> effect until killed, and giving the player two charges of <Skill name="Grappling Hook"/>. After a few seconds the Aspect will move to an island signified by a blue beam of light and will now be targatable. All players that can see an Aspect will need to <Skill name="Grappling Hook"/> to their respective islands and kill their Aspect before the orange AoE in the center of the platform fills. If the party kills all of the Aspects in time the boss will attack applying <Effect name="Agony"/> then become vulnerable again. If any Aspects remain the party will wipe.
+
+_Note: The tether from an aspect to a player can be intercepted by a player standing in the tether. This can delay the Aspects moving to an island making it in some cases hard to kill in time. It is advisable unless you know what you are doing to not take tethers from other players. Additionally having <Boon name="Aegis"/>, <Effect name="Invulnerability"/>, or blocking will also delay the tether._
+
+_When using <Skill name="Grappling Hook"/>, make sure to aim towards the rear of the island to gain enough height in the air to land. On the taller islands you can easily not get enough height and hit the side instead causing you to fall to your death and the party to wipe!_
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-WorldCleaver" />
@@ -361,11 +388,13 @@ Probably some more detail here about strats or mechnaics than the short overview
 
 ### 33% - 0%
 ### Mechanics Overview
-Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
+Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
 <Card title="Frightening Speed, but it's also Dread Visage">
 <Grid>
 <GridItem sm="6">
-Mitigation  (What is the mechanic and how to manage it)
+This attack is a combination of Frightening Speed and Dread Visage. It is handled in exactly the same way as earlier in the fight. Every player needs to spread out, except this time once the boss starts attacking, face their character model towards the islands to avoid being struck by <Condition name="Fear"/>. Being struck is especially dangerous due to the chance of running into a neighbouring players AoE and being killed by Kanaxai, as well as falling off the platform to your death.
+
+If you are hit, once again using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you providing you can face away from the boss quickly and don't run into another players AoE as the boss attacks them.
 </GridItem>
 <GridItem sm="6">
 <GifPlayer sourceId="silent-surf-33percent-numbers" />
