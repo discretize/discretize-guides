@@ -3,7 +3,7 @@ title: New Player Guide
 date: "2023-08-07T16:57:53.467Z "
 image: images/header.jpg
 description: A beginners guide to being successful in fractals.
-author: Princeps.6481 and Mistlocked [FotM]
+author: Princeps.6481
 ---
 
 ## Introduction to fractals
@@ -409,10 +409,9 @@ Below is a list of all current instabilities and their possible countermeasures.
 <GridItem sm="11" md="11">
 
 Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
-
-For more information, check out their [Discord](https://discord.gg/kzQdtpSxq6)
+For more information, check out their [Discord](https://discord.gg/gw2-uni)
 
 </GridItem>
 </Grid>
 
-If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.gg/Qdt7nFY) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
+If you are one of those that seek to improve beyond clearing fractals for the loot we highly encourage you to find a static via our `#looking-for-static` channel on [our discord](https://discord.gg/Qdt7nFY) or [apply to Discretize](/apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our discord server or in-game.
