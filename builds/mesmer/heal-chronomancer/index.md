@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T12:08:59.778Z "
+date: "2024-01-07T12:31:24.264Z "
 ---
   
 <Warning>  
@@ -373,7 +373,7 @@ Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, t
 
 <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> adds up to that, as most of your utility skill choices are going to fall into that category.
 
-### Burst Heal/Condition Cleanse
+### Burst Heal & Condition Cleanse
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
 
 If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
