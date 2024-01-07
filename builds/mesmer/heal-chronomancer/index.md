@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T23:10:51.591Z "
+date: "2024-01-07T23:26:03.916Z "
 ---
   
 <Warning>  
@@ -300,10 +300,10 @@ Use **all** Shatters for additional boons.
 
 ### Resistance
 
-|                                                           |                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Feedback" size="big" disableText/>          | Any Glamour skill like Feedback in combination with <Trait name="Temporal Enchanter"/>.                                                                         |
-| <Skill name="Distortion" size="big" disableText/>       | In combination with <Trait name="Mental Defense"/>.                                              |                                                                                                                                      
+- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. 
+
+- <Skill name="Feedback" size="big" disableText/>          | Any Glamour skill like Feedback in combination with <Trait name="Temporal Enchanter"/>.                                                                         |
+- <Skill name="Distortion" size="big" disableText/>       | In combination with <Trait name="Mental Defense"/>.                                              |                                                                                                                                      
 
 </GridItem>
 <GridItem sm="6">
@@ -312,11 +312,11 @@ Use **all** Shatters for additional boons.
 
 - Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
 
-- <Skill name="Well of Precognition"/> provides one stack of <Boon name="Aegis"/> at the initial cast and on every follow up pulse. A great choice for hard hitting fights like MAMA & Siax.
+- <Skill name="Well of Precognition"/> provides one stack of <Boon name="Aegis"/> at the initial cast and on every follow up pulse. Your best choice for multiple incomming hits at a short period of time e.g. some MAMA patterns and Siaxs Volatile Hallucinations.
 
-- <Skill name="Distortion"/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
+- <Skill name="Distortion"/> immediately grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>. A great emergency skill.
 
-- <Skill name="Signet of Inspiration"/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
+- <Skill name="Signet of Inspiration"/> only grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited. Play this instead of <Skill name="Well of Precognition"/> if you want to sacrifice some healing potency for boon extension and more frequent applications of <Boon name="Aegis"/>, at a slightly increased range e.g. Ensolyss.                                                             
 
 </GridItem>
 </Grid>
