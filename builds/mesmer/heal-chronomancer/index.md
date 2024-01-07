@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T11:31:56.047Z "
+date: "2024-01-07T11:33:48.170Z "
 ---
   
 <Warning>  
@@ -197,8 +197,8 @@ Just remember that it should be your first priority to provide boons and healing
 is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a Clone.
 - <Skill name="Illusionary Counter"/> (Scepter 2): use this to either block an attack or manually double cast it in order to let <Skill name="Counterspell"/> create a Clone regardless.
 - <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible.
-- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block and applies <Condition name="Slow"/>. 
-- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block and applies <Condition name="Slow"/>.
+- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block that applies <Condition name="Slow"/>. 
+- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block that applies <Condition name="Slow"/>.
 - <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and deals some defiance bar damage.
 
 ### Staff
