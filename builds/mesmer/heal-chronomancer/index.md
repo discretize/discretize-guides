@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:36:52.185Z "
+date: "2024-01-07T22:38:08.028Z "
 ---
   
 <Warning>  
@@ -328,8 +328,6 @@ Use **all** Shatters for additional boons.
 <GridItem sm="6">
 
 <Card title="Quickness Precast">
-At the Mistlock Singularity:
-
 1. <Skill name="Well of Action"/>
 2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
    1. <Skill name="Time Warp"/> 
@@ -338,6 +336,7 @@ At the Mistlock Singularity:
 2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 2. <Skill name="Tides of Time"/>
 3. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
+4. take the Mistlock Singularity
 
 <Video youtube="M8TDeNZY8Oo" caption="Precast example by Drauskam"/>
 </Card>
@@ -346,8 +345,6 @@ At the Mistlock Singularity:
 <GridItem sm="6">
 
 <Card title="Alacrity Precast">
-At the Mistlock Singularity:
-
 1. <Skill name="Time Warp"/>
 2. <Skill name="Well of Action"/>
 2. <Skill name="Tides of Time"/> 
@@ -356,6 +353,7 @@ At the Mistlock Singularity:
 1. <Skill name="Mimic"/>
 2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 2. 2x <Skill name="Signet of Inspiration"/>
+3. take the Mistlock Singularity
 
 <Video youtube="QS8guFChyBA" caption="Precast example by Drauskam"/>
 </Card>
