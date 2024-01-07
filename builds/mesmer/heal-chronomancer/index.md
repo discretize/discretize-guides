@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:38:08.028Z "
+date: "2024-01-07T22:42:08.465Z "
 ---
   
 <Warning>  
@@ -103,7 +103,9 @@ Mirage can only provide <Boon name="Alacrity"/> and has restricted access to the
 
 But some of the skills below enable certain skips, like getting onto the last level of Uncategorized, without having to do the jumping part.
 
-Just remember that it should be your first priority to provide boons and healing, while skips are secondary. And most of the common portal skips are using basic <Specialization name="Mesmer"/> skills. 
+Just remember that it should be your first priority to provide boons and healing, while skips are secondary. 
+
+And most common portal skips are using basic <Specialization name="Mesmer"/> skills. 
 
 |                                                           |                                                                                                                                                                                            |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
