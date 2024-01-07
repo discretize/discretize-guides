@@ -49,14 +49,14 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:30:11.170Z "
+date: "2024-01-07T22:32:19.086Z "
 ---
   
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.   
    
-</Warning>     
+</Warning>      
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
@@ -78,7 +78,7 @@ If you have more Agony Resistance, feel free to swap out gear for additional Min
 
 <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
 
-Using your Raid setup is possible, but the setup below takes advantage of additional <Attribute name="Healing Power"/> and a decent amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
+Using your Raid gear is possible, but the setup below takes advantage of additional <Attribute name="Healing Power"/> and a decent amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
