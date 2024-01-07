@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T11:42:19.717Z "
+date: "2024-01-07T11:43:20.178Z "
 ---
   
 <Warning>  
@@ -122,7 +122,7 @@ Just remember that it should be your first priority to provide boons and healing
 | <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
 | <Trait name="Delayed Reactions" size="big" disableText/>    | Can be used as a source of slow CC as a last resort if no-one else will help.                                                                                                                                                                                                   |
 | **Inspiration**                                               |                                                                                                                                                                                                                                                                                 |
-| <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights where there is a potential for a lot of downstates.                                                                                                                                                                                           |
+| <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights, where there is a potential for a lot of downstates.                                                                                                                                                                                           |
 | <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
 | <Trait name="Warden's Feedback" size="big" disableText/>      | Has some great value in T4 for extra add pulls e.g. Chaos or Aetherblade.                                                                                                                                                                                                       |
 | <Trait name="Temporal Enchanter" size="big" disableText/>   | Its main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. |
