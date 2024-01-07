@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:42:08.465Z "
+date: "2024-01-07T22:43:36.315Z "
 ---
   
 <Warning>  
@@ -284,14 +284,6 @@ If the last stack of one of your Mantras gets used during the Continuum Split, i
 Use **all** Shatters for additional boons.
 
 <Skill name="Continuum Split"/> gets the most value at Precasts and during combat, if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
-
-### Standard Boons
-- <Boon name="Alacrity"/> or <Boon name="Quickness"/>
-- <Boon name="Might"/>
-- <Boon name="Fury"/>
-- <Boon name="Protection"/>
-- <Boon name="Regeneration"/>
-- <Boon name="Swiftness"/>
 
 <Divider text="Situational Boons"/>
 <Grid>
