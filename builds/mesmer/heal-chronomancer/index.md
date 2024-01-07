@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T10:55:08.180Z "
+date: "2024-01-07T11:10:14.772Z "
 ---
   
 <Warning>  
@@ -102,7 +102,12 @@ We recommend this setup on encounters that require greater or more frequent defi
 | <Trait name="Stretched Time" size="big" disableText/>     | Take this to provide your party with <Boon name="Alacrity"/>  |
 | <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
 
-Utilise <Specialization name="Mirage"/> for skips!
+### <Specialization name="Mirage"/>
+Mirage can only provide <Boon name="Alacrity"/> and some of the boon/healing capacity of a <Specialization name="Chronomancer"/>.
+
+But some of the skills below enable certain skips, like getting onto the last level of Uncategorized, without having to do the jumping part.
+
+Just remember that it should be your first priority to provide boons and healing, while skips are secondary.
 
 |                                                           |                                                                                                                                                                                            |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
