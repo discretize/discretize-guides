@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T11:43:20.178Z "
+date: "2024-01-07T12:08:59.778Z "
 ---
   
 <Warning>  
@@ -332,9 +332,9 @@ At the Mistlock Singularity:
 1. <Skill name="Well of Action"/>
 2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
    1. <Skill name="Time Warp"/> 
-   2. all shatters
+   2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 1. <Skill name="Time Warp"/>
-2. all shatters
+2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 2. <Skill name="Tides of Time"/>
 3. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
 
@@ -351,9 +351,9 @@ At the Mistlock Singularity:
 2. <Skill name="Well of Action"/>
 2. <Skill name="Tides of Time"/> 
 3. <Skill name="Signet of Inspiration"/> (<Skill name="Continuum Split"/>)
-   1. all shatters
+   1. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 1. <Skill name="Mimic"/>
-2. all shatters
+2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 2. 2x <Skill name="Signet of Inspiration"/>
 
 <Video youtube="QS8guFChyBA" caption="Precast example by Drauskam"/>
