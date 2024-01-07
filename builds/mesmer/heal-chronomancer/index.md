@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T11:36:20.563Z "
+date: "2024-01-07T11:42:19.717Z "
 ---
   
 <Warning>  
@@ -97,11 +97,6 @@ We recommend this setup on encounters that require greater or more frequent defi
 
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,1866" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978"/>
 
-|                                                         |                                                               |
-|---------------------------------------------------------|---------------------------------------------------------------|
-| <Trait name="Stretched Time" size="big" disableText/>     | Take this to provide your party with <Boon name="Alacrity"/>  |
-| <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
-
 ### <Specialization name="Mirage"/>
 Mirage can only provide <Boon name="Alacrity"/> and has restricted access to the boon/healing capacity of a <Specialization name="Chronomancer"/>.
 
@@ -122,6 +117,10 @@ Just remember that it should be your first priority to provide boons and healing
 
 |                                                               |                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Chronomancer**                                              |                                                                                                                                                                                                                                                                                 |
+| <Trait name="Stretched Time" size="big" disableText/>     | Take this to provide your party with <Boon name="Alacrity"/>  |
+| <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
+| <Trait name="Delayed Reactions" size="big" disableText/>    | Can be used as a source of slow CC as a last resort if no-one else will help.                                                                                                                                                                                                   |
 | **Inspiration**                                               |                                                                                                                                                                                                                                                                                 |
 | <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights where there is a potential for a lot of downstates.                                                                                                                                                                                           |
 | <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
@@ -129,8 +128,7 @@ Just remember that it should be your first priority to provide boons and healing
 | <Trait name="Temporal Enchanter" size="big" disableText/>   | Its main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. |
 | <Trait name="Blurred Inscriptions" size="big" disableText/> | Can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.                                                                             |
 | <Trait name="Mental Defense" size="big" disableText/>       | Very situational, but it can help dealing with <Condition name="Weakness"/> on encounters such as Arstariiv.                                                                                                                                                                    |
-| **Chronomancer**                                              |                                                                                                                                                                                                                                                                                 |
-| <Trait name="Delayed Reactions" size="big" disableText/>    | Can be used as a source of slow CC as a last resort if no-one else will help.                                                                                                                                                                                                   |
+
 
 </GridItem>
 </Grid>
