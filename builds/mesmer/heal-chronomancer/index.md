@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:48:00.929Z "
+date: "2024-01-07T23:07:42.444Z "
 ---
   
 <Warning>  
@@ -292,11 +292,11 @@ Use **all** Shatters for additional boons.
 <GridItem sm="6">
 
 ### Stability
+- Correct application of <Boon name="Stability"/> requires knowledge of the encounters and which attacks and be negated with <Boon name="Stability"/> without taking too much damage.
 
-|                                                           |                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
-| <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                         
+- <Skill name="Mantra of Concentration"/> is your main tool and grants 4 stacks of <Boon name="Stability"/> after the initial channel and 3 stacks of <Boon name="Stability"/> for each of the two remaining casts. If a phase requires <Boon name="Stability"/> right at the start, it makes sense to precast the channeled version e.g. Arkk.
+
+- <Skill name="Distortion"/> grants 3 stacks at once and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.                                                                                                                
 
 ### Resistance
 
@@ -310,11 +310,13 @@ Use **all** Shatters for additional boons.
 
 ### Aegis
 
-|                                                           |                                                                                                                                                                                               |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Precognition" size="big" disableText/>          | One stack on every pulse.                                                                        |
-| <Skill name="Distortion" size="big" disableText/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
-| <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
+- Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
+
+- <Skill name="Well of Precognition"/> One stack on every pulse.   
+
+- <Skill name="Distortion"/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
+
+- <Skill name="Signet of Inspiration"/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
 
 </GridItem>
 </Grid>
