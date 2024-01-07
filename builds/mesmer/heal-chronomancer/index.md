@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T23:07:42.444Z "
+date: "2024-01-07T23:10:51.591Z "
 ---
   
 <Warning>  
@@ -296,7 +296,7 @@ Use **all** Shatters for additional boons.
 
 - <Skill name="Mantra of Concentration"/> is your main tool and grants 4 stacks of <Boon name="Stability"/> after the initial channel and 3 stacks of <Boon name="Stability"/> for each of the two remaining casts. If a phase requires <Boon name="Stability"/> right at the start, it makes sense to precast the channeled version e.g. Arkk.
 
-- <Skill name="Distortion"/> grants 3 stacks at once and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.                                                                                                                
+- <Skill name="Distortion"/> grants 3 stacks of <Boon name="Stability"/> at once and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.                                                                                                                
 
 ### Resistance
 
@@ -312,7 +312,7 @@ Use **all** Shatters for additional boons.
 
 - Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
 
-- <Skill name="Well of Precognition"/> One stack on every pulse.   
+- <Skill name="Well of Precognition"/> provides one stack of <Boon name="Aegis"/> at the initial cast and on every follow up pulse. A great choice for hard hitting fights like MAMA & Siax.
 
 - <Skill name="Distortion"/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
 
