@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:33:35.805Z "
+date: "2024-01-07T22:35:42.485Z "
 ---
   
 <Warning>  
@@ -299,7 +299,7 @@ Use **all** Shatters for additional boons.
 
 |                                                           |                                                                                                                                                                                               |
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Well of Precognition" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
+| <Skill name="Mantra of Concentration" size="big" disableText/>          | Grants 4 stacks through the channeled version and 3 for each of the remaining casts.                                                                        |
 | <Skill name="Distortion" size="big" disableText/>       | Grants 3 stacks at once and should be used while one instance of <Skill name="Mantra of Concentration"/> is recharging.                                              |                                                                         
 
 ### Resistance
