@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:35:42.485Z "
+date: "2024-01-07T22:36:52.185Z "
 ---
   
 <Warning>  
@@ -318,7 +318,7 @@ Use **all** Shatters for additional boons.
 | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Well of Precognition" size="big" disableText/>          | One stack on every pulse.                                                                        |
 | <Skill name="Distortion" size="big" disableText/>       | Grants one stack via <Trait name="Inspiring Distortion"/>. 
-| <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, if <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
+| <Skill name="Signet of Inspiration" size="big" disableText/>       | Only grants one stacks via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited.  |                                                                 |
 
 </GridItem>
 </Grid>
