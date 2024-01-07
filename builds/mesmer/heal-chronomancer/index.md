@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T22:43:36.315Z "
+date: "2024-01-07T22:46:38.484Z "
 ---
   
 <Warning>  
@@ -78,7 +78,7 @@ If you have more Agony Resistance, feel free to swap out gear for additional Min
 
 <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
 
-Using your Raid gear is possible, but the setup below takes advantage of additional <Attribute name="Healing Power"/> and a decent amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
+Using your Raid gear is possible, but the setup below takes advantage of some additional <Attribute name="Healing Power"/> and a decent amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
