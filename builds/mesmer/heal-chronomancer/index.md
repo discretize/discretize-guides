@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T23:26:03.916Z "
+date: "2024-01-07T23:32:06.936Z "
 ---
   
 <Warning>  
@@ -300,7 +300,7 @@ Use **all** Shatters for additional boons.
 
 ### Resistance
 
-- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. 
+- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. E.g. at some T4 fractals <Condition name="Immobile"/> can be ignored to activate multiple trigger points, as well as encounters that bombard your group with <Condition name="Slow"/>, <Condition name="Chilled"/> and <Condition name="Weakness"/> (in power compositions).
 
 - <Skill name="Feedback" size="big" disableText/>          | Any Glamour skill like Feedback in combination with <Trait name="Temporal Enchanter"/>.                                                                         |
 - <Skill name="Distortion" size="big" disableText/>       | In combination with <Trait name="Mental Defense"/>.                                              |                                                                                                                                      
