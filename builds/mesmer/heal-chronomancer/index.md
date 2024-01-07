@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T23:34:19.810Z "
+date: "2024-01-07T23:45:48.797Z "
 ---
   
 <Warning>  
@@ -300,10 +300,10 @@ Use **all** Shatters for additional boons.
 
 ### Resistance
 
-- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. E.g. at some T4 fractals <Condition name="Immobile"/> can be ignored to activate multiple trigger points, as well as encounters that bombard your group with <Condition name="Slow"/>, <Condition name="Chilled"/> and <Condition name="Weakness"/> (in power compositions).
+- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. E.g. at some T4 fractals <Condition name="Immobile"/> can be ignored to activate multiple trigger points, as well as encounters that bombard your group with <Condition name="Slow"/> and <Condition name="Chilled"/>.
 
-- <Skill name="Feedback"/> Any Glamour skill like Feedback in combination with <Trait name="Temporal Enchanter"/>.                                                                       
-- <Skill name="Distortion"/> In combination with <Trait name="Mental Defense"/>.                                                                                     
+- Any Glamour skill provides <Boon name="Resistance"/> in combination with <Trait name="Temporal Enchanter"/>. Most of the time you want to pick <Skill name="Feedback"/>.                                                                       
+- <Trait name="Mental Defense"/> adds <Boon name="Resistance"/> to every cast of <Skill name="Distortion"/>, trading of precious healing potency. In power compositions this can become crucial at Arstariiv, dealing with <Condition name="Weakness"/> applied. An optimised precast can fully cover the entire first phase.                                                                                
 
 </GridItem>
 <GridItem sm="6">
