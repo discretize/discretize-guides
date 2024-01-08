@@ -49,14 +49,14 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:10:46.797Z "
+date: "2024-01-08T00:31:33.951Z "
 ---
   
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.   
    
-</Warning>      
+</Warning>       
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
@@ -164,6 +164,15 @@ And most common portal skips are using basic <Specialization name="Mesmer"/> ski
 
 </GridItem>
 <GridItem sm="6">
+
+### Defiance Damage
+
+|                                                           |                                                                                                                                                                                            |
+|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
+| <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
+| <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
+
 ### Elite Skills
 
 |                                                           |                                                                                                                   |
@@ -179,14 +188,6 @@ And most common portal skips are using basic <Specialization name="Mesmer"/> ski
 | <Skill name="Blink" size="big" disableText/>              | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mimic" size="big" disableText/>       | Allows a second cast of another utility skill..                                                                                                                                       |
 | <Skill name="Mass Invisibility" size="big" disableText/>  | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-
-### Defiance Damage
-
-|                                                           |                                                                                                                                                                                            |
-|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
-| <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
-| <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
 
 </GridItem>
 </Grid>
