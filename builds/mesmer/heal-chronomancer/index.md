@@ -49,12 +49,12 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:31:33.951Z "
+date: "2024-01-08T00:37:26.281Z "
 ---
   
 <Warning>  
 
-This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.   
+This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
    
 </Warning>       
 
@@ -165,7 +165,7 @@ And most common portal skips are using basic <Specialization name="Mesmer"/> ski
 </GridItem>
 <GridItem sm="6">
 
-### Defiance Damage
+### Additional Defiance Damage
 
 |                                                           |                                                                                                                                                                                            |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
