@@ -29,10 +29,13 @@ boons:
   - name: Protection
     uptime: 100%
     variant: party
+  - name: Regeneration
+    uptime: 100%
+    variant: party
   - name: Swiftness
     uptime: ~60%
     variant: party
-  - name: Regeneration
+  - name: Vigor
     uptime: 100%
     variant: party
   - name: "Stability "
@@ -49,7 +52,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T01:10:30.720Z "
+date: "2024-01-08T01:17:56.759Z "
 ---
   
 <Warning>  
