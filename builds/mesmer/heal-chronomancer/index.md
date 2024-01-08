@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T01:07:20.784Z "
+date: "2024-01-08T01:10:30.720Z "
 ---
   
 <Warning>  
@@ -312,7 +312,29 @@ Use **all** Shatters for additional boons.
 </GridItem>
 </Grid>
 
-<Divider text="Precast"/>
+<Divider text="Healing"/>
+### Sustained Healing
+Every summoning of Illusions heals allies within a 360 radius.
+
+Granting the standard boons as described above, already covers most of your sustained heal. 
+
+Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
+<Boon name="Regeneration"/> provided by <Trait name="Metaphysical Rejuvenation"/>.
+
+<Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> adds up to that, as most of your utility skill choices are going to fall into that category.
+
+### Burst Heal & Condition Cleanse
+After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
+
+If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
+
+<Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies to condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
+
+The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
+
+If you want to add more condition cleanse, consider playing <Skill name="Well of Eternity"/> and <Item id="100390"/>.
+
+<Divider text="Videos"/>
 <Grid>
 <GridItem sm="6">
 
@@ -349,25 +371,3 @@ Use **all** Shatters for additional boons.
 
 </GridItem>
 </Grid>
-
-<Divider text="Healing"/>
-### Sustained Healing
-Every summoning of Illusions heals allies within a 360 radius.
-
-Granting the standard boons as described above, already covers most of your sustained heal. 
-
-Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
-<Boon name="Regeneration"/> provided by <Trait name="Metaphysical Rejuvenation"/>.
-
-<Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> adds up to that, as most of your utility skill choices are going to fall into that category.
-
-### Burst Heal & Condition Cleanse
-After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
-
-If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
-
-<Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies to condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
-
-The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
-
-If you want to add more condition cleanse, consider playing <Skill name="Well of Eternity"/> and <Item id="100390"/>.
