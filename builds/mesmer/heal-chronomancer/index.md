@@ -29,20 +29,17 @@ boons:
   - name: Protection
     uptime: 100%
     variant: party
-  - name: Regeneration
-    uptime: 100%
-    variant: party
-  - name: Swiftness
-    uptime: ~60%
-    variant: party
-  - name: Vigor
-    uptime: 100%
-    variant: party
   - name: "Stability "
     uptime: on Demand
     variant: party
   - name: Aegis
     uptime: on Demand
+    variant: party
+  - name: Regeneration
+    uptime: 100%
+    variant: party
+  - name: Vigor
+    uptime: 100%
     variant: party
 code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
 cmGuide: ""
@@ -52,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T01:17:56.759Z "
+date: "2024-01-08T01:20:55.858Z "
 ---
   
 <Warning>  
