@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:03:26.151Z "
+date: "2024-01-08T00:07:24.861Z "
 ---
   
 <Warning>  
@@ -300,7 +300,7 @@ Use **all** Shatters for additional boons.
 
 ### Resistance
 
-- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. E.g. at some T4 fractals <Condition name="Immobile"/> can be ignored to activate multiple trigger points, as well as encounters that bombard your group with <Condition name="Slow"/> and <Condition name="Chilled"/>.
+- Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. E.g. at some T4 fractals <Condition name="Immobile"/> can be ignored to activate multiple trigger points, as well as at encounters that bombard your group with <Condition name="Slow"/> and <Condition name="Chilled"/>.
 
 - Any Glamour skill provides <Boon name="Resistance"/> in combination with <Trait name="Temporal Enchanter"/>. Most of the time you want to pick <Skill name="Feedback"/>.                                                                       
 - <Trait name="Mental Defense"/> adds <Boon name="Resistance"/> to every cast of <Skill name="Distortion"/>, trading of precious healing potency. In power compositions this can become crucial at Arstariiv, dealing with <Condition name="Weakness"/> applied. An optimised precast can fully cover the entire first phase.                                                                                
