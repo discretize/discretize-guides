@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:01:54.798Z "
+date: "2024-01-08T00:03:26.151Z "
 ---
   
 <Warning>  
@@ -252,7 +252,7 @@ To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'
 Clones can then be spent on Shatters, to trigger:
 - <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>: to provide <Boon name="Quickness"/> or <Boon name="Alacrity"/>
 - <Trait name="Illusionary Defense"/>: for <Boon name="Protection"/>
-- <Trait name="Bountiful Disillusionment"/>: mainly <Boon name="Might"/> and <Boon name="Fury"/>
+- <Trait name="Bountiful Disillusionment"/>: mainly <Boon name="Might"/> + <Boon name="Fury"/> and <Boon name="Vigor"/>
 - <Trait name="Illusionary Membrane"/> + <Trait name="Chaotic Transference"/>: mainly <Boon name="Regeneration"/> and some <Boon name="Swiftness"/> + <Boon name="Protection"/>
 
 The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2).
