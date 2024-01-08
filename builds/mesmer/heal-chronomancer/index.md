@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-07T23:45:48.797Z "
+date: "2024-01-08T00:01:54.798Z "
 ---
   
 <Warning>  
@@ -246,14 +246,14 @@ is the start of your Scepter auto attack chain. While this does not directly hea
 
 <Divider text="Skill usage"/> 
 
-### Basics
+### Standard Boons
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to constantly create Clones/Phantasms.
 
 Clones can then be spent on Shatters, to trigger:
-- <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>
-- <Trait name="Illusionary Defense"/>
-- <Trait name="Bountiful Disillusionment"/> 
-- <Trait name="Illusionary Membrane"/> + <Trait name="Chaotic Transference"/>.
+- <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>: to provide <Boon name="Quickness"/> or <Boon name="Alacrity"/>
+- <Trait name="Illusionary Defense"/>: for <Boon name="Protection"/>
+- <Trait name="Bountiful Disillusionment"/>: mainly <Boon name="Might"/> and <Boon name="Fury"/>
+- <Trait name="Illusionary Membrane"/> + <Trait name="Chaotic Transference"/>: mainly <Boon name="Regeneration"/> and some <Boon name="Swiftness"/> + <Boon name="Protection"/>
 
 The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2).
 
@@ -265,7 +265,7 @@ Playing with Staff, <Skill name="Phase Retreat"/> (Staff 2) can be rough to use 
 
 <Skill name="Well of Action"/> grants 1/3 of your <Boon name="Might"/> application and <Boon name="Fury"/>, after a 3 second delay, so be careful of not missing out. 
 
-<Skill name="Tides of Time"/> can be aligned with defiance breaks, but prevent holding it for too long, otherwise you could drop out on <Boon name="Might"/>.
+<Skill name="Tides of Time"/> can be aligned with defiance breaks, but prevent holding it for too long, otherwise you could drop out on <Boon name="Might"/> and <Boon name="Swiftness"/>.
 
 ### Shatters
 <Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
@@ -285,7 +285,7 @@ If the last stack of one of your Mantras gets used during the Continuum Split, i
 
 Use **all** Shatters for additional boons.
 
-<Skill name="Continuum Split"/> gets the most value at Precasts and during combat, if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
+<Skill name="Continuum Split"/> gets the most value at boon precasts, and during combat, if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
 
 <Divider text="Situational Boons"/>
 <Grid>
@@ -363,7 +363,7 @@ Use **all** Shatters for additional boons.
 ### Sustained Healing
 Every summoning of Illusions heals allies within a 360 radius.
 
-Following the basics above, already covers most of your sustained heal. 
+Granting the standard boons as described above, already covers most of your sustained heal. 
 
 Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
 <Boon name="Regeneration"/> provided by <Trait name="Metaphysical Rejuvenation"/>.
