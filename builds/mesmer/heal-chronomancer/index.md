@@ -26,14 +26,14 @@ boons:
   - name: Fury
     uptime: 100%
     variant: Party
-  - name: Protection
-    uptime: 100%
-    variant: party
   - name: "Stability "
     uptime: on Demand
     variant: party
   - name: Aegis
     uptime: on Demand
+    variant: party
+  - name: Protection
+    uptime: 100%
     variant: party
   - name: Regeneration
     uptime: 100%
@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T01:20:55.858Z "
+date: "2024-01-08T01:21:24.310Z "
 ---
   
 <Warning>  
