@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:49:23.278Z "
+date: "2024-01-08T00:57:54.433Z "
 ---
   
 <Warning>  
@@ -152,6 +152,13 @@ The same applies to power compositions, which require fast defiance breaks, in o
 </GridItem>
 <GridItem sm="6">
 
+### Elite Skills
+
+|                                                           |                                                                                                                   |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage (in combination with <Item id="24639"/>) your go to choice for single target encounter. |
+| <Skill name="Gravity Well" size="big" disableText/>       | For AoE add group control.                                                                                        |
+
 ### Additional Defiance Damage
 
 |                                                           |                                                                                                                                                                                            |
@@ -159,13 +166,6 @@ The same applies to power compositions, which require fast defiance breaks, in o
 | <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
 | <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
 | <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
-
-### Elite Skills
-
-|                                                           |                                                                                                                   |
-|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage (in combination with <Item id="24639"/>) your go to choice for single target encounter. |
-| <Skill name="Gravity Well" size="big" disableText/>       | For AoE add group control.                                                                                        |
 
 ### Skips
 
@@ -175,6 +175,8 @@ The same applies to power compositions, which require fast defiance breaks, in o
 | <Skill name="Blink" size="big" disableText/>              | 1200 range blink, use it for skips!                                                                                                                                                        |
 | <Skill name="Mimic" size="big" disableText/>       | Allows a second cast of another utility skill..                                                                                                                                       |
 | <Skill name="Mass Invisibility" size="big" disableText/>  | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
+| <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
+| <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
 
 </GridItem>
 </Grid>
