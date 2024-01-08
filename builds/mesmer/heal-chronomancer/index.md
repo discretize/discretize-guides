@@ -49,14 +49,14 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:59:54.573Z "
+date: "2024-01-08T01:07:20.784Z "
 ---
   
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
    
-</Warning>        
+</Warning>         
 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
@@ -120,6 +120,7 @@ The same applies to power compositions, which require fast defiance breaks, in o
 | <Trait name="Temporal Enchanter" size="big" disableText/>   | Its main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. |
 | <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
 | <Trait name="Warden's Feedback" size="big" disableText/>      | Has some great value in T4 for extra add pulls e.g. Chaos or Aetherblade.                                                                                                                                                                                                       |
+| <Trait name="Mental Defense" size="big" disableText/>       | A very situational trait, primarily helpful dealing with <Condition name="Weakness"/> on Arstariiv.                                                                                                                                                                    |
 
 
 </GridItem>
