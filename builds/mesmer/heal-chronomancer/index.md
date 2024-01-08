@@ -49,7 +49,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-01-08T00:07:24.861Z "
+date: "2024-01-08T00:08:29.683Z "
 ---
   
 <Warning>  
@@ -375,7 +375,7 @@ After you initially ramped up your boons, try to safe up on Clones, to shatter t
 
 If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
 
-<Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies on condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
+<Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies to condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
 
 The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
 
