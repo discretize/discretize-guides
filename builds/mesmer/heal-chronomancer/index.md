@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T16:24:02.434Z "
+date: "2024-01-14T16:28:10.305Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -62,7 +62,7 @@ This build is made for PuGs environments. More info about building effective tea
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal through <Skill name="Phantasmal Disenchanter"/> in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
-
+ 
 <Divider text="Equipment"/> 
 
 <CharacterWithAr> 
@@ -95,7 +95,7 @@ The same applies to power compositions, which require fast defiance breaks, in o
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,1866" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978"/>
 
 #### Traits for Skips
-While re don't recommend leaving your party during boss fights, when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore sectrions of some fractals entirely, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
+While we don't recommend leaving your party during boss fights, when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore sectrions of some fractals entirely, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
 - <Trait name="Temporal Enchanter"/> - This will let you provide <Effect name="Superspeed"/> to yourself and your party.
 - <Trait name="Prismatic Understanding"/> - This will increase the duration of <Effect name="Stealth"/> gained from skills such as <Skill name="Mass Invisibility"/> and <Skill name="Veil"/>.
 - Utilize Mirage for skips when moving across large distances or you need leaps! <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
