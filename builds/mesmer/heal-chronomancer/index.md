@@ -1,18 +1,13 @@
 ---
-title: Heal Boon Chronomancer
 hidden: true
 archive: false
-rating: Good
-role: Support
 author: Drauskam
-profession: Mesmer
 specialization: Chronomancer
 skills: []
 traits:
   - 2020
   - 2018
   - 853
-conditions: []
 boons:
   - name: Alacrity
     uptime: 100%
@@ -42,16 +37,21 @@ boons:
     uptime: 100%
     variant: party
 code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
-cmGuide: ""
 classification:
   - 5
   - 1
   - 3
   - 3
   - 3
-date: "2024-01-08T01:24:38.509Z "
+date: "2024-01-14T18:15:05.054Z "
+title: Heal Boon Chronomancer
+rating: Good
+role: Support
+profession: Mesmer
+conditions: []
+cmGuide: ""
 ---
-  
+   
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
@@ -59,36 +59,22 @@ This build is made for PuGs environments. More info about building effective tea
 </Warning>         
 
 
-The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>.
+The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
+
+It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
  
-The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
-
-It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>, etc.
-
-You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> in order to deal with <Instability name="No Pain, No Gain"/>.
-
 <Divider text="Equipment"/> 
 
 <CharacterWithAr> 
-<Character title="Staff" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1348,"Healing Power":1786,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.0486666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.6338,"Effective Power":4371.9075,"NonCrit Effective Power":3658.5,"Power DPS":5617.657037928379,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7053.693038967238,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1512.5720399999998,"Healing":1512.5720399999998}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30698,"weapon1MainType":"Staff","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":44947,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30696,"weapon2OffType":"Shield","weapon2OffSigilId":44947,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,1866],[1995,1978,1942]],"lines":[45,23,40]}}'>
+<Character title="Staff" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1348,"Healing Power":1786,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.0486666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.6338,"Effective Power":4371.9075,"NonCrit Effective Power":3658.5,"Power DPS":5617.657037928379,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7053.693038967238,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1512.5720399999998,"Healing":1512.5720399999998}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30698,"weapon1MainType":"Staff","weapon1MainSigil1Id":72872,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":24639,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":72872,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30696,"weapon2OffType":"Shield","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,1866],[1995,1978,1942]],"lines":[45,23,40]}}'>
 
 Note that this build variant is optimized for 150 agony resistance and providing yourself with permanent <Boon name="Regeneration"/> in order to achieve 100% boon duration (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>). 
 
-If you have more Agony Resistance, feel free to swap out gear for additional Minstrel stats.
+<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. <Item id="72872"/> can also be swapped for <Item id="74326"/> for additional healing or when boonstrip isn't required.
 
-<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits.
-
-Using your Raid gear is possible, but the setup below takes advantage of some additional <Attribute name="Healing Power"/> and a decent amount of <Attribute name="Vitality"/> & <Attribute name="Toughness"/>. 
+If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>
-<Character title="Pistol" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1348,"Healing Power":1786,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.0486666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.6338,"Effective Power":4371.9075,"NonCrit Effective Power":3658.5,"Power DPS":5617.657037928379,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7053.693038967238,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1512.5720399999998,"Healing":1512.5720399999998}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":24639,"weapon1OffAffix":"Harrier","weapon1OffInfusionId":49432,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[756,740,1866],[1987,1978,1942]],"lines":[45,23,40]}}'>
-
-
-We recommend this setup on encounters that require greater or more frequent defiant breaks e.g. Arstariiv and MAMA.
-
-The same applies to power compositions, which require fast defiance breaks, in order to make use of <Item name="Impact" type="Sigil"/>.
 
 </Character>
 </CharacterWithAr> 
@@ -97,30 +83,35 @@ The same applies to power compositions, which require fast defiance breaks, in o
  
 <Grid> 
 <GridItem sm="7">
-
+### Traits
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,1866" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978"/>
 
-### Situational Traits
-|                                                               |                                                                                                                                                                                                                                                                                 |
-|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Chronomancer**                                              |                                                                                                                                                                                                                                                                                 |
-| <Trait name="Stretched Time" size="big" disableText/>     | Take this to provide your party with <Boon name="Alacrity"/>  |
-| <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
-| <Trait name="Delayed Reactions" size="big" disableText/>    | Can be used as a source of slow CC as a last resort if no-one else will help.                                                                                                                                                                                                   |
+#### Traits for Skips
+While we don't recommend leaving your party during boss fights, when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore sectrions of some fractals entirely, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
+- <Trait name="Temporal Enchanter"/> - This will let you provide <Effect name="Superspeed"/> to yourself and your party.
+- <Trait name="Prismatic Understanding"/> - This will increase the duration of <Effect name="Stealth"/> gained from skills such as <Skill name="Mass Invisibility"/> and <Skill name="Veil"/>.
+- Utilize Mirage for skips when moving across large distances or you need leaps! <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+
+<Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
 
 </GridItem>
 
 <GridItem sm="5">
+### Situational Traits
 
 |                                                               |                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Inspiration**                                               |                                                                                                                                                                                                                                                                                 |
-| <Trait name="Blurred Inscriptions" size="big" disableText/> | Can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.                                                                             |
+| <Trait name="Blurred Inscriptions" size="big" disableText/> | Can be played in combination with <Skill name="Signet of Inspiration"/> as an additional source of <Boon name="Aegis"/>.                                                                             |
 | <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights, where there is a potential for a lot of downstates.                                                                                                                                                                                           |
 | <Trait name="Temporal Enchanter" size="big" disableText/>   | Its main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. |
 | <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
 | <Trait name="Warden's Feedback" size="big" disableText/>      | Has some great value in T4 for extra add pulls e.g. Chaos or Aetherblade.                                                                                                                                                                                                       |
 | <Trait name="Mental Defense" size="big" disableText/>       | A very situational trait, primarily helpful dealing with <Condition name="Weakness"/> on Arstariiv.                                                                                                                                                                    |
+| **Chronomancer**                                              |                                                                                                                                                                                                                                                                                 |
+| <Trait name="Stretched Time" size="big" disableText/>     | Take this to provide your party with <Boon name="Alacrity"/>  |
+| <Trait name="Seize the Moment" size="big" disableText/> | Take this to provide your party with <Boon name="Quickness"/> |
+| <Trait name="Delayed Reactions" size="big" disableText/>    | Can be used as a source of slow CC as a last resort if no-one else will help.                                                                                                                                                                                                   |
 
 
 </GridItem>
@@ -142,13 +133,13 @@ The same applies to power compositions, which require fast defiance breaks, in o
 |                                                                |                                                                                                                                                                                                |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.                                |
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                        |
-| <Skill name="Mantra of Concentration" size="big" disableText/> | Grants <Boon name="Aegis"/> on the initial channel and 4-3 stacks of <Boon name="Stability"/> on each of the three instances.                                                                  |
+| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Can be used for boonstrip when <Instability name="No Pain, No Gain"/> is present.                                                                                                                        |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | Grants <Boon name="Aegis"/> on the initial channel and 4 stacks of <Boon name="Stability"/> on each of the three instances.                                                                  |
 | <Skill name="Well of Precognition" size="big" disableText/>    | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses.                                                                                                                           |
 | <Skill name="Mantra of Resolve" size="big" disableText/>       | Your main tool dealing with condition pressure.                                                                                                                                                |
 | <Skill name="Signet of Inspiration" size="big" disableText/>   | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>. |
 | <Skill name="Feedback" size="big" disableText/>                | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/>, <Effect name="Superspeed"/> and revival (situational traits).                                                      |
-| <Skill name="Mantra of Pain" size="big" disableText/>    | Provides <Condition name="Vulnerability"/>, <Boon name="Might"/> and decent healing via <Trait name="Restorative Mantras"/>, but it should only compete with <Skill name="Signet of Inspiration"/> when no other utility is required.         |
+| <Skill name="Mantra of Pain" size="big" disableText/>    | Provides <Condition name="Vulnerability"/>, <Boon name="Might"/> and decent healing via <Trait name="Restorative Mantras"/>.         |
 
 </GridItem>
 <GridItem sm="6">
@@ -158,7 +149,7 @@ The same applies to power compositions, which require fast defiance breaks, in o
 |                                                           |                                                                                                                   |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage (in combination with <Item id="24639"/>) your go to choice for single target encounter. |
-| <Skill name="Gravity Well" size="big" disableText/>       | For AoE add group control.                                                                                        |
+| <Skill name="Gravity Well" size="big" disableText/>       | An AoE pull and CC, useful in T4s.                                                                                |
 
 ### Additional Defiance Damage
 
@@ -166,7 +157,7 @@ The same applies to power compositions, which require fast defiance breaks, in o
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
 | <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
-| <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
+| <Skill name="Mantra of Distraction" size="big" disableText/>   | Offers two charges of <Skill name="Power Lock"/>. When this skill recharrges and is channeled it wil lalso reduce the cooldown of <Skill name="Diversion"/>.                           |
 
 ### Skips
 
@@ -187,30 +178,29 @@ The same applies to power compositions, which require fast defiance breaks, in o
 <Grid>
 <GridItem sm="6">
 ### Scepter / Shield
-- <Skill name="Ether Bolt"/> (Scepter 1): 
-is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a Clone.
-- <Skill name="Illusionary Counter"/> (Scepter 2): use this to either block an attack or manually double cast it in order to let <Skill name="Counterspell"/> create a Clone regardless.
-- <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible.
-- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block that applies <Condition name="Slow"/>. 
-- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block that applies <Condition name="Slow"/>.
-- <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and deals some defiance bar damage.
+- <Skill name="Ether Bolt"/> (Scepter 1): Is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a Clone.
+- <Skill name="Illusionary Counter"/> (Scepter 2): A channeled skill that will block an attack and generate two clones (if a block is triggered). Alternatively the channel can be canceled by double tapping the skill to cast <Skill name="Counterspell"/> create one Clone regardless.
+- <Skill name="Confusing Images"/> (Scepter 3): Deals a small amount of damage.
+- <Skill name="Echo of Memory"/> (Shield 4): Creates a Phantasm on block that applies <Condition name="Slow"/> and grants <Boon name="Protection"/>. 
+- <Skill name="Deja Vu"/> (Shield 4 flip skill): Creates a Phantasm on block that applies <Condition name="Slow"/>.
+- <Skill name="Tides of Time"/> (Shield 5): Provides <Boon name="Might"/> and <Boon name="Swiftness"/> while also dealing defiance bar damage.
 
 ### Staff
-- <Skill name="Winds of Chaos"/> (Staff 1)
-- <Skill name="Phase Retreat"/> (Staff 2): 360 range teleport backwards, that can create a Clone.
-- <Skill name="Phantasmal Warlock"/> (Staff 3): your best Phantasm generating skill. Perfect to start a phase or split.
-- <Skill name="Chaos Armor"/> (Staff 4): shares Chaos Aura and <Boon name="Regeneration"/>.
-- <Skill name="Chaos Storm"/> (Staff 5): mainly provides <Boon name="Aegis"/>, <Boon name="Swiftness"/>, or <Boon name="Resolution"/> randomly on each pulse and deals minor defiance bar damage. If you want to make use out of the <Boon name="Aegis"/>, make sure to cast it early enough to deal with the random nature of this skill.
+- <Skill name="Winds of Chaos"/> (Staff 1): Applies <Boon name="Fury"/> and <Boon name="Might"/> to any allies hit by the orb when it bounces.
+- <Skill name="Phase Retreat"/> (Staff 2): A 360 range teleport backwards, that will also create a Clone.
+- <Skill name="Phantasmal Warlock"/> (Staff 3): Summons two Phantasms, that when their attack is finished become Clones. Ideal to be casted at the start of a phase.
+- <Skill name="Chaos Armor"/> (Staff 4): Applies <Effect name="Chaos Aura"/> which randomly applies <Boon name="Regeneration"/>, <Boon name="Protection"/>, or <Boon name="Swiftness"/> when struck.
+- <Skill name="Chaos Storm"/> (Staff 5): Shares either <Boon name="Aegis"/>, <Boon name="Swiftness"/>, or <Boon name="Resolution"/> randomly on each pulse and deals some defiance bar damage. If you want to make use out of the <Boon name="Aegis"/>, make sure to cast it early enough to deal with the random nature of this skill.
 
 
 ### Pistol 
-- <Skill name="Phantasmal Duelist"/> (Pistol 4): creates a Phantasm.
-- <Skill name="Magic Bullet"/> (Pistol 5): your highest defiance bar weapon skill option.
+- <Skill name="Phantasmal Duelist"/> (Pistol 4): Creates a Phantasm.
+- <Skill name="Magic Bullet"/> (Pistol 5): Deals a large amount of defiance bar damage that can be taken as an alternative to Staff on some CC heavy fights such as MAMA or Artsariiv if your party refuses to help.
  
 ### Focus
-- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/> or projectile reflect if <Trait name="Warden's Feedback"/> is traited.
-- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pulls. 
-- <Skill name="Phantasmal Warden"/> (Focus 5): a Phantasms that mitigates projectiles and applies <Condition name="Vulnerability"/>.
+- <Skill name="Temporal Curtain"/> (Focus 4): Used for <Boon name="Swiftness"/> or projectile reflect if <Trait name="Warden's Feedback"/> is traited.
+- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pull, oarticularly useful in T4s. 
+- <Skill name="Phantasmal Warden"/> (Focus 5): Creates a phantasms that reflects projectiles and applies <Condition name="Vulnerability"/>.
 
 </GridItem>
 <GridItem sm="6">
