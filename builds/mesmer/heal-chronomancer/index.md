@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 archive: false
 author: Drauskam
 specialization: Chronomancer
@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T19:09:59.830Z "
+date: "2024-01-14T21:36:48.225Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
