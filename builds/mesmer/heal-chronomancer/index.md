@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T18:13:22.201Z "
+date: "2024-01-14T18:15:05.054Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -102,7 +102,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 |                                                               |                                                                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Inspiration**                                               |                                                                                                                                                                                                                                                                                 |
-| <Trait name="Blurred Inscriptions" size="big" disableText/> | Can be played in combination with <Skill name="Signet of Inspiration"/> if no other utility skill is required (reducing your healing output), to extend group boons and grant <Boon name="Aegis"/>.                                                                             |
+| <Trait name="Blurred Inscriptions" size="big" disableText/> | Can be played in combination with <Skill name="Signet of Inspiration"/> as an additional source of <Boon name="Aegis"/>.                                                                             |
 | <Trait name="Medic's Feedback" size="big" disableText/>       | Useful in projectile heavy fights, where there is a potential for a lot of downstates.                                                                                                                                                                                           |
 | <Trait name="Temporal Enchanter" size="big" disableText/>   | Its main usage lays in the combination with <Skill name="Feedback"/> and <Trait name="Medic's Feedback"/> a maxed out rez potential as well as projectile mitigation. Situationally it can also be useful to provide <Boon name="Resistance"/> and <Effect name="Superspeed"/>. |
 | <Trait name="Sympathetic Visage" size="big" disableText/>     | For additional condition cleanses in condition heavy encounters or instabilities.                                                                                                                                                                                               |
