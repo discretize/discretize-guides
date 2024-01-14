@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T17:52:32.603Z "
+date: "2024-01-14T18:13:22.201Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -133,13 +133,13 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 |                                                                |                                                                                                                                                                                                |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Well of Action" size="big" disableText/>          | Your default choice to provide permanent 25 <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if the rest of your group provides a certain amount.                                |
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Strongest Boon removal tool for <Instability name="No Pain, No Gain"/>.                                                                                                                        |
-| <Skill name="Mantra of Concentration" size="big" disableText/> | Grants <Boon name="Aegis"/> on the initial channel and 4-3 stacks of <Boon name="Stability"/> on each of the three instances.                                                                  |
+| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Can be used for boonstrip when <Instability name="No Pain, No Gain"/> is present.                                                                                                                        |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | Grants <Boon name="Aegis"/> on the initial channel and 4 stacks of <Boon name="Stability"/> on each of the three instances.                                                                  |
 | <Skill name="Well of Precognition" size="big" disableText/>    | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses.                                                                                                                           |
 | <Skill name="Mantra of Resolve" size="big" disableText/>       | Your main tool dealing with condition pressure.                                                                                                                                                |
 | <Skill name="Signet of Inspiration" size="big" disableText/>   | Can be played in combination with <Trait name="Blurred Inscriptions"/> if no other utility skill is required, trading healing output for group boon extension and grants <Boon name="Aegis"/>. |
 | <Skill name="Feedback" size="big" disableText/>                | Projectile mitigation, that can also be useful to provide <Boon name="Resistance"/>, <Effect name="Superspeed"/> and revival (situational traits).                                                      |
-| <Skill name="Mantra of Pain" size="big" disableText/>    | Provides <Condition name="Vulnerability"/>, <Boon name="Might"/> and decent healing via <Trait name="Restorative Mantras"/>, but it should only compete with <Skill name="Signet of Inspiration"/> when no other utility is required.         |
+| <Skill name="Mantra of Pain" size="big" disableText/>    | Provides <Condition name="Vulnerability"/>, <Boon name="Might"/> and decent healing via <Trait name="Restorative Mantras"/>.         |
 
 </GridItem>
 <GridItem sm="6">
@@ -149,7 +149,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 |                                                           |                                                                                                                   |
 |-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Signet of Humility" size="big" disableText/> | With 800 break bar damage (in combination with <Item id="24639"/>) your go to choice for single target encounter. |
-| <Skill name="Gravity Well" size="big" disableText/>       | For AoE add group control.                                                                                        |
+| <Skill name="Gravity Well" size="big" disableText/>       | An AoE pull and CC, useful in T4s.                                                                                |
 
 ### Additional Defiance Damage
 
@@ -157,7 +157,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 |-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Signet of Domination" size="big" disableText/>    | Immediate single target break bar tool e.g. for the Assault Knights at MAMA.                                                                                                                   |
 | <Skill name="Well of Senility" size="big" disableText/>        | Delayed version of an AoE <Skill name="Signet of Domination"/>, that also removes 3 boons.                                                                                                     |
-| <Skill name="Mantra of Distraction" size="big" disableText/>   | Separates the amount of break bar damage into two AoE instant casts.                                                                                                                           |
+| <Skill name="Mantra of Distraction" size="big" disableText/>   | Offers two charges of <Skill name="Power Lock"/>. When this skill recharrges and is channeled it wil lalso reduce the cooldown of <Skill name="Diversion"/>.                           |
 
 ### Skips
 
@@ -178,30 +178,29 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 <Grid>
 <GridItem sm="6">
 ### Scepter / Shield
-- <Skill name="Ether Bolt"/> (Scepter 1): 
-is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a Clone.
-- <Skill name="Illusionary Counter"/> (Scepter 2): use this to either block an attack or manually double cast it in order to let <Skill name="Counterspell"/> create a Clone regardless.
-- <Skill name="Confusing Images"/> (Scepter 3): only deals damage, which makes it negligible.
-- <Skill name="Echo of Memory"/> (Shield 4): creates a Phantasm on block that applies <Condition name="Slow"/>. 
-- <Skill name="Deja Vu"/> (Shield 4 flip skill): creates a Phantasm on block that applies <Condition name="Slow"/>.
-- <Skill name="Tides of Time"/> (Shield 5): mainly provides <Boon name="Might"/> and <Boon name="Swiftness"/> and deals some defiance bar damage.
+- <Skill name="Ether Bolt"/> (Scepter 1): Is the start of your Scepter auto attack chain. While this does not directly heal, the final attack in the chain, <Skill name="Ether Clone"/> will generate a Clone.
+- <Skill name="Illusionary Counter"/> (Scepter 2): A channeled skill that will block an attack and generate two clones (if a block is triggered). Alternatively the channel can be canceled by double tapping the skill to cast <Skill name="Counterspell"/> create one Clone regardless.
+- <Skill name="Confusing Images"/> (Scepter 3): Deals a small amount of damage.
+- <Skill name="Echo of Memory"/> (Shield 4): Creates a Phantasm on block that applies <Condition name="Slow"/> and grants <Boon name="Protection"/>. 
+- <Skill name="Deja Vu"/> (Shield 4 flip skill): Creates a Phantasm on block that applies <Condition name="Slow"/>.
+- <Skill name="Tides of Time"/> (Shield 5): Provides <Boon name="Might"/> and <Boon name="Swiftness"/> while also dealing defiance bar damage.
 
 ### Staff
-- <Skill name="Winds of Chaos"/> (Staff 1)
-- <Skill name="Phase Retreat"/> (Staff 2): 360 range teleport backwards, that can create a Clone.
-- <Skill name="Phantasmal Warlock"/> (Staff 3): your best Phantasm generating skill. Perfect to start a phase or split.
-- <Skill name="Chaos Armor"/> (Staff 4): shares Chaos Aura and <Boon name="Regeneration"/>.
-- <Skill name="Chaos Storm"/> (Staff 5): mainly provides <Boon name="Aegis"/>, <Boon name="Swiftness"/>, or <Boon name="Resolution"/> randomly on each pulse and deals minor defiance bar damage. If you want to make use out of the <Boon name="Aegis"/>, make sure to cast it early enough to deal with the random nature of this skill.
+- <Skill name="Winds of Chaos"/> (Staff 1): Applies <Boon name="Fury"/> and <Boon name="Might"/> to any allies hit by the orb when it bounces.
+- <Skill name="Phase Retreat"/> (Staff 2): A 360 range teleport backwards, that will also create a Clone.
+- <Skill name="Phantasmal Warlock"/> (Staff 3): Summons two Phantasms, that when their attack is finished become Clones. Ideal to be casted at the start of a phase.
+- <Skill name="Chaos Armor"/> (Staff 4): Applies <Effect name="Chaos Aura"/> which randomly applies <Boon name="Regeneration"/>, <Boon name="Protection"/>, or <Boon name="Swiftness"/> when struck.
+- <Skill name="Chaos Storm"/> (Staff 5): Shares either <Boon name="Aegis"/>, <Boon name="Swiftness"/>, or <Boon name="Resolution"/> randomly on each pulse and deals some defiance bar damage. If you want to make use out of the <Boon name="Aegis"/>, make sure to cast it early enough to deal with the random nature of this skill.
 
 
 ### Pistol 
-- <Skill name="Phantasmal Duelist"/> (Pistol 4): creates a Phantasm.
-- <Skill name="Magic Bullet"/> (Pistol 5): your highest defiance bar weapon skill option.
+- <Skill name="Phantasmal Duelist"/> (Pistol 4): Creates a Phantasm.
+- <Skill name="Magic Bullet"/> (Pistol 5): Deals a large amount of defiance bar damage that can be taken as an alternative to Staff on some CC heavy fights such as MAMA or Artsariiv if your party refuses to help.
  
 ### Focus
-- <Skill name="Temporal Curtain"/> (Focus 4): mainly used for <Boon name="Swiftness"/> or projectile reflect if <Trait name="Warden's Feedback"/> is traited.
-- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pulls. 
-- <Skill name="Phantasmal Warden"/> (Focus 5): a Phantasms that mitigates projectiles and applies <Condition name="Vulnerability"/>.
+- <Skill name="Temporal Curtain"/> (Focus 4): Used for <Boon name="Swiftness"/> or projectile reflect if <Trait name="Warden's Feedback"/> is traited.
+- <Skill name="Into the Void"/> (Focus 4 flips skill): 5 target add pull, oarticularly useful in T4s. 
+- <Skill name="Phantasmal Warden"/> (Focus 5): Creates a phantasms that reflects projectiles and applies <Condition name="Vulnerability"/>.
 
 </GridItem>
 <GridItem sm="6">
