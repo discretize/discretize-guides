@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T18:15:45.456Z "
+date: "2024-01-14T18:25:20.608Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -57,7 +57,7 @@ cmGuide: ""
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
    
 </Warning>         
-
+ 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
@@ -277,7 +277,17 @@ Use **all** Shatters for additional boons.
 
 - <Skill name="Mantra of Concentration"/> is your main tool and grants 4 stacks of <Boon name="Stability"/> after the initial channel and 3 stacks of <Boon name="Stability"/> for each of the two remaining casts. If a phase requires <Boon name="Stability"/> right at the start, it makes sense to precast the channeled version e.g. Arkk.
 
-- <Skill name="Distortion"/> grants 3 stacks of <Boon name="Stability"/> at once and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.                                                                                                                
+- <Skill name="Distortion"/> grants 3 stacks of <Boon name="Stability"/> at once and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.                      
+
+### Aegis
+
+- Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
+
+- <Skill name="Well of Precognition"/> provides one stack of <Boon name="Aegis"/> at the initial cast and on every follow up pulse. Your best choice for multiple incomming hits at a short period of time e.g. some MAMA patterns and Siaxs Volatile Hallucinations.
+
+- <Skill name="Distortion"/> immediately grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>. A great emergency skill.
+
+- <Skill name="Signet of Inspiration"/> only grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited. Play this instead of <Skill name="Well of Precognition"/> if you want to sacrifice some healing potency for boon extension and more frequent applications of <Boon name="Aegis"/>, at a slightly increased range e.g. Ensolyss.     
 
 ### Resistance
 
@@ -288,16 +298,38 @@ Use **all** Shatters for additional boons.
 
 </GridItem>
 <GridItem sm="6">
+### Precasting
+<Tabs>
+<Tab title="Alacrity Precast">
+1. <Skill name="Time Warp"/>
+2. <Skill name="Well of Action"/>
+3. <Skill name="Tides of Time"/> 
+4. <Skill name="Signet of Inspiration"/> (<Skill name="Continuum Split"/>)
+   1. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
+5. <Skill name="Mimic"/>
+6. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
+7. 2x <Skill name="Signet of Inspiration"/>
+8. Take the Mistlock Singularity
 
-### Aegis
 
-- Correct application of <Boon name="Aegis"/> requires knowledge of the encounters and which attacks are impactful to block.
+<Video youtube="QS8guFChyBA" caption="Precast example by Drauskam"/>
+</Tab>
+<Tab title="Quickness Precast">
+1. <Skill name="Well of Action"/>
+2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
+   1. <Skill name="Time Warp"/> 
+   2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
+3. <Skill name="Time Warp"/>
+4. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
+5. <Skill name="Tides of Time"/>
+6. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
+7. take the Mistlock Singularity
+8. Adjust utility skills for the encounter.
 
-- <Skill name="Well of Precognition"/> provides one stack of <Boon name="Aegis"/> at the initial cast and on every follow up pulse. Your best choice for multiple incomming hits at a short period of time e.g. some MAMA patterns and Siaxs Volatile Hallucinations.
+<Video youtube="M8TDeNZY8Oo" caption="Precast example by Drauskam"/>
 
-- <Skill name="Distortion"/> immediately grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>. A great emergency skill.
-
-- <Skill name="Signet of Inspiration"/> only grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited. Play this instead of <Skill name="Well of Precognition"/> if you want to sacrifice some healing potency for boon extension and more frequent applications of <Boon name="Aegis"/>, at a slightly increased range e.g. Ensolyss.                                                             
+</Tab>
+</Tabs>
 
 </GridItem>
 </Grid>
@@ -323,41 +355,3 @@ If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> 
 The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
 
 If you want to add more condition cleanse, consider playing <Skill name="Well of Eternity"/> and <Item id="100390"/>.
-
-<Divider text="Videos"/>
-<Grid>
-<GridItem sm="6">
-
-<Card title="Quickness Precast">
-1. <Skill name="Well of Action"/>
-2. <Skill name="Tides of Time"/> (<Skill name="Continuum Split"/>)
-   1. <Skill name="Time Warp"/> 
-   2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
-1. <Skill name="Time Warp"/>
-2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
-2. <Skill name="Tides of Time"/>
-3. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
-4. take the Mistlock Singularity
-
-<Video youtube="M8TDeNZY8Oo" caption="Precast example by Drauskam"/>
-</Card>
-
-</GridItem>
-<GridItem sm="6">
-
-<Card title="Alacrity Precast">
-1. <Skill name="Time Warp"/>
-2. <Skill name="Well of Action"/>
-2. <Skill name="Tides of Time"/> 
-3. <Skill name="Signet of Inspiration"/> (<Skill name="Continuum Split"/>)
-   1. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
-1. <Skill name="Mimic"/>
-2. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
-2. 2x <Skill name="Signet of Inspiration"/>
-3. take the Mistlock Singularity
-
-<Video youtube="QS8guFChyBA" caption="Precast example by Drauskam"/>
-</Card>
-
-</GridItem>
-</Grid>
