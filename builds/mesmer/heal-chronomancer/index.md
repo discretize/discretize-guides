@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T18:36:12.330Z "
+date: "2024-01-14T19:09:59.830Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -63,7 +63,7 @@ The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
  
-<Divider text="Equipment"/>  
+<Divider text="Equipment"/>   
 
 <CharacterWithAr> 
 <Character title="Heal Chrono" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1348,"Healing Power":1786,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.0486666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.6338,"Effective Power":4371.9075,"NonCrit Effective Power":3658.5,"Power DPS":5617.657037928379,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7053.693038967238,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1512.5720399999998,"Healing":1512.5720399999998}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30698,"weapon1MainType":"Staff","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":24639,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30696,"weapon2OffType":"Shield","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":30814,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,1866],[1995,1978,1942]],"lines":[45,23,40]}}'>
@@ -224,6 +224,10 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 | <Condition name="Slow"/>              | 50 damage per second              | Not affected                     |
 
 ### Boonstrip
+#### No Pain, No Gain
+
+#### T4s
+
 </GridItem>
 </Grid>
 
