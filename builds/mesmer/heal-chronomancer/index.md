@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T18:25:20.608Z "
+date: "2024-01-14T18:26:47.224Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -73,6 +73,8 @@ Note that this build variant is optimized for 150 agony resistance and providing
 <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. <Item id="72872"/> can also be swapped for <Item id="74326"/> for additional healing or when boonstrip isn't required.
 
 If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
+
+Check the Skill Explanations section below for alternative weapon setups.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
