@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-14T21:36:48.225Z "
+date: "2024-01-21T02:09:20.770Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -51,7 +51,7 @@ profession: Mesmer
 conditions: []
 cmGuide: ""
 ---
-   
+    
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
@@ -234,35 +234,28 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 <Divider text="Skill usage"/> 
 
-### Standard Boons
-To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll need to constantly create Clones/Phantasms.
+### Generating Boons
+To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll want to be constantly generating clones.
 
-Clones can then be spent on Shatters, to trigger:
-- <Trait name="Seize the Moment"/> or <Trait name="Stretched Time"/>: to provide <Boon name="Quickness"/> or <Boon name="Alacrity"/>
-- <Trait name="Illusionary Defense"/>: for <Boon name="Protection"/>
-- <Trait name="Bountiful Disillusionment"/>: mainly <Boon name="Might"/> + <Boon name="Fury"/> and <Boon name="Vigor"/>
-- <Trait name="Illusionary Membrane"/> + <Trait name="Chaotic Transference"/>: mainly <Boon name="Regeneration"/> and some <Boon name="Swiftness"/> + <Boon name="Protection"/>
+Clone generation gets covered by a number of skill. On Scepter, the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2) will both generate one clone each. Casting <Skill name="Illusionary Counter"/> (Scepter 2) and blocking an attack will generate 2 clones. On Staff, <Skill name="Phase Retreat"/> (Staff 2) will also generate a clone, however it also will teleport you back, away from the party. 
 
-The passive Clone generation gets covered by the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2).
+Additionally, illusions summoned from <Skill name="Phantasmal Warlock"/> (Staff 3) and <Skill name="Echo of Memory"/> (Shield 4) will turn into clones after finishing their attacks. Therefore you want to be using these skills to generate illusions and clones as often as possible to try and maintain three clones and generate them as quickly as possible after using Shatter skills. 
 
-Cast Phantasms like <Skill name="Phantasmal Warlock"/> whenever available.
-
-After long split phases, they are gonna carry the inital boon application, until your passive Clone generation ramps up.
-
-Playing with Staff, <Skill name="Phase Retreat"/> (Staff 2) can be rough to use compared to Scepter, thats why it is recommended to start on Staff, then stay on Scepter during the phase and return back to Staff to use <Skill name="Phantasmal Warlock"/> right before a split - into repeating the loop.
-
-<Skill name="Well of Action"/> grants 1/3 of your <Boon name="Might"/> application and <Boon name="Fury"/>, after a 3 second delay, so be careful of not missing out. 
-
-<Skill name="Tides of Time"/> can be aligned with defiance breaks, but prevent holding it for too long, otherwise you could drop out on <Boon name="Might"/> and <Boon name="Swiftness"/>.
+Outside of Phantasms, <Skill name="Well of Action"/> grants up to a third of your <Boon name="Might"/> application and <Boon name="Fury"/> id used off cooldown (be careful since the boons are applied after a three second delay). <Skill name="Tides of Time"/> can be aligned with defiance breaks, but remember to use it in your rotation, to help maintain <Boon name="Might"/> and <Boon name="Swiftness"/>. <Skill name="Mantra of Pain"/> can also be taken to help maintain <Boon name="Might"/> if you find it dropping.
 
 ### Shatters
+Clones can then be used to improve the effects of Shatters, to trigger:
+- <Trait name="Seize the Moment"/> to provide <Boon name="Quickness"/>, or <Trait name="Stretched Time"/> (which makes <Trait name="Flow of Time"/> affect allies) to provide <Boon name="Alacrity"/>
+- <Trait name="Illusionary Defense"/> for <Boon name="Protection"/>
+- <Trait name="Bountiful Disillusionment"/> which generates <Boon name="Might"/>, <Boon name="Fury"/>, and <Boon name="Vigor"/>
+- <Trait name="Illusionary Membrane"/> amd <Trait name="Chaotic Transference"/> which generate <Boon name="Regeneration"/>, <Boon name="Swiftness"/>, and <Boon name="Protection"/>
+
 <Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
 ideally with 3 active Clones.
 
-The same can be applied to <Skill name="Time Sink"/>, 
-as long as you keep it for defiance breaks.
+The same can be applied to <Skill name="Time Sink"/>, although it should be saved for CC if you are due a defiance bar.
 
-<Skill name="Distortion"/> however should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
+<Skill name="Distortion"/> should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
 
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
