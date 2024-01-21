@@ -36,14 +36,14 @@ boons:
   - name: Vigor
     uptime: 100%
     variant: party
-code: "[&DQctOhcqKB9tAQAAzxIAAJMSAACFAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADVgBXADYAAA==]"
+code: "[&DQctOhcqKA9tAW4BzxIAAAAAAAAAAAAA7RIAAAAAAAAAAAAAAAAAAAAAAAADWQBWAFcAAA==]"
 classification:
   - 5
   - 1
   - 3
   - 3
   - 3
-date: "2024-01-21T02:09:20.770Z "
+date: "2024-01-21T02:10:59.556Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -51,7 +51,7 @@ profession: Mesmer
 conditions: []
 cmGuide: ""
 ---
-    
+     
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
