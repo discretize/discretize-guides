@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T03:06:51.240Z "
+date: "2024-01-21T17:15:31.584Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -51,13 +51,11 @@ profession: Mesmer
 conditions: []
 cmGuide: ""
 ---
-     
 <Warning>  
 
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
    
 </Warning>         
- 
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
@@ -74,7 +72,7 @@ Note that this build variant is optimized for 150 agony resistance and providing
 
 If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
 
-Check the Skill Explanations section below for alternative weapon setups. When boonstrip is required it is recommended to swap <Item id="74326"/> for <Item id="72872"/>.
+Check the Skill Explanations section below for alternative weapon setups.
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -225,7 +223,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 ### Boonstrip
 #### No Pain, No Gain
-
+ When boonstrip is required it is recommended to swap <Item id="74326"/> for <Item id="72872"/>.
 #### T4s
 
 </GridItem>
@@ -234,14 +232,13 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 <Divider text="Skill usage"/> 
 
-### Generating Clones
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll want to be constantly generating clones.
 
 Clone generation gets covered by a number of skill. On Scepter, the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2) will both generate one clone each. Casting <Skill name="Illusionary Counter"/> (Scepter 2) and blocking an attack will generate 2 clones. On Staff, <Skill name="Phase Retreat"/> (Staff 2) will also generate a clone, however it also will teleport you back, away from the party.  Using a healing skill will generate a clone through <Trait name="Ego Restoration"/>.
 
 Additionally, illusions summoned from <Skill name="Phantasmal Warlock"/> (Staff 3) and <Skill name="Echo of Memory"/> (Shield 4) will turn into clones after finishing their attacks. Therefore you want to be using these skills to generate illusions and clones as often as possible to try and maintain three clones and generate them as quickly as possible after using Shatter skills. 
 
-Outside of Phantasms, <Skill name="Well of Action"/> grants up to a third of your <Boon name="Might"/> application and <Boon name="Fury"/> id used off cooldown (be careful since the boons are applied after a three second delay). <Skill name="Tides of Time"/> can be aligned with defiance breaks, but remember to use it in your rotation, to help maintain <Boon name="Might"/> and <Boon name="Swiftness"/>. <Skill name="Mantra of Pain"/> can also be taken to help maintain <Boon name="Might"/> if you find it dropping.
+Outside of Phantasms, <Skill name="Well of Action"/> grants up to a third of your <Boon name="Might"/> application and <Boon name="Fury"/> id used off cooldown (be careful since the boons are applied after a three second delay). <Skill name="Tides of Time"/> can be aligned with defiance breaks, but remember to use it in your rotation, to help maintain <Boon name="Might"/> and <Boon name="Swiftness"/>. <Skill name="Mantra of Pain"/> can also be taken to help maintain <Boon name="Might"/> if you find yourself reponsible for all 25 stacks.
 
 ### Shatters
 Clones can then be used to improve the effects of Shatters, to trigger:
@@ -331,23 +328,20 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 </Grid>
 
 <Divider text="Healing"/>
-### Sustained Healing
-Every summoning of Illusions heals allies within a 360 radius.
+### Healing and Condition Cleanse
+One of your primary sources of healing is <Trait name="Illusionary Inspiration"/>,  Which heals allies and yourself for each Illusion and Clone summoned. If multiple Illusions or Clones are summoned at the same time, the trait triggers for each Phantasm. The trait also increases your outgoing healing.
 
-Granting the standard boons as described above, already covers most of your sustained heal. 
+Granting boons as described above, also helps through <Boon name="Regeneration"/>, which is also generated through <Trait name="Metaphysical Rejuvenation"/>, when you cast a heal skill.
 
-Cast <Skill name="Mantra of Recovery"/> whenever it gets back up to 2 charges, to make use of the 
-<Boon name="Regeneration"/> provided by <Trait name="Metaphysical Rejuvenation"/>.
+Finally, <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> top it off, with most of your utility skill choices benefiting from these traits.
 
-<Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> adds up to that, as most of your utility skill choices are going to fall into that category.
+If you are playing with <Trait name="Restorative Illusions"/>, every shatter will heal your party, scaling on the amount of clones spent. 
 
-### Burst Heal & Condition Cleanse
+
 After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
 
 If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies to condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
 
-The remaining charges of <Skill name="Mantra of Recovery"/> can help due to <Trait name="Mender's Purity"/> and <Trait name="Restorative Illusions"/>.
-
-If you want to add more condition cleanse, consider playing <Skill name="Well of Eternity"/> and <Item id="100390"/>.
+Consider playing <Skill name="Well of Eternity"/> for a large burst heal and condition cleanse. This is mostly useful in T4 fractals such as Sirens Reef, whith large amounts of damage and condition pressure.
