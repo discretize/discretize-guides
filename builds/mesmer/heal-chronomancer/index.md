@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T17:17:00.419Z "
+date: "2024-01-21T17:33:17.621Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -223,8 +223,12 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 ### Boonstrip
 #### No Pain, No Gain
- When boonstrip is required it is recommended to swap <Item id="74326"/> for <Item id="72872"/>.
+When boonstrip is required on single targets the simplist option is to use <Skill name="Phantasmal Disenchanter"/>. <Instability name="No Pain, No Gain"/> has a 20 second internal cooldown so the <Skill name="Phantasmal Disenchanter"/> will always be availible to use. Be careful during split phases, since the timer for <Instability name="No Pain, No Gain"/> keeps ticking, meaning that if you cant strip every 20 seconds, you may find yourself desynced.
+
+Another option is to play <Item id="72872"/> which can free up a utility slot, however it will only strip boons if the boss is casting an attack or has a defiance bar up.
+
 #### T4s
+On certain T4s, mainly dredge fractals such as molton boss where the majority of trash mobs have a large amount of boons, it is also recommended to play <Item id="72872"/>. This in combination with skills such as <Skill name="Well of Senility"/> and <Skill name="Gravity Well"/> can help to strip boons from multiple mobs at once. <Skill name="Null Field"/> is another option to strip boons from multiple mobs at once.
 
 </GridItem>
 </Grid>
