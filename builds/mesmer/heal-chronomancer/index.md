@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T02:10:59.556Z "
+date: "2024-01-21T02:32:57.417Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -247,7 +247,7 @@ Outside of Phantasms, <Skill name="Well of Action"/> grants up to a third of you
 Clones can then be used to improve the effects of Shatters, to trigger:
 - <Trait name="Seize the Moment"/> to provide <Boon name="Quickness"/>, or <Trait name="Stretched Time"/> (which makes <Trait name="Flow of Time"/> affect allies) to provide <Boon name="Alacrity"/>
 - <Trait name="Illusionary Defense"/> for <Boon name="Protection"/>
-- <Trait name="Bountiful Disillusionment"/> which generates <Boon name="Might"/>, <Boon name="Fury"/>, and <Boon name="Vigor"/>
+- <Trait name="Bountiful Disillusionment"/> which generates <Boon name="Stability"/>, <Boon name="Might"/>, <Boon name="Fury"/>, and <Boon name="Vigor"/>
 - <Trait name="Illusionary Membrane"/> amd <Trait name="Chaotic Transference"/> which generate <Boon name="Regeneration"/>, <Boon name="Swiftness"/>, and <Boon name="Protection"/>
 
 <Skill name="Split Second"/> and <Skill name="Rewinder"/> should be used off cooldown, 
@@ -258,13 +258,11 @@ The same can be applied to <Skill name="Time Sink"/>, although it should be save
 <Skill name="Distortion"/> should be held for emergency <Boon name="Stability"/>/<Boon name="Aegis"/>.
 
 ### Continuum Split
-<Skill name="Continuum Split"/> rewinds all your skills back to the status they have been at while entering.
+Entering <Skill name="Continuum Split"/> gives you a free cast of any of your availible skills. When it ends you will be reverted back to the position where you entered with your skill cooldowns also reverted. The duration of <Skill name="Continuum Split"/> depends on the amount of Clones spent.
 
-The durations depends on the amount of Clones spent.
+If the last stack of one of your Mantras gets used during the Continuum Split, the skill will not be reverted and need to be channeled again!
 
-If the last stack of one of your Mantras gets used during the Continuum Split, it does not get rewinded!
-
-Use **all** Shatters for additional boons.
+Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boons.
 
 <Skill name="Continuum Split"/> gets the most value at boon precasts, and during combat, if you either need additional CC, <Boon name="Stability"/>/<Boon name="Aegis"/>, or burst heal.
 
