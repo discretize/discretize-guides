@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 author: Parpage.9867
 specialization: Mechanist
 traits: []
@@ -30,7 +30,7 @@ classification:
   - 2
   - 1
   - 2
-date: "2023-12-30T22:33:31.343Z "
+date: "2024-01-21T15:04:47.102Z "
 title: Heal Alacrity Mechanist
 rating: Good
 role: Support
