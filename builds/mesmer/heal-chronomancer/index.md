@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T17:15:31.584Z "
+date: "2024-01-21T17:16:26.146Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -335,12 +335,7 @@ Granting boons as described above, also helps through <Boon name="Regeneration"/
 
 Finally, <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> top it off, with most of your utility skill choices benefiting from these traits.
 
-If you are playing with <Trait name="Restorative Illusions"/>, every shatter will heal your party, scaling on the amount of clones spent. 
-
-
-After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
-
-If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
+If you are playing with <Trait name="Restorative Illusions"/>, every shatter will heal your party, scaling on the amount of clones spent.
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies to condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
 
