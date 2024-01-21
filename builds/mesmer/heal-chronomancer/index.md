@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T17:16:26.146Z "
+date: "2024-01-21T17:17:00.419Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -60,7 +60,7 @@ This build is made for PuGs environments. More info about building effective tea
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
- 
+  
 <Divider text="Equipment"/>   
 
 <CharacterWithAr> 
