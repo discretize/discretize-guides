@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T17:15:31.584Z "
+date: "2024-01-21T17:33:17.621Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -60,7 +60,7 @@ This build is made for PuGs environments. More info about building effective tea
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
- 
+  
 <Divider text="Equipment"/>   
 
 <CharacterWithAr> 
@@ -223,8 +223,12 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 ### Boonstrip
 #### No Pain, No Gain
- When boonstrip is required it is recommended to swap <Item id="74326"/> for <Item id="72872"/>.
+When boonstrip is required on single targets the simplist option is to use <Skill name="Phantasmal Disenchanter"/>. <Instability name="No Pain, No Gain"/> has a 20 second internal cooldown so the <Skill name="Phantasmal Disenchanter"/> will always be availible to use. Be careful during split phases, since the timer for <Instability name="No Pain, No Gain"/> keeps ticking, meaning that if you cant strip every 20 seconds, you may find yourself desynced.
+
+Another option is to play <Item id="72872"/> which can free up a utility slot, however it will only strip boons if the boss is casting an attack or has a defiance bar up.
+
 #### T4s
+On certain T4s, mainly dredge fractals such as molton boss where the majority of trash mobs have a large amount of boons, it is also recommended to play <Item id="72872"/>. This in combination with skills such as <Skill name="Well of Senility"/> and <Skill name="Gravity Well"/> can help to strip boons from multiple mobs at once. <Skill name="Null Field"/> is another option to strip boons from multiple mobs at once.
 
 </GridItem>
 </Grid>
@@ -335,12 +339,7 @@ Granting boons as described above, also helps through <Boon name="Regeneration"/
 
 Finally, <Trait name="Restorative Mantras"/> and <Trait name="All's Well That Ends Well"/> top it off, with most of your utility skill choices benefiting from these traits.
 
-If you are playing with <Trait name="Restorative Illusions"/>, every shatter will heal your party, scaling on the amount of clones spent. 
-
-
-After you initially ramped up your boons, try to safe up on Clones, to shatter these, in case of foreseeable damage threats.
-
-If you got the opportunity to swap to Staff, <Skill name="Phantasmal Warlock"/> is gonna count as creating 4 Illusions for additional healing, especially when playing with <Item id="44947"/>.   
+If you are playing with <Trait name="Restorative Illusions"/>, every shatter will heal your party, scaling on the amount of clones spent.
 
 <Trait name="Illusionary Inspiration"/> can provide decent burst heal, if you manage your ressources wisely and the same applies to condition pressure, combined with <Skill name="Mantra of Resolve"/> or <Trait name="Sympathetic Visage"/>.
 
