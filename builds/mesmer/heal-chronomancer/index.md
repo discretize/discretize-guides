@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T02:39:44.060Z "
+date: "2024-01-21T03:06:51.240Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -234,10 +234,10 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 <Divider text="Skill usage"/> 
 
-### Generating Boons
+### Generating Clones
 To play <Specialization text="Heal Boon Chronomancer" name="Chronomancer"/> you'll want to be constantly generating clones.
 
-Clone generation gets covered by a number of skill. On Scepter, the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2) will both generate one clone each. Casting <Skill name="Illusionary Counter"/> (Scepter 2) and blocking an attack will generate 2 clones. On Staff, <Skill name="Phase Retreat"/> (Staff 2) will also generate a clone, however it also will teleport you back, away from the party. 
+Clone generation gets covered by a number of skill. On Scepter, the third hit of your Scepter attack chain <Skill name="Ether Clone"/> and double casting of <Skill name="Illusionary Counter"/> (Scepter 2) will both generate one clone each. Casting <Skill name="Illusionary Counter"/> (Scepter 2) and blocking an attack will generate 2 clones. On Staff, <Skill name="Phase Retreat"/> (Staff 2) will also generate a clone, however it also will teleport you back, away from the party.  Using a healing skill will generate a clone through <Trait name="Ego Restoration"/>.
 
 Additionally, illusions summoned from <Skill name="Phantasmal Warlock"/> (Staff 3) and <Skill name="Echo of Memory"/> (Shield 4) will turn into clones after finishing their attacks. Therefore you want to be using these skills to generate illusions and clones as often as possible to try and maintain three clones and generate them as quickly as possible after using Shatter skills. 
 
@@ -289,9 +289,8 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 ### Resistance
 
 - Correct application of <Boon name="Resistance"/> requires knowledge of the encounters and which conditions can be temporarely negated by <Boon name="Resistance"/>. E.g. at some T4 fractals <Condition name="Immobile"/> can be ignored to activate multiple trigger points, as well as at encounters that bombard your group with <Condition name="Slow"/> and <Condition name="Chilled"/>.
-
-- Any Glamour skill provides <Boon name="Resistance"/> in combination with <Trait name="Temporal Enchanter"/>. Most of the time you want to pick <Skill name="Feedback"/>.                                                                       
-- <Trait name="Mental Defense"/> adds <Boon name="Resistance"/> to every cast of <Skill name="Distortion"/>, trading of precious healing potency. In power compositions this can become crucial at Arstariiv, dealing with <Condition name="Weakness"/> applied. An optimised precast can fully cover the entire first phase.                                                                                
+- Any Glamour skill shares <Boon name="Resistance"/> through <Trait name="Temporal Enchanter"/>. Most of the time <Skill name="Feedback"/> is the preffered skill to do this.
+- <Trait name="Mental Defense"/> shares <Boon name="Resistance"/> when <Skill name="Distortion"/> is used, at the cost of some healing and condition cleanse. In power compositions this can become crucial at Arstariiv, dealing with <Condition name="Weakness"/> applied. Since an optimised precast can fully cover the entire first phase.                                                                                
 
 </GridItem>
 <GridItem sm="6">
