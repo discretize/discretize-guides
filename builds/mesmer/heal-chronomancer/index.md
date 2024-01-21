@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-01-21T02:32:57.417Z "
+date: "2024-01-21T02:39:44.060Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -272,10 +272,9 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 
 ### Stability
 - Correct application of <Boon name="Stability"/> requires knowledge of the encounters and which attacks and be negated with <Boon name="Stability"/> without taking too much damage.
-
 - <Skill name="Mantra of Concentration"/> is your main tool and grants 4 stacks of <Boon name="Stability"/> after the initial channel and 3 stacks of <Boon name="Stability"/> for each of the two remaining casts. If a phase requires <Boon name="Stability"/> right at the start, it makes sense to precast the channeled version e.g. Arkk.
-
-- <Skill name="Distortion"/> grants 3 stacks of <Boon name="Stability"/> at once and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.                      
+- <Skill name="Distortion"/> share 3 stacks of <Boon name="Stability"/> through <Trait name="Bountiful Disillusionment"/> and should be used as a backup source, while at least one instance of <Skill name="Mantra of Concentration"/> is recharging.
+- Any Shatter with <Trait name="Bountiful Disillusionment"/> will grant you 1 stack of personal <Boon name="Stability"/>
 
 ### Aegis
 
@@ -285,7 +284,7 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 
 - <Skill name="Distortion"/> immediately grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>. A great emergency skill.
 
-- <Skill name="Signet of Inspiration"/> only grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>, in case that <Trait name="Blurred Inscriptions"/> is traited. Play this instead of <Skill name="Well of Precognition"/> if you want to sacrifice some healing potency for boon extension and more frequent applications of <Boon name="Aegis"/>, at a slightly increased range e.g. Ensolyss.     
+- <Skill name="Signet of Inspiration"/> (or any other Signet) grants one stack of <Boon name="Aegis"/> via <Trait name="Inspiring Distortion"/>, when <Trait name="Blurred Inscriptions"/> is traited. Play this instead of <Skill name="Well of Precognition"/>.   
 
 ### Resistance
 
