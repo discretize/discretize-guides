@@ -43,7 +43,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-03-23T21:41:49.140Z "
+date: "2024-03-23T21:42:35.729Z "
 title: Heal Boon Chronomancer
 rating: Good
 role: Support
@@ -65,7 +65,7 @@ It offers a great amount of healing through Clone related traits like <Trait nam
 
 <CharacterWithAr>
 <Character title="Regular Setup" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":27852,"Armor":2879,"Power":2389,"Precision":1639,"Toughness":1864,"Vitality":2193,"Ferocity":639,"Condition Damage":1389,"Expertise":889,"Concentration":1184,"Healing Power":1129,"Agony Resistance":150,"Condition Duration":0.5926666666666667,"Condition Duration Uncapped":0,"Boon Duration":0.9393333333333334,"Critical Chance":0.6042857142857143,"Critical Damage":1.926,"Clone Critical Chance":0.35428571428571426,"Phantasm Critical Chance":0.35428571428571426,"Phantasm Critical Damage":1.926,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Outgoing Healing":0.34446000000000004,"Effective Power":5755.540277375,"NonCrit Effective Power":3434.1875,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage Tick":160.6435,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage Tick":528.0998749999999,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":171.246825,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":178.18099999999998,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":239.13524999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":159573946.26865673,"Survivability":81125.54462056773,"Effective Healing":979.7080020000001,"Healing":979.7080020000001}},"armor":{"weight":"Light","helmAffix":"Celestial","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Celestial","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Celestial","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Celestial","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Celestial","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Celestial","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":30694,"weapon1MainType":"Rifle","weapon1MainAffix":"Celestial","weapon1MainInfusion1Id":37125,"weapon1MainInfusion2Id":37125,"weapon1MainSigil1Id":24639,"weapon1MainSigil2Id":74326,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainAffix":"Celestial","weapon2MainInfusion1Id":37125,"weapon2MainSigil1Id":24639,"weapon2OffId":30696,"weapon2OffType":"Shield","weapon2OffSigilId":74326,"weapon2OffAffix":"Celestial","weapon2OffInfusionId":37125},"backAndTrinket":{"backItemAffix":"Celestial","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Celestial","ring1Affix":"Celestial","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Celestial","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Celestial","accessory1InfusionId":37125,"accessory2Affix":"Celestial","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":10236,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,752],[1987,1978,0]],"lines":[45,23,40]}}'>
-
+ 
 Note that this build variant is optimized for 150 agony resistance (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>), with enough <Attribute name="Boon Duration"/> to maintain boons. Celestial is chosen due to it providing more than enough <Attribute name="Healing Power"/> for T4 and CM fractals, while also increasing your personal damage to make mechanics like the Aspects on Silent Surf.
 
 <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. 
@@ -331,6 +331,7 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 6. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
 7. 2x <Skill name="Signet of Inspiration"/>
 8. Take the Mistlock Singularity
+9. Adjust utility skills for the encounter
 
 
 <Video youtube="QS8guFChyBA" caption="Precast example by Drauskam"/>
@@ -345,7 +346,7 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 5. <Skill name="Tides of Time"/>
 6. Optional: <Skill name="Mimic"/> / <Skill name="Signet of Inspiration"/>
 7. take the Mistlock Singularity
-8. Adjust utility skills for the encounter.
+8. Adjust utility skills for the encounter
 
 <Video youtube="M8TDeNZY8Oo" caption="Precast example by Drauskam"/>
 
