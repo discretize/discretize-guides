@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2024-03-23T23:49:28.760Z "
+date: "2024-03-24T00:09:34.296Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -28,7 +28,7 @@ For T4s there are several other important concepts:
 3. Fast movement using leaps, blinks and teleports to perform skips for the team.
 4. <Effect name="Stealth"/> to skip trash mobs.
 
-## What and how do I play in PuGs?
+## What and how do I play in PuGs? 
 
 PuGs rarely play optimally as a group, causing people to generally deal lower damage and perform worse overall due to lack of synergy. If you are one of those that seek to improve we highly encourage you to find a static via our `#looking-for-static` channel on [Discord](https://discord.gg/NpS2gN5) or [apply to Discretize](apply). We encourage the fractal community to strive for self-improvement and help in any possible way on our Discord server or in-game.
 
@@ -65,6 +65,10 @@ One of the biggest differences is, that they don't always understand how their a
 Another difference is that PuGs often claim, that CC is solely the job of the supports. That is not true since they can only knock out **about half** of the bars. CC is a group effort involving **all** party members, **EVEN IN CONDITION COMPS!**
 
 Many PuGs like to play <Specialization name="Virtuoso"/> or <Specialization name="Scourge"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please don't be afraid to run more supportive skills such as <Skill name="Signet of Humility"/> or <Skill name="Spectral Grasp"/>! It is more worth it than the +500 DPS you gain from having a minor dps utility instead.
+
+## Prestacking
+
+## How to improve personal damage
 
 <Card title="Trouble finding groups?">
 
