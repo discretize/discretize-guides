@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2024-03-24T00:09:34.296Z "
+date: "2024-03-24T00:09:55.469Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -68,7 +68,7 @@ Many PuGs like to play <Specialization name="Virtuoso"/> or <Specialization name
 
 ## Prestacking
 
-## How to improve personal damage
+## Adjusting your gear for the encounter
 
 <Card title="Trouble finding groups?">
 
