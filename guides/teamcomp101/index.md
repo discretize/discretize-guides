@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2024-03-24T14:50:10.070Z "
+date: "2024-03-24T15:26:26.347Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -79,8 +79,6 @@ If you take <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, the
 | <Item id="24868"/> (Only 3%)                                                      | <Item id="24658"/>                                                                     | 6.8%            |
 | <Item id="91805"/> + <br/> <Item id="9443"/> + <br/> <Item id="24868"/> (Only 3%) | <Item id="43360"/> (100% Uptime) + <br/> <Item id="50082"/> + <br/> <Item id="24658"/> | 15.9%           |
 
-## Prestacking
-
 <Card title="Trouble finding groups?">
 
 <Grid>
@@ -89,7 +87,7 @@ If you take <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, the
 </GridItem>
 
 <GridItem sm="11" md="11">
-Low Standards \[LS] is a community discord server, that is operating as a second, more restricted LFG for no heal daily runs.
+Low Standards \[LS] is an EU community discord server, that is operating as a second, more restricted LFG for no heal daily runs.
 
 Thanks to different pingable roles and class-emojis, members are able to organize their run without the commitment of a static or any need of LFG waiting times.
 
