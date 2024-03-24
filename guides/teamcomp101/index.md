@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2024-03-24T00:12:16.705Z "
+date: "2024-03-24T14:50:10.070Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -66,9 +66,20 @@ Another difference is that PuGs often claim, that CC is solely the job of the su
 
 Many PuGs like to play <Specialization name="Virtuoso"/> or <Specialization name="Scourge"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please don't be afraid to run more supportive skills such as <Skill name="Signet of Humility"/> or <Skill name="Spectral Grasp"/>! It is more worth it than the +500 DPS you gain from having a minor dps utility instead.
 
-## Prestacking
-
 ## Adjusting your gear for the encounter
+When playing in PuG groups you will often find a huge disparity in damage being dealt by players (even when playing the same build). While this doesn't take into account differences in rotation, or account augmentations such as <Augmentation name="Mist Attunement 4"/>, by adjusting your build to the encounter can have a significant impact in the damage you are dealing. While you are not forced to do this, if you want to optimise your gameplay, it is a good place to start.
+
+If you take <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, the standard setup runs with <Item id="24615"/>, <Item id="24868"/>, <Item id="91805"/>, and <Item id="9443"/>. However some encounters allow you to use Slaying Sigils and Potions, or you can proc on kill food. Using the [gear optimizer](https://optimizer.discretize.eu/?s=wmPELQkev1), with these settings we can see how much of a percentage increase adjusting the build will do.
+ 
+| Standard Item(s)                                                                  | Optimised Item(s)                                                                      | Damage Increase |
+|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|
+| <Item id="91805"/>                                                                | <Item id="43360"/> (100% Uptime)                                                       | 2%              |
+| <Item id="9443"/>                                                                 | <Item id="50082"/>                                                                     | 6.2%            |
+| <Item id="91805"/> + <br/> <Item id="9443"/>                                      | <Item id="43360"/> (100% Uptime) + <br/> <Item id="50082"/>                            | 8.5%            |
+| <Item id="24868"/> (Only 3%)                                                      | <Item id="24658"/>                                                                     | 6.8%            |
+| <Item id="91805"/> + <br/> <Item id="9443"/> + <br/> <Item id="24868"/> (Only 3%) | <Item id="43360"/> (100% Uptime) + <br/> <Item id="50082"/> + <br/> <Item id="24658"/> | 15.9%           |
+
+## Prestacking
 
 <Card title="Trouble finding groups?">
 
