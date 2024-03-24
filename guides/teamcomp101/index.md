@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2024-03-24T15:33:47.054Z "
+date: "2024-03-24T15:52:19.664Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -66,7 +66,7 @@ Another difference is that PuGs often claim, that CC is solely the job of the su
 
 Many PuGs like to play <Specialization name="Virtuoso"/> or <Specialization name="Scourge"/>. That is just fine as you don't know what to expect of your fellow PuG mates and you prefer to be self-sufficient. But please don't be afraid to run more supportive skills such as <Skill name="Signet of Humility"/> or <Skill name="Spectral Grasp"/>! It is more worth it than the +500 DPS you gain from having a minor dps utility instead.
 
-## Adjusting your gear for the encounter
+### Adjusting your gear for the encounter
 When playing in PuG groups you will often find a huge disparity in damage being dealt by players (even when playing the same build). While this doesn't take into account differences in rotation, or account augmentations such as <Augmentation name="Mist Attunement 4"/>, by adjusting your build to the encounter can have a significant impact in the damage you are dealing. While you are not forced to do this, if you want to optimise your gameplay, it is a good place to start.
 
 If you take <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, the standard setup runs with <Item id="24615"/>, <Item id="24868"/>, <Item id="91805"/>, and <Item id="9443"/>. However some encounters allow you to use Slaying Sigils and Potions, or you can proc on kill food. Using the [gear optimizer](https://optimizer.discretize.eu/?s=wmPELQkev1), with these settings we can see how much of a percentage increase adjusting the build will do.
@@ -78,6 +78,11 @@ If you take <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, the
 | <Item id="91805"/> + <br/> <Item id="9443"/>                                      | <Item id="43360"/> (100% Uptime) + <br/> <Item id="50082"/>                            | 8.5%            |
 | <Item id="24868"/> (Only 3%)                                                      | <Item id="24658"/>                                                                     | 6.8%            |
 | <Item id="91805"/> + <br/> <Item id="9443"/> + <br/> <Item id="24868"/> (Only 3%) | <Item id="43360"/> (100% Uptime) + <br/> <Item id="50082"/> + <br/> <Item id="24658"/> | 15.9%           |
+
+### Prestacking Boons
+Another thing that PuGs sometimes miss is the benefits of a proper prestack. We are not talking about spending ages placing traps in the arena or on the boss spawn, or spending time precasting extra weapon skills, but simply before starting an encounter (or miniboss / mob group in T4s) spending a couple of seconds before starting a fight making sure you have 25 stacks of <Boon name="Might"/>, <Boon name="Fury"/>, <Boon name="Quickness"/> and <Boon name="Alacrity"/>. This means when starting the fight you will instantly be doing as much damage as possible, but also casting skills quicker and getting cooldowns back sooner. It also gives you a significant reserve of boons incase something goes wrong in the fight later and you miss some applications, allowing you to recover easier.
+
+A proper prestack on 100% boon duration will give your party 25 stacks of <Boon name="Might"/> for 40s, and 30s of <Boon name="Fury"/>, <Boon name="Quickness"/>, and <Boon name="Alacrity"/>. This can be achieved in around 5 seconds or sometimes less. To do this you need one player to place a fire field and for everyone to use at least one blast finisher in it. Each blast finisher provides 3 stacks of <Boon name="Might"/> with a base duration of 20s. At the same time, Your support players should share <Boon name="Quickness"/> and <Boon name="Alacrity"/> and then you can start the fight. For build specific prestack skills, check each [build page](/builds).
 
 <Card title="Trouble finding groups?">
 
