@@ -14,7 +14,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-03-25T16:20:03.024Z "
+date: "2024-03-25T16:20:58.489Z "
 cmguide: static
 conditions:
   - name: Vulnerability
@@ -320,7 +320,7 @@ During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skil
 <Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24658} weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1Id={24615} weapon2MainSigil2Id={24658} weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
 ### Skills
 <Skills healId={44948} utility1Id={12633} utility2Id={12492} utility3Id={12491} eliteId={45717}/>
-If you need to swap a skill, the same as on land applies. Swap <Skill name="Signet of the Wild"/> first then <Skill name="Frost Trap"/>.
+If you need to swap a skill, the same applies as on land: swap <Skill name="Signet of the Wild"/> first then <Skill name="Frost Trap"/>.
 
 ### Pets
 | | |
