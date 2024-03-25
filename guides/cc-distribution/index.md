@@ -1,10 +1,10 @@
 ---
 title: CC Distribution
-date: "2023-07-02T22:53:21.745Z "
+date: "2024-01-06T02:45:19.138Z "
 image: images/header.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
-
+ 
 ## Basics of Crowd Control:
 
 <Grid>
@@ -67,6 +67,7 @@ In Tier 4 fractals (T4) a break bar usually does not exceed 800 units, neverthel
 | **Artsariiv**              | Artsariiv - 2100 <br/> Split 1 Clones - 600 <br/> Split 2 Clones - 350 |
 | **Arkk**                   | 1800                                                                   |
 | **Ai, Keeper of the Peak** | Ai - 3200 <br/> Sorrows - 1500                                         |
+| **Kanaxai**                | 1200 (increases by 20.5% multiplicatively per stack of <Effect name="Dread Defiance"/> up to 10 stacks) |
 
 </Card>
 </GridItem>
@@ -77,13 +78,11 @@ In Tier 4 fractals (T4) a break bar usually does not exceed 800 units, neverthel
 
 The following CC schedules are used in dT daily runs. They are set for consistency over the fastest possible kill and will over CC some bars to ensure quick breaks. Although these schedules are set up for triple <Specialization name="Soulbeast"/>, one can easily be swapped for a different class such as <Specialization name="Weaver"/>, <Specialization name="Dragonhunter"/> or <Specialization name="Bladesworn"/> with minimal changes to the schedule, since apart from Artsariiv all of these classes can cover a <Specialization name="Soulbeast"/> CC on the phases it is required (or the <Specialization name="Renegade"/> and <Specialization name="Scrapper"/> can do extra).
 
-<Boss name="MAMA" hideRotation>
-
+## MAMA
 At 1800 MAMA has a small defiance bar, but you need to break it three times during the fight. In combination with the Knights that have defiance bars of 800, each MAMA becomes the most CC-heavy fractal boss in the game.
 
-In phase 4 the bar will rarely be full if CC has been skipped in phase 3, which means larger CC skills such as <Skill name="Surge of the Mists"/> may not be required. In slower runs it may also be beneficial to also CC MAMA in phase. If this is required the same skill suage as P1 can be followed.
+In phase 4 the bar will rarely be full if CC has been skipped in phase 3, which means larger CC skills such as <Skill name="Surge of the Mists"/> may not be required. In slower runs it may also be beneficial to also CC MAMA in phase. If this is required the same skill usage as P1 can be followed.
 
-</Boss>
 
 | **Phase**    | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/>                                                                       | <BuildLink build="Power Scrapper" specialization="Scrapper"/>                                                                                        | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                                        | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                                        | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                                        | **Total** |
 | ------------ | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | --------- |
@@ -93,32 +92,23 @@ In phase 4 the bar will rarely be full if CC has been skipped in phase 3, which 
 | **Knight 3** | **800**         | <Skill name="Shackling Wave"/> (5 hits) <br/> 50 damage                                                                             | <Skill name="Spare Capacitor"/> <br/> 200 damage                                                                                                     | <Skill id="45743"/> <br/> 200 damage                                                                   | <Skill id="45743"/> <br/> 200 damage                                                                   | <Skill id="45743"/> <br/> 200 damage                                                                   | **800**   |
 | **Phase 4**  | **1800**        | <Skill name="Surge of the Mists"/> (Optional) <br/> 750 damage <br/> <Skill name="Darkrazor's Daring"/> (Optional) <br/> 200 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="Blast Gyro" /> <br/> 300 damage <br/> <Skill name="Supply Crate" /> <br/> 232 damage | <Skill name="Path of Scars"/> <br/> 150 damage                                                         | <Skill name="Path of Scars"/> <br/> 150 damage                                                         | <Skill name="Path of Scars"/> <br/> 150 damage                                                         | **2032**  |
 
-<Boss name="Ensolyss" hideRotation>
-
+## Ensolyss
 At 2000 in the first phase, and ~2250 in the second and third phase, Ensolyss has sizable defiance bars. On phase 1 there is a narrow window that requires coordinated cc to instantly break the bar to prevent the bubble mechanic from happening. Once the stun is over, care should be taken to flank Ensolyss to prevent the slam attack allowing maximum benefit from exposed.
-
-</Boss>
 
 | **Phase**     | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/>                                                                  | <BuildLink build="Power Scrapper" specialization="Scrapper"/>                                                                                                 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                              | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                              | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                              | **Total** |
 | ------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------- |
-| **Phase 1**   | **2000**        | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit1) <br/> 100 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="Blast Gyro"/> <br/> 300 damage <br/> <Skill name="Supply Crate"/> (optional) <br/> 232 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | **2300**  |
-| **Phase 2+3** | **2250**        | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit1) <br/> 100 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="Blast Gyro"/> <br/> 300 damage                                                                | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Point Blank Shot"/> <br/> 150 damage | **2300**  |
+| **Phase 1**   | **2000**        | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit1) <br/> 100 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="Blast Gyro"/> <br/> 300 damage <br/> <Skill name="Static Shock"/> <br/> 200 damage | <Skill id="46432"/><br/> 300 damage | <Skill id="46432"/><br/> 300 damage | <Skill id="46432"/><br/> 300 damage | **2350**  |
+| **Phase 2+3** | **2250**        | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit1) <br/> 100 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="Blast Gyro"/> <br/> 300 damage <br/> <Skill name="Static Shock"/> <br/> 200 damage | <Skill id="46432"/><br/> 300 damage | <Skill id="46432"/><br/> 300 damage | <Skill id="46432"/><br/> 300 damage | **2350**  |
 
-<Boss name="Skorvald" hideRotation>
-
-At 2200, Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly.
-
-</Boss>
+## Skorvald
+At 2200, Skorvald the Shattered has one of the largest defiance bars out of all the Challenge Mode fractal bosses, meaning that the whole group needs to contribute to break it quickly. In faster groups this CC bar is not worth breaking.
 
 | **Phase**   | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/>                                                                 | <BuildLink build="Power Scrapper" specialization="Scrapper"/>                                  | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                           | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                           | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>                           | **Total** |
 | ----------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
-| **Phase 1** | **2200**        | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit) <br/> 100 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="blast gyro"/> <br/> 300 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | <Skill id="45743"/> <br/> 200 damage <br/> <Skill name="Path of Scars"/> <br/> 150 damage | **2300**  |
+| **Phase 1** | **2200**        | <Skill name="Surge of the Mists"/> (5 hits) <br/> 750 damage <br/> <Skill name="Darkrazors Daring"/> (1 hit) <br/> 100 damage | <Skill id="30713"/> (1 hit) <br/> 100 damage <br/> <Skill name="blast gyro"/> <br/> 300 damage <br/> <Skill name="Throw Mine"/> <br/> 200 damage | <Skill id="46432"/><br/> 300 damage | <Skill id="46432"/><br/> 300 damage | <Skill id="46432"/><br/> 300 damage | **2350**  |
 
-<Boss name="Artsariiv" hideRotation>
-
-Sue to doing most of the damage in phase 1 in the middle of the arena. the first CC bar can safely be skipped in no heal daily kills. On the first split, each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
-
-</Boss>
+## Artsariiv
+Due to doing most of the damage in phase 1 in the middle of the arena. the first CC bar can safely be skipped in no heal daily kills. On the first split, each Clone has a 600 defiance bar and on the second the defiance bar is 350 per clone.
 
 <Tabs>
 
@@ -143,30 +133,47 @@ Sue to doing most of the damage in phase 1 in the middle of the arena. the first
 </Tab>
 </Tabs>
 
-<Boss name="Arkk" hideRotation>
+## Arkk
 
 At 1800, Arkk has a small defiance bar that appears after the bloom pushing phase at 80%, 50%, and 30%. Once again you have the <SpecialActionKey name="hypernovalaunch"/> working in your favor, providing a 232 damage CC. **Everyone** should use this to CC if breakbars are slow on Arkk, the Archdiviner and the Gladiator.
 
 Classes such as <Specialization name="Soulbeast"/> get the <Item name="severance"/> buff by using CC after each bloom phase with either weapon skills or the <Control name="Launch"/> from <SpecialActionKey name="hypernovalaunch"/>.
 
-</Boss>
 
 | **Phase**           | **CC Required** | <BuildLink build="Power Renegade" specialization="Renegade"/>                                                              | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/> | **Total** |
 | ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | --------- |
-| **Phase 2 + 4 + 6** | **1800**        | <Skill name="Surge of the Mists"/> (9 hits) <br/> 1350 damage <br/> <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage | <Skill name="Point-Blank Shot"/> <br/> 150 damage               | <Skill name="Point-Blank Shot"/> <br/> 150 damage               | <Skill name="Point-Blank Shot"/> <br/> 150 damage               | **2264**  |
+| **Phase 2 + 4 + 6** | **1800**        | <Skill name="Surge of the Mists"/> (9 hits) <br/> 1350 damage <br/> <SpecialActionKey name="hypernovalaunch"/> <br/> 232 damage | <Skill name="Path of Scars"/> <br/> 150 damage               | <Skill name="Path of Scars"/> <br/> 150 damage               | <Skill name="Path of Scars"/> <br/> 150 damage               | **2264**  |
 
-### <Composition name="Condi Compositions" composition="Renegade,Mirage,Specter,Firebrand,Soulbeast,Harbinger" roles="Alacrity/Might/DPS,Alacrity/Might/DPS,Alacrity/Might/DPS,Quickness/CC/DPS,CC/DPS,CC/Might/DPS" size="small"/>
+### <Composition name="Condi Compositions" composition="Specter,Scrapper,Harbinger,Scourge,Holosmith,Soulbeast" roles="Alacrity/Might/DPS,Quickness/Might/DPS,Quickness/Might/DPS,DPS,DPS,DPS" size="small"/>
 
-<Boss name="LightAi" hideRotation>
-
+## Ai, Keeper of the Peak
 At 3200, Ai has the largest defiance bar in fractals. Bear in mind the following values are the minimum you will want to CC with. Due to bar regen, you typically will have to use more CC skills depending on how fast you break it. Slow CC is a massive help here. This cc schedule should be adjusted to fit your group's DPS and to break as late as possible. Due to the variations on the comp we list the skills you should aim to use on each build instead of a strict comp and total CC. 
 
 This is not a set list and you may need to use more or less skills depending on the group. In addition, this is a highly agressive comp that aims to completely ignore the 33% Sorrows. If you do not deal enough damage it is advised to adjust the comp to take a pistol on <Specialization name="Specter"/>, or bring a a <Specialization name="Renegade"/> or <Specialization name="Firebrand"/>
-
-</Boss>
 
 | **Phase**      | **CC Required** | <BuildLink build="Condi Specter" specialization="Specter"/> | <BuildLink build="Power Scrapper" specialization="Scrapper"/>                                                                                                                                 | <BuildLink build="Condi Holosmith" specialization="Holosmith"/>                                  | <BuildLink build="Hybrid Soulbeast" specialization="Soulbeast"/> | <BuildLink build="Condi Harbinger" specialization="Harbinger"/>                                  |
 |----------------|-----------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **Elemental**  | **3200**        | <Skill name="Basilisk Venom"/> (5 hits) <br/> 750 damage    | <Skill name="Blast Gyro"/> <br/> 232 damage <br/> <Skill name="Throw Mine"/> <br/> 200 damage <br/> <Skill id="30713"/> <br/> 100 damage <br/> <Skill name="Rocket Charge"/> <br/> 200 damage | <Skill name="Big Ol Bomb"/> <br/> 232 damage <br/> <Skill name="Static Shock"/> <br/> 200 damage | <Skill name="Path of Scars"/> <br/> 150 damage                  | <Skill name="Voracious Arc"/> <br/> 100 damage <br/> <Skill name="Vital Draw"/> <br/> 300 damage |
 | **Dark**       | **3200**        | <Skill name="Basilisk Venom"/> (5 hits) <br/> 750 damage    | <Skill name="Blast Gyro"/> <br/> 232 damage <br/> <Skill name="Throw Mine"/> <br/> 200 damage <br/> <Skill id="30713"/> <br/> 100 damage <br/> <Skill name="Rocket Charge"/> <br/> 200 damage | <Skill name="Big Ol Bomb"/> <br/> 232 damage <br/> <Skill name="Static Shock"/> <br/> 200 damage | <Skill name="Path of Scars"/> <br/> 150 damage                  | <Skill name="Voracious Arc"/> <br/> 100 damage <br/> <Skill name="Vital Draw"/> <br/> 300 damage |
 | **66% Sorrow** | **1500**        | <Skill name="Siphon"/>                                      | <Skill name="Supply Crate"/> <br/> 200 damage <br/> <Skill id="30713"/> <br/> 100 damage <br/> <Skill name="Freeze Grenade"/>                                                                 |                                                                                                  | <Skill name="Path of Scars"/> <br/> 150 damage                  | <Skill name="Vile Blast"/> <br/> 100 damage <br/> <Skill name="Epidemic"/>                       |
+
+## Kanaxai
+Kanaxai initially has a 1200 defiance bar. However breaking it will give the boss a stack of <Effect name="Dread Defiance"/>. Each stack increases the bars value and reduces the duration of <Effect name="Exposed"/> by 20.5% multiplicatively up to 10 stacks, leading to the following values:
+
+1st - 1200, 2nd - 1510, 3rd - 1900, 4th - 2390, 5th - 3000, 6th - 3780, 7th - 4750, 8th - 5980, 9th - 7520, 10th - 9460
+
+The defiance bar is vulnerable for 5 seconds at a time roughly every 10% hp until 50%, then every 5% (depending on DPS and other mechanics). If a bar is not broken in this time frame it doesnt regenerate. While there are no set skills to be used on each bar in dT runs we will get the following bars which we will either break or ignore:
+
+**P1;**
+1st - Break,
+2nd - Break
+
+**P2;**
+3rd - Break,
+4th - Ignore,
+5th - Break
+
+**P3;**
+6th - Ignore,
+7th - Ignore,
+8th - Break 
