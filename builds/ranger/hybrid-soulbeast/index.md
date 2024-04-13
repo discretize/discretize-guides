@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: false
 specialization: Soulbeast
 code: "[&DQQePSA/Ny55AAAApQEAAL8AAADpFgAALhYAADQlFRsAAAAAAAAAAAAAAAA=]"
@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2023-12-31T14:16:08.147Z "
+date: "2024-04-13T16:56:03.887Z "
 title: Hybrid Soulbeast
 rating: Meta
 role: Condi Damage
