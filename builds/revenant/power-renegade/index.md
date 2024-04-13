@@ -1,7 +1,14 @@
 ---
+title: Power Alac Renegade
 hidden: false
 archive: false
+rating: Meta
+role: Power Damage
+profession: Revenant
 specialization: Renegade
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -10,21 +17,14 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: static
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2023-10-22T15:53:37.058Z "
-title: Power Alac Renegade
-rating: Meta
-role: Power Damage
-profession: Revenant
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
-cmGuide: static
+date: "2024-04-13T23:18:22.785Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -187,13 +187,13 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 
 As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
-### Abilities
+### Breakdown of Ability Usage
 
 **Citadel Order Skills:**
 
-- <Skill name="Heroic Command"/> (F2) - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
-- <Skill name="Citadel Bombardment"/> (F3) - Fire 10 to 15 missiles that inflict high damage and <Condition name="Burning"/>.
-- <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
+- <Skill name="Heroic Command"/> (F2) - Gain 2x <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack. Not used as much in pugs outside of Skorvold Islands. 
+- <Skill name="Citadel Bombardment"/> (F3) - Filler skill, ideally used during Impossible Odds
+- <Skill name="Orders from Above"/> (F4) -  Most important Skill, click off cooldown to maintain 100% <Boon name="Alacrity"/> uptime. 
 
 ---
 
