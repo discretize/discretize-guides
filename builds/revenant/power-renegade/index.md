@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-13T23:18:22.785Z "
+date: "2024-04-13T23:25:43.432Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -199,13 +199,13 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 **Greatsword Skills:**
 
-- <Skill name="Mist Swing"/> - The auto-attack chain cleaves up to 5 targets and provides <Condition name="Vulnerability"/> on the second and third attacks in the chain. The third attack also applies <Condition name="Chilled"/>
-- <Skill name="Mist Unleashed"/> - High damage skill with low cooldown and energy cost, also applies <Condition name="Vulnerability"/>.
-- <Skill name="Phantom's Onslaught"/> - A movement skill that will rush you toward your target and apply <Condition name="Chilled"/>.
-- <Skill name="Imperial Guard"/> - A 2 second block. Once used, the flip skill <Skill name="True Strike"/> is useable. This will deal increased damage per attack blocked.
-- <Skill name="Eternity's Requiem"/> - High damage skill that will hit at least 5 times. Each time the skill hits a damage reduction of 10% is applied for the next hit.
+- <Skill name="Mist Swing"/> - Complete auto-attack chain whenever possible. Third attack also applies <Condition name="Chilled"/>
+- <Skill name="Mist Unleashed"/> - Use off cooldown. 
+- <Skill name="Phantom's Onslaught"/> - Used as a gap closer and filler skill.
+- <Skill name="Imperial Guard"/> - A 2 second block that can be used in place of <Boon name="Aegis"/>, increasing damage per attack blocked.
+- <Skill name="Eternity's Requiem"/> - High damage skill. Use as soon as possible when weapon swapping.
 
-**Sword Skills:**
+**Sword Skills:** MARK
 
 - <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
 - <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
