@@ -70,7 +70,7 @@ When playing in PuG groups, you will often find a considerable disparity in dama
 
 If you take <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>, the standard setup runs with <Item id="24615"/>, <Item id="24868"/>, <Item id="91805"/>, and <Item id="9443"/>. However, some encounters allow you to use slaying sigils and potions, or you can proc on-kill food. We can see how much the DPS increases by adjusting the build using the [gear optimizer with these settings](https://optimizer.discretize.eu/?s=wmPELQkev1).
  
-| Standard Item(s)                                                                  | Optimised Item(s)                                                                      | Damage Increase |
+| Standard Item(s)                                                                  | Optimized Item(s)                                                                      | Damage Increase |
 |-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------|
 | <Item id="91805"/>                                                                | <Item id="43360"/> (100% Uptime)                                                       | 2%              |
 | <Item id="9443"/>                                                                 | <Item id="50082"/>                                                                     | 6.2%            |
@@ -86,5 +86,5 @@ A proper prestack on 100% boon duration will give your party 25 stacks of <Boon 
 ## What are strong comps for organized groups?
 
 <Warning>
-It is important to note that each challenge mote encounter has a different effective composition, often distinct from the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions bring enough utility to deal with all situations occurring in fractals without needing to re-log to another character for every boss or fractal. Check out the [dT Daily Comps](/guides/daily-comp) to see these examples.
+It is important to note that each challenge mote encounter has a different effective composition, often distinct from the proposed compositions below. Discretize focuses on clearing daily fractals efficiently, and the proposed compositions bring enough utility to deal with all situations occurring in fractals without needing to re-log to another character for every boss or fractal. Check out the [dT Daily Comps](/guides/daily-comps) to see these examples.
 </Warning>
