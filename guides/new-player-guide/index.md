@@ -1,11 +1,10 @@
 ---
 title: New Player Guide
-date: "2023-08-07T16:57:53.467Z "
+date: "2024-04-13T23:36:44.749Z "
 image: images/header.jpg
 description: A beginners guide to being successful in fractals.
-author: Princeps.6481 and Mistlocked [FotM]
+author: Princeps.6481
 ---
-
 ## Introduction to fractals
 
 <Grid>
