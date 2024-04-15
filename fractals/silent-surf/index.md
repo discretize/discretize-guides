@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-06T02:05:43.797Z "
+date: "2024-04-15T18:39:41.305Z "
 title: Silent Surf
 difficulties:
   - level: 100
@@ -34,7 +34,7 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 
 ## Documentation
   
-https://discretize.pages.dev/docs/
+https://discretize.pages.dev/docs/ 
 
  
 Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors? 
@@ -92,28 +92,22 @@ There are multiple ways to progress through the "jumping puzzle" section of this
 
 <Grid>
 <GridItem sm="6">
-
 ### First Drop
 
 Interacting with the first box of leftover supplies will provide you with a <Skill name="Parachute" text="1 Parachute"/>. When you are ready jump into the hole and use <Skill name="Parachute"/> (skill 2) to safely land at the bottom, triggering the first checkpoint.
 
-</GridItem>
-<GridItem sm="6">
-<GifPlayer/>
-</GridItem>
-
-<GridItem sm="6">
-<GifPlayer/>
-</GridItem>
-<GridItem sm="6">
 ### Zipline
 
 At the bottom you will find a second box giving you <Skill name="Grappling Hook" text="1 Grappling Hook"/> amd <Skill name="Parachute" text="1 Parachute"/>. Use the <Skill name="Grappling Hook"/> (skill 1) to grapple to the platform in front of you and take the zipline to the platform below. Take the next zipline, which will dismount you at the end and send you falling towards the ground. Use <Skill name="Parachute"/> (skill 2) to break your fall. 
 
 When ready stand in the white circle (you need at least two playsers in this circle for the fractal to continue). With enough players in the circle, a short event will spawn requiring you to fend off an attack from some bats and spiders. Fending off the attack will trigger the second checkpoint and Thess will open a portal that can be used to travel back through the fractal.
-
 </GridItem>
-
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-jp1" />
+</GridItem>
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-jp2" />
+</GridItem>
 <GridItem sm="6">
 ### Bouncing Mushrooms
 
@@ -122,14 +116,6 @@ The third box of leftover supplies will give you <Skill name="Grappling Hook" te
 Jump down onto the mushrooms (as long as you hit them you will not take fall damage) and as you get flung into the air use <Skill name="Grappling Hook"/> (skill 1) on the  large Stalactite in the center of the cavern. If required, you can then use <Skill name="Black Powder Charge"/> (skill 3) to boost yourself forward to land on the ground infront of you. Use the Wind Cannon to get boosted up to the next platform.
 
 Like the last section, you need at least two players to stand in the white circle on the platform to progress the fractal. This starts the event clear out the Naga raiders. Once dealt with the third checkpoint will trigger and Thess will open up another portal.
-
-</GridItem>
-<GridItem sm="6">
-<GifPlayer/>
-</GridItem>
-
-<GridItem sm="6">
-<GifPlayer/>
 </GridItem>
 <GridItem sm="6">
 ### Wind Cannons
@@ -138,8 +124,10 @@ On the platform is another box of leftover supplies. This box gives you <Skill n
 
 In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have available. These bouncing mushrooms will send you into another Wind Cannon, onto a zipline, which will again dismount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
 
-Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted First Mate Dolus. 
-
+Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted
+</GridItem>
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-jp3" />
 </GridItem>
 </Grid>
 
@@ -152,10 +140,10 @@ Dolus will now be targetable and start casting Frightening Speed (the numbers at
 Once you have finished the fight, take the _Mistlock Singularity_ to reset your cooldowns, interact with the box of leftover supplies which will give you <Skill name="Parachute" text="1 Parachute"/> and jump off the edge to find the final boss platform. If you need to go back through the fractal for any reason, before jumping feel fee to take the portal which will take you back to previous checkpoints.
 <Grid>
 <GridItem sm="6">
-<GifPlayer caption="Dread Visage mechanic"/>
+<GifPlayer sourceId="silent-surf-dolusswipe" />
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-dolusnumbers" />
 </GridItem>
 </Grid>
 
@@ -287,7 +275,7 @@ Also known as the boonstrip attack. The Aspects surrounding the platform will ta
 _Note: This attack cannot be mitigated in any way. The only way to avoid this attack is to leave the AoE before the projectile hits. Dodging, <Boon name="Aegis"/>, or skills that apply <Effect name="Invulnerability"/> will not block the attack!_
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-boonstrip" />
 </GridItem>
 </Grid>
 </Tab>
