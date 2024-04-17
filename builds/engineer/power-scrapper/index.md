@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-17T22:34:25.111Z "
+date: "2024-04-17T22:35:04.854Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -189,20 +189,6 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <Grid>
 <GridItem sm="6">
 
-### Skill Precasts
-#### Basic Precast
-1.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
-2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-
-#### Advanced Precast
-
-1.  <Skill name="Blast Gyro"/> (Utility)
-2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
-3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
-4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-5.  <Skill name="Elite Mortar Kit"/> (Elite Utility) to proc <Item name="Relic of Cerus"/>
-6.  _Swap to in-fight template_
-
 ### Burst Rotation
 
 1.  <Skill name="Blast Gyro"/> (Utility)
@@ -218,6 +204,20 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 **Notes:**
 - Try to stow or interrupt <Skill name="Overbearing Smash"/> after the first hit.
 - If you do not precast <Skill name="Barrage"/> or use <Skill id="46432"/> for CC, you will want to use <Skill name="Worldly Impact"/> after the first hit of <Skill id="63075"/> to proc <Item id="100947"/>.
+
+### Skill Precasts
+#### Basic Precast
+1.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
+2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
+
+#### Advanced Precast
+
+1.  <Skill name="Blast Gyro"/> (Utility)
+2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
+3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
+4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
+5.  <Skill name="Elite Mortar Kit"/> (Elite Utility) to proc <Item name="Relic of Cerus"/>
+6.  _Swap to in-fight template_
 
 </GridItem>
 
