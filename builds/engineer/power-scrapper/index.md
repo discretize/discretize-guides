@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-17T22:35:04.854Z "
+date: "2024-04-17T22:35:22.548Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -209,6 +209,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 #### Basic Precast
 1.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
 2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
+3.   _Swap to in-fight template_
 
 #### Advanced Precast
 
