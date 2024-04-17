@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-17T22:35:22.548Z "
+date: "2024-04-17T22:37:04.761Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -217,7 +217,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
 3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
 4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-5.  <Skill name="Elite Mortar Kit"/> (Elite Utility) to proc <Item name="Relic of Cerus"/>
+5.  <Skill name="Elite Mortar Kit"/> (Elite) to proc <Item name="Relic of Cerus"/>
 6.  _Swap to in-fight template_
 
 </GridItem>
@@ -229,7 +229,7 @@ If you have a _Mistlock Singularity_ present you can:
 
 1.  Preplace a <Skill name="Healing Turret"/>, so <Skill name="Detonate Healing Turret"/> is ready to cast
 2.  <Skill name="Blast Gyro"/> (Utility), for a fire field for <Boon name="Might"/> and <Boon name="Quickness"/>
-3.  <Skill name="Detonate Healing Turret"/> (Heal Utility)
+3.  <Skill name="Detonate Healing Turret"/> (Heal Skill)
 4.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
 5.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
 6.  _Mistlock Singularity_
