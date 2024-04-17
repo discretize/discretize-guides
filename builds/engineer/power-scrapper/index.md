@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-17T19:52:41.667Z "
+date: "2024-04-17T22:34:25.111Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -25,8 +25,7 @@ conditions:
   - name: Vulnerability
 cmGuide: static
 ---
- 
-The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
+ The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
 It offers:
 
 - High initial burst and strong sustained damage
@@ -96,9 +95,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Shredder Gyro" size="big" disableText/>        | An higher damage alternative for <Skill name="Blast Gyro"/>, if might is not required. Also gives access to the toolbelt skill <Skill name="Spare Capacitor"/>. |
 | <Skill name="Healing Turret" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
-| <Skill name="AED" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
-| <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
-| <Skill name="Medic Gyro" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
+| <Skill name="AED" size="big" disableText/>        | Your default heal skill providing you can maintain <Boon name="Quickness"/> without needing an extra blast. Brings CC with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
+| <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill in scenarios with high damage pressure. Grants access to a blast finisher with <Skill name="Infusion Bomb"/>, and condi cleanse with <Skill name="Cleansing Field"/>. |
+| <Skill name="Medic Gyro" size="big" disableText/>        | Useful for applying <Effect name="Superspeed"/> when running around in T4 fractals. |
 | <Skill name="Sneak Gyro" size="big" disableText/>       | Used to provide <Effect name="Stealth"/>, especially useful in T4s for skipping large groups of mobs.                                                                                                                             |
 | <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
 | <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put condition on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
@@ -113,10 +112,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Divider text="Gameplay"/>
 
-<Specialization name="Soulbeast" text="Power Soulbeast"/> focuses on fitting damage into the 10 second burst window of <Skill name="Sic Em"/>. Besides that it tries to ensure high uptime on several modifiers:
-- <Trait name="Twice as Vicious"/> is gained for 10 seconds after using any hard CC skill. See the defiance bar damage table above.
+<Specialization name="Scrapper" text="Power Scrapper"/> Has a priority based rotation, that . Besides that it tries to ensure high uptime on several modifiers to increase its damage:
 - <Item name="Relic of Fireworks"/> is gained for 6 seconds after hitting a weapon skill with 20+ seconds cooldown. See the list below.
-- <Trait name="Loud Whistle"/> is active while you are above 90% health.
+- <Trait name="Object in Motion"/> is gained for 10 seconds after using any hard CC skill. See the defiance bar damage table above.
+- <Trait name="Modified Ammunition"/> is active while you are above 90% health.
+- <Trait name="Explosive Temper"/> is active while you are above 90% health.
 
 You want to **always** be in <Skill name="Beastmode"/> when dealing damage. A lot of attributes and modifiers are tied to it. Besides manually using <Skill name="Leave Beastmode"/>, you will get kicked out of <Skill name="Beastmode"/> when your [Rigorous Certainty](https://wiki.guildwars2.com/wiki/Rigorous_Certainty) (cheat death) granted by a *Mistlock Singularity* activates.
 
@@ -130,23 +130,37 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 ### High Priority Damage Skills
 | Skill | Efficiency |
 | --- | ---: |
-| <Skill name="One Wolf Pack"/> | &ge; 290% |
-| <Skill name="Frost Trap"/> | &ge; 203% |
-| <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4) | &ge; 200% |
-| <Skill name="Path of Scars"/> (Axe 4) | 193% |
-| <Skill name="Unleashed Wild Swing"/> (Hammer 2) | &ge; 156% |
-| <Skill id="41406"/> (Pig F1) | 153% |
-| <Skill name="Splitblade"/> (Axe 2) | 147% |
-| <Skill name="Winters Bite"/> (Axe 3) | 122% |
-| <Skill name="Barrage"/> (Longbow 5) | &ge; 118% |
-| <Skill name="Worldly Impact"/> (F3) | 108% |
-| <Skill name="Serpents Strike"/> (Sword 3) | 106% |
-| <Skill id="43548"/> (Moa F2) | 102% |
-| <Skill name="Pounce"/> (Sword 2) | 101% |
-| <Skill name="Whirling Defense"/> (Axe 5) | &asymp; 100% |
+| <Skill id="30713"/> (Hammer 5) | 359% |
+| <Skill name="Shredder Gyro"/> (Utility) | 292% |
+| <Skill name="Blast Gyro"/> (Utility) | 276% |
+| <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt) | 266% |
+| <Skill name="Throw Mine"/> (Utility) | 263% |
+| <Skill name="Electro Whirl"/> (Hammer 2) | 222% |
+| <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt) | 211% |
+| <Skill name="Big Ol' Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt) | 208% |
+| <Skill name="Function Gyro"/> (Toolbelt) | 179% |
+| <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2) | 117% |
+| <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt) | 101% |
+| <Skill name="Rocket Charge"/> (Hammer 3) | 94% |
+| <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5) | 93% |
+| <Skill name="Poison Gas Shell"/> (<Skill name="Elite Mortar Kit"/>) <br/> <Skill name="Endothermic Shell"/> (<Skill name="Elite Mortar Kit"/>) <br/> <Skill name="Flash Shell"/> (<Skill name="Elite Mortar Kit"/>) | 75% |
 
 </GridItem>
 <GridItem>
+
+#### Combo field Skills
+- *Weapon Swap*
+- <Skill id="46432"/> (Pig F2)
+- <Skill name="Worldly Impact"/> (F3)
+- <Skill name="Point Blank Shot"/> (Longbow 4)
+- <Skill name="Serpents Strike"/> (Sword 3)
+- <Skill name="Hilt Bash"/> (Greatsword 5)
+
+#### Blast and Leap Finishers
+- <Skill name="Unleashed Wild Swing"/> (Hammer 2)
+- <Skill name="Whirling Defense"/> (Axe 5)
+- <Skill name="Hunters Call"/> (Warhorn 4)
+- <Skill name="Frost Trap"/>
 
 #### Relic of Fireworks Skills
 - <Skill id="46432"/> (Pig F2)
@@ -158,27 +172,6 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 - <Skill name="Wild Strikes"/> (Mace 5)
 - <Skill name="Hilt Bash"/> (Greatsword 5)
 - <Skill name="Call of the Wild"/> (Warhorn 5)
-
-#### Interrupting Skills
-- *Weapon Swap*
-- <Skill id="46432"/> (Pig F2)
-- <Skill name="Worldly Impact"/> (F3)
-- <Skill name="Point Blank Shot"/> (Longbow 4)
-- <Skill name="Serpents Strike"/> (Sword 3)
-- <Skill name="Hilt Bash"/> (Greatsword 5)
-
-#### Skills with Interruptible Aftercast
-- <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-- <Skill name="Whirling Defense"/> (Axe 5)
-- <Skill name="Hunters Call"/> (Warhorn 4)
-- <Skill name="Frost Trap"/>
-
-#### Channeled Skills
-- <Skill name="Whirling Defense"/> (Axe 5) interrupted by everything
-- <Skill name="Barrage"/> (Longbow 5) interrupted by everything
-- <Skill id="43548"/> (Moa F2)
-- <Skill name="Rapid Fire"/> (Longbow 2)
-- <Skill name="Wild Strikes"/> (Mace 5)
 
 </GridItem>
 </Grid>
@@ -196,73 +189,59 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <Grid>
 <GridItem sm="6">
 
-### Hammer Opener
+### Skill Precasts
+#### Basic Precast
+1.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
+2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
 
-1.  <Skill name="Barrage"/> (Longbow 5)
-2.  _Swap to Hammer_
-3.  <Skill name="Frost Trap"/>
-4.  <Skill id="63075"/> (Hammer 3), then stow or cancel
-5.  <Skill name="Sicem"/> during the cast of <Skill id="63075"/>
-6.  <Skill id="63131"/> (Hammer 4)
-7.  <Skill id="63335"/> (Hammer 2)
-8.  _Weapon Swap_
-9.  _Continue with Axe or Sword burst_
+#### Advanced Precast
+
+1.  <Skill name="Blast Gyro"/> (Utility)
+2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
+3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
+4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
+5.  <Skill name="Elite Mortar Kit"/> (Elite Utility) to proc <Item name="Relic of Cerus"/>
+6.  _Swap to in-fight template_
+
+### Burst Rotation
+
+1.  <Skill name="Blast Gyro"/> (Utility)
+2.  <Skill id="30713"/> (Hammer 5)
+3.  <Skill name="Throw Mine"/> (Utility)
+4.  <Skill name="Electro Whirl"/> (Hammer 2)
+5.  <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2)
+6.  <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt)
+7.  <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt)
+8.  <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5)
+9.  <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4)
 
 **Notes:**
 - Try to stow or interrupt <Skill name="Overbearing Smash"/> after the first hit.
 - If you do not precast <Skill name="Barrage"/> or use <Skill id="46432"/> for CC, you will want to use <Skill name="Worldly Impact"/> after the first hit of <Skill id="63075"/> to proc <Item id="100947"/>.
 
-### Longbow Opener
-1.  <Skill name="Barrage"/> (Longbow 5)
-2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
-3.  <Skill name="Frost Trap"/>
-4.  <Skill name="Point Blank Shot"/> (Longbow 4)
-8.  _Weapon Swap_
-9.  _Continue with Axe or Sword burst_
-
-### Axe Burst
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Splitblade"/> (Axe 2)
-3. <Skill name="Winters Bite"/> (Axe 3)
-4. <Skill name="Worldly Impact"/> (Axe 5)
-5. <Skill name="Whirling Defense"/> (Axe 5)
-6. <Skill name="Splitblade"/> (Axe 2)
-
-### Sword Burst
-1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Pounce"/> (Sword 2)
-3. <Skill name="Serpents Strike"/> (Sword 3)
-4. <Skill name="Worldly Impact"/> (Axe 5)
-5. <Skill name="Whirling Defense"/> (Axe 5)
-6. <Skill name="Pounce"/> (Sword 2)
-
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Precasting">
+<Card title="Prestacking Boons">
 
 If you have a _Mistlock Singularity_ present you can:
 
-1.  Preplace <Skill name="Frost Trap"/> if you can place traps before spawning the boss
-2.  <Skill name="Bonfire"/> if no fire field is present
-3.  <Skill name="Moa Stance"/> when playing <Trait name="Leader of the Pack"/>
-4.  <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>
-5.  <Skill name="We Heal As One"/> to extend your boons
-6.  <Skill name="One Wolf Pack"/> then take the _Mistlock Singularity_ and engage the boss
+1.  Preplace a <Skill name="Healing Turret"/>, so <Skill name="Detonate Healing Turret"/> is ready to cast
+2.  <Skill name="Blast Gyro"/> (Utility), for a fire field for <Boon name="Might"/> and <Boon name="Quickness"/>
+3.  <Skill name="Detonate Healing Turret"/> (Heal Utility)
+4.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
+5.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
+6.  _Mistlock Singularity_
+7.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
+8.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
+9.  _Swap to precast or in fight templates_
 
 If you do not have _Mistlock Singularity_ present:
 
-1.  <Skill name="Bonfire"/> if no fire field is present
-2.  <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>
-3.  <Skill name="We Heal As One"/> to extend your boons
-
+1.  <Skill name="Essence of Liquid Wrath"/> if no fire field is present
+2.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
+3.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
 
 </Card>
-### Fractal Openers
-<Video youtube="" caption=""/>
-
-### Golem Rotation
-<Video youtube="DxX-e_ZCdFs" caption="Golem Benchmark by vpo"/>
-
 </GridItem>
 </Grid>
