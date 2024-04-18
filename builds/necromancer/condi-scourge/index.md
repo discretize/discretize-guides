@@ -93,15 +93,6 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Charge" profession="necromancer"t/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
 | <Skill name="Spectral Grasp"/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
 
-### Golem Rotation
-
-<Video youtube="mI7ky1a2-eQ" caption="by Incera"/>
-
-
-
-</GridItem>
-
-<GridItem sm="5">
 ### Situational Skills
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
