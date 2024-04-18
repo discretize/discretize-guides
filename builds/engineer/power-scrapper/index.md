@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-18T21:39:17.007Z "
+date: "2024-04-18T22:00:04.976Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -131,55 +131,59 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 | Skill | Efficiency |
 | --- | ---: |
 | <Skill id="30713"/> (Hammer 5) | 359% |
-| <Skill name="Shredder Gyro"/> (Utility) | 292% |
-| <Skill name="Blast Gyro"/> (Utility) | 276% |
-| <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt) | 266% |
-| <Skill name="Throw Mine"/> (Utility) | 263% |
+| <Skill name="Shredder Gyro"/> (Utility Skill) | 292% |
+| <Skill name="Blast Gyro"/> (Utility Skill) | 276% |
+| <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt Skill) | 266% |
+| <Skill name="Throw Mine"/> (Utility Skill) | 263% |
 | <Skill name="Electro Whirl"/> (Hammer 2) | 222% |
-| <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt) | 211% |
-| <Skill name="Big Ol' Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt) | 208% |
-| <Skill name="Function Gyro"/> (Toolbelt) | 179% |
-| <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2) | 117% |
-| <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt) | 101% |
+| <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt Skill) | 211% |
+| <Skill name="Big Ol' Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt Skill) | 208% |
+| <Skill name="Function Gyro"/> (Toolbelt Skill) | 179% |
+| <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill) | 117% |
+| <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt Skill) | 101% |
 | <Skill name="Rocket Charge"/> (Hammer 3) | 94% |
-| <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5) | 93% |
-| <Skill name="Poison Gas Shell"/> (<Skill name="Elite Mortar Kit"/>) <br/> <Skill name="Endothermic Shell"/> (<Skill name="Elite Mortar Kit"/>) <br/> <Skill name="Flash Shell"/> (<Skill name="Elite Mortar Kit"/>) | 75% |
+| <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4, Utility Skill) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5, Utility Skill) | 93% |
+| <Skill name="Poison Gas Shell"/> (<Skill name="Elite Mortar Kit"/>, Elite SKill) <br/> <Skill name="Endothermic Shell"/> (<Skill name="Elite Mortar Kit"/>, Elite SKill) <br/> <Skill name="Flash Shell"/> (<Skill name="Elite Mortar Kit"/>, Elite SKill) | 75% |
 
 </GridItem>
 <GridItem>
 
 #### Combo field Skills
-- *Weapon Swap*
-- <Skill id="46432"/> (Pig F2)
-- <Skill name="Worldly Impact"/> (F3)
-- <Skill name="Point Blank Shot"/> (Longbow 4)
-- <Skill name="Serpents Strike"/> (Sword 3)
-- <Skill name="Hilt Bash"/> (Greatsword 5)
+- <Skill name="Function Gyro"/> (Toolbelt)
+- <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt)
+- <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt)
+- <Skill name="Regenerating Mist"/> (<Skill name="Healing Turret"/> Toolbelt)
+- <Skill id="30713"/> (Hammer 5)
+- <Skill name="Medic Gyro"/> (Heal Skill)
+- <Skill name="Blast Gyro"/> (Utility Skill)
+- <Skill name="Sneak Gyro"/> (Elite Skill)
+- <Skill name="Poison Gas Shell"/> (<Skill name="Elite Mortar Kit"/>) 
+- <Skill name="Endothermic Shell"/> (<Skill name="Elite Mortar Kit"/>)
+- <Skill name="Flash Shell"/> (<Skill name="Elite Mortar Kit"/>)
 
 #### Blast and Leap Finishers
-- <Skill name="Unleashed Wild Swing"/> (Hammer 2)
-- <Skill name="Whirling Defense"/> (Axe 5)
-- <Skill name="Hunters Call"/> (Warhorn 4)
-- <Skill name="Frost Trap"/>
+- <Skill name="Detonate Healing Turret"/> (Heal Skill)
+- <Skill name="Infusion Bomb"/> (<Skill name="Med Kit"/> 5, Heal Skill)
+- <Skill name="Blast Gyro"/> (Utility Skill)
+- <Skill name="Throw Mine"/> (Utility Skill)
+- <Skill name="Rocket Charge"/> (Hammer 3)
+- <Skill name="Essence of Animated Sand"/> (Shortbow 2)
+- <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
+- <Trait name="Aim Assisted Rocket"/> (Trait)
 
 #### Relic of Fireworks Skills
-- <Skill id="46432"/> (Pig F2)
-- <Skill id="43548"/> (Moa F2)
-- <Skill name="Worldly Impact"/> (F3)
-- <Skill id="63330"/>/<Skill name="Unleashed Thump"/> (Hammer 5)
-- <Skill name="Whirling Defense"/> (Axe 5)
-- <Skill name="Barrage"/> (Longbow 5)
-- <Skill name="Wild Strikes"/> (Mace 5)
-- <Skill name="Hilt Bash"/> (Greatsword 5)
-- <Skill name="Call of the Wild"/> (Warhorn 5)
+- <Skill id="30713"/> (Hammer 5)
+- <Skill name="Shredder Gyro"/> (Utility Skill)
+- <Skill name="Function Gyro"/> (Toolbelt Skill)
+- <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt Skill)
+- <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt Skill)
 
 </GridItem>
 </Grid>
 
 
 #### Extra Notes
-- <Trait name="Essence of Speed"/> in combination with <Trait name="Live Fast"/> means that using <Skill name="Worldly Impact"/> extends your boons. The healing skill <Skill name="We Heal As One"/> allows you to gain a copy of each boon on yourself while in <Skill name="Beastmode"/>. Both of these can help maintain boons on yourself.
-- <Skill name="Quickening Zephyr"/> and <Skill name="Signet of the hunt"/> in combination with the <Item id="85244"/> allows you to move extremely fast and is useful for a few skips. Check the [Fractal Guides](/fractals) for specific skips. Superspeed will also override the speed decrease when carrying treasure in [Siren's Reef](/fractals/sirens-reef).
+- 
 
 <Divider text="Rotation / Skill Usage"/>
 <Warning>
@@ -201,9 +205,8 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 8.  <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5)
 9.  <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4)
 
-**Notes:**
-- Try to stow or interrupt <Skill name="Overbearing Smash"/> after the first hit.
-- If you do not precast <Skill name="Barrage"/> or use <Skill id="46432"/> for CC, you will want to use <Skill name="Worldly Impact"/> after the first hit of <Skill id="63075"/> to proc <Item id="100947"/>.
+#### Notes:
+- 
 
 ### Skill Precasts
 Skill precasts can be done on fights that you start out of combat. They are optional to do, however by succesfully hitting precast skills, you can massively increase your burst damage at the start of the fight. When <Specialization name="Engineer"/> casts a toolbelt skill, it can be swapped out without the new skill being on cooldown. Additionally, <Skill name="Throw Mine"/> and <Skill name="Minefield"/> can both be precasted before starting a fight, similar to trap skills on <Specialization name="Soulbeast"/> or <Specialization name="Dragonhunter"/>.
