@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-18T22:00:04.976Z "
+date: "2024-04-18T22:00:58.764Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -148,7 +148,7 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 </GridItem>
 <GridItem>
 
-#### Combo field Skills
+#### Combo fields
 - <Skill name="Function Gyro"/> (Toolbelt)
 - <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt)
 - <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt)
