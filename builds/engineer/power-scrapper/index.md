@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-17T22:37:04.761Z "
+date: "2024-04-18T21:39:17.007Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -112,11 +112,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 <Divider text="Gameplay"/>
 
-<Specialization name="Scrapper" text="Power Scrapper"/> Has a priority based rotation, that . Besides that it tries to ensure high uptime on several modifiers to increase its damage:
+<Specialization name="Scrapper" text="Power Scrapper"/> Has a priority based rotation, that is fairly fast paced. It also tries to ensure high uptime on several modifiers to increase its damage:
 - <Item name="Relic of Fireworks"/> is gained for 6 seconds after hitting a weapon skill with 20+ seconds cooldown. See the list below.
-- <Trait name="Object in Motion"/> is gained for 10 seconds after using any hard CC skill. See the defiance bar damage table above.
-- <Trait name="Modified Ammunition"/> is active while you are above 90% health.
-- <Trait name="Explosive Temper"/> is active while you are above 90% health.
+- <Trait name="Object in Motion"/> is active while you have <Boon name="Swiftness"/>, <Boon name="Stability"/>, and <Effect name="Superspeed"/>. For each boon you have you will get a 5% multiplicative damage modifier.
+- <Trait name="Modified Ammunition"/> Grants a 2% multiplicative damage modifer per condition on your foe. <Skill name="Grenade Kit"/> and <Skill name="Elite Mortar Kit"/> can be used to help with this, especially when precasting <Skill name="Elite Mortar Kit"/> in to a burst phase.
+- <Trait name="Explosive Temper"/> gives a stacking <Attribute name="Ferocity"/> bonus up to 10 stacks when explosions hit your foe. 
 
 You want to **always** be in <Skill name="Beastmode"/> when dealing damage. A lot of attributes and modifiers are tied to it. Besides manually using <Skill name="Leave Beastmode"/>, you will get kicked out of <Skill name="Beastmode"/> when your [Rigorous Certainty](https://wiki.guildwars2.com/wiki/Rigorous_Certainty) (cheat death) granted by a *Mistlock Singularity* activates.
 
@@ -206,12 +206,16 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 - If you do not precast <Skill name="Barrage"/> or use <Skill id="46432"/> for CC, you will want to use <Skill name="Worldly Impact"/> after the first hit of <Skill id="63075"/> to proc <Item id="100947"/>.
 
 ### Skill Precasts
+Skill precasts can be done on fights that you start out of combat. They are optional to do, however by succesfully hitting precast skills, you can massively increase your burst damage at the start of the fight. When <Specialization name="Engineer"/> casts a toolbelt skill, it can be swapped out without the new skill being on cooldown. Additionally, <Skill name="Throw Mine"/> and <Skill name="Minefield"/> can both be precasted before starting a fight, similar to trap skills on <Specialization name="Soulbeast"/> or <Specialization name="Dragonhunter"/>.
 #### Basic Precast
+This precast requires two build templates. A build template with precast skills, and one with your in fight skills. Having a countdown in voice when triggering bosses, or triggering them yourself will make this easier to do.
+
 1.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
 2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
 3.   _Swap to in-fight template_
 
 #### Advanced Precast
+This precast is only an option in organised groups. To be effective, you need to be able to cast these skills and pull the boss quickly to benefit, having someone count down in voice when triggering the boss is a good idea to make this consistent. It requires three equipment templates and two build templates! You will need an equipment template with <Item name="Relic of the Brawler"/>, another with <Item name="Relic of Cerus"/>, and finally your in fight template, as well as a build template with precast skills, and one with your in fight skills.
 
 1.  <Skill name="Blast Gyro"/> (Utility)
 2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
