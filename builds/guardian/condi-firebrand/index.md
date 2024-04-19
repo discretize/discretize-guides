@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: true
 specialization: Firebrand
 skills: []
@@ -27,7 +27,7 @@ classification:
   - 5
   - 2
   - 3
-date: "2023-10-13T22:15:23.915Z "
+date: "2024-04-19T14:49:01.325Z "
 title: Condi (Quick) Firebrand
 rating: Meta
 role: Condi Damage
