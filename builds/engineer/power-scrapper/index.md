@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-19T12:14:39.551Z "
+date: "2024-04-19T12:19:45.924Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -120,7 +120,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritise above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the prioirty list below for filler skills. Additionally, make sure to try to maintain the uptime of the traits and Relic listed above to increase your damage as much as possible.
 
-When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon name="Quickness"/> is generated through the trait <Trait name="Kinetic Accelerators"/>. Every time you perform a blast or leap finisher, you will share <Boon name="Quickness"/> to allies. Using the build at the top of the page, each finisher will share 4 seconds of <Boon name="Quickness"/>.
+When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon name="Quickness"/> is generated through the trait <Trait name="Kinetic Accelerators"/>. Every time you perform a blast or leap finisher, you will share <Boon name="Quickness"/> to allies. Using the build at the top of the page, each finisher will share 4 seconds of <Boon name="Quickness"/>. Depending on the group and phase lengths, you may have to adjust your skills and rotation, to focus more on sharing <Boon name="Quickness"/>, and other times it may be enough to do a proper prestack, and just do the burst rotation. Also make sure you are ready to share quickness shortly before boss phases starts on CM fights, especially after periods of downtime, where other builds may want to precast some skills into the start of the phase.
 
 <Grid>
 <GridItem>
@@ -179,10 +179,6 @@ When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon 
 </GridItem>
 </Grid>
 
-
-#### Extra Notes
-- 
-
 <Divider text="Rotation / Skill Usage"/>
 <Warning>
 
@@ -202,9 +198,6 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 7.  <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt)
 8.  <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5)
 9.  <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4)
-
-#### Notes:
-- 
 
 ### Skill Precasts
 Skill precasts can be done on fights that you start out of combat. They are optional to do, however by succesfully hitting precast skills, you can massively increase your burst damage at the start of the fight. When <Specialization name="Engineer"/> casts a toolbelt skill, it can be swapped out without the new skill being on cooldown. Additionally, <Skill name="Throw Mine"/> and <Skill name="Minefield"/> can both be precasted before starting a fight, similar to trap skills on <Specialization name="Soulbeast"/> or <Specialization name="Dragonhunter"/>.
