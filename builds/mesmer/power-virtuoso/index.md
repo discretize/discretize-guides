@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-04-19T16:24:12.497Z "
+date: "2024-04-19T16:24:39.865Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -204,7 +204,7 @@ They do however benefit from <Effect name="Exposed"/>.
 
 <Beginner>
 
-### Step by Step Begginer Rotation
+### Step by Step Beginner Rotation
 
 **Step 1: Opener**
 
