@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: true
 specialization: Weaver
 code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2024-01-05T01:27:23.372Z "
+date: "2024-04-19T14:57:21.071Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
     uptime: 10 stacks
 cmGuide: pug
 ---
- 
+
 <Advanced> 
 The <Specialization name="Weaver" text="Power Weaver"/> is currently a strong DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
