@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 specialization: Bladesworn
 skills: null
 traits: null
@@ -18,7 +18,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-12-18T10:45:45.169Z "
+date: "2024-04-19T14:49:18.934Z "
 title: Power Bladesworn
 rating: Good
 role: Power Damage
