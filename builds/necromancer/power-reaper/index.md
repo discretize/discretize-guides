@@ -11,7 +11,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-22T16:28:04.163Z "
+date: "2024-04-19T15:20:55.215Z "
 title: Power Reaper
 role: Power Damage
 profession: Necromancer
@@ -40,11 +40,9 @@ It benefits from slaying potions such as <Item id="50082"/> and <Item name="Impa
 <Divider text="Equipment" />   
 
 <CharacterWithAr>
-<Character title="" gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":23812,"Armor":2192,"Power":3762,"Precision":2010,"Toughness":1225,"Vitality":1533,"Ferocity":1331,"Condition Damage":500,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.000952380952381,"Critical Damage":2.3873333333333333,"Power Coefficient":1658,"Power2 Coefficient":2696,"Burning Coefficient":0,"Bleeding Coefficient":0.31,"Poison Coefficient":2.1,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Alternative Power":3762,"Alternative Critical Chance":1.000952380952381,"Alternative Critical Damage":2.5873333333333335,"Effective Power":22338.865552575004,"NonCrit Effective Power":9357.246112500003,"Power DPS":14261.778623861901,"Alternative Effective Power":27841.861991336253,"Power2 DPS":28903.21907148346,"Siphon DPS":153.72500000000002,"Bleeding Damage Tick":81.25,"Bleeding Stacks":0.31,"Bleeding DPS":25.1875,"Burning Damage Tick":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":87.946875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":99.21875,"Poison Stacks":2.1,"Poison DPS":208.359375,"Torment Damage Tick":120,"Torment Stacks":0,"Torment DPS":0,"Damage":43552.26957034536,"Effective Health":103872445.77114429,"Survivability":52807.54741796863,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24618,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37132,"weapon1MainInfusion2Id":37132,"weapon1MainSigil2Id":24615,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24618,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37132,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24868,"weapon2OffAffix":"Berserker","weapon2OffInfusionId":37132},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":10547,"utility1Id":10546,"utility2Id":10607,"utility3Id":29414,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
+<Character title="Power Reaper" gear='{"attributes":{"profession":"Necromancer","specialization":"Reaper","data":{"Health":24432,"Armor":2240,"Power":3622,"Precision":2155,"Toughness":1225,"Vitality":1522,"Ferocity":1331,"Condition Damage":500,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Condition Duration Uncapped":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.3873333333333333,"Power Coefficient":4403,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0.74,"Poison Coefficient":1.12,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Alternative Ferocity":300,"Effective Power":24721.34722131527,"NonCrit Effective Power":10355.213859808127,"Power DPS":41913.011865787885,"Power2 DPS":0,"Siphon DPS":153.72500000000002,"Bleeding Damage Tick":81.25,"Bleeding Stacks":0.74,"Bleeding DPS":60.125,"Burning Damage Tick":325.78125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":87.946875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":99.21875,"Poison Stacks":1.12,"Poison DPS":111.12500000000001,"Torment Damage Tick":120,"Torment Stacks":0,"Torment DPS":0,"Damage":42237.98686578788,"Effective Health":108910805.97014926,"Survivability":55368.991342221285,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24868,"weapon2OffAffix":"Berserker","weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Assassin","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Assassin","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":30488,"utility1Id":29414,"utility2Id":10546,"utility3Id":10607,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[914,829,853],[875,894,893],[2020,1969,2021]],"lines":[53,50,34]}}'>
 
-You can freely swap <Item id="24868"/> for <Item id="24615"/> on fights where you don't benefit from <Effect name="Exposed"/> or can run a slaying sigil such as <Item id="24658"/>.
-
-On fights where you benefit from a sigil such as <Item id="24658"/> and <Item id="24868"/>, use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust gear due to the <Attribute name="precision"/> loss from dropping <Item id="24618"/>.
+on fights where you don't benefit from <Effect name="Exposed"/> or  a slaying sigil such as <Item id="24658"/>, you can drop <Item id="24868"/> for <Item id="24618"/> for a damage increase. Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your build.
 
 </Character>
 </CharacterWithAr>
@@ -136,7 +134,7 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 - <Trait name="Close to Death"/> increases all of your strike damage.
 - <Skill name="Gravedigger"/> (Greatsword 2) has no recharge cooldown anymore.
-- Skip <Skill name="Dark Pact"/> (Dagger 3) and Greatsword Auto-Attacks for more Gravdiggers.
+- Skip <Skill name="Dark Pact"/> (Dagger 3), Devouring Visage (Sword 5), and Greatsword Auto-Attacks for more Gravdiggers.
 - Only use <Skill name="Death Spiral"/> if you need additional Life Force.
 - Below 25% boss HP <Skill name="Executioner's Scythe" /> (Shroud 5) deals its highest amount of damage.
 
@@ -177,30 +175,38 @@ Keep in mind that <Skill name="Terrify" /> (second instance of shroud 3) ends th
 
 Use <Skill name="You are all Weaklings!" /> (Utility) on Cooldown
 
-1. <Skill name="Dark Pact" /> (Dagger 3)
-2. <Skill name="Life Siphon" /> (Dagger 2)
-3. **Weapon Swap** 
-4. <Skill name="Gravedigger" /> (Greatsword 2)
-5. <Skill name="Death Spiral" /> (Greatsword 3)
-6. **Auto-attack chain** 
-7. <Skill name="Gravedigger" /> (Greatsword 2)
-8. <Skill name="Grasping Darkness" /> (Greatsword 5)
-9. <Skill name="Nightfall" /> (Greatsword 4)
-10. <Skill name="Well of Darkness" /> (Utility)
-11. <Skill name="Well of Suffering" /> (Utility)
-12. **Shroud**
-13. <Skill name="Gravedigger" /> (Greatsword 2)
-14. <Skill name="Death Spiral" /> (Greatsword 3)
-15. **Auto-attack chain** 
-16. <Skill name="Gravedigger" /> (Greatsword 2)
-17. <Skill name="Nightfall" /> (Greatsword 4)
-18. <Skill name="Grasping Darkness" /> (Greatsword 5)
-19. **Weapon Swap** 
-20. <Skill name="Dark Pact" /> (Dagger 3)
-21. <Skill name="Well of Darkness" /> (Utility)
-22. <Skill name="Well of Suffering" /> (Utility)
-23. <Skill name="Life Siphon" /> (Dagger 2)
-24. **Shroud**
+1. <Skill name="Hungering Maelstrom"/> (Sword 4)
+2. <Skill name="Devouring Visage"/> (Sword 5)
+3. <Skill name="Gormandize"/> (Sword 4 Flip Skill)
+4. <Skill name="Consume"/> (Sword 5 Flip Skill)
+5. <Skill name="Dark Pact" /> (Dagger 3)
+6. <Skill name="Life Siphon" /> (Dagger 2)
+7. **Weapon Swap** 
+8. <Skill name="Gravedigger" /> (Greatsword 2)
+9. <Skill name="Death Spiral" /> (Greatsword 3)
+10. **Auto-attack chain** 
+11. <Skill name="Gravedigger" /> (Greatsword 2)
+12. <Skill name="Grasping Darkness" /> (Greatsword 5)
+13. <Skill name="Nightfall" /> (Greatsword 4)
+14. <Skill name="Well of Darkness" /> (Utility)
+15. <Skill name="Well of Suffering" /> (Utility)
+16. **Shroud**
+17. <Skill name="Gravedigger" /> (Greatsword 2)
+18. <Skill name="Death Spiral" /> (Greatsword 3)
+19. **Auto-attack chain** 
+20. <Skill name="Gravedigger" /> (Greatsword 2)
+21. <Skill name="Nightfall" /> (Greatsword 4)
+22. <Skill name="Grasping Darkness" /> (Greatsword 5)
+23. **Weapon Swap**
+24. <Skill name="Hungering Maelstrom"/> (Sword 4)
+25. <Skill name="Devouring Visage"/> (Sword 5)
+26. <Skill name="Gormandize"/> (Sword 4 Flip Skill)
+27. <Skill name="Consume"/> (Sword 5 Flip Skill)
+28. <Skill name="Dark Pact" /> (Dagger 3)
+29. <Skill name="Well of Darkness" /> (Utility)
+30. <Skill name="Well of Suffering" /> (Utility)
+31. <Skill name="Life Siphon" /> (Dagger 2)
+32. **Shroud**
 
 </GridItem>
 </Grid>
