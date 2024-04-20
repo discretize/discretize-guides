@@ -22,7 +22,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-04-20T21:22:12.144Z "
+date: "2024-04-20T21:25:28.552Z "
 ---
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).
@@ -67,25 +67,28 @@ This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Ma
 | ------------------------------------------------------- | ----------------------------------------------- |
 | **Warhorn**                                                         |                                            |
 | <Skill name="Cyclone" size="big" disableText/>             | 150 with <Control name="Stun"/>            
-                                                          |
 | <Skill name="Tidal Surge" size="big" disableText/>     | 200 with <Control name="Knockdown"/>   
-| <Skill name="Dust Storm" size="big" disableText/>    | 20/s with <Condition name="Blinded"/>       |
+| <Skill name="Dust Storm" size="big" disableText/>    | 20/s with <Condition name="Blinded"/>       
                                                                      |
-| **Pistol**
-| <Skill name="Boulder Blast" size="big" disableText/>            | 50/s with <Condition name="Immobile"/>                 |
+
+| **Pistol**                                                         |
+      |
+| <Skill name="Boulder Blast" size="big" disableText/>            | 50/s with <Condition name="Immobile"/> |
 | <Skill name="Frozen Fusillade" size="big" disableText/>    | 33/s with <Condition name="Chilled"/>   |
-| <Skill name="Shattering Stone" size="big" disableText/>    | 15/s with <Condition name="Crippled"/> |
+| <Skill name="Shattering Stone" size="big" disableText/>    | 15/s with <Condition name="Crippled"/> 
+                                                                      |
 
 | **Scepter**                                                         |                                            |
-| <Skill name="Earthen Synergy" size="big" disableText/>             | 150 with <Control name="Stun"/>                     |
+| <Skill name="Earthen Synergy" size="big" disableText/>             | 150 with <Control name="Stun"/>  |
 | <Skill name="Fiery Frost" size="big" disableText/>    | 33/s  with <Condition name="Chilled"/>   |
 | <Skill name="Glacial Drift" size="big" disableText/>    | 33/s  with <Condition name="Chilled"/>
                                                                       |
+
 | **Focus**                                                         |                                            |
-| <Skill name="Gale" size="big" disableText/>             | 400 with <Control name="Knockdown"/>                     |
+| <Skill name="Gale" size="big" disableText/>             | 400 with <Control name="Knockdown"/>   |
 | <Skill name="Magnetic Wave" size="big" disableText/>    | 15/s with <Condition name="Crippled"/> |
 | <Skill name="Freezing Gust" size="big" disableText/>    | 33/s with <Condition name="Chilled"/> |
-| <Skill name="Comet" size="big" disableText/>    | 200 with <Control name="Daze"/>
+| <Skill name="Comet" size="big" disableText/>    | 200 with <Control name="Daze"/> |
 | <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/>  
                                                                      |
 
