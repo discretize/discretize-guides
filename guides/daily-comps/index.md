@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2024-04-20T21:02:18.789Z "
+date: "2024-04-20T21:03:01.867Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -48,12 +48,12 @@ In this section you can find links to different parts of the site with informati
 
 | Boss      | PoV                                                        | Log | Player |
 | --------- | ---------------------------------------------------------- | --- | ------ |
-| MAMA      | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=235s) |     | Inky   |
-| Siax      | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=290s) |     | Inky   |
-| Ensolyss  | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=333s) |     | Inky   |
-| Skorvald  | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=0s)   |     | Inky   |
-| Artsariiv | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=68s)  |     | Inky   |
-| Arkk      | [Link](https://www.youtube.com/watch?v=lAIxOQlt_jI&t=133s) |     | Inky   |
+| MAMA      |  |     |  |
+| Siax      |  |     |  |
+| Ensolyss  |  |     |  |
+| Skorvald  |  |     |  |
+| Artsariiv |  |     |  |
+| Arkk      |  |     |  |
 
 </Tab>
 
