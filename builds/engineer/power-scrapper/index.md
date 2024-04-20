@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-20T21:10:43.714Z "
+date: "2024-04-20T21:15:29.172Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -209,14 +209,15 @@ This precast requires two build templates. A build template with precast skills,
 3.   _Swap to in-fight template_
 
 #### Advanced Precast
-This precast is only an option in organised groups. To be effective, you need to be able to cast these skills and pull the boss quickly to benefit, having someone count down in voice when triggering the boss is a good idea to make this consistent. It requires three equipment templates and two build templates! You will need an equipment template with <Item name="Relic of the Brawler"/>, another with <Item name="Relic of Cerus"/>, and finally your in fight template, as well as a build template with precast skills, and one with your in fight skills.
+This precast is only an option in organised groups. To be effective, you need to be able to cast these skills and pull the boss quickly to benefit, having someone count down in voice when triggering the boss is a good idea to make this consistent. It requires two equipment templates and two build templates! You will need an equipment template with <Item name="Relic of the Brawler"/> for your two Relic precasts, and finally your in fight template, as well as a build template with precast skills, and one with your in fight skills. A simpler version if this precast is to skip <Item name="Relic of the Brawler"/> and just precast <Item name="Relic of Cerus"/>.
 
 1.  <Skill name="Blast Gyro"/> (Utility)
 2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
 3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
 4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-5.  <Skill name="Elite Mortar Kit"/> (Elite) to proc <Item name="Relic of Cerus"/>
-6.  _Swap to in-fight template_
+5.  _Inventory swap to <Item name="Relic of Cerus"/>_
+6.  <Skill name="Elite Mortar Kit"/> (Elite) to proc <Item name="Relic of Cerus"/>
+7.  _Swap to in-fight template_
 
 </GridItem>
 
