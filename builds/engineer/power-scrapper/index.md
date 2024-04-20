@@ -16,7 +16,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2024-04-19T12:19:45.924Z "
+date: "2024-04-20T21:10:43.714Z "
 title: Power Quick Scrapper
 rating: Meta
 role: Power Damage
@@ -26,7 +26,7 @@ conditions:
 cmGuide: static
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
-It offers:
+It offers: 
 
 - High initial burst and strong sustained damage
 - A large amount of crowd control
@@ -39,7 +39,7 @@ The build benefits from slaying potions such as <Item name="Powerful Potion of s
 <Divider text="Equipment"/>
 
 <CharacterWithAr>  
-<Character title="Quick Scrapper" gear='{"attributes":{"profession":"Engineer","specialization":"Scrapper","data":{"Health":21232,"Armor":2343,"Power":3608,"Precision":1924,"Toughness":1225,"Vitality":1608,"Ferocity":1631,"Condition Damage":750,"Expertise":0,"Concentration":579,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.386,"Critical Chance":1.04,"Critical Damage":2.5873333333333335,"Power Coefficient":3397,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":7.98,"Poison Coefficient":3.3,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":28849.267713533845,"NonCrit Effective Power":11150.193653774999,"Power DPS":37736.21964685193,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":10.6134,"Bleeding DPS":1022.2030875,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":3.3,"Poison DPS":372.384375,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":39270.55710935193,"Effective Health":98998161.19402987,"Survivability":50329.517638042635,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"utility1Id":5805,"utility2Id":30337,"utility3Id":31248,"eliteId":""},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[1917,1860,2052]],"lines":[38,6,43]}}'>
+<Character title="Quick Scrapper" gear='{"attributes":{"profession":"Engineer","specialization":"Scrapper","data":{"Health":21232,"Armor":2343,"Power":3608,"Precision":1924,"Toughness":1225,"Vitality":1608,"Ferocity":1631,"Condition Damage":750,"Expertise":0,"Concentration":579,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.386,"Critical Chance":1.04,"Critical Damage":2.5873333333333335,"Power Coefficient":3397,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":7.98,"Poison Coefficient":3.3,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":28849.267713533845,"NonCrit Effective Power":11150.193653774999,"Power DPS":37736.21964685193,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":10.6134,"Bleeding DPS":1022.2030875,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":3.3,"Poison DPS":372.384375,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":39270.55710935193,"Effective Health":98998161.19402987,"Survivability":50329.517638042635,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":5857,"utility1Id":5805,"utility2Id":30337,"utility3Id":31248,"eliteId":""},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[1917,1860,2052]],"lines":[38,6,43]}}'>
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -63,20 +63,20 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                              |                                                                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| <Trait name="Pinpoint Distribution" size="big" disableText/> | Taken to provide extra <Boon name="Might"/> to the party.                                   |
+| <Trait name="Pinpoint Distribution" size="big" disableText/> | Taken to provide extra <Boon name="Might"/> to the party if no one else can.                                   |
 | <Trait name="Aim Assisted Rocket" size="big" disableText/>   | Taken over <Trait name="Explosive Temper"/> on long fights without phases, such as Dark Ai. |
-| <Trait name="Applied Force" size="big" disableText/>         | played if you are DPS and don't need to provide <Boon name="Quickness"/>.                   |
-| <Trait name="Mass Momentum" size="big" disableText/>         | Situationally taken to provide some <Boon name="Stability"/>.                   |
+| <Trait name="Applied Force" size="big" disableText/>         | Taken if you are DPS and don't need to provide <Boon name="Quickness"/>.                   |
+| <Trait name="Mass Momentum" size="big" disableText/>         | Situationally taken to provide <Boon name="Stability"/>. In fast groups it is played as a DPS increase to increase uptime on <Trait name="Mass Momentum"/>. |
 
 ### Defiance Bar Damage
 
 | Skills                                                                 | Damage                                                        |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <Skill name="thunderclap" profession="engineer"/>   | 200 damage                                                         |
+| <Skill name="thunderclap" profession="engineer"/>   | 100 damage                                                         |
 | <Skill name="Static Shock"/>                      | 200 damage                                                         |
 | <Skill name="sparecapacitor"/>                      | 200 damage                                                         |
-| <Skill name="supplycrate"/>                         | 200 damage                                                         |
-| <Skill name="blastgyro"/>                           | 232 damage                                                         |
+| <Skill name="supplycrate"/>                         | 400 damage                                                         |
+| <Skill name="blastgyro"/>                           | 300 damage                                                         |
 | <Skill name="throwmine" profession="engineer"/>     | 200 damage                                                         |
 | <Skill name="Rocket Charge" profession="engineer"/> | 100 damage <br/> (Leap Finisher in the Lightning Field from <Skill name="Function Gyro"/> or <Skill name="sparecapacitor"/>) |
 
@@ -86,7 +86,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                           |                                                                                                                                                                                                                   |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="29665" size="big" disableText/><Skill id="56921" size="big" disableText/> |
+| Toolbelt                                  | <Skill id="6176" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="29665" size="big" disableText/><Skill id="56921" size="big" disableText/> |
 | <Skill id="6020" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/>     |
 
 ### Situational SKills
@@ -94,8 +94,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Shredder Gyro" size="big" disableText/>        | An higher damage alternative for <Skill name="Blast Gyro"/>, if might is not required. Also gives access to the toolbelt skill <Skill name="Spare Capacitor"/>. |
-| <Skill name="Healing Turret" size="big" disableText/>        | Can be taken as a heal skill if you need an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
-| <Skill name="AED" size="big" disableText/>        | Your default heal skill providing you can maintain <Boon name="Quickness"/> without needing an extra blast. Brings CC with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
+| <Skill name="Healing Turret" size="big" disableText/>        | Taken as a default heal skill to provide an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
+| <Skill name="AED" size="big" disableText/>        | Your best in slot heal skill providing you can maintain <Boon name="Quickness"/> without needing an extra blast. Brings CC with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
 | <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill in scenarios with high damage pressure. Grants access to a blast finisher with <Skill name="Infusion Bomb"/>, and condi cleanse with <Skill name="Cleansing Field"/>. |
 | <Skill name="Medic Gyro" size="big" disableText/>        | Useful for applying <Effect name="Superspeed"/> when running around in T4 fractals. |
 | <Skill name="Sneak Gyro" size="big" disableText/>       | Used to provide <Effect name="Stealth"/>, especially useful in T4s for skipping large groups of mobs.                                                                                                                             |
@@ -118,7 +118,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - <Trait name="Modified Ammunition"/> Grants a 2% multiplicative damage modifer per condition on your foe. <Skill name="Grenade Kit"/> and <Skill name="Elite Mortar Kit"/> can be used to help with this, especially when precasting <Skill name="Elite Mortar Kit"/> in to a burst phase.
 - <Trait name="Explosive Temper"/> gives a stacking <Attribute name="Ferocity"/> bonus up to 10 stacks when explosions hit your foe. 
 
-Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritise above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the prioirty list below for filler skills. Additionally, make sure to try to maintain the uptime of the traits and Relic listed above to increase your damage as much as possible.
+Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritise above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the prioirty list below for filler skills. Additionally, make sure to try to maintain the uptime of the Traits and Relic listed above to increase your damage as much as possible.
 
 When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon name="Quickness"/> is generated through the trait <Trait name="Kinetic Accelerators"/>. Every time you perform a blast or leap finisher, you will share <Boon name="Quickness"/> to allies. Using the build at the top of the page, each finisher will share 4 seconds of <Boon name="Quickness"/>. Depending on the group and phase lengths, you may have to adjust your skills and rotation, to focus more on sharing <Boon name="Quickness"/>, and other times it may be enough to do a proper prestack, and just do the burst rotation. Also make sure you are ready to share quickness shortly before boss phases starts on CM fights, especially after periods of downtime, where other builds may want to precast some skills into the start of the phase.
 
@@ -225,15 +225,14 @@ This precast is only an option in organised groups. To be effective, you need to
 
 If you have a _Mistlock Singularity_ present you can:
 
-1.  Preplace a <Skill name="Healing Turret"/>, so <Skill name="Detonate Healing Turret"/> is ready to cast
-2.  <Skill name="Blast Gyro"/> (Utility), for a fire field for <Boon name="Might"/> and <Boon name="Quickness"/>
-3.  <Skill name="Detonate Healing Turret"/> (Heal Skill)
-4.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
-5.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
-6.  _Mistlock Singularity_
-7.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
-8.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
-9.  _Swap to precast or in fight templates_
+1.  <Skill name="Blast Gyro"/> (Utility), for a fire field for <Boon name="Might"/> and <Boon name="Quickness"/>
+2.  <Skill name="Function Gyro"/> (Toolbelt Skill)
+3.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
+4.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
+5.  _Mistlock Singularity_
+6.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
+7.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
+8.  _Swap to precast or in fight templates_
 
 If you do not have _Mistlock Singularity_ present:
 
