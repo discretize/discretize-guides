@@ -1,6 +1,6 @@
 ---
 title: New Player Guide
-date: "2024-04-13T23:36:44.749Z "
+date: "2024-04-20T13:07:07.730Z "
 image: images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481
@@ -408,7 +408,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
 
-For more information, check out their [Discord](https://discord.gg/kzQdtpSxq6)
+For more information, check out their [Discord](https://discord.com/invite/gw2-uni)
 
 </GridItem>
 </Grid>
