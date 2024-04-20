@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: true
+archive: false
 hasBeginner: true
 specialization: Weaver
 code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"
@@ -10,7 +10,7 @@ classification:
   - 2
   - 3
   - 4
-date: "2024-04-19T14:57:21.071Z "
+date: "2024-04-20T13:21:21.839Z "
 title: Power Weaver
 rating: Good
 role: Power Damage
@@ -25,6 +25,8 @@ cmGuide: pug
 The <Specialization name="Weaver" text="Power Weaver"/> is currently a strong DPS builds for fractals. <Specialization name="Weaver" text="Power Weaver"/> provides conjures, <Condition name="Vulnerability"/>, and additional <Boon name="Might"/> through placing fire fields and blasting them. Also it is very useful for some T4 skips like Aetherblade, Cliffside, Thaumanova Reactor etc. thanks to high mobility and <Skill id="5536"/>.
 
 Unfortunately, this build depends pretty much on supports and boon uptimes, as it can't provide any boons itself besides some <Boon name="Might"/> by blasting fire fields. This build has one of the most fluid rotations in-game which makes it enjoyable to play if given some dedication. The build benefits heavily from slaying potions and sigils such as <Item id="50082"/> and <Item name="Serpent Slaying" type="Sigil"/>.
+
+Although Warhorn off-hand has a higher benchmark, in general for fractals Dagger is the better all round choice due to offering more CC with <Skill name="Updraft"/>. Additionally, it is better suited to shorter phases and <Effect name="Exposed"/>, due to Daggers burst damage being more compressed. For Warhorn to compete with burst, <Skill name="Wildfire"/> needs to be precasted which can be harder to achieve.
 </Advanced>
 
 <Beginner>
