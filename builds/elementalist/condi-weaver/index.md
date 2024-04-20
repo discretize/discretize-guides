@@ -22,7 +22,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-04-20T21:15:32.824Z "
+date: "2024-04-20T21:22:12.144Z "
 ---
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).
@@ -66,23 +66,28 @@ This build uses the Jade Bot Core: Tier 10 in combination with 18 <Item name="Ma
 | Skill                                                   | Damage                                            |
 | ------------------------------------------------------- | ----------------------------------------------- |
 | **Warhorn**                                                         |                                            |
-| <Skill name="Cyclone" size="big" disableText/>             | 150 with <Control name="Stun"/>            |
+| <Skill name="Cyclone" size="big" disableText/>             | 150 with <Control name="Stun"/>            
+                                                          |
 | <Skill name="Tidal Surge" size="big" disableText/>     | 200 with <Control name="Knockdown"/>   
 | <Skill name="Dust Storm" size="big" disableText/>    | 20/s with <Condition name="Blinded"/>       |
+                                                                     |
 | **Pistol**
 | <Skill name="Boulder Blast" size="big" disableText/>            | 50/s with <Condition name="Immobile"/>                 |
 | <Skill name="Frozen Fusillade" size="big" disableText/>    | 33/s with <Condition name="Chilled"/>   |
 | <Skill name="Shattering Stone" size="big" disableText/>    | 15/s with <Condition name="Crippled"/> |
+
 | **Scepter**                                                         |                                            |
 | <Skill name="Earthen Synergy" size="big" disableText/>             | 150 with <Control name="Stun"/>                     |
 | <Skill name="Fiery Frost" size="big" disableText/>    | 33/s  with <Condition name="Chilled"/>   |
 | <Skill name="Glacial Drift" size="big" disableText/>    | 33/s  with <Condition name="Chilled"/>
+                                                                      |
 | **Focus**                                                         |                                            |
 | <Skill name="Gale" size="big" disableText/>             | 400 with <Control name="Knockdown"/>                     |
 | <Skill name="Magnetic Wave" size="big" disableText/>    | 15/s with <Condition name="Crippled"/> |
 | <Skill name="Freezing Gust" size="big" disableText/>    | 33/s with <Condition name="Chilled"/> |
 | <Skill name="Comet" size="big" disableText/>    | 200 with <Control name="Daze"/>
 | <Skill name="Tailored Victory" size="big" disableText/> | 250 with <Control name="Float"/>  
+                                                                     |
 
 **Many of these skills aren't accessible during the normal rotation due to being locked behind attunements you don't use.**
 **Tailored Victory should ideally be used only if cc is absolutely neccessary and there is no other source avaliable or if the effect is about to expire.**
@@ -104,13 +109,13 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | Heal                                                              |
 | <Skill name="Arcane Brilliance" size="big" disableText/>          | An additional <Boon name="Might"/> source from blasting fire fields. Overall provides less healing than <Skill name="Signet Of Restoration"/>. |
 | <Skill name="Glyph of Elemental Harmony" size="big" disableText/> | A stronger alternative healing skill when you need to restore a large amount of health very quickly.                                           |
-| <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                             |
+| <Skill name="Aquatic stance" size="big" disableText/>             | Another alternative healing skill affecting allies close to the target you strike.                                                             
 | Offensive                                                         |
 | <Skill name="Glyph of Lesser Elementals" size="big" disableText/> | A stronger alternative to <Skill name="Glyph of Elemental Power"/> but relies on rng and works better in fights with longer phases.   
 | Defensive                                                         |
 | <Skill name="Arcane Shield" size="big" disableText/>              | A stun break with the addition of 3 blocks.                                                                                                    |
 | <Skill name="Armor of Earth" size="big" disableText/>             | Another stun break that provides extra <Boon name= "Protection"/> and <Boon name= "Stability"/>.                                               |
-| <Skill name="Stone Resonance" size="big" disableText/>            | A strong skill providing a lot of barrier and extra <Boon name= "Stability"/>.                                                                 |
+| <Skill name="Stone Resonance" size="big" disableText/>            | A strong skill providing a lot of barrier and extra <Boon name= "Stability"/>.                                                                 
 | <Skill name="Twist of Fate" size="big" disableText/>              | Yet another stun break with the addition of evade frames.                                                                                      |
 | Utility                                                           |
 | <Skill name="Lightning Flash" size="big" disableText/>            | A 900 units teleport for easy repositioning.                                                                                                   |
