@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2024-04-20T16:28:39.628Z "
+date: "2024-04-20T16:33:42.668Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -71,6 +71,9 @@ In this section you can find links to different parts of the site with informati
 </Tab>
 
 <Tab specialization="Soulbeast">
+<Information>
+All of these PoVs are currently up to date apart from Artsariiv, due to map items being removed from the game. The rotation doesn't change from the PoV, instead you either dodge, have a <Specialization name="Dragonhunter"/> use <Skill name="Shield of Courage"/>, or your <Specialization name="Scrapper"/> or <Specialization name="Renegade"/> shares <Boon name="Stability"/> and a <Specialization name="Soulbeast"/> brings <Skill name="Stone Spirit"/>.
+</Information>
 
 | Boss      | PoV                                        | Log                                                         | Player  |
 | --------- | ------------------------------------------ | ----------------------------------------------------------- | ------- |
@@ -84,7 +87,7 @@ In this section you can find links to different parts of the site with informati
 </Tab>
 <Tab specialization="Dragonhunter">
 <Information>
-All of these PoVs are currently up to date apart from Artsariiv. Due to the Consu,ables being removed and trap changes, CC distrobution has changed, but the PoV is still good to get an idea of the in phase rotation.
+All of these PoVs are currently up to date apart from Artsariiv. Due to the Consumables being removed and trap changes, CC distrobution has changed, but the PoV is still good to get an idea of the in phase rotation.
 </Information>
 
 | Boss      | PoV                                        | Log                                                         | Player |
