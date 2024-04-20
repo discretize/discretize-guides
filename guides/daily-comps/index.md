@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2024-04-20T16:33:42.668Z "
+date: "2024-04-20T21:02:18.789Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -61,12 +61,12 @@ In this section you can find links to different parts of the site with informati
 
 | Boss      | PoV                                        | Log                                                         | Player  |
 | --------- | ------------------------------------------ | ----------------------------------------------------------- | ------- |
-| MAMA      | [Link](https://youtu.be/xEHSN4uoyaM)       | [DPS.Report](https://dps.report/p2jZ-20230226-153044_mama)  | Jetrell |
-| Siax      | [Link](https://youtu.be/cN_fLBIaAhA)       | [DPS.Report](https://dps.report/bYKc-20230226-154315_siax)  | Hyp     |
-| Ensolyss  | [Link](https://youtu.be/kTTD3RrMIlI)       | [DPS.Report](https://dps.report/qwmP-20221215-182717_enso)  | Elu     |
-| Skorvald  | [Link](https://youtu.be/l-BeKbgeL8s)       | [DPS.Report](https://dps.report/Lskf-20230217-222859_skor)  | Hyp     |
-| Artsariiv | [Link](https://youtu.be/qhCSGO0cZ0o?t=139) | [DPS.Report](https://dps.report/3zj4-20221117-203459_arriv) | Hyp     |
-| Arkk      | [Link](https://youtu.be/uaC9y-1G6Us)       | [DPS.Report](https://dps.report/Assu-20230221-212418_arkk)  | Hyp     |
+| MAMA      | [Link](https://youtu.be/EEuJEPfhA_w?si=NiMsNKrciedLRAe3)       | [DPS.Report](https://dps.report/APdB-20240130-174854_mama)  | Agt Endrn |
+| Siax      | [Link](https://youtu.be/cRx7MpLdrPU?si=w4ztd04idRidcxlc)       | [DPS.Report](https://dps.report/TqWL-20240112-224615_siax)  | Agt Endrn (DPS)  |
+| Ensolyss  | [Link](https://youtu.be/6nasIFn00K4?si=o7Zko5-7EEspCpIg)       | [DPS.Report](https://dps.report/JNEX-20240308-003243_enso)  | Agt Endrn     |
+| Skorvald  | [Link](https://youtu.be/OipE3PmFUAs?si=QQP0EOasdXR84AWc)       | [DPS.Report](https://dps.report/67U3-20240104-181418_skor)  | Agt Endrn     |
+| Artsariiv | [Link](https://youtu.be/lcB2Eqn1n0Q?si=UpX_qRs4DSaODMSq) <br/> [Link](https://youtu.be/is5wsuCVv4w?si=UZd4OaZhAqiKkHar) | [DPS.Report](https://dps.report/t7A0-20240114-221537_arriv) <br/> [DPS.Report](https://dps.report/lici-20240316-013722_arriv) | Agt Endrn (Slower Strat) <br/> Agt Endrn (Faster Strat) |
+| Arkk      | [Link](https://youtu.be/2yQfJYNS-0k?si=R3cKFj8uJC6kbpQN)       | [DPS.Report](https://dps.report/btSz-20240114-223226_arkk)  | Agt Endrn     |
 
 </Tab>
 
@@ -112,19 +112,9 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/_3PUmCnd2Yw) | [DPS.Report](https://dps.report/NoFh-20220918-213603_ai) | Hyp (Alac)    |
-| Dark Ai      | [Link](https://youtu.be/oUI8duydsV4) | [DPS.Report](https://dps.report/215X-20230825-205540_ai) | Lydia (DPS)    |
+| Dark Ai      | [Link](https://youtu.be/xw5L81ow9-U?si=BhiS2Xo8m7IsnQic) | [DPS.Report](https://dps.report/mf8g-20240203-203815_ai) | Wuju (Alacrity)    |
 | Kanaxai |                                      |                                                          |        |
 
-
-</Tab>
-
-<Tab specialization="Scrapper">
-
-| Boss         | PoV                                  | Log                                                      | Player |
-| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
-| Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/VI3ZbbNrwzk) | [DPS.Report](https://dps.report/lwZE-20221206-215756_ai) | Feint  |
 
 </Tab>
 <Tab specialization="Harbinger">
@@ -133,6 +123,23 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
 | Dark Ai      | [Link](https://youtu.be/24BkETxUT-Q?si=UniPjn6OI3NqnDnB) | [DPS.Report](https://dps.report/9oti-20240225-215732_ai) | Neno (DPS)    |
+| Kanaxai |                                      |                                                          |        |
+
+</Tab>
+<Tab specialization="Scrapper">
+
+| Boss         | PoV                                  | Log                                                      | Player |
+| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
+| Elemental Ai      | [Link](https://youtu.be/kMfMWhly_gc?si=ujela9DK7SJPxl2j) | [DPS.Report](https://dps.report/TqLR-20240118-191001_ai) | Agt Endrn (Quickness) |
+| Dark Ai      | [Link](https://youtu.be/7bEhRqtyO54?si=MVcVrMZVPT2n_ooW) | [DPS.Report](https://dps.report/2OI7-20240310-205514_ai) | Agt Endrn (DPS)  |
+
+</Tab>
+<Tab specialization="Holosmith">
+
+| Boss         | PoV                                  | Log                                                      | Player |
+| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
+| Elemental Ai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/bAYiZXz2oHA?si=L3_3hMJobmagvroe) | [DPS.Report](https://dps.report/mf8g-20240203-203815_ai) | Shavy    |
 | Kanaxai |                                      |                                                          |        |
 
 </Tab>
