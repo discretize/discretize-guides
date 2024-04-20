@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: true
+archive: false
 author: xChris
 specialization: Catalyst
 skills: []
@@ -21,7 +21,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-04-19T14:58:22.218Z "
+date: "2024-04-20T14:20:41.423Z "
 title: Power Catalyst
 rating: Good
 role: Power Damage
