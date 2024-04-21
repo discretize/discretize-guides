@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-04-21T11:05:48.070Z "
+date: "2024-04-21T11:06:32.748Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -280,11 +280,6 @@ If you do not have _Mistlock Singularity_ present:
 
 
 </Card>
-### Fractal Openers
-<Video youtube="" caption=""/>
-
-### Golem Rotation
-<Video youtube="DxX-e_ZCdFs" caption="Golem Benchmark by vpo"/>
 
 </GridItem>
 </Grid>
