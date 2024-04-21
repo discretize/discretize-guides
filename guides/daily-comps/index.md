@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2024-04-20T21:03:01.867Z "
+date: "2024-04-21T10:47:01.222Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -46,14 +46,15 @@ In this section you can find links to different parts of the site with informati
 <Tabs>
 <Tab specialization="Renegade">
 
-| Boss      | PoV                                                        | Log | Player |
-| --------- | ---------------------------------------------------------- | --- | ------ |
-| MAMA      |  |     |  |
-| Siax      |  |     |  |
-| Ensolyss  |  |     |  |
-| Skorvald  |  |     |  |
-| Artsariiv |  |     |  |
-| Arkk      |  |     |  |
+| Boss      | PoV                                                            | Log                                                         | Player                    |
+|-----------|----------------------------------------------------------------|-------------------------------------------------------------|---------------------------|
+| MAMA      | [Link](https://youtu.be/6Wv3rpC7bxU?si=inkLkx2_IlaOsOSb)       | [DPS.Report](https://dps.report/VHzr-20240413-012320_mama)  | Shavy                     |
+| Siax      | [Link](https://youtu.be/u921ZgeGQys?si=7sL5mV1qoXOXbf74&t=432) |                                                             | Shavy (Pre Spirit rework) |
+| Ensolyss  | [Link](https://youtu.be/u921ZgeGQys?si=TfFvGNZVy6rkaBPI&t=468) |                                                             | Shavy (Pre Spirit rework) |
+| Skorvald  | [Link](https://youtu.be/rZQHMonXqVg?si=unluit3ptjfw5C6O)       | [DPS.Report](https://dps.report/qgPT-20240404-195220_skor)  | Hmod                      |
+| Artsariiv | [Link](https://youtu.be/rZQHMonXqVg?si=DI5-fnf1ao2cDkeY&t=87)  | [DPS.Report](https://dps.report/Qvcp-20240404-195824_arriv) | Hmod                      |
+| Arkk      | [Link](https://youtu.be/rZQHMonXqVg?si=dOMmskNj6t1-9_GO&t=148) | [DPS.Report](https://dps.report/TsNx-20A240404-200150_arkk) | Hmod                      |
+
 
 </Tab>
 
