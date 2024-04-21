@@ -1,11 +1,7 @@
 ---
-title: Power Soulbeast
 hidden: false
 archive: false
 hasBeginner: false
-rating: Meta
-role: Power Damage
-profession: Ranger
 specialization: Soulbeast
 code: "[&DQQeOSA+Nzp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
@@ -14,13 +10,17 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-03-25T16:20:58.489Z "
+date: "2024-04-21T11:06:32.748Z "
 cmguide: static
+title: Power Soulbeast
+rating: Meta
+role: Power Damage
+profession: Ranger
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
 ---
-
+ 
 The <Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build offering:
 - Very high burst damage thanks to <Skill name="Sic Em"/>.
 - Strong party buffs with <Skill name="One Wolf Pack"/> and other stances.
@@ -280,11 +280,6 @@ If you do not have _Mistlock Singularity_ present:
 
 
 </Card>
-### Fractal Openers
-<Video youtube="" caption=""/>
-
-### Golem Rotation
-<Video youtube="DxX-e_ZCdFs" caption="Golem Benchmark by vpo"/>
 
 </GridItem>
 </Grid>
