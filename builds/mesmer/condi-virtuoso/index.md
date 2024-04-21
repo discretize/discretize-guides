@@ -9,7 +9,7 @@ classification:
   - 4
   - 1
   - 3
-date: "2023-10-21T16:54:36.571Z "
+date: "2024-04-21T11:01:47.093Z "
 title: Condi Virtuoso
 rating: Good
 role: Condi Damage
@@ -162,8 +162,6 @@ There is a basic opener used on the golem for sustained DPS, you will need to ad
 10. <Skill name="Bladesong Harmony"/>
 11. <Skill name="Signet of Illusions"/>
 
-### Golem Rotation
-<Video caption="by REMagic " youtube="6sKo5qnT4gg"/>
 </GridItem>
 
 <GridItem sm="6">
