@@ -1,28 +1,28 @@
 ---
-title: Condi Weaver
 hidden: false
-archive: false
-rating: Good
-role: Condi Damage
+archive: true
 author: xChris
-profession: Elementalist
 specialization: Weaver
-conditions:
-  - name: Burning
-  - name: Bleeding
 boons:
   - name: Might
     variant: "party "
     uptime: ~5
 code: "[&DQYfFRomOBV0AHQAcwBzADUXNRfLAMsAEhcSFwAAAAAAAAAAAAAAAAAAAAA=]"
-cmGuide: ""
 classification:
   - 3
   - 4
   - 3
   - 4
   - 5
-date: "2024-01-05T10:05:03.832Z "
+date: "2024-04-19T14:54:39.128Z "
+title: Condi Weaver
+rating: Good
+role: Condi Damage
+profession: Elementalist
+conditions:
+  - name: Burning
+  - name: Bleeding
+cmGuide: ""
 ---
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).

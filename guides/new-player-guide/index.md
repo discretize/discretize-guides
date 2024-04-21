@@ -1,6 +1,6 @@
 ---
 title: New Player Guide
-date: "2024-04-13T23:36:44.749Z "
+date: "2024-04-20T13:07:07.730Z "
 image: images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481
@@ -218,17 +218,16 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 ### General
 These are common abbrevations, used when a group only needs a general idea of a player (e.g., we are missing a quickness healer) or when they have specific experience expectations.
 
-| Short              | Long                    | Aliases                       | Description                                                                                                                             | Link                                                                                                                                   |
-| ------------------ | ----------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| `Alac`             | Alacrity Provider       | `alacdps`, `alacheal`                 | Any build that can provide <Boon name="Alacrity"/>. Could be a support or damage build, but it might be specified (e.g., _alacheal_)                                                  |                                                                                                                                        |
-| `Quick`            | Quickness Provider      | `qheal`, `qdps` | Any build that can provide <Boon name="Quickness"/>.Could be a support or damage build, but it might be specified (e.g., _quickdps_)                                                 |                                                                                                                                        |
-| `cdps`             | Condition DPS           | `dps`, `CDPS`                 | A suitable condition dps build from a class of your choice. These offer strong _condition/ticking_ damage                                                                              |                                                                                                                                        |
-| `pdps`             | Power DPS               | `dps`, `PDPS`                 | A suitable power dps build from a class of your choice. These offer strong _burst_ damage                                                                                  |                                                                                                                                        |
-| `p&f`             | Potion and Food               | `pof`, `p & f`                 | You are expected both to use all three fractal potions _and_ build-specific food buffs                                                                                  |                                                                                                                                        |
-| `DwD`              | Dances with Demons      | `title`                       | Earned by completing level 99 in challenge mode with no one in your group being defeated                                             |                                                                                                                                        |
-| `100 title`              | Nightmare Aspect         | `title`                       | Earned by completing level 100 in challenge mode with no one in your group being defeated                                                                  |                                                                                                                                        |
-
-| `kp`               | Kill proof              | `UFE`                         | <Item id="94020"/>: Only gained from CMs. Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                                      |                                                                                                                                        |
+| Short              | Long                    | Aliases                       | Description                                                                                                                             |
+| ------------------ | ----------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `alac`             | Alacrity Provider       | `alacdps`, `alacheal`         | Any build that can provide <Boon name="Alacrity"/>. Could be a support or damage build, but it might be specified (e.g., _alacheal_)    |
+| `quick`            | Quickness Provider      | `qheal`, `qdps`               | Any build that can provide <Boon name="Quickness"/>. Could be a support or damage build, but it might be specified (e.g., _quickdps_)   |
+| `cdps`             | Condition DPS           | `dps`, `CDPS`                 | A suitable condition dps build from a class of your choice. These offer strong _condition/ticking_ damage                               |
+| `pdps`             | Power DPS               | `dps`, `PDPS`                 | A suitable power dps build from a class of your choice. These offer strong _burst_ damage                                               |
+| `p&f`              | Potion and Food         | `pof`, `p & f`                | You are expected both to use all three fractal potions _and_ build-specific food buffs                                                  |
+| `DwD`              | Dances with Demons      | `title`, `99 title`           | Earned by completing level 99 in challenge mode with no one in your group being defeated                                                |
+| `NA`               | Nightmare Aspect        | `100 title`                   | Earned by completing level 100 in challenge mode with no one in your group being defeated                                               |
+| `UFE`              | Kill proof              | `kp`                          | <Item id="94020"/>: Only gained from CMs. Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                |
 
 ---
 
@@ -409,7 +408,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 Guild Wars 2 University is a discord-server-based community that focuses on helping and guiding new and returning players to learn everything that Guild Wars 2 has to offer. GWU provides a friendly and judgment-free environment where veterans from all areas of the game help teach and train anyone interested in learning.
 
-For more information, check out their [Discord](https://discord.gg/kzQdtpSxq6)
+For more information, check out their [Discord](https://discord.com/invite/gw2-uni)
 
 </GridItem>
 </Grid>

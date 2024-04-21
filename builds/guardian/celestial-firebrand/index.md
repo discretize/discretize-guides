@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 specialization: Firebrand
 boons:
   - name: Quickness
@@ -22,7 +22,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-17T12:34:52.295Z "
+date: "2024-04-19T14:48:42.020Z "
 title: Celestial Firebrand
 role: Hybrid
 cmGuide: ""

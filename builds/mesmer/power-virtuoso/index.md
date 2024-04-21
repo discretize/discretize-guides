@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2023-10-10T14:12:08.114Z "
+date: "2024-04-19T16:24:39.865Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
- 
+  
 <Advanced> 
  
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -81,7 +81,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <Grid>
 <GridItem sm="7">
 ### Traits
-<Traits traits1Id="10" traits1="Domination" traits1SelectedIds="686,713,681" traits2Id="1" traits2="Dueling" traits2SelectedIds="701,708,692" traits3Id="66" traits3="Virtuoso" traits3SelectedIds="2208,2205,2223"/>
+<Traits traits1Id="10" traits1="Domination" traits1SelectedIds="686,713,681" traits2Id="1" traits2="Dueling" traits2SelectedIds="701,708,692" traits3Id="66" traits3="Virtuoso" traits3SelectedIds="2208,2205,2206"/>
 
 ### Situational Traits
 
@@ -204,7 +204,7 @@ They do however benefit from <Effect name="Exposed"/>.
 
 <Beginner>
 
-### Step by Step Begginer Rotation
+### Step by Step Beginner Rotation
 
 **Step 1: Opener**
 
