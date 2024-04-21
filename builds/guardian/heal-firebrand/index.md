@@ -32,7 +32,7 @@ classification:
   - 3
   - 1
   - 2
-date: "2024-04-21T10:23:32.825Z "
+date: "2024-04-21T10:24:18.607Z "
 title: Heal Firebrand
 rating: Good
 role: Support
@@ -43,7 +43,7 @@ cmGuide: pug
    
 <Warning> 
 
-This build is very common in PuGs. More info about building effective team compositions can be found [here](/guides/teamcomp101). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running <BuildLink build="Power Scrapper" specialization="Scrapper"/> or <BuildLink build="Power Herald" specialization="Herald"/>. For parties wanting to transition to no heal runs, but still feel the need for a bit of extra support, there are hybrid builds such as Celstial Scourge or Firebrand that can be situationally useful, especialy on Sunqua Peak and Silent Surf CMs.
+This build is common in PuGs. More info about building effective team compositions can be found [here](/guides/teamcomp101). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running <BuildLink build="Power Scrapper" specialization="Scrapper"/> or <BuildLink build="Power Herald" specialization="Herald"/>. For parties wanting to transition to no heal runs, but still feel the need for a bit of extra support, there are hybrid builds such as Celstial Scourge or Firebrand that can be situationally useful, especialy on Sunqua Peak and Silent Surf CMs.
  
 </Warning>
 
