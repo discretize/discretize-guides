@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:31:13.876Z "
+date: "2024-04-24T05:32:31.013Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -89,7 +89,7 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
 | <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party through <Skill name="Heroic Command"/> . 
 Note: If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast/static groups you may be able to get away with 0% Boon duration if you precast 30s of <Boon name="Alacrity"/> at the _Mistlock Singularity_. <Boon name="Alacrity"/> can then be maintained for around 1 minute 10s. Any fights longer than that should use a different approach. (The same applies to <Trait name="Vindication"/>)
-| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase by increasing the missile count by up to 15.. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_ as mentioned in the above note.   
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase by increasing the missile count by up to 15. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_ as mentioned in the above note.   
                                                                                                                                             |
 
 ### Defiance Bar Damage
