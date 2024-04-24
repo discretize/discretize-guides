@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-13T23:25:43.432Z "
+date: "2024-04-24T04:46:07.879Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -87,8 +87,10 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
-| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
-| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
+| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party through <Skill name="Heroic Command"/> . 
+Note: If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast/static groups you may be able to get away with 0% Boon duration if you precast 30s of <Boon name="Alacrity"/> at the _Mistlock Singularity_. <Boon name="Alacrity"/> can then be maintained for around 1 minute 10s. Any fights longer than that should use a different approach. (The same applies to <Trait name="Vindication"/>)
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase by increasing the missile count by up to 15.. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_ as mentioned in the above note.   
+                                                                                                                                            |
 
 ### Defiance Bar Damage
 
@@ -205,20 +207,20 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 - <Skill name="Imperial Guard"/> - A 2 second block that can be used in place of <Boon name="Aegis"/>, increasing damage per attack blocked.
 - <Skill name="Eternity's Requiem"/> - High damage skill. Use as soon as possible when weapon swapping.
 
-**Sword Skills:** MARK
+**Sword Skills:** 
 
-- <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
-- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
-- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
-- <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
-- <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
+- <Skill name="Preparation Thrust"/> - Complete auto attack chain as much as possible. Third attack does highest damage.
+- <Skill name="Chilling Isolation"/> - High damage skill that should be used off cooldown. 
+- <Skill name="Unrelenting Assault"/> - A two second evade that can be used in place of dodge. Lowest priority filler skill.
+- <Skill name="Shackling Wave"/> - High damage skill that is used in combination with <Skill name="Death strike"/> for animation cancelling.
+- <Skill name="Death strike"/> - Shadowsteps to target and comboed with <Skill name="Shackling Wave"/> for damage.
 
 **Staff Skills:**
 
-- <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
-- <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
-- <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
-- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
+- <Skill name="Rapid Swipe"/> - Auto-attack chain that increases in daamage. Also provides a small amount of healing to allies.
+- <Skill name="Menders Rebuke"/> - If stuck in staff, this is your highest damage skill. Also heals allies
+- <Skill name="Warding Rift"/> - A 2 second block that acts like 2 continuous seconds of <Boon name="Aegis"/>.
+- <Skill name="Renewing Wave"/> - Blast finisher used in pre-buff. Also used as a condition cleanse and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
 
 ---
@@ -226,51 +228,50 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 **Notable Traits:**
 
 - <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which make your next attack(s) steal health.
-- <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
-- <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
-- <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
-- <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
-- <Trait name="Vindication"/> - Increases the missile count of <Skill name="Citadel Bombardment"/> to 15.
-- <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
-- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
+- <Trait name="Dance of Death"/> - Can be taken in place of <Trait name="Swift Termination"/> if you are struggling with survivability. Generally not recommended as it is a DPS loss.
+- <Trait name="Rising Tide"/> - Always taken. It provides a 7% damage increase while your health is above 90%.
+- <Trait name="Charged Mists"/> - Always taken.One of the key parts to being a Renegade playing is Legend swapping below 10 energy to ativate this trait, granting bonus 25 energy.
+- <Trait name="Ashen Demeanor"/> - Always taken. Provides <Condition name="Vulnerability"/> to CC'd targets.
+- <Trait name="Brutal Momentum"/> - Increases Critical chance endurance is full. Try to anticipate mechanics that require dodging and replace it with <Skill name="Warding Rift"/> , <Skill name="Unrelenting Assault"/> or  <Skill name="Imperial Guard"/>.
+- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%. Almost always taken. _See note under <Trait name="Lasting Legacy"/> for more information.
 
 ### Legends
 
-**<Skill name="Legendary Renegade Stance"/>**
+**<Skill name="Legendary Renegade Stance"/>**: Recent patches have changed Renegade Stance interaction. Be mindful of interactions.
+Activating a stance automatically applies <Boon name="Protection"/> from the trait, <Trait name="All for One"/>.
 
-- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
-- <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
-- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ of a second once per second for six seconds.
-- <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>
-- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack.
-
----
-
-**<Skill name="Legendary Assassin Stance"/>**
-
-- <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
-- <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
-- <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
-- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
-- <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
+- <Skill name="Breakrazors Bastion"/> - Heal skill that when buffed, provides barrier. In general this skill is used to apply the 'Band Together' trait for other stances.
+- <Skill name="Razorclaws Rage"/> - Can be used to apply <Condition name="Bleeding"/> on attack for a party. Can be used in situations where you have excess energy.
+- <Skill name="Darkrazors Daring"/> - Your main CC skill as a Renegade. <Control name="Daze"/>s enemies in an area around it for 600 Defiance bar damage. Is also used as a <Control name="Stun"/> break. However be mindful that this does activate <Trait name="Contained Temper"/>, giving 15 extra energy.Make sure to legend swap after stun breaking to activate <Trait name="Charged Mists"/>.
+- <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>. Try to enhance this with other stances to provide extra damage through chilled. Use this after <Skill name="Darkrazors Daring"/> to ehance the damage.
+- <Skill name="Soulcleaves Summit"/> - This skill now prevents energy drain. Can be used for the purposes of a fire field for pre-buffing or blasting mid fights, however in general, is used the least as a part of the rotation.
 
 ---
 
-**<Skill name="Legendary Dwarf Stance"/>**
+**<Skill name="Legendary Assassin Stance"/>**: Default stance that provides the highest damage.
 
-- <Skill name="Soothing Stone"/> - Powerful self-heal and condition cleanse.
-- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
-- <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
-- <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
-- <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
+- <Skill name="Enchanted Daggers"/> - Provides lifesteal for the next 6 attacks. Does also provide a small DPS increase and can be used when extra energy is available.
+- <Skill name="Phase Traversal"/> - Shadowsteps you to your target. This is useful in a lot of situations with bypassing terrain and works in a similar way to skills such as a Guardian's <Skill name="Judge's Intervention"/>. Often used for various skips in different fratals.
+- <Skill name="Riposting Shadows"/> - Stunbreaks and evades backwards. This also activates <Trait name="Contained Temper"/> if used as such. Be mindful, that following up with skill with a gap closer such as <Skill name="Death strike"/> will be needed to re-engage the boss.
+- <Skill name="Impossible Odds"/> - **Toggle:** Provides bonus hits to a target. In general, this should always be activated as part of the Shiro rotation.
+- <Skill name="Jade Winds"/> - Primarily used to <Control name="Stun"/> five nearby enemies. For the energy cost, this is not the most effective, however due to the AoE nature, it can be used on bosses such as Artsariiv during the 33% clone phase by standing between 2 clones.
 
 ---
 
-**<Skill name="Legendary Demon Stance"/>**
+**<Skill name="Legendary Dwarf Stance"/>**: Used primarily to give <Boon name="Stability"/> to a party.
+
+- <Skill name="Soothing Stone"/> - The only self-heal for revenant that condition cleanses. Primarily used when coupled when <Condition name="Immobolize"/> effects are applied to you such as buttons for Aetherblade and chains for Cliffside.
+- <Skill name="Inspiring Reinforcement"/> - Grants <Boon name="Stability"/> to your party. In pugs, most healers are now able to provide stability. However, it is always good to check in case they are unable to do so.
+- <Skill name="Forced Engagement"/> - A chain is attached to a target, applying <Condition name="Taunt"/> and <Condition name="Slow"/>. One of the strongest slow CCs skills for Revenant.
+- <Skill name="Vengeful Hammers"/> - **Toggle:** A weaker version of <Skill name="Impossible Odds"/>, however does provide self-sustain through healing per hammer hit. Can be used just like impossible odds, but remember that the purpose of this stance is to provide <Boon name="Stability"/>. Ensure that you have arund 30 energy for <Skill name="Inspiring Reinforcement"/> when needed.
+- <Skill name="Rite of the Great Dwarf"/> - High energy costs tunbreak which reduces incoming damage for your party. Try to avoid using this skill as much as possible.
+
+---
+
+**<Skill name="Legendary Demon Stance"/>**: Used mostly to boon strip on fractals with <Instability name="No Pain No Gain"/>. If you are unfamiliar with players/classes/specialisation, check to make sure they do not have in built boon strip as part of their rotation.
 
 - <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
-- <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
+- <Skill name="Pain Absorption"/> - Mostly used as a stunbreak or to provide <Boon name="Resistance"/> to yourself and your party. Often used to bypass <Condition name="Immobolize"/>.
 - <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
 - <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
 - <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
