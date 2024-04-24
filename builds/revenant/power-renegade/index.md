@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:11:52.662Z "
+date: "2024-04-24T05:13:15.334Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -220,7 +220,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 - <Skill name="Rapid Swipe"/> - Auto-attack chain that increases in daamage. Also provides a small amount of healing to allies.
 - <Skill name="Menders Rebuke"/> - If stuck in staff, this is your highest damage skill. Also heals allies
 - <Skill name="Warding Rift"/> - A 2 second block that acts like 2 continuous seconds of <Boon name="Aegis"/>.
-- <Skill name="Renewing Wave"/> - Blast finisher used in pre-buff. Also used as a condition cleanse and heals allies.
+- <Skill name="Renewing Wave"/> - Blast finisher used in precasting. Also used as a condition cleanse and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
 
 ---
@@ -244,13 +244,13 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 - <Skill name="Razorclaws Rage"/> - Can be used to apply <Condition name="Bleeding"/> on attack for a party. Can be used in situations where you have excess energy.
 - <Skill name="Darkrazors Daring"/> - Your main CC skill as a Renegade. <Control name="Daze"/>s enemies in an area around it for 600 Defiance bar damage. Is also used as a <Control name="Stun"/> break. However be mindful that this does activate <Trait name="Contained Temper"/>, giving 15 extra energy. Make sure to **NOT** legend swap after stun breaking to activate <Trait name="Charged Mists"/>.
 - <Skill name="Icerazors Ire"/> - The highest damage skill for Renegade stance. Applies <Condition name="Vulnerability"> on targets.</Condition>. Try to enhance this with other stances to provide extra damage through chilled. Use this after <Skill name="Darkrazors Daring"/> in an opener to enhance the damage.
-- <Skill name="Soulcleaves Summit"/> - This skill now prevents energy drain. Can be used for the purposes of a fire field for pre-buffing or blasting mid fights, however in general, is used the least as a part of the rotation.
+- <Skill name="Soulcleaves Summit"/> - This skill now prevents energy drain. Can be used for the purposes of a fire field for precasting or blasting mid fights, however in general, is used the least as a part of the rotation.
 
 ---
 
 **<Skill name="Legendary Assassin Stance"/>**: Default stance that provides the highest damage.
 
-- <Skill name="Enchanted Daggers"/> - Provides lifesteal for the next 6 attacks. Does also provide a small DPS increase and can be used when extra energy is available.
+- <Skill name="Enchanted Daggers"/> - Provides lifesteal for the next 6 attacks. Does also provide a small DPS increase and can be used when extra energy is available. Often used in precasting.
 - <Skill name="Phase Traversal"/> - Shadowsteps you to your target. This is useful in a lot of situations with bypassing terrain and works in a similar way to skills such as a Guardian's <Skill name="Judge's Intervention"/>. Often used for various skips in different fratals.
 - <Skill name="Riposting Shadows"/> - Stunbreaks and evades backwards. This also activates <Trait name="Contained Temper"/> if used as such. Be mindful, that following up with skills with a gap closer such as <Skill name="Death strike"/> will be needed to re-engage the boss.
 - <Skill name="Impossible Odds"/> - **Toggle:** Provides bonus hits to a target. In general, this should always be activated as part of the Shiro rotation.
