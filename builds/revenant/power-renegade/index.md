@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:13:15.334Z "
+date: "2024-04-24T05:23:00.903Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -193,7 +193,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 **Citadel Order Skills:**
 
-- <Skill name="Heroic Command"/> (F2) - Gain 2x <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack. Not used as much in pugs outside of Skorvold Islands. 
+- <Skill name="Heroic Command"/> (F2) - Gain 2x <Boon name="Might"/> for each Kalla's fervor stack. Not used as much in pugs outside of Skorvold Islands. Can be coupled with <Trait name="Lasting Legacy"/> for more might. _See note under <Trait name="Lasting Legacy"/> for more information_.
 - <Skill name="Citadel Bombardment"/> (F3) - Filler skill, ideally used during Impossible Odds
 - <Skill name="Orders from Above"/> (F4) -  Most important Skill, click off cooldown to maintain 100% <Boon name="Alacrity"/> uptime. 
 
@@ -217,8 +217,8 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 **Staff Skills:**
 
-- <Skill name="Rapid Swipe"/> - Auto-attack chain that increases in daamage. Also provides a small amount of healing to allies.
-- <Skill name="Menders Rebuke"/> - If stuck in staff, this is your highest damage skill. Also heals allies
+- <Skill name="Rapid Swipe"/> - Auto-attack chain that increases in damage. Also provides a small amount of healing to allies.
+- <Skill name="Menders Rebuke"/> - If stuck in staff, this is your highest damage skill. Also heals allies.
 - <Skill name="Warding Rift"/> - A 2 second block that acts like 2 continuous seconds of <Boon name="Aegis"/>.
 - <Skill name="Renewing Wave"/> - Blast finisher used in precasting. Also used as a condition cleanse and heals allies.
 - <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
