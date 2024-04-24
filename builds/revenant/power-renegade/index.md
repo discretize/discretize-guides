@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:10:15.749Z "
+date: "2024-04-24T05:11:52.662Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -227,13 +227,13 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 **Notable Traits:**
 
-- <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
+- <Trait name="Swift Termination"/> - 20% damage increase when an enemy is below 50% health.
 - <Trait name="Dance of Death"/> - Can be taken in place of <Trait name="Swift Termination"/> if you are struggling with survivability. Generally not recommended as it is a DPS loss.
 - <Trait name="Rising Tide"/> - Always taken. It provides a 7% damage increase while your health is above 90%.
-- <Trait name="Charged Mists"/> - Always taken.One of the key parts to being a Renegade playing is Legend swapping below 10 energy to ativate this trait, granting bonus 25 energy.
+- <Trait name="Charged Mists"/> - Always taken. One of the key parts to being a Renegade playing is Legend swapping below 10 energy to ativate this trait, granting bonus 25 energy.
 - <Trait name="Ashen Demeanor"/> - Always taken. Provides <Condition name="Vulnerability"/> to CC'd targets.
-- <Trait name="Brutal Momentum"/> - Increases Critical chance endurance is full. Try to anticipate mechanics that require dodging and replace it with <Skill name="Warding Rift"/> , <Skill name="Unrelenting Assault"/> or  <Skill name="Imperial Guard"/>.
-- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%. Almost always taken. _See note under <Trait name="Lasting Legacy"/> for more information.
+- <Trait name="Brutal Momentum"/> - Increases Critical chance when endurance is full. Try to anticipate mechanics that require dodging and replace it with <Skill name="Warding Rift"/> , <Skill name="Unrelenting Assault"/> or  <Skill name="Imperial Guard"/>.
+- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%. Almost always taken. _See note under <Trait name="Lasting Legacy"/> for more information_.
 
 ### Legends
 
