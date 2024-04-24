@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:28:48.349Z "
+date: "2024-04-24T05:31:13.876Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -261,7 +261,7 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 **<Skill name="Legendary Dwarf Stance"/>**: Used primarily to give <Boon name="Stability"/> to a party.
 
 - <Skill name="Soothing Stone"/> - The only self-heal for revenant that condition cleanses. Primarily used when coupled when <Condition name="Immobolize"/> effects are applied to you such as buttons for Aetherblade and chains for Cliffside.
-- <Skill name="Inspiring Reinforcement"/> - Grants <Boon name="Stability"/> to your party. In pugs, most healers are now able to provide stability. However, it is always good to check in case they are unable to do so.
+- <Skill name="Inspiring Reinforcement"/> - Grants <Boon name="Stability"/> to your party. In pugs, most healers are now able to provide stability. However, it is always good to check in case they need help.
 - <Skill name="Forced Engagement"/> - A chain is attached to a target, applying <Condition name="Taunt"/> and <Condition name="Slow"/>. One of the strongest slow CCs skills for Revenant.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** A weaker version of <Skill name="Impossible Odds"/>, however does provide self-sustain through healing per hammer hit. Can be used just like impossible odds, but remember that the purpose of this stance is to provide <Boon name="Stability"/>. Ensure that you have arund 30 energy for <Skill name="Inspiring Reinforcement"/> when needed.
 - <Skill name="Rite of the Great Dwarf"/> - High energy costs stunbreak which reduces incoming damage for your party. Try to avoid using this skill as much as possible.
