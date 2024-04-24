@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:23:00.903Z "
+date: "2024-04-24T05:28:48.349Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -278,11 +278,11 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 
 ---
 
-**<Skill name="Legendary Centaur Stance"/>**: The strongest supportive stance in your arsenal. Is not used for damage, but mostly for its utility, namely <Skill name="Protective Solace"/>. This stance can be empowered by Renegade skills.
+**<Skill name="Legendary Centaur Stance"/>**: The strongest supportive stance in your arsenal. Is not used for damage, but mostly for its utility, namely <Skill name="Protective Solace"/>. This stance can be empowered by Renegade skills (most enhance healing).
 
 - <Skill name="Project Tranquility"/> - Summons Ventari's Tablet. Must be used in order to activate other skills. If <Skill name="Energy Expulsion"/> was used, remember to activate this ability to regain access to your other skills.
-- <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
+- <Skill name="Ventaris Will"/> - Moves Ventari's Tablet to the target location.
 - <Skill name="Protective Solace"/> - **Toggle:** The most impotant skill for a lot of damage/mechanic mitigation in non-CM fractals. Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet. Especially useful in Uncategorised to block harpy arrows and lasers when running up the ramp.
 - <Skill name="Natural Harmony"/> - Can be used to heal the party if needed. Used more on Heal-based revenant builds, but can be used in a pinch.
 - <Skill name="Purifying Essence"/> - Heals allies per condition cleansed (up to 3 conditions).
-- <Skill name="Energy Expulsion"/> - Drains 35 energy to explode Ventari's Tablet, cleansing one condition. If this skill is enhanced by a Renegade stance, it also provides 3x <Boon name="Stability"/> to a party.
+- <Skill name="Energy Expulsion"/> - Cleanses one condition and also CCs the enemy. If this skill is enhanced by a Renegade stance, it also provides 3x <Boon name="Stability"/> to a party. Remember to use <Skill name="Project Tranquility"/> after activating this skill.
