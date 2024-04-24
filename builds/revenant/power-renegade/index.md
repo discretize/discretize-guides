@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T04:46:07.879Z "
+date: "2024-04-24T05:10:15.749Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -237,13 +237,13 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 ### Legends
 
-**<Skill name="Legendary Renegade Stance"/>**: Recent patches have changed Renegade Stance interaction. Be mindful of interactions.
+**<Skill name="Legendary Renegade Stance"/>**: Recent patches have changed Renegade Stance interaction. Be mindful of interactions with itself and <Skill name="Legendary Centaur Stance"/>.
 Activating a stance automatically applies <Boon name="Protection"/> from the trait, <Trait name="All for One"/>.
 
-- <Skill name="Breakrazors Bastion"/> - Heal skill that when buffed, provides barrier. In general this skill is used to apply the 'Band Together' trait for other stances.
+- <Skill name="Breakrazors Bastion"/> - Heal skill that when buffed, provides barrier. In general this skill should be used to apply the 'Band Together' trait for other stances.
 - <Skill name="Razorclaws Rage"/> - Can be used to apply <Condition name="Bleeding"/> on attack for a party. Can be used in situations where you have excess energy.
-- <Skill name="Darkrazors Daring"/> - Your main CC skill as a Renegade. <Control name="Daze"/>s enemies in an area around it for 600 Defiance bar damage. Is also used as a <Control name="Stun"/> break. However be mindful that this does activate <Trait name="Contained Temper"/>, giving 15 extra energy.Make sure to legend swap after stun breaking to activate <Trait name="Charged Mists"/>.
-- <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>. Try to enhance this with other stances to provide extra damage through chilled. Use this after <Skill name="Darkrazors Daring"/> to ehance the damage.
+- <Skill name="Darkrazors Daring"/> - Your main CC skill as a Renegade. <Control name="Daze"/>s enemies in an area around it for 600 Defiance bar damage. Is also used as a <Control name="Stun"/> break. However be mindful that this does activate <Trait name="Contained Temper"/>, giving 15 extra energy. Make sure to **NOT** legend swap after stun breaking to activate <Trait name="Charged Mists"/>.
+- <Skill name="Icerazors Ire"/> - The highest damage skill for Renegade stance. Applies <Condition name="Vulnerability"> on targets.</Condition>. Try to enhance this with other stances to provide extra damage through chilled. Use this after <Skill name="Darkrazors Daring"/> in an opener to enhance the damage.
 - <Skill name="Soulcleaves Summit"/> - This skill now prevents energy drain. Can be used for the purposes of a fire field for pre-buffing or blasting mid fights, however in general, is used the least as a part of the rotation.
 
 ---
@@ -252,9 +252,9 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 
 - <Skill name="Enchanted Daggers"/> - Provides lifesteal for the next 6 attacks. Does also provide a small DPS increase and can be used when extra energy is available.
 - <Skill name="Phase Traversal"/> - Shadowsteps you to your target. This is useful in a lot of situations with bypassing terrain and works in a similar way to skills such as a Guardian's <Skill name="Judge's Intervention"/>. Often used for various skips in different fratals.
-- <Skill name="Riposting Shadows"/> - Stunbreaks and evades backwards. This also activates <Trait name="Contained Temper"/> if used as such. Be mindful, that following up with skill with a gap closer such as <Skill name="Death strike"/> will be needed to re-engage the boss.
+- <Skill name="Riposting Shadows"/> - Stunbreaks and evades backwards. This also activates <Trait name="Contained Temper"/> if used as such. Be mindful, that following up with skills with a gap closer such as <Skill name="Death strike"/> will be needed to re-engage the boss.
 - <Skill name="Impossible Odds"/> - **Toggle:** Provides bonus hits to a target. In general, this should always be activated as part of the Shiro rotation.
-- <Skill name="Jade Winds"/> - Primarily used to <Control name="Stun"/> five nearby enemies. For the energy cost, this is not the most effective, however due to the AoE nature, it can be used on bosses such as Artsariiv during the 33% clone phase by standing between 2 clones.
+- <Skill name="Jade Winds"/> - Primarily used to <Control name="Stun"/> multiple enemies (up to 5). For the energy cost, this is not the most effective, however due to the AoE nature, it can be used on bosses such as Artsariiv during the 33% clone phase by standing between 2 clones.
 
 ---
 
@@ -264,25 +264,25 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 - <Skill name="Inspiring Reinforcement"/> - Grants <Boon name="Stability"/> to your party. In pugs, most healers are now able to provide stability. However, it is always good to check in case they are unable to do so.
 - <Skill name="Forced Engagement"/> - A chain is attached to a target, applying <Condition name="Taunt"/> and <Condition name="Slow"/>. One of the strongest slow CCs skills for Revenant.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** A weaker version of <Skill name="Impossible Odds"/>, however does provide self-sustain through healing per hammer hit. Can be used just like impossible odds, but remember that the purpose of this stance is to provide <Boon name="Stability"/>. Ensure that you have arund 30 energy for <Skill name="Inspiring Reinforcement"/> when needed.
-- <Skill name="Rite of the Great Dwarf"/> - High energy costs tunbreak which reduces incoming damage for your party. Try to avoid using this skill as much as possible.
+- <Skill name="Rite of the Great Dwarf"/> - High energy costs stunbreak which reduces incoming damage for your party. Try to avoid using this skill as much as possible.
 
 ---
 
 **<Skill name="Legendary Demon Stance"/>**: Used mostly to boon strip on fractals with <Instability name="No Pain No Gain"/>. If you are unfamiliar with players/classes/specialisation, check to make sure they do not have in built boon strip as part of their rotation.
 
 - <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
-- <Skill name="Pain Absorption"/> - Mostly used as a stunbreak or to provide <Boon name="Resistance"/> to yourself and your party. Often used to bypass <Condition name="Immobolize"/>.
-- <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
-- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
-- <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
+- <Skill name="Pain Absorption"/> - Mostly used as a stunbreak or to provide <Boon name="Resistance"/> to yourself and your party. Often used to bypass the effect of <Condition name="Immobolize"/>.
+- <Skill name="Banish Enchantment"/> - Costs 20 energy to remove three boons from enemies for fractals with <Instability name="No Pain No Gain"/>. Remember that this instability happens every 20 seconds, so try to plan your rotation around that 20 second gap. 
+- <Skill name="Call to Anguish"/> - Leap skill that pulls five nearby enemies together. Often used as a skip or a CC.
+- <Skill name="Embrace the Darkness"/> - **Toggle:** Decent energy drain effect that provides <Condition name="Torment"/> to nearby enemies. Again, can be used in a similar way to <Skill name="Impossible Odds"/> but bear in mind why you are using this stance to begin with.
 
 ---
 
-**<Skill name="Legendary Centaur Stance"/>**
+**<Skill name="Legendary Centaur Stance"/>**: The strongest supportive stance in your arsenal. Is not used for damage, but mostly for its utility, namely <Skill name="Protective Solace"/>. This stance can be empowered by Renegade skills.
 
-- <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
+- <Skill name="Project Tranquility"/> - Summons Ventari's Tablet. Must be used in order to activate other skills. If <Skill name="Energy Expulsion"/> was used, remember to activate this ability to regain access to your other skills.
 - <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
-- <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
-- <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
-- <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
-- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
+- <Skill name="Protective Solace"/> - **Toggle:** The most impotant skill for a lot of damage/mechanic mitigation in non-CM fractals. Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet. Especially useful in Uncategorised to block harpy arrows and lasers when running up the ramp.
+- <Skill name="Natural Harmony"/> - Can be used to heal the party if needed. Used more on Heal-based revenant builds, but can be used in a pinch.
+- <Skill name="Purifying Essence"/> - Heals allies per condition cleansed (up to 3 conditions).
+- <Skill name="Energy Expulsion"/> - Drains 35 energy to explode Ventari's Tablet, cleansing one condition. If this skill is enhanced by a Renegade stance, it also provides 3x <Boon name="Stability"/> to a party.
