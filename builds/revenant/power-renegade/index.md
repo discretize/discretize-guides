@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-24T05:32:31.013Z "
+date: "2024-04-25T01:24:09.641Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -193,7 +193,7 @@ As for legends that you want to run, the general rule of thumb in groups that pe
 
 **Citadel Order Skills:**
 
-- <Skill name="Heroic Command"/> (F2) - Gain 2x <Boon name="Might"/> for each Kalla's fervor stack. Not used as much in pugs outside of Skorvold Islands. Can be coupled with <Trait name="Lasting Legacy"/> for more might. _See note under <Trait name="Lasting Legacy"/> for more information_.
+- <Skill name="Heroic Command"/> (F2) - Gain 2x <Boon name="Might"/> for each Kalla's Fervor stack. Not used as much in pugs outside of Skorvold Islands. Can be coupled with <Trait name="Lasting Legacy"/> for more might. _See note under <Trait name="Lasting Legacy"/> for more information_.
 - <Skill name="Citadel Bombardment"/> (F3) - Filler skill, ideally used during Impossible Odds
 - <Skill name="Orders from Above"/> (F4) -  Most important Skill, click off cooldown to maintain 100% <Boon name="Alacrity"/> uptime. 
 
@@ -260,7 +260,7 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 
 **<Skill name="Legendary Dwarf Stance"/>**: Used primarily to give <Boon name="Stability"/> to a party.
 
-- <Skill name="Soothing Stone"/> - The only self-heal for revenant that condition cleanses. Primarily used when coupled when <Condition name="Immobolize"/> effects are applied to you such as buttons for Aetherblade and chains for Cliffside.
+- <Skill name="Soothing Stone"/> - The only self-heal for revenant that condition cleanses. Primarily used when coupled when <Condition name="Immobile"/> effects are applied to you such as buttons for Aetherblade and chains for Cliffside.
 - <Skill name="Inspiring Reinforcement"/> - Grants <Boon name="Stability"/> to your party. In pugs, most healers are now able to provide stability. However, it is always good to check in case they need help.
 - <Skill name="Forced Engagement"/> - A chain is attached to a target, applying <Condition name="Taunt"/> and <Condition name="Slow"/>. One of the strongest slow CCs skills for Revenant.
 - <Skill name="Vengeful Hammers"/> - **Toggle:** A weaker version of <Skill name="Impossible Odds"/>, however does provide self-sustain through healing per hammer hit. Can be used just like impossible odds, but remember that the purpose of this stance is to provide <Boon name="Stability"/>. Ensure that you have arund 30 energy for <Skill name="Inspiring Reinforcement"/> when needed.
