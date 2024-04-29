@@ -30,7 +30,7 @@ boons:
   - name: Fury
     uptime: 100%
     variant: Party
-code: "[&DQcKGQEdKB4jDwAABBMAAI8BAADPEgAA7RIAAAAAAAAAAAAAAAAAAAAAAAADLwBXADIAAA==]"
+code: "[&DQcBHQoZKD4jDyMPBBOCAY8BgQGHEoMB7RLtEgAAAAAAAAAAAAAAAAAAAAADLwBaADIAAA==]"
 cmGuide: ""
 classification:
   - 4
@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-04-29T22:45:19.758Z "
+date: "2024-04-29T22:52:04.455Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
  
@@ -120,9 +120,9 @@ Utilise <Specialization name="Mirage"/> for skips!
 ### Defiance Bar Damage
 |                                      |                      |
 | ----------------------------------   | -------------------- |
-| <Skill name="Gravity Well"/>         | 100-550 damage       |
-| <Skill name="Well of Senility"/>     | 300 damage  |
 | <Skill name="Signet of Humility"/>   | 600 damage           |
+| <Skill name="Gravity Well"/>         | 100-550 damage       |
+| <Skill name="Well of Senility"/>     | 300 damage           |
 | <Skill name="Time Sink"/>            | 100-400 damage       |
 | <Skill name="Counter Blade"/>        | 200 damage           |
 | <Skill name="Illusionary Wave"/>     | 150 damage           |
@@ -139,7 +139,7 @@ Utilise <Specialization name="Mirage"/> for skips!
 
 Every utility skill can be exchanged. 
 
-|                                                              |                                                                                                                                                                                            |
+| | |
 | ----- | ----- |
 | <Skill name="Well of Calamity" size="big" disableText/> | Highest damage priority. |
 | <Skill name="Well of Action" size="big" disableText/> | Necessary for boons; 8 <Boon name="Might"/> & <Boon name="Fury"/>. |
@@ -282,10 +282,6 @@ At the boss
 - Use <Skill name="Unstable Bladestorm"/>.
 
 </Card>
-### Golem Rotation
-
-<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
-
 ### Rotation Adjustments
 The opener takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
 
