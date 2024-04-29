@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-04-29T22:52:04.455Z "
+date: "2024-04-29T22:57:37.626Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
  
@@ -112,9 +112,6 @@ You can go play Illusions over Domination when you're facing <Boon name="Quickne
 
 <Trait name="All's Well That Ends Well"/> can be taken for an additional group sustain.
 
-
-Utilise <Specialization name="Mirage"/> for skips!
-
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
 ### Defiance Bar Damage
@@ -153,14 +150,7 @@ Every utility skill can be exchanged.
 | <Skill name="Mantra of Resolve" size="big" disableText/> | Group-wide condi cleanse. |
 | <Skill name="Feedback" size="big" disableText/> | Mainly for Artsariiv to reflect Taw Shot. |
 | <Skill name="Mimic" size="big" disableText/> | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips. |
-| **Skips** | |
-| <Skill name="Portal Entre" size="big" disableText/> | For skipping sections of the fractal for your party. |
-| <Skill name="Blink" size="big" disableText/> | 1200 range blink, use it for skips! |
-| <Skill name="Mass Invisibility" size="big" disableText/> | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/> | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door. |
-| <Skill name="Mirage Thrust" size="big" disableText/> | 600 range leap, can be cancelled mid-air for slightly more range. |
-| <Skill name="Jaunt" size="big" disableText/> | 450 range blink, 3 charges. |
-| <Skill name="Illusionary Ambush" size="big" disableText/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips. |
+
 
 </GridItem>
 </Grid>
@@ -294,6 +284,20 @@ Based on that, another approach could be to by-pass phases with low resources by
 Otherwise double-casting Wells only makes sense at 9s+. Therefore you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
 </GridItem>
 </Grid>
-<Grid/>
-Skip
+<Divider text="Skips"/> 
+
+Utilise <Specialization name="Mirage"/> for skips!
+
+<Grid>
+<GridItem sm="6">
+| | |
+| **Skips** | |
+| <Skill name="Portal Entre" size="big" disableText/> | For skipping sections of the fractal for your party. |
+| <Skill name="Blink" size="big" disableText/> | 1200 range blink, use it for skips! |
+| <Skill name="Mass Invisibility" size="big" disableText/> | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
+| <Skill name="Well of Precognition" size="big" disableText/> | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door. |
+| <Skill name="Mirage Thrust" size="big" disableText/> | 600 range leap, can be cancelled mid-air for slightly more range. |
+| <Skill name="Jaunt" size="big" disableText/> | 450 range blink, 3 charges. |
+| <Skill name="Illusionary Ambush" size="big" disableText/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips. |
+</GridItem>
 </Grid>
