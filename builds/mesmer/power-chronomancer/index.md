@@ -1,25 +1,13 @@
 ---
-title: Power Alac Chronomancer
 hidden: false
 archive: false
-rating: Good
-role: Power Damage
 author: drauskam
-profession: Mesmer
 specialization: Chronomancer
 skills: []
 traits:
   - 2020
   - 2018
   - 853
-conditions:
-  - name: Vulnerability
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
-  - name: Slow
 boons:
   - name: Alacrity
     uptime: 100%
@@ -31,18 +19,30 @@ boons:
     uptime: 100%
     variant: Party
 code: "[&DQcBHQoZKD4jDyMPBBOCAY8BgQGHEoMB7RLtEgAAAAAAAAAAAAAAAAAAAAADLwBaADIAAA==]"
-cmGuide: ""
 classification:
   - 4
   - 4
   - 4
   - 3
   - 4
-date: "2024-04-29T22:57:37.626Z "
+date: "2024-05-07T21:44:40.942Z "
+title: Power Alac Chronomancer
+rating: Good
+role: Power Damage
+profession: Mesmer
+conditions:
+  - name: Vulnerability
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
+  - name: Slow
+cmGuide: ""
 ---
- The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
- 
- Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
+The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
+
+Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
   
 To succeed as a <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> in higher-end groups you'll need to be able to **adapt** your rotation and push the limits of your class.
 
@@ -54,9 +54,10 @@ If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name
 
 This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
-<Divider text="Equipment" />   
+<Divider text="Equipment"/>
+
 <CharacterWithAr>
-<Character title="" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":20522,"Armor":2192,"Power":3286,"Precision":2470,"Toughness":1225,"Vitality":1533,"Ferocity":1255,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.336666666666667,"Clone Critical Chance":0.75,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.336666666666667,"Power Coefficient":3123,"Power2 Coefficient":1363,"Burning Coefficient":0,"Bleeding Coefficient":26.565,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.73,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":24915.4940204257,"NonCrit Effective Power":8077.906244460939,"Power DPS":29961.912909429902,"Phantasm Effective Power":11037.537083333335,"Power2 DPS":5792.900671768709,"Siphon DPS":139.75,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":26.565,"Bleeding DPS":2558.5415625,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0.73,"Confusion DPS":75.5927775,"Poison Damage Tick":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":38528.69792119861,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24703,"helmRune":"Infiltration","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24703,"shouldersRune":"Infiltration","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24703,"coatRune":"Infiltration","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24703,"glovesRune":"Infiltration","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24703,"leggingsRune":"Infiltration","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24703,"bootsRune":"Infiltration","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24868,"weapon2OffAffix":"Assassin","weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":67530,"relicId":100916},"skills":{"healId":21750,"utility1Id":30525,"utility2Id":10267,"utility3Id":30814,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[1995,1978,1942]],"lines":[10,1,40]}}'>
+<Character title="" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":20522,"Armor":2192,"Power":3286,"Precision":2470,"Toughness":1225,"Vitality":1533,"Ferocity":1255,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.336666666666667,"Clone Critical Chance":0.75,"Phantasm Critical Chance":1,"Phantasm Critical Damage":2.336666666666667,"Power Coefficient":3123,"Power2 Coefficient":1363,"Burning Coefficient":0,"Bleeding Coefficient":26.565,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.73,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":24915.4940204257,"NonCrit Effective Power":8077.906244460939,"Power DPS":29961.912909429902,"Phantasm Effective Power":11037.537083333335,"Power2 DPS":5792.900671768709,"Siphon DPS":139.75,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":26.565,"Bleeding DPS":2558.5415625,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0.73,"Confusion DPS":75.5927775,"Poison Damage Tick":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":38528.69792119861,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":24703,"helmRune":"Infiltration","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24703,"shouldersRune":"Infiltration","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24703,"coatRune":"Infiltration","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24703,"glovesRune":"Infiltration","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24703,"leggingsRune":"Infiltration","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24703,"bootsRune":"Infiltration","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30687,"weapon2MainType":"Dagger","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2OffId":30699,"weapon2OffType":"Sword","weapon2OffSigilId":24868,"weapon2OffAffix":"Assassin","weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Assassin","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Assassin","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":67530,"relicId":100916},"skills":{"healId":21750,"utility1Id":30525,"utility3Id":30814,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[1995,1978,1942]],"lines":[10,1,40]}}'>
 
 <Item id="100947"/> instead of <Item id="100916"/> will increase your personal target damage, but eventually trade of cleave damage on Skorvald/Arkk/MAMA. 
 
@@ -73,35 +74,21 @@ Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust 
 <GridItem sm="7">
 ### Weapons Choices
 
-Always play Greatsword main-hand.
+Always use Greatsword in combat.
 
-<Grid>
-<GridItem sm="6">
-#### Main-hand
-**Dagger:**
-- strongest raw dps output
-- ranged cleave damage
-
-**Sword:**
-- Auto-Attack chains boon rip
-- <Skill name="Blurred Frenzy"/> as a strong burst/evade
-- <Skill name="Swap"/> to leap at a target at max 600 range
-
-</GridItem>
-<GridItem sm="6">
 #### Off-hand
-**Shield:**
-- <Skill name="Tides of Time"/> adds 8 group <Boon name="Might"/>
 
-**Pistol:**
-- <Skill name="Magic Bullet"/> is your highest CC option 
+While Sword off=hand is your highest damage weapon choice, both Shield and Focus can be used situationally. It is recommended to run focus in trash heavy T4s as standard.
+
+**Shield:**
+- <Skill name="Echo of Memory"/> and its flip skill <Skill name="Deja Vu"/> can be used for blocks.
+- <Skill name="Tides of Time"/> can provide an additional 8 group <Boon name="Might"/>
 
 **Focus:**
 - <Skill name="Temporal Curtain"/> is a 5 target pull
 - <Skill name="Phantasmal Warden"/> mitigates projectiles
 
-</GridItem>
-</Grid>
+
 <Traits traits1Id="1" traits1="Dueling" traits1SelectedIds="701,708,692" traits2Id="10" traits2="Domination" traits2SelectedIds="686,713,681" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1995,1978,1942"/>
 
 ### Situational Traits
@@ -112,9 +99,16 @@ You can go play Illusions over Domination when you're facing <Boon name="Quickne
 
 <Trait name="All's Well That Ends Well"/> can be taken for an additional group sustain.
 
-<Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+#### Traits for Skips
+While we don't recommend leaving your party during boss fights, when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore sectrions of some fractals entirely, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
+- <Trait name="Temporal Enchanter"/> - This will let you provide <Effect name="Superspeed"/> to yourself and your party.
+- <Trait name="Prismatic Understanding"/> - This will increase the duration of <Effect name="Stealth"/> gained from skills such as <Skill name="Mass Invisibility"/> and <Skill name="Veil"/>.
+- Utilize Mirage for skips when moving across large distances or you need leaps! <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+
+<Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
 
 ### Defiance Bar Damage
+
 |                                      |                      |
 | ----------------------------------   | -------------------- |
 | <Skill name="Signet of Humility"/>   | 600 damage           |
@@ -129,28 +123,34 @@ You can go play Illusions over Domination when you're facing <Boon name="Quickne
 | <Skill name="Signet of Domination"/> | 300 damage           |
 | <Skill name="Mantra of Distraction"/>| 150 damage per cast  |
 | <Condition name="Slow"/>             | 50 damage per second |
+
 </GridItem>
 
 <GridItem sm="5">
 ### Situational Skills
 
-Every utility skill can be exchanged. 
+|                                                                |                                                                                                                                                                           |
+|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Well of Senility" size="big" disableText/>        | Deals 300 break bar damage, your first choice if you require extra CC                                                                                                     |
+| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Boon removal used to strip <Instability name="No Pain, No Gain" />.                                                                                                       |
+| <Skill name="Mantra of Distraction" size="big" disableText/>   | Can be taken for extra CC with a short cooldown, mainly useful on MAMA.                                                                                                   |
+| <Skill name="Gravity Well" size="big" disableText/>            | Your most damaging Elite Skill option, however isn't as strong as <Skill name="Signet of Humility"/> for CC, dealing less breakbar damage and taking 3 seconds to finish. |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | Can be used as a source of group <Boon name="Stability"/> and <Boon name="Aegis"/>.                                                                                       |
+| <Skill name="Mantra of Pain" size="big" disableText/>          | Your final utility skill choice if no other utility is required.                                                                                                          |
+| <Skill name="Mantra of Resolve" size="big" disableText/>       | Group condi cleanse.                                                                                                                                                      |
+| <Skill name="Feedback" size="big" disableText/>                | Can be used on fights such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect Focused Wrath. Also useful to handle projectile spam in some T4 fractals.              |
+| <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips.                                             |
 
-| | |
-| ----- | ----- |
-| <Skill name="Well of Calamity" size="big" disableText/> | Highest damage priority. |
-| <Skill name="Well of Action" size="big" disableText/> | Necessary for boons; 8 <Boon name="Might"/> & <Boon name="Fury"/>. |
-| <Skill name="Well of Senility" size="big" disableText/> | Break bar damage. |
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Strongest Boon removal tool for <Instability name="No Pain, No Gain" />. |
-| <Skill name="Mantra of Distraction" size="big" disableText/> | Break bar damage, do not use final charge. |
-| <Skill name="Signet of Domination" size="big" disableText/> | Highest Break bar damage. |
-| <Skill name="Gravity Well" size="big" disableText/> | Higher DPS compared to <Skill name="Signet of Humility"/>. |
-| <Skill name="Mantra of Concentration" size="big" disableText/> | group-wide <Boon name="Stability"/> & <Boon name="Aegis"/>, do not use final charge.|
-| <Skill name="Mantra of Pain" size="big" disableText/> | DPS, when other utility is not required. |
-| <Skill name="Mantra of Resolve" size="big" disableText/> | Group-wide condi cleanse. |
-| <Skill name="Feedback" size="big" disableText/> | Mainly for Artsariiv to reflect Taw Shot. |
-| <Skill name="Mimic" size="big" disableText/> | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips. |
 
+
+| **Skips**                                                   |                                                                                                                                                                                            |
+|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Portal Entre" size="big" disableText/>         | For skipping sections of the fractal for your party.                                                                                                                                       |
+| <Skill name="Blink" size="big" disableText/>                | 1200 range blink, use it for skips!                                                                                                                                                        |
+| <Skill name="Mass Invisibility" size="big" disableText/>    | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
+| <Skill name="Mirage Thrust" size="big" disableText/>        | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
+| <Skill name="Jaunt" size="big" disableText/>                | 450 range blink, 3 charges.                                                                                                                                                                |
+| <Skill name="Illusionary Ambush" size="big" disableText/>   | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
 </GridItem>
 </Grid>
@@ -158,7 +158,7 @@ Every utility skill can be exchanged.
 <Divider text="Details"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="6">
 
 ### Skill priority
 To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as [Phantasms](https://wiki.guildwars2.com/wiki/Phantasm)/[Wells](https://wiki.guildwars2.com/wiki/Chronomancer#Utility) are our main damage source, but also slower than most skills of other classes.
@@ -176,17 +176,16 @@ If you lose yourself in the rotation follow this priority list:
    1. <Skill name="Well of Calamity"/>
    2. <Skill name="Well of Action"/>
    3. <Skill name="Gravity Well"/> (when no CC is required)
-   4. <Skill name="Phantasmal Disenchanter"/>
+   4. <Skill name="Phantasmal Disenchanter"/> / <Skill name="Well of Senility"/> if taken and not required for their utility!  
 
+4.  You should use a charge of <Skill name="Mantra of Pain"/> off cooldown and, the final charge should be used at the end of phases in fights with periods of downtime long enough for the skill to recharge.
 
-4.  Ideally, <Skill name="Mirror Blade"/> can be used three times and <Skill name="Mind Stab"/> twice. On Dagger/Sword you basically prioritise the same way <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
+5.  Ideally, <Skill name="Mirror Blade"/> can be used three times and <Skill name="Mind Stab"/> twice. On Dagger/Sword you basically prioritise the same way <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
 
-5.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefore is supposed to get cancelled as soon as one of the higher priority skills becomes available again.
-
-6. If close to phasing, remember that your personal damage skills are faster than Wells and Phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
+7. If close to phasing, remember that your direct damage skills hit quicker than Wells and Phantasms, so therefore should be prioritised.
 
 </GridItem>
-<GridItem sm="5">
+<GridItem sm="6">
 ### Shatters
 Even though casting Phantasms already covers a large portion of the necessary Alacrity uptime, shatters take an important part as well thanks to <Trait name="Stretched Time"/>.
 
@@ -260,9 +259,15 @@ Example with <Skill name="Continuum Split"/>:
 <Card title="Precasting">
 At the Mistlock Singularity
 
-- Blast fire fields with <Skill name="The Prestige"/>.
-- Use <Skill name="Tides of Time"/> twice (<Skill name="Continuum Split"/>)
-- Precast <Skill name="Mimic"/> and take the Singularity when your group is done pre-buffing.
+1. <Skill name="Time Warp"/>
+2. <Skill name="Well of Action"/>
+3. <Skill name="Tides of Time"/> 
+4. <Skill name="Continuum Split"/>
+   1. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
+5. <Skill name="Split Second"/>, <Skill name="Rewinder"/>, <Skill name="Time Sink"/> and <Skill name="Distortion"/>
+6. <Skill name="Mimic"/>
+7. Take the Mistlock Singularity
+8. Adjust utility skills for the encounter
 
 At the boss
 
@@ -282,22 +287,5 @@ Often times you won't even have access to all the skills that got used in the op
 Based on that, another approach could be to by-pass phases with low resources by duplicating the few options you have.
 
 Otherwise double-casting Wells only makes sense at 9s+. Therefore you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
-</GridItem>
-</Grid>
-<Divider text="Skips"/> 
-
-Utilise <Specialization name="Mirage"/> for skips!
-
-<Grid>
-<GridItem sm="6">
-| | |
-| **Skips** | |
-| <Skill name="Portal Entre" size="big" disableText/> | For skipping sections of the fractal for your party. |
-| <Skill name="Blink" size="big" disableText/> | 1200 range blink, use it for skips! |
-| <Skill name="Mass Invisibility" size="big" disableText/> | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/> | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door. |
-| <Skill name="Mirage Thrust" size="big" disableText/> | 600 range leap, can be cancelled mid-air for slightly more range. |
-| <Skill name="Jaunt" size="big" disableText/> | 450 range blink, 3 charges. |
-| <Skill name="Illusionary Ambush" size="big" disableText/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips. |
 </GridItem>
 </Grid>
