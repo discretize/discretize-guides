@@ -1,8 +1,15 @@
 ---
+title: Power Virtuoso
 hidden: false
 archive: false
 hasBeginner: true
+rating: Good
+role: Power Damage
+profession: Mesmer
 specialization: Virtuoso
+conditions:
+  - name: Vulnerability
+    uptime: 25 stacks
 boons: []
 code: "[&DQcBHQoZQjojDyMP3RqPAY8B3RppAWkB7RIAAAAAAAAAAAAAAAAAAAAAAAADLwAxAFoAAA==]"
 classification:
@@ -11,14 +18,8 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-04-19T16:24:39.865Z "
-title: Power Virtuoso
-rating: Good
-role: Power Damage
-profession: Mesmer
-conditions:
-  - name: Vulnerability
-    uptime: 25 stacks
+date: "2024-04-19T16:24:39.865Z"
+
 ---
   
 <Advanced> 
@@ -131,6 +132,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 - You can run Pistol instead of Focus on fights with multiple enemies when deciding to run this variant as <Skill name="Phantasmal Warden"/> does not always attack your target.
 - Greatswords, Swords, Pistols and Foci with <Item name="Night" type="Sigil" disableText/>, <Item name="Serpent Slaying" type="Sigil" disableText/> and other slaying sigils.
 - Torch for stealth, blasting, and precasting
+- Riffle for precasting and certain skips
 - Staff for precasting at certain bosses.
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
 
@@ -171,7 +173,7 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                                                                                                                                    |
 | <Skill name="Mimic" size="big" disableText/>                   | For precasting <Skill name="Rain of Swords"/> at bosses, and for double casting <Skill name="Blink" size="small"/> for skips.                                                              |
 | <Skill name="Null Field" size="big" disableText/>              | When you have issues with boons on the boss (should only be used in extreme cases).                                                                                                        |
-| <Skill name="Feedback" size="big" disableText/>                | USed fore reflects on bosses such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect lasers.                                                                                          |
+| <Skill name="Feedback" size="big" disableText/>                | Used for reflects on bosses such as Artsariiv to reflect Taw Shot, or Dark Ai to reflect lasers.                                                                                          |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed.                                                                                                              |
 | **Skips**                                                      |                                                                                                                                                                                            |
 | <Skill name="Blade Leap" size="big" disableText/>              | A 600 leap (only availible as <Specialization name="Virtuoso"/>)                                                                                                                           |
@@ -183,6 +185,9 @@ Swap out <Skill name="Mantra of Pain"/> before any other skill.
 | <Skill name="Mirage Thrust" size="big" disableText/>           | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                   | 450 range blink, 3 charges.                                                                                                                                                                |
 | <Skill name="Illusionary Ambush" size="big" disableText/>      | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+| <Skill name="Singularity Shot" size="big" disableText/>        | Source of <Boon name="Resistance"/> and Barrier         
+| <Skill name="Dimensional Aperture" size="big" disableText/>    | Single person portal for allies                                              |
+|
 
 </Advanced>
 </GridItem>
@@ -318,9 +323,10 @@ At the Mistlock Singularity
 - Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
 
 1. Blast fire fields with <Skill name="The Prestige"/>.
-2. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
-3. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
-4. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
+2. Use <Skill name="Inspiring Imagery"/> (Careful its Ethereal Combo Field)
+3. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+4. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+5. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
 At the boss (spawnable bosses)
 
