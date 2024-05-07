@@ -14,7 +14,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2023-10-22T14:13:08.111Z "
+date: "2024-04-19T16:27:41.015Z "
 title: Condi Scourge
 rating: Good
 role: Condi Damage
@@ -29,7 +29,6 @@ conditions:
 cmGuide: ""
 ---
 
-  
 The <Specialization name="Scourge" text="Condi Scourge"/> is an easy build to learn and provides access to good off-support tools (large amounts of passive barrier from <Trait id="2059"/>) and can be augmented to provide the means of a safety net at an acceptable amount of DPS loss with the Blood Magic trait line (without any stat changes). 
 
 The build can place lots of  conditions and crowd control on multiple targets simultaneously with its shades. Due to large amounts of self-produced <Condition name="Vulnerability"/> and <Boon name="Might"/> in combination with its other tools, it is quite self-substantial. 
@@ -50,7 +49,7 @@ Additionally it can also corrupt boons when <Instability name="No Pain, No Gain"
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="7">
+<GridItem sm="6">
 ### Traits
 <Traits traits1="Curses" traits1Selected="Plague Sending, Master of Corruption, Lingering Curse" traits2="Soul Reaping" traits2Selected="Unyielding Blast, Soul Barbs, Dhuumfire" traits3="Scourge" traits3Selected="Fell Beacon , Sadistic Searing, Demonic Lore"/>
 ### Alacrity Scourge
@@ -69,7 +68,7 @@ The final change is to take the following traits in the <Specialization name="Sc
 
 #### Insidious Disruption
 
-On [Dark Ai](/fractals/sunqua-peak/) there is no need to play any Life Force generating utility skill. 
+On [99CM](/fractals/sunqua-peak/) there is no need to play any Life Force generating utility skill. 
 
 Therefore take <Skill name="Plague Signet"/> in combination with <Trait name="Insidious Disruption"/> instead of <Trait name="Plague Sending"/>, to gain a significant dps gain. 
 
@@ -93,6 +92,8 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 | <Skill name="Charge" profession="necromancer"t/> | 600/800/1000 damage with <Control name="Knockdown"/> depending on the size of the hitbox   |
 | <Skill name="Spectral Grasp"/>                  | 150-750 damage with <Control name="Pull" /> (see situational skills)                       |
 
+</GridItem>
+<GridItem>
 ### Situational Skills
 
 |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -118,7 +119,7 @@ Taking <Trait name="Banshees Wail"/> will bring some more CC via the warhorn ski
 </GridItem>
 </Grid>
 
-<Divider text="General Infos"/>
+<Divider text="General Info"/>
 
 ### Shade Skills
 

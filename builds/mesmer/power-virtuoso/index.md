@@ -18,9 +18,10 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-04-19T12:18:58.124Z "
+date: "2024-04-19T16:24:39.865Z"
+
 ---
- 
+  
 <Advanced> 
  
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -208,7 +209,7 @@ They do however benefit from <Effect name="Exposed"/>.
 
 <Beginner>
 
-### Step by Step Begginer Rotation
+### Step by Step Beginner Rotation
 
 **Step 1: Opener**
 

@@ -1,13 +1,8 @@
 ---
-title: Celestial Alac Scourge
 hidden: false
 archive: false
-rating: Good
-role: Hybrid
 author: ""
-profession: Necromancer
 specialization: Scourge
-conditions: []
 boons:
   - name: Alacrity
     uptime: 100%
@@ -34,16 +29,21 @@ boons:
     uptime: 50% - on demand if taking Serpent Siphon
     variant: party
 code: "[&DQgTNTIdPD0SAAAAchYAACQXAAAhFwAAlQAAAAAAAAAAAAAAAAAAAAAAAAADNgBmAFYAAA==]"
-cmGuide: ""
 classification:
   - 3
   - 2
   - 3
   - 2
   - 3
-date: "2023-10-19T17:19:14.220Z "
+date: "2024-04-19T16:29:12.878Z "
+title: Celestial Alac Scourge
+rating: Good
+role: Hybrid
+profession: Necromancer
+conditions: []
+cmGuide: ""
 ---
-The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.  
+The <Specialization name="Scourge" text="Celestial Alacrity Scourge"/> is an easy build to learn and provides excellent support in the form of barrier, <Boon name="might"/>, <Condition name="vulnerability"/> and crowd control.
  
 This build works for several reasons:
 - Most of its support comes through barrier and not actual healing, this means that it does not really benefit from outgoing healing modifiers, allowing for more offensive choices compared to the traditional Heal Scourge builds.
@@ -59,7 +59,8 @@ The build is not locked to any utility skill, you should pick and choose dependi
 <Divider text="Equipment"/>   
 
 <CharacterWithAr>  
-<Character title="Celestial (Alac) Scourge" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":30202,"Armor":2831,"Power":2389,"Precision":1639,"Toughness":1864,"Vitality":2099,"Ferocity":639,"Condition Damage":2003,"Expertise":934,"Concentration":1089,"Healing Power":639,"Agony Resistance":150,"Condition Duration":0.7726666666666667,"Boon Duration":0.726,"Critical Chance":0.6042857142857143,"Critical Damage":1.926,"Power Coefficient":1659,"Power2 Coefficient":0,"Burning Coefficient":0.47,"Bleeding Coefficient":0,"Poison Coefficient":2.3,"Torment Coefficient":15.84,"Confusion Coefficient":1.72,"Flat DPS":0,"Torment Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":5355.850893392857,"NonCrit Effective Power":3434.1875,"Power DPS":3421.3926192293993,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":204.38375000000002,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage Tick":634.6059375,"Burning Stacks":0.8331533333333334,"Burning DPS":528.72405218125,"Confusion Damage Tick":217.0265625,"Confusion Stacks":3.048986666666667,"Confusion DPS":661.7110953750001,"Poison Damage Tick":220.91500000000002,"Poison Stacks":4.077133333333333,"Poison DPS":900.6999103333334,"Torment Damage Tick":304.850625,"Torment Stacks":31.247040000000002,"Torment DPS":9525.6796734,"Damage":15177.957350518984,"Effective Health":134120567.84313728,"Survivability":68185.3420656519,"Effective Healing":581.7,"Healing":581.7}},"armor":{"weight":"Light","helmAffix":"Celestial","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Celestial","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Celestial","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Celestial","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Celestial","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Celestial","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Celestial","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":24583,"weapon1OffAffix":"Celestial","weapon1OffInfusionId":37130,"weapon2OffId":30702,"weapon2OffType":"Warhorn","weapon2OffSigilId":24583,"weapon2OffAffix":"Celestial","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Celestial","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Celestial","ring1Affix":"Celestial","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Celestial","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Celestial","accessory1InfusionId":37130,"accessory2Affix":"Celestial","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":77567,"relicId":100432},"skills":{"healId":10527,"utility1Id":40274,"utility2Id":42935,"utility3Id":41615,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[780,789,778],[875,892,889],[2167,2123,2080]],"lines":[19,50,60]}}'>
+<Character title="Celestial (Alac) Scourge" gear='{"attributes":{"profession":"Necromancer","specialization":"Scourge","data":{"Health":30202,"Armor":2831,"Power":2389,"Precision":1639,"Toughness":1864,"Vitality":2099,"Ferocity":639,"Condition Damage":2003,"Expertise":934,"Concentration":1089,"Healing Power":639,"Agony Resistance":150,"Condition Duration":0.7726666666666667,"Boon Duration":0.726,"Critical Chance":0.6042857142857143,"Critical Damage":1.926,"Power Coefficient":1659,"Power2 Coefficient":0,"Burning Coefficient":0.47,"Bleeding Coefficient":0,"Poison Coefficient":2.3,"Torment Coefficient":15.84,"Confusion Coefficient":1.72,"Flat DPS":0,"Torment Duration":0.2,"Siphon Base Coefficient":139.75,"Effective Power":5355.850893392857,"NonCrit Effective Power":3434.1875,"Power DPS":3421.3926192293993,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":204.38375000000002,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage Tick":634.6059375,"Burning Stacks":0.8331533333333334,"Burning DPS":528.72405218125,"Confusion Damage Tick":217.0265625,"Confusion Stacks":3.048986666666667,"Confusion DPS":661.7110953750001,"Poison Damage Tick":220.91500000000002,"Poison Stacks":4.077133333333333,"Poison DPS":900.6999103333334,"Torment Damage Tick":304.850625,"Torment Stacks":31.247040000000002,"Torment DPS":9525.6796734,"Damage":15177.957350518984,"Effective Health":134120567.84313728,"Survivability":68185.3420656519,"Effective Healing":581.7,"Healing":581.7}},"armor":{"weight":"Light","helmAffix":"Celestial","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Celestial","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Celestial","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Celestial","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Celestial","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Celestial","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Celestial","weapon1MainInfusion1Id":37130,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":24583,"weapon1OffAffix":"Celestial","weapon1OffInfusionId":37130,"weapon2OffId":30702,"weapon2OffType":"Warhorn","weapon2OffSigilId":24583,"weapon2OffAffix":"Celestial","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Celestial","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Celestial","ring1Affix":"Celestial","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Celestial","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Celestial","accessory1InfusionId":37130,"accessory2Affix":"Celestial","accessory2InfusionId":37130},"consumables":{"foodId":91878,"utilityId":77567,"relicId":
+    100153},"skills":{"healId":10527,"utility1Id":40274,"utility2Id":42935,"utility3Id":41615,"eliteId":10646},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[780,789,778],[875,892,889],[2167,2123,2080]],"lines":[19,50,60]}}'>
 
 </Character>
 </CharacterWithAr>

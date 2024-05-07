@@ -27,7 +27,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-04-16T23:40:37.438Z "
+date: "2024-04-21T11:05:29.281Z "
 title: Condi (Quick) Harbinger
 rating: Good
 role: Condi Damage
@@ -40,7 +40,7 @@ conditions:
   - name: Poisoned
   - name: Burning
 ---
- 
+  
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.
@@ -200,6 +200,7 @@ After the Opener and your first Shroud Rotation is done, the loop will be:
 
 - Use as many Elixirs as possible to stack boons and <Effect name="Blight"/> for yourself (and allies when running <Trait id="2220"/>). <Effect name="Blight"/> is NOT stripped when starting 99 and 100 CM boss encounters.
 - You can also use <Skill name="Harbinger Shroud"/> to pre-stack more <Boon name="Quickness"/> when running <Trait name="Deathly Haste"/>. Even if you are not playing the <Boon name="Quickness"/> variant you should enter and exit shroud before grabbing mistlock to ensure you have <Trait name="Soul Barbs"/>. <Trait name="Soul Barbs"/> is NOT stripped when starting 99 and 100 CM boss encounters.
+- While precasting Elixirs, you can use an equipment template with <Item id="100775"/> for some extra damage before swapping to <Item id="100153"/> for the encounter. <Item id="100775"/> is NOT stripped when starting 99 and 100 CM boss encounters.
 
 </Card>
 ### Shroud Rotation
