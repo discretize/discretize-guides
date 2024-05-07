@@ -30,7 +30,7 @@ boons:
   - name: Fury
     uptime: 100%
     variant: Party
-code: "[&DQcKGQEdKB4jDwAABBMAAI8BAADPEgAA7RIAAAAAAAAAAAAAAAAAAAAAAAADLwBXADIAAA==]"
+code: "[&DQcBHQoZKD4jDyMPBBOCAY8BgQGHEoMB7RLtEgAAAAAAAAAAAAAAAAAAAAADLwBaADIAAA==]"
 cmGuide: ""
 classification:
   - 4
@@ -38,7 +38,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-11-19T11:10:55.329Z "
+date: "2024-04-29T22:57:37.626Z "
 ---
  The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
  
@@ -50,7 +50,7 @@ You'll provide boon removal through a various range of options, especially by ut
 
 The <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals, which should be taken advantage of.
 
-If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self sufficient.
+If necessary the build can bring its own <Boon name="Quickness"/> and <Boon name="Might"/> making it rather self-sufficient.
 
 This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
@@ -110,29 +110,25 @@ Always play Greatsword main-hand.
 
 You can go play Illusions over Domination when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
 
-<Trait name="All's Well That Ends Well"/> can be taken for additional group sustain.
-
-
-Utilise <Specialization name="Mirage"/> for skips!
+<Trait name="All's Well That Ends Well"/> can be taken for an additional group sustain.
 
 <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
 
 ### Defiance Bar Damage
 |                                      |                      |
 | ----------------------------------   | -------------------- |
+| <Skill name="Signet of Humility"/>   | 600 damage           |
+| <Skill name="Gravity Well"/>         | 100-550 damage       |
+| <Skill name="Well of Senility"/>     | 300 damage           |
 | <Skill name="Time Sink"/>            | 100-400 damage       |
 | <Skill name="Counter Blade"/>        | 200 damage           |
-| <Skill name="Gravity Well"/>         | 550 damage within 3s |
-| <Skill name="Signet of Humility"/>   | 600 damage           |
 | <Skill name="Illusionary Wave"/>     | 150 damage           |
-| <Skill name="Tides of Time"/>        | 2x 100 damage        |
+| <Skill name="Tides of Time"/>        | 100-200 damage       |
 | <Skill name="Magic Bullet"/>         | 250 damage           |
 | <Skill name="Into the Void"/>        | 150 damage           |
-| <Condition name="Slow"/>             | 50 damage per second |
-| <Skill name="Well of Senility"/>     | 300 damage after 3s  |
 | <Skill name="Signet of Domination"/> | 300 damage           |
 | <Skill name="Mantra of Distraction"/>| 150 damage per cast  |
-
+| <Condition name="Slow"/>             | 50 damage per second |
 </GridItem>
 
 <GridItem sm="5">
@@ -140,30 +136,21 @@ Utilise <Specialization name="Mirage"/> for skips!
 
 Every utility skill can be exchanged. 
 
-Check out the toolkit below to decide.
+| | |
+| ----- | ----- |
+| <Skill name="Well of Calamity" size="big" disableText/> | Highest damage priority. |
+| <Skill name="Well of Action" size="big" disableText/> | Necessary for boons; 8 <Boon name="Might"/> & <Boon name="Fury"/>. |
+| <Skill name="Well of Senility" size="big" disableText/> | Break bar damage. |
+| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Strongest Boon removal tool for <Instability name="No Pain, No Gain" />. |
+| <Skill name="Mantra of Distraction" size="big" disableText/> | Break bar damage, do not use final charge. |
+| <Skill name="Signet of Domination" size="big" disableText/> | Highest Break bar damage. |
+| <Skill name="Gravity Well" size="big" disableText/> | Higher DPS compared to <Skill name="Signet of Humility"/>. |
+| <Skill name="Mantra of Concentration" size="big" disableText/> | group-wide <Boon name="Stability"/> & <Boon name="Aegis"/>, do not use final charge.|
+| <Skill name="Mantra of Pain" size="big" disableText/> | DPS, when other utility is not required. |
+| <Skill name="Mantra of Resolve" size="big" disableText/> | Group-wide condi cleanse. |
+| <Skill name="Feedback" size="big" disableText/> | Mainly for Artsariiv to reflect Taw Shot. |
+| <Skill name="Mimic" size="big" disableText/> | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips. |
 
-|                                                              |                                                                                                                                                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <Skill name="Well of Calamity" size="big" disableText/>          | Highest damage priority.                                                                                                                                                         |
-| <Skill name="Well of Action" size="big" disableText/>          | Necessary in order to provide 8 <Boon name="Might"/> and permanent <Boon name="Fury"/>.                                                                                                                                                         |
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/>          | Strongest Boon removal tool for <Instability name="No Pain, No Gain" />.                                                                                                                                                         |
-| <Skill name="Well of Senility" size="big" disableText/>          | 300 break bar damage combined with a small dps gain compared to <Skill name="Phantasmal Disenchanter"/>.                                                                                                                                                         |
-| <Skill name="Mantra of Pain" size="big" disableText/>          | A personal dps gain, when no additional utility is required.                                                                                                                 |
-| <Skill name="Mantra of Distraction" size="big" disableText/>          | Two instant casts of 150 break bar damage each.                                                                                                                                                         |
-| <Skill name="Signet of Domination" size="big" disableText/>          | 300 break bar damage immediately.                                                                                                                                                         |
-| <Skill name="Gravity Well" size="big" disableText/>          | Higher DPS compared to <Skill name="Signet of Humility"/> but slower and less CC.                                                                                                                                                         |
-| <Skill name="Mantra of Concentration" size="big" disableText/>          | Two instant cast of group-wide <Boon name="Stability"/> and additionally <Boon name="Aegis"/> when channeled e.g. to single handedly block the AoE at the start of Arstariiv p2 and p3.         
-| <Skill name="Mantra of Resolve" size="big" disableText/>          | Group-wide condi cleanse.        
-| <Skill name="Mimic" size="big" disableText/>                 | For precasting <Skill name="Well of Calamity"/> at bosses and double casting <Skill name="Blink" size="small"/> during skips.                                                               
-| <Skill name="Feedback" size="big" disableText/>              | Mainly for Artsariiv to reflect Taw Shot.                                                                                                                                                  |
-| **Skips**                                                    |                                                                                                                                                                                            |
-| <Skill name="Portal Entre" size="big" disableText/>          | For skipping sections of the fractal for your party.                                                                                                                                       |
-| <Skill name="Blink" size="big" disableText/>                 | 1200 range blink, use it for skips!                                                                                                                                                        |
-| <Skill name="Mass Invisibility" size="big" disableText/>     | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
-| <Skill name="Well of Precognition" size="big" disableText/>  | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door.                                                                                                                                    |
-| <Skill name="Mirage Thrust" size="big" disableText/>         | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
-| <Skill name="Jaunt" size="big" disableText/>                 | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/>    | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
 
 </GridItem>
 </Grid>
@@ -174,13 +161,15 @@ Check out the toolkit below to decide.
 <GridItem sm="7">
 
 ### Skill priority
-To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as Phantasms/Wells are our main damage source, but also slower than most skills of other classes.
+To play <Specialization text="Power Alacrity Chronomancer" name="Chronomancer"/> in fractals you need to adapt on the go, as [Phantasms](https://wiki.guildwars2.com/wiki/Phantasm)/[Wells](https://wiki.guildwars2.com/wiki/Chronomancer#Utility) are our main damage source, but also slower than most skills of other classes.
+
+
 
 If you lose yourself in the rotation follow this priority list:
 
-1.  On Greatsword <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swapping (utilising <Skill name="Signet of the Ether"/>).
+1.  On Greatsword, <Skill name="Phantasmal Berserker"/> is your strongest skill and should be used of cooldown to be able to get three usages before swapping (utilising <Skill name="Signet of the Ether"/>).
 
-2.  On Sword <Skill name="Phantasmal Swordsman"/> follows the same principle.
+2.  On Sword, <Skill name="Phantasmal Swordsman"/> follows the same principle.
 
 3. You want to use your utility skills in the following priority:
   
@@ -190,11 +179,11 @@ If you lose yourself in the rotation follow this priority list:
    4. <Skill name="Phantasmal Disenchanter"/>
 
 
-4.  Ideally <Skill name="Mirror Blade"/> can be used three times and <Skill name="Mind Stab"/> twice. On Dagger/Sword you basically prioritise the same way, <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
+4.  Ideally, <Skill name="Mirror Blade"/> can be used three times and <Skill name="Mind Stab"/> twice. On Dagger/Sword you basically prioritise the same way <Skill name="Unstable Bladestorm"/> twice as well and <Skill name="Bladecall"/> three times.
 
-4.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefor is supposed to get canceled as soon as one of the higher priority skills becomes available again.
+5.  Only your Sword Auto-Attacks require you to finish a chain. Dagger would ideally not get interrupted within the single cast applications, while Greatsword deals consistent damage during its cast and therefore is supposed to get cancelled as soon as one of the higher priority skills becomes available again.
 
-If the boss gets close to phasing, remember that your personal damage skills are faster than Wells and Phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
+6. If close to phasing, remember that your personal damage skills are faster than Wells and Phantasms, but that they deal less damage over time, this means that you have to get a feeling for group dps, to be able to guess when it becomes suboptimal to cast any further skills of those.
 
 </GridItem>
 <GridItem sm="5">
@@ -205,15 +194,15 @@ Most fractal encounters include downtimes in between their phases, which means t
 
 Make sure to cast <Skill name="Split Second"/> on cooldown and ensure to keep three Clones for this one, since it's your main damage Shatter.
 
-As long as that requirement is matched you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcomming defiance break).
+As long as that requirement is matched, you can freely use any spare Clones on <Skill name="Rewinder"/>; and <Skill name="Time Sink"/> (as long as there is no upcoming defiance break).
 
 ### Continuum Split
 <Skill name="Continuum Split"/> rewinds all your skills back to the status they have been while entering.
-The durations depends on the amount of Clones spent, but usually two Clones are the optimal amount.
+The duration depends on the numbers of Clones spent, but usually two Clones are the optimal amount.
 
 Your goal should be to cast as many high priority skills during that time window, to be able to cast them twice as often as usual. 
 
-Since your Shatters will get rewinded as well, you can shatter **all** of them for additional Alacrity.
+Since your Shatters will get rewound as well, you can shatter **all** of them for additional Alacrity.
 
 </GridItem>
 </Grid>
@@ -228,7 +217,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 It's important to note that Phantasms do not benefit from most modifiers unless it is stated to be the case.
 
-They do however benefit from <Effect name="Exposed"/>.
+They do, however, benefit from <Effect name="Exposed"/>.
 
 ### Opener
 Example with <Skill name="Continuum Split"/>:
@@ -283,19 +272,32 @@ At the boss
 - Use <Skill name="Unstable Bladestorm"/>.
 
 </Card>
-### Golem Rotation
-
-<Video youtube="xeDj0uYBCYk" caption="by Tipcat"/>
-
 ### Rotation Adjustments
-The Opener takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
+The opener takes around 15s and <Skill name="Continuum Split"/> has 70s cooldown with permanent <Boon name="Alacrity"/>. 
 
 Now it is up to you to figure out how many usages you can get at a certain fractal encounter and which phases would even be long enough to recommend using it.
 
-Oftentimes you won't even have access to all the skills that got used in the opener above, or maybe you still gonna have cooldown on your Weapon-Swap.
+Often times you won't even have access to all the skills that got used in the opener above, or maybe you still gonna have cooldown on your Weapon-Swap.
 
-Based on that, another approach could be to by-pass phases with low ressources by duplicating the few options you've got.
+Based on that, another approach could be to by-pass phases with low resources by duplicating the few options you have.
 
-Otherwise double-casting Wells only makes sense at 9s+. Therefor you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
+Otherwise double-casting Wells only makes sense at 9s+. Therefore you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
+</GridItem>
+</Grid>
+<Divider text="Skips"/> 
+
+Utilise <Specialization name="Mirage"/> for skips!
+
+<Grid>
+<GridItem sm="6">
+| | |
+| **Skips** | |
+| <Skill name="Portal Entre" size="big" disableText/> | For skipping sections of the fractal for your party. |
+| <Skill name="Blink" size="big" disableText/> | 1200 range blink, use it for skips! |
+| <Skill name="Mass Invisibility" size="big" disableText/> | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
+| <Skill name="Well of Precognition" size="big" disableText/> | A source of group <Boon name="Aegis"/> for situational uses, such as the Underground Facility door. |
+| <Skill name="Mirage Thrust" size="big" disableText/> | 600 range leap, can be cancelled mid-air for slightly more range. |
+| <Skill name="Jaunt" size="big" disableText/> | 450 range blink, 3 charges. |
+| <Skill name="Illusionary Ambush" size="big" disableText/> | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips. |
 </GridItem>
 </Grid>
