@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-04-25T01:24:09.641Z "
+date: "2024-05-10T11:32:46.371Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -98,7 +98,7 @@ Note: If you also want to provide 100% <Boon name="Alacrity"/> in longer fights 
 
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
 - <Skill name="Energy Expulsion"/> - 150 <Control name="Knockback"/>.
-- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
+- <Skill name="Darkrazors Daring"/> - 600 <Control name="Daze"/>.
 - <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
@@ -242,7 +242,7 @@ Activating a stance automatically applies <Boon name="Protection"/> from the tra
 
 - <Skill name="Breakrazors Bastion"/> - Heal skill that when buffed, provides barrier. In general this skill should be used to apply the 'Band Together' trait for other stances.
 - <Skill name="Razorclaws Rage"/> - Can be used to apply <Condition name="Bleeding"/> on attack for a party. Can be used in situations where you have excess energy.
-- <Skill name="Darkrazors Daring"/> - Your main CC skill as a Renegade. <Control name="Daze"/>s enemies in an area around it for 600 Defiance bar damage. Is also used as a <Control name="Stun"/> break. However be mindful that this does activate <Trait name="Contained Temper"/>, giving 15 extra energy. Make sure to **NOT** legend swap after stun breaking to activate <Trait name="Charged Mists"/>.
+- <Skill name="Darkrazors Daring"/> - Your main CC skill as a Renegade. <Control name="Daze"/> up to 5 targets for 600 Defiance bar damage. Is also used as a <Control name="Stun"/> break. However be mindful that this does activate <Trait name="Contained Temper"/>, giving 15 extra energy. Make sure to **NOT** legend swap after stun breaking to activate <Trait name="Charged Mists"/>.
 - <Skill name="Icerazors Ire"/> - The highest damage skill for Renegade stance. Applies <Condition name="Vulnerability"> on targets.</Condition>. Try to enhance this with other stances to provide extra damage through chilled. Use this after <Skill name="Darkrazors Daring"/> in an opener to enhance the damage.
 - <Skill name="Soulcleaves Summit"/> - This skill now prevents energy drain. Can be used for the purposes of a fire field for precasting or blasting mid fights, however in general, is used the least as a part of the rotation.
 
