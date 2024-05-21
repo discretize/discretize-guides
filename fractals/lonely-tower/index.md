@@ -11,7 +11,7 @@ difficulties:
 consumables: []
 record: {}
 long_description: Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from. 
-image: images/silent_surf_cave.jpg
+image: images/lonelytowerheader.jpg
 api: ""
 bosses: 3
 description: Mabon, Isgarren. Pick a god and thank her for your survival...

@@ -1,13 +1,13 @@
 ---
-hasCM: false
+hasCM: true
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
 date: "2024-01-06T02:05:43.797Z "
 title: Silent Surf
 difficulties:
-  - level: 100
-    ar: 150
+  - level: 99
+    ar: 149
 consumables: []
 record: {}
 long_description: Join forces with Captain Thess and his intrepid Serpent Clan

@@ -12,8 +12,8 @@ group: t4
 api: 2948
 bosses: 1
 difficulties:
-  - level: 96
-    ar: 144
+  - level: 93
+    ar: 138
 sigils:
   - id: 24615
   - id: 24868
