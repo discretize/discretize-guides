@@ -3,16 +3,20 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-06T02:05:43.797Z "
+date: "2024-05-21T22:50:55.238Z "
 title: Lonely Tower
 difficulties:
   - level: 100
     ar: 150
 consumables: []
 record: {}
-long_description: Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from. 
+long_description: Immediately following the foundation of the Astral Ward,
+  Eparch finally returned to Tyria to strike back against Isgarren's
+  "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda
+  navigate the crumbling halls of the Wizard's Tower and push the Kryptis back
+  to where they came from.
 image: images/lonelytowerheader.jpg
-api: ""
+api: 26231
 bosses: 3
 description: Mabon, Isgarren. Pick a god and thank her for your survival...
 group: T4
@@ -28,41 +32,70 @@ princeps has a transcode script, which makes the videos small and webfriendly.
 https://discretize.pages.dev/docs/
 
  
-Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors? 
+Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from.  
  
 <Divider text="Normal Mode"/>
 <Grid>
 <GridItem>
-<Achievement title="Cavalon's Champions ">
-Complete the Silent Surf fractal on the Master tier. 
+<Achievement title="Wizard's Tower Is Ours, Eparch ">
+Complete the Lonely Tower fractal on any tier. 
 </Achievement>
 </GridItem>
 <GridItem>
-<Achievement title="Peace and Quiet ">
-Complete Silent Surf on the Master tier with no deaths, no Black Powder Charges used before the final encounter, and no interactions with Captain Thess's portals. 
+<Achievement title="Wayfind Yourself Out ">
+Complete the Lonely Tower fractal on the Master tier.
 </Achievement>
 </GridItem>
 <GridItem>
-<Achievement title="Jade Sea Legs ">
-Complete the Silent Surf fractal without any assistance from Captain Thess. 
-</Achievement>
-</GridItem>
-<GridItem>
-<Achievement title="Good Listener ">
-Listen to all of Captain Thess's optional dialogue in a single playthrough of Silent Surf. 
-</Achievement>
-</GridItem>
-<GridItem>
-<Achievement title="Grim Investigation">
-Piece together the story of the Luxon sailors' final days. Find 6 texts hidden throughout the fractal.
-</Achievement>
-</GridItem>
-<GridItem>
-<Achievement title="Silent Surf Fractal">
-Complete all the achievements associated with the Silent Surf fractal.
+<Achievement title="Lonely Tower Fractal">
+Complete all the achievements associated with the Lonely Tower fractal.
 
-**Reward:** <Item id="99876"/> 
+**Reward:** <Item id=""/> 
 </Achievement>
 </GridItem>
 </Grid>
-## Spelunking
+
+Upon entering the fractal take the _Mistlock Singularity_ and head out the starting room and follow the corridor to your right. Whilst moving down the corridor avoid the red AoEs on the ground, getting hit by a falling orb will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>. At the end of the corridor you will see Cerus standing in the Astral Purifier room.
+
+## Astral Purifiers
+Something
+
+## Brothers
+Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as the red orbs from before, you will also have to deal with Deimos's hands, that apply _insert effects here_. At the end of the corridor you will come to a room with the brothers Cerus and Deimos standing in.
+
+<Grid>
+<GridItem>
+<Achievement title="Brothers, Together">
+Defeat Cerus and Deimos within 5 seconds of each other in the Lonely Tower fractal. 
+</Achievement>
+</GridItem>
+</Grid>
+<Information>
+Providing you can deal with the mechanics, the easiest strategy to kill the brothers quickly (and get the achievement) is to pull them together.
+</Information>
+### Cerus
+Something
+
+### Deimos
+Something
+
+## Eparch
+Once you have defeated the brothers, take the portal to the final boss. Before fighting Eparch, you will have to kill some trash mobs. Once you have dealt with them you can _/gg_ again, to reset cooldowns and prestack boons while Eparch spawns. When ready aproach the white circle on the ground to enter the arena.
+
+<Grid>
+<GridItem>
+<Achievement title="Emotionless ">
+Defeat Eparch in the Lonely Tower fractal without allowing him to reach 20 stacks of any emotional attunement.
+</Achievement>
+</GridItem>
+<GridItem>
+<Achievement title="Fissure Walker ">
+Defeat Eparch in the Lonely Tower fractal without taking damage from his rage fissures.
+</Achievement>
+</GridItem>
+</Grid>
+
+<Information>
+There is no status reset upon starting a boss encounter in this fractal, so it is advisable to take advantage of the _Mistlock Singularity_ to prestack boons, since the fight mechanics require you to move and split shortly after entering combat.
+</Information>
+Something
