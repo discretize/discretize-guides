@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-21T22:50:55.238Z "
+date: "2024-05-21T23:02:00.890Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -17,7 +17,7 @@ long_description: Immediately following the foundation of the Astral Ward,
   to where they came from.
 image: images/lonelytowerheader.jpg
 api: 26231
-bosses: 3
+bosses: 2
 description: Mabon, Isgarren. Pick a god and thank her for your survival...
 group: T4
 sigils: []
