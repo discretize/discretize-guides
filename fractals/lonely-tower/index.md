@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-21T23:02:00.890Z "
+date: "2024-05-21T23:35:24.204Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -98,4 +98,52 @@ Defeat Eparch in the Lonely Tower fractal without taking damage from his rage fi
 <Information>
 There is no status reset upon starting a boss encounter in this fractal, so it is advisable to take advantage of the _Mistlock Singularity_ to prestack boons, since the fight mechanics require you to move and split shortly after entering combat.
 </Information>
+Something 
+
+### Orbs
+
+| Orb (Colour)          | Mechanic     | Player Effect                                                                          | Boss Effect                                               |
+|-----------------------|--------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| **Despair (Blue)**    | Puddle Spawn | -3% Incoming Strike Damage, -3% Outgoing Strike Damage                                 | -3% Incoming Strike Damage, -3% Incoming Condition Damage |
+| **Envy (Green)**      | Line Attack  | +5% Boon Duration, +5% Condition Duration, -50% Incoming Condition Damage, +5% unknown | Boss attacks strip Boons                                  |
+| **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal on ~3s cd (cd unconfirmed), 100 Damage taken per second               | Heals boss                                                |
+| **Malice (Purple)**   | Chasing AoEs | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
+| **Rage (Red)**        | Wave Attack  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
+| **Regret (Yellow)**   | Adds         | Grants Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
+
+### CC
 Something
+
+### Mechanics
+<Grid>
+<GridItem sm="4">
+#### Puddle Spawn
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Wave Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Line Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Spin Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Chasing AoEs
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Adds
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+</Grid>
