@@ -1,5 +1,5 @@
 ---
-hasCM: false
+hasCM: true
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
