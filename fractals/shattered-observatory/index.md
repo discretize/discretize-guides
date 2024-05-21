@@ -8,8 +8,8 @@ layout: src/layouts/Fractal.astro
 date: '2023-08-07T21:58:48.299Z '
 title: Shattered Observatory
 difficulties:
-  - level: 98
-    ar: 147
+  - level: 97
+    ar: 145
 consumables:
   - 78978
 record:
