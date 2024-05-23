@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-21T23:35:24.204Z "
+date: "2024-05-23T05:15:50.305Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -50,18 +50,27 @@ Complete the Lonely Tower fractal on the Master tier.
 <Achievement title="Lonely Tower Fractal">
 Complete all the achievements associated with the Lonely Tower fractal.
 
-**Reward:** <Item id=""/> 
+**Reward:** <Item name="Endless Midnight King Combat Tonic"/> 
 </Achievement>
 </GridItem>
 </Grid>
 
-Upon entering the fractal take the _Mistlock Singularity_ and head out the starting room and follow the corridor to your right. Whilst moving down the corridor avoid the red AoEs on the ground, getting hit by a falling orb will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>. At the end of the corridor you will see Cerus standing in the Astral Purifier room.
+Upon entering the fractal take the _Mistlock Singularity_ and head out the starting room and follow the corridor to your right. Whilst moving down the corridor avoid Cerus's Despair attack (the falling red orbs, leaving AoEs on the ground), standing in this attack will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>. At the end of the corridor you will see Cerus standing in the Astral Purifier room.
 
 ## Astral Purifiers
-Something
+<Grid>
+<GridItem>
+Inside the room, you will find four Astral Purifier Nodes that must be repaired. Interacting with a node will give you the effect _Time Running Out_. It will turn your weapon skills into a Simon Says styled minigame, where you will have to press a highlighted skill 10 times, before the 30 second timer runs out. Pressing the wrong skill will knock you back and cancel the minigame, requiring you to start again.
+
+During the minigame, three Avatars of Spite will spawn and fixate on the player reapiring the node. When they get close they will apply <Condition name="Poisoned"/> and explode knocking the player back, cancelling the minigame. These can either be dealt with by the rest of the party, using crowd control and killing them, or alternatively the player on the node can b e given or use their own source of <Boon name="Stability"/> to negate the knockback, allowing them to continue the game. The <Boon name="Stability"/> method allows multiple nodes to be completed at the same time.  
+</GridItem>
+<GridItem>
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Soloing an Astral Purifier with Stability " />
+</GridItem>
+</Grid>
 
 ## Brothers
-Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as the red orbs from before, you will also have to deal with Deimos's hands, that apply _insert effects here_. At the end of the corridor you will come to a room with the brothers Cerus and Deimos standing in.
+Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in.
 
 <Grid>
 <GridItem>
