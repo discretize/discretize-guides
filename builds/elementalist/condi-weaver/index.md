@@ -22,7 +22,7 @@ classification:
   - 3
   - 4
   - 5
-date: "2024-04-20T21:25:28.552Z "
+date: "2024-05-23T11:29:46.711Z "
 ---
 
 The **<Specialization text="Condi Weaver" name="Weaver"/>** is an unique build that can be played very effectively in [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs (this build can also be an attractive choice for other CM and T4 encounters with longer phases, like Ensolyss, if you find yourself in a slow group).
@@ -125,8 +125,9 @@ If you do want to switch any of your utilites in favor of one of the skills list
 | <Skill name="Glyph of Renewal" size="big" disableText/>           | You can sacrifice some DPS for a powerful insta rez, can be very useful during "Dancing with Demons" runs.                
 
 ### Situational Weapons
-- **Scepter** - A lower dps option that is fully ranged and opens up the offhand slot.
+- **Scepter** - A lower dps option with a simpler rotation.
 - **Focus** - Less dps than warhorn but offers higher cc and more situtional utility in the form of condi cleanse with <Skill name="Magnetic Wave"/> and invulnerability with <Skill name="Obsidian Flesh"/>.
+- **Hammer** - Less dps than any other option, requires melee range and doesn't offer any utility, but increases your sustain through damage reduction. 
 
 </GridItem>
 </Grid>
@@ -144,11 +145,11 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 - <Skill name="Primordial Stance"/> should be used before attuning to <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> for maximum damage output. However, if the boss' breakbar is about to be broken or about to phase, you can also use it during <Skill name="Earth Attunement" disableText/> <Skill name="Fire Attunement" disableText/> or <Skill name="Fire Attunement" disableText/> <Skill name="Earth Attunement" disableText/>.
 
-- Although it is important to follow the weave self rotation as closer as possible, the timing when it comes to completing it, is extremely tight and you might find yourself unable to do it especially if you don't have boons precasted on you and they have to be applied once you get in combat. In that scenario one adjustment that you can do is to skip <Skill name="Water Attunement" disableText/>/<Skill name="Water Attunement" disableText/> and go from <Skill name="Water Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> to <Skill name="Fire Attunement" disableText/>/<Skill name="Water Attunement" disableText/> right away. 
+- Although it is important to follow the weave self rotation as closer as possible, the timing when it comes to completing it, is very close and you might find yourself unable to do it especially if you don't have boons precasted on you and they have to be applied once you get in combat. In that scenario one adjustment that you can do is to skip <Skill name="Earth Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> and go from <Skill name="Earth Attunement" disableText/>/<Skill name="Fire Attunement" disableText/> to <Skill name="Air Attunement" disableText/>/<Skill name="Earth Attunement" disableText/> right away. So <Skill name="Enervating Earth"/> will be used without a precasted bullet.
 
-- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different than the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in and only switch between <Skill name="Fire Attunement" disableText/> and <Skill name="Earth Attunement" disableText/> without entering <Skill name="Tailored Victory"/>. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to start the 2nd weave self from <Skill name="Water Attunement" disableText/> <Skill name="Earth Attunement" disableText/>. 
+- In the video, a 2nd <Skill name="Weave Self"/> rotation is shown, which is different than the 1st. If the encounter has downtime due to phases in between when the boss can't be damaged and <Skill name="Weave Self"/> comes off cd then you can freely attune to <Skill name="Earth Attunement" disableText/> <Skill name="Earth Attunement" disableText/> and start from the opener. If it doesn't and you know the boss is going to phase before you need to finish the weave self loop, then you can use <Skill name="Weave Self"/> right away the moment it comes off cd in the attunement you are in. If you get <Skill name="Weave Self"/> off cd mid fight and the phase is long enough that you need to complete it then it is recommended to start the 2nd weave self from <Skill name="Water Attunement" disableText/> <Skill name="Earth Attunement" disableText/>. 
 
-- Bullet effects are an important part of your damage because of the additional conditions they apply if you use the skill while a bullet is already active. The skills that need to hit with a bullet already existing are <Skill name="Shattering Stone"/>  <and <Skill name="Raging Ricochet"/>. The skills that generate the bullet again are <Skill name="Boulder Blast"/> and <Skill name="Searing Salvo"/>. individually because you never double attune <Skill name="Water Attunement"/> because using <Skill name="Frozen Fusillade"/> is not worth it without weave self reducing <Skill name="Water Attunement"/> cooldown. Precasting bullets is recommended but not neccessary. If you don't precast any bullets you will have to change the opener by doing <Skill name="Boulder Blast"/> before <Skill name="Shattering Stone"/> and <and <Skill name="Raging Ricochet"/> before <Skill name="Searing Salvo"/>. After that the rotation flows on it's own and due to dual skills consuming both bullets, it doesn't matter anymore. 
+- Bullet effects are an important part of your damage because of the additional conditions they apply if you use the skill while a bullet is already active. The skills that need to hit with a bullet already existing are <Skill name="Shattering Stone"/> and <Skill name="Raging Ricochet"/>. The skills that generate the bullet again are <Skill name="Boulder Blast"/> and <Skill name="Searing Salvo"/>. Outside of weave self you don't have to double attune <Skill name="Water Attunement"/> because using <Skill name="Frozen Fusillade"/> is not worth it without the reduced attunement cooldown. Precasting bullets is recommended but not neccessary. If you don't precast any bullets you will have to change the opener by doing <Skill name="Boulder Blast"/> before <Skill name="Shattering Stone"/> and <and <Skill name="Raging Ricochet"/> before <Skill name="Searing Salvo"/>. After that the rotation flows on it's own and due to dual skills consuming both bullets, it doesn't matter anymore. 
 
 <Grid>
 <GridItem sm="6">
@@ -164,7 +165,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 2. <Skill name="Primordial Stance"/>
 3. <Skill name="Signet of Fire"/>
 4. <Skill name="Shattering Stone"/>
-5. <Skill id="Boulder Blast"/>
+5. <Skill name="Boulder Blast"/>
 
 </GridItem>
 
@@ -207,7 +208,7 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 
 1. <Skill name="Piercing Pebble"/> x6
 2. <Skill name="Shattering Stone"/>
-3. <Skill id="Boulder Blast"/>
+3. <Skill name="Boulder Blast"/>
 
 </GridItem>
 
@@ -227,53 +228,8 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Whirling Stones"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Singeing Strike"/> x3
-2. <Skill name="Surging Flames"/>
-3. <Skill id="34736"/>
-4. <Skill name="Ground Pound"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Grand Finale"/>
-2. <Skill name="Singeing Strike"/>
-3. <Skill name="Triple Sear"/>
-4. <Skill name="Singeing Strike"/>
-5. <Skill name="Flame Wheel"/>
-6. <Skill name="Singeing Strike"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Whirling Stones"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill id="69413"/>
-2. <Skill name="Rain of Blows"/>
-3. <Skill name="Signet of Fire"/>
+1. <Skill name=" Frozen Fusillade"/>
+2. <Skill name=" Tidal Surge"/>
 
 </GridItem>
 
@@ -282,14 +238,47 @@ Golem rotations out of the raid builds are generally suboptimal in fractals due 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Surging Flames"/>
-2. <Skill name="Singeing Strike"/> x6
+1. <Skill name="Frostfire Flurry"/> 
+2. <Skill name="Raging Richocet"/> 
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Shattering Stone"/>
+2. <Skill name="Molten Meteor"/>
+3. <Skill name="Primordial Stance"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Piercing Pebble"/> x3
+2. <Skill name="Boulder Blast"/>
+3. <Skill name="Signet of Fire"/>
+4. <Skill name="Dust Storm"/>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Air Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Raging Ricochet"/> 
+2. <Skill name="Purblinding Plasma"/>
+3. <Skill name="Lightning Orb"/>
+4. <Skill name="Scorching Shot"/> x2
 
 </GridItem>
 </Grid>
 
 ### Golem Rotation
-<Video youtube="-ML_bmcdBPo" caption="by Ryan" />
+<Video youtube="-gKvY0cI2wfg" caption="by Ryan" />
 </GridItem>
 <GridItem sm="6">
 <Card title="Precasting">
@@ -300,8 +289,7 @@ If you know you can only get one <Skill name="Weave Self"/> during the fight the
 - Start on <Skill name="Fire Attunement"/>/<Skill name="Earth Attunement"/> and precast <Skill name="Glyph of ELemental Power"/>, replace a utility with <Skill name="Arcane Power"/> and precast it.
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and precast <Skill name="Weave Self"/>.
 - Switch back your replaced utility.
-- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>.
-- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
+- Take the _Mistlock Singularity_ and attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/>.
 
 ### **Precast in fights with boonstrip** 
 In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some specific buffs get stripped the moment you enter combat so your precast has to be adjusted. Also these fights favor use of <Skill name="Glyph of Lesser Elementals"/>.
@@ -309,8 +297,7 @@ In [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs boons and some speci
 - Start on <Skill name="Fire Attunement"/>, precast <Skill name="Glyph of Lesser Elementals"/> replace your other utilities with <Skill name="Glyph of ELemental Power"/>, <Skill name="Arcane Power"/> and precast them.
 - Take the _Mistlock Singularity_ and cast another <Skill name="Glyph of Lesser Elementals"/>
 - Attune to <Skill name="Earth Attunement"/>/<Skill name="Fire Attunement"/> and switch back to your normal utilities.
-- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> for <Trait name="Elements of Rage"/>.
-- Attune to <Skill name="Air Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
+- Attune to <Skill name="Earth Attunement"/>/<Skill name="Earth Attunement"/> and start the fight.
 
 ### **Extra Precast for [Sunqua Peak](/fractals/sunqua-peak) and Silent Surf CMs**
 
@@ -322,7 +309,7 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 - Once you are out of combat, you can switch the sigils back to <Item name="Earth"/> and <Item name="Geomancy"/>.
 
 </Card>
-### Rotation outside of Weave Self
+### Rotation outside of Weave Self (this assumes you have completed it and moved from fire/air)
 
 <Grid>
 <GridItem sm="3">
@@ -330,10 +317,10 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is almost off cd
-2. <Skill name="Grand Finale"/>
-3. <Skill name="Surging Flames"/>
-4. <Skill name="Primordial Stance"/>
+1. 3. <Skill name="Searing Salvo"/> 
+2. <Skill name="Wildfire"/>
+3. <Skill name="Raging Ricochet"/> 
+4. <Skill name="Scorching Shot"/> x2
 
 </GridItem>
 
@@ -342,23 +329,80 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Whirling Stones"/>
-2. <Skill id="69164"/>
-3. <Skill name="Triple Sear"/>
-4. <Skill name="Stonestrike"/>
+1. <Skill name="Shattering Stone"/>
+2. <Skill name="Molten Meteor"/>
+3. <Skill name="Piercing Pebble"/> x4
+4. <Skill name="Signet of Fire"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Boulder Blast"/>
+2. <Skill name="Shattering Stone"/>
+3. <Skill name="Piercing Pebble"/> x4
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Echoing Erosion"/>
+2. <Skill name="Frigid Flurry"/> 
+3. <Skill name="Soothing Splash"/> x3
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Frostfire Flurry"/>
+2. <Skill name="Raging Ricochet"/> 
+3. <Skill name="Scorching Shot"/> x4
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Signet of Fire"/>
+2. <Skill name="Searing Salvo"/> 
+3. <Skill name="Scorching Shot"/> x4
+
+</GridItem>
+</Grid>
+
+### Rotation during second Weave Self
+
+</Grid>
+<GridItem sm="3">
+<Skill name="Water Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Echoing Erosion"/>
+2. <Skill name="Frigid Flurry"/> 
+3. <Skill name="Weave Self"/>
 5. <Skill name="Signet of Fire"/>
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Water Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Ground Pound"/>
-2. <Skill name="Singeing Strike"/> x4
-3. <Skill name="Surging Flames"/>
-4. <Skill id="34736"/>
+1. <Skill name="Frostfire Flurry"/>
+2. <Skill name="Raging Ricochet"/> 
 
 </GridItem>
 
@@ -367,9 +411,8 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is off cd
-2. <Skill name="Primordial Stance"/>
-3. <Skill name="Surging Flames"/> 
+1. <Skill name="Searing Salvo"/> 
+2. <Skill name="Scorching Shot"/> x2
 
 </GridItem>
 
@@ -378,23 +421,31 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Grand Finale"/>
+1. <Skill name="Shattering Stone"/>
+2. <Skill name="Molten Meteor"/>
+3. <Skill name="Piercing Pebble"/> x2
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Boulder Blast"/>
+2. <Skill name="Piercing Pebble"/> x4
+3. <Skill name="Primordial Stance"/>
+4. <Skill name="Shattering Stone"/>
+
+</GridItem>
+
+<GridItem sm="3">
+<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+</GridItem>
+<GridItem sm="9">
+
+1. <Skill name="Raging Ricochet"/> 
 2. <Skill name="Signet of Fire"/>
-3. <Skill name="Whirling Stones"/>
-4. <Skill id="69164"/>
-5. <Skill name="Stonestrike"/>
-6. <Skill name="Triple Sear"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Singeing Strike"/> x4
-2. <Skill name="Ground Pound"/>
-3. <Skill name="Surging Flames"/>
 
 </GridItem>
 
@@ -403,10 +454,10 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is almost off cd
-2. <Skill name="Primordial Stance"/>
-3. <Skill name="Signet of Fire"/>
-5. <Skill name="Surging Flames"/>
+1. <Skill name="Piercing Pebble"/> x4
+2. <Skill name="Wildfire"/>
+3. <Skill name="Raging Ricochet"/> 
+4. <Skill name="Searing Salvo"/> 
 
 </GridItem>
 
@@ -415,50 +466,29 @@ If you have an extra set of weapons (or legendary sigils), you can also precast 
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Whirling Stones"/> 
-2. <Skill name="Stonestrike"/> x3
-3. <Skill name="Grand Finale"/>
-5. <Skill name="Triple Sear"/>
+1. <Skill name="Shattering Stone"/>
+2. <Skill name="Molten Meteor"/>
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
+<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill id="34736"/>
-2. <Skill name="Singeing Strike"/> x3
-3. <Skill id="69164"/>
-5. <Skill name="Ground Pound"/>
-6. <Skill name="Surging Flames"/>
+1. <Skill name="Boulder Blast"/>
+2. <Skill name="Piercing Pebble"/> x2
+3. <Skill name="Dust Storm"/>
 
 </GridItem>
 
 <GridItem sm="3">
-<Skill name="Fire Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
+<Skill name="Air Attunement" size="large" disableText/> <Skill name="Earth Attunement" size="large" disableText/>
 </GridItem>
 <GridItem sm="9">
 
-1. <Skill name="Singeing Strike"/> x2 => <Skill name="Signet of Fire"/> => <Skill name="Singeing Strike"/> until <Skill name="Surging Flames"/> is off cd
-2. <Skill name="Primordial Stance"/>
-3. <Skill name="Surging Flames"/>
-
-</GridItem>
-
-<GridItem sm="3">
-<Skill name="Earth Attunement" size="large" disableText/> <Skill name="Fire Attunement" size="large" disableText/>
-</GridItem>
-<GridItem sm="9">
-
-1. <Skill name="Whirling Stones"/> 
-2. <Skill name="Stonestrike"/> 
-3. <Skill name="Grand Finale"/>
+1. <Skill name="Enervating Earth"/>
+2. <Skill name="Dazing Discharge"/> x2
 
 </GridItem>
 </Grid>
-
-</GridItem>
-</Grid>
-
-
