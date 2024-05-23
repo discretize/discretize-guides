@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-23T21:55:47.106Z "
+date: "2024-05-23T22:01:21.351Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -138,13 +138,13 @@ There is no status reset upon starting a boss encounter in this fractal, so it i
 
 As Eparch carries out each attack, he will spawn Globules of Emotion. These can be collected by players giving different effects, some positive and some negative. Each attack has a corresponding emotion that it will spawn which can be seen in the table below. If you have stacks of a Globule of Emotion and go to collect a different type, each new Globule will remove a stack of the previous effect until you start to gain stacks of the new effect.
 
-| Globule of Emotion (Colour)          | Boss Mechanic     | Player Effect                                                                          | Boss Effect                                               |
+| Globule of Emotion (Colour)          | Boss Mechanic     | Player Attunement                                                                          | Boss Empowerment                                               |
 |-----------------------|--------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| **Despair (Blue)**    | Puddle Spawn | -3% Incoming Strike Damage, -3% Outgoing Strike Damage                                 | -3% Incoming Strike Damage, -3% Incoming Condition Damage |
-| **Envy (Green)**      | Line Attack  | +5% Boon Duration, +5% Condition Duration, -50% Incoming Condition Damage, +5% Condition Damage | Boss attacks strip Boons                                  |
+| **Despair (Blue)**    | Rain of Despair | -3% Incoming Strike Damage, -3% Outgoing Strike Damage                                 | -3% Incoming Strike Damage, -3% Incoming Condition Damage |
+| **Envy (Green)**      | Wave of Envy  | +5% Boon Duration, +5% Condition Duration, +5% Condition Damage, -50% Incoming Condition Damage | Boss attacks strip Boons                                  |
 | **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal on ~3s cd (cd unconfirmed), 100 Damage taken per second               | Heals boss                                                |
-| **Malice (Purple)**   | Chasing AoEs | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
-| **Rage (Red)**        | Wave Attack  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
+| **Malice (Purple)**   | Spike of Malice | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
+| **Rage (Red)**        | Enraged Smash  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
 | **Regret (Yellow)**   | Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
@@ -160,19 +160,19 @@ Additionally, during this phase, Eparch will target one player and apply the <La
 ### Eparchs Mechanics
 <Grid>
 <GridItem sm="4">
-#### Puddle Spawn
+#### Rain of Despair
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
 <GridItem sm="4">
-#### Wave Attack
+#### Enraged Smash
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Spawns Rage Fissure lines on ground
 </GridItem>
 <GridItem sm="4">
-#### Line Attack
+#### Wave of Envy
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Stand inside hitbox
 </GridItem>
 <GridItem sm="4">
 #### Spin Attack
@@ -180,7 +180,7 @@ Something
 Something
 </GridItem>
 <GridItem sm="4">
-#### Chasing AoEs
+#### Spike of Malice
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
