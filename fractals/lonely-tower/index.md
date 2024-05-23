@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-23T21:33:53.202Z "
+date: "2024-05-23T21:55:47.106Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -41,7 +41,7 @@ Complete the Lonely Tower fractal on the Master tier.
 <Achievement title="Lonely Tower Fractal">
 Complete all the achievements associated with the Lonely Tower fractal.
 
-**Reward:** <Item name="Endless Midnight King Combat Tonic"/> 
+**Reward:** Endless Midnight King Combat Tonic
 </Achievement>
 </GridItem>
 </Grid>
@@ -61,7 +61,7 @@ During the minigame, three Avatars of Spite will spawn and fixate on the player 
 </Grid>
 
 ## Brothers
-Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in.
+Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in. Both bosses will fixate and move towards the closest player to them, with the players gaining the <Label>Cerus's Focus</Label> and <Label>Deimos's Focus</Label> effects respectively.
 
 <Grid>
 <GridItem>
@@ -71,16 +71,48 @@ Defeat Cerus and Deimos within 5 seconds of each other in the Lonely Tower fract
 </GridItem>
 <GridItem>
 <Information>
-Providing you can deal with the mechanics, the easiest strategy to kill the brothers quickly (and get the achievement) is to pull them together.
+Providing you can deal with the mechanics, the easiest strategy to kill the brothers quickly (and get the achievement) is to pull them together. By pulling both brothers together they again the <Label>Brothers United</Label> effect, which increases their outgoing damage.
 </Information>
 </GridItem>
 </Grid>
 
-### Cerus
+### Cerus's Mechanics
+<Grid>
+<GridItem sm="4">
+#### Puddle Spawn
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
+</GridItem>
+<GridItem sm="4">
+#### Wave Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Line Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+</Grid>
 
-### Deimos
+### Deimos's Mechanics
+<Grid>
+<GridItem sm="4">
+#### Puddle Spawn
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
+</GridItem>
+<GridItem sm="4">
+#### Wave Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+<GridItem sm="4">
+#### Line Attack
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+Something
+</GridItem>
+</Grid>
 
 ## Eparch
 Once you have defeated the brothers, take the portal to the final boss. Before fighting Eparch, you will have to kill some trash mobs. Once you have dealt with them you can _/gg_ again, to reset cooldowns and prestack boons while Eparch spawns. When ready aproach the white circle on the ground to enter the arena.
@@ -101,7 +133,6 @@ Defeat Eparch in the Lonely Tower fractal without taking damage from his rage fi
 <Information>
 There is no status reset upon starting a boss encounter in this fractal, so it is advisable to take advantage of the _Mistlock Singularity_ to prestack boons, since the fight mechanics require you to move and split shortly after entering combat.
 </Information>
-Something 
 
 ### Orbs
 
@@ -126,7 +157,7 @@ At the start of Eparchs CC phase, he will pull in and consume all Globules of Em
 
 Additionally, during this phase, Eparch will target one player and apply the <Label>Consume</Label> effect. This will start to remove any Emotion stacks the player has untill they reach zero or the defiance bar is broken. At zero stacks, Eparch will apply stacks of the <Label>Consumed</Label> effect, with each stat lowering the players attributes. To reduce the stacks and remove this effect, the player will have to collect Globules of Emotion.
 
-### Boss Mechanics
+### Eparchs Mechanics
 <Grid>
 <GridItem sm="4">
 #### Puddle Spawn
