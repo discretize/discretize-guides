@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-23T05:15:50.305Z "
+date: "2024-05-23T05:19:18.507Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -65,7 +65,7 @@ Inside the room, you will find four Astral Purifier Nodes that must be repaired.
 During the minigame, three Avatars of Spite will spawn and fixate on the player reapiring the node. When they get close they will apply <Condition name="Poisoned"/> and explode knocking the player back, cancelling the minigame. These can either be dealt with by the rest of the party, using crowd control and killing them, or alternatively the player on the node can b e given or use their own source of <Boon name="Stability"/> to negate the knockback, allowing them to continue the game. The <Boon name="Stability"/> method allows multiple nodes to be completed at the same time.  
 </GridItem>
 <GridItem>
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Soloing an Astral Purifier with Stability " />
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Soloing an Astral Purifier Node with Stability " />
 </GridItem>
 </Grid>
 
