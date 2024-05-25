@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-23T22:01:21.351Z "
+date: "2024-05-25T19:15:08.736Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -24,7 +24,7 @@ sigils: []
 ---
 
 Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from.  
- 
+
 <Divider text="Normal Mode"/>
 <Grid>
 <GridItem>
@@ -41,14 +41,14 @@ Complete the Lonely Tower fractal on the Master tier.
 <Achievement title="Lonely Tower Fractal">
 Complete all the achievements associated with the Lonely Tower fractal.
 
-**Reward:** Endless Midnight King Combat Tonic
+**Reward:** <Item id="101867"/>
 </Achievement>
 </GridItem>
 </Grid>
 
 Upon entering the fractal take the _Mistlock Singularity_ and head out the starting room and follow the corridor to your right. Whilst moving down the corridor avoid Cerus's Despair attack (the falling red orbs, leaving AoEs on the ground), standing in this attack will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>. At the end of the corridor you will see Cerus standing in the Astral Purifier room.
 
-## Astral Purifiers
+## Astral Purifiers 
 <Grid>
 <GridItem>
 Inside the room, you will find four Astral Purifier Nodes that must be repaired. Interacting with a node will give you the effect <Label>Time Running Out</Label>. It will turn your weapon skills into a Simon Says styled minigame, where you will have to press a highlighted skill 10 times, before the 30 second timer runs out. Pressing the wrong skill will knock you back and cancel the minigame, requiring you to start again.
@@ -61,7 +61,7 @@ During the minigame, three Avatars of Spite will spawn and fixate on the player 
 </Grid>
 
 ## Brothers
-Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in. Both bosses will fixate and move towards the closest player to them, with the players gaining the <Label>Cerus's Focus</Label> and <Label>Deimos's Focus</Label> effects respectively.
+Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in. Both bosses will fixate and move towards the closest player to them, with the players gaining the <Label>Cerus's Focus</Label> and <Label>Deimos's Focus</Label> effects respectively. When the brothers are close together they will gain the effect <Label>Brothers United</Label> leading their attacks to deal more damage.
 
 <Grid>
 <GridItem>
@@ -79,38 +79,38 @@ Providing you can deal with the mechanics, the easiest strategy to kill the brot
 ### Cerus's Mechanics
 <Grid>
 <GridItem sm="4">
-#### Puddle Spawn
+#### Despair
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Cerus will spawn an expanding AoE under players. When the AoE fills a red orb will drop from above. Standing in the red AoE left behind will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>.
 </GridItem>
 <GridItem sm="4">
-#### Wave Attack
+#### Cry of Rage
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Cerus will repeatedly pummel the ground as a large expanding AoE fills the arena. When the AoE fills it will deal damage to all players in it. Additionally any player hit by the attack will grant a stack of the <Label>Empowered</Label> effect to Cerus, which increases his damage by 5% per stack.
 </GridItem>
 <GridItem sm="4">
-#### Line Attack
+#### Malicious Intent
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Cerus will tether himself to a player and draw out a Malicious Shadow, that will slowly walk towards Cerus. Once it reaches Cerus's hitbox, the Shadow will be consumed giving cerus 5 stacks of <Label>Empowered</Label>.
 </GridItem>
 </Grid>
 
 ### Deimos's Mechanics
 <Grid>
 <GridItem sm="4">
-#### Puddle Spawn
+#### Grasping Hnads
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Grasping Hands will spawn under the player furthest away from Deimos. Standing in them applies apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. Any hands close to Deimos will get pulled in and consumed, giving deimos stacks of <Label>Devour</Label> for each hand consumed. <Label>Devour</Label> increases Deimos's outgoing damage by 2% per stack.
 </GridItem>
 <GridItem sm="4">
-#### Wave Attack
+#### Rapid Decay
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Deimos will stop and swing his maces for 5 seconds, after the 5 seconds the closest player to Deimos, without <Label>Cerus's Focus</Label> will have an orange AoE spawned under them. Shrotly after the field becomes black and anyone who steps in it will expand the field and also be dealt heavy damage.
 </GridItem>
 <GridItem sm="4">
-#### Line Attack
+#### Annihilate
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Deimos will slam the ground creating a large AoE on the ground. This will then start a shockwave moving from the front to the back, launching anyone hit backwards.
 </GridItem>
 </Grid>
 
@@ -142,10 +142,10 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 |-----------------------|--------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | **Despair (Blue)**    | Rain of Despair | -3% Incoming Strike Damage, -3% Outgoing Strike Damage                                 | -3% Incoming Strike Damage, -3% Incoming Condition Damage |
 | **Envy (Green)**      | Wave of Envy  | +5% Boon Duration, +5% Condition Duration, +5% Condition Damage, -50% Incoming Condition Damage | Boss attacks strip Boons                                  |
-| **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal on ~3s cd (cd unconfirmed), 100 Damage taken per second               | Heals boss                                                |
+| **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal, 100 Damage taken per second               | Heals boss                                                |
 | **Malice (Purple)**   | Spike of Malice | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
 | **Rage (Red)**        | Enraged Smash  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
-| **Regret (Yellow)**   | Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
+| **Regret (Yellow)**   | Spawn Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
 - Healer / Lowest damage build in a no-heal composition - Despair
@@ -185,7 +185,7 @@ Something
 Something
 </GridItem>
 <GridItem sm="4">
-#### Adds
+#### Spawn Adds
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
