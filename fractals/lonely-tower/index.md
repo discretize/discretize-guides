@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-24T13:20:53.908Z "
+date: "2024-05-25T15:16:31.024Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -24,7 +24,7 @@ sigils: []
 ---
 
 Immediately following the foundation of the Astral Ward, Eparch finally returned to Tyria to strike back against Isgarren's "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda navigate the crumbling halls of the Wizard's Tower and push the Kryptis back to where they came from.  
- 
+
 <Divider text="Normal Mode"/>
 <Grid>
 <GridItem>
@@ -41,7 +41,7 @@ Complete the Lonely Tower fractal on the Master tier.
 <Achievement title="Lonely Tower Fractal">
 Complete all the achievements associated with the Lonely Tower fractal.
 
-**Reward:** Endless Midnight King Combat Tonic
+**Reward:** <Item id="101867"/>
 </Achievement>
 </GridItem>
 </Grid>
@@ -61,7 +61,7 @@ During the minigame, three Avatars of Spite will spawn and fixate on the player 
 </Grid>
 
 ## Brothers
-Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in. Both bosses will fixate and move towards the closest player to them, with the players gaining the <Label>Cerus's Focus</Label> and <Label>Deimos's Focus</Label> effects respectively.
+Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in. Both bosses will fixate and move towards the closest player to them, with the players gaining the <Label>Cerus's Focus</Label> and <Label>Deimos's Focus</Label> effects respectively. When the brothers are close together they will gain the effect <Label>Brothers United</Label> leading their attacks to deal more damage.
 
 <Grid>
 <GridItem>
@@ -79,36 +79,36 @@ Providing you can deal with the mechanics, the easiest strategy to kill the brot
 ### Cerus's Mechanics
 <Grid>
 <GridItem sm="4">
-#### Puddle Spawn
+#### Despair
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Cerus will spawn an expanding AoE under players. When the AoE fills a red orb will drop from above. Standing in the red AoE left behind will apply <Effect name="Agony"/> and 5 stacks of <Condition name="Torment"/>.
 </GridItem>
 <GridItem sm="4">
-#### Wave Attack
+#### Cry of Rage
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Cerus will repeatedly pummel the ground as a large expanding AoE fills the arena. When the AoE fills it will deal damage to all players in it. Additionally any player hit by the attack will grant a stack of the <Label>Empowered</Label> effect to Cerus, which increases his damage by 5% per stack.
 </GridItem>
 <GridItem sm="4">
-#### Line Attack
+#### Malicious Intent
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Cerus will tether himself to a player and draw out a 
 </GridItem>
 </Grid>
 
 ### Deimos's Mechanics
 <Grid>
 <GridItem sm="4">
-#### Puddle Spawn
+#### Grasping Hnads
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
 <GridItem sm="4">
-#### Wave Attack
+#### Rapid Decay
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
 <GridItem sm="4">
-#### Line Attack
+#### Annihilate
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
@@ -145,7 +145,7 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal, 100 Damage taken per second               | Heals boss                                                |
 | **Malice (Purple)**   | Spike of Malice | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
 | **Rage (Red)**        | Enraged Smash  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
-| **Regret (Yellow)**   | Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
+| **Regret (Yellow)**   | Spawn Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
 - Healer / Lowest damage build in a no-heal composition - Despair
@@ -185,7 +185,7 @@ Something
 Something
 </GridItem>
 <GridItem sm="4">
-#### Adds
+#### Spawn Adds
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
