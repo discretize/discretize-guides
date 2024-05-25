@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-25T15:16:31.024Z "
+date: "2024-05-25T19:15:08.736Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -91,7 +91,7 @@ Cerus will repeatedly pummel the ground as a large expanding AoE fills the arena
 <GridItem sm="4">
 #### Malicious Intent
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Cerus will tether himself to a player and draw out a 
+Cerus will tether himself to a player and draw out a Malicious Shadow, that will slowly walk towards Cerus. Once it reaches Cerus's hitbox, the Shadow will be consumed giving cerus 5 stacks of <Label>Empowered</Label>.
 </GridItem>
 </Grid>
 
@@ -100,17 +100,17 @@ Cerus will tether himself to a player and draw out a
 <GridItem sm="4">
 #### Grasping Hnads
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Grasping Hands will spawn under the player furthest away from Deimos. Standing in them applies apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. Any hands close to Deimos will get pulled in and consumed, giving deimos stacks of <Label>Devour</Label> for each hand consumed. <Label>Devour</Label> increases Deimos's outgoing damage by 2% per stack.
 </GridItem>
 <GridItem sm="4">
 #### Rapid Decay
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Deimos will stop and swing his maces for 5 seconds, after the 5 seconds the closest player to Deimos, without <Label>Cerus's Focus</Label> will have an orange AoE spawned under them. Shrotly after the field becomes black and anyone who steps in it will expand the field and also be dealt heavy damage.
 </GridItem>
 <GridItem sm="4">
 #### Annihilate
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-Something
+Deimos will slam the ground creating a large AoE on the ground. This will then start a shockwave moving from the front to the back, launching anyone hit backwards.
 </GridItem>
 </Grid>
 
