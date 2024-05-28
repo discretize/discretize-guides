@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-05-28T09:53:38.158Z "
+date: "2024-05-28T10:24:15.761Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -80,7 +80,11 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 <Divider text="Staff  VS Greatsword"/>
 The build above is regarded as the 'safer' build and should generally be taken in less experienced groups. 
+
 However, Greatsword can also be considered for a DPS increase. With the recent changes,<Skill name="Darkrazors Daring"/> now applies instant 600 CC.
+On certain fights such as Artsariiv, consider running <Item id="24639" disableText/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
+
+**Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
 
 
 
