@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-05-27T22:04:15.546Z "
+date: "2024-05-28T09:53:38.158Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -79,6 +79,9 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 
 <Divider text="Staff  VS Greatsword"/>
+The build above is regarded as the 'safer' build and should generally be taken in less experienced groups. 
+However, Greatsword can also be considered for a DPS increase. With the recent changes,<Skill name="Darkrazors Daring"/> now applies instant 600 CC.
+
 
 
 
@@ -92,7 +95,6 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
-| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
 | <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
 
 ### Defiance Bar Damage
