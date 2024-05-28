@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-05-28T12:21:56.258Z "
+date: "2024-05-28T15:51:59.683Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -80,14 +80,13 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 <Divider text="Staff  VS Greatsword"/>
 <Grid>
-<GridItem sm="9">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868} 
+<GridItem>
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24639} 
 or weapon1MainSigil3zd={24868}/> 
 </GridItem>
-</Grid>
-<Grid>
-<GridItem sm="">
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868} 
+
+<GridItem>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868} 
 or weapon1MainSigil3zd={24868}/> 
 </GridItem>
 </Grid>
