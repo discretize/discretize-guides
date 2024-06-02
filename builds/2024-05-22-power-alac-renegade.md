@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-05-28T15:51:59.683Z "
+date: "2024-06-02T14:17:21.415Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -147,6 +147,7 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 | <Skill name="Protective Solace" size="big" disableText/>       | Protective barrier blocking enemy projectiles.                                                               |
 | <Skill name="Heroic COmmand" size="big" disableText/>    | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. |
 | <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
+| <Skill id="28075" size="big" disableText/>                     | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.                           |
 
 </GridItem>
 </Grid>
