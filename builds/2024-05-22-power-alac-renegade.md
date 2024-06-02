@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-02T14:31:39.226Z "
+date: "2024-06-02T14:36:24.880Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -117,8 +117,7 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 **Hard Crowd Control:**
 
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
-- <Skill name="Energy Expulsion"/> - 150 <Control name="Knockback"/>.
-- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
+- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Item id="24639" disableText/> <Control name="Daze"/>.
 - <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
