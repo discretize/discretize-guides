@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-02T14:17:21.415Z "
+date: "2024-06-02T14:31:39.226Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -134,21 +134,21 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 - <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
-</GridItem>
-<GridItem sm="4">
+
 ### Situational Skills
 
-|                                                                |                                                                                                              |
+|                            <Specialization name="Renegade" size="large" disableText/>  Renegade Stance                         |                           
+                                                                               |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <Skill id="28075" size="big" disableText/>                     | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.                           |
+| <Skill name="Heroic COmmand" size="big" disableText/>    | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. | name="Superspeed"/>.                           |
 | <Skill name="Phase Traversal" size="big" disableText/>         | Step through the Mists to your target.                                                                       |
 | <Skill name="Inspiring Reinforcement" size="big" disableText/> | Create a stone road granting <Boon name="Stability"/> to allies.                                             |
 | <Skill name="Call to Anguish" size="big" disableText/>         | Pull enemies up to 360 radius.                                                                               |
 | <Skill name="Protective Solace" size="big" disableText/>       | Protective barrier blocking enemy projectiles.                                                               |
-| <Skill name="Heroic COmmand" size="big" disableText/>    | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. |
-| <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
-| <Skill id="28075" size="big" disableText/>                     | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.                           |
 
+| <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
+| <Skill id="28075" size="big" disableText/>                     | This  skill grants you <Effect name="Superspeed"/>.                           |
+</GridItem>
 </GridItem>
 </Grid>
 
