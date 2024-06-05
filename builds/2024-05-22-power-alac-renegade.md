@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-05T20:14:16.578Z "
+date: "2024-06-05T23:59:06.273Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -134,34 +134,63 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 ### Situational Skills
 #### <Specialization name="Renegade" disable text/> Renegade Stance 
 
-
+TO BE CONTINUTED
 
 
 <Divider text="Details"/>
 <Grid>
 <GridItem sm="8">
-### Burst Rotation
+### **Different Burst/opener Rotations**
+_To preface, there are 2 general rotations detailed below that are typically used for different power fights pertaining to the different weapon sets. Adapt them as you see fit. For a more detailed guide, please refer to the [CM guide ](/cm-guides/revenant/power-renegade/static)_
 
-While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+#### **Greatsword/Sword+Sword**
+
+Start on <Skill id="41858"  disableText/> Kalla. \
+Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 #### Greatsword Burst
 
-1.  <Skill name="Citadel Bombardment"/>
-2.  <Skill name="Eternity's Requiem"/>
-3.  <Skill name="Mist Unleashed"/>
-4.  <Skill name="Phantom's Onslaught"/>
-5.  <Skill name="Mist Swing"/> -> <Skill name="Mist Slash"/> -> <Skill name="Arcing Mists"/> -> <Skill name="Mist Swing"/>
+1.  <Skill name="Darkrazor's daring"/>
+2.  <Skill name="Icerazor's Ire"/>
+3.  Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
+4.  <Skill name="Eternity's Requiem"/>
+5.  <Skill name="Citadel Bombardment"/>
 6.  <Skill name="Mist Unleashed"/>
+7.  Swap to Sword
 
 #### Sword Burst
 
 1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Citadel Bombardment"/>
-3.  <Skill name="Shackling Wave"/>
-4.  <Skill name="Deathstrike"/>
+2.  <Skill name="Shackling Wave"/>
+3.  <Skill name="Deathstrike"/>
+4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
 5.  <Skill name="ChillingIsolation"/>
 
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+#### **Staff/Sword+Sword**
+
+Start on <Skill id="41858"  disableText/> Kalla. \
+Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
+
+#### Staff rotation
+
+1.  <Skill name="Darkrazor's daring"/>
+2.  <Skill name="Surge of the mists"/>
+3.  Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
+4.  <Skill name="Eternity's Requiem"/>
+5.  <Skill name="Mist Unleashed"/>
+6.  Swap to Sword
+
+#### Sword Burst
+
+1.  <Skill name="Chilling Isolation"/>
+2.  <Skill name="Shackling Wave"/>
+3.  <Skill name="Deathstrike"/>
+4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
+5.  <Skill name="ChillingIsolation"/>
+
+
+
+Ideally you would want to do both rotations under the effect of <Effect name="Exposed"/>. To understand the CC distribution for this, please check the [CC distribution guide ](/guides/cc-distribution/)
 </GridItem>
 
 <GridItem sm="4">
