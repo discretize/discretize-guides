@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-05T18:31:38.594Z "
+date: "2024-06-05T20:12:30.792Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -97,14 +97,14 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 
 **Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
 
-
-
-
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+</GridItem>
+</Grid>
+
 ### Situational Traits
 
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
@@ -117,8 +117,8 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 **Hard Crowd Control:**
 
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
-- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Item id="24639" disableText/> <Control name="Daze"/>.
-- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
+- <Skill name="Darkrazors Daring"/> - 600 <Control name="Daze"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 780 <Control name="Daze"/>.
+- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 390 <Control name="Daze"/>.
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 **Soft Crowd Control:**
@@ -135,15 +135,10 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 
 
 ### Situational Skills
-<Grid>
-<GridItem sm="4">
-<Specialization name="Renegade" size="large" disableText/>Renegade Stance
-<Skill name="Heroic Command" size="large" disableText/>Heroic Command 
+#### <Specialization name="Renegade" disable text/> Renegade Stance 
 
 
 
-</GridItem>
-</Grid>
 
 <Divider text="Details"/>
 <Grid>
