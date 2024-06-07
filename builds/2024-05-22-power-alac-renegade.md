@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-07T22:28:25.031Z "
+date: "2024-06-07T22:36:00.337Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -220,9 +220,9 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/>to your Group. It is better to use the 20 Energy to Burst instead.
 
 
-2. **Drain Energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and 
+2. **Drain Energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and <Skill name="Heroic Command"/> are examples of things you can do to drain your energy. Certain weapon skills can do that as well.
 
-3. **Know skill costs:** 
+3. **Know skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
 
 
 ### **Dealing with No Pain, No Gain**
