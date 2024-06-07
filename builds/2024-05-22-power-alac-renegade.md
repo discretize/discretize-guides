@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-07T01:21:07.052Z "
+date: "2024-06-07T01:26:16.523Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -220,6 +220,8 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
 
-<div style={{marginBottom: "16px"}} />
+<div style={{marginBottom: "16px"}} /> 
 
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
+
+If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
