@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-05T23:59:06.273Z "
+date: "2024-06-07T01:21:07.052Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -145,7 +145,7 @@ _To preface, there are 2 general rotations detailed below that are typically use
 
 #### **Greatsword/Sword+Sword**
 
-Start on <Skill id="41858"  disableText/> Kalla. \
+Start on <Skill id="41858"  disableText/> Kalla. \ 
 Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 #### Greatsword Burst
@@ -199,10 +199,10 @@ Ideally you would want to do both rotations under the effect of <Effect name="Ex
 Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
 
 1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
-2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
+2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/> (if on staff, otherwise skip).
 3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
 4. Take the Mistlock Singularity.
-5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
+5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/> (if on staff, otherwise skip).
 6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
 7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
 8. Swap back to <Skill name="Legendary Renegade Stance"/>.
@@ -216,7 +216,7 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
 </Warning>
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
 
