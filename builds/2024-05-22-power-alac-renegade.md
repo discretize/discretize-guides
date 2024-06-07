@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-07T22:36:00.337Z "
+date: "2024-06-07T22:45:47.509Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -211,6 +211,8 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 </GridItem>
 </Grid>
 
+<Grid>
+<GridItem sm="8">
 ### **General Rotation Guide**
 #### Energy Management:
 
@@ -224,7 +226,29 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 
 3. **Know skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
 
+</GridItem>
 
+<GridItem sm="4">
+<Card title="Weapon Priority Skills">
+
+Sword:
+
+1. <Skill name="Chilling Isolation"/>
+2. <Skill name="Shackling Wave"/>
+3. <Skill name="DeathStrike"/>
+
+Greatsword:
+
+1. <Skill name="Eternity's Requiem"/>
+2. <Skill name="Mist unleashed"/>
+3. <Skill name="Phantom's onslaught"/>
+
+Weapon Swapping:
+Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
+
+</Card>
+</GridItem>
+</Grid>
 ### **Dealing with No Pain, No Gain**
 <Warning>
 
