@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-07T02:02:04.241Z "
+date: "2024-06-07T22:28:25.031Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -214,7 +214,16 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 ### **General Rotation Guide**
 #### Energy Management:
 
-<Specialization name="Renegade"/> has lower cooldowns than many other classes
+<Specialization name="Renegade"/> has lower cooldowns than many other classes at the cost of its other mechanic, energy. Energy is replenished over time as indicated by the arrows to the left and right of the energy indicator. Every arrow indicates 1% of energy gained/lost per second. 
+All skills cost energy so plan accordingly. Remember, your primary job is to give Alacrity (sometimes Might) followed by CC and your burst damage. This can be difficult, so here are a few tips:
+
+1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/>to your Group. It is better to use the 20 Energy to Burst instead.
+
+
+2. **Drain Energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and 
+
+3. **Know skill costs:** 
+
 
 ### **Dealing with No Pain, No Gain**
 <Warning>
@@ -222,7 +231,7 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
 </Warning>
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>.
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
 
