@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-07T01:26:16.523Z "
+date: "2024-06-07T02:02:04.241Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -210,7 +210,13 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 </Card>
 </GridItem>
 </Grid>
-### Dealing with No Pain, No Gain
+
+### **General Rotation Guide**
+#### Energy Management:
+
+<Specialization name="Renegade"/> has lower cooldowns than many other classes
+
+### **Dealing with No Pain, No Gain**
 <Warning>
 
 Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
