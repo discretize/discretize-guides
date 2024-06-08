@@ -1,7 +1,14 @@
 ---
+title: Power Alac Renegade
 hidden: false
 archive: false
+rating: Meta
+role: Power Damage
+profession: Revenant
 specialization: Renegade
+conditions:
+  - name: Vulnerability
+    uptime: 10 stacks
 boons:
   - name: Alacrity
     uptime: 100%
@@ -10,21 +17,14 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: static
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2023-10-22T15:53:37.058Z "
-title: Power Alac Renegade
-rating: Meta
-role: Power Damage
-profession: Revenant
-conditions:
-  - name: Vulnerability
-    uptime: 10 stacks
-cmGuide: static
+date: "2024-06-08T14:01:12.143Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -77,27 +77,48 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 </Character>
 </CharacterWithAr>
 
+
+<Divider text="Staff  VS Greatsword"/>
+<Grid>
+<GridItem>
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24639} 
+or weapon1MainSigil3zd={24868}/> 
+</GridItem>
+
+<GridItem>
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868} 
+or weapon1MainSigil3zd={84505}/> 
+</GridItem>
+</Grid>
+The build above is regarded as the 'safer' build and should generally be taken in less experienced groups.
+
+However, Greatsword can also be considered for a DPS increase. With the recent changes,<Skill name="Darkrazors Daring"/> now applies instant 600 CC.
+On certain fights such as Artsariiv, consider running <Item id="24639" disableText/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
+
+**Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
+
 <Divider text="Build"/>
 
 <Grid>
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+</GridItem>
+</Grid>
+
 ### Situational Traits
 
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
-| <Trait name="Lasting Legacy" size="big" disableText/> | This trait will allow you to provide 25 stacks of <Boon name="Might"/> to your party. If you also want to provide 100% <Boon name="Alacrity"/> in longer fights you will need 100% Boon Duration, however on shorter fights or in fast groups you may be able to get away with less if you precast at the _Mistlock Singularity_. |
-| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                              
 
 ### Defiance Bar Damage
 
 **Hard Crowd Control:**
 
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
-- <Skill name="Energy Expulsion"/> - 150 <Control name="Knockback"/>.
-- <Skill name="Darkrazors Daring"/> - Up to six hits of 100 <Control name="Daze"/>.
-- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/>.
+- <Skill name="Darkrazors Daring"/> - 600 <Control name="Daze"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 780 <Control name="Daze"/>.
+- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 390 <Control name="Daze"/>.
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 **Soft Crowd Control:**
@@ -106,54 +127,86 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 - <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
 - <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
-- <Skill name="Icerazors Ire"/> - <Condition name="Crippled"/> for 15 per second.
 - <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
-- <Skill name="Warding Rift"/> - <Condition name="Blinded"/> for 20 per second.
-- <Skill name="Inspiring Reinforcement"/> - <Condition name="Weakness"/> for 20 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
-</GridItem>
-<GridItem sm="4">
+
 ### Situational Skills
 
-|                                                                |                                                                                                              |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <Skill id="28075" size="big" disableText/>                     | This <Specialization name="Herald"/> skill grants you <Effect name="Superspeed"/>.                           |
-| <Skill name="Phase Traversal" size="big" disableText/>         | Step through the Mists to your target.                                                                       |
-| <Skill name="Inspiring Reinforcement" size="big" disableText/> | Create a stone road granting <Boon name="Stability"/> to allies.                                             |
-| <Skill name="Call to Anguish" size="big" disableText/>         | Pull enemies up to 360 radius.                                                                               |
-| <Skill name="Protective Solace" size="big" disableText/>       | Protective barrier blocking enemy projectiles.                                                               |
-| <Skill name="Breakrazor's Bastion" size="big" disableText/>    | This <Specialization name="Renegade"/> skill shield your allies with -50% Incoming Condition Damage for 10s. |
-| <Skill name="Nomad's Advance" size="big" disableText/>         | This <Specialization name="Vindicator"/> skill lunge you forward up to 600 range.                            |
 
-</GridItem>
-</Grid>
+| Legend | Skill  | Usage |
+| --------------- | -------------------------- | --------------------: |
+| <Specialization name="Renegade" size="medium"/>       | <Skill name="Heroic Command" size="large" disableText/> | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. |
+| <Skill name="Legendary Renegade Stance"size="medium"/> | <Skill name="Breakrazor's Bastion" size="large" disableText/> | Good Group Heal and gives Resolution to your group. |
+| | <Skill name="Darkrazor's daring" size="large" disableText/> | Variety of uses, primarily as a good 600 AoE CC skill. Can be cast to CC a Boss, a group of adds or remove boons from enemies with <Item id="72872"/>  | -------------------------- |
+| | <Skill name="Icerazor's Ire" size="large" disableText/> | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss. |
+| <Skill name="Legendary Assassin Stance" size="medium"/> | <Skill name="Enchanted Daggers" size="large" disableText/> | Low heal skill that is mostly used as a precast at the Mistlock Singularity. |
+| | <Skill name="Phase traversal" size="large" disableText/> | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. Example of this is the skip to first set of adds in the Molten Bosses fractal. |
+| | <Skill name="Impossible Odds" size="large" disableText/> | Your best DPS skill. Make sure to toggle this skill on when you do your burst. |
+| | <Skill name="Jade Winds" size="large" disableText/> | AoE <Control name="Stun"/> around your character. Useful for CCing 2 adds with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv if you stay between them. |
+| <Skill name="Legendary Centaur Stance"size="medium"/>| <Skill name="Protective Solace" size="large" disableText/> | Blocks projectiles and is a light combo field, allowing for easy condition cleanses. Uses can found on the final ship phase on Siren's reef as well as the final boss of Volcanic.  |
+| <Skill name="Legendary Demon Stance"size="medium"/>| <Skill name="Banish Enchantment" size="large" disableText/> | Remove 3 boons from enemy target.  |
+| | <Skill name="Call to Anguish" size="large" disableText/> | Pull enemies together in a 360 radius. Useful for pulling adds together in Molten Boss for example. |
+| <Skill name="Legendary Dwarf Stance"size="medium"/>| <Skill name="Inspiring Reinforcement" size="large" disableText/> | Casually called 'Road', is often used to provide stability to the party and used often in the Chaos fractal.  |
+| | <Skill name="Forced Engagement" size="large" disableText/> | 500 CC in 4 seconds through <Condition name="Taunt"/> and <Condition name="Slow"/>. |
+| | <Skill name="Vengeful Hammers" size="large" disableText/> | Similar to <Skill name="Impossible Odds" />, and although is less DPS, does give a small heal for every hammer hit. |
+| <Specialization name="Herald" size="medium"/>       | <Skill name="Facet of Chaos" size="large" disableText/> | Gives the party <Effect name="Superspeed"/>. |
+
 
 <Divider text="Details"/>
 <Grid>
 <GridItem sm="8">
-### Burst Rotation
+### **Different Burst/opener Rotations**
+_To preface, there are 2 general rotations detailed below that are typically used for different power fights pertaining to the different weapon sets. Adapt them as you see fit. For a more detailed guide, please refer to the [CM guide ](/cm-guides/revenant/power-renegade/static)_
 
-While <Skill name="Impossibleodds"/> or <Skill name="Vengeful Hammers"/> are up depending on your selected legend.
+#### **Greatsword/Sword+Sword**
+
+Start on <Skill id="41858"  disableText/> Kalla. \ 
+Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 #### Greatsword Burst
 
-1.  <Skill name="Citadel Bombardment"/>
-2.  <Skill name="Eternity's Requiem"/>
-3.  <Skill name="Mist Unleashed"/>
-4.  <Skill name="Phantom's Onslaught"/>
-5.  <Skill name="Mist Swing"/> -> <Skill name="Mist Slash"/> -> <Skill name="Arcing Mists"/> -> <Skill name="Mist Swing"/>
+1.  <Skill name="Darkrazor's daring"/>
+2.  <Skill name="Icerazor's Ire"/>
+3.  Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
+4.  <Skill name="Eternity's Requiem"/>
+5.  <Skill name="Citadel Bombardment"/>
 6.  <Skill name="Mist Unleashed"/>
+7.  Swap to Sword
 
 #### Sword Burst
 
 1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Citadel Bombardment"/>
-3.  <Skill name="Shackling Wave"/>
-4.  <Skill name="Deathstrike"/>
+2.  <Skill name="Shackling Wave"/>
+3.  <Skill name="Deathstrike"/>
+4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
 5.  <Skill name="ChillingIsolation"/>
 
-Ideally you would want to do your burst rotation under the effect of <Effect name="Exposed"/>.
+#### **Staff/Sword+Sword**
+
+Start on <Skill id="41858"  disableText/> Kalla. \
+Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
+
+#### Staff rotation
+
+1.  <Skill name="Darkrazor's daring"/>
+2.  <Skill name="Surge of the mists"/>
+3.  Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
+4.  <Skill name="Eternity's Requiem"/>
+5.  <Skill name="Mist Unleashed"/>
+6.  Swap to Sword
+
+#### Sword Burst
+
+1.  <Skill name="Chilling Isolation"/>
+2.  <Skill name="Shackling Wave"/>
+3.  <Skill name="Deathstrike"/>
+4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
+5.  <Skill name="ChillingIsolation"/>
+
+
+
+Ideally you would want to do both rotations under the effect of <Effect name="Exposed"/>. To understand the CC distribution for this, please check the [CC distribution guide ](/guides/cc-distribution/)
 </GridItem>
 
 <GridItem sm="4">
@@ -162,10 +215,10 @@ Ideally you would want to do your burst rotation under the effect of <Effect nam
 Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
 
 1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
-2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/>.
+2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/> (if on staff, otherwise skip).
 3. Press <Skill name="Orders From Above"/> to generate <Boon name="Alacrity"/>.
 4. Take the Mistlock Singularity.
-5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/>.
+5. Blast <Boon name="Might"/> with another <Skill name="Renewing Wave"/> (if on staff, otherwise skip).
 6. Share <Boon name="Alacrity"/> again with <Skill name="Orders From Above"/>.
 7. Swap to <Skill name="Legendary Assassin Stance"/> and cast <Skill name="Enchanted Daggers"/>.
 8. Swap back to <Skill name="Legendary Renegade Stance"/>.
@@ -173,115 +226,71 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 </Card>
 </GridItem>
 </Grid>
-### Dealing with No Pain, No Gain
+
+<Grid>
+<GridItem sm="8">
+### **General Rotation Guide**
+#### Energy Management:
+
+<Specialization name="Renegade"/> has lower cooldowns than many other classes at the cost of its other mechanic, energy. Energy is replenished over time as indicated by the arrows to the left and right of the energy indicator. Every arrow indicates 1% of energy gained/lost per second. 
+All skills cost energy so plan accordingly. Remember, your primary job is to give Alacrity (sometimes Might) followed by CC and your burst damage. This can be difficult, so here are a few tips:
+
+1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/>to your Group. It is better to use the 20 Energy to Burst instead.
+
+
+2. **Drain Energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and <Skill name="Heroic Command"/> are examples of things you can do to drain your energy. Certain weapon skills can do that as well.
+
+3. **Know skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
+
+</GridItem>
+
+<GridItem sm="4">
+<Card title="Weapon Priority Skills">
+
+Sword:
+
+1. <Skill name="Chilling Isolation"/>
+2. <Skill name="Shackling Wave"/>
+3. <Skill name="DeathStrike"/>
+
+Greatsword:
+
+1. <Skill name="Eternity's Requiem"/>
+2. <Skill name="Mist unleashed"/>
+3. <Skill name="Phantom's onslaught"/>
+
+Weapon Swapping:
+Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
+
+</Card>
+</GridItem>
+</Grid>
+### **Dealing with No Pain, No Gain**
 <Warning>
 
 Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
 </Warning>
 
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability. For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>.
 
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
 
-<div style={{marginBottom: "16px"}} />
+<div style={{marginBottom: "16px"}} /> 
 
-As for legends that you want to run, the general rule of thumb in groups that perform at least relatively well is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. If you find the stability to be an issue on Artsariiv in slower groups where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/> or alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
 
-### Abilities
+If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 
-**Citadel Order Skills:**
+<Divider text="Other Details"/>
 
-- <Skill name="Heroic Command"/> (F2) - Share two stacks of <Boon name="Might"/> for each <Uncategorized name="kallasfervor"/> stack.
-- <Skill name="Citadel Bombardment"/> (F3) - Fire 10 to 15 missiles that inflict high damage and <Condition name="Burning"/>.
-- <Skill name="Orders from Above"/> (F4) - Share four pulses of <Boon name="Alacrity"/>. Increased to a total of six pulses of <Boon name="Alacrity"/> with <Trait name="Righteous Rebel"/>.
+#### <Uncategorized name="kallasfervor" size="big"/>
+<Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
 
----
+#### Other Important Traits
+1. <Trait name="Brutal Momentum"/>= Increased damage if endurance is full. Dodging will lose this trait and also lose crit cap. If dodging is necessary, cast <Skill name="Unrelenting Assault"/> or <Skill name="Imperial Guard"/>.
 
-**Greatsword Skills:**
+2. <Trait name="Unsuspecting strikes"/>= Increases your DPS in the first 20% of the fight so ensure a clean opener (see above for rotation)
 
-- <Skill name="Mist Swing"/> - The auto-attack chain cleaves up to 5 targets and provides <Condition name="Vulnerability"/> on the second and third attacks in the chain. The third attack also applies <Condition name="Chilled"/>
-- <Skill name="Mist Unleashed"/> - High damage skill with low cooldown and energy cost, also applies <Condition name="Vulnerability"/>.
-- <Skill name="Phantom's Onslaught"/> - A movement skill that will rush you toward your target and apply <Condition name="Chilled"/>.
-- <Skill name="Imperial Guard"/> - A 2 second block. Once used, the flip skill <Skill name="True Strike"/> is useable. This will deal increased damage per attack blocked.
-- <Skill name="Eternity's Requiem"/> - High damage skill that will hit at least 5 times. Each time the skill hits a damage reduction of 10% is applied for the next hit.
+3. <Trait name="Swift Termination"/>= Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
 
-**Sword Skills:**
-
-- <Skill name="Preparation Thrust"/> - The auto-attack chain cleaves and provides <Condition name="Vulnerability"/> on the two first attacks. The third attack creates an exploding rift on up to three targets, with each explosion hitting three targets. Potentially hitting nine times.
-- <Skill name="Chilling Isolation"/> - High damage skill with low cooldown and energy cost, also provides <Condition name="Chilled"/>. The second attack deals increased damage to isolated enemies.
-- <Skill name="Unrelenting Assault"/> - A two second evade that also provides <Boon name="Might"/> to yourself.
-- <Skill name="Shackling Wave"/> - High damage skill, however, should be used in key moments due to the energy cost, cooldown, and application of <Condition name="Vulnerability"/>.
-- <Skill name="Death strike"/> - Shadowstep to the target, grants two hits with decent damage. Should be used in key moments, unless energy and timing allow it to be used for damage.
-
-**Staff Skills:**
-
-- <Skill name="Rapid Swipe"/> - The auto-attack chain cleaves and the last hit provides a small amount of healing to allies.
-- <Skill name="Menders Rebuke"/> - Provides <Condition name="Weakness"/> and a small amount of healing to allies.
-- <Skill name="Warding Rift"/> - A two second block that causes <Condition name="Blinded"/> foes.
-- <Skill name="Renewing Wave"/> - Provides a blast for a combo field, cleanses two conditions and heals allies.
-- <Skill name="Surge of the Mists"/> - The strongest Crowd Control skill in your arsenal, which grants between three and nine hits of <Control name="Knockback"/>.
-
----
-
-**Notable Traits:**
-
-- <Trait name="Swift Termination"/> - 20% damage increase when foe is below 50% health.
-- <Trait name="Dance of Death"/> - When you apply <Condition name="Vulnerability"/> you gain stacks of <Uncategorized name="BattleScars"/>, which make your next attack(s) steal health.
-- <Trait name="Rising Tide"/> - 7% damage increase while your health is above 90%.
-- <Trait name="Charged Mists"/> - Grant 25 more energy when you swap Legends below 10 energy.
-- <Trait name="Ashen Demeanor"/> - Disabling a foe provides <Condition name="Vulnerability"/>.
-- <Trait name="Brutal Momentum"/> - 33% Critical chance increase when your endurance is full.
-- <Trait name="Vindication"/> - Increases the missile count of <Skill name="Citadel Bombardment"/> to 15.
-- <Trait name="Lasting Legacy"/> - <Skill name="Heroic Command"/> shares more stacks of <Boon name="Might"/> and the duration is increased by 50%.
-- <Trait name="Righteous Rebel"/> - The duration of <Boon name="Alacrity"/> shared from <Skill name="Orders from Above"/> is increased by 50%.
-
-### Legends
-
-**<Skill name="Legendary Renegade Stance"/>**
-
-- <Skill name="Breakrazors Bastion"/> - Summons a spirit that heals you on cast and pulses heal to allies in an area around it. Reduces damage taken from conditions by 50%.
-- <Skill name="Razorclaws Rage"/> - Summons a spirit that causes your party to inflict <Condition name="Bleeding"/> on attack.
-- <Skill name="Darkrazors Daring"/> - Summons a spirit that <Control name="Daze"/>s enemies in an area around it for ¼ of a second once per second for six seconds.
-- <Skill name="Icerazors Ire"/> - Summons a spirit that deals high damage to enemies around it and inflicts <Condition name="Vulnerability"> on the targets.</Condition>
-- <Skill name="Soulcleaves Summit"/> - Summons a spirit that enchants your party's attacks with life steal. Increases damage dealt by your party while healing them for each attack.
-
----
-
-**<Skill name="Legendary Assassin Stance"/>**
-
-- <Skill name="Enchanted Daggers"/> - Every ½ second your next six attacks siphon life from your target.
-- <Skill name="Phase Traversal"/> - Shadowsteps you to your target and gives you two stacks of unblockable.
-- <Skill name="Riposting Shadows"/> - Stunbreak and evade that removes movement-impairing conditions like <Condition name="Crippled"/>.
-- <Skill name="Impossible Odds"/> - **Toggle:** Damage modifier, grants you another hit on your attacks and increases your movement speed.
-- <Skill name="Jade Winds"/> - Deal damage, inflict <Condition name="Vulnerability"/> and <Control name="Stun"/> five nearby enemies.
-
----
-
-**<Skill name="Legendary Dwarf Stance"/>**
-
-- <Skill name="Soothing Stone"/> - Powerful self-heal and condition cleanse.
-- <Skill name="Inspiring Reinforcement"/> - Grant <Boon name="Stability"/> to your party and inflict <Condition name="Weakness"/> and damage to enemies standing in the field.
-- <Skill name="Forced Engagement"/> - Shoot out a chain to your target that applies <Condition name="Taunt"/> and <Condition name="Slow"/> to your target and four nearby enemies.
-- <Skill name="Vengeful Hammers"/> - **Toggle:** Summon hammers to spin around you dealing damage to nearby enemies while draining your energy.
-- <Skill name="Rite of the Great Dwarf"/> - Stunbreak which reduces incoming damage by 50% for your party.
-
----
-
-**<Skill name="Legendary Demon Stance"/>**
-
-- <Skill name="Empowering Misery"/> - A decent self-heal that heals more for each unique condition on you.
-- <Skill name="Pain Absorption"/> - Draw one condition from nearby allies and provide <Boon name="Resistance"/> to your party. Also works as a stunbreak.
-- <Skill name="Banish Enchantment"/> - Removes three boons from enemies in a line up to five unique enemies and causes <Condition name="Chilled"/> on enemies hit.
-- <Skill name="Call to Anguish"/> - Jump to a location and pull five nearby enemies inflicting <Condition name="Chilled"/> on them.
-- <Skill name="Embrace the Darkness"/> - **Toggle:** Deal damage to nearby enemies and pulse <Condition name="Torment"/> to them. Drains energy when toggled on.
-
----
-
-**<Skill name="Legendary Centaur Stance"/>**
-
-- <Skill name="Project Tranquility"/> - Summon Ventari's Tablet which heals nearby allies every few seconds.
-- <Skill name="Ventaris Will"/> - Move Ventari's Tablet to the target location.
-- <Skill name="Protective Solace"/> - **Toggle:** Summons a protective barrier that **absorbs** (not reflect) projectiles around the tablet.
-- <Skill name="Natural Harmony"/> - Heals the party for a decent amount around the tablet.
-- <Skill name="Purifying Essence"/> - Cleanses three conditions from allies near the tablet and heals per condition cleansed.
-- <Skill name="Energy Expulsion"/> - Drains your remaining energy to explode Ventari's Tablet, cleansing one condition per 10 energy drained. Ventari's Tablet shatters into smaller fragments that can be picked up by allies for a small heal.
+4. <Trait name="Charged Mists"/>= When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
