@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-07T22:45:47.509Z "
+date: "2024-06-08T04:14:38.422Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -132,9 +132,15 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 
 
 ### Situational Skills
-#### <Specialization name="Renegade" disable text/> Renegade Stance 
 
-TO BE CONTINUTED
+| Legend | Skill  | Usage |
+| --------------- | -------------------------- | --------------------: |
+| <Specialization name="Renegade" size="medium"/>       | <Skill name="Heroic Command" size="large" disableText/> | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. |
+| <Skill name="Legendary Renegade Stance"size="medium"/> | <Skill name="Breakrazor's Bastion" size="large" disableText/> | Good Group Heal and gives Resolution to your group. |
+| | <Skill name="Darkrazor's daring" size="large" disableText/> | Variety of uses, primarily as a good 600 AoE CC skill. Can be cast to CC a Boss, a group of adds or remove boons from enemies with <Item id="72872"/>  | -------------------------- |
+| | <Skill name="Icerazor's Ire" size="large" disableText/> | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss |
+| <Skill name="Legendary Assassin Stance" size="medium"/> | <Skill name="Enchanted Daggers" size="large" disableText/> | Low heal skill that is mostly used as a precast at the Mistlock Singularity |
+
 
 
 <Divider text="Details"/>
@@ -264,3 +270,18 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
 
 If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
+
+<Divider text="Other Details"/>
+
+#### <Uncategorized name="kallasfervor" size="big"/>
+<Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
+
+#### Other Important Traits
+1. <Trait name="Brutal Momentum"/>= Increased damage if endurance is full. Dodging will lose this trait and also lose crit cap. If dodging is necessary, cast <Skill name="Unrelenting Assault"/> or <Skill name="Imperial Guard"/>.
+
+2. <Trait name="Unsuspecting strikes"/>= Increases your DPS in the first 20% of the fight so ensure a clean opener (see above for rotation)
+
+3. <Trait name="Swift Termination"/>= Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
+
+4. <Trait name="Charged Mists"/>= When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
+<Trait name="Swift Termination"/>
