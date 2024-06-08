@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-08T04:25:23.625Z "
+date: "2024-06-08T04:38:03.050Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -138,13 +138,18 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 | <Specialization name="Renegade" size="medium"/>       | <Skill name="Heroic Command" size="large" disableText/> | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. |
 | <Skill name="Legendary Renegade Stance"size="medium"/> | <Skill name="Breakrazor's Bastion" size="large" disableText/> | Good Group Heal and gives Resolution to your group. |
 | | <Skill name="Darkrazor's daring" size="large" disableText/> | Variety of uses, primarily as a good 600 AoE CC skill. Can be cast to CC a Boss, a group of adds or remove boons from enemies with <Item id="72872"/>  | -------------------------- |
-| | <Skill name="Icerazor's Ire" size="large" disableText/> | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss |
-| <Skill name="Legendary Assassin Stance" size="medium"/> | <Skill name="Enchanted Daggers" size="large" disableText/> | Low heal skill that is mostly used as a precast at the Mistlock Singularity |
+| | <Skill name="Icerazor's Ire" size="large" disableText/> | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss. |
+| <Skill name="Legendary Assassin Stance" size="medium"/> | <Skill name="Enchanted Daggers" size="large" disableText/> | Low heal skill that is mostly used as a precast at the Mistlock Singularity. |
 | | <Skill name="Phase traversal" size="large" disableText/> | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. Example of this is the skip to first set of adds in the Molten Bosses fractal. |
 | | <Skill name="Impossible Odds" size="large" disableText/> | Your best DPS skill. Make sure to toggle this skill on when you do your burst. |
 | | <Skill name="Jade Winds" size="large" disableText/> | AoE <Control name="Stun"/> around your character. Useful for CCing 2 adds with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv if you stay between them. |
-| <Skill name="Legendary Centaur Stance"size="medium"/>| <Skill name="Protective Solace" size="large" disableText/> |  |
-
+| <Skill name="Legendary Centaur Stance"size="medium"/>| <Skill name="Protective Solace" size="large" disableText/> | Blocks projectiles and is a light combo field, allowing for easy condition cleanses. Uses can found on the final ship phase on Siren's reef as well as the final boss of Volcanic.  |
+| <Skill name="Legendary Demon Stance"size="medium"/>| <Skill name="Banish Enchantment" size="large" disableText/> | Remove 3 boons from enemy target.  |
+| | <Skill name="Call to Anguish" size="large" disableText/> | Pull enemies together in a 360 radius. Useful for pulling adds together in Molten Boss for example. |
+| <Skill name="Legendary Dwarf Stance"size="medium"/>| <Skill name="Inspiring Reinforcement" size="large" disableText/> | Casually called 'Road', is often used to provide stability to the party and used often in the Chaos fractal.  |
+| | <Skill name="Forced Engagement" size="large" disableText/> | 500 CC in 4 seconds through <Condition name="Taunt"/> and <Condition name="Slow"/>. |
+| | <Skill name="Vengeful Hammers" size="large" disableText/> | Similar to <Skill name="Impossible Odds" />, and although is less DPS, does give a small heal for every hammer hit. |
+| <Specialization name="Herald" size="medium"/>       | <Skill name="Facet of Chaos" size="large" disableText/> | Gives the party <Effect name="Superspeed"/>. |
 
 
 
