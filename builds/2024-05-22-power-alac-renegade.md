@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-08T04:14:38.422Z "
+date: "2024-06-08T04:25:23.625Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -140,6 +140,11 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 | | <Skill name="Darkrazor's daring" size="large" disableText/> | Variety of uses, primarily as a good 600 AoE CC skill. Can be cast to CC a Boss, a group of adds or remove boons from enemies with <Item id="72872"/>  | -------------------------- |
 | | <Skill name="Icerazor's Ire" size="large" disableText/> | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss |
 | <Skill name="Legendary Assassin Stance" size="medium"/> | <Skill name="Enchanted Daggers" size="large" disableText/> | Low heal skill that is mostly used as a precast at the Mistlock Singularity |
+| | <Skill name="Phase traversal" size="large" disableText/> | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. Example of this is the skip to first set of adds in the Molten Bosses fractal. |
+| | <Skill name="Impossible Odds" size="large" disableText/> | Your best DPS skill. Make sure to toggle this skill on when you do your burst. |
+| | <Skill name="Jade Winds" size="large" disableText/> | AoE <Control name="Stun"/> around your character. Useful for CCing 2 adds with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv if you stay between them. |
+| <Skill name="Legendary Centaur Stance"size="medium"/>| <Skill name="Protective Solace" size="large" disableText/> |  |
+
 
 
 
