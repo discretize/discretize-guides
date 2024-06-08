@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-08T04:41:20.365Z "
+date: "2024-06-08T05:00:10.512Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -110,7 +110,7 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
-| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                                         |
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                              
 
 ### Defiance Bar Damage
 
@@ -132,8 +132,8 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 
 
 ### Situational Skills
-<Grid>
-<GridItem sm="8">
+
+
 | Legend | Skill  | Usage |
 | --------------- | -------------------------- | --------------------: |
 | <Specialization name="Renegade" size="medium"/>       | <Skill name="Heroic Command" size="large" disableText/> | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might. |
@@ -151,29 +151,6 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 | | <Skill name="Forced Engagement" size="large" disableText/> | 500 CC in 4 seconds through <Condition name="Taunt"/> and <Condition name="Slow"/>. |
 | | <Skill name="Vengeful Hammers" size="large" disableText/> | Similar to <Skill name="Impossible Odds" />, and although is less DPS, does give a small heal for every hammer hit. |
 | <Specialization name="Herald" size="medium"/>       | <Skill name="Facet of Chaos" size="large" disableText/> | Gives the party <Effect name="Superspeed"/>. |
-</GridItem>
-
-<GridItem sm="4">
-<Card title="Defiance Bar Damage">
-**Hard Crowd Control:**
-
-- <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
-- <Skill name="Darkrazors Daring"/> - 600 <Control name="Daze"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 780 <Control name="Daze"/>.
-- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 390 <Control name="Daze"/>.
-- <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
-
-**Soft Crowd Control:**
-- <Skill name="Arcing Mists"/> - <Condition name="Chilled"/> for 33 per second.
-- <Skill name="Phantom's Onslaught"/> - <Condition name="Chilled"/> for 33 per second.
-- <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
-- <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
-- <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
-- <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
-- <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
-
-</Card>
-</GridItem>
-</Grid>
 
 
 <Divider text="Details"/>
