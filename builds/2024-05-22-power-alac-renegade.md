@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-08T05:01:32.647Z "
+date: "2024-06-08T05:05:39.796Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -87,10 +87,10 @@ or weapon1MainSigil3zd={24868}/>
 
 <GridItem>
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868} 
-or weapon1MainSigil3zd={24868}/> 
+or weapon1MainSigil3zd={84505}/> 
 </GridItem>
 </Grid>
-The build above is regarded as the 'safer' build and should generally be taken in less experienced groups. 
+The build above is regarded as the 'safer' build and should generally be taken in less experienced groups.
 
 However, Greatsword can also be considered for a DPS increase. With the recent changes,<Skill name="Darkrazors Daring"/> now applies instant 600 CC.
 On certain fights such as Artsariiv, consider running <Item id="24639" disableText/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
@@ -294,4 +294,3 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 3. <Trait name="Swift Termination"/>= Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
 
 4. <Trait name="Charged Mists"/>= When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
-
