@@ -24,7 +24,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-08T05:00:10.512Z "
+date: "2024-06-08T05:01:32.647Z "
 ---
   
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -294,4 +294,4 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 3. <Trait name="Swift Termination"/>= Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
 
 4. <Trait name="Charged Mists"/>= When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
-<Trait name="Swift Termination"/>
+
