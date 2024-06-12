@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-06-12T20:51:38.809Z "
+date: "2024-06-12T20:53:49.582Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -145,8 +145,8 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal, 100 Damage taken per second               | Heals boss                                                |
 | **Malice (Purple)**   | Spike of Malice | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
 | **Rage (Red)**        | Enraged Smash  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
-| **Regret (Yellow)**   | Spawn Adds         | +2% Skill Recharge, 50 Damage taken on activation                                                  | 20 damage reflect                           |
-| **Consumed**   | CC         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
+| **Regret (Yellow)**   | Spawns Adds         | +2% Skill Recharge, 50 Damage taken on activation                                                  | 20 damage reflect                           |
+| **Consumed**   | Consume (CC)         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
 - Healer / Lowest damage build in a no-heal composition - Despair
