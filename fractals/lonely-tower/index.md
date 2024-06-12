@@ -3,7 +3,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-25T19:15:08.736Z "
+date: "2024-06-12T20:51:38.809Z "
 title: Lonely Tower
 difficulties:
   - level: 100
@@ -28,7 +28,7 @@ Immediately following the foundation of the Astral Ward, Eparch finally returned
 <Divider text="Normal Mode"/>
 <Grid>
 <GridItem>
-<Achievement title="Wizard's Tower Is Ours, Eparch ">
+<Achievement title="Wizard's Tower Is Ours, Eparch "> 
 Complete the Lonely Tower fractal on any tier. 
 </Achievement>
 </GridItem>
@@ -145,7 +145,8 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal, 100 Damage taken per second               | Heals boss                                                |
 | **Malice (Purple)**   | Spike of Malice | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
 | **Rage (Red)**        | Enraged Smash  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
-| **Regret (Yellow)**   | Spawn Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
+| **Regret (Yellow)**   | Spawn Adds         | +2% Skill Recharge, 50 Damage taken on activation                                                  | 20 damage reflect                           |
+| **Consumed**   | CC         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
 - Healer / Lowest damage build in a no-heal composition - Despair
@@ -153,7 +154,7 @@ With this in mind, it makes sense for the following roles to prioritise the foll
 - Condi DPS - Envy
 
 ### CC
-At the start of Eparchs CC phase, he will pull in and consume all Globules of Emotion left on the ground and gain their respective effects as per the table above. By breaking Eparchs Defiance Bar, you will remove some stacks of each effect. It is important to make sure you have collected all Malice and Envy Globules before the CC phase to make the fight considerably easier.
+At the start of Eparchs CC phase, he will pull in and consume all Globules of Emotion left on the ground and gain their respective effects as per the table above. By breaking Eparchs Defiance Bar, you will remove some stacks of empowerment. It is important to make sure you have collected all Malice and Envy Globules before the CC phase to make the fight considerably easier.
 
 Additionally, during this phase, Eparch will target one player and apply the <Label>Consume</Label> effect. This will start to remove any Emotion stacks the player has untill they reach zero or the defiance bar is broken. At zero stacks, Eparch will apply stacks of the <Label>Consumed</Label> effect, with each stat lowering the players attributes. To reduce the stacks and remove this effect, the player will have to collect Globules of Emotion.
 
@@ -175,7 +176,7 @@ Spawns Rage Fissure lines on ground
 Stand inside hitbox
 </GridItem>
 <GridItem sm="4">
-#### Spin Attack
+#### Inhale
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
