@@ -1,11 +1,11 @@
 ---
 title: Cheat sheet
-date: "2023-06-02T23:12:27.812Z "
+date: "2024-06-12T20:23:37.600Z "
 image: images/header.jpg
 description: Learn how to use various potions and sigils to increase damage output.
 ---
 
-This sheet is used to give quick access to the most optimal sigils and potions for each fractal in an average group. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils such as <Item id="84505"/> or <Item id="72872"/>. For further information consult the individual [Fractal guides](/fractals) and [class specific CM guides](/guides/cm-profession-guides).
+This sheet is used to give quick access to the most optimal sigils and potions for each fractal in an average group. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils such as <Item id="84505"/> or <Item id="72872"/>. For further information consult the individual [Fractal guides](/fractals) and [class specific CM guides](/guides/cm-profession-guides). 
 
 <Warning>
 Condition classes should use the sigils and utilities that are mentioned in the build pages.
@@ -13,6 +13,8 @@ Condition classes should use the sigils and utilities that are mentioned in the 
 
 | Fractal                                                  | Day/Night                 | Sigil & Potion                                                                                                                      | Description                                                                                                                                                                    |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Lonely Tower](/fractals/sunqua-peak)                     | Day | <Item id="24868" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | This option only applies to power, for condi keep standard sigil/utility. When fighting Eparch swap <Item id="24615"/> for <Item id="24664"/>. <Item id="24664"/> does not work on Cerus or Deimos. and <Item id="8886"/> does not work on ANY boss in the Fractal.                                        |
+| [Silent Surf](/fractals/sunqua-peak)                     | Day | <Item id="24868" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | This option only applies to power, for condi keep standard sigil/utility.                                       |
 | [Sunqua Peak](/fractals/sunqua-peak)                     | Day (T4) / Night (CM) | <Item id="36053" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | This option only applies to power, for condi keep standard sigil/utility. On normal mode swap <Item id="36053"/> for <Item id="24868"/>                                        |
 | [Shattered Observatory](/fractals/shattered-observatory) | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="9443" size="large" disableText/>  | When at Arkk swap to <Item id="50082"/>. Although the fractal switches to night after Skorvald, <Item id="36053"/> **does not work!**                                          |
 | [Nightmare](/fractals/nightmare)                         | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="50082" size="large" disableText/> | Right after MAMA swap to <Item id="24658"/>                                                                                                                                    |
