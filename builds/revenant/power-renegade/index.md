@@ -17,16 +17,15 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
-cmGuide: static
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2024-06-10T00:22:53.900Z "
+date: "2024-06-13T19:09:56.438Z "
+cmGuide: static
 ---
-  
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
 Damage-wise the <Specialization name="Renegade"/> is on the lower end compared to the other damage dealing classes. This does not imply that the damage doesn't matter; in fact <Specialization name="Renegade"/> has a very juicy burst that makes slacking DPS players sweaty.
@@ -103,19 +102,19 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 <GridItem sm="8">
 <Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 </GridItem>
-</Grid>
-
-### Situational Traits
+<GridItem sm="4">
+### Situational Skills
 
 |                                                       |                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Trait name="Incensed Response" size="big" disableText/>    | Will increase your personal <Boon name="Might"/> generation and is taken as an alternative to <Trait name="Spirit Boon"/> if you are not maintaining 25 stacks.                                                  |
-| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.                                                                                                                                              
+| <Trait name="Vindication" size="big" disableText/>    | This trait is a personal DPS increase. It can be used on shorter fights where you can precast most of the required <Boon name="Alacrity"/> at the _Mistlock Singularity_.     
 
-<Grid>
-<GridItem sm="6">
+</GridItem>
+</Grid>
+
+
 ### Situational Skills
-
 
 | Legend | Skill  | Usage |
 | --------------- | -------------------------- | --------------------: |
@@ -133,9 +132,9 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 | <Skill name="Legendary Dwarf Stance"size="medium"/>| <Skill name="Inspiring Reinforcement" size="large" disableText/> | Casually called 'Road', is often used to provide stability to the party and used often in the Chaos fractal.  |
 | | <Skill name="Forced Engagement" size="large" disableText/> | 500 CC in 4 seconds through <Condition name="Taunt"/> and <Condition name="Slow"/>. |
 | | <Skill name="Vengeful Hammers" size="large" disableText/> | Similar to <Skill name="Impossible Odds" />, and although is less DPS, does give a small heal for every hammer hit. |
-| <Specialization name="Herald" size="medium"/>       | <Skill name="Facet of Chaos" size="large" disableText/> | Gives the party <Effect name="Superspeed"/>. |
-</GridItem>
-<GridItem sm="6">
+| <Specialization name="Herald" size="medium"/>       | <Skill name="Facet of Chaos" size="large" disableText/> | Gives the party <Effect name="Superspeed"/>. 
+
+
 ### Defiance Bar Damage
 
 **Hard Crowd Control:**
@@ -154,8 +153,6 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 - <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
-</GridItem>
-</Grid>
 
 <Divider text="Details"/>
 <Grid>
@@ -165,7 +162,7 @@ _To preface, there are 2 general rotations detailed below that are typically use
 
 #### **Greatsword/Sword+Sword**
 
-Start on <Skill id="41858"  disableText/> Kalla. \ 
+Start on <Skill name="Legendary Renegade Stance"/>.
 Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 #### Greatsword Burst
@@ -216,7 +213,7 @@ Ideally you would want to do both rotations under the effect of <Effect name="Ex
 <GridItem sm="4">
 <Card title="Precasting">
 
-Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade Stance"/>.
+Start on <Skill name="Legendary Renegade Stance"/>
 
 1. Cast <Skill name="Soulcleaves Summit"/> to generate a Fire field.
 2. Blast <Boon name="Might"/> with <Skill name="Renewing Wave"/> (if on staff, otherwise skip).
@@ -236,10 +233,10 @@ Using <Specialization name="Renegade"/> start on <Skill name="Legendary Renegade
 ### **General Rotation Guide**
 #### Energy Management:
 
-<Specialization name="Renegade"/> has lower cooldowns than many other classes at the cost of its other mechanic, energy. Energy is replenished over time as indicated by the arrows to the left and right of the energy indicator. Every arrow indicates 1% of energy gained/lost per second. 
+<Specialization name="Renegade"/> has lower cooldowns than many other classes at the cost of its other mechanic, energy. Energy is replenished over time as indicated by the arrows to the left and right of the energy indicator. Every arrow indicates 1% point of energy gained/lost per second. 
 All skills cost energy so plan accordingly. Remember, your primary job is to give Alacrity (sometimes Might) followed by CC and your burst damage. This can be difficult, so here are a few tips:
 
-1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/>to your Group. It is better to use the 20 Energy to Burst instead.
+1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/> to your Group. It is better to use the 20 Energy to Burst instead.
 
 
 2. **Drain Energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and <Skill name="Heroic Command"/> are examples of things you can do to drain your energy. Certain weapon skills can do that as well.
@@ -269,6 +266,7 @@ Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword
 </Card>
 </GridItem>
 </Grid>
+
 ### **Dealing with No Pain, No Gain**
 <Warning>
 
@@ -291,10 +289,10 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 <Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
 
 #### Other Important Traits
-1. <Trait name="Brutal Momentum"/>= Increased damage if endurance is full. Dodging will lose this trait and also lose crit cap. If dodging is necessary, cast <Skill name="Unrelenting Assault"/> or <Skill name="Imperial Guard"/>.
+1. <Trait name="Brutal Momentum"/>: Increased damage if endurance is full. Dodging will lose this trait and also lose crit cap. If dodging is necessary, cast <Skill name="Unrelenting Assault"/> or <Skill name="Imperial Guard"/>.
 
-2. <Trait name="Unsuspecting strikes"/>= Increases your DPS in the first 20% of the fight so ensure a clean opener (see above for rotation)
+2. <Trait name="Unsuspecting strikes"/>: Increases your DPS in the first 20% of the fight so ensure a clean opener (see above for rotation)
 
-3. <Trait name="Swift Termination"/>= Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
+3. <Trait name="Swift Termination"/>: Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
 
-4. <Trait name="Charged Mists"/>= When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
+4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
