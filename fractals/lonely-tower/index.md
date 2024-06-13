@@ -1,13 +1,17 @@
 ---
+title: Lonely Tower
+image: images/lonelytowerheader.jpg
+group: CM
+bosses: 2
+difficulties:
+  - level: 100
+    ar: 150
+potions: []
 hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-05-25T19:15:08.736Z "
-title: Lonely Tower
-difficulties:
-  - level: 100
-    ar: 150
+date: "2024-06-13T19:00:53.389Z "
 consumables: []
 record: {}
 long_description: Immediately following the foundation of the Astral Ward,
@@ -15,11 +19,8 @@ long_description: Immediately following the foundation of the Astral Ward,
   "betrayal"—this time with a full entourage. Help Isgarren, Mabon, and Dagda
   navigate the crumbling halls of the Wizard's Tower and push the Kryptis back
   to where they came from.
-image: images/lonelytowerheader.jpg
 api: 26231
-bosses: 2
 description: Mabon, Isgarren. Pick a god and thank her for your survival...
-group: T4
 sigils: []
 ---
 
@@ -28,7 +29,7 @@ Immediately following the foundation of the Astral Ward, Eparch finally returned
 <Divider text="Normal Mode"/>
 <Grid>
 <GridItem>
-<Achievement title="Wizard's Tower Is Ours, Eparch ">
+<Achievement title="Wizard's Tower Is Ours, Eparch "> 
 Complete the Lonely Tower fractal on any tier. 
 </Achievement>
 </GridItem>
@@ -134,7 +135,7 @@ Defeat Eparch in the Lonely Tower fractal without taking damage from his rage fi
 There is no status reset upon starting a boss encounter in this fractal, so it is advisable to take advantage of the _Mistlock Singularity_ to prestack boons, since the fight mechanics require you to move and split shortly after entering combat.
 </Information>
 
-### Orbs
+### Globules of Emotion
 
 As Eparch carries out each attack, he will spawn Globules of Emotion. These can be collected by players giving different effects, some positive and some negative. Each attack has a corresponding emotion that it will spawn which can be seen in the table below. If you have stacks of a Globule of Emotion and go to collect a different type, each new Globule will remove a stack of the previous effect until you start to gain stacks of the new effect.
 
@@ -145,19 +146,27 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Gluttony (Orange)** | Spin Attack  | ~108.5 lifesteal, 100 Damage taken per second               | Heals boss                                                |
 | **Malice (Purple)**   | Spike of Malice | +4% increased defiance break                                                           | Boss attacks inflict additional Conditions                |
 | **Rage (Red)**        | Enraged Smash  | +5% Outgoing Strike Damage, +5% Incoming Strike Damage                                 | +5% Outgoing Strike Damage, +5% Outgoing Condition Damage |
-| **Regret (Yellow)**   | Spawn Adds         | Grants a Gluttony stack upon collection                                                  | 20 (unconfirmed) damage reflect                           |
+| **Regret (Yellow)**   | Spawns Adds         | +2% Skill Recharge, 50 Damage taken on activation                                                  | 20 damage reflect                           |
+| **Consumed**   | Consume (CC)         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
 - Healer / Lowest damage build in a no-heal composition - Despair
 - Power DPS - Rage
 - Condi DPS - Envy
 
-### CC
-At the start of Eparchs CC phase, he will pull in and consume all Globules of Emotion left on the ground and gain their respective effects as per the table above. By breaking Eparchs Defiance Bar, you will remove some stacks of each effect. It is important to make sure you have collected all Malice and Envy Globules before the CC phase to make the fight considerably easier.
+### Consume
+<Grid>
+<GridItem sm="8">
+During his rotation, Eparch will gain a defiance bar, then pull in and consume all Globules of Emotion left on the ground and gain their respective effects as per the table above. By breaking Eparchs Defiance Bar, you will remove some stacks of empowerment. It is important to make sure you have collected all Malice and Envy Globules before the CC phase to make the fight considerably easier.
 
 Additionally, during this phase, Eparch will target one player and apply the <Label>Consume</Label> effect. This will start to remove any Emotion stacks the player has untill they reach zero or the defiance bar is broken. At zero stacks, Eparch will apply stacks of the <Label>Consumed</Label> effect, with each stat lowering the players attributes. To reduce the stacks and remove this effect, the player will have to collect Globules of Emotion.
+</GridItem>
+<GridItem sm="4">
+<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
+</GridItem>
+</Grid> 
 
-### Eparchs Mechanics
+### Eparchs Attacks
 <Grid>
 <GridItem sm="4">
 #### Rain of Despair
@@ -175,7 +184,7 @@ Spawns Rage Fissure lines on ground
 Stand inside hitbox
 </GridItem>
 <GridItem sm="4">
-#### Spin Attack
+#### Inhale
 <GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
 Something
 </GridItem>
@@ -190,3 +199,32 @@ Something
 Something
 </GridItem>
 </Grid>
+
+<Divider text="Challenge Mode"/>
+<Grid>
+<GridItem>
+<Achievement title="Secrets of the Tower ">
+Accept the harbinger's challenge and defeat the final boss in the Lonely Tower fractal.
+</Achievement>
+</GridItem>
+<GridItem>
+<Achievement title="Wavering Ward">
+Accept the harbinger's challenge and complete the Lonely Tower fractal without anyone in your group being defeated.
+
+**Title:** Kryptis Exorcist
+</Achievement>
+</GridItem>
+</Grid>
+With Challenege mode enabled, the majority of the fractal plays out the same as the T4 version. The main difference is the Eparch encounter which gains the following changes:
+- Split phases at 65% and 35%
+- When successfully breaking Eparchs defiance bar, Eparch does not lose any aqquired Globule of Emotion Stacks
+- Collecting Globules of Emotion will not reduce <Effect name="Consumed"/> stacks on players
+
+The rest of the encounter is exactly the same as the T4 mode.
+
+### Split Phase
+When reaching a split phase, Eparch will leave the Arena and spawn 2 rifts in the 65% phase, and 3 rifts in the 35% phase. Each rift will spawn a Champion incarnation of Judgement, or a Champion Incarnation of Cruelty, along with some trash mobs. To close the rift, its associated Champion must be killed, to allow players to close the rift by channeling in a white AoE that spawns. Meanwhile the mobs will be drawn towards Eparch, who is floating above the arena. When the adds get close, they tether to Eparch giving him stacks of Globules of Emotion.
+
+<Warning>
+The split phases are currently very poorly balanced, making it hard to complete without Eparch gaining stacks of each emotion. To make the subsequent phases easier, it is best to stack Gluttony Globules on one player who can then lifesteal each rift to death in the splits, closing them before the trash mobs can reach Eparch. 
+</Warning>
