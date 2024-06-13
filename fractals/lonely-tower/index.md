@@ -11,7 +11,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-06-13T18:44:54.349Z "
+date: "2024-06-13T19:00:53.389Z "
 consumables: []
 record: {}
 long_description: Immediately following the foundation of the Astral Ward,
@@ -223,3 +223,8 @@ With Challenege mode enabled, the majority of the fractal plays out the same as 
 The rest of the encounter is exactly the same as the T4 mode.
 
 ### Split Phase
+When reaching a split phase, Eparch will leave the Arena and spawn 2 rifts in the 65% phase, and 3 rifts in the 35% phase. Each rift will spawn a Champion incarnation of Judgement, or a Champion Incarnation of Cruelty, along with some trash mobs. To close the rift, its associated Champion must be killed, to allow players to close the rift by channeling in a white AoE that spawns. Meanwhile the mobs will be drawn towards Eparch, who is floating above the arena. When the adds get close, they tether to Eparch giving him stacks of Globules of Emotion.
+
+<Warning>
+The split phases are currently very poorly balanced, making it hard to complete without Eparch gaining stacks of each emotion. To make the subsequent phases easier, it is best to stack Gluttony Globules on one player who can then lifesteal each rift to death in the splits, closing them before the trash mobs can reach Eparch. 
+</Warning>
