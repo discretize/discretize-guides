@@ -17,14 +17,14 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: static
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2024-06-13T19:09:56.438Z "
-cmGuide: static
+date: "2024-06-14T17:18:37.502Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -92,7 +92,7 @@ or weapon1MainSigil3zd={24868}/>
 The build above is regarded as the 'safer' build and should generally be taken in less experienced groups. 
 
 However, Greatsword can also be considered for a DPS increase. With the recent changes,<Skill name="Darkrazors Daring"/> now applies instant 600 CC.
-On certain fights such as Artsariiv, consider running <Item id="24639" disableText/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
+On certain fights such as Artsariiv, consider running <Item id="24639"/> to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
 
 **Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
 
@@ -234,7 +234,7 @@ Start on <Skill name="Legendary Renegade Stance"/>
 #### Energy Management:
 
 <Specialization name="Renegade"/> has lower cooldowns than many other classes at the cost of its other mechanic, energy. Energy is replenished over time as indicated by the arrows to the left and right of the energy indicator. Every arrow indicates 1% point of energy gained/lost per second. 
-All skills cost energy so plan accordingly. Remember, your primary job is to give Alacrity (sometimes Might) followed by CC and your burst damage. This can be difficult, so here are a few tips:
+All skills cost energy so plan accordingly. Remember, your primary job is to give <Boon name="Alacrity"/> (sometimes <Boon name="Might"/>) followed by CC and your burst damage. This can be difficult, so here are a few tips:
 
 1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/> to your Group. It is better to use the 20 Energy to Burst instead.
 
@@ -285,7 +285,6 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 
 <Divider text="Other Details"/>
 
-#### <Uncategorized name="kallasfervor" size="big"/>
 <Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
 
 #### Other Important Traits
