@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T18:11:48.485Z "
+date: "2024-06-16T18:14:13.018Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -35,7 +35,7 @@ Since the <Specialization name="Renegade"/> is a power-oriented build it benefit
 <Information>
 <Specialization name="Renegade"/> requires 33.3% <Attribute name="Boon Duration"/> minimum to maintain <Boon name="Alacrity"/>, pressing <Skill name="Orders from Above"/> off-cooldown. Due to the nature of most fractal encounters, <Attribute name="Boon Duration"/> close to this can safely be run thanks to precasting and short phases/fights (especially when precasting with a high <Attribute name="Boon Duration"/> gearset). If you want more room for error and safer uptimes, use the [gear optimizer](https://optimizer.discretize.eu/) to adjust your build.
 </Information>
- 
+
 <Divider text="Equipment"/>
 <CharacterWithAr> 
 <Character title="150 Agony Resistance" gear='{"attributes":{"profession":"Revenant","specialization":"Renegade","data":{"Health":22352,"Armor":2496,"Power":3687,"Precision":1780,"Toughness":1225,"Vitality":1725,"Ferocity":1312,"Condition Damage":500,"Expertise":0,"Concentration":533,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.35533333333333333,"Critical Chance":1.0014285714285713,"Critical Damage":2.3746666666666667,"Power Coefficient":3532,"Power2 Coefficient":0,"Burning Coefficient":0.78,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":26197.908166018344,"NonCrit Effective Power":11032.246560647814,"Power DPS":35629.96212644466,"Power2 DPS":0,"Siphon DPS":178.18125,"Bleeding Damage":92.625,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":371.390625,"Burning Stacks":0.78,"Burning DPS":289.6846875,"Confusion Damage":100.2594375,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":113.109375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":136.79999999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":36097.82806394466,"Effective Health":111026053.7313433,"Survivability":56444.35878563462,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Diviner","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Diviner","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30699,"weapon1MainType":"Sword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30689,"weapon2MainType":"Greatsword","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Diviner","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100916},"legends":{"legend1Id":28134,"legend2Id": 41858},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1767,1765,1800],[1761,1781,1791],[2166,2108,2182]],"lines":[15,3,63]}}'>
@@ -247,6 +247,18 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 
 3. **Know skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
 
+#### <Uncategorized name="kallasfervor" size="big"/>
+<Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
+
+#### Important Traits
+1. <Trait name="Brutal Momentum"/>: Increased damage if endurance is full. Dodging will lose this trait and also lose crit cap. If dodging is necessary, cast <Skill name="Unrelenting Assault"/> or <Skill name="Imperial Guard"/>.
+
+2. <Trait name="Unsuspecting strikes"/>: Increases your DPS in the first 20% of the fight so ensure a clean opener (see above for rotation)
+
+3. <Trait name="Swift Termination"/>: Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
+
+4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
+
 </GridItem>
 
 <GridItem sm="4">
@@ -286,17 +298,3 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
 
 If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
-
-<Divider text="Other Details"/>
-
-#### <Uncategorized name="kallasfervor" size="big"/>
-<Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
-
-#### Other Important Traits
-1. <Trait name="Brutal Momentum"/>: Increased damage if endurance is full. Dodging will lose this trait and also lose crit cap. If dodging is necessary, cast <Skill name="Unrelenting Assault"/> or <Skill name="Imperial Guard"/>.
-
-2. <Trait name="Unsuspecting strikes"/>: Increases your DPS in the first 20% of the fight so ensure a clean opener (see above for rotation)
-
-3. <Trait name="Swift Termination"/>: Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
-
-4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
