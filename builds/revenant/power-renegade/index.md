@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T21:09:54.974Z "
+date: "2024-06-16T21:20:01.274Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -85,9 +85,11 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 <Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868}/> 
 </GridItem>
 </Grid>
-When playing <Specialization name="Renegade" text="Power Renegade"/>, both Staff and Greatsword are valid choices and situationally optimal depending on the group and encounter. In T4 Fractals, due to most defiance bard requiring 800cc and <Skill name="Darkrazors Daring"/> applying an instant 600 CC, Greatsword is the reccommended choice for more damage.
+When playing <Specialization name="Renegade" text="Power Renegade"/>, both Staff and Greatsword are valid choices and situationally optimal depending on the group and encounter. In T4 Fractals, due to most defiance bard requiring 800cc and <Skill name="Darkrazors Daring"/> applying an instant 600 CC, Greatsword is the recommended choice for more damage.
 
-On certain fights such as Artsariiv, consider running <Item id="24639"/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
+In CMs there is a larger CC contribution requirement, however with builds such as <BuildLink build="Heal Chronomancer" specialization="Chronomancer"/> and <BuildLink build="Power Scrapper" specialization="Scrapper"/> providing large amounts of CC, along with contribution from DPS builds, in a lot of cases you can play Greatsword. However if CC is non-existant in your party it may be a better option to take Staff to provide the extra CC yourself.
+
+If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"/> on Greatsword to instantly break 2 clones in the 33% split with <Skill name="Jade Winds"/>. On Arkk it is generally better to play Staff to break the Defiance Bar instantly unless you are in a speedkill.   
 
 **Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
 
