@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T18:23:29.012Z "
+date: "2024-06-16T21:09:54.974Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -78,19 +78,16 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 <Divider text="Staff  VS Greatsword"/>
 <Grid>
 <GridItem>
-<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24639} 
-or weapon1MainSigil3zd={24868}/> 
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={84505}/> 
 </GridItem>
 
 <GridItem>
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868} 
-or weapon1MainSigil3zd={24868}/> 
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24868}/> 
 </GridItem>
 </Grid>
-The build above is regarded as the 'safer' build and should generally be taken in less experienced groups. 
+When playing <Specialization name="Renegade" text="Power Renegade"/>, both Staff and Greatsword are valid choices and situationally optimal depending on the group and encounter. In T4 Fractals, due to most defiance bard requiring 800cc and <Skill name="Darkrazors Daring"/> applying an instant 600 CC, Greatsword is the reccommended choice for more damage.
 
-However, Greatsword can also be considered for a DPS increase. With the recent changes,<Skill name="Darkrazors Daring"/> now applies instant 600 CC.
-On certain fights such as Artsariiv, consider running <Item id="24639" disableText/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
+On certain fights such as Artsariiv, consider running <Item id="24639"/> sigil to instantly break 2 clones at 33% with <Skill name="Jade Winds"/>. Staff can also be considered in fights such as Arkk due to the nature of the Special Action Key.
 
 **Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
 
@@ -98,7 +95,8 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 
 <Grid>
 <GridItem sm="8">
-<Traits traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
+### Traits
+<Traits traits1Id="15" traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2Id="3" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3Id="63" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 
 ### Situational Traits
 
@@ -125,6 +123,30 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 - <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
+### **Dealing with No Pain, No Gain**
+<Warning>
+
+Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
+</Warning>
+
+There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>.
+
+<Grid>
+<GridItem sm="4">
+<Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id="84505" weapon1MainSigil2Id="72872" unembossed />
+</GridItem>
+<GridItem sm="4">
+<Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="72872" unembossed />
+</GridItem>
+<GridItem sm="4">
+<Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1OffType="Sword" weapon1OffAffix="Berserker" weapon1OffSigilId="72872" unembossed />
+</GridItem>
+</Grid>
+<div style={{marginBottom: "16px"}} /> 
+
+As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
+
+If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 </GridItem>
 <GridItem sm="4">
 ### Situational Skills
@@ -132,13 +154,12 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 | Skill                                                                     | Usage                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Specialization name="Renegade"/> - Citadel Order                         |                                                                                                                                                                                                                      |
-| <Skill name="Heroic Command" size="big" disableText/>                   | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor for max might.                                                                                        |
+| <Skill name="Heroic Command" size="big" disableText/>                   | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor to provide 10 <Boon name="Might"/>.                                                                                        |
 | <Skill name="Legendary Renegade Stance"/>                                 |                                                                                                                                                                                                                      |
 | <Skill name="Breakrazor's Bastion" size="big" disableText/>             | Good Group Heal and gives Resolution to your group.                                                                                                                                                                  |
 | <Skill name="Darkrazor's daring" size="big" disableText/>               | Variety of uses, primarily as a good 600 AoE CC skill. Can be cast to CC a Boss, a group of adds or remove boons from enemies with <Item id="72872"/>                                                                |
 | <Skill name="Icerazor's Ire" size="big" disableText/>                   | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss.                                                                                                                                       |
 | <Skill name="Legendary Assassin Stance"/>                                 |                                                                                                                                                                                                                      |
-| <Skill name="Enchanted Daggers" size="big" disableText/>                | Low heal skill that is mostly used as a precast at the Mistlock Singularity.                                                                                                                                         |
 | <Skill name="Phase traversal" size="big" disableText/>                  | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. Example of this is the skip to first set of adds in the Molten Bosses fractal. |
 | <Skill name="Impossible Odds" size="big" disableText/>                  | Your best DPS skill. Make sure to toggle this skill on when you do your burst.                                                                                                                                       |
 | <Skill name="Jade Winds" size="big" disableText/>                       | AoE <Control name="Stun"/> around your character. Useful for CCing 2 adds with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv if you stay between them.                                                      |
@@ -263,7 +284,7 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 
 3. **Know skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
 
-#### <Uncategorized name="kallasfervor" size="big"/>
+#### Kallas Fervor
 <Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
 
 #### Important Traits
@@ -274,20 +295,3 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 3. <Trait name="Swift Termination"/>: Increases your DPS in the last 50% of the fight. Try to use burst skills in this window, but not worth overly delaying skills.
 
 4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
-
-
-### **Dealing with No Pain, No Gain**
-<Warning>
-
-Note that with a build like <Specialization name="Scrapper"/>, <Specialization name="Virtuoso"/>, <Specialization name="Scourge"/>, or <Specialization name="Specter"/> who can strip boons while doing their rotation, you shouldn't have to deal with <Instability name="No Pain, No Gain"/> on most fights. Although there will be some T4s where you will need to help and also on Arkk and MAMA depending on the build.
-</Warning>
-
-There are multiple weapons in your arsenal to deal with the instability <Instability name="No Pain, No Gain"/> and make it easier to manage the boons that the enemy will receive from this instability (the internal cooldown is 20 seconds). For fractals with <Instability name="No Pain, No Gain"/> it is recommended to run a staff with <Item id="72872"/> instead of a <Item id="24615"/>. The <Item id="72872"/> will transfer three boons from enemies to you when you interrupt an attack. For enemies with a defiance bar, using a CC skill while the enemy is casting any ability counts as interrupting, even if there is no "_interrupted_" message. This can also be run on Greatsword or Sword instead of <Item id="24868"/> if necessary, and the boonstrip can be procced with <Skill name="Darkrazors Daring"/>.
-
-<Weapons weapon1MainType="Staff" weapon1MainAffix="Diviner" weapon1MainSigil1="Severance" weapon1MainSigil2="Absorption" unembossed />
-
-<div style={{marginBottom: "16px"}} /> 
-
-As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
-
-If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
