@@ -23,8 +23,8 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T21:40:02.417Z "
-cmGuide: static
+date: "2024-06-16T21:40:18.849Z "
+cmGuide: ""
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
