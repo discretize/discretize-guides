@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T18:14:13.018Z "
+date: "2024-06-16T18:19:07.921Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -161,15 +161,15 @@ On certain fights such as Artsariiv, consider running <Item id="24639" disableTe
 <Divider text="Details"/>
 <Grid>
 <GridItem sm="8">
-### **Different Burst/opener Rotations**
+### Opening Rotations
 _To preface, there are 2 general rotations detailed below that are typically used for different power fights pertaining to the different weapon sets. Adapt them as you see fit. For a more detailed guide, please refer to the [CM guide ](/cm-guides/revenant/power-renegade/static)_
 
-#### **Greatsword/Sword+Sword**
+#### Greatsword/Sword+Sword
 
 Start on <Skill name="Legendary Renegade Stance"/>.
 Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
-#### Greatsword Burst
+**Greatsword Burst**
 
 1.  <Skill name="Darkrazor's daring"/>
 2.  <Skill name="Icerazor's Ire"/>
@@ -179,7 +179,7 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 6.  <Skill name="Mist Unleashed"/>
 7.  Swap to Sword
 
-#### Sword Burst
+**Sword Burst**
 
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Shackling Wave"/>
@@ -187,12 +187,12 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
 5.  <Skill name="ChillingIsolation"/>
 
-#### **Staff/Sword+Sword**
+#### Staff/Sword+Sword
 
 Start on <Skill id="41858"  disableText/> Kalla. \
 Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
-#### Staff rotation
+**Staff rotation**
 
 1.  <Skill name="Darkrazor's daring"/>
 2.  <Skill name="Surge of the mists"/>
@@ -201,7 +201,7 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 5.  <Skill name="Mist Unleashed"/>
 6.  Swap to Sword
 
-#### Sword Burst
+**Sword Burst**
 
 1.  <Skill name="Chilling Isolation"/>
 2.  <Skill name="Shackling Wave"/>
@@ -229,11 +229,27 @@ Start on <Skill name="Legendary Renegade Stance"/>
 8. Swap back to <Skill name="Legendary Renegade Stance"/>.
 
 </Card>
+<Card title="Weapon Priority Skills">
+
+Sword:
+
+1. <Skill name="Chilling Isolation"/>
+2. <Skill name="Shackling Wave"/>
+3. <Skill name="DeathStrike"/>
+
+Greatsword:
+
+1. <Skill name="Eternity's Requiem"/>
+2. <Skill name="Mist unleashed"/>
+3. <Skill name="Phantom's onslaught"/>
+
+Weapon Swapping:
+Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
+
+</Card>
 </GridItem>
 </Grid>
 
-<Grid>
-<GridItem sm="8">
 ### **General Rotation Guide**
 #### Energy Management:
 
@@ -259,29 +275,6 @@ All skills cost energy so plan accordingly. Remember, your primary job is to giv
 
 4. <Trait name="Charged Mists"/>: When legend swapping, try to go below 10 energy to proc this trait, resulting in 75 energy on the next legend. This allows for more burst skills to be cast.
 
-</GridItem>
-
-<GridItem sm="4">
-<Card title="Weapon Priority Skills">
-
-Sword:
-
-1. <Skill name="Chilling Isolation"/>
-2. <Skill name="Shackling Wave"/>
-3. <Skill name="DeathStrike"/>
-
-Greatsword:
-
-1. <Skill name="Eternity's Requiem"/>
-2. <Skill name="Mist unleashed"/>
-3. <Skill name="Phantom's onslaught"/>
-
-Weapon Swapping:
-Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
-
-</Card>
-</GridItem>
-</Grid>
 
 ### **Dealing with No Pain, No Gain**
 <Warning>
