@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T21:39:09.153Z "
+date: "2024-06-16T21:40:02.417Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -272,7 +272,7 @@ Start on <Skill name="Legendary Renegade Stance"/>
 
 **Weapon Swapping:**
 
-Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
+Sword auto attacks are better than Greatsword autoattacks. Try to start each phase and your burst rotations in Greeatsword and finish on Sword.
 
 </Card>
 </GridItem>
