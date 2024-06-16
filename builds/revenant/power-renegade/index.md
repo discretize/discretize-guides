@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T21:20:01.274Z "
+date: "2024-06-16T21:34:46.042Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -112,8 +112,8 @@ If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"
 **Hard Crowd Control:**
 
 - <Skill name="Surge of the Mists"/> - Up to nine hits of 150 <Control name="Knockback"/>.
-- <Skill name="Darkrazors Daring"/> - 600 <Control name="Daze"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 780 <Control name="Daze"/>.
-- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/> + Superior Sigil of Paralyzation <Item id="24639" disableText/> = 390 <Control name="Daze"/>.
+- <Skill name="Darkrazors Daring"/> - 600 <Control name="Daze"/> (780 <Control name="Daze"/> with <Item id="24639"/>).
+- <Skill name="Jade Winds"/> - 300 <Control name="Stun"/> (390 <Control name="Stun"/> with <Item id="24639"/>).
 - <Skill name="Call to Anguish"/> - 150 <Control name="Pull"/>.
 
 **Soft Crowd Control:**
@@ -121,7 +121,7 @@ If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"
 - <Skill name="Phantom's Onslaught"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Chilling Isolation"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Shackling Wave"/> - <Condition name="Immobile"/> for 50 per second.
-- <Skill name="Forced Engagement"/> - <Condition name="Taunt"/> and <Condition name="Slow"/> for 75 and 50 per second.
+- <Skill name="Forced Engagement"/> - 4s <Condition name="Taunt"/> for 75 per second and 4s <Condition name="Slow"/> for 50 per second.
 - <Skill name="Banish Enchantment"/> - <Condition name="Chilled"/> for 33 per second.
 - <Skill name="Mender's Rebuke"/> - <Condition name="Weakness"/> for 20 per second.
 
@@ -164,14 +164,14 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 | <Skill name="Legendary Assassin Stance"/>                                 |                                                                                                                                                                                                                      |
 | <Skill name="Phase traversal" size="big" disableText/>                  | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. Example of this is the skip to first set of adds in the Molten Bosses fractal. |
 | <Skill name="Impossible Odds" size="big" disableText/>                  | Your best DPS skill. Make sure to toggle this skill on when you do your burst.                                                                                                                                       |
-| <Skill name="Jade Winds" size="big" disableText/>                       | AoE <Control name="Stun"/> around your character. Useful for CCing 2 adds with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv if you stay between them.                                                      |
+| <Skill name="Jade Winds" size="big" disableText/>                       | AoE <Control name="Stun"/> around your character. Useful for CCing 2 clones with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv by standing between them.                                                     |
 | <Skill name="Legendary Centaur Stance"/>                                  |                                                                                                                                                                                                                      |
 | <Skill name="Protective Solace" size="big" disableText/>                | Blocks projectiles and is a light combo field, allowing for easy condition cleanses. Uses can found on the final ship phase on Siren's reef as well as the final boss of Volcanic.                                   |
 | <Skill name="Legendary Demon Stance"/>                                    |                                                                                                                                                                                                                      |
 | <Skill name="Banish Enchantment" size="big" disableText/>               | Remove 3 boons from enemy target.                                                                                                                                                                                    |
 | <Skill name="Call to Anguish" size="big" disableText/>                  | Pull enemies together in a 360 radius. Useful for pulling adds together in Molten Boss for example.                                                                                                                  |
 | <Skill name="Legendary Dwarf Stance"/>                                    |                                                                                                                                                                                                                      |
-| <Skill name="Inspiring Reinforcement" size="big" disableText/>          | Casually called 'Road', is often used to provide stability to the party and used often in the Chaos fractal.                                                                                                         |
+| <Skill name="Inspiring Reinforcement" size="big" disableText/>          | Casually called 'Road', is often used to provide stability to the party.                                                                                                         |
 | <Skill name="Forced Engagement" size="big" disableText/>                | 500 CC in 4 seconds through <Condition name="Taunt"/> and <Condition name="Slow"/>.                                                                                                                                  |
 | <Skill name="Vengeful Hammers" size="big" disableText/>                 | Similar to <Skill name="Impossible Odds" />, and although is less DPS, does give a small heal for every hammer hit.                                                                                                  |
 | <Specialization name="Herald"/> - <Skill name="Legendary Dragon Stance"/> |                                                                                                                                                                                                                      |
@@ -194,21 +194,21 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 **Greatsword Burst**
 
-1.  <Skill name="Darkrazor's daring"/>
-2.  <Skill name="Icerazor's Ire"/>
-3.  Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
-4.  <Skill name="Eternity's Requiem"/>
-5.  <Skill name="Citadel Bombardment"/>
-6.  <Skill name="Mist Unleashed"/>
-7.  Swap to Sword
+1. <Skill name="Darkrazor's daring"/>
+2. <Skill name="Icerazor's Ire"/>
+3. Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
+4. <Skill name="Eternity's Requiem"/>
+5. <Skill name="Citadel Bombardment"/>
+6. <Skill name="Mist Unleashed"/>
+7. Swap to Sword
 
 **Sword Burst**
 
-1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Shackling Wave"/>
-3.  <Skill name="Deathstrike"/>
-4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
-5.  <Skill name="ChillingIsolation"/>
+1. <Skill name="Chilling Isolation"/>
+2. <Skill name="Shackling Wave"/>
+3. <Skill name="Deathstrike"/>
+4. <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
+5. <Skill name="ChillingIsolation"/>
 
 #### Staff/Sword+Sword
 
@@ -217,20 +217,19 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 **Staff rotation**
 
-1.  <Skill name="Darkrazor's daring"/>
-2.  <Skill name="Surge of the mists"/>
-3.  Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
-4.  <Skill name="Eternity's Requiem"/>
-5.  <Skill name="Mist Unleashed"/>
-6.  Swap to Sword
+1. <Skill name="Darkrazor's daring"/>
+1. <Skill name="Icerazor's Ire"/>
+2. <Skill name="Surge of the mists"/>
+3. Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
+6. Swap to Sword
 
 **Sword Burst**
 
-1.  <Skill name="Chilling Isolation"/>
-2.  <Skill name="Shackling Wave"/>
-3.  <Skill name="Deathstrike"/>
-4.  <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
-5.  <Skill name="ChillingIsolation"/>
+1. <Skill name="Chilling Isolation"/>
+2. <Skill name="Shackling Wave"/>
+3. <Skill name="Deathstrike"/>
+4. <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
+5. <Skill name="ChillingIsolation"/>
 
 
 
@@ -252,21 +251,27 @@ Start on <Skill name="Legendary Renegade Stance"/>
 8. Swap back to <Skill name="Legendary Renegade Stance"/>.
 
 </Card>
-<Card title="Weapon Priority Skills">
+<Card title="Priority Skills">
+**Utility:**
+1. <Skill name="Citadel Bombardment"/>
+2. <Skill name="Icerazor's Ire"/>
+3. <Skill name="Impossible odds"/>
+4. <Skill name="Vengeful Hammers"/>
 
-Sword:
+**Sword:**
 
 1. <Skill name="Chilling Isolation"/>
 2. <Skill name="Shackling Wave"/>
 3. <Skill name="DeathStrike"/>
 
-Greatsword:
+**Greatsword:**
 
 1. <Skill name="Eternity's Requiem"/>
 2. <Skill name="Mist unleashed"/>
 3. <Skill name="Phantom's onslaught"/>
 
-Weapon Swapping:
+**Weapon Swapping:**
+
 Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
 
 </Card>
