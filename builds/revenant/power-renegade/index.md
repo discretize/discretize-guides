@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T21:34:46.042Z "
+date: "2024-06-16T21:40:02.417Z "
 cmGuide: static
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -272,7 +272,7 @@ Start on <Skill name="Legendary Renegade Stance"/>
 
 **Weapon Swapping:**
 
-Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword in your burst skills with as few Greatsword autoattacks as possible.
+Sword auto attacks are better than Greatsword autoattacks. Try to start each phase and your burst rotations in Greeatsword and finish on Sword.
 
 </Card>
 </GridItem>
@@ -282,14 +282,14 @@ Sword auto attacks are better than Greatsword autoattacks. Try to use Greatsword
 #### Energy Management:
 
 <Specialization name="Renegade"/> has lower cooldowns than many other classes at the cost of its other mechanic, energy. Energy is replenished over time as indicated by the arrows to the left and right of the energy indicator. Every arrow indicates 1% point of energy gained/lost per second. 
-All skills cost energy so plan accordingly. Remember, your primary job is to give Alacrity (sometimes Might) followed by CC and your burst damage. This can be difficult, so here are a few tips:
+All skills cost energy so plan accordingly. Remember, your primary job is to give <Boon name="Alacrity"/>, <Boon name="Might"/>, and CC. Then your burst damage. This can be initialy difficult to learn, so here are a few tips:
 
 1. **Plan your play:** This also comes down to knowing the fight well. For example, just before a split phase like at Artsariiv, casting <Skill name="Orders from Above"/> may not be worth it. <Skill name="Orders from Above"/> needs 6 seconds to share <Boon name="Alacrity"/> to your Group. It is better to use the 20 Energy to Burst instead.
 
 
-2. **Drain Energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and <Skill name="Heroic Command"/> are examples of things you can do to drain your energy. Certain weapon skills can do that as well.
+2. **Drain your energy:** You want to almost always take advantage of <Trait name="Charged Mists"/>. As a result, legend swapping off cooldown is the best way to take advantage of that. Using <Skill name="Impossible Odds"/> and <Skill name="Heroic Command"/> are examples of things you can do to drain your energy. Certain weapon skills can do that as well.
 
-3. **Know skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
+3. **Plan your skill costs:** Often times, you will want to know the energy costs of your skills before certain phases. For example, <Skill name="Orders from Above"/>, <Skill name="Darkrazors Daring"/> and <Skill name="Icerazor's Ire"/> are often used in conjunction with a weapon skill like <Skill name="Eternity's Requiem"/> before legend swapping in a few boss phases. This is a total cost of 75 energy minimum to execute. 
 
 #### Kallas Fervor
 <Uncategorized name="kallasfervor"/> gives 2% strike damage, 2% condition damage and 2% life-steal damage per stack, for a maximum of 5 stacks. Stacks are obtained every time you critically strike a foe. Using <Skill name="Eternity's Requiem"/> or <Skill name="Chilling Isolation"/> is an easy way to reach 5 stacks.
