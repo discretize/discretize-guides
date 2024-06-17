@@ -11,7 +11,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-06-13T19:00:53.389Z "
+date: "2024-06-17T20:16:33.035Z "
 consumables: []
 record: {}
 long_description: Immediately following the foundation of the Astral Ward,
@@ -61,7 +61,7 @@ During the minigame, three Avatars of Spite will spawn and fixate on the player 
 </GridItem>
 </Grid>
 
-## Brothers
+## Brothers <Item id="9443" disableText size="medium"/>
 Once you have completed the Astral Purifier event, you can _/gg_ to respawn in the starting room. Leave the starting room, once again taking the _Mistlock Singularity_ if availible. However, this time turn left and move down the corridor. This time as well as Cerus's Despair attack (the falling red orbs) from before, you will also have to deal with Deimos's Grasping Hands, that apply <Condition name="Poisoned"/>, <Condition name="Torment"/>, and <Condition name="Crippled"/>. At the end of the corridor you will come to a single Astral Purifier node, which requires you to play the same minigame as before. Repairing this node will allow access to the room with the brothers Cerus and Deimos standing in. Both bosses will fixate and move towards the closest player to them, with the players gaining the <Label>Cerus's Focus</Label> and <Label>Deimos's Focus</Label> effects respectively. When the brothers are close together they will gain the effect <Label>Brothers United</Label> leading their attacks to deal more damage.
 
 <Grid>
@@ -115,7 +115,7 @@ Deimos will slam the ground creating a large AoE on the ground. This will then s
 </GridItem>
 </Grid>
 
-## Eparch
+## Eparch <Item id="9443" disableText size="medium"/> <Item id="24664" disableText size="medium"/>
 Once you have defeated the brothers, take the portal to the final boss. Before fighting Eparch, you will have to kill some trash mobs. Once you have dealt with them you can _/gg_ again, to reset cooldowns and prestack boons while Eparch spawns. When ready aproach the white circle on the ground to enter the arena.
 
 <Grid>
@@ -201,6 +201,7 @@ Something
 </Grid>
 
 <Divider text="Challenge Mode"/>
+## Eparch CM <Item id="9443" disableText size="medium"/> <Item id="24664" disableText size="medium"/>
 <Grid>
 <GridItem>
 <Achievement title="Secrets of the Tower ">
