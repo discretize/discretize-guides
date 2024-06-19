@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-19T17:37:36.888Z "
+date: "2024-06-19T17:47:34.886Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -22,7 +22,7 @@ conditions:
 ---
   
 <Advanced> 
- 
+
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
 You'll provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as Sword auto-attack chains when playing the Sword/Focus variant.
@@ -58,7 +58,7 @@ On fights that you cannot benefit from <Effect name="Exposed"/> or <Item id="360
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-Note: This setup is assuming you use stat infusions. If you do not <Item id="24836"/> is a damage increase. Additionally if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, and <Item id="50082"/>!
+Note: This setup is assuming you use stat infusions. If you do not <Item id="24836"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, and <Item id="50082"/>!
 
 </Character>
 </CharacterWithAr>
@@ -78,7 +78,7 @@ The advanced page provides a more complete overview of all the utilities the <Sp
 <CharacterWithAr>  
 <Character title="Power Virtuoso" gear='{"attributes":{"profession":"Mesmer","specialization":"Virtuoso","data":{"Health":20522,"Armor":2192,"Power":3471,"Precision":2154,"Toughness":1225,"Vitality":1533,"Ferocity":1325.35,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":0.9995238095238095,"Critical Damage":2.3835666666666664,"Clone Critical Chance":0.5995238095238096,"Phantasm Critical Chance":0.9995238095238095,"Phantasm Critical Damage":2.3835666666666664,"Power Coefficient":3508,"Power2 Coefficient":1106,"Burning Coefficient":0,"Bleeding Coefficient":8.65595238095238,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.56,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":26887.548917098262,"NonCrit Effective Power":9344.83730572647,"Power DPS":36319.41532583007,"Phantasm Effective Power":11889.667526556546,"Power2 DPS":5063.524175730281,"Siphon DPS":139.75,"Bleeding Damage":125.1434375,"Bleeding Stacks":8.65595238095238,"Bleeding DPS":1083.2356357886904,"Burning Damage":369.45331250000004,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":107.63979300000001,"Confusion Stacks":0.56,"Confusion DPS":60.27828408000001,"Poison Damage":117.298625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":148.379025,"Torment Stacks":0,"Torment DPS":0,"Damage":42666.20342142904,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Berserker","helmRuneId":82791,"helmRune":"Deadeye","helmRuneCount":6,"helmInfusionId":49432,"shouldersAffix":"Berserker","shouldersRuneId":82791,"shouldersRune":"Deadeye","shouldersRuneCount":6,"shouldersInfusionId":49432,"coatAffix":"Berserker","coatRuneId":82791,"coatRune":"Deadeye","coatRuneCount":6,"coatInfusionId":49432,"glovesAffix":"Berserker","glovesRuneId":82791,"glovesRune":"Deadeye","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Assassin","leggingsRuneId":82791,"leggingsRune":"Deadeye","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Berserker","bootsRuneId":82791,"bootsRune":"Deadeye","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30687,"weapon1MainType":"Dagger","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":49432,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24868,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":49432,"weapon2MainId":30689,"weapon2MainType":"Greatsword","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":49432,"weapon2MainInfusion2Id":49432,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":49432,"backItemInfusion2Id":49432,"amuletAffix":"Berserker","ring1Affix":"Assassin","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Berserker","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Berserker","accessory1InfusionId":49432,"accessory2Affix":"Berserker","accessory2InfusionId":49432},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":21750,"utility1Id":10267,"utility2Id":45425,"utility3Id":10211,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[2208,2205,2223]],"lines":[10,1,66]}}'>
 
-For fractals, due to <Effect name="Exposed"/> it is worth to adjust the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the raid build using <Item id="24618"/> is also okay to run. If you don't own a build already, it is smarter to bring the impact sigil build to raids than the accuracy sigil build to fractals.  
+For fractals, due to <Effect name="Exposed"/> it is worth adjusting the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the sometimes suggested raid build using <Item id="24618"/> is also okay to run. If you don't own a build already, it is smarter to bring the impact sigil build to raids than the accuracy sigil build to fractals.  
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 </Character>
