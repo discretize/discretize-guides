@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-19T17:47:34.886Z "
+date: "2024-06-19T18:30:54.484Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -21,7 +21,7 @@ conditions:
     uptime: 25 stacks
 ---
   
-<Advanced> 
+<Advanced>
 
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
 
@@ -39,7 +39,7 @@ For fractals, due to <Effect name="Exposed"/>, it is worth adjusting the build t
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-Note: This setup is assuming you use stat infusions. If you do not use stat infusions, <Item id="82791"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, <Item id="50082"/> and <Item id="73191"/>! The difference is negligibly small though. Two impact gear sets are mostly included because the eagle setup uses fewer precise infusions while the potion setup keeps deadeye runes. Choose whatever is more convenient.
+Note: This setup assumes you use stat infusions. If you do not use stat infusions, <Item id="82791"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, <Item id="50082"/> and <Item id="73191"/>! The difference is negligibly small though. Two impact gear sets are mostly included because the eagle setup uses fewer precise infusions while the potion setup keeps deadeye runes. Choose whatever is more convenient.
 
 </Character>
 
@@ -49,7 +49,7 @@ For fractals, due to <Effect name="Exposed"/>, it is worth adjusting the build t
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-Note: This setup is assuming you use stat infusions. If you do not use stat infusions, the gear in the beginner tab is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, <Item id="50082"/> and <Item id="73191"/>! The difference is negligibly small though. Two impact gear sets are mostly included because the eagle setup uses fewer precise infusions while the potion setup keeps deadeye runes. Choose whatever is more convenient.
+Note: This setup assumes you use stat infusions. If you do not use stat infusions, the gear in the beginner tab is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, <Item id="50082"/> and <Item id="73191"/>! The difference is negligibly small though. Two impact gear sets are mostly included because the eagle setup uses fewer precise infusions while the potion setup keeps deadeye runes. Choose whatever is more convenient.
 
 </Character>
 <Character title="Accuracy Sigil" gear='{"attributes":{"profession":"Mesmer","specialization":"Virtuoso","data":{"Health":20522,"Armor":2192,"Power":3516,"Precision":2006,"Toughness":1225,"Vitality":1533,"Ferocity":1525.35,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":0.9990476190476191,"Critical Damage":2.5168999999999997,"Clone Critical Chance":0.5290476190476191,"Phantasm Critical Chance":0.9290476190476191,"Phantasm Critical Damage":2.5168999999999997,"Power Coefficient":3508,"Power2 Coefficient":1106,"Burning Coefficient":0,"Bleeding Coefficient":8.056904761904763,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.56,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":26214.03330929554,"NonCrit Effective Power":8630.945103825,"Power DPS":35409.63760069648,"Phantasm Effective Power":12177.06469075,"Power2 DPS":5185.919733526954,"Siphon DPS":139.75,"Bleeding Damage":125.1434375,"Bleeding Stacks":8.056904761904763,"Bleeding DPS":1008.268757514881,"Burning Damage":369.45331250000004,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":107.63979300000001,"Confusion Stacks":0.56,"Confusion DPS":60.27828408000001,"Poison Damage":117.298625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":148.379025,"Torment Stacks":0,"Torment DPS":0,"Damage":41803.854375818315,"Effective Health":89520843.78109454,"Survivability":45511.35931931598,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Light","helmAffix":"Assassin","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30687,"weapon1MainType":"Dagger","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24618,"weapon1OffAffix":"Berserker","weapon1OffInfusionId":37131,"weapon2MainId":30689,"weapon2MainType":"Greatsword","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24618},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100947},"skills":{"healId":21750,"utility1Id":10267,"utility2Id":45425,"utility3Id":10211,"eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"}]},"traits":{"selection":[[686,713,681],[701,708,692],[2208,2205,2223]],"lines":[10,1,66]}}'>
@@ -58,7 +58,7 @@ On fights that you cannot benefit from <Effect name="Exposed"/> or <Item id="360
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-Note: This setup is assuming you use stat infusions. If you do not <Item id="24836"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, and <Item id="50082"/>!
+Note: This setup assumes you use stat infusions. If you do not <Item id="24836"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, and <Item id="50082"/>!
 
 </Character>
 </CharacterWithAr>
