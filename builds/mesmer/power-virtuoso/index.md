@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-20T16:10:03.691Z "
+date: "2024-06-20T16:38:10.500Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -354,12 +354,8 @@ At the boss (pre spawned bosses)
 - You can also precast <Skill name="Phantasmal Warlock"/>.
 
 </Card>
-</Advanced>
-### Golem Rotation
+</Advanced> 
 
-This video shows the full rotation for the Greatsword variant on the golem.
-
-<Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
 ### Mesmer Skips 
 <Video caption="by feint" youtube="4ZqZbggL_0o"/>
 
