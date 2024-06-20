@@ -36,7 +36,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-06-20T15:32:11.928Z "
+date: "2024-06-20T15:58:19.117Z "
 role: Power Damage
 cmGuide: ""
 ---
@@ -63,7 +63,11 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 
 For PuGs we recommend to stick with <Item id="100916"/> due to overall longer phase times.
 
-Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
+Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to customize your gear.
+
+Make sure to run <Item id="24868"/> in fractals in order to exploit <Effect name="Exposed"/>.
+On some encounters, <Item id="36053"/> (Sunqua Peak),  <Item id="24658"/> (Siax, Ensolyss) and <Item id="24664"/> (Eparch) can provide even better damage boosts. On top of that, <Item id="43360"/>,  <Item id="50082"/> or <Item id="73191"/> can situationally be used as damage increase. 
+
 
 </Character>
 </CharacterWithAr>
