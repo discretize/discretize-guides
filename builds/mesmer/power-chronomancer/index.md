@@ -36,7 +36,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-06-20T11:13:54.543Z "
+date: "2024-06-20T15:29:17.688Z "
 role: Power Damage
 cmGuide: ""
 ---
@@ -203,6 +203,8 @@ Your goal should be to cast as many high priority skills during that time window
 
 Since your Shatters will get rewound as well, you can shatter **all** of them for additional Alacrity.
 
+### Golem Rotation
+<Video caption="by Tipcat" youtube="amlbicrFG4w"/>
 </GridItem>
 </Grid>
 
