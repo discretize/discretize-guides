@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-20T07:11:01.652Z "
+date: "2024-06-20T07:38:16.231Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -360,6 +360,8 @@ At the boss (pre spawned bosses)
 This video shows the full rotation for the Greatsword variant on the golem.
 
 <Video caption="by beng / L3m0n" youtube="DpBnvYF9ZnE"/>
+### Mesmer Skips 
+<Video caption="by feint" youtube="4ZqZbggL_0o"/>
 
 <Beginner>
 
