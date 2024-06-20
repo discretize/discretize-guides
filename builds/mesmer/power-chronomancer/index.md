@@ -1,13 +1,24 @@
 ---
+title: Power Alac Chronomancer
 hidden: false
 archive: false
+rating: Good
 author: drauskam
+profession: Mesmer
 specialization: Chronomancer
 skills: []
 traits:
   - 2020
   - 2018
   - 853
+conditions:
+  - name: Vulnerability
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
+  - name: Slow
 boons:
   - name: Alacrity
     uptime: 100%
@@ -25,19 +36,8 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-05-07T21:44:40.942Z "
-title: Power Alac Chronomancer
-rating: Good
+date: "2024-06-20T11:11:22.459Z "
 role: Power Damage
-profession: Mesmer
-conditions:
-  - name: Vulnerability
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
-  - name: Slow
 cmGuide: ""
 ---
 The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
@@ -287,5 +287,8 @@ Often times you won't even have access to all the skills that got used in the op
 Based on that, another approach could be to by-pass phases with low resources by duplicating the few options you have.
 
 Otherwise double-casting Wells only makes sense at 9s+. Therefore you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
+
+### Mesmer Skips 
+<Video caption="by feint" youtube="4ZqZbggL_0o"/>
 </GridItem>
 </Grid>
