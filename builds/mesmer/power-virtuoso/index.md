@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-20T06:53:30.514Z "
+date: "2024-06-20T06:54:05.155Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -39,7 +39,7 @@ For fractals, due to <Effect name="Exposed"/>, it is worth adjusting the build t
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
-Note: This setup assumes you use stat infusions and standard utility. If you do not use stat infusions, <Item id="82791"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, <Item id="50082"/> and <Item id="73191"/>! The difference is negligibly small though. Two impact gear sets for different utilities are mostly included because the eagle setup uses fewer precise infusions while the potion setup keeps deadeye runes. Choose whatever is more convenient.
+Note: This setup assumes you use stat infusions and standard utility. If you do not use stat infusions, <Item id="82791"/> is a damage increase. Additionally, if you want to optimise further, stats and runes will change using different combinations of <Item id="91805"/>, <Item id="43360"/>, <Item id="9443"/>, <Item id="50082"/> and <Item id="73191"/>! The difference is negligibly small though. Two impact gear sets for different utilities are mostly included because the eagle rune setup uses fewer precise infusions while the potion setup keeps deadeye runes. Choose whatever is more convenient.
 
 </Character>
 
