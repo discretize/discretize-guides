@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-19T22:37:11.656Z "
+date: "2024-06-20T06:38:17.183Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-  
+   
 <Advanced>
 
 The <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals.
@@ -81,6 +81,8 @@ The advanced page provides a more complete overview of all the utilities the <Sp
 For fractals, due to <Effect name="Exposed"/> it is worth adjusting the build to make use of <Item id="24868"/>. However, if you do not want to use multiple builds for different content, the sometimes suggested raid build using <Item id="24618"/> is also okay to run. If you don't own a build already, it is smarter to bring the impact sigil build to raids than the accuracy sigil build to fractals.  
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+
+Note: This setup does not use stat infusions. Stat infusion setups can be found in the advanced tab.
 </Character>
 
 </CharacterWithAr>
