@@ -36,11 +36,11 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-06-20T15:58:19.117Z "
+date: "2024-06-20T16:35:32.910Z "
 role: Power Damage
 cmGuide: ""
 ---
-The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals. 
+The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.  
 
 Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
   
@@ -207,8 +207,6 @@ Your goal should be to cast as many high priority skills during that time window
 
 Since your Shatters will get rewound as well, you can shatter **all** of them for additional Alacrity.
 
-### Golem Rotation
-<Video caption="by Tipcat" youtube="amlbicrFG4w"/>
 </GridItem>
 </Grid>
 
