@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: "2024-06-22T09:48:22.271Z "
+date: "2024-06-22T09:48:37.237Z "
 image: images/header.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -64,7 +64,7 @@ In Tier 4 fractals (T4) a break bar usually does not exceed 800 units, neverthel
 | **Siax**                   | 2100                                                                   |
 | **Ensolyss**               | Phase 1 - 2000 <br/> Phase 2+3 - 2250                                  |
 | **Skorvald**               | 2200                                                                   |
-| **Artsariiv**              | Artsariiv - 2100 <br/> Split 1 Clones - 600 <br/> Split 2 Clones - 350 |
+| **Artsariiv**              | Artsariiv - 2100 <br/> Split 1 Clones - 600 <br/> Split 2 Clones - 340 |
 | **Arkk**                   | 1800                                                                   |
 | **Ai, Keeper of the Peak** | Ai - 3200 <br/> Sorrows - 1500                                         |
 | **Kanaxai**                | 1200 (increases by 20.5% multiplicatively per stack of <Effect name="Dread Defiance"/> up to 10 stacks) |
