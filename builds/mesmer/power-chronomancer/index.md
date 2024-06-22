@@ -1,13 +1,24 @@
 ---
+title: Power Alac Chronomancer
 hidden: false
 archive: false
+rating: Good
 author: drauskam
+profession: Mesmer
 specialization: Chronomancer
 skills: []
 traits:
   - 2020
   - 2018
   - 853
+conditions:
+  - name: Vulnerability
+  - name: Weakness
+  - name: Crippled
+  - name: Chilled
+  - name: Poisoned
+  - name: Blinded
+  - name: Slow
 boons:
   - name: Alacrity
     uptime: 100%
@@ -25,22 +36,11 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-05-07T21:44:40.942Z "
-title: Power Alac Chronomancer
-rating: Good
+date: "2024-06-20T16:35:32.910Z "
 role: Power Damage
-profession: Mesmer
-conditions:
-  - name: Vulnerability
-  - name: Weakness
-  - name: Crippled
-  - name: Chilled
-  - name: Poisoned
-  - name: Blinded
-  - name: Slow
 cmGuide: ""
 ---
-The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.
+The <Specialization text="Power Alac Chronomancer" name="Chronomancer"/> is currently the strongest boon build for <Specialization name="Mesmer"/> in fractals.  
 
 Despite having longer ramp-up times compared to <Specialization text="Power Alac Renegade" name="Renegade"/>, it is strong for PuGs and gets suboptimal the faster groups gonna get, especially at Arstariiv due to the lack of <Boon name="Resistance"/>.  
   
@@ -63,7 +63,11 @@ This build profits from sigils like <Item name="Impact" type="Sigil"/> as well a
 
 For PuGs we recommend to stick with <Item id="100916"/> due to overall longer phase times.
 
-Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to adjust your gear.
+Use the [Gear Optimizer](https://optimizer.discretize.eu/?m=fractals) to customize your gear.
+
+Make sure to run <Item id="24868"/> in fractals in order to exploit <Effect name="Exposed"/>.
+On some encounters, <Item id="36053"/> (Sunqua Peak),  <Item id="24658"/> (Siax, Ensolyss) and <Item id="24664"/> (Eparch) can provide even better damage boosts. On top of that, <Item id="43360"/>,  <Item id="50082"/> or <Item id="73191"/> can situationally be used as damage increase. 
+
 
 </Character>
 </CharacterWithAr>
@@ -287,5 +291,8 @@ Often times you won't even have access to all the skills that got used in the op
 Based on that, another approach could be to by-pass phases with low resources by duplicating the few options you have.
 
 Otherwise double-casting Wells only makes sense at 9s+. Therefore you could also precast them, skipping their cast times during the actual phase, while still taking advantage of most of the pulsing/final damage.
+
+### Mesmer Skips 
+<Video caption="by feint" youtube="4ZqZbggL_0o"/>
 </GridItem>
-</Grid>
+</Grid> 
