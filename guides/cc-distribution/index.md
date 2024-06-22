@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: "2024-06-22T09:48:37.237Z "
+date: "2024-06-22T09:48:47.005Z "
 image: images/header.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -68,7 +68,7 @@ In Tier 4 fractals (T4) a break bar usually does not exceed 800 units, neverthel
 | **Arkk**                   | 1800                                                                   |
 | **Ai, Keeper of the Peak** | Ai - 3200 <br/> Sorrows - 1500                                         |
 | **Kanaxai**                | 1200 (increases by 20.5% multiplicatively per stack of <Effect name="Dread Defiance"/> up to 10 stacks) |
-| **Eparch**                 | 3000 (Unconformed)                                                     |
+| **Eparch**                 | 3000 (Unconfirmed)                                                     |
 
 </Card>
 </GridItem>
