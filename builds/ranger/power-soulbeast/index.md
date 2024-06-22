@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-04-21T11:06:32.748Z "
+date: "2024-06-22T08:19:24.396Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 20 stacks
 ---
- 
+
 The <Specialization name="Soulbeast" text="Power Soulbeast"/> is a DPS build offering:
 - Very high burst damage thanks to <Skill name="Sic Em"/>.
 - Strong party buffs with <Skill name="One Wolf Pack"/> and other stances.
@@ -82,6 +82,7 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 | <Skill id="46432" size="big" disableText/> | [Pig](https://wiki.guildwars2.com/wiki/Juvenile_Pig) is the best option for damage due to <Skill id="41406"/>. It also comes with <Skill id="46432"/>, a strong CC skill that procs both <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/>. |
 | <Skill id="43548" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) is a slight personal damage loss compared to Pig, but brings <Condition name="Vulnerability"/> with <Skill id="43548"/>, which also deals good damage and procs <Item name="Relic of Fireworks"/>. |
 | <Skill id="45743" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) provides substantial CC on a low cooldown  with <Skill id="45743"/> as well as a little <Condition name="Vulnerability"/> from <Skill id="41524"/>. |
+| <Skill id="12658" size="big" disableText/> | [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) when unmerged can share 8 stacks of <Boon name="Might"/>, which is useful for a quick rampup after a long split phase. |
 | <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) gives access to a 5 second [smoke field](https://wiki.guildwars2.com/wiki/Smoke_field) with <Skill id="31568"/> to stack <Effect name="Stealth"/>. |
 | <Skill id="41575" size="big" disableText/> | Any  [Drake](https://wiki.guildwars2.com/wiki/Drake#Pets) gives access to an additional [blast finisher](https://wiki.guildwars2.com/wiki/Blast_finisher) with <Skill id="41575"/>. |
 | <Skill id="43726" size="big" disableText/> | [Hyena](https://wiki.guildwars2.com/wiki/Juvenile_Hyena) provides high mobility with <Skill id="43726"/> and <Skill id="42894"/>. |
@@ -312,9 +313,9 @@ During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skil
 
 <GridItem sm="5">
 ### Weapons
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1Id={24615} weapon1MainSigil2Id={24658} weapon1MainInfusion1Id={37131} weapon1MainInfusion2Id={37131} weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1Id={24615} weapon2MainSigil2Id={24658} weapon2MainInfusion1Id={37131} weapon2MainInfusion2Id={37131}/>
+<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24658" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24658" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
 ### Skills
-<Skills healId={44948} utility1Id={12633} utility2Id={12492} utility3Id={12491} eliteId={45717}/>
+<Skills healId="44948" utility1Id="12633" utility2Id="12492" utility3Id="12491" eliteId="45717"/>
 If you need to swap a skill, the same applies as on land: swap <Skill name="Signet of the Wild"/> first then <Skill name="Frost Trap"/>.
 
 ### Pets
