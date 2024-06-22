@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-16T21:40:18.849Z "
+date: "2024-06-22T08:14:05.523Z "
 cmGuide: ""
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -144,7 +144,6 @@ There are multiple weapons in your arsenal to deal with the instability <Instabi
 <Weapons weapon1MainType="Sword" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1OffType="Sword" weapon1OffAffix="Berserker" weapon1OffSigilId="72872" unembossed />
 </GridItem>
 </Grid>
-<div style={{marginBottom: "16px"}} /> 
 
 As for legends that you want to run due to a lack of boonstrip in a group, the general rule of thumb is to run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Demon Stance"/>. When you can't remove the boons with <Item id="72872"/>, use <Skill name="Banish enchantment"/> in <Skill name="Legendary Demon Stance"/>.
 
@@ -156,26 +155,26 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 | Skill                                                                     | Usage                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Specialization name="Renegade"/> - Citadel Order                         |                                                                                                                                                                                                                      |
-| <Skill name="Heroic Command" size="big" disableText/>                   | Cast Heroic Command, when you see your group missing might. Make sure that you have 5 Stacks of Kalla's Fervor to provide 10 <Boon name="Might"/>.                                                                                        |
+| <Skill name="Heroic Command" size="big" disableText/>                   | Cast Heroic Command, when you see your party missing <Boon name="Might"/>. When casting with 5 Stacks of Kalla's Fervor you will provide 10 <Boon name="Might"/>.                                                                                        |
 | <Skill name="Legendary Renegade Stance"/>                                 |                                                                                                                                                                                                                      |
-| <Skill name="Breakrazor's Bastion" size="big" disableText/>             | Good Group Heal and gives Resolution to your group.                                                                                                                                                                  |
-| <Skill name="Darkrazor's daring" size="big" disableText/>               | Variety of uses, primarily as a good 600 AoE CC skill. Can be cast to CC a Boss, a group of adds or remove boons from enemies with <Item id="72872"/>                                                                |
-| <Skill name="Icerazor's Ire" size="big" disableText/>                   | Good DPS skill that also stacks <Condition name="Vulnerability"/> on the boss.                                                                                                                                       |
+| <Skill name="Breakrazor's Bastion" size="big" disableText/>             | A Group Heal and source of <Boon name="Resolution"/>.                                                                                                                                                                  |
+| <Skill name="Darkrazor's daring" size="big" disableText/>               | A 600 AoE CC skill. Can be cast to CC a Boss, a group of adds, or  to remove boons from enemies with <Item id="72872"/>                                                                |
+| <Skill name="Icerazor's Ire" size="big" disableText/>                   | A DPS skill that also stacks <Condition name="Vulnerability"/> on its target.                                                                                                                                       |
 | <Skill name="Legendary Assassin Stance"/>                                 |                                                                                                                                                                                                                      |
-| <Skill name="Phase traversal" size="big" disableText/>                  | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. Example of this is the skip to first set of adds in the Molten Bosses fractal. |
-| <Skill name="Impossible Odds" size="big" disableText/>                  | Your best DPS skill. Make sure to toggle this skill on when you do your burst.                                                                                                                                       |
-| <Skill name="Jade Winds" size="big" disableText/>                       | AoE <Control name="Stun"/> around your character. Useful for CCing 2 clones with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv by standing between them.                                                     |
+| <Skill name="Phase traversal" size="big" disableText/>                  | Shadows steps you to an enemy target. In combination with <Item id="78978"/>, can be used for a variety of skips in certain fractals. |
+| <Skill name="Impossible Odds" size="big" disableText/>                  | A DPS skill. Make sure to toggle this skill on when you do your burst.                                                                                                                                       |
+| <Skill name="Jade Winds" size="big" disableText/>                       | AoE <Control name="Stun"/> around your character. Useful for CCing 2 clones at the same time with a <Item id="24639" /> in the 2nd CC Phase of Artsariiv.                                                     |
 | <Skill name="Legendary Centaur Stance"/>                                  |                                                                                                                                                                                                                      |
-| <Skill name="Protective Solace" size="big" disableText/>                | Blocks projectiles and is a light combo field, allowing for easy condition cleanses. Uses can found on the final ship phase on Siren's reef as well as the final boss of Volcanic.                                   |
+| <Skill name="Protective Solace" size="big" disableText/>                | Blocks projectiles and is a light combo field, allowing for easy condition cleanses. This skill is used in T4 fractals with high incoming ranged damage pressure.                                  |
 | <Skill name="Legendary Demon Stance"/>                                    |                                                                                                                                                                                                                      |
 | <Skill name="Banish Enchantment" size="big" disableText/>               | Remove 3 boons from enemy target.                                                                                                                                                                                    |
-| <Skill name="Call to Anguish" size="big" disableText/>                  | Pull enemies together in a 360 radius. Useful for pulling adds together in Molten Boss for example.                                                                                                                  |
+| <Skill name="Call to Anguish" size="big" disableText/>                  | Pull enemies together in a 360 radius. Useful for pulling adds together.                                                                                                                  |
 | <Skill name="Legendary Dwarf Stance"/>                                    |                                                                                                                                                                                                                      |
-| <Skill name="Inspiring Reinforcement" size="big" disableText/>          | Casually called 'Road', is often used to provide stability to the party.                                                                                                         |
+| <Skill name="Inspiring Reinforcement" size="big" disableText/>          | Often called 'Road', it is used to provide stability to the party.                                                                                                         |
 | <Skill name="Forced Engagement" size="big" disableText/>                | 500 CC in 4 seconds through <Condition name="Taunt"/> and <Condition name="Slow"/>.                                                                                                                                  |
-| <Skill name="Vengeful Hammers" size="big" disableText/>                 | Similar to <Skill name="Impossible Odds" />, and although is less DPS, does give a small heal for every hammer hit.                                                                                                  |
+| <Skill name="Vengeful Hammers" size="big" disableText/>                 | Similar to <Skill name="Impossible Odds" />, also gived a small heal for every hammer hit.                                                                                                  |
 | <Specialization name="Herald"/> - <Skill name="Legendary Dragon Stance"/> |                                                                                                                                                                                                                      |
-| <Skill name="Facet of Chaos" size="big" disableText/>                   | Gives the party <Effect name="Superspeed"/>.                                                                                                                                                                         |
+| <Skill name="Facet of Chaos" size="big" disableText/>                   | Gives the party <Effect name="Superspeed"/>. Useful for skips with <Item id="85244"/>.                                                                                                                                                                         |
 
 
 </GridItem>
@@ -212,8 +211,7 @@ Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 #### Staff/Sword+Sword
 
-Start on <Skill id="41858"  disableText/> Kalla. \
-Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
+Start on <Skill id="41858"  disableText/> Kalla.
 
 **Staff rotation**
 
