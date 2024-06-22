@@ -23,7 +23,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2024-06-22T08:15:02.537Z "
+date: "2024-06-22T16:15:14.409Z "
 cmGuide: ""
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
@@ -96,7 +96,7 @@ If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"
 <Divider text="Build"/>
 
 <Grid>
-<GridItem sm="8">
+<GridItem sm="7">
 ### Traits
 <Traits traits1Id="15" traits1="Devastation" traits1Selected="Unsuspecting Strikes,Notoriety,Swift Termination" traits2Id="3" traits2="Invocation" traits2Selected="Rising Tide,Spirit Boon,Charged Mists" traits3Id="63" traits3="Renegade" traits3Selected="Ashen Demeanor,All for One,Righteous Rebel"/>
 
@@ -149,7 +149,7 @@ As for legends that you want to run due to a lack of boonstrip in a group, the g
 
 If you find the stability to be an issue on fights where <Skill name="Stand Your Ground"/> isn't enough to cover the <Boon name="Stability"/>, you can run <Skill name="Legendary Dwarf Stance"/> and <Skill name="Legendary Demon Stance"/>. Alternatively heavily rely on your <Item id="72872"/> to strip the boons and run <Skill name="Legendary Renegade Stance"/> and <Skill name="Legendary Dwarf Stance"/>. However, this isn't recommended due to the unreliability of <Item id="72872"/>.
 </GridItem>
-<GridItem sm="4">
+<GridItem sm="5">
 ### Situational Skills
 
 | Skill                                                                     | Usage                                                                                                                                                             |
