@@ -7,7 +7,7 @@ potions:
 hasCM: false
 cycle: Night
 layout: src/layouts/Fractal.astro
-date: "2023-06-30T17:37:54.138Z "
+date: "2024-06-23T21:39:21.645Z "
 title: Volcanic
 image: images/header_old.jpg
 group: T4
@@ -20,8 +20,7 @@ sigils:
   - id: 36053
   - id: 24648
     description: for the Grawl enemies
-  - id: 24868
-    description: for the Imbued Shaman endboss
+  - 24664
 consumables:
   - 78978
   - 49940
@@ -116,7 +115,7 @@ Use either <Skill id="5683"/> and <Skill id="5686"/> or <Skill id="5671"/> to ke
 
 ---
 
-## Imbued Shaman <Item id="8886" disableText/><Item id="24868" disableText/>
+## Imbued Shaman <Item id="8886" disableText/><Item id="24664" disableText/>
 
 <Grid>
 <GridItem xs="12" sm="8">
