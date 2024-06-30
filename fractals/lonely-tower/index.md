@@ -1,6 +1,6 @@
 ---
 title: Lonely Tower
-image: images/lonelytowerheader.jpg
+image: images/header.jpg
 group: CM
 bosses: 2
 difficulties:
