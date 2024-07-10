@@ -17,14 +17,14 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: static
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2024-07-03T10:29:49.316Z "
-cmGuide: static
+date: "2024-07-10T09:13:13.924Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -77,11 +77,13 @@ Dragon pieces can be freely replaced with Berserker for a slight DPS loss.
 
 <Divider text="Staff  VS Greatsword"/>
 <Grid>
-<GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Staff" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="84505"/> 
 </GridItem>
-
-<GridItem>
+<GridItem sm="4">
+### OR
+</GridItem>
+<GridItem sm="4">
 <Weapons weapon1MainType="Greatsword" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24868"/> 
 </GridItem>
 </Grid>
