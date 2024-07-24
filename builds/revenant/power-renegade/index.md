@@ -17,14 +17,14 @@ boons:
     uptime: 10 stacks
     variant: party
 code: "[&DQkDJg8qPz3cEdwRKxIrEgYSBhLUEdQRyhHKEQUCBAMGEisS1BEGEisS1BE=]"
+cmGuide: ""
 classification:
   - 5
   - 2
   - 4
   - 3
   - 5
-date: "2024-07-10T15:19:58.638Z "
-cmGuide: ""
+date: "2024-07-24T17:50:08.778Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -89,7 +89,7 @@ When playing <Specialization name="Renegade" text="Power Renegade"/>, both Staff
 
 In CMs there is a larger CC contribution requirement, however with builds such as <BuildLink build="Heal Chronomancer" specialization="Chronomancer"/> and <BuildLink build="Power Scrapper" specialization="Scrapper"/> providing large amounts of CC, along with contribution from DPS builds, in a lot of cases you can play Greatsword. However if CC is non-existant in your party it may be a better option to take Staff to provide the extra CC yourself.
 
-If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"/> on Greatsword to instantly break 2 clones in the 33% split with <Skill name="Jade Winds"/>. On Arkk it is generally better to play Staff to break the Defiance Bar instantly unless you are in a speedkill.   
+If you do play Greatsword on CMs, On Artsariiv, you should take <Item id="24639"/> on Greatsword to instantly break 2 clones in the 33% split with <Skill name="Jade Winds"/>. On Arkk it is generally better to play Staff to break the Defiance Bar instantly unless you are in certin speedkill compositions.   
 
 **Please consider which weapon best fits your group based on both its needs and speed. Arguments for both are valid for almost every fight.**
 
@@ -183,7 +183,7 @@ If you find the stability to be an issue on fights where <Skill name="Stand Your
 <Grid>
 <GridItem sm="8">
 ### Opening Rotations
-_To preface, there are 2 general rotations detailed below that are typically used for different power fights pertaining to the different weapon sets. Adapt them as you see fit.
+To preface, there are 2 general rotations detailed below that are typically used for different power fights pertaining to the different weapon sets. Adapt them as you see fit.
 
 #### Greatsword/Sword+Sword
 
