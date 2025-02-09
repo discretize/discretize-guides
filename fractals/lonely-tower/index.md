@@ -13,7 +13,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-02-09T19:38:13.623Z "
+date: "2025-02-09T19:44:38.753Z "
 consumables: []
 record:
   time: 2 min 25 sec
@@ -158,7 +158,7 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Consumed**   | Consume (CC)         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
-- Healer - Takes Despair Globules. If there are no Condi DPS players, they can also take Envy Globules to cancel out the Despair stacks.
+- Healer - Takes Despair Globules. If there are no Condi DPS players, the healer can also take Envy Globules to cancel out the Despair stacks.
 - Power DPS - One of the power DPS players wshould take Rage Globules. This will massively increase their damage and should make sure they do not get consumed by Eparch during CC. Commonly played builds for this are <Specialization name="Scrapper"/> or <Specialization name="Dragonhunter"/>
 - Condi DPS - Takes Envy Globules. It is important to make sure they do not get consumed by Eparch during CC to prevent the boss from currupting the parties boons.
 - Gluttony DPS - This is a special role that aims to maximise the amounts of hits on the boss to trigger the Lifesteal effect from Gluttony Globules. The current best choice for this is <Specialization name="Willbender"/> with <Item id="102245"/>.
@@ -170,6 +170,8 @@ With this in mind, it makes sense for the following roles to prioritise the foll
 During his rotation, Eparch will gain a defiance bar, then pull in and consume all Globules of Emotion left on the ground and gain their respective effects as per the table above. By breaking Eparchs Defiance Bar, you will remove some stacks of empowerment. It is important to make sure you have collected all Malice and Envy Globules before the CC phase to make the fight considerably easier.
 
 Additionally, during this phase, Eparch will target one player and apply the <Label>Consume</Label> effect. This will start to remove any Emotion stacks the player has untill they reach zero or the defiance bar is broken. At zero stacks, Eparch will apply stacks of the <Label>Consumed</Label> effect, with each stat lowering the players attributes. To reduce the stacks and remove this effect, the player will have to collect Globules of Emotion.
+
+Eparchs target fixation works as follows; The player who is furthest away in his line of site will be targeted. This means before Eparch is about to start his CC mechanic you want to make sure that a player without Rage, Envy, or Gluttony stacks is targeted to prevent the boss from becoming empowered, or your party losing a large potion of its outgoing damage modifiers.
 </GridItem>
 <GridItem sm="4">
 <GifPlayer sourceId="lonely-tower-eparch-consume" caption="Throw firewood into the fire"/>
