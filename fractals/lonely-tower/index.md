@@ -13,7 +13,7 @@ hasCM: false
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-02-03T23:04:09.425Z "
+date: "2025-02-09T19:38:13.623Z "
 consumables: []
 record:
   time: 2 min 25 sec
@@ -158,9 +158,11 @@ As Eparch carries out each attack, he will spawn Globules of Emotion. These can 
 | **Consumed**   | Consume (CC)         | -3% Health, -3% Outgoing Strike Damage, -3% Outgoing Condition Damage |                           |
 
 With this in mind, it makes sense for the following roles to prioritise the following Globules of Emotion to maximise party damage:
-- Healer / Lowest damage build in a no-heal composition - Despair + Envy to cancel eachother out
-- Power DPS - Rage
-- Condi DPS - Envy
+- Healer - Takes Despair Globules. If there are no Condi DPS players, they can also take Envy Globules to cancel out the Despair stacks.
+- Power DPS - One of the power DPS players wshould take Rage Globules. This will massively increase their damage and should make sure they do not get consumed by Eparch during CC. Commonly played builds for this are <Specialization name="Scrapper"/> or <Specialization name="Dragonhunter"/>
+- Condi DPS - Takes Envy Globules. It is important to make sure they do not get consumed by Eparch during CC to prevent the boss from currupting the parties boons.
+- Gluttony DPS - This is a special role that aims to maximise the amounts of hits on the boss to trigger the Lifesteal effect from Gluttony Globules. The current best choice for this is <Specialization name="Willbender"/> with <Item id="102245"/>.
+- DPS / Booon DPS - The remaining players should pick up any remaining Globules if they spawn (Malice or Regret), or to pick up orbs for one of the other assgned roles if something goes wrong mid encounter.
 
 ### Consume
 <Grid>
@@ -234,7 +236,12 @@ The rest of the encounter is exactly the same as the T4 mode.
 ### Pre-fight Organisation
 
 Before starting the encounter it is important to discuss two things:
-1. Assign Orbs - 
+1. Assign Orbs - The trick to having a clean CM run is to assign roles in the party to different Globules of Emotion to collect. By allocating these to certain builds you will maximise the parties damage output and prevent Eparch getting empowered by stacks of Emotion. With this in mind the most common Globule assignment is:
+- Healer - Takes both Envy and Despair Globules. This will Cancel out the Despair stacks and prevent Eparch from getting Envy stacks and corrupting the parties boons.
+- Power DPS - One of the power DPS players wshould take Rage Globules. This will massively increase their damage and should make sure they do not get consumed by Eparch during CC. Commonly played builds for this are <Specialization name="Scrapper"/> or <Specialization name="Dragonhunter"/>
+- Gluttony DPS - This is a special role that aims to maximise the amounts of hits on the boss to trigger the Lifesteal effect from Gluttony Globules. The current best choice for this is <Specialization name="Willbender"/> with <Item id="102245"/>.
+- DPS / Booon DPS - The remaining players should pick up any remaining Globules if they spawn (Malice or Regret), or to pick up orbs for one of the other assgned roles if something goes wrong mid encounter.
+
 2. Decide on a Gluttony Strat - To make the split phases quick and painfree, you typically want your Gluttony player to start each split phase with 12 stacks of Gluttony. For most groups this means picking up two sets of orbs in the first phase and one set of orbs in the second phase (however slower groups will want to pick up two sets in both phases). Make sure to confirm this before starting so that the party knows to stop attacking to allow the second set of Gluttony Globules to spawn in the first phase and also in P2 if required.
 
 ### 100% - 65%
@@ -262,4 +269,4 @@ When closing the final rift, Avatars of Spite can take a couple of seconds to de
 </Warning>
 
 ### 35% - 0%
-Once again this phase is a repeat of the first and second phases, keep collecting Globules, insta CC Eparch when he gains a CC bar, and be careful of getting hit by Eparchs attacks if he has lots of Emtion stacks at this point. 
+Once again this phase is a repeat of the first and second phases, keep collecting Globules, insta CC Eparch when he gains a CC bar, and be careful of getting hit by Eparchs attacks if he has lots of Emotion stacks at this point. 
