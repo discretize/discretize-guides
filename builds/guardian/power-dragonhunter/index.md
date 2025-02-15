@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2023-10-13T20:59:28.119Z "
+date: "2025-02-15T15:30:53.533Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -21,7 +21,7 @@ conditions:
     uptime: 25 stacks
 cmGuide: static
 ---
-  
+
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />.
 
 It also has a decent toolkit for skips in Tier 4 fractals with multiple leaps and teleports (<Skill name="wingsofresolve" />, <Skill name="leapoffaith" />, <Skill name="judgesintervention" />, <Skill name="mercifulintervention" />).
@@ -55,14 +55,14 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </Beginner>
 <Advanced>
 <CharacterWithAr>  
-<Character title="Radiance Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":19455,"Armor":2496,"Power":3815,"Precision":1795,"Toughness":1225,"Vitality":1870,"Ferocity":1593,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0285714285714285,"Critical Damage":2.5620000000000003,"Power Coefficient":4085,"Power2 Coefficient":0,"Burning Coefficient":2.59,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":27702.863411903327,"NonCrit Effective Power":10812.983377011446,"Power DPS":43575.74009920104,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":2.59,"Burning DPS":920.5426562499999,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":44636.03275545104,"Effective Health":96636179.10447763,"Survivability":49128.71332205268,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Dragon","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100090},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[574,565,1683],[634,653,2017],[1898,1835,1955]],"lines":[16,42,27]}}'>
+<Character title="Radiance Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":19455,"Armor":2496,"Power":3815,"Precision":1795,"Toughness":1225,"Vitality":1870,"Ferocity":1593,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1.0285714285714285,"Critical Damage":2.5620000000000003,"Power Coefficient":4085,"Power2 Coefficient":0,"Burning Coefficient":2.59,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Siphon Base Coefficient":139.75,"Effective Power":27702.863411903327,"NonCrit Effective Power":10812.983377011446,"Power DPS":43575.74009920104,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":355.421875,"Burning Stacks":2.59,"Burning DPS":920.5426562499999,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":44636.03275545104,"Effective Health":96636179.10447763,"Survivability":49128.71332205268,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Dragon","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainId":30691,"weapon2MainType":"Spear","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Berserker","weapon2MainInfusion1Id":37131,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100090},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[574,565,1683],[634,653,2017],[1898,1835,1955]],"lines":[16,42,27]}}'>
 
 Note: This build is optimal for <Item id="91805"/> and <Item id="77569"/> For other consumable pairs using either <Item id="50082"/> or <Item id="43360"/> use the [gear optimizer](https://optimizer.discretize.eu/) to adjust setup (in some scenarios <Item id="24836"/> may be more optimal to run)!
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
-<Character title="Virtues Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":16245,"Armor":2496,"Power":3426,"Precision":2470,"Toughness":1225,"Vitality":1533,"Ferocity":1330,"Condition Damage":911,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.3866666666666667,"Power Coefficient":4080,"Power2 Coefficient":0,"Burning Coefficient":2.82,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Siphon Base Coefficient":139.75,"Effective Power":26389.78415882226,"NonCrit Effective Power":11057.172133584747,"Power DPS":41459.49917905076,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":110.19874999999999,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":391.29468750000007,"Burning Stacks":2.82,"Burning DPS":1103.4510187500002,"Confusion Damage":118.13231250000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":126.72999999999999,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":163.57312499999998,"Torment Stacks":0,"Torment DPS":0,"Damage":42702.70019780076,"Effective Health":80691582.08955225,"Survivability":41022.66501756597,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24785,"helmRune":"Golemancer","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24785,"shouldersRune":"Golemancer","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24785,"coatRune":"Golemancer","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24785,"glovesRune":"Golemancer","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24785,"leggingsRune":"Golemancer","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24785,"bootsRune":"Golemancer","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37132,"weapon1MainInfusion2Id":37132,"weapon1MainSigil2Id":24868,"weapon2MainId":30685,"weapon2MainType":"Longbow","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37132,"weapon2MainInfusion2Id":37132,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37132,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":37132,"ring1Infusion2Id":37132,"ring1Infusion3Id":37132,"ring2Affix":"Assassin","ring2Infusion1Id":37132,"ring2Infusion2Id":37132,"ring2Infusion3Id":37132,"accessory1Affix":"Assassin","accessory1InfusionId":37132,"accessory2Affix":"Assassin","accessory2InfusionId":37132},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100090},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[574,565,1683],[634,653,2017],[1898,1835,1955]],"lines":[16,42,27]}}'>
+<Character title="Virtues Dragonhunter" gear='{"attributes":{"profession":"Guardian","specialization":"Dragonhunter","data":{"Health":16245,"Armor":2496,"Power":3426,"Precision":2470,"Toughness":1225,"Vitality":1533,"Ferocity":1330,"Condition Damage":911,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.15,"Critical Chance":1,"Critical Damage":2.3866666666666667,"Power Coefficient":4080,"Power2 Coefficient":0,"Burning Coefficient":2.82,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Siphon Base Coefficient":139.75,"Effective Power":26389.78415882226,"NonCrit Effective Power":11057.172133584747,"Power DPS":41459.49917905076,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":110.19874999999999,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":391.29468750000007,"Burning Stacks":2.82,"Burning DPS":1103.4510187500002,"Confusion Damage":118.13231250000001,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":126.72999999999999,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":163.57312499999998,"Torment Stacks":0,"Torment DPS":0,"Damage":42702.70019780076,"Effective Health":80691582.08955225,"Survivability":41022.66501756597,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Berserker","helmRuneId":24785,"helmRune":"Golemancer","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24785,"shouldersRune":"Golemancer","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24785,"coatRune":"Golemancer","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24785,"glovesRune":"Golemancer","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24785,"leggingsRune":"Golemancer","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24785,"bootsRune":"Golemancer","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30689,"weapon1MainType":"Greatsword","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37132,"weapon1MainInfusion2Id":37132,"weapon1MainSigil2Id":24868,"weapon2MainId":30691,"weapon2MainType":"Spear","weapon2MainSigil1Id":24615,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37132,"weapon2MainInfusion2Id":37132,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37132,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":37132,"ring1Infusion2Id":37132,"ring1Infusion3Id":37132,"ring2Affix":"Assassin","ring2Infusion1Id":37132,"ring2Infusion2Id":37132,"ring2Infusion3Id":37132,"accessory1Affix":"Assassin","accessory1InfusionId":37132,"accessory2Affix":"Assassin","accessory2InfusionId":37132},"consumables":{"foodId":91805,"utilityId":77569,"relicId":100090},"skills":{"healId":21664,"utility1Id":30364,"utility2Id":9168,"utility3Id":9093,"eliteId":30273},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[574,565,1683],[634,653,2017],[1898,1835,1955]],"lines":[16,42,27]}}'>
 
 This build relies on almost permanent <Boon name="Aegis"/> uptime to perform well. If you cannot maintain this consider playing Radiance.
 
@@ -103,18 +103,23 @@ If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** t
 
 | Skill                                           | Damage     |
 | ----------------------------------------------- | ---------- |
+| <Skill id="73132"/>                             | 150 damage |
+| <Skill id="30628"/> (Hunters Mark effect)       | 200 damage |
 | <Skill id="29630"/>                             | 150 damage |
 | <Skill id="9093"/>                              | 300 damage |
 | <Skill id="9226"/> (after <Skill id="9147"/>)   | 150 damage |
 | <Skill id="33134"/> (after <Skill id="29887"/>) | 150 damage |
 | <Skill id="30273"/>                             | 150 damage |
-| <Skill name="chainsoflight"/>                   | 250 damage |
 | <Skill name="hammerofwisdom"/>                  | 200 damage |
-| <Skill name="sanctuary"/>                       | 750 damage |
 
 </GridItem>
 
 <GridItem sm="5">
+### Weapon Variations
+<Specialization name="Dragonhunter"/> has a choice between using Spear or Longbow in fights, with each having benefits and drawbacks in certain situations.
+- **Spear** - Offers a high burst and is typically your standard choice for most fractal encounters. Its downside is less CC than Longbow and also requires you to be permenantly melee disctance from bosses.
+- **Longbow** - Offers ranged abilities with more CC. Over a long phase it will deal more damage than spear.
+
 ### Situational Skills
 
 <Beginner>
@@ -148,6 +153,7 @@ You should drop <Skill name="Swordofjustice"/> first.
 | <Skill name="Purging flames" size="big" disableText/>  | Cleanses conditions.                                                                                                                |
 | <Skill name="Sanctuary" size="big" disableText/>       | Huge CC and projectile destruction.                                                                                                 |
 | <Skill name="testoffaith" size="big" disableText/>     | Can be precasted for a bit of extra damage.                                                                                         |
+| <Skill name="purification" size="big" disableText/>     | Can be used to proc <Item name="Relic of the Dragonhunter"/> when <Skill name="Procession of Blades"/> cannot be used.       |
 
 </Advanced>
 
@@ -169,7 +175,7 @@ It may require some attention to maintain permanent <Boon name="Resolution" /> s
   - <Skill name="mantraofliberation" />
   - <Skill name="standyourground" />
   - <Skill name="hallowedground" />
-- <Specialization name="Guardian" text="Guardians"/> with <Skill name="symbolofresolution" /> (usually on <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
+- <Specialization name="Guardian" text="Guardians"/> with <Skill name="symbolofresolution" /> and <Skill id="72940"/> (usually on <Specialization name="Dragonhunter" /> or <Specialization name="Willbender" /> )
 
 - <Specialization name="Renegade" text="Renegades"/> with <Trait name="spiritboon" />
 
@@ -186,7 +192,27 @@ For that reason, you will find some general notes for skill usage here.
 <GridItem xs="12" sm="7">
 
 <Advanced>
-### Standard Opener
+<Tabs>
+<Tab title="Spear Opener">
+**Rotation:**
+
+1.  <Skill name="Sword of Justice" profession="guardian"/>
+2.  <Skill name="Procession of Blades " profession="guardian"/>
+3.  <Skill name="spearofjustice" profession="guardian"/>
+4.  <Skill id="73132" profession="guardian"/>
+5.  <Skill id="72940" profession="guardian"/>
+6.  <Skill id="72978" profession="guardian"/>
+7.  <Skill id="73094" profession="guardian"/>
+7.  **Weapon Swap**
+8.  <Skill name="Symbol of Resolution" profession="guardian"/>
+9.  <Skill name="Whirling Wrath" profession="guardian"/>
+10. <Skill name="leapoffaith" />
+11. <Skill name="bindingblade" />
+
+Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
+
+</Tab>
+<Tab title="Longbow Opener">
 
 **Rotation:**
 
@@ -204,14 +230,16 @@ For that reason, you will find some general notes for skill usage here.
 
 Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
 
-<Card title="Notes on skill usage:">
+</Tab>
+</Tabs>
+
+### Notes on skill usage:
 
 - Cast <Skill name="whirlingwrath"/> inside the boss' hitbox so the additional projectiles hit.
-- Cancel your <Skill name="symbolofresolution" /> and <Skill name="bindingblade" /> aftercasts to save time.
 - Cast <Skill name="bindingblade"/> inside the boss' hitbox to multi-hit when adds are present. This is most common at **Siax** and **Ensolyss**, but also occurs at **Artsariiv**, **Arkk**, and **MAMA**.
 - If running <Trait name="biggamehunter" /> and precasting traps, symbols, or <Skill name="firestorm"/>, open with <Skill name="spearofjustice"/> as soon as the boss is vulnerable.
-
-</Card>
+- On encounters with low gravity like Artsariiv and Arkk, do not use <Skill name="bindingblade" />.
+- When casting <Skill id="72940"/> hover over your UI (Skill Bar/Inventory/Hero Panel) to cast the skill in place for more damage.
 
 </Advanced>
 
@@ -298,7 +326,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 5.  Take the Mistlock Singularity
 6.  Blast a fire field with <Skill name="Holy Strike"/> again
 
-- Add <Skill name="shieldofcourage" /> if the team would benefit from precasted <Boon name="Aegis" />. Be wary of <Instability name="Vengeance"/> converting this to <Condition name="Weakness" />!
+- Add <Skill name="shieldofcourage" /> if the team would benefit from precasted <Boon name="Aegis" />.
 
 </Advanced>
 
@@ -323,13 +351,6 @@ For now, try to:
 </Card>
 
 </Beginner>
-
-### Golem Rotation
-
-This video shows the full rotation on the golem. It will vary from the step-by-step version as it is optimized for sustained DPS and not Fractals.
-
-<Video youtube="" caption=""/>
-
 </GridItem>
 
 </Grid>
