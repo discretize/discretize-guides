@@ -14,7 +14,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-01-27T19:22:14.739Z "
+date: "2025-02-15T18:11:14.624Z "
 cmguide: static
 conditions:
   - name: Vulnerability
@@ -103,7 +103,7 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
   - If you need some extra CC, swap Hammer 5 to <Skill id="63330"/>. This is particularly useful on Artsarriv and MAMA.
   - If you do not need the CC or <Trait name="Twice as Vicious"/> proc, swap Hammer 3 to <Skill id="63197"/>. It also strips 2 boons.
 
-- **Spear** is an alternative with strong damage and access to <Condition name="Vulnerability"/> through <Skill id="73110"/> & <Skill id="73030"/>. requires making good use of <Effect name="Stealth"/> for its *Stealth Attack* skills.
+- **Spear** is an alternative with strong damage and access to <Condition name="Vulnerability"/> through <Skill id="73030"/>. It struggles with CC and <Item name="Relic of Fireworks"/> due to locking it behind spending your <Effect name="Stealth"/> on lower damage skills.
 - **Longbow** is taken on encounters where phase timings allow you to precast <Skill name="Barrage"/> into the phase and there is enough time to swap back to your Longbow and reset your burst outside of active phases. If you find yourself stuck on Longbow at points in a fight where you need damage, there is probably a better option.
 - **Mace/Mace** is a less bursty alternative to Hammer. It requires making good use of the cooldown reset and medium damage buff granted by *Force of Nature*. This can make it difficult to be flexible and adapt to situations when playing Maces.
 - **Greatsword** is an alternative to Hammer for players who do not have access to [Secrets of the Obscure](https://wiki.guildwars2.com/wiki/Guild_Wars_2:_Secrets_of_the_Obscure) or want access to an evade with <Skill name="Swoop"/> and a block with <Skill name="Counterattack"/>. It requires pairing the extra *Attack of Opportunity* damage after <Skill id="12525"/> with strong single hit skills.
@@ -116,11 +116,12 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 *Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using.*
 
 #### Additional Gear Options
-- <Item id="103574"/> as an alternative to <Item name="Relic of Fireworks"/> in heavy CC fights.
+- <Item id="103574"/> as an alternative to <Item name="Relic of Fireworks"/> in CC-heavy fights.
 - <Item name="Relic of the Dragonhunter"/> for fights where you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
-- Warhorn for <Boon name="Might"/> pre-stacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil.
+- Warhorn for <Boon name="Might"/> prestacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil. Pair it with a Torch for placing your own [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field).
 - Weapons with specific slaying sigils like <Item name="Serpent Slaying" type="Sigil"/> and/or <Item name="Night" type="Sigil" />. See the [Cheat Sheet](/guides/cheat-sheet) and [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast).
 - Weapons with <Item name="Severance" type="Sigil"/> for certain encounters in fast groups (e.g. Artsariiv). Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast) for more information.
+- For optional precasts: <Item name="Relic of the Brawler"/>, <Item name="Relic of the Weaver"/>, <Item id="103872"/>.
 
 ### Situational Skills
 | | |
@@ -160,12 +161,16 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 | Skill | Efficiency |
 | --- | ---: |
 | <Skill name="One Wolf Pack"/> | &ge; 290% |
+| <Skill id="73030"/> (Spear 2 with stealth) | 212% |
 | <Skill name="Frost Trap"/> | &ge; 203% |
 | <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4) | &ge; 200% |
 | <Skill name="Path of Scars"/> (Axe 4) | 193% |
 | <Skill name="Unleashed Wild Swing"/> (Hammer 2) | &ge; 156% |
+| <Skill id="73020"/> (Spear 4 below 50%) | 159% |
 | <Skill id="41406"/> (Pig F1) | 153% |
 | <Skill name="Splitblade"/> (Axe 2) | 147% |
+| <Skill id="73020"/> (Spear 4 above 50%) | 133% |
+| <Skill id="72928"/> (Spear 3) | 130% |
 | <Skill name="Winters Bite"/> (Axe 3) | 122% |
 | <Skill name="Barrage"/> (Longbow 5) | &ge; 118% |
 | <Skill name="Worldly Impact"/> (F3) | 108% |
@@ -229,9 +234,9 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 
 <Divider text="Rotation / Skill Usage"/>
 <Warning>
-
 Golem rotations from Raids are generally suboptimal in Fractals due to being optimized for sustained DPS. In Fractals players need to adapt their rotation to the amount of time a group needs to finish a phase or specific burst windows like <Effect name="Exposed"/>.
 </Warning>
+
 <Grid>
 <GridItem sm="6">
 
@@ -240,7 +245,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 1.  <Skill name="Frost Trap"/>
 2.  <Skill id="46432"/> (Pig F2)
 3.  <Skill id="63131"/> (Hammer 4)
-4.  <Skill name="Sicem"/> during the cast of <Skill id="63131"/> (Hammer 4)
+4.  <Skill name="Sicem"/> during the cast of <Skill id="63131"/>
 5.  <Skill id="63335"/> (Hammer 2)
 8. _Weapon Swap_  
 7.  _Continue with Weapon Set 2 burst_
@@ -267,6 +272,15 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 9.  _Weapon Swap_
 10.  _Continue with Weapon Set 2 burst_
 
+#### Spear Opener
+1. Precast <Skill id="73008"/> (Spear 5) or any other <Effect name="Stealth"/>
+2. <Skill id="73150"/> (Spear 4 with stealth)
+3. <Skill id="73008"/> (Spear 5)
+4. <Skill id="73030"/> (Spear 2 with stealth)
+5. <Skill id="72928"/> (Spear 3)
+6. _Weapon Swap_
+7. _Continue with Weapon Set 2 burst_
+
 #### Longbow Opener
 1.  <Skill name="Barrage"/> (Longbow 5)
 2.  <Skill name="Sicem"/> at the end of <Skill name="Barrage"/>
@@ -276,17 +290,18 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 9.  _Continue with Weapon Set 2 burst_
 
 ### Weapon Set 2 Bursts
-#### Axe Burst (long phase)
+#### Axe/Axe Burst (long phase)
 1. <Skill name="Path of Scars"/> (Axe 4)
 2. <Skill name="Winters Bite"/> (Axe 3)
-3. <Skill name="Whirling Defense"/> (Axe 5)
-4. <Skill name="Ricochet"/> (Axe 1) until <Skill name="Splitblade"/> available
-5. <Skill name="Splitblade"/> (Axe 2)
-6. <Skill name="Ricochet"/> (Axe 1)
-7. <Skill name="Worldly Impact"/> (F3)
-8. <Skill name="Winters Bite"/> (Axe 3)
+3. <Skill name="Splitblade"/> (Axe 2)
+4. <Skill name="Whirling Defense"/> (Axe 5)
+5. <Skill name="Ricochet"/> (Axe 1) until <Skill name="Splitblade"/> available
+6. <Skill name="Splitblade"/> (Axe 2)
+7. <Skill name="Ricochet"/> (Axe 1)
+8. <Skill name="Worldly Impact"/> (F3)
+9. <Skill name="Winters Bite"/> (Axe 3)
 
-#### Axe Burst (short phase)
+#### Axe/Axe Burst (short phase)
 1. <Skill name="Path of Scars"/> (Axe 4)
 2. <Skill name="Splitblade"/> (Axe 2)
 3. <Skill name="Winters Bite"/> (Axe 3)
@@ -294,22 +309,26 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 5. <Skill name="Whirling Defense"/> (Axe 5)
 6. <Skill name="Splitblade"/> (Axe 2)
 
-#### Sword Burst
+#### Sword/Axe Burst (long phase)
 1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Pounce"/> (Sword 2)
-3. <Skill name="Serpents Strike"/> (Sword 3)
-4. <Skill name="Worldly Impact"/> (F3)
+2. <Skill name="Serpents Strike"/> (Sword 3)
+3. <Skill name="Pounce"/> (Sword 2)
 5. <Skill name="Whirling Defense"/> (Axe 5)
-6. <Skill name="Pounce"/> (Sword 2)
+6. <Skill name="Slash"/> (Sword 1) until full chain complete
+4. <Skill name="Worldly Impact"/> (F3)
+7. <Skill name="Pounce"/> (Sword 2)
+8. <Skill name="Serpents Strike"/> (Sword 3)
 
 </GridItem>
 
 <GridItem sm="6">
-<Card title="Extra notes">
+<Card title="Rotation Notes">
 
-- When playing Pig, use <Skill id="41406"/> (F1) somewhere close to the weapon swap during your burst.
+- When playing Pig, use <Skill id="41406"/> (Pig F1) during the burst on your Axe set.
+- Use <Skill name="Path of Scars"/> (Axe 4) twice before swapping back to your other weapon set.
 - In your opener always try to interrupt or stow the follow-up of <Skill id="63075"/> (Hammer 3).
-- During long Axe bursts your 2nd <Skill name="Winters Bite"/> should be the last skill to hit before <Skill name="Sicem"/> ends.
+- During long Axe/Axe bursts your second <Skill name="Winters Bite"/> should still hit barely before <Skill name="Sicem"/> ends.
+- In very short phases you can skip <Skill id="63075"/> (Hammer 3) and burst without <Trait name="Twice as Vicious"/> until <Skill name="Path of Scars"/> as your frist skill on Axe set.
 
 </Card>
 <Card title="Precasting">
@@ -317,7 +336,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 If you have a _Mistlock Singularity_ present you can:
 
 1.  Preplace <Skill name="Frost Trap"/> if you can place traps before spawning the boss
-2.  <Skill name="Bonfire"/> if no fire field is present
+2.  <Skill name="Bonfire"/> if no [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field) is present
 3.  <Skill name="Moa Stance"/> when playing <Trait name="Leader of the Pack"/>
 4.  <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>
 5.  <Skill name="We Heal As One"/> to extend your boons
@@ -325,7 +344,7 @@ If you have a _Mistlock Singularity_ present you can:
 
 If you do not have _Mistlock Singularity_ present:
 
-1.  <Skill name="Bonfire"/> if no fire field is present
+1.  <Skill name="Bonfire"/> if no [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field) is present
 2.  <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>
 3.  <Skill name="We Heal As One"/> to extend your boons
 
@@ -349,7 +368,7 @@ For a DPS rotation the same rules apply as on land: try to fit lots of damage in
 
 Start on Harpoon Gun and use <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) to precast damage into <Skill name="Sic Em"/>.
 
-Use <Skill name="Tail Lash"/> (Devourer F1) to proc <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for every <Skill name="Sic Em"/> burst. <Skill name="Worldly Impact"/> (F3) is your only other source of <Item name="Relic of Fireworks"/> underwater. An alternative is to swap to <Item name="Relic of the Thief"/>, but do not forget to swap back later!
+Use <Skill name="Tail Lash"/> (Devourer F1) to proc <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for every <Skill name="Sic Em"/> burst. <Skill name="Worldly Impact"/> (F3) is your only other source of <Item name="Relic of Fireworks"/> underwater. An alternative is to swap to <Item id="103574"/> or <Item name="Relic of the Thief"/>.
 
 During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You can swap back to Harpoon gun at the start of split-phases to range adds as well as allow you to repeat your opening burst when the split-phase ends.
 
