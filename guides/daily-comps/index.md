@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2025-02-15T16:57:01.535Z "
+date: "2025-02-15T16:57:40.324Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -57,7 +57,7 @@ In this section you can find links to different parts of the site with informati
 These PoVs are from previous patches. Some strats, rotations, and in some cases builds have changed since however they are still good examples of organised fractal runs and can be adapted to the current patch.
 </Warning>
 
-<Card title="Example 97+98 PoVs + Logs">
+<Card title="Example 96+97CM PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Renegade">
@@ -121,7 +121,7 @@ All of these PoVs are using Longbow. In most cases Spear is a better option to p
 
 </Card>
 
-<Card title="Example 99+100CM PoVs + Logs">
+<Card title="Example 98+99CM PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Specter">
