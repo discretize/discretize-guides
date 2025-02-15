@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2024-04-21T10:47:01.222Z "
+date: "2025-02-15T15:46:26.907Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -23,8 +23,8 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Renegade" disableText/>                                                                                                                                              | <BuildLink build="Power Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 10 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control and damage mitigation. It applies a very high amount of <Condition name="vulnerability"/> and it remains unmatched for the success of a power composition in short phases. <br/>                                                                       |
 | <Specialization name="Scrapper" disableText/>                                                                                                                                              | <BuildLink build="Power Scrapper"  specialization="Scrapper"/> provides 100% <Boon name="Quickness"/> uptime, 10 stacks of <Boon name="Might"/> with your <Skill name="Blast Gyro"/> , utilities in terms of crowd control and reflects. It also provides <Skill name="Superspeed"/>, and brings some more <Condition name="vulnerability"/> which helps the renegade.<br/>                                                                                   |
-| <Specialization name="Soulbeast" disableText/>                                                                                                                                             | Two or Three <BuildLink build="Power Soulbeast"  specialization="Soulbeast"/> provide massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently unmatched by any other class on most bosses.                                                                                                                                                                         |
-| <Specialization name="Weaver" disableText/><Specialization name="Dragonhunter" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's high burst, faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/>, or the late fight damage from <BuildLink build="Power Weaver" specialization="Weaver"/>. Most builds will work well in this slot, providing they can cover the small amount of CC that is missing on the CC heavy encounters (MAMA and Artsariiv). |
+| <Specialization name="Soulbeast" disableText/>                                                                                                                                             | <BuildLink build="Power Soulbeast"  specialization="Soulbeast"/> provides massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently only matched by <Specialization name="Dragonhunter"/> on most bosses.                                                                                                                                                                         |
+| <Specialization name="Dragonhunter" disableText/> |  <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/> brings high burst, faster <Condition name="vulnerability"/> ramp up, and <Boon name="Aegis"/>. |
 
 </Card>
  
@@ -34,7 +34,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of condi alac. This class provides permanent <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
 | <Specialization name="Harbinger" disableText/>       | <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is currently the best <Boon name="Quickness"/> pick. It deals high damage with a fairly short ramp up and has access to large amount of CC, whilst also sharing some <Boon name="Might"/>, and applying <Condition name="Vulnerability"/>.                                                         |
-| <Specialization name="Harbinger" disableText/><Specialization name="Specter" disableText/><Specialization name="Holosmith" disableText/><Specialization name="Willbender" disableText/><Specialization name="Scrapper" disableText/>                                            | For the dps spots a range of builds can be effective depending on the encounter and team comp. Make sure to consider things like CC requirements, <Condition name="Vulnerability"/> uptime, and team support when selecting a build.  A special mention goes to <BuildLink build="Power Scrapper" specialization="Scrapper"/> which is played on Dark Ai (Sunqua Peak CM), where it can reflect the Focused Wrath attack for huge damage, which lets  high DPS groups consistently skip the circles mechanic in P1. |
+| <Specialization name="Harbinger" disableText/><Specialization name="Scrapper" disableText/><Specialization name="Virtuoso" disableText/>                                            | For the dps spots <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is stacked on Silent Surf CM, due to its ability to keep attacking at range during the numbers mechanic, its self-sustain, CC, and ability to transfer conditions from boss attacks for even more damage. It is also very strong on Sunqua Peak and played in conjuction with a power class like <BuildLink build="Power Scrapper" specialization="Scrapper"/> and <BuildLink build="Power Virtuoso" specialization="Virtuoso"/>. These are played on Dark Ai (Sunqua Peak CM), where they can reflect the Focused Wrath attack for huge damage, which lets high DPS groups consistently skip the circles mechanic in P1. |
 
 </Card>
 
@@ -133,15 +133,6 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai      | [Link](https://youtu.be/kMfMWhly_gc?si=ujela9DK7SJPxl2j) | [DPS.Report](https://dps.report/TqLR-20240118-191001_ai) | Agt Endrn (Quickness) |
 | Dark Ai      | [Link](https://youtu.be/7bEhRqtyO54?si=MVcVrMZVPT2n_ooW) | [DPS.Report](https://dps.report/2OI7-20240310-205514_ai) | Agt Endrn (DPS)  |
-
-</Tab>
-<Tab specialization="Holosmith">
-
-| Boss         | PoV                                  | Log                                                      | Player |
-| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
-| Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/bAYiZXz2oHA?si=L3_3hMJobmagvroe) | [DPS.Report](https://dps.report/mf8g-20240203-203815_ai) | Shavy    |
-| Kanaxai |                                      |                                                          |        |
 
 </Tab>
 </Tabs>
