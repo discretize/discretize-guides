@@ -14,7 +14,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-15T18:11:14.624Z "
+date: "2025-02-15T22:27:42.716Z "
 cmguide: static
 conditions:
   - name: Vulnerability
@@ -86,8 +86,8 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 | <Skill id="45743" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) provides substantial CC on a low cooldown  with <Skill id="45743"/> as well as a little <Condition name="Vulnerability"/> from <Skill id="41524"/>. |
 | <Skill id="71499" size="big" disableText/> | [Sky-Chak Striker](https://wiki.guildwars2.com/wiki/Juvenile_Sky-Chak_Striker) is an option focused on high <Condition name="Vulnerability"/> from <Skill id="71499"/>. Its skills can be used at range. |
 | <Skill id="12658" size="big" disableText/> | Unmerged [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) can share a decent amount of <Boon name="Might"/> stacks with <Skill id="12658"/>, which is useful for a quick rampup after a long split phase. |
-| <Skill id="41575" size="big" disableText/> | Any  [Drake](https://wiki.guildwars2.com/wiki/Drake#Pets) gives access to an additional [blast finisher](https://wiki.guildwars2.com/wiki/Blast_finisher) with <Skill id="41575"/>. |
-| <Skill id="31568" size="big" disableText/> | Unmerged [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) gives access to a [smoke field](https://wiki.guildwars2.com/wiki/Smoke_field) with <Skill id="31568"/> to stack <Effect name="Stealth"/>. |
+| <Skill id="41575" size="big" disableText/> | Any  [Drake](https://wiki.guildwars2.com/wiki/Drake#Pets) gives access to an additional [Blast Finisher](https://wiki.guildwars2.com/wiki/Blast_finisher) with <Skill id="41575"/>. |
+| <Skill id="31568" size="big" disableText/> | Unmerged [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) gives access to a [Smoke Field](https://wiki.guildwars2.com/wiki/Smoke_field) with <Skill id="31568"/> to stack <Effect name="Stealth"/>. |
 | <Skill id="12681" size="big" disableText/> | Unmerged [Jaguar](https://wiki.guildwars2.com/wiki/Juvenile_Jaguar) gives access to short personal <Effect name="Stealth"/> with <Skill id="12681"/>. |
 | <Skill id="43726" size="big" disableText/> | [Hyena](https://wiki.guildwars2.com/wiki/Juvenile_Hyena) provides high mobility with <Skill id="43726"/> and <Skill id="42894"/>. |
 
@@ -116,12 +116,12 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 *Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using.*
 
 #### Additional Gear Options
-- <Item id="103574"/> as an alternative to <Item name="Relic of Fireworks"/> in CC-heavy fights.
-- <Item name="Relic of the Dragonhunter"/> for fights where you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
+- <Item id="103574"/> as an alternative to <Item name="Relic of Fireworks"/> for fights where you CC frequently (e.g. MAMA or Arkk). Synergizes well with <Skill name="Storm Spirit"/>.
+- <Item name="Relic of the Dragonhunter"/> for fights where phases are short and you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
 - Warhorn for <Boon name="Might"/> prestacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil. Pair it with a Torch for placing your own [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field).
 - Weapons with specific slaying sigils like <Item name="Serpent Slaying" type="Sigil"/> and/or <Item name="Night" type="Sigil" />. See the [Cheat Sheet](/guides/cheat-sheet) and [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast).
 - Weapons with <Item name="Severance" type="Sigil"/> for certain encounters in fast groups (e.g. Artsariiv). Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast) for more information.
-- For optional precasts: <Item name="Relic of the Brawler"/>, <Item name="Relic of the Weaver"/>, <Item id="103872"/>.
+- <Item name="Relic of the Brawler"/>, <Item name="Relic of the Weaver"/>, and <Item id="103872"/> for optional precasts in fast groups.
 
 ### Situational Skills
 | | |
@@ -327,8 +327,8 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 - When playing Pig, use <Skill id="41406"/> (Pig F1) during the burst on your Axe set.
 - Use <Skill name="Path of Scars"/> (Axe 4) twice before swapping back to your other weapon set.
 - In your opener always try to interrupt or stow the follow-up of <Skill id="63075"/> (Hammer 3).
-- During long Axe/Axe bursts your second <Skill name="Winters Bite"/> should still hit barely before <Skill name="Sicem"/> ends.
-- In very short phases you can skip <Skill id="63075"/> (Hammer 3) and burst without <Trait name="Twice as Vicious"/> until <Skill name="Path of Scars"/> as your frist skill on Axe set.
+- During long Axe/Axe bursts your 2nd <Skill name="Winters Bite"/> should still hit barely before <Skill name="Sicem"/> ends.
+- In very short phases you can skip <Skill id="63075"/> (Hammer 3) and burst without <Trait name="Twice as Vicious"/> until <Skill name="Path of Scars"/> as your first skill on Axe set.
 
 </Card>
 <Card title="Precasting">
@@ -366,11 +366,9 @@ Your other train lines remain the same as on land. The reason for swapping trait
 ### Underwater Rotation
 For a DPS rotation the same rules apply as on land: try to fit lots of damage into <Skill name="Sic Em"/> and try to line up your burst with your modifiers and <Effect name="Exposed"/> if possible.
 
-Start on Harpoon Gun and use <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) to precast damage into <Skill name="Sic Em"/>.
+Use <Skill name="Tail Lash"/> (Devourer F1) to proc <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for every <Skill name="Sic Em"/> burst. <Skill name="Worldly Impact"/> (F3) is your only other source of <Item name="Relic of Fireworks"/> underwater. An alternative is to play <Item id="103574"/> with <Skill name="Storm Spirit"/> or simply swap to <Item name="Relic of the Thief"/> - but do not forget to swap back when on land!
 
-Use <Skill name="Tail Lash"/> (Devourer F1) to proc <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for every <Skill name="Sic Em"/> burst. <Skill name="Worldly Impact"/> (F3) is your only other source of <Item name="Relic of Fireworks"/> underwater. An alternative is to swap to <Item id="103574"/> or <Item name="Relic of the Thief"/>.
-
-During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You can swap back to Harpoon gun at the start of split-phases to range adds as well as allow you to repeat your opening burst when the split-phase ends.
+Harpoon Gun is primarily used for precasting <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) into your <Skill name="Sic Em"/> burst. During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You can swap back to Harpoon gun at the start of split-phases to range adds as well as allow you to repeat your opening burst when the split-phase ends.
 
 #### Bonus Tips
 - If you know a blockable attack is coming use <Skill name="Counterstrike"/> (Spear 4) for damage and an additional <Trait name="Twice as Vicious"/> proc.
@@ -381,7 +379,7 @@ During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skil
 
 <GridItem sm="5">
 ### Weapons
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24658" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24658" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Harpoon" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24658" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Speargun" weapon2MainAffix="Berserker" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24658" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
 ### Skills
 <Skills healId="44948" utility1Id="12633" utility2Id="12492" utility3Id="12491" eliteId="45717"/>
 If you need to swap a skill, the same applies as on land: swap <Skill name="Signet of the Wild"/> first then <Skill name="Frost Trap"/>.
