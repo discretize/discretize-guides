@@ -10,7 +10,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2024-06-22T08:19:24.396Z "
+date: "2025-02-15T13:19:05.000Z "
 cmguide: static
 title: Power Soulbeast
 rating: Meta
@@ -112,9 +112,11 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 
 #### Additional Gear Options
 - <Item name="Relic of the Dragonhunter"/> for fights where you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
+- <Item id="103574"/> as an alternative relic, that is very stong on fights such as MAMA and Arkk, where you are CCing often. Also an option when playing <Skill name="Storm Spirit"/>.
 - Warhorn for <Boon name="Might"/> pre-stacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil.
 - Weapons with specific slaying sigils like <Item name="Serpent Slaying" type="Sigil"/> and/or <Item name="Night" type="Sigil" />. See the [Cheat Sheet](/guides/cheat-sheet) and [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast).
 - Weapons with <Item name="Severance" type="Sigil"/> for certain encounters in fast groups (e.g. Artsariiv). Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast) for more information.
+- <Item id="100527"/>, <Item id="103872"/>, and <Item id="100194"/>. Optional relics for precasting in speedrun groups before fights.
 
 ### Situational Skills
 | | |
