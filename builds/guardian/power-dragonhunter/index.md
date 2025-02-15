@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-02-15T15:24:45.339Z "
+date: "2025-02-15T15:30:53.533Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -115,6 +115,11 @@ If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** t
 </GridItem>
 
 <GridItem sm="5">
+### Weapon Variations
+<Specialization name="Dragonhunter"/> has a choice between using Spear or Longbow in fights, with each having benefits and drawbacks in certain situations.
+- **Spear** - Offers a high burst and is typically your standard choice for most fractal encounters. Its downside is less CC than Longbow and also requires you to be permenantly melee disctance from bosses.
+- **Longbow** - Offers ranged abilities with more CC. Over a long phase it will deal more damage than spear.
+
 ### Situational Skills
 
 <Beginner>
