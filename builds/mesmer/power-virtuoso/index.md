@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-13T22:39:30.551Z "
+date: "2025-02-15T17:36:17.948Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -312,7 +312,7 @@ Once you are comfortable with the general steps above, you are already doing mos
 
 There will be a few additional fight and group specific things to improve further, but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far. 
 
-Videos are the best resource to understand how a boss can be played. However, Virtuoso is currently specalization used in the main Slb/Dh + Scrapper and Ren composition, potentially limited PoVs exists.  
+Videos are the best resource in order to understand how a boss can be played. However, <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently not a specalization used in the main Slb/Dh + Scrapper and Renegade daily composition played by dT. Hence, potentially limited PoVs exist.  
 
 In any case, check out the [dT discord](https://discord.com/invite/tgbxThQv) if you have further questions.
 </Card>
