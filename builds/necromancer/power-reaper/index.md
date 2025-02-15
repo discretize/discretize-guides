@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: true
+archive: false
 hasBeginner: false
 author: ""
 specialization: Reaper
@@ -11,7 +11,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2024-04-19T15:20:55.215Z "
+date: "2025-02-15T12:53:35.199Z "
 title: Power Reaper
 role: Power Damage
 profession: Necromancer
