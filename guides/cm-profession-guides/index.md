@@ -30,8 +30,7 @@ These guides also apply to a certain degree in PuGs
 
 | Build                                                                 | Type   | Link                                                   |
 | --------------------------------------------------------------------- | ------ | ------------------------------------------------------ |
-| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/engineer/power-scrapper/static)     |
-| <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static) |
+
 
 <Divider />
 
@@ -48,13 +47,14 @@ This guides are meant to be applied to slower groups (what you commonly find in 
 ## Outdated Guides
 
 <Warning>
-These guides have not been updated for multiple patches. The information you find here might be outdated, irrelevant or reffering to build variations that are no longer used. However plenty of the information here is usable or can be adapted to current patch, making them worth keeping.
-</Warning>
+These guides have not been updated for multiple patches. The information you find here might be outdated, irrelevant or reffering to build variations that are no longer used. However plenty of the information here is usable or can be adapted to current patch.
 
 | Build                                                           | Type   | Link                                                 |
 | --------------------------------------------------------------- | ------ | ---------------------------------------------------- |
 | <BuildLink build="Power Renegade" specialization="Renegade"/>         | Static | [guide](/cm-guides/revenant/power-renegade/static)     |
 | <BuildLink build="Power Soulbeast" specialization="Soulbeast"/>       | Static | [guide](/cm-guides/ranger/power-soulbeast/static)      |
+| <BuildLink build="Power Scrapper" specialization="Scrapper"/>         | Static | [guide](/cm-guides/engineer/power-scrapper/static)     |
+| <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/> | Static | [guide](/cm-guides/guardian/power-dragonhunter/static) |
 | <BuildLink build="Power Firebrand" specialization="Firebrand"/> | Static | [guide](/cm-guides/guardian/power-firebrand/static)  |
 | <BuildLink build="Power Berserker" specialization="Berserker"/> | Static | [guide](/cm-guides/warrior/power-berserker/static)   |
 | <BuildLink build="Power Weaver" specialization="Weaver"/>       | Static | [guide](/cm-guides/elementalist/power-weaver/static) |
