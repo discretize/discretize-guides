@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-16T23:36:28.788Z "
+date: "2025-02-16T23:55:41.926Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -299,7 +299,16 @@ At the boss (pre spawned bosses)
 ### Example Opener
 
 - Start on Dagger/Sword
-1. Precast <Skill name="Unstable Bladestorm"/> and <Skill name="Bladecall"/>
+1. Precast <Skill name="Unstable Bladestorm"/> and <Skill name="Rain of Swords"/>
+2. <Skill name="Phantasmal Swordsman"/> and <Skill id="10267"/> as soon as boss is targetable
+3. <Skill name="Bladesong Dissonance"/> for CC, or <Skill name="Bladeturn Requiem"/> to proc <Item id="100947"/>
+4. <Skill name="Bladecall"/> (if the boss isnt targetable instantly use this while waiting to cast Phantasms)
+5. _WeaponSwap_
+6. <Skill id="73093"/>
+7. <Skill id="72946"/>
+8. <Skill id="72957"/>
+9. <Skill id="73093"/>
+10. <Skill name="Bladesong Harmony"/>
 
 ### Dark AI Reflect PoV 
 <Video caption="by Mr Ghostly.4208." youtube="qcEN1W_Re4c"/>
