@@ -47,13 +47,13 @@ classification:
   - 3
   - 3
   - 3
-date: "2025-02-15T12:46:30.948Z "
+date: "2025-02-16T23:58:41.822Z "
 role: Support
 cmGuide: ""
 ---
-<Warning>  
+<Warning>
  
-This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
+This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities.   
    
 </Warning>         
 
@@ -61,7 +61,7 @@ The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
 
-The main difference in playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> in Fractals compared to Raids, is the use of <Skill name="Signet of Inspiration"/> with <Trait name="Blurred Inscriptions"/>. This is due to Fractals having a lot less constant damage pressure and instead players benefitting damage mitigation over healing output. Additionally, especially in T4 fractals, a lot of mobs tend to die very quickly making it hard to keep generating multiple clones in places, in quick succession. By bringing boon extension, you make maintaining <Boon name="Quickness"/> or <Boon name="Alacrity"/> much easier and keep your party happy and the run smooth.
+The main difference in playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> in Fractals compared to Raids, is the use of <Skill name="Signet of Inspiration"/> with <Trait name="Blurred Inscriptions"/>. This is due to Fractals having less constant damage pressure and instead players benefitting from damage mitigation over healing output. Additionally, especially in T4 fractals, a lot of trash mobs tend to die very quickly making it hard to keep generating multiple clones in a lot of encounters. By bringing boon extension, you make maintaining <Boon name="Quickness"/> or <Boon name="Alacrity"/> much easier and keep your party happy and the run smooth.
 
 <Divider text="Equipment"/>   
 
