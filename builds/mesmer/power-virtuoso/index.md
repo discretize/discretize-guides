@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-16T23:25:19.067Z "
+date: "2025-02-16T23:36:28.788Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -227,10 +227,6 @@ They do however benefit from <Effect name="Exposed"/>.
 <Grid>
 <GridItem xs="12" sm="7">
 
-
-
-
-
 ### Skill Priority
 
 To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt on the fly as Phantasms do not deal damage instantly, dealying your burst compared to other builds. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
@@ -298,9 +294,13 @@ At the boss (pre spawned bosses)
 
 - You can also precast <Skill name="Phantasmal Warlock"/>.
 
-
 </Card>
- 
+
+### Example Opener
+
+- Start on Dagger/Sword
+1. Precast <Skill name="Unstable Bladestorm"/> and <Skill name="Bladecall"/>
+
 ### Dark AI Reflect PoV 
 <Video caption="by Mr Ghostly.4208." youtube="qcEN1W_Re4c"/>
 [Example Log](https://dps.report/fhkr-20241013-180933_ai)
