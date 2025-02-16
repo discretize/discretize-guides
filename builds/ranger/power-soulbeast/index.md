@@ -14,7 +14,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-15T22:27:42.716Z "
+date: "2025-02-16T16:43:49.614Z "
 cmguide: static
 conditions:
   - name: Vulnerability
@@ -324,11 +324,13 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <GridItem sm="6">
 <Card title="Rotation Notes">
 
+- Standard <Skill name="One Wolf Pack"/> usage is right before your opening burst. Alternatively, the cooldown can be held to speed up a phase where your group is lacking damage (e.g. Arkk Phase 3).
 - When playing Pig, use <Skill id="41406"/> (Pig F1) during the burst on your Axe set.
-- Use <Skill name="Path of Scars"/> (Axe 4) twice before swapping back to your other weapon set.
+- Swap back to your other weapon set once you have casted <Skill name="Path of Scars"/> (Axe 4) twice.
 - In your opener always try to interrupt or stow the follow-up of <Skill id="63075"/> (Hammer 3).
-- During long Axe/Axe bursts your 2nd <Skill name="Winters Bite"/> should still hit barely before <Skill name="Sicem"/> ends.
-- In very short phases you can skip <Skill id="63075"/> (Hammer 3) and burst without <Trait name="Twice as Vicious"/> until <Skill name="Path of Scars"/> as your first skill on Axe set.
+- During long Axe/Axe bursts your 2nd <Skill name="Winters Bite"/> (Axe 3) should still hit barely before <Skill name="Sicem"/> ends.
+- In very short phases you can skip <Skill id="63075"/> (Hammer 3) and burst without <Trait name="Twice as Vicious"/> until it is gained from <Skill name="Path of Scars"/> (Axe 4) as your first skill on Axe set.
+- <Item id="103574"/> allows for different openers due to not having to proc <Item name="Relic of Fireworks"/>.
 
 </Card>
 <Card title="Precasting">
