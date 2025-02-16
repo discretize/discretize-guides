@@ -14,7 +14,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-16T16:43:49.614Z "
+date: "2025-02-16T16:50:36.528Z "
 cmguide: static
 conditions:
   - name: Vulnerability
@@ -118,7 +118,7 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 #### Additional Gear Options
 - <Item id="103574"/> as an alternative to <Item name="Relic of Fireworks"/> for fights where you CC frequently (e.g. MAMA or Arkk). Synergizes well with <Skill name="Storm Spirit"/>.
 - <Item name="Relic of the Dragonhunter"/> for fights where phases are short and you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
-- Warhorn for <Boon name="Might"/> prestacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil. Pair it with a Torch for placing your own [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field).
+- Warhorn for <Boon name="Might"/> prestacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil. Can be paired it with a Torch for placing your own [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field).
 - Weapons with specific slaying sigils like <Item name="Serpent Slaying" type="Sigil"/> and/or <Item name="Night" type="Sigil" />. See the [Cheat Sheet](/guides/cheat-sheet) and [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast).
 - Weapons with <Item name="Severance" type="Sigil"/> for certain encounters in fast groups (e.g. Artsariiv). Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast) for more information.
 - <Item name="Relic of the Brawler"/>, <Item name="Relic of the Weaver"/>, and <Item id="103872"/> for optional precasts in fast groups.
