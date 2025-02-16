@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-13T22:39:30.551Z "
+date: "2025-02-16T01:03:18.562Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,6 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-     
 <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
@@ -257,19 +256,21 @@ Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not us
 
 Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
 
-
-### Dark AI Example 
+### Dark AI Reflect
 Dark AI is <Specialization text="Power Virtuoso's" name="Virtuoso"/> best boss as <Skill name="Feedback"/>
-can be used to reflect her laser beams. Furthermore, if phased to 66% or 33% during her dash animation, the boss will use additional 'bugged' laser beams which - if reflected - will boost your damage beyond 100k for a phase. As inside the fractal there is nighttime, <Item id="36053"/> works and will additionally boost your damage. Use <Skill name="Mimic"/> at the Mistlock Singularity to reset your first <Skill name="Feedback"/> cast at the start of the fight. The normal laser beams spawn in segments. A long dash contains 10 beams in a 4-2-4 sequence. With multiple reflect sources, one person wants to reflect at the start of the dash and another person at the end. A typical composition contains a <Specialization name="Scrapper"/> using <Skill id="30088"/> for reflects. Hence, mesmer players should reflect at the end of her dashes. For normal kill times, feedback should be up for each dash. In below 1 minute kills, one has to save feedback when gambling on the 33% reflect bug. With great dps, it is possible to phase the boss to 66% during the second dash, which will also result in additional beams. However, a bugged 33% reflect seems to contain even more beams than a bugged 66% reflect. Due to the boss movement and necessity to combine  <Skill name="Mimic"/> with <Skill name="Feedback"/> , <Skill name="Rain of Swords"/> is inferior on the fight and should be replaced rather than <Skill name="Mantra of Pain"/>. If you notice might drops, recharge the mantra. <Skill name="Phantasmal Defender"/> is also an option, especially with multiple mesmer players, as it triggers <Trait name="Superiority Complex"/>, which will increase your reflect damage early on if you plan on phasing her before she completes the second dash. Reflect damage uses your ferocity and modifiers, but your enemies' power. As far as the rotation is concerned, this fight is long enough to resemble a raid rotation. Make sure to help cc the adds if your groups is not prepared to skip them with sufficient dps and break the boss as late as possible. One add explosion can be tanked with <Effect name="Rigorous Certainty"/>. Support players should tank the tether at 33% in order to prevent damage reduction from <Effect name="Cacophonous Mind"/>, but it is better that you do it than noone. Due to its long fight duration, depending on the current balance, <Specialization text="Condition Mirage" name="Mirage"/> or potentially even <Specialization text="Power Mirage" name="Mirage"/> or <Specialization text="Power (Boon) Chronomancer" name="Chronomancer"/>  could work on the fight, as well. Power mirage has the highest reflect damage. Condition Mirage has the highest mobility and highest damage potential without using reflects.  
- 
-<Video caption="by Hmod" youtube="blZu9VKN6pI"/>
-[Example Log for Dark AI](https://dps.report/W7PI-20250211-140122_ai)
+can be used to reflect her Focused Wrath attack (laser beams). Furthermore, if phased to 66% or 33% during her dash animation, the boss will send out additional laser beams which - if reflected - lead to a massive damage icrease. 
+
+The Focused Wrath laser beams spawn in segments. A long dash contains 10 beams in a 4-2-4 sequence. With multiple reflect sources in the party, one person wants to reflect at the start of the dash and another person at the end. For example a composition containing a <Specialization name="Scrapper"/> using <Skill id="30088"/> for reflects should reflect the first beams, and a <Specialization name="Mesmer"/> player should use <Skill name="Feedback"/> at the end of her dashes. 
+
+For most kill times, <Skill name="Feedback"/> should be up for each dash, howeever in speedkills (sub 1 minuite), you will not have <Skill name="Feedback"/>, due to the boss movement and necessity to combine  <Skill name="Mimic"/> with <Skill name="Feedback"/>, available for every dash and need to gamble if you should save it for the potential extra reflects from phasing during a dash at 66% or 33%. 
+
+You should make some adjustments to your build before starting the encounter. Firstly Sunqua Peak Challenge Mode is a night time fractal, meaning <Item id="36053"/> works and should be taken over <Item id="24868"/>. <Skill name="Rain of Swords"/> should be replaced with <Skill name="Feedback"/>. 
+
+<Skill name="Phantasmal Defender"/> is also an optional utility skill that can be chosen, especially with multiple mesmer players, as it triggers <Trait name="Superiority Complex"/>, which will increase your reflect damage early on if you plan on phasing her before she completes the second dash. Reflect damage uses your ferocity and modifiers, but your enemies' power. To maximise your reflect damage you can use <Skill name="Mimic"/> at the Mistlock Singularity to reset your first <Skill name="Feedback"/> cast at the start of the fight.
+
+As far as the general rotation is concerned, this fight is long enough to resemble a raid rotation. Make sure to help cc the adds if your groups is not prepared to skip them with sufficient dps and break the boss as late as possible. One add explosion can be tanked with <Effect name="Rigorous Certainty"/>. Support players should take the tether at 33% in order to prevent damage reduction from <Effect name="Cacophonous Mind"/>, but if no-one is willing to take it, it is still a group DPS increase for you to grab it. that you do it than no-one. 
 
 </GridItem>
-
-
-
-
 <GridItem xs="12" sm="5">
 
 <Card title="Precasting">
@@ -302,24 +303,8 @@ At the boss (pre spawned bosses)
 ### Mesmer Skips 
 <Video caption="by feint" youtube="4ZqZbggL_0o"/>
 
-### More Dark AI Reflect Memes 
-<Video caption="by when is feint finally making a 96/97cm video that can go here" youtube="qcEN1W_Re4c"/>
-
-
-<Card title="Improving Further">
-The most important aspect is having the correct gear for each boss. It is free damage.
-Once you are comfortable with the general steps above, you are already doing most of the full rotation and will be able to deal great damage.
-
-There will be a few additional fight and group specific things to improve further, but if you got here, you already know the most important things and these will have a smaller impact than what you learned so far. 
-
-Videos are the best resource to understand how a boss can be played. However, Virtuoso is currently specalization used in the main Slb/Dh + Scrapper and Ren composition, potentially limited PoVs exists.  
-
-In any case, check out the [dT discord](https://discord.com/invite/tgbxThQv) if you have further questions.
-</Card>
-
-
-
-
-
+### Dark AI Reflect PoV 
+<Video caption="by Mr Ghostly.4208" youtube="qcEN1W_Re4c"/>
+[Example Log](https://dps.report/fhkr-20241013-180933_ai)
 </GridItem>
 </Grid>
