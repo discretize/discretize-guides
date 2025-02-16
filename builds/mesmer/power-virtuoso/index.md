@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-16T01:03:18.562Z "
+date: "2025-02-16T23:25:19.067Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -72,7 +72,7 @@ Note: This setup does not use stat infusions. Stat infusion setups can be found 
 
 
 ### Weapon Choices
-The default weapon setup is spear + dagger and sword. For more burst in very short phases, one can experiment with spear + gs in conjunction with <Trait name="Bountiful Blades"/> as it could sometimes be advantageous. If you do not own the necessary expansions or find it otherwise advantageous, greatsword + dagger and sword is the oldschool setup. Make sure to swap out impact sigil for better slaying sigils or night sigil where appropriate. In very fast kills with sufficient stun uptime, swapping out force sigil instead is beneficial.  
+The default weapon setup is Spear + Dagger / Sword. For more burst in very short phases, Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as can be advantageous. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup.
 
 <Grid>
 <GridItem sm="4">
@@ -135,7 +135,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 
 <GridItem sm="5">
 ### Extra Weapons and Food
-- Focus offers your group a very efficient pull with <Skill name="Into the Void"/>.
+- Focus offers your group a very efficient pull with <Skill name="Into the Void"/> in T4 fractals.
 - Greatsword can offer additional burst, but sacrifices the ability to precast dagger skills like <Skill name="Unstable Bladestorm"/> without using template swaps.
 - Sword offers an evade, mobility and additional boonstrip when used as mainhand weapon.
 - Always run Spear. 
@@ -233,8 +233,10 @@ They do however benefit from <Effect name="Exposed"/>.
 
 ### Skill Priority
 
-To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt on the fly as phantasms are slower than skills from other classes. There are no fixed opening rules for every single boss and group. Starting from the classic raid benchmark rotation, experiment what works best for your group. The guiding principle is to get as many skill casts as possible into each phase. In that regard, on many fights where the boss spawns invisible or delayed, you can get an advantage by precasting AoE skills which do not require a target such as 
-<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible. If you realize that your phantasms will not finish their attacks before the boss will phase, do not cast them anymore. 
+To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt on the fly as Phantasms do not deal damage instantly, dealying your burst compared to other builds. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
+
+The guiding principle is to get as many skill casts as possible into each phase, ideally casting your Phantasm skills as early as possible. In that regard, on many fights where the boss spawns invisible or delayed, you can get an advantage by precasting AoE skills which do not require a target such as 
+<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible. If the phase will end before your Phantasms can finish their attacks, skip casting them and prioritise casting skills that deal direct damage. 
 
 If you lose yourself in the rotation, follow this priority list:
 1.  Cast your phantasms whenever ready.
@@ -246,7 +248,7 @@ If you lose yourself in the rotation, follow this priority list:
 3.  Use <Skill name="Bladesong Harmony"/> with 5 Blades as much as possible. Only delay it for <Effect name="Exposed"/> but remember that it also grants you a 5% damage buff through <Trait name="Deadly Blades"/>.
 4.  Use <Skill name="Bladesong Sorrow"/> and <Skill id="62597"/> for damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to prioritize having 5 Blades for <Skill name="Bladesong Harmony"/> though. Situationally you can use this with 5 Blades such as in your burst rotation or when a phase is about to end and <Skill name="Bladesong Harmony"/> is on cooldown.
 5.  <Skill id="62553"/> deals damage over time so make sure to cast it at the start of phases. If a boss is close to phasing, save it for the start of the next phase.
-6.  Use <Skill id="62560"/>, <Skill id="62607"/>, <Skill id="10333"/> and <Skill id="10218"/> off recharge.
+6.  Use <Skill id="62560"/> and <Skill id="62607"/>, or <Skill id="10333"/> and <Skill id="10218"/> off cooldown (depending on your choice of weapons).
 
 - <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
@@ -281,7 +283,7 @@ At the Mistlock Singularity
 
 1. Blast fire fields with <Skill name="The Prestige"/>.
 2. Use <Skill name="Inspiring Imagery"/> (Careful its Ethereal Combo Field)
-3. Extend boons with <Skill name="Signet of Inspiration"/> if you have time.
+3. Extend your own boons with <Skill name="Signet of Inspiration"/> if you have time.
 4. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
 5. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
 
@@ -299,12 +301,41 @@ At the boss (pre spawned bosses)
 
 </Card>
  
+### Dark AI Reflect PoV 
+<Video caption="by Mr Ghostly.4208." youtube="qcEN1W_Re4c"/>
+[Example Log](https://dps.report/fhkr-20241013-180933_ai)
+</GridItem>
+</Grid>
 
-### Mesmer Skips 
+<Divider text="Skips"/>
+
+<Grid>
+<GridItem sm="7">
+
+#### Traits for Skips
+While we don't recommend leaving your party during boss fights (unless you are co-ordinating with the rest of your party), when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore sectrions of some fractals entirely, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
+- <Trait name="Temporal Enchanter"/> - This will let you provide <Effect name="Superspeed"/> to yourself and your party.
+- <Trait name="Prismatic Understanding"/> - This will increase the duration of <Effect name="Stealth"/> gained from skills such as <Skill name="Mass Invisibility"/> and <Skill name="Veil"/>.
+- Utilize Mirage for skips when moving across large distances or you need leaps! <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+
+<Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
+
+### Mesmer Skips Guide
 <Video caption="by feint" youtube="4ZqZbggL_0o"/>
 
-### Dark AI Reflect PoV 
-<Video caption="by Mr Ghostly.4208" youtube="qcEN1W_Re4c"/>
-[Example Log](https://dps.report/fhkr-20241013-180933_ai)
+</GridItem>
+<GridItem sm="5">
+
+### Skip Skills
+
+|                                                    |                                                                                                                                                                                            |
+|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Portal Entre" size="big" disableText/>         | For skipping sections of the fractal for your party.                                                                                                                                       |
+| <Skill name="Blink" size="big" disableText/>                | 1200 range blink, use it for skips!                                                                                                                                                        |
+| <Skill name="Mass Invisibility" size="big" disableText/>    | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
+| <Skill name="Mirage Thrust" size="big" disableText/>        | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
+| <Skill name="Jaunt" size="big" disableText/>                | 450 range blink, 3 charges.                                                                                                                                                                |
+| <Skill name="Illusionary Ambush" size="big" disableText/>   | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+
 </GridItem>
 </Grid>
