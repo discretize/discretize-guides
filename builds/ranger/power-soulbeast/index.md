@@ -1,7 +1,11 @@
 ---
+title: Power Soulbeast
 hidden: false
 archive: false
 hasBeginner: false
+rating: Meta
+role: Power Damage
+profession: Ranger
 specialization: Soulbeast
 code: "[&DQQeOSA+Nzp5AHkAAAAAAKUBpQG1ALUALhYAADsRFRsAAAAAAAAAAAAAAAA=]"
 classification:
@@ -10,12 +14,8 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-15T13:19:05.000Z "
+date: "2025-02-16T16:50:36.528Z "
 cmguide: static
-title: Power Soulbeast
-rating: Meta
-role: Power Damage
-profession: Ranger
 conditions:
   - name: Vulnerability
     uptime: 20 stacks
@@ -65,6 +65,7 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 | <Skill name="Overbearing Smash"/> (Hammer 3) | 100 <Control name="Daze"/> + follow-up 125 <Control name="Daze"/> |
 | <Skill id="63330"/> (Hammer 5) | 200 <Control name="Knockdown"/> |
 | <Skill name="Path of Scars"/> (Axe 4) | 150 <Control name="Pull"/> |
+| <Skill id="73150"/> (Spear 4 with stealth) | 300 <Control name="Daze"/> + [Leap Finisher](https://wiki.guildwars2.com/wiki/Leap_finisher) |
 | <Skill name="Point Blank Shot"/> (Longbow 4) | 150 <Control name="Knockback"/> |
 | <Skill name="Oaken Cudgel"/> (Mace 3) | 250 <Control name="Stun"/> |
 | <Skill name="Wild Strikes"/> (Mace 5) | 200 <Control name="Daze"/> |
@@ -81,10 +82,13 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 | --- | --- |
 | <Skill id="46432" size="big" disableText/> | [Pig](https://wiki.guildwars2.com/wiki/Juvenile_Pig) is the best option for damage due to <Skill id="41406"/>. It also comes with <Skill id="46432"/>, a strong CC skill that procs both <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/>. |
 | <Skill id="43548" size="big" disableText/> | [Red Moa](https://wiki.guildwars2.com/wiki/Juvenile_Red_Moa) is a slight personal damage loss compared to Pig, but brings <Condition name="Vulnerability"/> with <Skill id="43548"/>, which also deals good damage and procs <Item name="Relic of Fireworks"/>. |
+| <Skill id="73938" size="big" disableText/> | [Warclaw](https://wiki.guildwars2.com/wiki/Juvenile_Warclaw) provides substantial CC as well as good damage on a low cooldown  with <Skill id="73938"/>. It also has <Skill id="73733"/> for mobility and <Effect name="Superspeed"/> for 5 allies with <Skill id="74314"/>. |
 | <Skill id="45743" size="big" disableText/> | [Rock Gazelle](https://wiki.guildwars2.com/wiki/Juvenile_Rock_Gazelle) provides substantial CC on a low cooldown  with <Skill id="45743"/> as well as a little <Condition name="Vulnerability"/> from <Skill id="41524"/>. |
-| <Skill id="12658" size="big" disableText/> | [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) when unmerged can share 8 stacks of <Boon name="Might"/>, which is useful for a quick rampup after a long split phase. |
-| <Skill id="31568" size="big" disableText/> | [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) gives access to a 5 second [smoke field](https://wiki.guildwars2.com/wiki/Smoke_field) with <Skill id="31568"/> to stack <Effect name="Stealth"/>. |
-| <Skill id="41575" size="big" disableText/> | Any  [Drake](https://wiki.guildwars2.com/wiki/Drake#Pets) gives access to an additional [blast finisher](https://wiki.guildwars2.com/wiki/Blast_finisher) with <Skill id="41575"/>. |
+| <Skill id="71499" size="big" disableText/> | [Sky-Chak Striker](https://wiki.guildwars2.com/wiki/Juvenile_Sky-Chak_Striker) is an option focused on high <Condition name="Vulnerability"/> from <Skill id="71499"/>. Its skills can be used at range. |
+| <Skill id="12658" size="big" disableText/> | Unmerged [Jungle Stalker](https://wiki.guildwars2.com/wiki/Juvenile_Jungle_Stalker) can share a decent amount of <Boon name="Might"/> stacks with <Skill id="12658"/>, which is useful for a quick rampup after a long split phase. |
+| <Skill id="41575" size="big" disableText/> | Any  [Drake](https://wiki.guildwars2.com/wiki/Drake#Pets) gives access to an additional [Blast Finisher](https://wiki.guildwars2.com/wiki/Blast_finisher) with <Skill id="41575"/>. |
+| <Skill id="31568" size="big" disableText/> | Unmerged [Smokescale](https://wiki.guildwars2.com/wiki/Juvenile_Smokescale) gives access to a [Smoke Field](https://wiki.guildwars2.com/wiki/Smoke_field) with <Skill id="31568"/> to stack <Effect name="Stealth"/>. |
+| <Skill id="12681" size="big" disableText/> | Unmerged [Jaguar](https://wiki.guildwars2.com/wiki/Juvenile_Jaguar) gives access to short personal <Effect name="Stealth"/> with <Skill id="12681"/>. |
 | <Skill id="43726" size="big" disableText/> | [Hyena](https://wiki.guildwars2.com/wiki/Juvenile_Hyena) provides high mobility with <Skill id="43726"/> and <Skill id="42894"/>. |
 
 </GridItem>
@@ -99,6 +103,7 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
   - If you need some extra CC, swap Hammer 5 to <Skill id="63330"/>. This is particularly useful on Artsarriv and MAMA.
   - If you do not need the CC or <Trait name="Twice as Vicious"/> proc, swap Hammer 3 to <Skill id="63197"/>. It also strips 2 boons.
 
+- **Spear** is an alternative with strong damage and access to <Condition name="Vulnerability"/> through <Skill id="73030"/>. It struggles with CC and <Item name="Relic of Fireworks"/> due to locking it behind spending your <Effect name="Stealth"/> on lower damage skills.
 - **Longbow** is taken on encounters where phase timings allow you to precast <Skill name="Barrage"/> into the phase and there is enough time to swap back to your Longbow and reset your burst outside of active phases. If you find yourself stuck on Longbow at points in a fight where you need damage, there is probably a better option.
 - **Mace/Mace** is a less bursty alternative to Hammer. It requires making good use of the cooldown reset and medium damage buff granted by *Force of Nature*. This can make it difficult to be flexible and adapt to situations when playing Maces.
 - **Greatsword** is an alternative to Hammer for players who do not have access to [Secrets of the Obscure](https://wiki.guildwars2.com/wiki/Guild_Wars_2:_Secrets_of_the_Obscure) or want access to an evade with <Skill name="Swoop"/> and a block with <Skill name="Counterattack"/>. It requires pairing the extra *Attack of Opportunity* damage after <Skill id="12525"/> with strong single hit skills.
@@ -111,12 +116,12 @@ This build benefits from slaying potions and slaying sigils such as <Item id="50
 *Note: What weapon variations you use heavily depends upon the encounter, fight duration and group you are playing with. Optimally there is no single weapon choice that fits all scenarios, so take into acount the possible variables, or play the weapons that you enjoy using.*
 
 #### Additional Gear Options
-- <Item name="Relic of the Dragonhunter"/> for fights where you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
-- <Item id="103574"/> as an alternative relic, that is very stong on fights such as MAMA and Arkk, where you are CCing often. Also an option when playing <Skill name="Storm Spirit"/>.
-- Warhorn for <Boon name="Might"/> pre-stacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil.
+- <Item id="103574"/> as an alternative to <Item name="Relic of Fireworks"/> for fights where you CC frequently (e.g. MAMA or Arkk). Synergizes well with <Skill name="Storm Spirit"/>.
+- <Item name="Relic of the Dragonhunter"/> for fights where phases are short and you can cast <Skill name="Frost Trap"/> at the start of every phase (e.g. Skorvald).
+- Warhorn for <Boon name="Might"/> prestacking. <Item name="Concentration" type="Sigil"/> can be slotted as sigil. Can be paired it with a Torch for placing your own [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field).
 - Weapons with specific slaying sigils like <Item name="Serpent Slaying" type="Sigil"/> and/or <Item name="Night" type="Sigil" />. See the [Cheat Sheet](/guides/cheat-sheet) and [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast).
 - Weapons with <Item name="Severance" type="Sigil"/> for certain encounters in fast groups (e.g. Artsariiv). Check the [Power Soulbeast CM Guide](/cm-guides/ranger/power-soulbeast) for more information.
-- <Item id="100527"/>, <Item id="103872"/>, and <Item id="100194"/>. Optional relics for precasting in speedrun groups before fights.
+- <Item name="Relic of the Brawler"/>, <Item name="Relic of the Weaver"/>, and <Item id="103872"/> for optional precasts in fast groups.
 
 ### Situational Skills
 | | |
@@ -156,19 +161,25 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 | Skill | Efficiency |
 | --- | ---: |
 | <Skill name="One Wolf Pack"/> | &ge; 290% |
+| <Skill id="73030"/> (Spear 2 with stealth) | 212% |
 | <Skill name="Frost Trap"/> | &ge; 203% |
 | <Skill name="Unleashed Savage Shock Wave"/> (Hammer 4) | &ge; 200% |
 | <Skill name="Path of Scars"/> (Axe 4) | 193% |
 | <Skill name="Unleashed Wild Swing"/> (Hammer 2) | &ge; 156% |
+| <Skill id="73020"/> (Spear 4 below 50%) | 159% |
 | <Skill id="41406"/> (Pig F1) | 153% |
 | <Skill name="Splitblade"/> (Axe 2) | 147% |
+| <Skill id="73020"/> (Spear 4 above 50%) | 133% |
+| <Skill id="72928"/> (Spear 3) | 130% |
 | <Skill name="Winters Bite"/> (Axe 3) | 122% |
 | <Skill name="Barrage"/> (Longbow 5) | &ge; 118% |
 | <Skill name="Worldly Impact"/> (F3) | 108% |
 | <Skill name="Serpents Strike"/> (Sword 3) | 106% |
+| <Skill id="73938"/> (Warclaw F2) | 104% |
 | <Skill id="43548"/> (Moa F2) | 102% |
 | <Skill name="Pounce"/> (Sword 2) | 101% |
 | <Skill name="Whirling Defense"/> (Axe 5) | &asymp; 100% |
+*The list above only shows skills for the standard setup plus some additional skills. It is not exhaustive.*
 
 </GridItem>
 <GridItem>
@@ -179,6 +190,7 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 - <Skill name="Worldly Impact"/> (F3)
 - <Skill id="63330"/>/<Skill name="Unleashed Thump"/> (Hammer 5)
 - <Skill name="Whirling Defense"/> (Axe 5)
+- <Skill id="72993"/> (Spear 5 with stealth)
 - <Skill name="Barrage"/> (Longbow 5)
 - <Skill name="Wild Strikes"/> (Mace 5)
 - <Skill name="Hilt Bash"/> (Greatsword 5)
@@ -188,6 +200,7 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 - *Weapon Swap*
 - <Skill id="46432"/> (Pig F2)
 - <Skill name="Worldly Impact"/> (F3)
+- <Skill id="73008"/> (Spear 5)
 - <Skill name="Point Blank Shot"/> (Longbow 4)
 - <Skill name="Serpents Strike"/> (Sword 3)
 - <Skill name="Hilt Bash"/> (Greatsword 5)
@@ -195,8 +208,13 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 #### Skills with Interruptible Aftercast
 - <Skill name="Unleashed Wild Swing"/> (Hammer 2)
 - <Skill name="Whirling Defense"/> (Axe 5)
+- <Skill id="73008"/> (Spear 5)
 - <Skill name="Hunters Call"/> (Warhorn 4)
 - <Skill name="Frost Trap"/>
+
+#### Skills with Interruptible Follow-Up
+- <Skill id="63075"/>/<Skill id="63197"/> (Hammer 3)
+- <Skill id="73030"/> (Spear 2 with stealth)
 
 #### Channeled Skills
 - <Skill name="Whirling Defense"/> (Axe 5) interrupted by everything
@@ -204,6 +222,7 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 - <Skill id="43548"/> (Moa F2)
 - <Skill name="Rapid Fire"/> (Longbow 2)
 - <Skill name="Wild Strikes"/> (Mace 5)
+
 
 </GridItem>
 </Grid>
@@ -215,61 +234,111 @@ Several of your skills may interrupt the previous skill cast or can be interrupt
 
 <Divider text="Rotation / Skill Usage"/>
 <Warning>
-
 Golem rotations from Raids are generally suboptimal in Fractals due to being optimized for sustained DPS. In Fractals players need to adapt their rotation to the amount of time a group needs to finish a phase or specific burst windows like <Effect name="Exposed"/>.
 </Warning>
+
 <Grid>
 <GridItem sm="6">
 
-### Hammer Opener
+### Weapon Set 1 Openers
+#### Hammer Opener (Brutal Charge)
+1.  <Skill name="Frost Trap"/>
+2.  <Skill id="46432"/> (Pig F2)
+3.  <Skill id="63131"/> (Hammer 4)
+4.  <Skill name="Sicem"/> during the cast of <Skill id="63131"/>
+5.  <Skill id="63335"/> (Hammer 2)
+8. _Weapon Swap_  
+7.  _Continue with Weapon Set 2 burst_
 
+#### Hammer Opener (Wordly Impact)
+1.  <Skill name="Frost Trap"/>
+2.  <Skill id="63075"/> (Hammer 3)
+3.  Interrupt the follow-up with <Skill name="Worldly Impact"/> (F3)
+4.  <Skill name="Sicem"/> near the end of <Skill name="Worldly Impact"/>
+5.  <Skill id="63131"/> (Hammer 4)
+6.  <Skill id="63335"/> (Hammer 2)
+7.  _Weapon Swap_
+8.  _Continue with Weapon Set 2 burst_
+
+#### Hammer Opener (Longbow precast)
 1.  <Skill name="Barrage"/> (Longbow 5)
 2.  _Swap to Hammer_
 3.  <Skill name="Frost Trap"/>
-4.  <Skill id="63075"/> (Hammer 3), then stow or cancel
-5.  <Skill name="Sicem"/> during the cast of <Skill id="63075"/>
+4.  <Skill id="63075"/> (Hammer 3)
+5.  _Weapon Stow_ the follow-up
 6.  <Skill id="63131"/> (Hammer 4)
-7.  <Skill id="63335"/> (Hammer 2)
-8.  _Weapon Swap_
-9.  _Continue with Axe or Sword burst_
+7.  <Skill name="Sicem"/> during the cast of <Skill id="63131"/>
+8.  <Skill id="63335"/> (Hammer 2)
+9.  _Weapon Swap_
+10.  _Continue with Weapon Set 2 burst_
 
-**Notes:**
-- Try to stow or interrupt <Skill name="Overbearing Smash"/> after the first hit.
-- If you do not precast <Skill name="Barrage"/> or use <Skill id="46432"/> for CC, you will want to use <Skill name="Worldly Impact"/> after the first hit of <Skill id="63075"/> to proc <Item id="100947"/>.
+#### Spear Opener
+1. Precast <Skill id="73008"/> (Spear 5) or any other <Effect name="Stealth"/>
+2. <Skill id="73150"/> (Spear 4 with stealth)
+3. <Skill id="73008"/> (Spear 5)
+4. <Skill id="73030"/> (Spear 2 with stealth)
+5. <Skill id="72928"/> (Spear 3)
+6. _Weapon Swap_
+7. _Continue with Weapon Set 2 burst_
 
-### Longbow Opener
+#### Longbow Opener
 1.  <Skill name="Barrage"/> (Longbow 5)
-2.  <Skill name="Sicem"/> during the cast of <Skill name="Barrage"/>
+2.  <Skill name="Sicem"/> at the end of <Skill name="Barrage"/>
 3.  <Skill name="Frost Trap"/>
 4.  <Skill name="Point Blank Shot"/> (Longbow 4)
 8.  _Weapon Swap_
-9.  _Continue with Axe or Sword burst_
+9.  _Continue with Weapon Set 2 burst_
 
-### Axe Burst
+### Weapon Set 2 Bursts
+#### Axe/Axe Burst (long phase)
+1. <Skill name="Path of Scars"/> (Axe 4)
+2. <Skill name="Winters Bite"/> (Axe 3)
+3. <Skill name="Splitblade"/> (Axe 2)
+4. <Skill name="Whirling Defense"/> (Axe 5)
+5. <Skill name="Ricochet"/> (Axe 1) until <Skill name="Splitblade"/> available
+6. <Skill name="Splitblade"/> (Axe 2)
+7. <Skill name="Ricochet"/> (Axe 1)
+8. <Skill name="Worldly Impact"/> (F3)
+9. <Skill name="Winters Bite"/> (Axe 3)
+
+#### Axe/Axe Burst (short phase)
 1. <Skill name="Path of Scars"/> (Axe 4)
 2. <Skill name="Splitblade"/> (Axe 2)
 3. <Skill name="Winters Bite"/> (Axe 3)
-4. <Skill name="Worldly Impact"/> (Axe 5)
+4. <Skill name="Worldly Impact"/> (F3)
 5. <Skill name="Whirling Defense"/> (Axe 5)
 6. <Skill name="Splitblade"/> (Axe 2)
 
-### Sword Burst
+#### Sword/Axe Burst (long phase)
 1. <Skill name="Path of Scars"/> (Axe 4)
-2. <Skill name="Pounce"/> (Sword 2)
-3. <Skill name="Serpents Strike"/> (Sword 3)
-4. <Skill name="Worldly Impact"/> (Axe 5)
+2. <Skill name="Serpents Strike"/> (Sword 3)
+3. <Skill name="Pounce"/> (Sword 2)
 5. <Skill name="Whirling Defense"/> (Axe 5)
-6. <Skill name="Pounce"/> (Sword 2)
+6. <Skill name="Slash"/> (Sword 1) until full chain complete
+4. <Skill name="Worldly Impact"/> (F3)
+7. <Skill name="Pounce"/> (Sword 2)
+8. <Skill name="Serpents Strike"/> (Sword 3)
 
 </GridItem>
 
 <GridItem sm="6">
+<Card title="Rotation Notes">
+
+- Standard <Skill name="One Wolf Pack"/> usage is right before your opening burst. Alternatively, the cooldown can be held to speed up a phase where your group is lacking damage (e.g. Arkk Phase 3).
+- When playing Pig, use <Skill id="41406"/> (Pig F1) during the burst on your Axe set.
+- Swap back to your other weapon set once you have casted <Skill name="Path of Scars"/> (Axe 4) twice.
+- In your opener always try to interrupt or stow the follow-up of <Skill id="63075"/> (Hammer 3).
+- During long Axe/Axe bursts your 2nd <Skill name="Winters Bite"/> (Axe 3) should still hit barely before <Skill name="Sicem"/> ends.
+- In very short phases you can skip <Skill id="63075"/> (Hammer 3) and burst without <Trait name="Twice as Vicious"/> until it is gained from <Skill name="Path of Scars"/> (Axe 4) as your first skill on Axe set.
+- <Item id="103574"/> allows for different openers due to not having to proc <Item name="Relic of Fireworks"/>.
+
+</Card>
 <Card title="Precasting">
 
 If you have a _Mistlock Singularity_ present you can:
 
 1.  Preplace <Skill name="Frost Trap"/> if you can place traps before spawning the boss
-2.  <Skill name="Bonfire"/> if no fire field is present
+2.  <Skill name="Bonfire"/> if no [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field) is present
 3.  <Skill name="Moa Stance"/> when playing <Trait name="Leader of the Pack"/>
 4.  <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>
 5.  <Skill name="We Heal As One"/> to extend your boons
@@ -277,10 +346,9 @@ If you have a _Mistlock Singularity_ present you can:
 
 If you do not have _Mistlock Singularity_ present:
 
-1.  <Skill name="Bonfire"/> if no fire field is present
+1.  <Skill name="Bonfire"/> if no [Fire Field](https://wiki.guildwars2.com/wiki/Fire_field) is present
 2.  <Skill name="Call of the Wild"/> to blast <Boon name="Might"/>
 3.  <Skill name="We Heal As One"/> to extend your boons
-
 
 </Card>
 
@@ -300,11 +368,9 @@ Your other train lines remain the same as on land. The reason for swapping trait
 ### Underwater Rotation
 For a DPS rotation the same rules apply as on land: try to fit lots of damage into <Skill name="Sic Em"/> and try to line up your burst with your modifiers and <Effect name="Exposed"/> if possible.
 
-Start on Harpoon Gun and use <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) to precast damage into <Skill name="Sic Em"/>.
+Use <Skill name="Tail Lash"/> (Devourer F1) to proc <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for every <Skill name="Sic Em"/> burst. <Skill name="Worldly Impact"/> (F3) is your only other source of <Item name="Relic of Fireworks"/> underwater. An alternative is to play <Item id="103574"/> with <Skill name="Storm Spirit"/> or simply swap to <Item name="Relic of the Thief"/> - but do not forget to swap back when on land!
 
-Use <Skill name="Tail Lash"/> (Devourer F1) to proc <Trait name="Twice as Vicious"/> and <Item name="Relic of Fireworks"/> for every <Skill name="Sic Em"/> burst. <Skill name="Worldly Impact"/> (F3) is your only other source of <Item name="Relic of Fireworks"/> underwater. An alternative is to swap to <Item name="Relic of the Thief"/>, but do not forget to swap back later!
-
-During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You can swap back to Harpoon gun at the start of split-phases to range adds as well as allow you to repeat your opening burst when the split-phase ends.
+Harpoon Gun is primarily used for precasting <Skill id="12528"/> (Harpoon Gun 3) and <Skill name="Mercy Shot"/> (Harpoon Gun 4) into your <Skill name="Sic Em"/> burst. During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skill name="Swirling Strike"/> (Spear 2), as well as your auto-attack chain deal good damage. You can swap back to Harpoon gun at the start of split-phases to range adds as well as allow you to repeat your opening burst when the split-phase ends.
 
 #### Bonus Tips
 - If you know a blockable attack is coming use <Skill name="Counterstrike"/> (Spear 4) for damage and an additional <Trait name="Twice as Vicious"/> proc.
@@ -315,7 +381,7 @@ During damage phases camp Spear since <Skill name="Man o war"/> (Spear 5), <Skil
 
 <GridItem sm="5">
 ### Weapons
-<Weapons weapon1MainType="Speargun" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24658" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Harpoon" weapon2MainAffix="Berserker" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24658" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
+<Weapons weapon1MainType="Harpoon" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24615" weapon1MainSigil2Id="24658" weapon1MainInfusion1Id="37131" weapon1MainInfusion2Id="37131" weapon2MainType="Speargun" weapon2MainAffix="Berserker" weapon2MainSigil1Id="24615" weapon2MainSigil2Id="24658" weapon2MainInfusion1Id="37131" weapon2MainInfusion2Id="37131"/>
 ### Skills
 <Skills healId="44948" utility1Id="12633" utility2Id="12492" utility3Id="12491" eliteId="45717"/>
 If you need to swap a skill, the same applies as on land: swap <Skill name="Signet of the Wild"/> first then <Skill name="Frost Trap"/>.
