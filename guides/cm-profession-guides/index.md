@@ -28,9 +28,9 @@ For static groups that want to practice and perfection their builds.
 These guides also apply to a certain degree in PuGs
 </Information>
 
-| Build                                                                 | Type   | Link                                                   |
-| --------------------------------------------------------------------- | ------ | ------------------------------------------------------ |
-
+| Build | Type | Link |
+| ----- | ---- | ---- |
+|       |      |      |
 
 <Divider />
 
@@ -48,6 +48,7 @@ This guides are meant to be applied to slower groups (what you commonly find in 
 
 <Warning>
 These guides have not been updated for multiple patches. The information you find here might be outdated, irrelevant or reffering to build variations that are no longer used. However plenty of the information here is usable or can be adapted to current patch.
+</Warning>
 
 | Build                                                           | Type   | Link                                                 |
 | --------------------------------------------------------------- | ------ | ---------------------------------------------------- |
