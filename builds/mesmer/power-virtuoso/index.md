@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-18T00:49:44.027Z "
+date: "2025-02-18T01:07:36.695Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -73,7 +73,7 @@ Note: This setup does not use stat infusions. Stat infusion setups can be found 
 
 
 ### Weapon Choices
-The default weapon setup is Spear + Dagger / Sword. For more burst in very short phases, Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as can be advantageous. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup.
+The default weapon setup is Spear + Dagger / Sword. For more burst in very short phases, Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> can sometimes be advantageous. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup. Before getting into combat, you can freely swap templates to precast additional AoE skills  or phantasms.
 
 <Grid>
 <GridItem sm="4">
@@ -168,7 +168,7 @@ to precast  <Skill name="Rain of Swords"/> or you need additional might from man
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                       |
 | <Skill name="Feedback" size="big" disableText/>                | Great for Artsariiv to reflect Taw Shot. Exceptionally great on Dark AI when used to reflect her laser beams during dashes.                                     |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed. |
-|<Skill name="Sword of Decimation" size="big" disableText/>           | Can be used instead of <Skill name="Phantasmal Disenchanter"/> if the phantasm would otherwise be too slow for the fight. |
+|<Skill name="Sword of Decimation" size="big" disableText/>           | Can be used instead of <Skill name="Phantasmal Disenchanter"/> if the phantasm would otherwise be too slow for the fight. It is also a good CC skill for bosses like Mama or Artsariiv. |
 
 <Divider text="CC Skills"/>
 
