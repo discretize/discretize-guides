@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-16T23:55:41.926Z "
+date: "2025-02-18T09:58:41.126Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,6 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
+
 <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
@@ -72,7 +73,7 @@ Note: This setup does not use stat infusions. Stat infusion setups can be found 
 
 
 ### Weapon Choices
-The default weapon setup is Spear + Dagger / Sword. For more burst in very short phases, Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as can be advantageous. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup.
+The default weapon setup is Spear + Dagger / Sword. For more burst in very short phases, Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> can sometimes be advantageous. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup. Before getting into combat, you can freely swap to any weapon to precast additional AoE skills or phantasms.
 
 <Grid>
 <GridItem sm="4">
@@ -167,7 +168,7 @@ to precast  <Skill name="Rain of Swords"/> or you need additional might from man
 | <Skill name="Blade Renewal" size="big" disableText/>           | For prestacking blades before the fight                                       |
 | <Skill name="Feedback" size="big" disableText/>                | Great for Artsariiv to reflect Taw Shot. Exceptionally great on Dark AI when used to reflect her laser beams during dashes.                                     |
 | <Skill name="Thousand Cuts" size="big" disableText/>           | Can be used instead of <Skill name="Signet of Humility"/> if no CC is needed. |
-|<Skill name="Sword of Decimation" size="big" disableText/>           | Can be used instead of <Skill name="Phantasmal Disenchanter"/> if the phantasm would otherwise be too slow for the fight. |
+|<Skill name="Sword of Decimation" size="big" disableText/>           | Can be used instead of <Skill name="Phantasmal Disenchanter"/> if the phantasm would otherwise be too slow for the fight. It is also a good CC skill for bosses like Mama or Artsariiv. |
 
 <Divider text="CC Skills"/>
 
@@ -232,7 +233,7 @@ They do however benefit from <Effect name="Exposed"/>.
 To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt on the fly as Phantasms do not deal damage instantly, dealying your burst compared to other builds. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
 
 The guiding principle is to get as many skill casts as possible into each phase, ideally casting your Phantasm skills as early as possible. In that regard, on many fights where the boss spawns invisible or delayed, you can get an advantage by precasting AoE skills which do not require a target such as 
-<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible. If the phase will end before your Phantasms can finish their attacks, skip casting them and prioritise casting skills that deal direct damage. 
+<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible. If the phase will end before your phantasms can finish their attacks, skip casting them and prioritise casting skills that deal direct damage. If there is only time to cast one of two phantasm skills, skills which spawn multiple phantasms are better due to <Trait name="Phantasmal Blades"/>.
 
 If you lose yourself in the rotation, follow this priority list:
 1.  Cast your phantasms whenever ready.
@@ -248,7 +249,7 @@ If you lose yourself in the rotation, follow this priority list:
 
 - <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
 
-Remember that your personal damage skills are faster than phantasms, but that they deal more damage over time, this means that direct damaging skills such as <Skill id="62560"/> and auto-attacks get higher priority if the boss is close to phasing.
+Remember that your personal damage skills are faster than phantasms. This means that direct damaging skills such as <Skill id="62560"/> and auto-attacks get higher priority if the boss is close to phasing.
 
 Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> so they don't overlap with other powerful CC skills.
 
@@ -256,17 +257,17 @@ Apart from doing DPS, you'll also have access to a wide range of utilities which
 
 ### Dark AI Reflect
 Dark AI is <Specialization text="Power Virtuoso's" name="Virtuoso"/> best boss as <Skill name="Feedback"/>
-can be used to reflect her Focused Wrath attack (laser beams). Furthermore, if phased to 66% or 33% during her dash animation, the boss will send out additional laser beams which - if reflected - lead to a massive damage icrease. 
+can be used to reflect her <Skill id="61499"/> attack, which spawns laser beams. Furthermore, if phased to 66% or 33% during her dash animation, the boss will send out additional laser beams which - if reflected - lead to a massive damage increase. 
 
-The Focused Wrath laser beams spawn in segments. A long dash contains 10 beams in a 4-2-4 sequence. With multiple reflect sources in the party, one person wants to reflect at the start of the dash and another person at the end. For example a composition containing a <Specialization name="Scrapper"/> using <Skill id="30088"/> for reflects should reflect the first beams, and a <Specialization name="Mesmer"/> player should use <Skill name="Feedback"/> at the end of her dashes. 
+The Focused Wrath laser beams spawn in segments. A long dash contains 10 beams in a 4-2-4 sequence. With multiple reflect sources in the party, one person wants to reflect at the start of the dash and another person at the end. For example, in a composition containing a <Specialization name="Scrapper"/> using <Skill id="30088"/> for reflects, the scrapper player should reflect the first beams, and a <Specialization name="Mesmer"/> player should use <Skill name="Feedback"/> at the end of her dashes. 
 
-For most kill times, <Skill name="Feedback"/> should be up for each dash, howeever in speedkills (sub 1 minuite), you will not have <Skill name="Feedback"/>, due to the boss movement and necessity to combine  <Skill name="Mimic"/> with <Skill name="Feedback"/>, available for every dash and need to gamble if you should save it for the potential extra reflects from phasing during a dash at 66% or 33%. 
+For most kill times, <Skill name="Feedback"/> should be up for each dash. However, in speed kills, you will only have <Skill name="Feedback"/> available at either 66% or 33%, not both. The highest possible reflect occurs at 33%, but it is a gamble if the attack pattern lines up correctly. On the other hand, with the correct group dps, it is possible to consistently obtain the big reflect at 66%.
 
-You should make some adjustments to your build before starting the encounter. Firstly Sunqua Peak Challenge Mode is a night time fractal, meaning <Item id="36053"/> works and should be taken over <Item id="24868"/>. <Skill name="Rain of Swords"/> should be replaced with <Skill name="Feedback"/>. 
+You should make some adjustments to your build before starting the encounter. Most importantly, Sunqua Peak Challenge Mode is a night time fractal, meaning <Item id="36053"/> works and should be taken instead of <Item id="24868"/>. <Skill name="Rain of Swords"/> should be replaced with <Skill name="Feedback"/>. 
 
 <Skill name="Phantasmal Defender"/> is also an optional utility skill that can be chosen, especially with multiple mesmer players, as it triggers <Trait name="Superiority Complex"/>, which will increase your reflect damage early on if you plan on phasing her before she completes the second dash. Reflect damage uses your ferocity and modifiers, but your enemies' power. To maximise your reflect damage you can use <Skill name="Mimic"/> at the Mistlock Singularity to reset your first <Skill name="Feedback"/> cast at the start of the fight.
 
-As far as the general rotation is concerned, this fight is long enough to resemble a raid rotation. Make sure to help cc the adds if your groups is not prepared to skip them with sufficient dps and break the boss as late as possible. One add explosion can be tanked with <Effect name="Rigorous Certainty"/>. Support players should take the tether at 33% in order to prevent damage reduction from <Effect name="Cacophonous Mind"/>, but if no-one is willing to take it, it is still a group DPS increase for you to grab it. that you do it than no-one. 
+As far as the general rotation is concerned, this fight is long enough to resemble a raid rotation. Make sure to help cc the adds if your groups is not prepared to skip them with sufficient dps and break the boss as late as possible. One add explosion can be tanked with <Effect name="Rigorous Certainty"/>. Support players should take the tether at 33% in order to prevent damage reduction from <Effect name="Cacophonous Mind"/>, but if no-one is willing to take it, it is still a group damage increase for you to grab it. 
 
 </GridItem>
 <GridItem xs="12" sm="5">
@@ -290,29 +291,32 @@ At the boss (spawnable bosses)
 3. Cast <Skill name="Rain of Swords"/> (again).
 4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a break bar.
 
-At the boss (pre spawned bosses)
+At the boss (pre-spawned bosses)
 
-- You can also precast <Skill name="Phantasmal Warlock"/>.
+- You can also precast phantasms like <Skill name="Phantasmal Warlock"/>.
 
 </Card>
 
 ### Example Opener
 
 - Start on Dagger/Sword
-1. Precast <Skill name="Unstable Bladestorm"/> and <Skill name="Rain of Swords"/>
-2. <Skill name="Phantasmal Swordsman"/> and <Skill id="10267"/> as soon as boss is targetable
-3. <Skill name="Bladesong Dissonance"/> for CC, or <Skill name="Bladeturn Requiem"/> to proc <Item id="100947"/>
-4. <Skill name="Bladecall"/> (if the boss isnt targetable instantly use this while waiting to cast Phantasms)
-5. _WeaponSwap_
+1. Precast <Skill name="Unstable Bladestorm"/> and <Skill name="Rain of Swords"/> (2x)
+2. <Skill name="Phantasmal Swordsman"/> and <Skill id="10267"/> as soon as the boss is targetable
+3. Proc  <Item id="100947"/> with  <Skill name="Bladeturn Requiem"/> or otherwise with <Skill name="Bladesong Dissonance"/> if you need CC.
+4. <Skill name="Bladecall"/> 
+5. _Weapon Swap_
 6. <Skill id="73093"/>
 7. <Skill id="72946"/>
 8. <Skill id="72957"/>
 9. <Skill id="73093"/>
 10. <Skill name="Bladesong Harmony"/>
 
-### Dark AI Reflect PoV 
-<Video caption="by Mr Ghostly.4208." youtube="qcEN1W_Re4c"/>
+If a boss spawns invisible such that it is not targetable instantly, use <Skill name="Bladecall"/> and <Skill name="Bladeturn Requiem"/> early while waiting to be able to cast phantasms. Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon.
+
+### Dark AI Reflect Placement PoV 
+<Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
 [Example Log](https://dps.report/fhkr-20241013-180933_ai)
+
 </GridItem>
 </Grid>
 
@@ -322,18 +326,20 @@ At the boss (pre spawned bosses)
 <GridItem sm="7">
 
 #### Traits for Skips
-While we don't recommend leaving your party during boss fights (unless you are co-ordinating with the rest of your party), when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore sectrions of some fractals entirely, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
+While we don't recommend leaving your party during boss fights (unless you are co-ordinating with the rest of your party), when dealing with sections of trash mobs, <Specialization name="Mesmer"/> has fantastic utility to speed these sections up, often allowing your party to ignore entire sections of some fractals, using Blinks, <Effect name="Stealth"/>, and <Effect name="Superspeed"/>. Some traits you will find useful for this are:
 - <Trait name="Temporal Enchanter"/> - This will let you provide <Effect name="Superspeed"/> to yourself and your party.
 - <Trait name="Prismatic Understanding"/> - This will increase the duration of <Effect name="Stealth"/> gained from skills such as <Skill name="Mass Invisibility"/> and <Skill name="Veil"/>.
-- Utilize Mirage for skips when moving across large distances or you need leaps! <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset makes it really good for mobility and skips.
+- Utilize Mirage for skips when moving across large distances or you need leaps! <Trait name="Elusive Mind"/>, <Skill name="Jaunt"/> and <Skill name="Mirage Thrust"/> along with the typical Mesmer toolset make it really good for mobility and skips.
 
 <Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
 
 ### Mesmer Skips Guide
-<Video caption="by feint" youtube="4ZqZbggL_0o"/>
+<Video caption="by Feint." youtube="4ZqZbggL_0o"/>
 
 </GridItem>
 <GridItem sm="5">
+
+
 
 ### Skip Skills
 
@@ -344,7 +350,9 @@ While we don't recommend leaving your party during boss fights (unless you are c
 | <Skill name="Mass Invisibility" size="big" disableText/>    | For stealthing your party for skips, can be combined with <Skill name="Continuum Split" size="small"/> and <Trait name="Prismatic Understanding" size="small"/> for 18 seconds of stealth. |
 | <Skill name="Mirage Thrust" size="big" disableText/>        | 600 range leap, can be cancelled mid-air for slightly more range.                                                                                                                          |
 | <Skill name="Jaunt" size="big" disableText/>                | 450 range blink, 3 charges.                                                                                                                                                                |
-| <Skill name="Illusionary Ambush" size="big" disableText/>   | 1200-2400(1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+| <Skill name="Illusionary Ambush" size="big" disableText/>   | 1200-2400 (1500 activation) range targeted teleport. This skill is tricky because of its random nature but allows for some skips.                                                           |
+
+
 
 </GridItem>
 </Grid>
