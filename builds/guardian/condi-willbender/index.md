@@ -15,7 +15,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2025-02-04T19:11:12.436Z "
+date: "2025-02-20T20:40:29.178Z "
 title: Condi Willbender
 rating: Good
 role: Condi Damage
@@ -25,6 +25,10 @@ conditions:
   - name: Vulnerability
     uptime: 12 stacks (using Sword of Justice)
 ---
+<Warning>
+<Specialization name="Willbender" text="Condi Willbender"/> shines as a build used on the Eparch encounter in [The Lonely Tower Fractal](/fractals/lonely-tower/), especially when collecting Gluttony Globules. Outside of this it generally performs worse then <BuildLink build="Condition Harbinger" specialization="Harbinger"/> on Sunqua Peak and Silent Surf CMs and is not recommended to be played.
+</Warning>
+
 The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very strong CC, great mobility, and a forgiving rotation, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
  
 Compared to the <Specialization name="Firebrand" text="Condi Firebrand"/>, this build has even greater self-sustain and can provide a large amount of <Boon name="Might" /> for itself if needed by taking <Trait name="holyreckoning" />. It can also provide more CC due to <Skill name="heavenspalm" />. However, it lacks the utility the Tomes can provide as well as the option to bring a significant amount of <Boon name="Quickness" />.
@@ -61,8 +65,14 @@ You will want the following weapons to swap to during fractal runs:
 
 ### Traits
 
+<Tabs>
+<Tab Title="Gluttony Willbender">
+<Traits traits1="Honor" traits1Selected="Protector's Restoration,Empowering Might,Writ of Persistence" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
+</Tab>
+<Tab Title ="Condition Willbender">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
-
+</Tab>
+</Tabs>
 ### Defiance Bar Damage
 
 |                                               |                                                                                |
@@ -81,23 +91,55 @@ You will want the following weapons to swap to during fractal runs:
 
 |                                                         |                                                                                     |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed.                                 |
+| <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed on the regular condition build.                                 |
 | <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                 |
-| <Skill name="Hallowed Ground" size="big" disableText/>  | When <Boon name="Stability"/> is needed.                                            |
-| <Skill id="9153" size="big" disableText/>               | When <Boon name="Stability"/> or a stunbreak is needed.                             |
-| <Skill name="Advance" size="big" disableText/>          | When <Boon name="Aegis"/> is needed.                                                |
-| <Skill id="9251" size="big" disableText/>               | A stationary reflect lasting for 10 seconds.                                        |
-| <Skill id="9247" size="big" disableText/>               | A 1200 range teleport to an enemy.                                                  |
-| <Skill id="9246" size="big" disableText/>               | A 1,200 range teleport to an ally.                                                  |
-| <Skill name="renewed focus" size="big" disableText/>    | Recharges all virtue skills, grants <Effect name="Invulnerability"/> for 3 seconds. |
-| <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>                               |
+| <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>, or your best option for more Gluttony procs on Eparch if <Skill name="Sanctuary"/> is not required.                               |
+| <Skill name="Flash Combo" size="big" disableText/> | Taken for more CC over <Skill name="Whirling Light"/> while still providing Gluttony procs if required.                               |
 
 
 </GridItem>
 </Grid>
 
 <Divider text="Rotation / Skill usage"/>
+<Tabs>
+<Tab title="Gluttony Willbender">
+<Grid>
+<GridItem sm="7">
+### Rotation Concept
 
+In general, for fractals, there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. Make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
+
+In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> or <Skill name="Zealot's Fire"/> three times then swap.
+
+1. <Skill name="Rushing Justice"/>
+2. <Skill name="Purging Flames"/>
+3. <Skill name="Symbol of Ignition"/>
+4. <Skill name="Peacekeeper"/>
+5. <Skill name="Whirling Light"/> off cooldown
+6. <Skill name="Flowing Resolve"/> off cooldown
+7. <Skill name="Crashing Courage"/> off cooldown
+
+#### Off-hand pistol
+<Skill name="Hail of Justice"/>
+#### Off-hand torch
+<Skill name="Zealot's Flame"/> and <Skill name="Zealot's Fire"/> when you have a charge
+
+</GridItem>
+
+<GridItem sm="5">
+
+<Card title="Gluttony Procs">
+
+| Skill                     | Number of Procs |
+|---------------------------|-----------------|
+| <Skill name="Sanctuary"/> | 1               |
+
+Gluttony skill procs provided by Lunarium.
+</Card>
+</GridItem>
+</Grid>
+</Tab>
+<Tab title="Condition Willbender">
 <Grid>
 <GridItem sm="7">
 ### Skill Priority
@@ -130,6 +172,9 @@ In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> o
 3.  Take the _Mistlock Singularity_
 
 You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
+
 </Card>
 </GridItem>
 </Grid>
+</Tab>
+</Tabs>
