@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-02-15T15:30:53.533Z "
+date: "2025-02-20T22:19:46.956Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -19,7 +19,7 @@ profession: Guardian
 conditions:
   - name: Vulnerability
     uptime: 25 stacks
-cmGuide: static
+cmGuide: ""
 ---
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />.
