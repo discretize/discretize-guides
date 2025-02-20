@@ -15,7 +15,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2025-02-20T20:40:29.178Z "
+date: "2025-02-20T22:16:38.868Z "
 title: Condi Willbender
 rating: Good
 role: Condi Damage
@@ -39,6 +39,8 @@ Compared to the <Specialization name="Firebrand" text="Condi Firebrand"/>, this 
 <Character title="Gluttony Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2159,"Precision":1842,"Toughness":1000,"Vitality":1297,"Ferocity":150,"Condition Damage":2133,"Expertise":451,"Concentration":0,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.3006,"Boon Duration":0,"Critical Chance":0.4509,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.13,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.1,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":24548,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":86098,"weapon1OffType":"Focus","weapon1OffSigilId":24554,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24548,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24554,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917,"relicId":102245},"skills":{"healId":21664,"utility1Id":62565,"utility2Id":9187,"utility3Id":9128,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
 
 This build is a variation of <Specialization name="Willbender" text="Condi Willbender"/> that is intended to be run on the Eparch encounter in [The Lonely Tower Fractal](/fractals/lonely-tower/). It is designed to proc the lifesteal from the Gluttony effect as much as possible, leading to more damage than running a standard build. **If you are not collecting Globules of Gluttony or on a different encounter do not run this build!**
+
+If you do not have <Item id="102245"/> unlocked, you can use <Item id="100074"/>. This gets 18-20 Gluttony procs if you cast inside Eparchs hitbox and all hits connect.
 
 </Character> 
 <Character title="Condi Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2159,"Precision":1842,"Toughness":1000,"Vitality":1297,"Ferocity":150,"Condition Damage":2133,"Expertise":451,"Concentration":0,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.3006,"Boon Duration":0,"Critical Chance":0.4509,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.13,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.1,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":49432,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":24554,"weapon1OffAffix":"Viper","weapon1OffInfusionId":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24554,"weapon2OffAffix":"Viper","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917,"relicId":100153},"skills":{"healId":62622,"utility1Id":62565,"utility2Id":9187,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
@@ -66,10 +68,10 @@ You will want the following weapons to swap to during fractal runs:
 ### Traits
 
 <Tabs>
-<Tab Title="Gluttony Willbender">
+<Tab title="Gluttony Willbender">
 <Traits traits1="Honor" traits1Selected="Protector's Restoration,Empowering Might,Writ of Persistence" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
 </Tab>
-<Tab Title ="Condition Willbender">
+<Tab title ="Condition Willbender">
 <Traits traits1="Radiance" traits1Selected="Right-Hand Strength,Radiant Fire,Amplified Wrath" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
 </Tab>
 </Tabs>
@@ -104,7 +106,7 @@ You will want the following weapons to swap to during fractal runs:
 <Tabs>
 <Tab title="Gluttony Willbender">
 <Grid>
-<GridItem sm="7">
+<GridItem sm="6">
 ### Rotation Concept
 
 In general, for fractals, there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. Make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
@@ -126,15 +128,34 @@ In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> o
 
 </GridItem>
 
-<GridItem sm="5">
+<GridItem sm="6">
 
 <Card title="Gluttony Procs">
 
-| Skill                     | Number of Procs |
-|---------------------------|-----------------|
-| <Skill name="Sanctuary"/> | 1               |
+| Skill                                            | Number of Procs | Notes                                                                                                                                  |
+|--------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| <Skill name="Rushing Justice"/> (F1)             | 48              | Make sure to use this skill outside Eparchs hitbox for maximum hits                                                                    |
+| <Skill name="Flowing Resolve"/> (F2)             | 15 - 45         | Using both charges multiplies the amounts of procs. Amount of hits depends on positioning                                              |
+| <Item id="100074"/>             | 18 - 20         | Needs to be placed inside Eparchs hitbox otherwise will lose procs                                              |
+| <Skill name="Symbol of Punishment"/> (Scepter 2) | 13              | 18 procs with <Trait name="Writ of Persistence"/>                                                                                      |
+| <Skill name="Cleansing Flame"/> (Torch 5)        | 10              |                                                                                                                                        |
+| <Skill name="Ray of Judgment"/> (Focus 4)        | 9               |                                                                                                                                        |
+| <Skill name="Purging Flames"/> (Utility)         | 6               | 8 procs with <Trait name="Master of Consecrations"/>                                                                                   |
+| <Skill name="Crashing Courage"/> (F3)            | 6               |                                                                                    |
+| <Skill name="Peacekeeper"/> (Pistol 2)           | 5               | Ignition grants an extra 4-7 procs with <Boon name="Quickness"/>, depending on how many hits inside <Skill name="Symbol of Ignition"/> |
+| <Skill name="Symbol of Ignition"/> (Pistol 3)    | 5               |                                                                                                                                        |
+| <Trait  name="Zealots Resolution"/> (Trait)      | 5               | 7 procs with <Trait name="Writ of Persistence"/>                                                                                       |
+| <Skill name="Flash Combo"/> (Utility)            | 5               | Will miss procs if moving                                                                                                              |
+| <Skill name="Zealots Flame"/> (Focus 4)          | 4               |                                                                                                                                        |
+| <Skill name="Sword of Justice"/> (Utility)       | 4               |                                                                                                                                        |
+| <Skill name="Whirling Light"/> (Utility)         | 4               |                                                                                                                                        |
+| <Trait name="Protectors Restoration"/> (Trait)   | 3               | 5 procs with <Trait name="Writ of Persistence"/>                                                                                       |
+| <Skill name="Shield of Wrath"/> (Focus 5)         | 1               |                                                                                                                                        |
+| <Item id="24548"/>        | 1               |                                                                                                                                        |
+| <Item id="24554"/>        | 1               |                                                                                                                                        |
+| <Trait name="Permeating Wrath"/> (Trait)         | 1               | This trait has no ICD and will proc Gluttony through <Condition name="Burning"/> every 3 hits.                                                                                                                                       |
 
-Gluttony skill procs provided by Lunarium.
+[Source](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4LB_wMMLm6J72E7e0j9VKF-VXxwvbpRXAidnfRYP7bLsHZNaxaNtw_2ivCeODqb6y77Ll1hqP5uE3/pubhtml) - 100CM Info Sheet provided by Lunarium.
 </Card>
 </GridItem>
 </Grid>
