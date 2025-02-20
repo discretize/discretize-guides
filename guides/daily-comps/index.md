@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2025-02-15T16:57:40.324Z "
+date: "2025-02-20T22:37:26.277Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -95,8 +95,8 @@ All of these PoVs are currently up to date apart from Artsariiv, due to map item
 | Boss      | PoV                                        | Log                                                         | Player  |
 | --------- | ------------------------------------------ | ----------------------------------------------------------- | ------- |
 | MAMA      | [Link](https://youtu.be/lhFJdV-T9s4?si=9fF7h0FIJvAuABh9)       | [DPS.Report](https://dps.report/YyRv-20241118-194404_mama)  | Jetrell     |
-| Siax      | [Link](https://youtu.be/43Mte41xqS4?si=9zn7IhCxvyNsq98N&t=57)       | [DPS.Report](https://dps.report/EttO-20240112-214615_siax)  | Jetrell |
-| Ensolyss  | [Link](https://youtu.be/43Mte41xqS4?si=ATun9mOe3BDjk4F6&t=90) <br/> [Link](https://www.youtube.com/watch?v=KnLTABI2kJo)     | [DPS.Report](https://dps.report/tv9N-20240120-162526_enso) <br/> [DPS.Report](https://dps.report/HJXn-20240201-192439_enso) | Jetrell (Hammer) <br/> Wuju (Longbow)     |
+| Siax      | [Link](https://www.youtube.com/watch?v=78Q7fNVu9PI)       | [DPS.Report](https://dps.report/w4sJ-20250119-203806_siax)  | Gravi |
+| Ensolyss  | No PoV <br/> [Link](https://youtu.be/43Mte41xqS4?si=ATun9mOe3BDjk4F6&t=90) <br/> [Link](https://www.youtube.com/watch?v=KnLTABI2kJo)     | [DPS.Report](https://dps.report/2lf9-20250118-222719_enso) <br/> [DPS.Report](https://dps.report/tv9N-20240120-162526_enso) <br/> [DPS.Report](https://dps.report/HJXn-20240201-192439_enso) | Jetrell / Gravi (Mace) <br/> Jetrell (Hammer) <br/> Wuju (Longbow)     |
 | Skorvald  | [Link](https://youtu.be/ZJl9dMpQ3Ns?si=5IIQU23GUoiFS9qC)       | [DPS.Report](https://dps.report/kmOJ-20240117-191920_skor)  | Gravi |
 | Artsariiv | [Link](https://youtu.be/B8GTuFvKeD4?si=EKNjvZ_krpNAQGJb)       | [DPS.Report](https://dps.report/kjkL-20240117-195126_arriv) | Gravi |
 | Arkk      | [Link](https://youtu.be/s3SsWQQILUM?si=0wwDsg8EG0HEbd2o) | [DPS.Report](https://dps.report/q4D8-20240114-223224_arkk)  | Wuju |
