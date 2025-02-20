@@ -9,9 +9,9 @@ difficulties:
 potions:
   - id: 50082
   - id: 8887
-hasCM: false
+hasCM: true
 cycle: Day
-hidden: true
+hidden: false
 layout: src/layouts/Fractal.astro
 date: "2025-02-09T19:44:38.753Z "
 consumables: []
