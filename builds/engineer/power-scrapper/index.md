@@ -22,8 +22,8 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-02-15T12:04:40.945Z "
-cmGuide: static
+date: "2025-02-20T22:20:20.741Z "
+cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
 It offers:
