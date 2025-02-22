@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-02-20T22:20:20.741Z "
+date: "2025-02-22T22:29:49.567Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
@@ -217,7 +217,7 @@ This precast is only an option in organised groups. To be effective, you need to
 2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
 3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
 4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-5.  _Inventory swap to <Item name="Relic of Cerus"/>_
+5.  _Inventory swap to <Item id="103872"/>_
 6.  <Skill name="Elite Mortar Kit"/> (Elite) to proc <Item id="103872"/>
 7.  _Swap to in-fight template_
 
