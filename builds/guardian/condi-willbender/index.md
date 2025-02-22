@@ -15,7 +15,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2025-02-20T22:16:38.868Z "
+date: "2025-02-22T22:56:32.404Z "
 title: Condi Willbender
 rating: Good
 role: Condi Damage
@@ -134,26 +134,27 @@ In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> o
 
 | Skill                                            | Number of Procs | Notes                                                                                                                                  |
 |--------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| <Skill name="Rushing Justice"/> (F1)             | 48              | Make sure to use this skill outside Eparchs hitbox for maximum hits                                                                    |
-| <Skill name="Flowing Resolve"/> (F2)             | 15 - 45         | Using both charges multiplies the amounts of procs. Amount of hits depends on positioning                                              |
+| <Skill name="Rushing Justice"/> (F1)             | 48              | Make sure to use this skill outside Eparchs hitbox for maximum hits                                                                |
+| <Skill name="Flowing Resolve"/> (F2)             | 15+             | Using both charges multiplies the amounts of procs. Amount of hits depends on positioning                                        |
 | <Item id="100074"/>             | 18 - 20         | Needs to be placed inside Eparchs hitbox otherwise will lose procs                                              |
-| <Skill name="Symbol of Punishment"/> (Scepter 2) | 13              | 18 procs with <Trait name="Writ of Persistence"/>                                                                                      |
+| <Skill name="Symbol of Punishment"/> (Scepter 2) | 13              | 18 procs with <Trait name="Writ of Persistence"/>                                                                                 |
 | <Skill name="Cleansing Flame"/> (Torch 5)        | 10              |                                                                                                                                        |
 | <Skill name="Ray of Judgment"/> (Focus 4)        | 9               |                                                                                                                                        |
-| <Skill name="Purging Flames"/> (Utility)         | 6               | 8 procs with <Trait name="Master of Consecrations"/>                                                                                   |
-| <Skill name="Crashing Courage"/> (F3)            | 6               |                                                                                    |
-| <Skill name="Peacekeeper"/> (Pistol 2)           | 5               | Ignition grants an extra 4-7 procs with <Boon name="Quickness"/>, depending on how many hits inside <Skill name="Symbol of Ignition"/> |
-| <Skill name="Symbol of Ignition"/> (Pistol 3)    | 5               |                                                                                                                                        |
-| <Trait  name="Zealots Resolution"/> (Trait)      | 5               | 7 procs with <Trait name="Writ of Persistence"/>                                                                                       |
+| <Skill name="Purging Flames"/> (Utility)         | 6               | 8 procs with <Trait name="Master of Consecrations"/>                                                                               |
+| <Skill name="Crashing Courage"/> (F3)            | 6               |                                                                                                                                        |
+| <Skill name="Peacekeeper"/> (Pistol 2)           | 5               |                                                                                                                                        |
+| <Skill name="Symbol of Ignition"/> (Pistol 3)    | 5               | Ignition grants an extra 4-7 procs with <Boon name="Quickness"/>, depending on how many hits inside <Skill name="Symbol of Ignition"/> |
+| <Trait  name="Zealots Resolution"/> (Trait)      | 5               | 7 procs with <Trait name="Writ of Persistence"/>                                                                                 |
 | <Skill name="Flash Combo"/> (Utility)            | 5               | Will miss procs if moving                                                                                                              |
 | <Skill name="Zealots Flame"/> (Focus 4)          | 4               |                                                                                                                                        |
 | <Skill name="Sword of Justice"/> (Utility)       | 4               |                                                                                                                                        |
 | <Skill name="Whirling Light"/> (Utility)         | 4               |                                                                                                                                        |
-| <Trait name="Protectors Restoration"/> (Trait)   | 3               | 5 procs with <Trait name="Writ of Persistence"/>                                                                                       |
-| <Skill name="Shield of Wrath"/> (Focus 5)         | 1               |                                                                                                                                        |
-| <Item id="24548"/>        | 1               |                                                                                                                                        |
-| <Item id="24554"/>        | 1               |                                                                                                                                        |
-| <Trait name="Permeating Wrath"/> (Trait)         | 1               | This trait has no ICD and will proc Gluttony through <Condition name="Burning"/> every 3 hits.                                                                                                                                       |
+| <Trait name="Protectors Restoration"/> (Trait)   | 3               | 5 procs with <Trait name="Writ of Persistence"/>                                                                                 |
+| <Skill name="Chains of Light"/> (Scepter 3)      | 1               |                                                                                                                                        |
+| <Skill name="Shield of Wrath"/> (Focus 5)        | 1               |                                                                                                                                        |
+| <Item id="24548"/>                               | 1               |                                                                                                                                        |
+| <Item id="24554"/>                               | 1               |                                                                                                                                        |
+| <Trait name="Permeating Wrath"/> (Trait)         | 1               | This trait has no ICD and will proc Gluttony through <Condition name="Burning"/> every 3 hits.                                     |
 
 [Source](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4LB_wMMLm6J72E7e0j9VKF-VXxwvbpRXAidnfRYP7bLsHZNaxaNtw_2ivCeODqb6y77Ll1hqP5uE3/pubhtml) - 100CM Info Sheet provided by Lunarium.
 </Card>
