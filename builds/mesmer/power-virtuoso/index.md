@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-02-18T09:58:41.126Z "
+date: "2025-02-23T20:34:53.932Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -230,7 +230,7 @@ They do however benefit from <Effect name="Exposed"/>.
 
 ### Skill Priority
 
-To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt on the fly as Phantasms do not deal damage instantly, dealying your burst compared to other builds. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
+To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt your gameplay on the fly as phantasms do not deal damage instantly, which results in delayed burst compared to other builds and can lead to missed hits. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
 
 The guiding principle is to get as many skill casts as possible into each phase, ideally casting your Phantasm skills as early as possible. In that regard, on many fights where the boss spawns invisible or delayed, you can get an advantage by precasting AoE skills which do not require a target such as 
 <Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible. If the phase will end before your phantasms can finish their attacks, skip casting them and prioritise casting skills that deal direct damage. If there is only time to cast one of two phantasm skills, skills which spawn multiple phantasms are better due to <Trait name="Phantasmal Blades"/>.
