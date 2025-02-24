@@ -1,6 +1,6 @@
 ---
 title: Teamcomp 101
-date: "2025-02-02T23:36:50.277Z "
+date: "2025-02-24T23:59:32.301Z "
 image: images/header.jpg
 description: Everything around compositions in fractals
 ---
@@ -38,7 +38,7 @@ By choosing builds that complement each other to bring the necessary boons, cond
 <Warning>
 The compositions below are robust options with support builds that synergize well and are capable of handling all fractal mechanics, leading to quick, consistent, and smooth runs at all gameplay levels. Every class in the game has at least one option for a boon heal, boon DPS, power DPS, and condition DPS build sufficient to play in fractals, which can be an alternate option to the builds below.
 
-We want to note however, that boon builds such as <Specialization name="Mechanist"/>, <Specialization name="Druid"/>, or <Specialization name="Tempest"/> while providing all of the necessary boon support and healing, can sometimes have less access to damage mitigation or only one skill that provides <Boon name="Stability"/> and <Boon name="Aegis"/>. The reduced damage mitigation is no issue if other people in your party recognize it and adapt their play-style or builds to help. However, if their attitude is for the healer to carry the group, these builds can be much more complicated to play effectively.
+We want to note however, that boon builds such as <Specialization name="Mechanist"/>, <Specialization name="Scourge"/>, or <Specialization name="Tempest"/> while providing all of the necessary boon support and healing, can sometimes have less access to damage mitigation or only one skill that provides <Boon name="Stability"/> and <Boon name="Aegis"/>. The reduced damage mitigation is no issue if other people in your party recognize it and adapt their play-style or builds to help. However, if their attitude is for the healer to carry the group, these builds can be much more complicated to play effectively.
 </Warning> 
 
 ### Example T4 Compositions
