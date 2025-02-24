@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2025-02-20T22:37:26.277Z "
+date: "2025-02-24T23:58:37.795Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -24,7 +24,7 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | <Specialization name="Renegade" disableText/>                                                                                                                                              | <BuildLink build="Power Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 10 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control and damage mitigation. It applies a very high amount of <Condition name="vulnerability"/> and it remains unmatched for the success of a power composition in short phases. <br/>                                                                       |
 | <Specialization name="Scrapper" disableText/>                                                                                                                                              | <BuildLink build="Power Scrapper"  specialization="Scrapper"/> provides 100% <Boon name="Quickness"/> uptime, 10 stacks of <Boon name="Might"/> with your <Skill name="Blast Gyro"/> , utilities in terms of crowd control and reflects. It also provides <Skill name="Superspeed"/>, and brings some more <Condition name="vulnerability"/> which helps the renegade.<br/>                                                                                   |
 | <Specialization name="Soulbeast" disableText/>                                                                                                                                             | <BuildLink build="Power Soulbeast"  specialization="Soulbeast"/> provides massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently only matched by <Specialization name="Dragonhunter"/> on most bosses.                                                                                                                                                                         |
-| <Specialization name="Dragonhunter" disableText/> |  <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/> brings high burst, faster <Condition name="vulnerability"/> ramp up, and <Boon name="Aegis"/>. |
+| <Specialization name="Dragonhunter" disableText/> |  <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/> brings high burst, faster <Condition name="vulnerability"/> ramp up, and <Boon name="Aegis"/>. The time between bursts is shorter than <Specialization name="Soulbeast"/> making it useful to deal damage where a <Specialization name="Soulbeast"/> would be stuck waiting for cooldowns. |
 
 </Card>
  
