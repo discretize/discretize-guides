@@ -15,7 +15,7 @@ classification:
   - 3
   - 2
   - 3
-date: "2025-02-22T22:56:32.404Z "
+date: "2025-03-01T12:40:11.982Z "
 title: Condi Willbender
 rating: Good
 role: Condi Damage
@@ -80,10 +80,9 @@ You will want the following weapons to swap to during fractal runs:
 |                                               |                                                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------ |
 | <Skill name="Sanctuary"/>                     | 1050 damage over 7 seconds (thanks to <Trait name="Master of Consecrations"/>) |
-| <Skill name="Hammer of Wisdom"/>              | 200 damage                                                                     |
 | <Skill name="Chains of light"/>               | <Condition name="Immobile"/> 50/s                                              |
 | <Skill name="Heavens Palm"/>                  | 400 damage (Knockdown) <br/> 150 damage (Knockback)                            |
-| <Skill id="9226"/> (after <Skill id="9147"/>) | 150 damage                                                                     |
+| <Skill name="Heel Crack"/>                    | 200 damage                                                                     |
 
 </GridItem>
 
@@ -96,7 +95,7 @@ You will want the following weapons to swap to during fractal runs:
 | <Skill name="Signet of Wrath" size="big" disableText/>  | Taken as a 3rd utility if no other skill is needed on the regular condition build.                                 |
 | <Skill name="Sanctuary" size="big" disableText/>        | Huge CC and projectile destruction.                                                 |
 | <Skill name="Sword of Justice" size="big" disableText/> | Used as a source of <Condition name="Vulnerability"/>, or your best option for more Gluttony procs on Eparch if <Skill name="Sanctuary"/> is not required.                               |
-| <Skill name="Flash Combo" size="big" disableText/> | Taken for more CC over <Skill name="Whirling Light"/> while still providing Gluttony procs if required.                               |
+| <Skill name="Heel Crack" size="big" disableText/> | Taken for more CC over <Skill name="Whirling Light"/> while still providing a Gluttony proc if required.                               |
 
 
 </GridItem>
@@ -109,28 +108,34 @@ You will want the following weapons to swap to during fractal runs:
 <GridItem sm="6">
 ### Rotation Concept
 
-In general, for fractals, there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. Make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
+On Eparch there is no set rotation for <Specialization name="Willbender" text="Gluttony Willbender"/>, due to the majority of your damage coming from Gluttony procs (around 85% depending on the kill). Instead the rotation is priority based, focusing on the skills that proc the most Gluttony hits as seen on the table to the right.
 
-In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> or <Skill name="Zealot's Fire"/> three times then swap.
+With this in mind, you want to prioritise the following skills:
 
 1. <Skill name="Rushing Justice"/>
-2. <Skill name="Purging Flames"/>
-3. <Skill name="Symbol of Ignition"/>
+2. <Skill name="Flowing Resolve"/>
+3. <Skill name="Symbol of Punishment"/>
 4. <Skill name="Peacekeeper"/>
-5. <Skill name="Whirling Light"/> off cooldown
-6. <Skill name="Flowing Resolve"/> off cooldown
-7. <Skill name="Crashing Courage"/> off cooldown
+5. <Skill name="Cleansing Flame"/>
+6. <Skill name="Ray of Judgment"/>
+7. <Skill name="Symbol of Ignition"/>
 
-#### Off-hand pistol
-<Skill name="Hail of Justice"/>
-#### Off-hand torch
-<Skill name="Zealot's Flame"/> and <Skill name="Zealot's Fire"/> when you have a charge
+#### Rotation Notes
+- To get the maximum amount of <Skill name="Rushing Justice"/> hits, make sure to cast the skill outside of Eparchs hitbox.
+- Use your heal skill to proc <Trait name="Protectors Restoration"/> for more Gluttony procs.
+- Make sure to enter each split phase with at least 12 stacks of Gluttony, even if it means holding damage to wait for extra stacks.
+- Before Eparch does his Consume attack, he consistently swaps fixation to the furthest person away in line of sight (and with the highest <Attribute name="Toughness"/>, however this is uncomfirmed). Make sure this is not you to prevent getting stripped of Gluttony stacks.
+
+
+### Example Gluttony Willbender PoV
+<Video youtube="7rDqUKi0zRI" caption="by Mrnousak. Note - Off hand sword is being used for mobility and is an optional replacement for Torch."/>
+
 
 </GridItem>
 
 <GridItem sm="6">
 
-<Card title="Gluttony Procs">
+<Card title="Gluttony Procs Table">
 
 | Skill                                            | Number of Procs | Notes                                                                                                                                  |
 |--------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -143,7 +148,7 @@ In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> o
 | <Skill name="Purging Flames"/> (Utility)         | 6               | 8 procs with <Trait name="Master of Consecrations"/>                                                                               |
 | <Skill name="Crashing Courage"/> (F3)            | 6               |                                                                                                                                        |
 | <Skill name="Peacekeeper"/> (Pistol 2)           | 5               |                                                                                                                                        |
-| <Skill name="Symbol of Ignition"/> (Pistol 3)    | 5               | Ignition grants an extra 4-7 procs with <Boon name="Quickness"/>, depending on how many hits inside <Skill name="Symbol of Ignition"/> |
+| <Skill name="Symbol of Ignition"/> (Pistol 3)    | 5               | 7 procs with <Trait name="Writ of Persistence"/>. Ignition grants extra procs with <Boon name="Quickness"/>, depending on how many skills hit inside <Skill name="Symbol of Ignition"/> |
 | <Trait  name="Zealots Resolution"/> (Trait)      | 5               | 7 procs with <Trait name="Writ of Persistence"/>                                                                                 |
 | <Skill name="Flash Combo"/> (Utility)            | 5               | Will miss procs if moving                                                                                                              |
 | <Skill name="Zealots Flame"/> (Focus 4)          | 4               |                                                                                                                                        |
