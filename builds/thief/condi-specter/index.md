@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGywfRxUVGwAACwEAAD4BAAAvAQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-03-02T22:32:44.463Z "
+date: "2025-03-02T22:34:02.984Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -157,7 +157,7 @@ In <Skill name="Enter Shadow Shroud" text="Shadow Shroud"/> use <Skill id="63249
 
 Never delay <Skill name="Enter Shadow Shroud"/>!
 
-To proc <Item id="100153"/>, this build uses <Skill name="Well of Sorrow"/>, <Item id="24605"/>, and <Skill name="Siphon"/> (with <Trait name="Deadly Ambush"/>) to inflict <Condition name="Bleeding"/>. If you adjust the build for example to run Pistol or change Utility skills, you may not have enough <Condition name="Bleeding"/> sources to proc <Item id="100153"/>. In this case you can consider taking <Item id="100432"/> and using <Skill id="63249"/> (Shroud 5) to proc it. 
+To proc <Item id="100153"/>, this build uses <Skill name="Well of Sorrow"/>, <Item id="24605"/>, and <Skill name="Siphon"/> (with <Trait name="Deadly Ambush"/>) to inflict <Condition name="Bleeding"/>. If you adjust the build for example to run Pistol or change Utility skills, you may not have enough <Condition name="Bleeding"/> sources to proc <Item id="100153"/>. In this case you can consider taking <Item id="100432"/> and using <Skill id="63249"/> (Shroud 5) when in <Skill name="Enter Shadow Shroud" text="Shadow Shroud"/> to proc it. 
 
 </GridItem>
 
