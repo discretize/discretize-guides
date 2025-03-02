@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGywfRxUVGwAACwEAAD4BAAAvAQAADgEAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-03-02T20:34:15.713Z "
+date: "2025-03-02T22:32:44.463Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -34,11 +34,9 @@ conditions:
   - name: Torment
 cmGuide: ""
 ---
-<Advanced>
 <Warning>
 <Specialization text="Condi Specter" name="Specter"/> is a very strong build in Silent Surf and Sunqua Peak especially as a <Boon name="Alacrity"/> provider. Outside of these fractals it falls massively behind other builds and is not recommended to be played. If you are gearing <Specialization text="Condi Alacrity Specter" name="Specter"/>, we recommend gearing <BuildLink build="Power Renegade" specialization="Renegade"/> to play on the other CM encounters and T4s.
 </Warning>
-</Advanced>
 
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great CC and some party support. 
 
@@ -73,7 +71,7 @@ Depending on the group and composition you may need to replace the Geomancy Dagg
 <Grid>
 <GridItem sm="7">
 ### Traits
-<Traits traits1Id="44" traits1="Trickery" traits1SelectedIds="1163,1190,1187" traits2Id="28" traits2="Deadly Arts" traits2SelectedIds="1164,1292,1291" traits3Id="71" traits3="Specter" traits3SelectedIds="2284,2290,2264"/>
+<Traits traits1Id="44" traits1="Trickery" traits1SelectedIds="1163,1190,1706" traits2Id="28" traits2="Deadly Arts" traits2SelectedIds="1164,1292,1291" traits3Id="71" traits3="Specter" traits3SelectedIds="2284,2290,2264"/>
 
 ### Situational Trait
 <Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed.
@@ -136,7 +134,7 @@ This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute nam
 
 ### Rotation
 
-There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Trait name="Quick Pockets"/>, <Item id="24609"/>, and <Item id="24605"/> as often as possible.
+There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Item id="24609"/>, and <Item id="24605"/> as often as possible.
 
 You should be casting your <Skill name="Spider Venom"/> (ensuring to hit your allies with it), <Skill name="Well of Sorrow"/>, and <Skill name="Skale Venom"/> / <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
 
@@ -145,8 +143,6 @@ On Scepter/Dagger you want to use:
 - <Skill name="Twilight Combo"/> (Scepter 3)
 - <Skill name="Shadow Bolt"/>, <Skill name="Double Bolt"/>, <Skill name="Triple Bolt"/> (Auto attack chain)
 - <Skill name="Siphon"/> to regain Initiative to cast <Skill name="Twilight Combo"/> (Scepter 3).
-
-You should also be weapon swapping off cooldown if you are not playing Pistol to make the best use of <Trait name="Quick Pockets"/> and your Sigils.
 
 In <Skill name="Enter Shadow Shroud" text="Shadow Shroud"/> you standard rotation should be:
 
@@ -160,6 +156,8 @@ In <Skill name="Enter Shadow Shroud" text="Shadow Shroud"/> you standard rotatio
 In <Skill name="Enter Shadow Shroud" text="Shadow Shroud"/> use <Skill id="63249"/> (Shroud 5), and <Skill id="63220"/> (Shroud 3) for either CC or their utility if required.
 
 Never delay <Skill name="Enter Shadow Shroud"/>!
+
+To proc <Item id="100153"/>, this build uses <Skill name="Well of Sorrow"/>, <Item id="24605"/>, and <Skill name="Siphon"/> (with <Trait name="Deadly Ambush"/>) to inflict <Condition name="Bleeding"/>. If you adjust the build for example to run Pistol or change Utility skills, you may not have enough <Condition name="Bleeding"/> sources to proc <Item id="100153"/>. In this case you can consider taking <Item id="100432"/> and using <Skill id="63249"/> (Shroud 5) to proc it. 
 
 </GridItem>
 
