@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-23T21:43:14.840Z "
+date: "2025-04-23T22:20:12.012Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-
+ 
 <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
@@ -73,7 +73,7 @@ Note: This setup does not use stat infusions. Stat infusion setups can be found 
 
 
 ### Weapon Choices
-After the greatsword buffs in April 2025, the default weapon setup is Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as it offers the highest burst in short phases. The old setup using Dagger/Sword + Spear should be playable, as well. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup. Before getting into combat, you can freely swap to any weapon to precast additional AoE skills or phantasms.
+After the greatsword buffs in April 2025, the default weapon setup is Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as it offers the highest burst in short phases. The old setup using Dagger/Sword + Spear should be playable, as well, especially in longer fights. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup. Before getting into combat, you can freely swap to any weapon to precast additional AoE skills or phantasms.
 
 <Grid>
 <GridItem sm="4">
@@ -94,18 +94,20 @@ After the greatsword buffs in April 2025, the default weapon setup is Spear + Gr
 <Grid>
 <GridItem sm="7">
 ### Traits
-<Traits traits1Id="10" traits1="Domination" traits1SelectedIds="682,713,681" traits2Id="1" traits2="Dueling" traits2SelectedIds="701,708,692" traits3Id="66" traits3="Virtuoso" traits3SelectedIds="2208,2205,2206"/>
+<Traits traits1Id="10" traits1="Domination" traits1SelectedIds="686,713,681" traits2Id="1" traits2="Dueling" traits2SelectedIds="701,708,692" traits3Id="66" traits3="Virtuoso" traits3SelectedIds="2208,2205,2206"/>
 
 ### Situational Traits
 
 |                                                            |                                                                           |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------- |
 | <Trait name="Shattered Concentration" size="big" disableText/> | Take this trait if you want to help strip boons. |
-| <Trait name="Bountiful Blades" size="big" disableText/> | Take this trait if you're playing with Greatsword. |
+| <Trait name="Empowered Illusions" size="big" disableText/> | Take this trait if you are not playing with Greatsword. |
 
-<Traits traits1Id="24" traits1="Illusions" traits1SelectedIds="721,729,733"/>
+<Traits traits1Id="24" traits1="Illusions" traits1SelectedIds="1869,729,733"/>
 
-You can go this Illusions variant over the Domination traitline when you're facing <Boon name="Quickness"/> uptime issues to be more self-sufficient in bad groups, if you're also lacking <Boon name="Might"/> and <Boon name="Fury"/> consider going <Trait name="Persistence of Memory" size="small"/> as well.
+You can go this Illusions variant instead of the Domination traitline when you're facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues in order to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. If you are on a solo mission involving trash mobs, consider using bloodlust sigil on top of the typical slaying sigils or night sigil. 
+
+Before flaming your group for boons or swapping traitlines, you can also make sure that quickness and might are properly stacked at the mistlock singularity by using the heal chronomancer gearset with high boon duration and precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/>.
 
 <Advanced>
 <Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
@@ -137,7 +139,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <GridItem sm="5">
 ### Extra Weapons and Food
 - Focus offers your group a very efficient pull with <Skill name="Into the Void"/> in T4 fractals.
-- Greatsword can offer additional burst, but sacrifices the ability to precast dagger skills like <Skill name="Unstable Bladestorm"/> without using template swaps.
+- Dagger mainhand can be used to precast <Skill name="Unstable Bladestorm"/> before swapping to a template with greatsword and spear or in long fights.
 - Sword offers an evade, mobility and additional boonstrip when used as mainhand weapon.
 - Always run Spear. 
 - Use sigil swapping where appropriate to gain additional damage.
