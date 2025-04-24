@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T18:04:43.342Z "
+date: "2025-04-24T18:31:23.772Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-  
+   
 <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
@@ -271,6 +271,11 @@ You should make some adjustments to your build before starting the encounter. Mo
 
 As far as the general rotation is concerned, this fight is long enough to resemble a raid rotation. Make sure to help cc the adds if your groups is not prepared to skip them with sufficient dps and break the boss as late as possible. One add explosion can be tanked with <Effect name="Rigorous Certainty"/>. Support players should take the tether at 33% in order to prevent damage reduction from <Effect name="Cacophonous Mind"/>, but if no-one is willing to take it, it is still a group damage increase for you to grab it. 
 
+### Dark AI Reflect Placement PoV 
+<Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
+[Example Log](https://dps.report/fhkr-20241013-180933_ai)
+
+
 </GridItem>
 <GridItem xs="12" sm="5">
 
@@ -305,8 +310,7 @@ At the boss (pre-spawned bosses)
 Swapping gear or skills does not remove your boons. Hence, both using a precast skill template and a precast gearset with high boon duration are advised. Be careful that your skill templates use the same traits, as swapping traits does remove your boons.
 </Warning>
 
-</Card>
-
+</Card> 
 <Card title="Example Opener">
 <Tabs>
 <Tab title="Greatsword">
@@ -315,20 +319,22 @@ Swapping gear or skills does not remove your boons. Hence, both using a precast 
 - Start on Spear 
 - Proc  <Item id="100947"/> with  <Skill name="Bladeturn Requiem"/> during your first cast.
 1. <Skill id="73093"/> for Clarity and simultaneously <Skill name="Bladeturn Requiem"/>
-2. <Skill id="72957"/> to CC
+2. <Skill id="72957"/> to help break a breakbar
 3. <Skill id="73093"/> for Clarity
-4. <Skill id="72946"/> for Double Phantasm 
-5. 
+4. <Skill id="72946"/> for Double Phantasms 
 5. _Weapon Swap_
-6. <Skill name="Phantasmal Berserker"/>
-7. <Skill name="Mirror Blade">
-9. <Skill name="Bladesong Harmony"/>
-10. <Skill name="Mind Stab"/>
+6. <Skill name="Phantasmal Berserker"/> for big damage
+7. <Skill name="Mirror Blade"/> for big damage
+8. <Skill name="Bladesong Harmony"/> for big damage
+9. <Skill name="Mind Stab"/> (careful, it interrupts other skills)
+10. <Skill name="Bladesong Sorrow"/> and <Skill name="Bladesong Dissonance"/> with leftover blades
 
+Add <Skill name="Phantasmal Disenchanter"/> and <Skill name="Signet of the Ether"/> after Step 6 to cast your phantasms twice if there is enough time before a boss phases. 
 <Warning>
 Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.
 </Warning>
 </Tab>
+
 
 <Tab title="Dagger/Sword">
 - Start on Dagger/Sword
@@ -348,11 +354,13 @@ If a boss spawns invisible such that it is not targetable instantly, use <Skill 
 </Warning>
 </Tab>
 </Tabs>
+
+### Skorvald Opener Example in Fast Pug 
+<Video caption="by Feint." youtube=8F0GVFiE4yI />
+
+
 </Card>
 
-### Dark AI Reflect Placement PoV 
-<Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
-[Example Log](https://dps.report/fhkr-20241013-180933_ai)
 
 </GridItem>
 </Grid>
