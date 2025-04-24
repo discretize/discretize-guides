@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T18:31:23.772Z "
+date: "2025-04-24T18:41:00.662Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -273,7 +273,6 @@ As far as the general rotation is concerned, this fight is long enough to resemb
 
 ### Dark AI Reflect Placement PoV 
 <Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
-[Example Log](https://dps.report/fhkr-20241013-180933_ai)
 
 
 </GridItem>
@@ -324,8 +323,8 @@ Swapping gear or skills does not remove your boons. Hence, both using a precast 
 4. <Skill id="72946"/> for Double Phantasms 
 5. _Weapon Swap_
 6. <Skill name="Phantasmal Berserker"/> for big damage
-7. <Skill name="Mirror Blade"/> for big damage
-8. <Skill name="Bladesong Harmony"/> for big damage
+7. <Skill name="Bladesong Harmony"/> for big damage
+8. <Skill name="Mirror Blade"/> for big damage
 9. <Skill name="Mind Stab"/> (careful, it interrupts other skills)
 10. <Skill name="Bladesong Sorrow"/> and <Skill name="Bladesong Dissonance"/> with leftover blades
 
@@ -355,10 +354,8 @@ If a boss spawns invisible such that it is not targetable instantly, use <Skill 
 </Tab>
 </Tabs>
 
-### Skorvald Opener Example in Fast Pug 
-<Video caption="by Feint." youtube=8F0GVFiE4yI />
-
-
+### Skorvald Precast and Opener Example in a Fast Pug 
+<Video caption="by Feint." youtube="8F0GVFiE4yI"/>
 </Card>
 
 
