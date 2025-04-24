@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T23:40:55.404Z "
+date: "2025-04-24T23:46:30.144Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -105,7 +105,7 @@ After the greatsword buffs in April 2025, the default weapon setup is Spear + Gr
 
 <Traits traits1Id="24" traits1="Illusions" traits1SelectedIds="1869,729,733"/>
 
-You can use this Illusions-traitline variant instead of the Domination-traitline when you are facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues. It allows you to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. If you are on a solo mission involving trash mobs, consider using bloodlust sigil on top of the typical slaying sigils or night sigil. 
+You can use this Illusions-traitline variant instead of the Domination-traitline when you are facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues. It allows you to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. If you are on a solo mission involving trash mobs, consider using one bloodlust sigil on top of the typical slaying sigils or night sigil. 
 
 Before flaming your group for boons or swapping traitlines, you should make sure that quickness and might are properly stacked at the mistlock singularity by using a heal chronomancer gearset with high boon duration and precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/>.
 
