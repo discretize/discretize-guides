@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T18:41:00.662Z "
+date: "2025-04-24T18:58:29.884Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -315,8 +315,10 @@ Swapping gear or skills does not remove your boons. Hence, both using a precast 
 <Tab title="Greatsword">
 1. Precast <Skill name="Unstable Bladestorm"/> and swap to your greatsword template.
 2. Precast <Skill name="Rain of Swords"/> (2x) by using <Skill name="Mimic"/> at the Mistlock Singularity. 
-- Start on Spear 
+- Start on Spear. 
 - Proc  <Item id="100947"/> with  <Skill name="Bladeturn Requiem"/> during your first cast.
+- Weave in <Skill name="Power Spike"/> whenever possible.
+
 1. <Skill id="73093"/> for Clarity and simultaneously <Skill name="Bladeturn Requiem"/>
 2. <Skill id="72957"/> to help break a breakbar
 3. <Skill id="73093"/> for Clarity
@@ -329,8 +331,9 @@ Swapping gear or skills does not remove your boons. Hence, both using a precast 
 10. <Skill name="Bladesong Sorrow"/> and <Skill name="Bladesong Dissonance"/> with leftover blades
 
 Add <Skill name="Phantasmal Disenchanter"/> and <Skill name="Signet of the Ether"/> after Step 6 to cast your phantasms twice if there is enough time before a boss phases. 
+
 <Warning>
-Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.
+Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.  
 </Warning>
 </Tab>
 
@@ -348,6 +351,8 @@ Invisible bosses usually still take damage although the first second might not b
 9. <Skill id="73093"/>
 10. <Skill name="Bladesong Harmony"/>
 
+Weave in <Skill name="Power Spike"/> whenever possible. Add <Skill name="Phantasmal Disenchanter"/> and <Skill name="Signet of the Ether"/> to cast your phantasms twice if there is enough time before a boss phases. 
+
 <Warning>
 If a boss spawns invisible such that it is not targetable instantly, use <Skill name="Bladecall"/> and <Skill name="Bladeturn Requiem"/> early while waiting to be able to cast phantasms. Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon.
 </Warning>
@@ -355,7 +360,7 @@ If a boss spawns invisible such that it is not targetable instantly, use <Skill 
 </Tabs>
 
 ### Skorvald Precast and Opener Example in a Fast Pug 
-<Video caption="by Feint." youtube="8F0GVFiE4yI"/>
+<Video caption="by Feint. Estimating the time you have to precast and how many phantasm you can cast is crucial." youtube="8F0GVFiE4yI"/>
 </Card>
 
 
