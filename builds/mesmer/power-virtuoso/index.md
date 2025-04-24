@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T15:24:38.275Z "
+date: "2025-04-24T18:04:43.342Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -105,9 +105,9 @@ After the greatsword buffs in April 2025, the default weapon setup is Spear + Gr
 
 <Traits traits1Id="24" traits1="Illusions" traits1SelectedIds="1869,729,733"/>
 
-You can go this Illusions variant instead of the Domination traitline when you're facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues in order to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. If you are on a solo mission involving trash mobs, consider using bloodlust sigil on top of the typical slaying sigils or night sigil. 
+You can go this Illusions-traitline variant instead of the Domination-traitline when you are facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues. It allows you to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. If you are on a solo mission involving trash mobs, consider using bloodlust sigil on top of the typical slaying sigils or night sigil. 
 
-Before flaming your group for boons or swapping traitlines, you can also make sure that quickness and might are properly stacked at the mistlock singularity by using the heal chronomancer gearset with high boon duration and precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/>.
+Before flaming your group for boons or swapping traitlines, you should make sure that quickness and might are properly stacked at the mistlock singularity by using a heal chronomancer gearset with high boon duration and precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/>.
 
 <Advanced>
 <Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
@@ -276,31 +276,61 @@ As far as the general rotation is concerned, this fight is long enough to resemb
 
 <Card title="Precasting">
 
-At the Mistlock Singularity
+At the Mistlock Singularity for better boons:
 
-- Make sure to start with 5 Blades. If you need use <Skill name="Blade Renewal"/> to replenish them.
+- Make sure to start a fight with 5 Blades by using <Skill name="Blade Renewal"/>.
+- Use a high boon duration gearset to
 
-1. Blast fire fields with <Skill name="The Prestige"/>.
-2. Use <Skill name="Inspiring Imagery"/> (Careful its Ethereal Combo Field)
-3. Extend your own boons with <Skill name="Signet of Inspiration"/> if you have time.
-4. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
-5. Additionally you can precast a <Skill name="Time Warp"/> on the boss and take the singularity as well on bosses like Skorvald, or any boss if you use portals.
+1. Blast existing fire fields with <Skill name="The Prestige"/> using a torch.
+2. Give might with <Skill name="Tides of Time"/> using a shield.
+2. Use <Skill name="Inspiring Imagery"/> for more might from your rifle. \
+   (Careful in coordinated groups, it creates an Ethereal Combo Field)
+3.  Precast a <Skill name="Time Warp"/> for quickness.
+4. Extend your own boons with <Skill name="Signet of Inspiration"/> if you have time.
+5. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
 
-At the boss (spawnable bosses)
+
+At the boss (spawnable bosses) for damage:
 
 1. Cast <Skill name="Rain of Swords"/>. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
 2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
 3. Cast <Skill name="Rain of Swords"/> (again).
 4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a break bar.
 
-At the boss (pre-spawned bosses)
+At the boss (pre-spawned bosses) 
 
 - You can also precast phantasms like <Skill name="Phantasmal Warlock"/>.
 
+<Warning>
+Swapping gear or skills does not remove your boons. Hence, both using a precast skill template and a precast gearset with high boon duration are advised. Be careful that your skill templates use the same traits, as swapping traits does remove your boons.
+</Warning>
+
 </Card>
 
-### Example Opener
+<Card title="Example Opener">
+<Tabs>
+<Tab title="Greatsword">
+1. Precast <Skill name="Unstable Bladestorm"/> and swap to your greatsword template.
+2. Precast <Skill name="Rain of Swords"/> (2x) by using <Skill name="Mimic"/> at the Mistlock Singularity. 
+- Start on Spear 
+- Proc  <Item id="100947"/> with  <Skill name="Bladeturn Requiem"/> during your first cast.
+1. <Skill id="73093"/> for Clarity and simultaneously <Skill name="Bladeturn Requiem"/>
+2. <Skill id="72957"/> to CC
+3. <Skill id="73093"/> for Clarity
+4. <Skill id="72946"/> for Double Phantasm 
+5. 
+5. _Weapon Swap_
+6. <Skill name="Phantasmal Berserker"/>
+7. <Skill name="Mirror Blade">
+9. <Skill name="Bladesong Harmony"/>
+10. <Skill name="Mind Stab"/>
 
+<Warning>
+Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.
+</Warning>
+</Tab>
+
+<Tab title="Dagger/Sword">
 - Start on Dagger/Sword
 1. Precast <Skill name="Unstable Bladestorm"/> and <Skill name="Rain of Swords"/> (2x)
 2. <Skill name="Phantasmal Swordsman"/> and <Skill id="10267"/> as soon as the boss is targetable
@@ -313,7 +343,12 @@ At the boss (pre-spawned bosses)
 9. <Skill id="73093"/>
 10. <Skill name="Bladesong Harmony"/>
 
+<Warning>
 If a boss spawns invisible such that it is not targetable instantly, use <Skill name="Bladecall"/> and <Skill name="Bladeturn Requiem"/> early while waiting to be able to cast phantasms. Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon.
+</Warning>
+</Tab>
+</Tabs>
+</Card>
 
 ### Dark AI Reflect Placement PoV 
 <Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
