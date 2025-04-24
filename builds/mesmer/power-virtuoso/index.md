@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T19:24:47.293Z "
+date: "2025-04-24T19:35:48.923Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -73,7 +73,7 @@ Note: This setup does not use stat infusions. Stat infusion setups can be found 
 
 
 ### Weapon Choices
-After the greatsword buffs in April 2025, the default weapon setup is Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as it offers the highest burst in short phases. The old setup using Dagger/Sword + Spear should be playable, as well, especially in longer fights. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the oldschool setup. Before getting into combat, you can freely swap to any weapon to precast additional AoE skills or phantasms.
+After the greatsword buffs in April 2025, the default weapon setup is Spear + Greatsword in conjunction with <Trait name="Bountiful Blades"/> as it offers the highest burst in short phases as well as great sustained damage. The old setup using Dagger/Sword + Spear should still be playable, as well, especially in longer fights where it is unclear which build lines up best with cooldowns. If you do not own the necessary expansions, Greatsword + Dagger / Sword is the original setup. Before getting into combat, you can freely swap to any weapon to precast additional AoE skills or phantasms. In T4 fractals, an offhand focus is often useful for pulls.
 
 <Grid>
 <GridItem sm="4">
@@ -139,8 +139,8 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 <GridItem sm="5">
 ### Extra Weapons and Food
 - Focus offers your group a very efficient pull with <Skill name="Into the Void"/> in T4 fractals.
-- Dagger mainhand can be used to precast <Skill name="Unstable Bladestorm"/> before swapping to a template with greatsword and spear or in long fights.
-- Sword offers an evade, mobility and additional boonstrip when used as mainhand weapon.
+- Dagger mainhand can be used to precast <Skill name="Unstable Bladestorm"/> before swapping to a template with greatsword and spear or in long fights. It also allows to slot in focus.
+- Sword offers an evade, mobility and additional boonstrip when used as mainhand weapon. It is the highest damage offhand weapon and has a block.
 - Always run Spear. 
 - Use sigil swapping where appropriate to gain additional damage.
 - Use <Item id="43360"/> for fights with adds for an additional damage boost. 
