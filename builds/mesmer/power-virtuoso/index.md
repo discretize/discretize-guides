@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-23T22:20:12.012Z "
+date: "2025-04-24T15:24:38.275Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
- 
+  
 <Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
@@ -235,7 +235,7 @@ They do however benefit from <Effect name="Exposed"/>.
 To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt your gameplay on the fly as phantasms do not deal damage instantly, which results in delayed burst compared to other builds and can lead to missed hits. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
 
 The guiding principle is to get as many skill casts as possible into each phase, ideally casting your phantasm skills as early as possible. In that regard, on many fights where the boss spawns invisible or delayed, you can get an advantage by precasting AoE skills which do not require a target such as 
-<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible. If the phase will end before your phantasms can finish their attacks, skip casting them and prioritise casting skills that deal direct damage. If there is only time to cast one of two phantasm skills, skills which spawn multiple phantasms are better due to <Trait name="Phantasmal Blades"/>.
+<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible when playing with offhand sword. If you think the phase will end before your phantasms can finish their attacks, skip casting them and prioritise casting skills that instantly deal direct damage. If there is only time to cast one of two phantasm skills, skills which spawn multiple phantasms are better due to <Trait name="Phantasmal Blades"/>.
 
 If you lose yourself in the rotation, follow this priority list:
 1.  Cast your phantasms whenever ready.
