@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-24T23:46:30.144Z "
+date: "2025-04-26T08:22:48.750Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -274,7 +274,7 @@ As far as the general rotation is concerned, this fight is long enough to resemb
 ### Dark AI Reflect Placement PoV 
 <Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
 
-
+ 
 </GridItem>
 <GridItem xs="12" sm="5">
 
@@ -322,15 +322,15 @@ Swapping gear or skills does not remove your boons. Hence, both using a precast 
 1. <Skill id="73093"/> for Clarity and simultaneously <Skill name="Bladeturn Requiem"/>
 2. <Skill id="72957"/> to help break a breakbar
 3. <Skill id="73093"/> for Clarity
-4. <Skill id="72946"/> for Double Phantasms 
+4. <Skill id="72946"/> for Double Phantasms Damage
 5. _Weapon Swap_
 6. <Skill name="Phantasmal Berserker"/> for big damage
 7. <Skill name="Bladesong Harmony"/> for big damage
 8. <Skill name="Mirror Blade"/> for big damage
-9. <Skill name="Mind Stab"/> (careful, it interrupts other skills)
-10. <Skill name="Bladesong Sorrow"/> and <Skill name="Bladesong Dissonance"/> with leftover blades
+9. <Skill name="Bladesong Sorrow"/> 
+10. <Skill name="Mind Stab"/> (careful, it interrupts other skills)
 
-Add <Skill name="Phantasmal Disenchanter"/> and <Skill name="Signet of the Ether"/> after Step 6 to cast your phantasms twice if there is enough time before a boss phases. 
+Add <Skill name="Phantasmal Disenchanter"/> and <Skill name="Signet of the Ether"/> after Step 6 to cast your phantasms twice if there is enough time before a boss phases, like on Siax or Enso. If a phase is too fast, you can replace <Skill name="Phantasmal Disenchanter"/> with <Skill name="Sword of Decimation"/> and add it into the opener. 
 
 <Warning>
 Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.  
