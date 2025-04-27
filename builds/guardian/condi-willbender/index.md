@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: false
 specialization: Willbender
 skills: null
