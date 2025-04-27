@@ -4,58 +4,44 @@ archive: false
 hasBeginner: false
 specialization: Willbender
 skills: null
-boons:
-  - name: Might
-    uptime: 2 stacks
-    variant: party
-code: "[&DQEQGi4XQSUmDwAATAEAANgaAAAxAQAA6RoAAAAAAAAAAAAAAAAAAAAAAAA=]"
+code: "[&DQExLy4XQSYmDwAA2BoAAEwBTAFIAUgB6RoAAAAAAAAAAAAAAAAAAAAAAAAENgAxAFYAZgAA]"
 classification:
-  - 3
-  - 4
-  - 3
+  - 5
+  - 5
+  - 1
+  - 1
   - 2
-  - 3
-date: "2025-03-01T12:40:11.982Z "
-title: Condi Willbender
+date: "2025-04-27T12:40:11.982Z "
+title: Gluttony Willbender
 rating: Good
-role: Condi Damage
+role: Hybrid Damage
 profession: Guardian
 conditions:
   - name: Burning
   - name: Vulnerability
     uptime: 12 stacks (using Sword of Justice)
 ---
-<Warning>
-<Specialization name="Willbender" text="Condi Willbender"/> shines as a build used on the Eparch encounter in [The Lonely Tower Fractal](/fractals/lonely-tower/), especially when collecting Gluttony Globules. Outside of this it generally performs worse then <BuildLink build="Condition Harbinger" specialization="Harbinger"/> on Sunqua Peak and Silent Surf CMs and is not recommended to be played.
-</Warning>
 
-The <Specialization name="Willbender" text="Condi Willbender"/> is a strong build with high damage, very strong CC, great mobility, and a forgiving rotation, making it a strong choice for all groups. It can also easily slot more supportive utility skills allowing you to provide <Boon name="Stability"/>, <Boon name="Aegis"/>, reflects and more to yourself and your party.
- 
-Compared to the <Specialization name="Firebrand" text="Condi Firebrand"/>, this build has even greater self-sustain and can provide a large amount of <Boon name="Might" /> for itself if needed by taking <Trait name="holyreckoning" />. It can also provide more CC due to <Skill name="heavenspalm" />. However, it lacks the utility the Tomes can provide as well as the option to bring a significant amount of <Boon name="Quickness" />.
+<Specialization name="Willbender" text="Gluttony Willbender"/> shines as a build used on the Eparch encounter in [The Lonely Tower Fractal](/fractals/lonely-tower/), when collecting Gluttony Globules. This build is designed to get the maximum amount of gluttony procs possible, dealing the majority of its damage through Lifesteal potentially up to around 150k damage per second depending on gluttony stacks, at the cost of it's strike and condition damage. The damage you deal with this build can only be accurately seen through the Self Stats window on ArcDPS.
+
+As well as its high damage, this build offers high defiance bar damage with <Skill name="Heavens Palm"/> and <Skill name="Sanctuary"/>, great mobility through its profession skills and off-hand sword if played, and good survivability with <Skill name="Litany of Wrath"/>. 
+
+There are two variations of the build, power and condition. While they both deal the similar amounts of Lifesteal damage from Gluttony Globules, the power build will slightly benefit faster groups in bursting down the split phase champions, and the condition build will offer slightly more sustained damage in the main phases and may benefit slower groups who don't need to hold damage for gluttony orbs in P1 or P2. Ultimately the difference between both builds is minimal and the choice of build for most parties will be personal preference.
+<Warning>
+**If you are not collecting Globules of Gluttony or on a different encounter do not run these builds!**
+</Warning>
 
 <Divider text="Equipment"/>
 
 <CharacterWithAr>
-<Character title="Gluttony Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2159,"Precision":1842,"Toughness":1000,"Vitality":1297,"Ferocity":150,"Condition Damage":2133,"Expertise":451,"Concentration":0,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.3006,"Boon Duration":0,"Critical Chance":0.4509,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.13,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.1,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":24548,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":86098,"weapon1OffType":"Focus","weapon1OffSigilId":24554,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24548,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24554,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917,"relicId":102245},"skills":{"healId":21664,"utility1Id":62565,"utility2Id":9187,"utility3Id":9128,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
-
-This build is a variation of <Specialization name="Willbender" text="Condi Willbender"/> that is intended to be run on the Eparch encounter in [The Lonely Tower Fractal](/fractals/lonely-tower/). It is designed to proc the lifesteal from the Gluttony effect as much as possible, leading to more damage than running a standard build. **If you are not collecting Globules of Gluttony or on a different encounter do not run this build!**
+<Character title="Power Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Power":3332,"Precision":2470,"Toughness":1243,"Vitality":1540,"Ferocity":1031,"Condition Damage":836,"Expertise":0,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Critical Chance":1,"Critical Damage":2.187333333333333,"Condition Duration":0,"Condition Duration Uncapped":0,"Boon Duration":0.162,"Health":17045,"Armor":2578,"Power Coefficient":4387,"Power2 Coefficient":0,"Burning Coefficient":5.59,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"NonCrit Power Coefficient":346.97625,"Siphon Base Coefficient":139.75,"Effective Power":7288.194666666666,"Power DPS":28536.823904903536,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":121.77,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage Tick":439.72875000000005,"Burning Stacks":5.59,"Burning DPS":2458.0837125000003,"Confusion Damage Tick":130.70362500000002,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":141.17624999999998,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":180.63,"Torment Stacks":0,"Torment DPS":0,"Damage":31134.657617403536,"Effective Health":97163095.63294639,"Survivability":49396.591577501975,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Assassin","helmRuneId":24703,"helmRune":"Infiltration","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Assassin","shouldersRuneId":24703,"shouldersRune":"Infiltration","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Assassin","coatRuneId":24703,"coatRune":"Infiltration","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Assassin","glovesRuneId":24703,"glovesRune":"Infiltration","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Assassin","leggingsRuneId":24703,"leggingsRune":"Infiltration","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Assassin","bootsRuneId":24703,"bootsRune":"Infiltration","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":24548,"weapon1MainAffix":"Assassin","weapon1MainInfusion1Id":37131,"weapon1OffId":30699,"weapon1OffType":"Sword","weapon1OffSigilId":24554,"weapon1OffAffix":"Assassin","weapon1OffInfusionId":37131,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24548,"weapon2MainAffix":"Assassin","weapon2MainInfusion1Id":37131,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24554,"weapon2OffAffix":"Assassin","weapon2OffInfusionId":37131},"backAndTrinket":{"backItemAffix":"Berserker","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Assassin","ring1Affix":"Assassin","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":50082,"relicId":102245},"skills":{"healId":21664,"utility1Id":62565,"utility2Id":9187,"utility3Id":9128,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"CommonEffect"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[617,603,622],[654,562,558],[2190,2197,2201]],"lines":[46,49,65]},"unbuffedAttributes":{"profession":"Guardian","specialization":"Willbender","data":{"Power":2582,"Precision":2470,"Toughness":1243,"Vitality":1540,"Ferocity":1031,"Condition Damage":86,"Expertise":0,"Concentration":243,"Healing Power":0,"Agony Resistance":162,"Critical Chance":0.75,"Critical Damage":2.187333333333333,"Condition Duration":0,"Condition Duration Uncapped":0,"Boon Duration":0.162,"Health":17045,"Armor":2578,"Power Coefficient":4387,"Power2 Coefficient":0,"Burning Coefficient":5.59,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Siphon Base Coefficient":139.75},"info":"Simulated unbuffed attributes are not exact and may not match ingame hero panel! For example, soulbeast's \"with axe\" and \"with torch/dagger\" buffs are both included, simulating a scenario which doesn't occur in either weapon set on some builds. Use with caution."}}'>
 
 If you do not have <Item id="102245"/> unlocked, you can use <Item id="100074"/>. This gets 18-20 Gluttony procs if you cast inside Eparchs hitbox and all hits connect.
 
 </Character> 
-<Character title="Condi Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2159,"Precision":1842,"Toughness":1000,"Vitality":1297,"Ferocity":150,"Condition Damage":2133,"Expertise":451,"Concentration":0,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.3006,"Boon Duration":0,"Critical Chance":0.4509,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.13,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.1,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":44944,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":49432,"weapon1OffId":30700,"weapon1OffType":"Torch","weapon1OffSigilId":24554,"weapon1OffAffix":"Viper","weapon1OffInfusionId":49432,"weapon2OffId":30693,"weapon2OffType":"Pistol","weapon2OffSigilId":24554,"weapon2OffAffix":"Viper","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917,"relicId":100153},"skills":{"healId":62622,"utility1Id":62565,"utility2Id":9187,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
+<Character title="Condition Willbender" gear='{"attributes":{"profession":"Guardian","specialization":"Willbender","data":{"Health":17870,"Armor":2496,"Power":2159,"Precision":1842,"Toughness":1000,"Vitality":1297,"Ferocity":150,"Condition Damage":2133,"Expertise":451,"Concentration":0,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0.3006,"Boon Duration":0,"Critical Chance":0.4509,"Critical Damage":1.6,"Power Coefficient":2769.6,"Power2 Coefficient":0,"Burning Coefficient":13.13,"Bleeding Coefficient":1.13,"Poison Coefficient":0,"Torment Coefficient":1.21,"Confusion Coefficient":0,"Flat DPS":0,"Burning Duration":0.7,"Resolution Duration":0.25,"Maximum Health":0.1,"Siphon Base Coefficient":139.75,"Effective Power":8713.7788859,"NonCrit Effective Power":5885.416074999999,"Power DPS":9292.907971655233,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":351.77,"Bleeding Stacks":1.4697533333333332,"Bleeding DPS":517.0151300666666,"Burning Damage":1147.482875,"Burning Stacks":26.259999999999998,"Burning DPS":30132.900297499997,"Confusion Damage":414.50425,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":372.61375,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":525.48,"Torment Stacks":1.5738066666666666,"Torment DPS":827.0039272,"Damage":40909.577326421895,"Effective Health":88763223.88059703,"Survivability":45126.194143669054,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Heavy","helmAffix":"Viper","helmRuneId":24765,"helmRune":"Balthazar","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Viper","shouldersRuneId":24765,"shouldersRune":"Balthazar","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Viper","coatRuneId":24765,"coatRune":"Balthazar","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Viper","glovesRuneId":24765,"glovesRune":"Balthazar","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Viper","leggingsRuneId":24765,"leggingsRune":"Balthazar","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Viper","bootsRuneId":24765,"bootsRune":"Balthazar","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30693,"weapon1MainType":"Pistol","weapon1MainSigil1Id":24548,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":86098,"weapon1OffType":"Focus","weapon1OffSigilId":24554,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":24548,"weapon2MainAffix":"Viper","weapon2MainInfusion1Id":37130,"weapon2OffId":30700,"weapon2OffType":"Torch","weapon2OffSigilId":24554,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Sinister","backItemInfusion1Id":49432,"amuletAffix":"Sinister","ring1Affix":"Sinister","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Viper","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Sinister","accessory1InfusionId":49432,"accessory2Affix":"Sinister","accessory2InfusionId":49432},"consumables":{"foodId":91878,"utilityId":48917,"relicId":102245},"skills":{"healId":21664,"utility1Id":62565,"utility2Id":9187,"utility3Id":9128,"eliteId":62561},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[566,567,1686],[617,603,622],[2191,2197,2201]],"lines":[16,46,65]}}'>
 
-Many different gear variations can be run on this build that varies damage-wise in certain situations. Overall when considering <Effect name="Exposed"/> and the fact you can share gear with <Specialization name="Firebrand" text ="Condi Firebrand"/> makes the setup below the best option for fractals. If you want to optimize for different situations you can use our [gear optimizer](https://optimizer.discretize.eu/).
-
-The 3rd utility skill slot is flexible. Look at the Situational Skills below for common options.
-
-This build also makes use of a <Item id="96613"/> gaining <Attribute name="Condition Damage"/> from <Trait name="Power of the Virtuous"/>. Removing this does not change the gear!
-
-You will want the following weapons to swap to during fractal runs:
-
-- Greatsword for pulling adds in Nightmare CM after MAMA and some T4s
-- A staff for <Boon name="Might"/> pre-stacking.
-- Greatsword can also be run as an alternative to Sword offering extra cleave and a useful leap
+If you do not have <Item id="102245"/> unlocked, you can use <Item id="100074"/>. This gets 18-20 Gluttony procs if you cast inside Eparchs hitbox and all hits connect.
 
 </Character> 
 </CharacterWithAr>
@@ -68,7 +54,7 @@ You will want the following weapons to swap to during fractal runs:
 ### Traits
 
 <Tabs>
-<Tab title="Gluttony Willbender">
+<Tab title="Power Willbender">
 <Traits traits1="Honor" traits1Selected="Protector's Restoration,Empowering Might,Writ of Persistence" traits2="Virtues" traits2Selected="masterofconsecrations,inspiringvirtue,permeatingwrath" traits3="Willbender" traits3Selected="Searing Pact,Restorative Virtues,Tyrants Momentum"/>
 </Tab>
 <Tab title ="Condition Willbender">
@@ -102,15 +88,13 @@ You will want the following weapons to swap to during fractal runs:
 </Grid>
 
 <Divider text="Rotation / Skill usage"/>
-<Tabs>
-<Tab title="Gluttony Willbender">
 <Grid>
 <GridItem sm="6">
 ### Rotation Concept
 
 On Eparch there is no set rotation for <Specialization name="Willbender" text="Gluttony Willbender"/>, due to the majority of your damage coming from Gluttony procs (around 85% depending on the kill). Instead the rotation is priority based, focusing on the skills that proc the most Gluttony hits as seen on the table to the right.
 
-With this in mind, you want to prioritise the following skills:
+With this in mind, you want to prioritize the following skills:
 
 1. <Skill name="Rushing Justice"/>
 2. <Skill name="Flowing Resolve"/>
@@ -124,7 +108,7 @@ With this in mind, you want to prioritise the following skills:
 - To get the maximum amount of <Skill name="Rushing Justice"/> hits, make sure to cast the skill outside of Eparchs hitbox.
 - Use your heal skill to proc <Trait name="Protectors Restoration"/> for more Gluttony procs.
 - Make sure to enter each split phase with at least 12 stacks of Gluttony, even if it means holding damage to wait for extra stacks.
-- Before Eparch does his Consume attack, he consistently swaps fixation to the furthest person away in line of sight (and with the highest <Attribute name="Toughness"/>, however this is uncomfirmed). Make sure this is not you to prevent getting stripped of Gluttony stacks.
+- Before Eparch does his Consume attack, he consistently swaps fixation to the furthest person away in line of sight (and with the highest <Attribute name="Toughness"/>, however this is unconfirmed). Make sure this is not you to prevent getting stripped of Gluttony stacks.
 
 
 ### Example Gluttony Willbender PoV
@@ -165,43 +149,3 @@ With this in mind, you want to prioritise the following skills:
 </Card>
 </GridItem>
 </Grid>
-</Tab>
-<Tab title="Condition Willbender">
-<Grid>
-<GridItem sm="7">
-### Skill Priority
-
-In general, for fractals, there is no set rotation for <Specialization name="Willbender" text="Condi Willbender"/>. Instead, you want to adapt your rotation depending on phase length and cooldowns. You can use the skill priority list below to see what your most important skills are. Make sure to prioritise using <Skill name="Rushing Justice"/> to maintain <Skill id="62618"/> and aim for maximum uptime of <Trait name="lethal tempo"/>.
-
-In either off-hand weapon, you want to trigger <Skill name="Hail of Justice"/> or <Skill name="Zealot's Fire"/> three times then swap.
-
-1. <Skill name="Rushing Justice"/>
-2. <Skill name="Purging Flames"/>
-3. <Skill name="Symbol of Ignition"/>
-4. <Skill name="Peacekeeper"/>
-5. <Skill name="Whirling Light"/> off cooldown
-6. <Skill name="Flowing Resolve"/> off cooldown
-7. <Skill name="Crashing Courage"/> off cooldown
-
-#### Off-hand pistol
-<Skill name="Hail of Justice"/>
-#### Off-hand torch
-<Skill name="Zealot's Flame"/> and <Skill name="Zealot's Fire"/> when you have a charge
-
-</GridItem>
-
-<GridItem sm="5">
-
-<Card title="Precasting">
-
-1.  Use <Skill name="hallowedground"/>
-2.  Blast a fire field with <Skill name="holystrike"/> and/or <Skill name="Hammer of Wisdom"/>
-3.  Take the _Mistlock Singularity_
-
-You can also precast stacks of <Trait name="lethal tempo"/> using your virtue skills, but this can be tricky due to them being movement abilities.
-
-</Card>
-</GridItem>
-</Grid>
-</Tab>
-</Tabs>
