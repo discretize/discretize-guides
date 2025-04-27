@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-04-27T09:32:24.273Z "
+date: "2025-04-27T17:50:06.158Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -288,7 +288,7 @@ At the Mistlock Singularity for better boons:
 1. Blast existing fire fields with <Skill name="The Prestige"/> using a torch.
 2. Give might with <Skill name="Tides of Time"/> using a shield.
 2. Use <Skill name="Inspiring Imagery"/> for more might from your rifle. \
-   (Careful in coordinated groups, it creates an Ethereal Combo Field)
+   (Careful, it creates an Ethereal Combo Field)
 3.  Precast a <Skill name="Time Warp"/> for quickness.
 4. Extend your own boons with <Skill name="Signet of Inspiration"/> if you have time.
 5. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
