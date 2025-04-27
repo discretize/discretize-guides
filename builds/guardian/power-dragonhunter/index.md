@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-02-20T22:19:46.956Z "
+date: "2025-03-16T10:45:59.895Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -117,7 +117,7 @@ If you can reliably upkeep <Boon name="Aegis"/>, you can drop the **Radiance** t
 <GridItem sm="5">
 ### Weapon Variations
 <Specialization name="Dragonhunter"/> has a choice between using Spear or Longbow in fights, with each having benefits and drawbacks in certain situations.
-- **Spear** - Offers a high burst and is typically your standard choice for most fractal encounters. Its downside is less CC than Longbow and also requires you to be permenantly melee disctance from bosses.
+- **Spear** - Offers high burst and is typically your standard choice for most fractal encounters. Its downside is having less CC than Longbow and it also requires you to permanently be in melee distance from bosses.
 - **Longbow** - Offers ranged abilities with more CC. Over a long phase it will deal more damage than spear.
 
 ### Situational Skills
@@ -332,7 +332,7 @@ If you have a Mistlock Singularity present you can use these skills for precasts
 
 <Beginner>
 
-### Step=by-Step Video
+### Step-by-Step Video
 
 This video shows the step-by-step approach to the rotation.
 
@@ -377,7 +377,7 @@ The following tips are heavily tailored to static groups looking to push their d
 - <Skill name="litanyofwrath"/> can be used to cancel aftercasts as it has priority over other abilities. It is useful to cancel <Skill name="bindingblade"/>'s aftercast on Artsariiv P1.
 - <Skill name="dragonsmaw"/> cast on the edge of the boss will also periodically apply 150 Defiance-bar damage from pulling thanks to the field left in its wake. This can be used on multiple encounters.
 - Sheathing: multiple abilities can be sheathed/stowed for significant damage increases: <Skill name="symbolofresolution"/>, <Skill name="bindingblade"/> and <Skill name="zealotsdefense"/>. Casting <Skill name="vengefulstrike"/> and following with a different ability than <Skill name="wrathfulstrike"/> needs to be avoided as <Skill name="vengefulstrike"/> in itself has a huge aftercast, which cannot be interrupted by stowing.
-- Traps can be precasted on the edge of MAMA and Ensolyss' locations, and will proc when they both use their signature ability: the bubble. This is because both of them reposition slightly while casting it. Said location for traps to proc is quite forgiving on MAMA, but rather difficult to find on Ensolyss and takes some getting used to: both are pretty consistent.
+- Traps can be precasted on the edge of MAMA and Ensolyss' locations, and will proc when they both use their signature ability: the bubble. This is because both of them reposition slightly while casting it. Said location for traps to proc is quite forgiving on MAMA, but rather difficult to find on Ensolyss and takes some getting used to. Both are pretty consistent.
 - Additionally, traps can be cast on the edge of Arkk's hitbox during downtime, namely <Skill name="processionofblades"/>, to be later proced after pushing the orbs. Traps have a tendency to proc when any moving and damaging field collides with the enemy's hitbox, such as Scrapper gyros, Mallyx elite ability and Warrior's Torch#5. To achieve this, picture the diagonals passing through Arkk and the central tiles. Cast <Skill name="processionofblades"/> on one of those diagonals such that the trap overlaps Arkk's hitbox, but doesn't cover it completely. This is useful on Arkk as <Skill name="processionofblades"/> has a rather short cooldown, and the boss has a lot of downtime.
 
 ### Trap Precasting
