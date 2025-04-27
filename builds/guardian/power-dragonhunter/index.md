@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-03-16T10:45:59.895Z "
+date: "2025-04-27T10:45:59.895Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -209,7 +209,7 @@ For that reason, you will find some general notes for skill usage here.
 10. <Skill name="leapoffaith" />
 11. <Skill name="bindingblade" />
 
-Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
+Remember to add CC skills for defiance bars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
 
 </Tab>
 <Tab title="Longbow Opener">
@@ -228,7 +228,7 @@ Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" 
 10. <Skill name="leapoffaith" />
 11. <Skill name="bindingblade" />
 
-Remember to add CC skills for breakbars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
+Remember to add CC skills for defiance bars, and to save <Skill name="bindingblade" /> if there are multi-hit opportunities. After the opener, improvise according to phase timings.
 
 </Tab>
 </Tabs>
@@ -293,7 +293,7 @@ The opener should now look like this:
 - <Skill name="Binding Blade"/> fires projectiles at up to 5 nearby enemies. The skill can be recast to pull in hit enemies, or to deal breakbar damage to bosses.
 - If standing inside a boss' hitbox, additional projectiles from <Skill name="Binding Blade"/> will all hit the boss, dealing massive single-target damage.
 - <Skill name="leapoffaith" /> can be saved for mobility in fights with movement.
-- If no above situations apply, <Skill name="bindingblade" /> and <Skill name="leapoffaith" /> provide a moderate dps increase over autoattacking. Weave them in after <Skill name="symbolofresolution" /> and <Skill name="whirlingwrath" />.
+- If no above situations apply, <Skill name="bindingblade" /> and <Skill name="leapoffaith" /> provide a moderate dps increase over auto attacking. Weave them in after <Skill name="symbolofresolution" /> and <Skill name="whirlingwrath" />.
 
 The opener should now look like this:
 

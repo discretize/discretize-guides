@@ -11,7 +11,7 @@ potions:
   - id: 8887
 hasCM: true
 cycle: Day
-hidden: false
+hidden: true
 layout: src/layouts/Fractal.astro
 date: "2025-02-09T19:44:38.753Z "
 consumables: []
