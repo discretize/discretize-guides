@@ -1,6 +1,6 @@
 ---
 title: New Player Guide
-date: "2024-04-20T13:07:07.730Z "
+date: "2025-04-28T21:33:17.648Z "
 image: images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481
@@ -81,7 +81,7 @@ These potions are invaluable and later on starting at T3 or T4 highly recommende
 The Discretize website has three main categories of guides: General builds and fractals. For new players, all categories should be equally relevant.
 
 - [General](/guides/): Learn more about the mechanics you encounter in fractals and how to deal with them.
-- [Builds](/builds/): A collection of builds, which work reasonably well. Please note that the builds are incomplete due to missing contributors. The quality of the build pages is of utmost importance to us; we'd rather have fewer builds but higher quality ones, than listing only rudimentary information about all possible builds. Most build pages also contain variations. For example, there is no dedicated page for DPS Condi Firebrand, as it is played almost the same as the <Boon name="Quickness"/> version.
+- [Builds](/builds/): A collection of builds, which work reasonably well. Please note that the builds are incomplete due to missing contributors. The quality of the build pages is of utmost importance to us; we'd rather have fewer builds but higher quality ones, than listing only rudimentary information about all possible builds. Most build pages also contain variations. For example, there is no dedicated page for DPS Condi Specter, as it is played almost the same as the <Boon name="Alacrity"/> version.
 - [Fractals](/fractals/): An overview of each fractal including possible skips and shortcuts. Also mentions what kind of utility should be brought to mitigate damage at specific encounters.
 
 ---
@@ -119,7 +119,18 @@ While there are no hard-set rules or things you "must" bring to clear an encount
 ## Trouble finding groups? Looking for training runs?
 
 <Grid>
+<GridItem sm="1" md="1">
 
+![[FotM]](images/mistlocked.png)
+
+</GridItem>
+<GridItem sm="11" md="11">
+
+Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  The guild offers a wide range of fractal training sessions across both NA and EU, covering everything from Tier 1-4 to Challenge Modes (CMs). For experienced CM players, Mistlocked also provides no-heal fractal training, with opportunities for promotion and progression based on log submissions.
+
+All information is available on their [discord](https://discord.gg/CE3TswT).
+
+</GridItem>
 <GridItem sm="1" md="1">
 ![GW2University](images/gw2university.png)
 </GridItem>
@@ -225,8 +236,9 @@ These are common abbrevations, used when a group only needs a general idea of a 
 | `cdps`             | Condition DPS           | `dps`, `CDPS`                 | A suitable condition dps build from a class of your choice. These offer strong _condition/ticking_ damage                               |
 | `pdps`             | Power DPS               | `dps`, `PDPS`                 | A suitable power dps build from a class of your choice. These offer strong _burst_ damage                                               |
 | `p&f`              | Potion and Food         | `pof`, `p & f`                | You are expected both to use all three fractal potions _and_ build-specific food buffs                                                  |
-| `DwD`              | Dances with Demons      | `title`, `99 title`           | Earned by completing level 99 in challenge mode with no one in your group being defeated                                                |
-| `NA`               | Nightmare Aspect        | `100 title`                   | Earned by completing level 100 in challenge mode with no one in your group being defeated                                               |
+| `DwD`              | Dances with Demons      | `title`, `98 title`           | Earned by completing level 98 in challenge mode with no one in your group being defeated                                                |
+| `NA`               | Nightmare Aspect        | `99 title`                   | Earned by completing level 99 in challenge mode with no one in your group being defeated                                               |
+| `KE`               | Kryptis Exorcist        | `100 title`                   | Earned by completing level 100 in challenge mode with no one in your group being defeated                                               |
 | `UFE`              | Kill proof              | `kp`                          | <Item id="94020"/>: Only gained from CMs. Requirement in LFG, can be shown through [killproof.me](https://killproof.me/)                |
 
 ---
@@ -273,32 +285,29 @@ Do not use other combo fields than fire on the _Mistlock Singularity_! All combo
 You can find out which skills are _Combo Fields_ and _Combo Finishers_ by hovering over the skill and reading the tooltip. Hover over the following skills: <Skill name="Ring of Fire"/> is a _Fire Field_ and <Skill name="Holy Strike"/> a _Blast Finisher_.  
 Below is a list of frequently used blast finishers among all professions. Note that it is often required to swap to different weapons, make sure to swap back before you enter combat.
 
-### <Boon name="Might"/> stacking for groups using <Skill name="Moa Stance"/> from <Specialization name="Soulbeast"/>.
+### <Boon name="Might"/> stacking for groups using blast finishers in a fire field.
 
-- <Specialization name="Renegade"/>: <Skill name="Renewing Wave"/> (Staff 4)
-- <Specialization name="Firebrand"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2), <Skill name="Hammer of Wisdom"/> and <Skill name="Mighty Blow"/> (Hammer 2)
-- <Specialization name="Berserker"/>: <Skill id="14405"/> and <Skill id="14407"/> (Utility), <Skill id="14393"/> (Warhorn 4), <Skill id="14394"/> (Warhorn 5)
-- <Specialization name="Weaver"/>: Use <Skill id="5692"/> (Scepter 2), <Skill id="5691"/> (Dagger 4) and <Skill id="5675"/> (Scepter 3) in <Skill id="5492" disableText/> / <Skill id="5492" disableText/>
+- <Specialization name="Revenant"/>: <Skill name="Renewing Wave"/> (Staff 4)
+- <Specialization name="Guardian"/>: <Skill name="Shield of Wrath"/> (Focus 5), <Skill name="Holy Strike"/> (Staff 2), <Skill name="Hammer of Wisdom"/>
+- <Specialization name="Engineer"/>: <Skill id="72052"/> (Shortbow 2) and <Skill id="71888"/> (Shortbow 5), <Skill id="5813"/> (Bomb Kit Toolbelt), <Skill id="31248"/> (<Specialization name="Scrapper"/> utility)
+- <Specialization name="Mesmer"/>: Use <Skill id="10285"/> (Torch 4), <Skill id="72957"/> (Spear 5).
 - <Specialization name="Soulbeast"/>: Take the trait <Trait name="Leader of the Pack"/> and use <Skill name="Moa Stance"/> to make boons last longer, use <Skill id="12621"/> (Warhorn 5)
 
 ### Fire fields <Label><Boon name="Might"/> stacking</Label>
 
 Below is a list of commonly used _Fire Field_ skills. **Make sure that everyone is back on their main weapon set before starting a fight.**
 
-- <Specialization name="Elementalist"/>:
-  - <Skill id="5548"/> (Staff 2, <Skill id="5492" disableText/>)
-  - <Skill id="5691"/> (Dagger 4, <Skill id="5492" disableText/>)
-  - <Skill id="5497"/> (Focus 4, <Skill id="5492" disableText/>)
-  - <Skill id="29533"/> (Warhorn 5, <Skill id="5492" disableText/>, <Specialization name="Tempest" disableText/>)
-- <Specialization name="Berserker"/>:
-  - <Skill id="29940"/> (Torch 5)
 - <Specialization name="Ranger"/>:
   - <Skill id="12504"/> (Torch 5)
-- <Specialization name="Firebrand"/>:
-  - <Skill name="Chapter 4: Scorched Aftermath"/> in <Skill id="44364"/>
+- <Specialization name="Guardian"/>:
+  - <Skill id="9187"/>
+  - <Skill name="Chapter 4: Scorched Aftermath"/> in <Skill id="44364"/> (<Specialization name="Firebrand"/>)
   - <Skill id="9253"/>
 - <Specialization name="Renegade"/>:
   - <Skill id="45773"/> (<Skill id="41858"/> Elite Skill)
+- <Specialization name="Engineer"/>:
+  - <Skill id="71870"/> (Shortbow 4)
+  - <Skill id="31248"/> (<Specialization name="Scrapper"/>)
 
 <Grid>
 <GridItem sm="12" md="6">
@@ -327,6 +336,8 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
   - Double any skill with <Skill id="29830"/> (<Specialization name="Chronomancer" disableText/>)
 - <Specialization name="Thief"/>:
   - <Skill id="13117"/>
+- <Specialization name="Scrapper"/>:
+  - <Skill id="30815"/>
 
 </GridItem>
 </Grid>
@@ -400,7 +411,18 @@ Below is a list of all current instabilities and their possible countermeasures.
 ## Trouble finding groups?
 
 <Grid>
+<GridItem sm="1" md="1">
 
+![[FotM]](images/mistlocked.png)
+
+</GridItem>
+<GridItem sm="11" md="11">
+
+Mistlocked \[FotM] is a Guild & Discord Server focused on teaching new members of the Guild Wars 2 community the various aspects of Fractals of the Mist!  The guild offers a wide range of fractal training sessions across both NA and EU, covering everything from Tier 1-4 to Challenge Modes (CMs). For experienced CM players, Mistlocked also provides no-heal fractal training, with opportunities for promotion and progression based on log submissions.
+
+All information is available on their [discord](https://discord.gg/CE3TswT).
+
+</GridItem>
 <GridItem sm="1" md="1">
 ![GW2University](images/gw2university.png)
 </GridItem>
