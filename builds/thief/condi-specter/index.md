@@ -75,6 +75,7 @@ Depending on the group and composition you may need to replace the Geomancy Dagg
 
 ### Situational Trait
 <Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed.
+<Trait id="1187"/> over <Trait id="1706"/> when running off-hand Pistol to quickly grant initiative for CC with <Skill id="13012"/>.
 
 ### Alacrity Specter
 
