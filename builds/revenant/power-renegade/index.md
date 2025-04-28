@@ -25,7 +25,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2025-04-13T00:16:07.406Z "
+date: "2025-04-28T17:45:37.577Z "
 ---
 The <Specialization name="Renegade"/> is one of the professions with the most support and utility. It provides permanent <Boon name="Alacrity"/>, half of the necessary <Boon name="Might"/> with <Skill name="Heroic Command"/>, and if that is not enough already, the <Specialization name="Renegade"/> has also excellent CC capabilities with <Skill name="Surge of the mists"/> and <Skill name="Darkrazorsdaring"/>.
 
@@ -190,25 +190,24 @@ _To preface, there are 2 general rotations detailed below that are typically use
 #### Greatsword/Sword+Sword
 
 Start on <Skill name="Legendary Renegade Stance"/>.
-Precast <Skill name="Soulcleaves Summit"/> to get 45 energy.
 
 **Greatsword Burst**
 
 1. <Skill name="Darkrazor's daring"/>
 2. <Skill name="Icerazor's Ire"/>
-3. Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
-4. <Skill name="Eternity's Requiem"/>
+3. <Skill name="Eternity's Requiem"/>
+4. Legend swap and activate <Skill name="Impossible odds"/> or <Skill name="Vengeful Hammers"/>
 5. <Skill name="Citadel Bombardment"/>
 6. <Skill name="Phantom's onslaught"/>
 7. Swap to Sword
 
 **Sword Burst**
 
-1. <Skill name="Chilling Isolation"/>
-2. <Skill name="Shackling Wave"/>
-3. <Skill name="Deathstrike"/>
+1. <Skill name="Shackling Wave"/>
+2. <Skill name="Deathstrike"/>
+3. <Skill name="ChillingIsolation"/>
 4. <Skill name="Preparation Thrust"/> -> <Skill name="Brutal Blade"/> -> <Skill name="Rift slash"/> 
-5. <Skill name="ChillingIsolation"/>
+
 
 #### Staff/Sword+Sword
 
