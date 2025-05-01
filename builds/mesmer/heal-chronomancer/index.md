@@ -47,7 +47,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2025-02-16T23:58:41.822Z "
+date: "2025-05-01T19:53:04.323Z "
 role: Support
 cmGuide: ""
 ---
@@ -61,7 +61,7 @@ The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
 
-The main difference in playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> in Fractals compared to Raids, is the use of <Skill name="Signet of Inspiration"/> with <Trait name="Blurred Inscriptions"/>. This is due to Fractals having less constant damage pressure and instead players benefitting from damage mitigation over healing output. Additionally, especially in T4 fractals, a lot of trash mobs tend to die very quickly making it hard to keep generating multiple clones in a lot of encounters. By bringing boon extension, you make maintaining <Boon name="Quickness"/> or <Boon name="Alacrity"/> much easier and keep your party happy and the run smooth.
+The main difference in playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> in Fractals compared to Raids, is the use of <Skill name="Signet of Inspiration"/> with <Trait name="Blurred Inscriptions"/>. This is due to Fractals typically having less damage pressure and instead players benefitting from damage mitigation over healing output. Additionally, especially in T4 fractals, a lot of trash mobs tend to die very quickly making it hard to keep generating multiple clones in a lot of encounters. By bringing boon extension, you make maintaining <Boon name="Quickness"/> or <Boon name="Alacrity"/> much easier for yourself, keeping your party happy and the run smooth.
 
 <Divider text="Equipment"/>   
 
@@ -83,8 +83,35 @@ If you are struggling to kill your Aspect on the Silent Surf CM split phases, sw
 </CharacterWithAr> 
 
 <Divider text="Build"/>
- 
-<Grid> 
+### Recommended Fractal Setups
+<Grid>
+<GridItem sm="4">
+#### MAMA
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+</GridItem>
+<GridItem sm="4">
+#### Siax
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+</GridItem>
+<GridItem sm="4">
+#### Ensolyss
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+</GridItem>
+</Grid>
+
+<Grid>
 <GridItem sm="7">
 ### Traits
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,752" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978"/>
@@ -136,7 +163,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 |                                                                |                                                                                                                                                                                                |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Well of Action" size="big" disableText/>          | Taken to help provide <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if you play Rifle and don't need a quick ramp up to 25 stacks, or another member of the group provides <Boon name="Might"/> also.                                                                        | 
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Can be used for boonstrip when <Instability name="No Pain, No Gain"/> is present.                                                                                                                        |
+| <Skill name="Arcane Thievery" size="big" disableText/> | Can be used for boonstrip when <Instability name="No Pain, No Gain"/> is present.                                                                                                                        |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | Grants <Boon name="Aegis"/> on the initial channel and 4 stacks of <Boon name="Stability"/> on each of the three charges.                                                                  |
 | <Skill name="Well of Precognition" size="big" disableText/>    | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses.                                                                                                                         |
 | <Skill name="Mantra of Resolve" size="big" disableText/>       | Your main tool dealing with condition pressure.                                                                                                                                               |
@@ -236,7 +263,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 ### Boonstrip
 #### No Pain, No Gain
-When boonstrip is required on single targets the simplist option is to use <Skill name="Phantasmal Disenchanter"/>. <Instability name="No Pain, No Gain"/> has a 20 second internal cooldown so the <Skill name="Phantasmal Disenchanter"/> will always be availible to use. Be careful during split phases, since the timer for <Instability name="No Pain, No Gain"/> keeps ticking, meaning that if you cant strip every 20 seconds, you may find yourself desynced.
+When boonstrip is required on single targets the simplist option is to use <Skill name="Arcane Thievery"/>. <Instability name="No Pain, No Gain"/> has a 20 second internal cooldown so the <Skill name="Arcane Thievery"/> will always be availible to use on a single target providing you have some <Boon name="Alacrity"/>. Be careful during split phases, since the timer for <Instability name="No Pain, No Gain"/> keeps ticking, meaning that if you cant strip every 20 seconds, you may find yourself desynced.
 
 Another option is to play <Item id="72872"/> which can free up a utility slot, however it will only strip boons if the boss is casting an attack or has a defiance bar up.
 
