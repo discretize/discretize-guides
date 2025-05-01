@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-03-02T22:35:28.901Z "
+date: "2025-05-01T14:17:32.274Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -40,7 +40,7 @@ cmGuide: ""
 
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great CC and some party support. 
 
-The value of this build comes from the pure damage that it will bring and the massive amount of CC offered by <Skill name="basiliskvenom"/>. Venom Skills can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target, this is required for this build to perform well.
+The value of this build comes from the pure damage that it will bring and the massive amount of CC offered by <Skill name="basiliskvenom"/>. Venom Skills can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target, this is required for this build to perform well. 
 
 <CharacterWithAr>  
 <Character title="DPS" gear='{"attributes":{"profession":"Thief","specialization":"Specter","data":{"Health":16245,"Armor":2343,"Power":2923,"Precision":1633,"Toughness":1225,"Vitality":1533,"Ferocity":0,"Condition Damage":2857,"Expertise":944,"Concentration":225,"Healing Power":127,"Agony Resistance":150,"Condition Duration":0.7793333333333333,"Boon Duration":0.15,"Critical Chance":0.6014285714285714,"Critical Damage":1.5,"Power Coefficient":2620,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":2.58,"Poison Coefficient":18.36,"Torment Coefficient":22.38,"Confusion Coefficient":0,"Flat DPS":0,"Poison Duration":0.33,"Outgoing Healing":0.2,"Torment Duration":0.15,"Effective Power":7322.628612857142,"NonCrit Effective Power":5629.697999999999,"Power DPS":7387.4805412728965,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":310.43909999999994,"Bleeding Stacks":4.59068,"Bleeding DPS":1425.1265675879997,"Burning Damage":921.0051749999999,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":328.66708499999993,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":437.4324779999999,"Poison Stacks":36.72,"Poison DPS":16062.520592159995,"Torment Damage":579.6658124999999,"Torment Stacks":43.17848,"Torment DPS":25029.088691714995,"Damage":49904.216392735885,"Effective Health":75745343.2835821,"Survivability":38508.054541729594,"Effective Healing":513.72,"Healing":513.72}},"armor":{"weight":"Medium","helmAffix":"Viper","helmRuneId":67339,"helmRune":"Trapper","helmRuneCount":6,"helmInfusionId":37130,"shouldersAffix":"Viper","shouldersRuneId":67339,"shouldersRune":"Trapper","shouldersRuneCount":6,"shouldersInfusionId":37130,"coatAffix":"Viper","coatRuneId":67339,"coatRune":"Trapper","coatRuneCount":6,"coatInfusionId":37130,"glovesAffix":"Viper","glovesRuneId":67339,"glovesRune":"Trapper","glovesRuneCount":6,"glovesInfusionId":37130,"leggingsAffix":"Viper","leggingsRuneId":67339,"leggingsRune":"Trapper","leggingsRuneCount":6,"leggingsInfusionId":37130,"bootsAffix":"Viper","bootsRuneId":67339,"bootsRune":"Trapper","bootsRuneCount":6,"bootsInfusionId":37130},"weapon":{"weapon1MainId":30695,"weapon1MainType":"Scepter","weapon1MainSigil1Id":48911,"weapon1MainAffix":"Viper","weapon1MainInfusion1Id":37130,"weapon1OffId":30687,"weapon1OffType":"Dagger","weapon1OffSigilId":24609,"weapon1OffAffix":"Viper","weapon1OffInfusionId":37130,"weapon2OffId":30687,"weapon2OffType":"Dagger","weapon2OffSigilId":24605,"weapon2OffAffix":"Viper","weapon2OffInfusionId":37130},"backAndTrinket":{"backItemAffix":"Viper","backItemInfusion1Id":37130,"backItemInfusion2Id":37130,"amuletAffix":"Viper","ring1Affix":"Viper","ring1Infusion1Id":37130,"ring1Infusion2Id":37130,"ring1Infusion3Id":37130,"ring2Affix":"Viper","ring2Infusion1Id":37130,"ring2Infusion2Id":37130,"ring2Infusion3Id":37130,"accessory1Affix":"Viper","accessory1InfusionId":37130,"accessory2Affix":"Viper","accessory2InfusionId":37130},"consumables":{"foodId":95942,"utilityId":48917,"relicId":100153},"skills":{"healId":63292,"utility1Id":63276,"utility2Id":13055,"utility3Id":13037,"eliteId":13132},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1164,1292,1291],[1163,1277,1187],[2284,2290,2264]],"lines":[28,44,71]}}'>
@@ -166,7 +166,7 @@ To proc <Item id="100153"/>, this build uses <Skill name="Well of Sorrow"/>, <It
 
 <Card title="Precasting">
 
-All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
+All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
 
 - On Sunqua Peak, make sure to precast venoms on your <Skill id="13082"/> minions and if possible any other minions you or your allies can summon up to the Venom target cap, as every boon and special ability effect currently on you will be stripped upon starting the encounter. You should also do this on Silent Surf, so you can then precast a second set of venoms on your allies as the fight starts.
 - Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts in _Fire Fields_ on the _Mistlock Singularity_ or before T4 bosses.
@@ -174,3 +174,16 @@ All Damaging Venom Skills should be casted on the _Mistlock Singularity_: <Skill
 </Card>
 </GridItem>
 </Grid>
+
+<Card title="Example PoVs">
+<Grid>
+<GridItem sm="6">
+### Sunqua Peak DPS Spectre 
+<Video caption="by Hmod. Dps Spectre can use shorter shroud loops than alac spectre and use that to proc sigils more often." youtube="sA_nIS-NZOE"/>
+</GridItem>
+<GridItem sm="6">
+### Silent Surf DPS Spectre 
+<Video caption="by Hmod. Silent Surf ingame endnumbers are highly affected by tether uptime, which buffs dps." youtube="2V6eeBwEICs"/>
+</GridItem>
+</Grid>
+</Card>
