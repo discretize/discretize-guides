@@ -18,7 +18,7 @@ classification:
   - 4
   - 3
   - 5
-date: "2025-02-20T22:27:28.760Z "
+date: "2025-04-30T22:27:28.760Z "
 title: Condi (Alac) Renegade
 rating: Meta
 role: Condi Damage
