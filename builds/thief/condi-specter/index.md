@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-01T17:08:51.659Z "
+date: "2025-05-01T17:17:51.783Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -144,7 +144,7 @@ An off-hand pistol with <Item id="24639"/> to use <Skill name="Headshot"/>.
 
 ### Rotation
 
-There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Item id="24609"/>, and <Item id="24605"/> as often as possible.
+There is no set rotation for <Specialization name="Specter" text="Condi Specter"/>, your rotation comes from skill priority. Your main aim when playing <Specialization name="Specter" text="Condi Specter"/> is to never have full Initiative, cast utility skills of cooldown and proc <Item id="24609"/>, and <Item id="24605"/> as often as possible. DPS spectre does not have to stay in shroud to provide alacrity and hence also uses <Item id="24560"/> and <Item id="48911"/>. Proc them as often as possible. Both weapon swap and entering or leaving shroud work as means to proc the sigils. 
 
 You should be casting your <Skill name="Spider Venom"/> (ensuring to hit your allies with it), <Skill name="Well of Sorrow"/>, and <Skill name="Skale Venom"/> / <Skill name="Thousand Needles"/> off cooldown (unless a phase is about to end).
 
