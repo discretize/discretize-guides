@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-01T15:03:50.249Z "
+date: "2025-05-01T16:41:58.352Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -99,6 +99,8 @@ This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute nam
 
 </GridItem>
 <GridItem sm="5">
+### Situational Weapons
+An off-hand pistol with 
 
 ### Situational Skills
 
@@ -109,6 +111,7 @@ This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute nam
 | <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
 | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
 | <Skill id="13082" size="big" disableText/>            | Taken for extra personal DPS, when CC isn't needed. Can also be precasted on the mistlock before swapping to <Skill name="Basilisk Venom"/>, |
+
 
 <Advanced>
 **Useful Skills for Skips**
@@ -125,7 +128,9 @@ This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute nam
 | <Skill id="13041" size="big" disableText/> | Used as a blast finisher to stack <Effect name="Stealth"/>.                                               |
 
 </Advanced>
+
 </GridItem>
+
 </Grid>
 
 <Divider text="Rotation / Skill usage"/>
@@ -175,13 +180,13 @@ All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill n
 </GridItem>
 </Grid>
 
-<Card title="Example PoVs">
+<Card title="Example PoVs in Coordinated Groups">
 <Grid>
 <GridItem sm="6">
 <Tabs>
 <Tab title="Sunqua Peak DPS Spectre">
 ### Sunqua Peak DPS Spectre 
-<Video caption="by Hmod. Dps Spectre can use shorter shroud loops than alac spectre and use that to proc sigils more often." youtube="sA_nIS-NZOE"/>
+<Video caption="by Hmod. Dps Spectre can use shorter shroud loops than alac spectre and thus proc sigils more often." youtube="sA_nIS-NZOE"/>
 </Tab>
 <Tab title="Silent Surf DPS Spectre">
 ### Silent Surf DPS Spectre 
