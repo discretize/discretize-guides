@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-01T17:17:51.783Z "
+date: "2025-05-01T17:18:42.508Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -43,7 +43,7 @@ The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS cond
 The value of this build comes from the pure damage that it will bring and the massive amount of CC offered by <Skill name="basiliskvenom"/>. Venom Skills can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target, this is required for this build to perform well. 
 
 <Warning>
-Due to <Trait name="Strength of Shadows"/>, DPS spectre uses different sigils than ALAC spectre. <Trait name="Shadestep"/> also forces ALAC spectre to spend more time in shroud than DPS spectre.
+Due to <Trait name="Strength of Shadows"/>, DPS spectre uses different sigils than ALAC spectre. <Trait name="Shadestep"/> also forces ALAC spectre to spend more time in shroud than DPS spectre. 
 </Warning>
 
 <CharacterWithAr>  
