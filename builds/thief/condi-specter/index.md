@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-01T16:41:58.352Z "
+date: "2025-05-01T16:43:51.447Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -100,7 +100,7 @@ This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute nam
 </GridItem>
 <GridItem sm="5">
 ### Situational Weapons
-An off-hand pistol with 
+An off-hand pistol with <Item id="24639"/> to use <Skill name="Headshot"/>.
 
 ### Situational Skills
 
