@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-01T17:18:42.508Z "
+date: "2025-05-01T20:52:03.165Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -173,7 +173,7 @@ To proc <Item id="100153"/>, this build uses <Skill name="Well of Sorrow"/>, <It
 
 <GridItem sm="5">
 
-<Card title="Precasting">
+<Card title="Precasting"> 
 
 All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill name="Skale Venom"/>, <Skill name="Spider Venom"/> and <Skill name="Devourer Venom"/>. On stationary bosses which can be manually activated, instead of precasting <Skill name="Devourer Venom"/>, you can instead go to the spawn location and precast <Skill name="preparethousandneedles"/>. All you have to do then is to activate the Preparation when the boss becomes vulnerable, and cast it again as it will be off cooldown.
 
@@ -183,32 +183,3 @@ All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill n
 </Card>
 </GridItem>
 </Grid>
-
-<Card title="Example PoVs in Coordinated Groups">
-<Grid>
-<GridItem sm="6">
-<Tabs>
-<Tab title="Sunqua Peak DPS Spectre">
-### Sunqua Peak DPS Spectre 
-<Video caption="by Hmod. Dps Spectre can use shorter shroud loops than alac spectre and thus proc sigils more often." youtube="sA_nIS-NZOE"/>
-</Tab>
-<Tab title="Silent Surf DPS Spectre">
-### Silent Surf DPS Spectre 
-<Video caption="by Hmod. Silent Surf ingame endnumbers are highly affected by tether uptime, which buffs dps." youtube="2V6eeBwEICs"/>
-</Tab>
-</Tabs>
-</GridItem>
-<GridItem sm="6">
-<Tabs>
-<Tab title="Sunqua Peak Alac Spectre">
-### Sunqua Peak ALAC Spectre 
-<Video caption="by Hmod. Alac Spectre uses longer shroud loops than DPS Spectre ." youtube="X3OZUTnKfws"/>
-</Tab>
-<Tab title="Silent Surf Alac Spectre">
-### Silent Surf ALAC Spectre 
-<Video caption="by Hmod. Silent Surf ingame endnumbers are highly affected by tether uptime, which buffs dps." youtube="zBtjag1t8l0"/>
-</Tab>
-</Tabs>
-</GridItem>
-</Grid>
-</Card>
