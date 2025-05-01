@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-01T14:17:32.274Z "
+date: "2025-05-01T15:03:50.249Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -62,7 +62,7 @@ Depending on the group and composition you may need to replace the Geomancy Dagg
 This build aims for the minimum <Attribute name="Boon Duration" /> required to maintain <Boon name="Alacrity" />. Use the [gear optimizer](https://optimizer.discretize.eu/?s=TVPLpTL3v1) with the settings from the link to adjust your gear, adjust the desired boon duration number and your agony resist to get the optimal gear. Additionally, when it is <Instability name="Boon Overload"/>.
 
 Depending on the group and composition you may need to replace the Geomancy Dagger with a Pistol for Dark Ai (optionally with <Item id="24639"/>) to help CC the sorrows. If you do this, make sure to adapt your rotation for Sigil procs and <Trait name="Quick Pockets"/> (note that weaponswap sigils will also proc from going in/out of shroud).
-
+ 
 </Character>  
 </CharacterWithAr>
 
@@ -178,12 +178,28 @@ All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill n
 <Card title="Example PoVs">
 <Grid>
 <GridItem sm="6">
+<Tabs>
+<Tab title="Sunqua Peak DPS Spectre">
 ### Sunqua Peak DPS Spectre 
 <Video caption="by Hmod. Dps Spectre can use shorter shroud loops than alac spectre and use that to proc sigils more often." youtube="sA_nIS-NZOE"/>
-</GridItem>
-<GridItem sm="6">
+</Tab>
+<Tab title="Silent Surf DPS Spectre">
 ### Silent Surf DPS Spectre 
 <Video caption="by Hmod. Silent Surf ingame endnumbers are highly affected by tether uptime, which buffs dps." youtube="2V6eeBwEICs"/>
+</Tab>
+</Tabs>
+</GridItem>
+<GridItem sm="6">
+<Tabs>
+<Tab title="Sunqua Peak Alac Spectre">
+### Sunqua Peak ALAC Spectre 
+<Video caption="by Hmod. Alac Spectre uses longer shroud loops than DPS Spectre ." youtube="X3OZUTnKfws"/>
+</Tab>
+<Tab title="Silent Surf Alac Spectre">
+### Silent Surf ALAC Spectre 
+<Video caption="by Hmod. Silent Surf ingame endnumbers are highly affected by tether uptime, which buffs dps." youtube="zBtjag1t8l0"/>
+</Tab>
+</Tabs>
 </GridItem>
 </Grid>
 </Card>
