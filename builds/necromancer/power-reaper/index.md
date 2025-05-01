@@ -11,7 +11,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2025-02-15T12:55:49.447Z "
+date: "2025-04-30T12:55:49.447Z "
 title: Power Reaper
 role: Power Damage
 profession: Necromancer
