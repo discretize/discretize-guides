@@ -1,5 +1,5 @@
 ---
-title: Power Quick Scrapper
+title: Power (Quick) Scrapper
 hidden: false
 archive: false
 rating: Meta
@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-04-27T22:29:49.567Z "
+date: "2025-05-02T10:41:58.433Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
