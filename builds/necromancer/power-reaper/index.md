@@ -11,7 +11,7 @@ classification:
   - 4
   - 2
   - 3
-date: "2024-04-19T15:20:55.215Z "
+date: "2025-04-30T12:55:49.447Z "
 title: Power Reaper
 role: Power Damage
 profession: Necromancer
@@ -26,7 +26,7 @@ benchmark:
     youtube: I1Tjyfk-DKI
 rating: Good
 ---
-The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/>, <Boon name="Might"/>, <Boon name="Stability"/> and damage mitigation, it is good in parties where your teammates do not perform very well.
+The <Specialization name="Reaper" text="Power Reaper"/> is one of the best picks for players wanting to be more independent of their party. Due to large amounts of self-produced <Condition name="Vulnerability"/>, <Boon name="Quickness"/>, <Boon name="Might"/>, <Boon name="Stability"/> and damage mitigation, it is a great build in T4 fractals and in parties where your teammates do not perform very well. However on fractals like Nightmare and Shattered CMs it often falls far behind other builds like <Specialization name="Soulbeast"/> and <Specialization name="Dragonhunter"/>.
 
 The <Specialization name="Reaper" text="Power Reaper" /> has multiple offensive skill
 options (<Control name="Pull" />, boon corruptions for <Instability name="No Pain, No Gain" />

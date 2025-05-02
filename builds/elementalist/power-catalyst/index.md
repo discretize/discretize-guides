@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 author: xChris
 specialization: Catalyst
 skills: []

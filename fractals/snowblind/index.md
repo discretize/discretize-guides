@@ -14,8 +14,6 @@ bosses: 2
 difficulties:
   - level: 86
     ar: 125
-  - level: 93
-    ar: 137
 sigils:
   - id: 36053
   - id: 24667

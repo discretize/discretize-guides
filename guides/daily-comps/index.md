@@ -1,11 +1,11 @@
 ---
 title: dT Daily Comps
-date: "2024-04-21T10:47:01.222Z "
+date: "2025-02-24T23:58:37.795Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
  
-## Playing in organised groups
+## Playing in organized groups
 
 It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will slow down the run and affect its smoothness.
 
@@ -17,14 +17,14 @@ It all comes down to some important concepts that need to be fulfilled permanent
 
 <Divider text="Compositions"/> 
 
-<Card title="Shattered Observatory and Nightmare CM">
+<Card title="Shattered Observatory and Nightmare CM"> 
 
 |                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Renegade" disableText/>                                                                                                                                              | <BuildLink build="Power Renegade" specialization="Renegade"/> provides 100% <Boon name="Alacrity"/> uptime, and around 10 stacks of <Boon name="Might"/>, strong utilities in terms of heavy crowd control and damage mitigation. It applies a very high amount of <Condition name="vulnerability"/> and it remains unmatched for the success of a power composition in short phases. <br/>                                                                       |
 | <Specialization name="Scrapper" disableText/>                                                                                                                                              | <BuildLink build="Power Scrapper"  specialization="Scrapper"/> provides 100% <Boon name="Quickness"/> uptime, 10 stacks of <Boon name="Might"/> with your <Skill name="Blast Gyro"/> , utilities in terms of crowd control and reflects. It also provides <Skill name="Superspeed"/>, and brings some more <Condition name="vulnerability"/> which helps the renegade.<br/>                                                                                   |
-| <Specialization name="Soulbeast" disableText/>                                                                                                                                             | Two or Three <BuildLink build="Power Soulbeast"  specialization="Soulbeast"/> provide massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently unmatched by any other class on most bosses.                                                                                                                                                                         |
-| <Specialization name="Weaver" disableText/><Specialization name="Dragonhunter" disableText/> | Some decent alternatives to fill the third dps spot in your group, both of these classes bring something valuable, whether it's high burst, faster <Condition name="vulnerability"/> and <Boon name="Aegis"/> from <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/>, or the late fight damage from <BuildLink build="Power Weaver" specialization="Weaver"/>. Most builds will work well in this slot, providing they can cover the small amount of CC that is missing on the CC heavy encounters (MAMA and Artsariiv). |
+| <Specialization name="Soulbeast" disableText/>                                                                                                                                             | <BuildLink build="Power Soulbeast"  specialization="Soulbeast"/> provides massive amounts of CC, the biggest burst in the game for short phases, can keep their boons for longer thanks to <Trait name="Essence of Speed"/>. Currently only matched by <Specialization name="Dragonhunter"/> on most bosses.                                                                                                                                                                         |
+| <Specialization name="Dragonhunter" disableText/> |  <BuildLink build="Power Dragonhunter"  specialization="Dragonhunter"/> brings high burst, faster <Condition name="vulnerability"/> ramp up, and <Boon name="Aegis"/>. The time between bursts is shorter than <Specialization name="Soulbeast"/> making it useful to deal damage where a <Specialization name="Soulbeast"/> would be stuck waiting for cooldowns. |
 
 </Card>
  
@@ -34,14 +34,30 @@ It all comes down to some important concepts that need to be fulfilled permanent
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Specialization name="Specter" disableText/>                                              | <BuildLink build="Condi Specter" specialization="Specter"/> is the king of condi alac. This class provides permanent <Boon name="Alacrity"/>, massive CC thanks to <Skill name="Basilisk Venom"/>, a lot of <Condition name="vulnerability"/> and healing, doing almost as much dps as an actual dps class. <br/> |
 | <Specialization name="Harbinger" disableText/>       | <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is currently the best <Boon name="Quickness"/> pick. It deals high damage with a fairly short ramp up and has access to large amount of CC, whilst also sharing some <Boon name="Might"/>, and applying <Condition name="Vulnerability"/>.                                                         |
-| <Specialization name="Harbinger" disableText/><Specialization name="Specter" disableText/><Specialization name="Holosmith" disableText/><Specialization name="Willbender" disableText/><Specialization name="Scrapper" disableText/>                                            | For the dps spots a range of builds can be effective depending on the encounter and team comp. Make sure to consider things like CC requirements, <Condition name="Vulnerability"/> uptime, and team support when selecting a build.  A special mention goes to <BuildLink build="Power Scrapper" specialization="Scrapper"/> which is played on Dark Ai (Sunqua Peak CM), where it can reflect the Focused Wrath attack for huge damage, which lets  high DPS groups consistently skip the circles mechanic in P1. |
+| <Specialization name="Harbinger" disableText/><Specialization name="Specter" disableText/><Specialization name="Scrapper" disableText/><Specialization name="Virtuoso" disableText/>                                            | For the dps spots <BuildLink build="Condi Harbinger"  specialization="Harbinger"/> is often stacked on Silent Surf CM, due to its ability to keep attacking at range during the numbers mechanic, its self-sustain, CC, and ability to transfer conditions from boss attacks for even more damage. It is also very strong on Sunqua Peak and played in conjunction with a power class like <BuildLink build="Power Scrapper" specialization="Scrapper"/> and <BuildLink build="Power Virtuoso" specialization="Virtuoso"/>. These are played on Dark Ai (Sunqua Peak CM), where they can reflect the Focused Wrath attack for huge damage, which lets high DPS groups consistently skip the circles mechanic in P1. <BuildLink build="Condi Specter" specialization="Specter"/> is an alternative option to <Specialization name="Harbinger"/> that has a strong burst thanks to venoms and high sustained damage, as well as the ability to deal massive amounts of CC thanks to <Skill name="Basilisk Venom"/>.  |
+
+</Card>
+
+<Card title="Lonely Tower CM">
+
+|                                                                                           |                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Specialization name="Chronomancer" disable text/> | <BuildLink build="Heal Chronomancer" specialization="Chronomancer"/> is used as a <Boon name="Alacrity"/> provider in this comp. It is taken for its high levels of CC, ability to boonstrip, and quick reapplication of boons if they are stripped. It also takes Despair and Envy orbs. |
+| <Specialization name="Scrapper" disable text/> | <BuildLink build="Power Scrapper" specialization="Scrapper"/> is taken to provide <Boon name="Quickness"/>. It has High target and cleave damage, whilst being incredibly mobile allowing it to keep attacking whilst following Eparch and doing mechanics. It also provides <Effect name="Superspeed"/> to the party allowing them to move around the arena quickly to deal with mechanics, split phases, and pick up Globules of Emotion. |
+| <Specialization name="Willbender" disable text/> |  <BuildLink build="Condi Willbender" specialization="Willbender"/> is used to pick up Gluttony orbs. Many of it's attack multi-hit and when paired with some build changes and <Item id="102245"/> currently can deal the most Gluttony damage in the game. |
+| <Specialization name="Scrapper" disable text/> | <BuildLink build="Power Scrapper" specialization="Scrapper"/> is used commonly used to pick up Rage orbs. It has high burst helping to quickly clear split phases while having the same benefits as Quickness Scrapper and a huge amount of CC. |
+| DPS | The final DPS slot is flexible, however a lot of groups tend to choose <BuildLink build="Power Scrapper" specialization="Scrapper"/> or <BuildLink build="Power Dragonhunter" specialization="Dragonhunter"/>. optionally, some groups choose to play a condition DPS build in this slot to pick up Envy orbs however this is a riskier strategy if Eparch steals them. |
 
 </Card>
 
 <Divider text="Useful Links"/>
-In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of example logs, and PoVs. All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution). If you enjoy this style of gameplay, we are always looking for likeminded players. Check out the [Apply](/apply) page to see what is required to join us!
+In this section you can find links to different parts of the site with information relevant to each class and strategies we use for guild runs. This comes in the form of example logs, and PoVs. All CC Schedules used in the PoVs and guides in this section can be found here [CC-Distribution](/guides/cc-distribution). If you enjoy this style of gameplay, we are always looking for like minded players. Check out the [Apply](/apply) page to see what is required to join us!
 
-<Card title="Example 97+98 PoVs + Logs">
+<Warning>
+These PoVs are from previous patches. Some strats, rotations, and in some cases builds have changed since however they are still good examples of organized fractal runs and can be adapted to the current patch.
+</Warning>
+
+<Card title="Example 96+97CM PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Renegade">
@@ -49,8 +65,8 @@ In this section you can find links to different parts of the site with informati
 | Boss      | PoV                                                            | Log                                                         | Player                    |
 |-----------|----------------------------------------------------------------|-------------------------------------------------------------|---------------------------|
 | MAMA      | [Link](https://youtu.be/6Wv3rpC7bxU?si=inkLkx2_IlaOsOSb)       | [DPS.Report](https://dps.report/VHzr-20240413-012320_mama)  | Shavy                     |
-| Siax      | [Link](https://youtu.be/u921ZgeGQys?si=7sL5mV1qoXOXbf74&t=432) |                                                             | Shavy (Pre Spirit rework) |
-| Ensolyss  | [Link](https://youtu.be/u921ZgeGQys?si=TfFvGNZVy6rkaBPI&t=468) |                                                             | Shavy (Pre Spirit rework) |
+| Siax      | [Link](https://youtu.be/9BIS62zk7z4?si=Pn-fsTx0UEU8Qloy) | [DPS.Report](https://dps.report/p1mr-20241025-153540_siax) | Hmod |
+| Ensolyss  |  |                                                             | |
 | Skorvald  | [Link](https://youtu.be/rZQHMonXqVg?si=unluit3ptjfw5C6O)       | [DPS.Report](https://dps.report/qgPT-20240404-195220_skor)  | Hmod                      |
 | Artsariiv | [Link](https://youtu.be/rZQHMonXqVg?si=DI5-fnf1ao2cDkeY&t=87)  | [DPS.Report](https://dps.report/Qvcp-20240404-195824_arriv) | Hmod                      |
 | Arkk      | [Link](https://youtu.be/rZQHMonXqVg?si=dOMmskNj6t1-9_GO&t=148) | [DPS.Report](https://dps.report/TsNx-20A240404-200150_arkk) | Hmod                      |
@@ -78,9 +94,9 @@ All of these PoVs are currently up to date apart from Artsariiv, due to map item
 
 | Boss      | PoV                                        | Log                                                         | Player  |
 | --------- | ------------------------------------------ | ----------------------------------------------------------- | ------- |
-| MAMA      | [Link](https://youtu.be/43Mte41xqS4?si=zvU3k15a9UHlCv2E)       | [DPS.Report](https://dps.report/nmt7-20240120-161225_mama)  | Jetrell     |
-| Siax      | [Link](https://youtu.be/43Mte41xqS4?si=9zn7IhCxvyNsq98N&t=57)       | [DPS.Report](https://dps.report/EttO-20240112-214615_siax)  | Jetrell |
-| Ensolyss  | [Link](https://youtu.be/43Mte41xqS4?si=ATun9mOe3BDjk4F6&t=90) <br/> [Link](https://www.youtube.com/watch?v=KnLTABI2kJo)     | [DPS.Report](https://dps.report/tv9N-20240120-162526_enso) <br/> [DPS.Report](https://dps.report/HJXn-20240201-192439_enso) | Jetrell (Hammer) <br/> Wuju (Longbow)     |
+| MAMA      | [Link](https://youtu.be/lhFJdV-T9s4?si=9fF7h0FIJvAuABh9)       | [DPS.Report](https://dps.report/YyRv-20241118-194404_mama)  | Jetrell     |
+| Siax      | [Link](https://www.youtube.com/watch?v=78Q7fNVu9PI)       | [DPS.Report](https://dps.report/w4sJ-20250119-203806_siax)  | Gravi |
+| Ensolyss  | No PoV <br/> [Link](https://youtu.be/43Mte41xqS4?si=ATun9mOe3BDjk4F6&t=90) <br/> [Link](https://www.youtube.com/watch?v=KnLTABI2kJo)     | [DPS.Report](https://dps.report/2lf9-20250118-222719_enso) <br/> [DPS.Report](https://dps.report/tv9N-20240120-162526_enso) <br/> [DPS.Report](https://dps.report/HJXn-20240201-192439_enso) | Jetrell / Gravi (Mace) <br/> Jetrell (Hammer) <br/> Wuju (Longbow)     |
 | Skorvald  | [Link](https://youtu.be/ZJl9dMpQ3Ns?si=5IIQU23GUoiFS9qC)       | [DPS.Report](https://dps.report/kmOJ-20240117-191920_skor)  | Gravi |
 | Artsariiv | [Link](https://youtu.be/B8GTuFvKeD4?si=EKNjvZ_krpNAQGJb)       | [DPS.Report](https://dps.report/kjkL-20240117-195126_arriv) | Gravi |
 | Arkk      | [Link](https://youtu.be/s3SsWQQILUM?si=0wwDsg8EG0HEbd2o) | [DPS.Report](https://dps.report/q4D8-20240114-223224_arkk)  | Wuju |
@@ -88,7 +104,7 @@ All of these PoVs are currently up to date apart from Artsariiv, due to map item
 </Tab>
 <Tab specialization="Dragonhunter">
 <Information>
-All of these PoVs are currently up to date apart from Artsariiv. Due to the Consumables being removed and trap changes, CC distrobution has changed, but the PoV is still good to get an idea of the in phase rotation.
+All of these PoVs are using Longbow. In most cases Spear is a better option to play in groups like these.
 </Information>
 
 | Boss      | PoV                                        | Log                                                         | Player |
@@ -105,7 +121,7 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 
 </Card>
 
-<Card title="Example 99+100CM PoVs + Logs">
+<Card title="Example 98+99CM PoVs + Logs">
 
 <Tabs>
 <Tab specialization="Specter">
@@ -113,7 +129,7 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/xw5L81ow9-U?si=BhiS2Xo8m7IsnQic) | [DPS.Report](https://dps.report/mf8g-20240203-203815_ai) | Wuju (Alacrity)    |
+| Dark Ai      | [Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) | [DPS.Report](https://dps.report/2K0f-20250124-024614_ai) | Hmod (Alacrity)    |
 | Kanaxai |                                      |                                                          |        |
 
 
@@ -123,8 +139,9 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/24BkETxUT-Q?si=UniPjn6OI3NqnDnB) | [DPS.Report](https://dps.report/9oti-20240225-215732_ai) | Neno (DPS)    |
-| Kanaxai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/24BkETxUT-Q?si=UniPjn6OI3NqnDnB) | [DPS.Report](https://dps.report/9oti-20240225-215732_ai) | Neno (DPS)    
+|      | [Link](https://youtu.be/GmxEWtTC_bY?si=tpmli3QXn6DJMYPa) | [DPS.Report](https://gw2wingman.nevermindcreations.de/log/f48bf-20240519-173952_drkai_kill) | Gravi (Quick)    |
+| Kanaxai | [Link](https://youtu.be/CEG2mjuS_co?si=rQPNB1QDSjhCjpOy) | [DPS.Report](https://dps.report/tKXN-20250116-215340_kana) | Gravi (DPS)    |
 
 </Tab>
 <Tab specialization="Scrapper">
@@ -133,15 +150,6 @@ All of these PoVs are currently up to date apart from Artsariiv. Due to the Cons
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai      | [Link](https://youtu.be/kMfMWhly_gc?si=ujela9DK7SJPxl2j) | [DPS.Report](https://dps.report/TqLR-20240118-191001_ai) | Agt Endrn (Quickness) |
 | Dark Ai      | [Link](https://youtu.be/7bEhRqtyO54?si=MVcVrMZVPT2n_ooW) | [DPS.Report](https://dps.report/2OI7-20240310-205514_ai) | Agt Endrn (DPS)  |
-
-</Tab>
-<Tab specialization="Holosmith">
-
-| Boss         | PoV                                  | Log                                                      | Player |
-| ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
-| Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/bAYiZXz2oHA?si=L3_3hMJobmagvroe) | [DPS.Report](https://dps.report/mf8g-20240203-203815_ai) | Shavy    |
-| Kanaxai |                                      |                                                          |        |
 
 </Tab>
 </Tabs>

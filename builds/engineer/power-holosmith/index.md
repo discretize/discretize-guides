@@ -1,7 +1,13 @@
 ---
+title: Power Holosmith
 hidden: false
-archive: false
+archive: true
+rating: Good
+profession: Engineer
 specialization: Holosmith
+conditions:
+  - name: Vulnerability
+    uptime: 20 Stacks
 code: "[&DQMmLwY7OSsqDwAAhgAAACYBAABXFgAA8BUAAAAAAAAAAAAAAAAAAAAAAAACMwBXAAA=]"
 classification:
   - 2
@@ -9,17 +15,11 @@ classification:
   - 4
   - 3
   - 4
-date: "2023-10-15T09:01:08.805Z "
-title: Power Holosmith
-rating: Good
+date: "2024-07-10T16:56:51.999Z "
 role: Power Damage
-profession: Engineer
-conditions:
-  - name: Vulnerability
-    uptime: 20 Stacks
 cmGuide: ""
 ---
-
+ 
 The <Specialization text="Power Holosmith" name="Holosmith"/> is a flexible build that can do well in a variety of different group compositions.
 It offers:
 

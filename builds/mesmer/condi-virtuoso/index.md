@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 specialization: Virtuoso
 code: "[&DQcYHQEdQjsjDwAAgwEAAIEBAACCAQAA7RIAAAAAAAAAAAAAAAAAAAAAAAADLwAxAFoAAA==]"
 classification:

@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 hasBeginner: true
 specialization: Weaver
 code: "[&DQYfHSkfOBsXAXQAexbLAL4BAABQAQAAlwAAAAAAAAAAAAAAAAAAAAAAAAA=]"

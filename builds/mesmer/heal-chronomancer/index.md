@@ -1,13 +1,17 @@
 ---
+title: Heal Boon Chronomancer
 hidden: false
 archive: false
+rating: Good
 author: Drauskam
+profession: Mesmer
 specialization: Chronomancer
 skills: []
 traits:
   - 2020
   - 2018
   - 853
+conditions: []
 boons:
   - name: Alacrity
     uptime: 100%
@@ -43,45 +47,30 @@ classification:
   - 3
   - 3
   - 3
-date: "2024-04-18T20:45:43.982Z "
-title: Heal Boon Chronomancer
-rating: Good
+date: "2025-05-01T20:46:12.106Z "
 role: Support
-profession: Mesmer
-conditions: []
 cmGuide: ""
 ---
-<Warning>  
+<Warning>
  
-This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running e.g. [Power Boon Chronomancer](/builds/mesmer/power-chronomancer/) and other alternative boon providing build options.    
+This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities.   
    
 </Warning>         
 
 The <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> is able to provide permanently up to  25 stacks of <Boon name="Might"/>, either <Boon name="Quickness"/> or <Boon name="Alacrity"/>, <Boon name="Fury"/>, <Boon name="Protection"/>, <Boon name="Regeneration"/>, <Boon name="Vigor"/> and a majority of the required <Boon name="Swiftness"/> uptime. It also has on-demand access to <Boon name="Aegis" />, <Boon name="Stability"/> and <Boon name="Resistance"/>. The build is very flexible and can be adapted to the encounter, instabilities, and the group you are playing with. Make sure to read through the situational tab for an explanation of the different utility skills. 
 
 It offers a great amount of healing through Clone related traits like <Trait name="Illusionary Inspiration"/>, <Trait name="Restorative Illusions"/>, Wells via <Trait name="All's Well That Ends Well"/>, <Boon name="Regeneration"/>, <Trait name="Restorative Mantras"/>. As well as providing boon removal in order to deal with <Instability name="No Pain, No Gain"/>. It also has great utility for T4 fractals, with pulls through <Skill name="Temporal Curtain"/>, and access to <Effect name="Stealth"/>, <Effect name="Superspeed"/>, and leaps such as <Skill name="Mirage Thrust"/> for skips.
-  
+
+The main difference in playing <Specialization name="Chronomancer" text="Heal Boon Chronomancer"/> in Fractals compared to Raids, is the use of <Skill name="Signet of Inspiration"/> with <Trait name="Blurred Inscriptions"/>. This is due to Fractals typically having less damage pressure and instead players benefitting from damage mitigation over healing output. Additionally, especially in T4 fractals, a lot of trash mobs tend to die very quickly making it hard to keep generating multiple clones in a lot of encounters. By bringing boon extension, you make maintaining <Boon name="Quickness"/> or <Boon name="Alacrity"/> much easier for yourself, keeping your party happy and the run smooth.
+
 <Divider text="Equipment"/>   
 
 <CharacterWithAr>
-<Character title="Regular Setup" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":27852,"Armor":2879,"Power":2389,"Precision":1639,"Toughness":1864,"Vitality":2193,"Ferocity":639,"Condition Damage":1389,"Expertise":889,"Concentration":1184,"Healing Power":1129,"Agony Resistance":150,"Condition Duration":0.5926666666666667,"Condition Duration Uncapped":0,"Boon Duration":0.9393333333333334,"Critical Chance":0.6042857142857143,"Critical Damage":1.926,"Clone Critical Chance":0.35428571428571426,"Phantasm Critical Chance":0.35428571428571426,"Phantasm Critical Damage":1.926,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Outgoing Healing":0.34446000000000004,"Effective Power":5755.540277375,"NonCrit Effective Power":3434.1875,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage Tick":160.6435,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage Tick":528.0998749999999,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":171.246825,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":178.18099999999998,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":239.13524999999998,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":159573946.26865673,"Survivability":81125.54462056773,"Effective Healing":979.7080020000001,"Healing":979.7080020000001}},"armor":{"weight":"Light","helmAffix":"Celestial","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Celestial","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Celestial","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Celestial","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Celestial","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Celestial","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":30694,"weapon1MainType":"Rifle","weapon1MainAffix":"Celestial","weapon1MainInfusion1Id":37125,"weapon1MainInfusion2Id":37125,"weapon1MainSigil1Id":24639,"weapon1MainSigil2Id":74326,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainAffix":"Celestial","weapon2MainInfusion1Id":37125,"weapon2MainSigil1Id":24639,"weapon2OffId":30696,"weapon2OffType":"Shield","weapon2OffSigilId":74326,"weapon2OffAffix":"Celestial","weapon2OffInfusionId":37125},"backAndTrinket":{"backItemAffix":"Celestial","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Celestial","ring1Affix":"Celestial","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Celestial","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Celestial","accessory1InfusionId":37125,"accessory2Affix":"Celestial","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":10236,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,752],[1987,1978,0]],"lines":[45,23,40]}}'>
- 
-Note that this build variant is optimized for 150 agony resistance (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>), with enough <Attribute name="Boon Duration"/> to maintain boons. Celestial is chosen due to it providing more than enough <Attribute name="Healing Power"/> for T4 and CM fractals, while also increasing your personal damage to make mechanics like the Aspects on Silent Surf easier.
-
-<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. 
-
-If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
-
-Check the Skill Explanations section below for alternative weapon setups. If you don't have the Weaponmaster Training mastery, take Staff in place of Rifle.
-
-If you are struggling to maintain boons, check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
-
-</Character>
-<Character title="Defensive Setup" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1348,"Healing Power":1786,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.0486666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.6338,"Effective Power":4371.9075,"NonCrit Effective Power":3658.5,"Power DPS":5617.657037928379,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7053.693038967238,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1512.5720399999998,"Healing":1512.5720399999998}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30694,"weapon1MainType":"Rifle","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":24639,"weapon2MainId":30695,"weapon2MainType":"Scepter","weapon2MainSigil1Id":74326,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432,"weapon2OffId":30696,"weapon2OffType":"Shield","weapon2OffSigilId":24639,"weapon2OffAffix":"Harrier","weapon2OffInfusionId":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":91690,"utilityId":67528,"relicId":99965},"skills":{"healId":10213,"utility1Id":10236,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,1866],[1995,1978,1942]],"lines":[45,23,40]}}'>
+<Character title="Heal Chrono" gear='{"attributes":{"profession":"Mesmer","specialization":"Chronomancer","data":{"Health":23602,"Armor":2773,"Power":2439,"Precision":1000,"Toughness":1806,"Vitality":1856,"Ferocity":0,"Condition Damage":750,"Expertise":250,"Concentration":1348,"Healing Power":1786,"Agony Resistance":150,"Condition Duration":0.16666666666666669,"Boon Duration":1.0486666666666666,"Critical Chance":0.3,"Critical Damage":1.5,"Clone Critical Chance":0.05,"Phantasm Critical Chance":0.05,"Phantasm Critical Damage":1.5,"Power Coefficient":3337,"Power2 Coefficient":1036,"Burning Coefficient":0,"Bleeding Coefficient":0.68,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0.81,"Flat DPS":0,"Outgoing Healing":0.6338,"Effective Power":4371.9075,"NonCrit Effective Power":3658.5,"Power DPS":5617.657037928379,"Phantasm Effective Power":3124.96875,"Power2 DPS":1246.6182614555257,"Siphon DPS":0,"Bleeding Damage Tick":104.6875,"Bleeding Stacks":0.7933333333333334,"Bleeding DPS":83.05208333333334,"Burning Damage Tick":386.328125,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":112.55625,"Confusion Stacks":0.9450000000000002,"Confusion DPS":106.36565625000003,"Poison Damage Tick":122.65625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage Tick":155.15625,"Torment Stacks":0,"Torment DPS":0,"Damage":7053.693038967238,"Effective Health":130245464.67661694,"Survivability":66215.2845331047,"Effective Healing":1512.5720399999998,"Healing":1512.5720399999998}},"armor":{"weight":"Light","helmAffix":"Harrier","helmRuneId":24842,"helmRune":"Monk","helmRuneCount":6,"helmInfusionId":49431,"shouldersAffix":"Harrier","shouldersRuneId":24842,"shouldersRune":"Monk","shouldersRuneCount":6,"shouldersInfusionId":49431,"coatAffix":"Harrier","coatRuneId":24842,"coatRune":"Monk","coatRuneCount":6,"coatInfusionId":49431,"glovesAffix":"Harrier","glovesRuneId":24842,"glovesRune":"Monk","glovesRuneCount":6,"glovesInfusionId":49432,"leggingsAffix":"Harrier","leggingsRuneId":24842,"leggingsRune":"Monk","leggingsRuneCount":6,"leggingsInfusionId":49432,"bootsAffix":"Harrier","bootsRuneId":24842,"bootsRune":"Monk","bootsRuneCount":6,"bootsInfusionId":49432},"weapon":{"weapon1MainId":30694,"weapon1MainType":"Rifle","weapon1MainSigil1Id":74326,"weapon1MainAffix":"Harrier","weapon1MainInfusion1Id":49432,"weapon1MainInfusion2Id":49432,"weapon1MainSigil2Id":24639,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":74326,"weapon2MainSigil2Id":24639,"weapon2MainAffix":"Harrier","weapon2MainInfusion1Id":49432},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":49432,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":49432,"ring1Infusion2Id":49432,"ring1Infusion3Id":49432,"ring2Affix":"Minstrel","ring2Infusion1Id":49432,"ring2Infusion2Id":49432,"ring2Infusion3Id":49432,"accessory1Affix":"Minstrel","accessory1InfusionId":49432,"accessory2Affix":"Minstrel","accessory2InfusionId":49432},"consumables":{"foodId":91690,"utilityId":67528,"relicId":100388},"skills":{"healId":10213,"utility1Id":10236,"utility2Id":"","utility3Id":"","eliteId":29519},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[675,668,1687],[738,740,1866],[1995,1978,1942]],"lines":[45,23,40]}}'>
 
 Note that this build variant is optimized for 150 agony resistance and providing yourself with permanent <Boon name="Regeneration"/> in order to achieve 100% boon duration (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>). 
 
-<Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. 
+<Item id="100388"/> is incredibly strong in fractals, thanks to the <Boon name="Resistance"/> and condition cleanse it applies. Otherwise <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. See below for recommended relic usage.
 
 If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
 
@@ -89,12 +78,12 @@ Check the Skill Explanations section below for alternative weapon setups. If you
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
+If you are struggling to kill your Aspect on the Silent Surf CM split phases, swap more equipment to Harrier or Celestial. It is possible with most gear setups providing you CC the Aspect and use Weapon skills and Shatters for damage!
 </Character>
 </CharacterWithAr> 
 
 <Divider text="Build"/>
- 
-<Grid> 
+<Grid>
 <GridItem sm="7">
 ### Traits
 <Traits traits1Id="45" traits1="Chaos" traits1SelectedIds="675,668,1687" traits2Id="23" traits2="Inspiration" traits2SelectedIds="738,740,752" traits3Id="40" traits3="Chronomancer" traits3SelectedIds="1987,1978"/>
@@ -132,6 +121,82 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 <Divider text="Situational Skills"/>
 <Specialization name="Chronomancer" text="Heal Chronomancer"/> has an incredibly flexible toolkit, with all of its skill slots being flexible and able to be changed depending on the scenario. Check out the lists below for the common situatiuonal skills and their reason for use. 
+### Recommended Fractal Setups
+<Grid>
+<GridItem sm="4">
+#### MAMA
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+#### Skorvald
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+#### Ai, Keeper of the Peak
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="101139"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+
+#### T4s
+**Weapons:** <Item id="85348" text="Rifle" size="medium"/> | <Item id="85027" text="Scepter" size="medium"/> / <Item id="85346" text="Focus" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+
+**Traits:** <Trait id="751"/>
+</GridItem>
+<GridItem sm="4">
+#### Siax
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+#### Artsariiv
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+#### Kanaxai
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
+
+**Relic:** <Item id="99965"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10185" size="big" disable text/><Skill id="29519" size="big" disable text/>
+</GridItem>
+<GridItem sm="4">
+#### Ensolyss
+**Weapons:** <Item id="85112" text="Rifle" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/> 
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+#### Arkk
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85027" text="Scepter" size="medium"/> / <Item id="85346" text="Focus" size="medium"/>
+
+**Relic:** <Item id="100388"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+
+**Traits:** <Trait id="751"/>
+#### Eparch
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85027" text="Scepter" size="medium"/> / <Item id="85346" text="Focus" size="medium"/>
+
+**Relic:** <Item id="101116"/>
+
+<Skill id="10213" size="big" disable text/><Skill id="29526" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+
+**Traits:** <Trait id="751"/>. <Trait id="1866"/>
+</GridItem>
+</Grid>
 <Grid>
 <GridItem sm="6">
 ### Heal Skills
@@ -146,7 +211,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 |                                                                |                                                                                                                                                                                                |
 |----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <Skill name="Well of Action" size="big" disableText/>          | Taken to help provide <Boon name="Might"/> and <Boon name="Fury"/>. Can be exchanged if you play Rifle and don't need a quick ramp up to 25 stacks, or another member of the group provides <Boon name="Might"/> also.                                                                        | 
-| <Skill name="Phantasmal Disenchanter" size="big" disableText/> | Can be used for boonstrip when <Instability name="No Pain, No Gain"/> is present.                                                                                                                        |
+| <Skill name="Arcane Thievery" size="big" disableText/> | Can be used for boonstrip when <Instability name="No Pain, No Gain"/> is present.                                                                                                                        |
 | <Skill name="Mantra of Concentration" size="big" disableText/> | Grants <Boon name="Aegis"/> on the initial channel and 4 stacks of <Boon name="Stability"/> on each of the three charges.                                                                  |
 | <Skill name="Well of Precognition" size="big" disableText/>    | Grants muliple applications of <Boon name="Aegis"/> within 3 pulses.                                                                                                                         |
 | <Skill name="Mantra of Resolve" size="big" disableText/>       | Your main tool dealing with condition pressure.                                                                                                                                               |
@@ -246,7 +311,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 
 ### Boonstrip
 #### No Pain, No Gain
-When boonstrip is required on single targets the simplist option is to use <Skill name="Phantasmal Disenchanter"/>. <Instability name="No Pain, No Gain"/> has a 20 second internal cooldown so the <Skill name="Phantasmal Disenchanter"/> will always be availible to use. Be careful during split phases, since the timer for <Instability name="No Pain, No Gain"/> keeps ticking, meaning that if you cant strip every 20 seconds, you may find yourself desynced.
+When boonstrip is required on single targets the simplist option is to use <Skill name="Arcane Thievery"/>. <Instability name="No Pain, No Gain"/> has a 20 second internal cooldown so the <Skill name="Arcane Thievery"/> will always be availible to use on a single target providing you have some <Boon name="Alacrity"/>. Be careful during split phases, since the timer for <Instability name="No Pain, No Gain"/> keeps ticking, meaning that if you cant strip every 20 seconds, you may find yourself desynced.
 
 Another option is to play <Item id="72872"/> which can free up a utility slot, however it will only strip boons if the boss is casting an attack or has a defiance bar up.
 
@@ -352,7 +417,9 @@ Use **all** Shatters while in <Skill name="Continuum Split"/> for additional boo
 
 </Tab>
 </Tabs>
-
+<Warning>
+Even if you dont plan to run <Skill name="Signet of Inspiration"/> and <Trait name="Blurred Inscriptions"/> in fight, you should use this combination during the precast, even if it means you will status reset to yourself and strip yourself when swapping to <Trait name="Restorative Mantras"/>. Your party deserve boons, even if you don't want them!
+</Warning>
 </GridItem>
 </Grid>
 

@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 author: Ascers.6082
 specialization: Firebrand
 boons:
@@ -25,14 +25,14 @@ boons:
   - name: Resolution
     uptime: 78%
     variant: group
-code: "[&DQEuKzEvPhZLFwAAehYAAEkBAAAWAQAAGBYAAAAAAAAAAAAAAAAAAAAAAAACBQBmAAA=]"
+code: "[&DQExLy4/PhZLFwAAehYAAAAAAAAWAQAAGBYAAAAAAAAAAAAAAAAAAAAAAAACWgAyAAA=]"
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: "2024-04-21T10:24:18.607Z "
+date: "2024-08-28T19:41:59.370Z "
 title: Heal Firebrand
 rating: Good
 role: Support
@@ -40,7 +40,7 @@ profession: Guardian
 conditions: []
 cmGuide: pug
 ---
-   
+  
 <Warning> 
 
 This build is common in PuGs. More info about building effective team compositions can be found [here](/guides/teamcomp101). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running <BuildLink build="Power Scrapper" specialization="Scrapper"/> or <BuildLink build="Power Herald" specialization="Herald"/>. For parties wanting to transition to no heal runs, but still feel the need for a bit of extra support, there are hybrid builds such as Celstial Scourge or Firebrand that can be situationally useful, especialy on Sunqua Peak and Silent Surf CMs.
@@ -55,12 +55,10 @@ The build is very flexible and can be adapted to the encounter, instabilities, a
 
 <Warning>
 ### Boon Duration Required for 100% Quickness Uptime
-- <Skill name="Mantra of Potence"/> (all charges off cooldown) - 90.85% (not recommended!)
+- <Skill name="Mantra of Potence"/> (all charges off cooldown) - 90.85% (not recommended unless your group is tightly stacked!)
 - <Skill name="Mantra of Solace"/> with <Trait name="Liberators Vow"/>, <Skill name="Mantra of Potence"/> (all charges off cooldown) - 29.2%
-- <Skill name="Mantra of Solace"/> with <Trait name="Liberators Vow"/>, <Skill name="Mantra of Potence"/> (saving final charge) - 77.78%
 - <Skill name="Mantra of Potence"/> (all charges off cooldown) and <Skill name="Feel My Wrath"/> - 54.24%
 - <Skill name="Mantra of Solace"/> with <Trait name="Liberators Vow"/>, <Skill name="Mantra of Potence"/> (all charges off cooldown), and <Skill name="Feel My Wrath"/> - 11.32%
-- <Skill name="Mantra of Solace"/> with <Trait name="Liberators Vow"/>, <Skill name="Mantra of Potence"/> (saving final charge), and <Skill name="Feel My Wrath"/> - 45.89%
 
 </Warning>
 <Divider text="Equipment"/>
@@ -86,13 +84,9 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 <GridItem>
 ### Traits
 <Traits
-  traits1="Virtues"
-  traits1Selected="Master of Consecrations, Absolute Resolve, Battle Presence"
-  traits2="Honor"
-  traits2Selected="Protector's Restoration, Empowering Might, Writ of Persistence"
-  traits3="Firebrand"
-  traits3Selected="Liberators Vow, Weighty Terms, Stoic Demeanor"
-/>
+traits1Id="46" traits1="Virtues" traits1SelectedIds="617,587,612" 
+traits2Id="49" traits2="Honor" traits2SelectedIds="654,562,558"
+traits3Id="62" traits3="Firebrand" traits3SelectedIds="2101,2063,2105"/>
 </GridItem> 
 <GridItem>
 <Card title="Situational Traits">

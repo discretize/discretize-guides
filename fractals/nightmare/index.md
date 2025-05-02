@@ -7,8 +7,8 @@ layout: src/layouts/Fractal.astro
 date: "2023-08-07T21:58:15.065Z "
 title: Nightmare
 difficulties:
-  - level: 97
-    ar: 145
+  - level: 96
+    ar: 143
 consumables:
   - 43360
   - 8764

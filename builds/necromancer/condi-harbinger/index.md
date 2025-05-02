@@ -27,7 +27,7 @@ classification:
   - 4
   - 3
   - 4
-date: "2024-04-21T11:05:29.281Z "
+date: "2025-04-30T22:21:28.802Z "
 title: Condi (Quick) Harbinger
 rating: Good
 role: Condi Damage
@@ -40,7 +40,6 @@ conditions:
   - name: Poisoned
   - name: Burning
 ---
-  
 The <Specialization name="Harbinger" text="Condi Harbinger"/> provides high Condition damage while having some self-generated boons due to Elixirs as well as some group <Boon name="Might"/> through <Skill name="Blood is Power"/>. You can also adapt your build to provide <Boon name="Quickness"/> as well as share your Elixir boons with your group. You can also upkeep 25 stacks of <Condition name="Vulnerability"/> on your own after the initial ramp-up.
 
 The <Specialization name="Harbinger" text="Condi Harbinger"/> is more squishy than other <Specialization name="Necromancer"/> builds because it loses maximum health due to the <Effect name="Blight"/> mechanic and <Skill name="Harbinger Shroud"/> does not act as a second health bar. However, even with maximum <Effect name="Blight"/> stacks, you will still be at around 15k health.

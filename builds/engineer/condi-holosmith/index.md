@@ -1,6 +1,6 @@
 ---
 hidden: false
-archive: false
+archive: true
 specialization: Holosmith
 code: "[&DQMGJyY5OTcqDyoPhgCGAAcBBwGTAQAA8BWJAQAAAAAAAAAAAAAAAAAAAAACMwBXAAA=]"
 classification:

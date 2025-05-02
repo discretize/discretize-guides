@@ -5,8 +5,8 @@ layout: src/layouts/Fractal.astro
 date: "2023-08-07T21:59:36.752Z "
 title: Sunqua Peak
 difficulties:
-  - level: 99
-    ar: 148
+  - level: 98
+    ar: 146
 consumables:
   - 78978
 record:
