@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2025-05-01T22:52:42.062Z "
+date: "2025-02-24T23:58:37.795Z"
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
