@@ -1,10 +1,10 @@
 ---
 title: dT Daily Comps
-date: "2025-02-24T23:58:37.795Z "
+date: "2025-05-01T22:52:42.062Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
- 
+   
 ## Playing in organized groups
 
 It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will slow down the run and affect its smoothness.
@@ -129,8 +129,9 @@ All of these PoVs are using Longbow. In most cases Spear is a better option to p
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) | [DPS.Report](https://dps.report/2K0f-20250124-024614_ai) | Hmod (Alacrity)    |
-| Kanaxai |                                      |                                                          |        |
+| Dark Ai      | [Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) | [DPS.Report](https://dps.report/2K0f-20250124-024614_ai)| Hmod (Alacrity)  |
+||[Link](https://www.youtube.com/watch?v=sA_nIS-NZOE)| [DPS.Report](https://dps.report/FjCa-20250501-022427_ai)  | Hmod (DPS)
+| Kanaxai |     [Link](https://www.youtube.com/watch?v=zBtjag1t8l0&t=3s)                                 |                                          [DPS.Report](https://dps.report/r6oB-20240525-121510_kana)                |     Hmod (Alacrity   |
 
 
 </Tab>
