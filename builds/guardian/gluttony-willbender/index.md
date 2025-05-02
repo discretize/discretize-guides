@@ -11,7 +11,7 @@ classification:
   - 1
   - 1
   - 2
-date: "2025-05-02T10:35:27.324Z "
+date: "2025-05-02T10:36:30.902Z "
 title: Gluttony Willbender
 rating: Good
 role: Hybrid Damage
@@ -21,7 +21,7 @@ conditions:
   - name: Vulnerability
     uptime: 12 stacks (using Sword of Justice)
 ---
- 
+  
 <Specialization name="Willbender" text="Gluttony Willbender"/> shines as a build used on the Eparch encounter in The Lonely Tower Fractal, when collecting Gluttony Globules. This build is designed to get the maximum amount of gluttony procs possible, dealing the majority of its damage through Lifesteal, at the cost of it's strike and condition damage. The damage you deal with this build can only be accurately seen through the Self Stats window on ArcDPS, which even in PuG runs can often end up well over 100k DPS!
 
 As well as its high damage, this build offers high defiance bar damage with <Skill name="Heavens Palm"/> and <Skill name="Sanctuary"/>, great mobility through its profession skills and off-hand sword if played, and good survivability with <Skill name="Litany of Wrath"/>. 
@@ -123,7 +123,7 @@ With this in mind, you want to prioritize the following skills:
 
 
 ### Example Gluttony Willbender PoV
-<Video youtube="7rDqUKi0zRI" caption="by Mrnousak. Note: here off-hand sword is being used for mobility and is an optional replacement for torch."/>
+<Video youtube="7rDqUKi0zRI" caption="by Mrnousak. Note: here off-hand sword is being used for mobility, which is an optional replacement for torch."/>
 
 
 </GridItem>
