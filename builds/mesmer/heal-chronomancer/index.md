@@ -47,12 +47,12 @@ classification:
   - 3
   - 3
   - 3
-date: "2025-05-04T14:33:52.147Z "
+date: "2025-05-04T14:35:25.056Z "
 role: Support
 cmGuide: ""
 ---
 <Warning> 
- 
+  
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities.   
    
 </Warning>         
@@ -70,7 +70,7 @@ The main difference in playing <Specialization name="Chronomancer" text="Heal Bo
 
 Note that this build variant is optimized for 150 agony resistance and providing yourself with permanent <Boon name="Regeneration"/> in order to achieve 100% boon duration (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>). 
 
-<Item id="100388"/> is incredibly strong in fractals, thanks to the <Boon name="Resistance"/> and condition cleanse it applies. Otherwise <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. See below for recommended relic usage.
+<Item id="100388"/> is incredibly strong in fractals, thanks to the <Boon name="Resistance"/> and condition cleanse it applies. Otherwise <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively, if you feel like your party needs more healing take <Item id="100031"/>. See below for recommended relic usage.
 
 If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
 
