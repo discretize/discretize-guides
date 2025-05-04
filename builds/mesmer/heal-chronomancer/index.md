@@ -47,7 +47,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2025-05-04T14:35:25.056Z "
+date: "2025-05-04T15:00:47.172Z "
 role: Support
 cmGuide: ""
 ---
@@ -120,7 +120,8 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 </Grid>
 
 <Divider text="Situational Skills"/>
-<Specialization name="Chronomancer" text="Heal Chronomancer"/> has an incredibly flexible toolkit, with all of its skill slots being flexible and able to be changed depending on the scenario. Check out the lists below for the common situatiuonal skills and their reason for use. 
+<Specialization name="Chronomancer" text="Heal Chronomancer"/> has an incredibly flexible toolkit, with all of its skill slots being flexible and able to be changed depending on the scenario. However, avoid dropping <Skill name="Signet of Inspiration"/>. Check out the lists below for the common situatiuonal skills and their reason for use. As far as weapons are concerned, 
+staff is generally preferred to Scepter/Shield because of easier boon application in hectic environments although the later also has value if you are comfortable with it.
 ### Recommended Fractal Setups
 <Grid>
 <GridItem sm="4">
@@ -128,8 +129,8 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 **Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
 
 **Relic:** <Item id="100388"/>
-
 <Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+
 #### Skorvald
 **Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
 
