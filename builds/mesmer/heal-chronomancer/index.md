@@ -47,11 +47,11 @@ classification:
   - 3
   - 3
   - 3
-date: "2025-05-01T20:46:12.106Z "
+date: "2025-05-04T14:33:52.147Z "
 role: Support
 cmGuide: ""
 ---
-<Warning>
+<Warning> 
  
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities.   
    
@@ -174,7 +174,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 </GridItem>
 <GridItem sm="4">
 #### Ensolyss
-**Weapons:** <Item id="85112" text="Rifle" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/> 
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/> 
 
 **Relic:** <Item id="100388"/>
 
