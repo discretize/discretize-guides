@@ -7,7 +7,7 @@ difficulties:
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-05-11T10:53:49.954Z "
+date: "2025-05-11T12:39:10.152Z "
 title: Silent Surf
 consumables: []
 record: {}
@@ -282,6 +282,23 @@ If you are hit, once again using a stun break or having <Boon name="Stability"/>
 
 ### Fight Overview
 <Grid>
+<GridItem sm="4">
+> ### **Mechanics**
+> - **Precast** <br/>
+> *Share boons, precast damaging skills*
+>
+> - **Frightening Speed** <br/>
+> *Spread out with AoEs, don't standi in anyone elses AoE* <br/><br/>
+> - **Dread Visage** <br/>
+> *Look towards the outside of the island, between aspects to avoid getting feared* <br/><br/>
+> - **Gathering Shadows** <br/>
+> *Break Kanaxai's defiance bar* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+> - **Rending Storm** <br/>
+> *Move the orange AoE out of the stack, after 3 seconds it will drop into a red field dealing high damage*
+> - **Harrowshot** <br/>
+> *Move out of the orange AoE before it fills to avoid your boons being stripped and transfered to Kanaxai.*
+
+</GridItem>
 <GridItem sm="8">
 ### **100%-66%**
 ----
@@ -314,23 +331,6 @@ Move the AoE outside the stack and drop it so the edge of the circle is slightly
 Make sure to start moving out of the expanding AoE early so you can move while still attacking. This attack is unblockable, meaning the only way to avoid being boonstripped is to not stand in the AoE. In later phases multiple AoEs will be chained together so it is advisable to move as a group so that you can bait the AoEs to land in locations that let you all keep attacking.
 
 ---
-</GridItem>
-<GridItem sm="4">
-> ### **Mechanics**
-> - **Precast** <br/>
-> *Share boons, precast damaging skills*
->
-> - **Frightening Speed** <br/>
-> *Spread out with AoEs, don't standi in anyone elses AoE* <br/><br/>
-> - **Dread Visage** <br/>
-> *Look towards the outside of the island, between aspects to avoid getting feared* <br/><br/>
-> - **Gathering Shadows** <br/>
-> *Break Kanaxai's defiance bar* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-> - **Rending Storm** <br/>
-> *Move the orange AoE out of the stack, after 3 seconds it will drop into a red field dealing high damage*
-> - **Harrowshot** <br/>
-> *Move out of the orange AoE before it fills to avoid your boons being stripped and transfered to Kanaxai.*
-
 </GridItem>
 <GridItem sm="8">
 ### **66% + 33% Split Phase**
