@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-05-01T22:34:35.411Z "
+date: "2025-05-11T09:04:40.786Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -283,7 +283,7 @@ As far as the general rotation is concerned, this fight is long enough to resemb
 At the Mistlock Singularity for better boons:
 
 - Make sure to start a fight with 5 Blades by using <Skill name="Blade Renewal"/>.
-- Use a high boon duration gearset to
+- Use a 100% <Attribute name="Boon Duration"/> equipment template to
 
 1. Blast existing fire fields with <Skill name="The Prestige"/> using a torch.
 2. Give might with <Skill name="Tides of Time"/> using a shield.
@@ -306,7 +306,7 @@ At the boss (pre-spawned bosses)
 - You can also precast phantasms like <Skill name="Phantasmal Warlock"/>.
 
 <Warning>
-Swapping gear or skills does not remove your boons. Hence, both using a precast skill template and a precast gearset with high boon duration are advised. Be careful that your skill templates use the same traits, as swapping traits does remove your boons.
+Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
 </Warning>
 
 </Card> 
