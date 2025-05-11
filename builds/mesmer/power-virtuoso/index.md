@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-05-11T09:04:40.786Z "
+date: "2025-05-11T10:18:17.070Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -107,7 +107,7 @@ After the greatsword buffs in April 2025, the default weapon setup is Spear + Gr
 
 You can use this Illusions-traitline variant instead of the Domination-traitline when you are facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues. It allows you to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. 
 
-Before flaming your group for boons or swapping traitlines, you should make sure that quickness and might are properly stacked at the mistlock singularity by using a heal chronomancer gearset with high boon duration and precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/>.
+Before flaming your group for boons or swapping traitlines, you should make sure that quickness and might are properly stacked at the mistlock singularity by using a high boon duration gearset, for example your heal chronomancer equipment, and precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/>.
 
 <Advanced>
 <Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
@@ -156,7 +156,7 @@ Situationally used for <Skill name="Continuum Split"/>, which can be useful when
 - Shield for blocks if you are skipping with <Specialization name="Chronomancer"/>
 
 </Advanced>
-
+ 
 ### Situational Skills
 
 Swap out <Skill name="Mantra of Pain"/> before any other skill. If you cannot use  <Skill name="Mimic"/>
