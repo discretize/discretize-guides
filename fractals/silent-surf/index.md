@@ -7,7 +7,7 @@ difficulties:
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2025-05-11T10:29:27.365Z "
+date: "2025-05-11T10:53:49.954Z "
 title: Silent Surf
 consumables: []
 record: {}
@@ -287,21 +287,33 @@ If you are hit, once again using a stun break or having <Boon name="Stability"/>
 ----
 The fight will start by interacting with the body of Captain Thess on the ground. Use the time until Kanaxai spawns and becomes vulnerable to precast boons, skills / effects, and position yourself around the boss ready to attack.
 
+---
+
 Slowly spread out untill you are not standing in anyone elses AoE while still attacking the boss. If you have precasted any traps or skills like <Specialization name="Necromancer"/> staff marks, the player with the first number should stand in them so that they proc when Kanaxai jumps. After Kanaxai has attacked you try to group up with other players that have also been attacked to make maintaining boons easier.
 
-Eye
+---
+
+When facing the outside of the island, it is not necessary to run all the way to the edge to avoid getting feared. Instead stand slightly away from the middle and look between the aspects on the edge of the platform. As soon as the attack has gone off return to the middle to prevernt Kanaxai from jumping away from you.
+
+---
 
 At 90% HP, Kanaxai will gain a CC bar that is vulnerable for 5 seconds. Breaking it will apply <Effect name="Exposed"/> for 5 seconds. Every time the CC bar is broken Kanaxai will gain a stack of <Effect name="Dread Defiance"/> each stack will reduce incoming defiance damage and <Effect name="Exposed"/> duration by 20.5% multiplicatively. Depending on how fast you kill the boss or how many bars you choose to break, <Effect name="Dread Defiance"/> will stack up to 10 stacks, with the following defiance bar values:
-  
   - 1st - 1200, 2nd - 1510, 3rd - 1900, 4th - 2390, 5th - 3000, 6th - 3780, 7th - 4750, 8th - 5980, 9th - 7520, 10th - 9460
 
 The CC bars do not regenerate on this encounter, so if a bar is not broken in time, any damage done will cary over to the next time the bar is vulnerable. Kanaxai's defiance bar will be vulnerable at the following health percentages, providing Kanaxai is not doing another mechanic (if the groups damage is high you will skip some of these bars due to mechanic and phase timings): 
-
   - 90%, 80%, 70%, 60%, 50%, 45%, 40%, 35%, 30%, 25%, 20%, 15% and 10%. 
 
-During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gathering Shadows"/>. If the bar is not broken, Kanaxai will spawn an Aspect on the edge of the platform. In later phases this can be taken advantage of to gain the <Effect name="Phantasmagoria"/> effect.
+During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gathering Shadows"/>. If the bar is not broken, Kanaxai will spawn an Aspect on the edge of the platform, resulting in an additional tether during the split phase.
 
+---
 
+Move the AoE outside the stack and drop it so the edge of the circle is slightly outside Kanaxai's hitbox. Any old axe fields will despawn when a new one is placed. Brave players with builds that have condition transfer abilities can stand inside a field that another player has dropped to gain multiple <Condition name="Bleeding"/> stacks to transfer.
+
+---
+
+Make sure to start moving out of the expanding AoE early so you can move while still attacking. This attack is unblockable, meaning the only way to avoid being boonstripped is to not stand in the AoE. In later phases multiple AoEs will be chained together so it is advisable to move as a group so that you can bait the AoEs to land in locations that let you all keep attacking.
+
+---
 </GridItem>
 <GridItem sm="4">
 > ### **Mechanics**
@@ -309,13 +321,21 @@ During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gatheri
 > *Share boons, precast damaging skills*
 >
 > - **Frightening Speed** <br/>
-> *Spread out with AoEs, Keep attacking as best as you can without standing in anyone elses AoE*
+> *Spread out with AoEs, don't standi in anyone elses AoE* <br/><br/>
 > - **Dread Visage** <br/>
-> *Look towards the outside of the island, between aspects to avoid getting feared*
+> *Look towards the outside of the island, between aspects to avoid getting feared* <br/><br/>
 > - **Gathering Shadows** <br/>
-> *Break Kanaxai's defiance bar*
+> *Break Kanaxai's defiance bar* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 > - **Rending Storm** <br/>
+> *Move the orange AoE out of the stack, after 3 seconds it will drop into a red field dealing high damage*
 > - **Harrowshot** <br/>
+> *Move out of the orange AoE before it fills to avoid your boons being stripped and transfered to Kanaxai.*
 
+</GridItem>
+<GridItem sm="8">
+### **66% + 33% Split Phase**
+----
+</GridItem>
+<GridItem sm="4">
 </GridItem>
 </Grid>
