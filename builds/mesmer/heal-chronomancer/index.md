@@ -47,7 +47,7 @@ classification:
   - 3
   - 3
   - 3
-date: "2025-05-04T15:00:47.172Z "
+date: "2025-05-06T16:19:43.219Z "
 role: Support
 cmGuide: ""
 ---
@@ -185,7 +185,7 @@ staff is generally preferred to Scepter/Shield because of easier boon applicatio
 
 **Relic:** <Item id="100388"/>
 
-<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+<Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="30814" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
 
 **Traits:** <Trait id="751"/>
 #### Eparch
@@ -298,7 +298,7 @@ staff is generally preferred to Scepter/Shield because of easier boon applicatio
 
 | Skill                                 | Damage without <Item id="24639"/> | Damage with <Item id="24639"/>   |
 |---------------------------------------|-----------------------------------|----------------------------------|
-| <Skill name="Time Sink"/>             | 100 damage plus 100 per clone     | 130 damage plus 130 per clone  clone |
+| <Skill name="Time Sink"/>             | 100 damage plus 100 per clone     | Not affected                     |
 | <Skill name="Signet of Humility"/>    | 600 damage                        | 800 damage                       |
 | <Skill name="Phantasmal Sharpshooter"/>    | 200 damage                        | 266 damage                       |
 | <Skill name="Gravity Well"/>          | 550 damage                        | Not affected                     |

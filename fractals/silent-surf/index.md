@@ -1,13 +1,14 @@
 ---
-hasCM: true
+hasCM: false
+image: images/silent_surf_cave.jpg
+difficulties:
+  - level: 100
+    ar: 150
 cycle: Day
 hidden: true
 layout: src/layouts/Fractal.astro
-date: "2024-01-06T02:05:43.797Z "
+date: "2025-05-11T12:39:10.152Z "
 title: Silent Surf
-difficulties:
-  - level: 99
-    ar: 149
 consumables: []
 record: {}
 long_description: Join forces with Captain Thess and his intrepid Serpent Clan
@@ -20,23 +21,12 @@ long_description: Join forces with Captain Thess and his intrepid Serpent Clan
   challenge mode. Here, you will face a more brutal version of the final fight.
   The path below is treacherous; the stakes are monumental. Will you pierce the
   shroud of growing evil and find the survivors?
-image: images/silent_surf_cave.jpg
 api: 5446
 bosses: 2
 description: I don't often mingle with prey, but you've earned an introduction.
 group: Challenge Mode
 sigils: []
 ---
-  
-You can also use little animations. for that, please just record the video in good quality with minimal ui and effects, and send only the snippet to princeps. 
-princeps has a transcode script, which makes the videos small and webfriendly.
-<GifPlayer sourceId="snowblind-throw-firewood" caption="Throw firewood into the fire" />
-
-## Documentation
-  
-https://discretize.pages.dev/docs/
-
- 
 Join forces with Captain Thess and his intrepid Serpent Clan crew to unearth the survivors of the Jade Wind's devastating aftermath. As you navigate through the haunting expanse of the petrified sea, an unforeseen peril emerges from the depths—an encroaching evil that hungers for power. Dive headfirst into the Silent Surf's caverns, and together with Captain Thess, you will unveil the sinister force that lurks beneath the petrified sea's surface. For those who seek an even greater challenge, you can test your skills in the challenge mode. Here, you will face a more brutal version of the final fight. The path below is treacherous; the stakes are monumental. Will you pierce the shroud of growing evil and find the survivors? 
  
 <Divider text="Normal Mode"/>
@@ -92,28 +82,22 @@ There are multiple ways to progress through the "jumping puzzle" section of this
 
 <Grid>
 <GridItem sm="6">
-
 ### First Drop
 
 Interacting with the first box of leftover supplies will provide you with a <Skill name="Parachute" text="1 Parachute"/>. When you are ready jump into the hole and use <Skill name="Parachute"/> (skill 2) to safely land at the bottom, triggering the first checkpoint.
 
-</GridItem>
-<GridItem sm="6">
-<GifPlayer/>
-</GridItem>
-
-<GridItem sm="6">
-<GifPlayer/>
-</GridItem>
-<GridItem sm="6">
 ### Zipline
 
 At the bottom you will find a second box giving you <Skill name="Grappling Hook" text="1 Grappling Hook"/> amd <Skill name="Parachute" text="1 Parachute"/>. Use the <Skill name="Grappling Hook"/> (skill 1) to grapple to the platform in front of you and take the zipline to the platform below. Take the next zipline, which will dismount you at the end and send you falling towards the ground. Use <Skill name="Parachute"/> (skill 2) to break your fall. 
 
 When ready stand in the white circle (you need at least two playsers in this circle for the fractal to continue). With enough players in the circle, a short event will spawn requiring you to fend off an attack from some bats and spiders. Fending off the attack will trigger the second checkpoint and Thess will open a portal that can be used to travel back through the fractal.
-
 </GridItem>
-
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-jp1" />
+</GridItem>
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-jp2" />
+</GridItem>
 <GridItem sm="6">
 ### Bouncing Mushrooms
 
@@ -122,14 +106,6 @@ The third box of leftover supplies will give you <Skill name="Grappling Hook" te
 Jump down onto the mushrooms (as long as you hit them you will not take fall damage) and as you get flung into the air use <Skill name="Grappling Hook"/> (skill 1) on the  large Stalactite in the center of the cavern. If required, you can then use <Skill name="Black Powder Charge"/> (skill 3) to boost yourself forward to land on the ground infront of you. Use the Wind Cannon to get boosted up to the next platform.
 
 Like the last section, you need at least two players to stand in the white circle on the platform to progress the fractal. This starts the event clear out the Naga raiders. Once dealt with the third checkpoint will trigger and Thess will open up another portal.
-
-</GridItem>
-<GridItem sm="6">
-<GifPlayer/>
-</GridItem>
-
-<GridItem sm="6">
-<GifPlayer/>
 </GridItem>
 <GridItem sm="6">
 ### Wind Cannons
@@ -138,8 +114,10 @@ On the platform is another box of leftover supplies. This box gives you <Skill n
 
 In the distance below, you will see some bouncing mushrooms, make your way over to them using the bundle skills you have available. These bouncing mushrooms will send you into another Wind Cannon, onto a zipline, which will again dismount you at the end, sending you falling to the ground below. Use a <Skill name="Grappling Hook"/> (Skill 1) or <Skill name="Parachute"/> (Skill 2) charge to survive the landing.
 
-Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted First Mate Dolus. 
-
+Once again, have two players stand in the white circle to progress the fractal triggering the final checkpoint. Thess will arive and open a final portal and the "Survive the corrupted ambushers" event begins. Once the ambush has been survived, you will remain in combat until you have fought Corrupted
+</GridItem>
+<GridItem sm="6">
+<GifPlayer sourceId="silent-surf-jp3" />
 </GridItem>
 </Grid>
 
@@ -152,10 +130,10 @@ Dolus will now be targetable and start casting Frightening Speed (the numbers at
 Once you have finished the fight, take the _Mistlock Singularity_ to reset your cooldowns, interact with the box of leftover supplies which will give you <Skill name="Parachute" text="1 Parachute"/> and jump off the edge to find the final boss platform. If you need to go back through the fractal for any reason, before jumping feel fee to take the portal which will take you back to previous checkpoints.
 <Grid>
 <GridItem sm="6">
-<GifPlayer caption="Dread Visage mechanic"/>
+<GifPlayer sourceId="silent-surf-dolusswipe" />
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
+<GifPlayer sourceId="silent-surf-dolusnumbers" />
 </GridItem>
 </Grid>
 
@@ -238,80 +216,40 @@ It is considered a condition-favored encounter because the fight is divided into
 
 The same reasoning determines that builds with access to ranged attacks should perform better as it's possible to keep DPS uptime while dropping _Axes_, staying out of the _Boonstrip_ fields, and spreading out before _Frightening Speed_.
 
-### 100% - 66%
 ### Mechanics Overview
-Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
-<Tabs>
-<Tab title="Frightening Speed">
 <Grid>
 <GridItem sm="6">
+#### Frightening Speed
+<GifPlayer sourceId="silent-surf-DreadVisage" />
 Also known as the numbers attack. Every player and the boss will get an orange AoE around them, and the plavers will get a random number. Spread out so you are not standing in another AoE and anfter a short period of time the boss will jump to each player and attack in numerical order. After attacking the playersthe boss will return back to its original position and do one final attack, after which it is safe to return to melee range. If you stand in another players, or the bosses final AoE, and the boss attacks you will be killed instantly. When the boss attacks it deals a large amount of damage, based upon your total health, as shown in the gif, this can be avoided by moving quickly away out of range or by using a blink.
 
 _Note: Be mindful on days with instabilities such as <Instability name="Toxic Trail"/> and <Instability name="Flux Bomb"/>, since the fields left by these instabilities will cause you to take a lot of 
 unnecessary damage during this mechanic if you do not move out of them!_
 </GridItem>
 <GridItem sm="6">
-<GifPlayer sourceId="silent-surf-DreadVisage" />
-</GridItem>
-</Grid>
-</Tab>
-<Tab title="Dread Visage">
-<Grid>
-<GridItem sm="6">
+#### Dread Visage
+<GifPlayer sourceId="silent-surf-FrighteningSpeed" />
 Also known as the fear attack. A large eye will appear over the bosses head and any Aspects that are on the platform. When this happens turn your character model away to avoid being struck by <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit for 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
 
 If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
 </GridItem>
 <GridItem sm="6">
-<GifPlayer sourceId="silent-surf-FrighteningSpeed" />
-</GridItem>
-</Grid>
-</Tab>
-<Tab title="Rending Storm">
-<Grid>
-<GridItem sm="6">
+#### Rending Storm
+<GifPlayer sourceId="silent-surf-axe" />
 Also known as the axes attack. A random player will be targeted by an orange AoE. After three seconds the AoE will lock in place, and after a further second the boss will throw a spinning axe leaving a red AoE on the ground lasting for 30 seconds. Standing in this AoE pulse <Condition name="Bleeding"/> and standing in another players AoE will pulse <Effect name="Exposed"/>.
 
 To deal with this mechanic simply walk the AoE away from the boss and other players and move out of it when it locks in place. You can also dodge roll through these AoEs without getting hit.
 </GridItem>
 <GridItem sm="6">
-<GifPlayer sourceId="silent-surf-axe" />
-</GridItem>
-</Grid>
-</Tab>
-<Tab title="Harrowshot">
-<Grid>
-<GridItem sm="6">
+#### Harrowshot
+<GifPlayer sourceId="silent-surf-boonstrip" />
 Also known as the boonstrip attack. The Aspects surrounding the platform will target random players with a large orange AoE. Shortly after they will shoot a projectile which when lands causes <Effect name="Agony"/> and a condition based upon the Aspect shooting the projectile to be applied to any players hit. Getting hit by this attack will also strip all of the players boons and transfer them to the boss.
 
 _Note: This attack cannot be mitigated in any way. The only way to avoid this attack is to leave the AoE before the projectile hits. Dodging, <Boon name="Aegis"/>, or skills that apply <Effect name="Invulnerability"/> will not block the attack!_
 </GridItem>
 <GridItem sm="6">
-<GifPlayer caption="Frightening Speed mechanic"/>
-</GridItem>
-</Grid>
-</Tab>
-</Tabs>
-
-### Details
-The fight will start by interacting with the body of Captain Thess on the ground, placing the group in combat. Use the time until Kanaxai spawns and becomes vulnerable to precast any skills and position yourself around the boss ready to attack. Once vulnerable, Kanaxai will start with Frightening Speed, so slowly move out while still attacking ready to deal with the mechanic. As soon as the mechanic is over with, Kanaxai will then cast Dread Visage so make sure you are ready to face your character model away from the boss and the Aspects.
-
-At 90% HP, Kanaxai will gain a CC bar that is vulnerable for 5 seconds. Breaking it will apply <Effect name="Exposed"/> for 5 seconds. Every time the CC bar is broken Kanaxai will gain a stack of <Effect name="Dread Defiance"/> each stack will incoming defiance damage and <Effect name="Exposed"/> duration by 20.5% multiplicatively. Depending on how fast you kill the boss or how many bars you choose to break, <Effect name="Dread Defiance"/> will stack up to 10 stacks, with the following defiance bar values:
-  
-  1st - 1200, 2nd - 1510, 3rd - 1900, 4th - 2390, 5th - 3000, 6th - 3780, 7th - 4750, 8th - 5980, 9th - 7520, 10th - 9460
-
-The CC bars do not regenerate on this encounter, so if a bar is not broken in time, any damage done will cary ovver to the next time the bar is vulnerable. Kanaxai's defiance bar can be vulnerable at the following health percentages providing Kanaxai is not doing another mechanic (if the groups damage is high you will skip some of these bars due to mechanic and phase timings): 
-
-  90%, 80%, 70%, 60%, 50%, 45%, 40%, 35%, 30%, 25%, 20%, 15% and 10%. 
-
-During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gathering Shadows"/>. If the bar is not broken, Kanaxai will spawn an Aspect on the edge of the platform. In later phases this can be taken advantage of to gain the <Effect name="Phantasmagoria"/> effect.
-
-### 66% World Cleaver
-### Mechanics Overview
-Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
-<Card title="World Cleaver">
-<Grid>
-<GridItem sm="6">
+#### World Cleaver
+<GifPlayer sourceId="silent-surf-WorldCleaver" />
 The boss will move to the center of the platform and gain <Effect name="Invulnerability"/>. The Aspects will target the closest players with an orange tether, applying the <Effect name="Phantasmagoria"/> effect until killed, and giving the player two charges of <Skill name="Grappling Hook"/>. After a few seconds the Aspect will move to an island signified by a blue beam of light and will now be targatable. All players that can see an Aspect will need to <Skill name="Grappling Hook"/> to their respective islands and kill their Aspect before the orange AoE in the center of the platform fills. If the party kills all of the Aspects in time the boss will attack applying <Effect name="Agony"/> then become vulnerable again. If any Aspects remain the party will wipe.
 
 _Note: The tether from an aspect to a player can be intercepted by a player standing in the tether. This can delay the Aspects moving to an island making it in some cases hard to kill in time. It is advisable unless you know what you are doing to not take tethers from other players. Additionally having <Boon name="Aegis"/>, <Effect name="Invulnerability"/>, or blocking will also delay the tether._
@@ -319,33 +257,8 @@ _Note: The tether from an aspect to a player can be intercepted by a player stan
 _When using <Skill name="Grappling Hook"/>, make sure to aim towards the rear of the island to gain enough height in the air to land. On the taller islands you can easily not get enough height and hit the side instead causing you to fall to your death and the party to wipe!_
 </GridItem>
 <GridItem sm="6">
-<GifPlayer sourceId="silent-surf-WorldCleaver" />
-</GridItem>
-</Grid>
-</Card>
-
-### Details
-Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
-
-### 66% - 33%
-### Mechanics Overview
-Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
-<Tabs>
-<Tab title="Dread Visage, on an Island">
-<Grid>
-<GridItem sm="6">
-Also known as the Island Fear. This version of Dread Visage is almost the same as the mechanic in the first phase, however this time the boss will teleport to an Island when doing the fear. Once again face your characters model away from the boss and any Aspects to avoid being Feared off the platform, and after the attack the boss will return. Once again being hit by this attack will apply <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit for 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
-
-If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
-</GridItem>
-<GridItem sm="6">
-<GifPlayer sourceId="silent-surf-island-fear" />
-</GridItem>
-</Grid>
-</Tab>
-<Tab title="Phantasmagoria">
-<Grid>
-<GridItem sm="6">
+#### Phantasmagoria
+<GifPlayer sourceId="silent-surf-inphase-tether" />
 Also known as the tether attack. During Dread Visage at least one Aspect will instead tether the closest player, the same as the World Cleaver mechanic. This will apply the <Effect name="Phantasmagoria"/> effect applying a debuff reducing incoming and increasing outgoing damage by 50%, lasting 30 seconds or until the Aspect is killed, and giving the player two charges of <Skill name="Grappling Hook"/>. After a few seconds the Aspect will move to an island signified by a blue beam of light and will now be targatable and attack the group until killed or despwans after 30 seconds. The player that can see an Aspect will need to <Skill name="Grappling Hook"/> to the island and kill the Aspect which will remove the <Effect name="Phantasmagoria"/> effect.
 
 _Note: When using <Skill name="Grappling Hook"/>, make sure to aim towards the rear of the island to gain enough height in the air to land. On the taller islands you can easily not get enough height and hit the side instead causing you to fall to your death and the party to wipe!_
@@ -353,51 +266,76 @@ _Note: When using <Skill name="Grappling Hook"/>, make sure to aim towards the r
 _The <Effect name="Phantasmagoria"/> effect description is incorrect and will actually increase affected players outgoing strike and condition damage by 50%, instead of reducing it. This means in groups that can cope with the increased damage pressure it is beneficial to make sure the DPS players intercept the tether and to ignore the Aspect to deal significantly more damage._
 </GridItem>
 <GridItem sm="6">
-<GifPlayer sourceId="silent-surf-inphase-tether" />
-</GridItem>
-</Grid>
-</Tab>
-</Tabs>
+#### Dread Visage but on an Island
+<GifPlayer sourceId="silent-surf-island-fear" />
+Also known as the Island Fear. This version of Dread Visage is almost the same as the mechanic in the first phase, however this time the boss will teleport to an Island when doing the fear. Once again face your characters model away from the boss and any Aspects to avoid being Feared off the platform, and after the attack the boss will return. Once again being hit by this attack will apply <Condition name="Fear"/>, <Effect name="Agony"/>, <Condition name="Blinded"/>, <Condition name="Torment"/> and being hit for 35% of your maximum health. Additionally, being hit by this attack will give you <Effect name="Extreme Vulnerability"/>, meaning if you get hit by multiple fears, you will be killed instantly.
 
-### Details
-Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
-
-### 33% World Cleaver
-### Mechanics Overview
-Click the tabs below to see an overview of each major mechanic for this phase and how to mitigate them.
-<Card title="World Cleaver">
-<Grid>
-<GridItem sm="6">
-The boss will move to the center of the platform and gain <Effect name="Invulnerability"/>. The Aspects will target the closest players with an orange tether, applying the <Effect name="Phantasmagoria"/> effect until killed, and giving the player two charges of <Skill name="Grappling Hook"/>. After a few seconds the Aspect will move to an island signified by a blue beam of light and will now be targatable. All players that can see an Aspect will need to <Skill name="Grappling Hook"/> to their respective islands and kill their Aspect before the orange AoE in the center of the platform fills. If the party kills all of the Aspects in time the boss will attack applying <Effect name="Agony"/> then become vulnerable again. If any Aspects remain the party will wipe.
-
-_Note: The tether from an aspect to a player can be intercepted by a player standing in the tether. This can delay the Aspects moving to an island making it in some cases hard to kill in time. It is advisable unless you know what you are doing to not take tethers from other players. Additionally having <Boon name="Aegis"/>, <Effect name="Invulnerability"/>, or blocking will also delay the tether._
-
-_When using <Skill name="Grappling Hook"/>, make sure to aim towards the rear of the island to gain enough height in the air to land. On the taller islands you can easily not get enough height and hit the side instead causing you to fall to your death and the party to wipe!_
-</GridItem>
-<GridItem sm="6">
-<GifPlayer sourceId="silent-surf-WorldCleaver" />
-</GridItem>
-</Grid>
-</Card>
-
-### Details
-Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
-
-### 33% - 0%
-### Mechanics Overview
-Click the tabs below to see an overview of each new major mechanic for this phase and how to mitigate them.
-<Card title="Frightening Speed, but it's also Dread Visage">
-<Grid>
-<GridItem sm="6">
+If you get hit, using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you from running off the edge of the platform.
+</GridItem><GridItem sm="6">
+#### Frightning Speed, but it's also Dread Visage
+<GifPlayer sourceId="silent-surf-33percent-numbers" />
 This attack is a combination of Frightening Speed and Dread Visage. It is handled in exactly the same way as earlier in the fight. Every player needs to spread out, except this time once the boss starts attacking, face their character model towards the islands to avoid being struck by <Condition name="Fear"/>. Being struck is especially dangerous due to the chance of running into a neighbouring players AoE and being killed by Kanaxai, as well as falling off the platform to your death.
 
 If you are hit, once again using a stun break or having <Boon name="Stability"/> or <Boon name="Resistance"/> will save you providing you can face away from the boss quickly and don't run into another players AoE as the boss attacks them.
 </GridItem>
-<GridItem sm="6">
-<GifPlayer sourceId="silent-surf-33percent-numbers" />
+</Grid>
+
+### Fight Overview
+<Grid>
+<GridItem sm="4">
+> ### **Mechanics**
+> - **Precast** <br/>
+> *Share boons, precast damaging skills*
+>
+> - **Frightening Speed** <br/>
+> *Spread out with AoEs, don't standi in anyone elses AoE* <br/><br/>
+> - **Dread Visage** <br/>
+> *Look towards the outside of the island, between aspects to avoid getting feared* <br/><br/>
+> - **Gathering Shadows** <br/>
+> *Break Kanaxai's defiance bar* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+> - **Rending Storm** <br/>
+> *Move the orange AoE out of the stack, after 3 seconds it will drop into a red field dealing high damage*
+> - **Harrowshot** <br/>
+> *Move out of the orange AoE before it fills to avoid your boons being stripped and transfered to Kanaxai.*
+
+</GridItem>
+<GridItem sm="8">
+### **100%-66%**
+----
+The fight will start by interacting with the body of Captain Thess on the ground. Use the time until Kanaxai spawns and becomes vulnerable to precast boons, skills / effects, and position yourself around the boss ready to attack.
+
+---
+
+Slowly spread out untill you are not standing in anyone elses AoE while still attacking the boss. If you have precasted any traps or skills like <Specialization name="Necromancer"/> staff marks, the player with the first number should stand in them so that they proc when Kanaxai jumps. After Kanaxai has attacked you try to group up with other players that have also been attacked to make maintaining boons easier.
+
+---
+
+When facing the outside of the island, it is not necessary to run all the way to the edge to avoid getting feared. Instead stand slightly away from the middle and look between the aspects on the edge of the platform. As soon as the attack has gone off return to the middle to prevernt Kanaxai from jumping away from you.
+
+---
+
+At 90% HP, Kanaxai will gain a CC bar that is vulnerable for 5 seconds. Breaking it will apply <Effect name="Exposed"/> for 5 seconds. Every time the CC bar is broken Kanaxai will gain a stack of <Effect name="Dread Defiance"/> each stack will reduce incoming defiance damage and <Effect name="Exposed"/> duration by 20.5% multiplicatively. Depending on how fast you kill the boss or how many bars you choose to break, <Effect name="Dread Defiance"/> will stack up to 10 stacks, with the following defiance bar values:
+  - 1st - 1200, 2nd - 1510, 3rd - 1900, 4th - 2390, 5th - 3000, 6th - 3780, 7th - 4750, 8th - 5980, 9th - 7520, 10th - 9460
+
+The CC bars do not regenerate on this encounter, so if a bar is not broken in time, any damage done will cary over to the next time the bar is vulnerable. Kanaxai's defiance bar will be vulnerable at the following health percentages, providing Kanaxai is not doing another mechanic (if the groups damage is high you will skip some of these bars due to mechanic and phase timings): 
+  - 90%, 80%, 70%, 60%, 50%, 45%, 40%, 35%, 30%, 25%, 20%, 15% and 10%. 
+
+During the time the CC bar is up, Kanaxai gains the effect <Effect name="Gathering Shadows"/>. If the bar is not broken, Kanaxai will spawn an Aspect on the edge of the platform, resulting in an additional tether during the split phase.
+
+---
+
+Move the AoE outside the stack and drop it so the edge of the circle is slightly outside Kanaxai's hitbox. Any old axe fields will despawn when a new one is placed. Brave players with builds that have condition transfer abilities can stand inside a field that another player has dropped to gain multiple <Condition name="Bleeding"/> stacks to transfer.
+
+---
+
+Make sure to start moving out of the expanding AoE early so you can move while still attacking. This attack is unblockable, meaning the only way to avoid being boonstripped is to not stand in the AoE. In later phases multiple AoEs will be chained together so it is advisable to move as a group so that you can bait the AoEs to land in locations that let you all keep attacking.
+
+---
+</GridItem>
+<GridItem sm="8">
+### **66% + 33% Split Phase**
+----
+</GridItem>
+<GridItem sm="4">
 </GridItem>
 </Grid>
-</Card>
-
-### Details
-Probably some more detail here about strats or mechnaics than the short overview in the mechanics table.
