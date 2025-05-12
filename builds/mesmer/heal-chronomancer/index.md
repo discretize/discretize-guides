@@ -51,8 +51,8 @@ date: "2025-05-06T16:19:43.219Z "
 role: Support
 cmGuide: ""
 ---
-<Warning>
- 
+<Warning> 
+  
 This build is made for PuGs environments. More info about building effective team compositions can be found [here](/guides/teamcomp101/). It provides a high amount of boons and a lot of safety to the group via its healing and therefore shines most in less experienced groups as well as when you have bad instabilities.   
    
 </Warning>         
@@ -70,7 +70,7 @@ The main difference in playing <Specialization name="Chronomancer" text="Heal Bo
 
 Note that this build variant is optimized for 150 agony resistance and providing yourself with permanent <Boon name="Regeneration"/> in order to achieve 100% boon duration (utilising the additional 250  concentration of <Trait name="Chaotic Persistence"/>). 
 
-<Item id="100388"/> is incredibly strong in fractals, thanks to the <Boon name="Resistance"/> and condition cleanse it applies. Otherwise <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively if you feel like your party needs more healing take <Item id="100031"/>. See below for recommended relic usage.
+<Item id="100388"/> is incredibly strong in fractals, thanks to the <Boon name="Resistance"/> and condition cleanse it applies. Otherwise <Item id="99965"/> adds some <Effect name="Barrier"/> to the toolkit and has great synergy with <Skill name="Mantra of Recovery"/> and the corresponding traits. Alternatively, if you feel like your party needs more healing take <Item id="100031"/>. See below for recommended relic usage.
 
 If you want to use one gear setup for other types of instanced content we reccomend using the [Raid/Strike](https://snowcrows.com/builds/mesmer/chronomancer/heal-boon-chronomancer) setup, due to not having the extra attributes from <Item id="79722" text="Fractal Potions"/> outside of Fractals. 
 
@@ -120,7 +120,8 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 </Grid>
 
 <Divider text="Situational Skills"/>
-<Specialization name="Chronomancer" text="Heal Chronomancer"/> has an incredibly flexible toolkit, with all of its skill slots being flexible and able to be changed depending on the scenario. Check out the lists below for the common situatiuonal skills and their reason for use. 
+<Specialization name="Chronomancer" text="Heal Chronomancer"/> has an incredibly flexible toolkit, with all of its skill slots being flexible and able to be changed depending on the scenario. However, avoid dropping <Skill name="Signet of Inspiration"/>. Check out the lists below for the common situatiuonal skills and their reason for use. As far as weapons are concerned, 
+staff is generally preferred to Scepter/Shield because of easier boon application in hectic environments although the later also has value if you are comfortable with it.
 ### Recommended Fractal Setups
 <Grid>
 <GridItem sm="4">
@@ -128,8 +129,8 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 **Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
 
 **Relic:** <Item id="100388"/>
-
 <Skill id="10213" size="big" disable text/><Skill id="10236" size="big" disable text/><Skill id="10204" size="big" disable text/><Skill id="10237" size="big" disable text/><Skill id="29519" size="big" disable text/>
+
 #### Skorvald
 **Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/>
 
@@ -174,7 +175,7 @@ While we don't recommend leaving your party during boss fights, when dealing wit
 </GridItem>
 <GridItem sm="4">
 #### Ensolyss
-**Weapons:** <Item id="85112" text="Rifle" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/> 
+**Weapons:** <Item id="85112" text="Staff" size="medium"/> | <Item id="85348" text="Rifle" size="medium"/> 
 
 **Relic:** <Item id="100388"/>
 
