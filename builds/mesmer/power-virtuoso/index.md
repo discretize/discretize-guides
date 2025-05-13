@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-05-11T10:21:56.449Z "
+date: "2025-05-13T17:47:22.639Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,8 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-       
-<Specialization text="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
+        ext="Power Virtuoso" name="Virtuoso"/> is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>.
 
@@ -107,7 +106,7 @@ After the greatsword buffs in April 2025, the default weapon setup is Spear + Gr
 
 You can use this Illusions-traitline variant instead of the Domination-traitline when you are facing <Boon name="Quickness"/> and <Boon name="Might"/> uptime issues. It allows you to be more self-sufficient in bad groups. The illusions variant is also optimal when soloing fractals or in open world. 
 
-Before flaming your group for boons or swapping traitlines, you should make sure that quickness and might are properly stacked at the mistlock singularity by using a high boon duration gearset, for example your heal chronomancer equipment, and then precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/> before swapping back to your damage gearset. This helps your boon supports although they should be able to pre-stack boons sufficiently on their own.
+Before flaming your group for boons or swapping traitlines, you should make sure that quickness and might are properly stacked at the mistlock singularity by using a high boon duration gearset, for example your heal chronomancer equipment, and then precasting rifle skills  (<Skill name="Inspiring Imagery"/>,  <Skill name="Singularity Shot"/>),  shield skill <Skill name="Tides of Time"/> and  <Skill name="Timewarp"/> before swapping back to your regular damage gearset. This helps your boon supports although they should be able to pre-stack boons sufficiently on their own.
 
 <Advanced>
 <Traits traits1Id="59" traits1="Mirage" traits1SelectedIds="2113"/>
