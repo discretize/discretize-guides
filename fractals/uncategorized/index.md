@@ -1,26 +1,16 @@
 ---
-cycle: Day
-potions:
-  - id: 8887
-    description: for Old Tom and the Raving Asura
-date: "2022-07-01T17:32:24.400Z"
-title: Uncategorized
-description: All of us! Abandoned! You aren't real. You can't be here.
-long_description: ""
 image: images/header_old.jpg
-group: T4
-api: 2939
-bosses: 3
 difficulties:
   - level: 79
     ar: 113
-  - level: 91
-    ar: 134
-sigils:
-  - id: 24868
-  - id: 24615
-  - id: 24672
+potions:
+  - id: 8887
     description: for Old Tom and the Raving Asura
+hasCM: false
+cycle: Day
+layout: src/layouts/Fractal.astro
+date: "2025-06-22T21:59:47.030Z "
+title: Uncategorized
 consumables:
   - 78978
   - 49940
@@ -44,8 +34,16 @@ record:
     - id: 3DHpBvUIJ-w
       name: Roach
       specialization: Firebrand
-layout: src/layouts/Fractal.astro
-hasCM: false
+long_description: ""
+api: 2939
+bosses: 3
+description: All of us! Abandoned! You aren't real. You can't be here.
+group: T4
+sigils:
+  - id: 24868
+  - id: 24615
+  - id: 24672
+    description: for Old Tom and the Raving Asura
 ---
 
 <Grid>
