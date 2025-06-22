@@ -1,26 +1,26 @@
 ---
+image: images/header_old.jpg
+difficulties:
+  - level: 91
+    ar: 134
 potions:
   - id: 50082
 hasCM: false
 cycle: Day
 layout: src/layouts/Fractal.astro
-date: "2023-08-27T23:57:01.212Z "
+date: "2025-06-22T21:59:01.511Z "
 title: Captain Mai Trin Boss
-image: images/header_old.jpg
-group: T4
-api: 2932
-bosses: 1
-difficulties:
-  - level: 95
-    ar: 141
-sigils:
-  - id: 24615
-  - id: 24868
 consumables:
   - 78978
 record: {}
 long_description: ""
+api: 2932
+bosses: 1
 description: Horrik, unleash the cannons!
+group: T4
+sigils:
+  - id: 24615
+  - id: 24868
 ---
 
 <Grid>
