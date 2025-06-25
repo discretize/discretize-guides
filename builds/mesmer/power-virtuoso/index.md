@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-25T16:56:40.146Z "
+date: "2025-06-25T21:42:40.886Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -35,6 +35,17 @@ The Flex Set allows you maximum flexibilty for optimal sigil swapping in all fra
 <Warning>
 The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god when scholar runes are used.
 </Warning>
+
+| Food       | Util   | Fractal God      | Best Combo | Number |
+|------------|--------|------------------|------------|--------|
+| Cilantro   | Stone  | No       |  Force + Scholar > Accuracy + DH > Force + DH | 
+| Buns       | Stone  | No       |
+| Cilantro   | Stone  | Yes      |
+| Buns       | Stone  | Yes      |
+| Cilantro   | Potion | No       |
+| Buns       | Potion | No       |
+| Cilantro   | Potion | Yes      |
+| Buns       | Potion | Yes      |
 
 <Divider text="Equipment"/>   
 <CharacterWithAr> 
