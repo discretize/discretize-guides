@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-25T12:46:46.328Z "
+date: "2025-06-25T16:56:40.146Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -26,11 +26,14 @@ conditions:
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>, <Item name="Powerful Potion of Demon Slaying"/>, or <Item name="Powerful Potion of Ice Brood Slaying"/>.
 
 <Warning>
-Below  you can find three different tabs with gear setups. 
+Below  you can find three different tabs with gear suggestions. 
 </Warning>
 <Warning>
-The Flex Set allows you maximum flexibilty for optimal sigil swapping in all fractals and open world/convergences and is best without the fractal god buff. \
-The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god when only one sigil swap is needed.
+The Flex Set allows you maximum flexibilty for optimal sigil swapping in all fractals and open world/convergences and is best without the fractal god buff. 
+
+</Warning>
+<Warning>
+The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god when scholar runes are used.
 </Warning>
 
 <Divider text="Equipment"/>   
@@ -43,7 +46,7 @@ For <Specialization text="Power Virtuoso" name="Virtuoso"/>, there are two main 
 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!\
-Note: It is possible to make <Item id="24836"/> or <Item id="74978"/> work with only minor dps losses if gear share is important. 
+Note: It is possible to make <Item id="24836"/> or <Item id="74978"/> work on the flex set with only minor dps losses if gear share is important. 
 
 Don't forget to use <Item name="Powerful Potion of Slaying Scarlets Armies"/>, <Item name="Powerful Potion of Demon Slaying"/>, <Item name="Powerful Potion of Ice Brood Slaying"/> or <Item id="43360"/> for extra damage when they work.
 
