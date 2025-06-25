@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-25T12:37:40.583Z "
+date: "2025-06-25T12:46:46.328Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -27,6 +27,10 @@ As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset
 
 <Warning>
 Below  you can find three different tabs with gear setups. 
+</Warning>
+<Warning>
+The Flex Set allows you maximum flexibilty for optimal sigil swapping in all fractals and open world/convergences and is best without the fractal god buff. \
+The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god when only one sigil swap is needed.
 </Warning>
 
 <Divider text="Equipment"/>   
