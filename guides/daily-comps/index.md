@@ -1,11 +1,11 @@
 ---
 title: dT Daily Comps
-date: "2025-06-25T21:36:09.570Z "
+date: "2025-06-26T13:37:52.257Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
     
-## Playing in organized groups
+## Playing in organized groups 
 
 It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will slow down the run and affect its smoothness.
 
