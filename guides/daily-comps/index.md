@@ -1,6 +1,6 @@
 ---
 title: dT Daily Comps
-date: "2025-06-26T13:37:52.257Z "
+date: "2025-06-26T14:31:45.973Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
@@ -129,7 +129,8 @@ All of these PoVs are using Longbow. In most cases Spear is a better option to p
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) | [DPS.Report](https://dps.report/2K0f-20250124-024614_ai)| Hmod (Alacrity)  |
+| Dark Ai      | [Link](https://www.youtube.com/watch?app=desktop&v=Xxu61aEqI34) | [DPS.Report](https://dps.report/VyUX-20250225-202918_ai)  | Giannis (Alacrity)
+||[Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) |[DPS.Report](https://dps.report/2K0f-20250124-024614_ai)| Hmod (Alacrity)  |
 ||[Link](https://www.youtube.com/watch?v=sA_nIS-NZOE)| [DPS.Report](https://dps.report/FjCa-20250501-022427_ai)  | Hmod (DPS)
 | Kanaxai |     [Link](https://www.youtube.com/watch?v=zBtjag1t8l0&t=3s)                                 |                                          [DPS.Report](https://dps.report/r6oB-20240525-121510_kana)                |     Hmod (Alacrity)   |
 || [Link](https://youtu.be/q9wZWt0T2Uo?si=krFdOTTv3eWnT7Qb&t=57)|[DPS.Report](https://dps.report/oars-20250618-155959_kana) | Hmod (DPS) |
