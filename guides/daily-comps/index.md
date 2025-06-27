@@ -1,11 +1,11 @@
 ---
 title: dT Daily Comps
-date: "2025-02-24T23:58:37.795Z"
+date: "2025-06-26T14:44:04.328Z "
 image: images/header.jpg
 description: A breakdown of the classes and strats we use in daily runs
 ---
-   
-## Playing in organized groups
+    
+## Playing in organized groups 
 
 It all comes down to some important concepts that need to be fulfilled permanently while in combat. Failing one of these will slow down the run and affect its smoothness.
 
@@ -98,7 +98,7 @@ All of these PoVs are currently up to date apart from Artsariiv, due to map item
 | Siax      | [Link](https://www.youtube.com/watch?v=78Q7fNVu9PI)       | [DPS.Report](https://dps.report/w4sJ-20250119-203806_siax)  | Gravi |
 | Ensolyss  | No PoV <br/> [Link](https://youtu.be/43Mte41xqS4?si=ATun9mOe3BDjk4F6&t=90) <br/> [Link](https://www.youtube.com/watch?v=KnLTABI2kJo)     | [DPS.Report](https://dps.report/2lf9-20250118-222719_enso) <br/> [DPS.Report](https://dps.report/tv9N-20240120-162526_enso) <br/> [DPS.Report](https://dps.report/HJXn-20240201-192439_enso) | Jetrell / Gravi (Mace) <br/> Jetrell (Hammer) <br/> Wuju (Longbow)     |
 | Skorvald  | [Link](https://youtu.be/ZJl9dMpQ3Ns?si=5IIQU23GUoiFS9qC)       | [DPS.Report](https://dps.report/kmOJ-20240117-191920_skor)  | Gravi |
-| Artsariiv | [Link](https://youtu.be/B8GTuFvKeD4?si=EKNjvZ_krpNAQGJb)       | [DPS.Report](https://dps.report/kjkL-20240117-195126_arriv) | Gravi |
+| Artsariiv | [Link](https://youtu.be/B8GTuFvKeD4?si=EKNjvZ_krpNAQGJb)   <br/> [Link](https://youtu.be/lVl4KpPPM2A?si=rmTfDXPal1f_d0i3)            | [DPS.Report](https://dps.report/kjkL-20240117-195126_arriv) <br/> No Log | Gravi <br/> Hmod (reverse rota)|
 | Arkk      | [Link](https://youtu.be/s3SsWQQILUM?si=0wwDsg8EG0HEbd2o) | [DPS.Report](https://dps.report/q4D8-20240114-223224_arkk)  | Wuju |
 
 </Tab>
@@ -129,9 +129,11 @@ All of these PoVs are using Longbow. In most cases Spear is a better option to p
 | Boss         | PoV                                  | Log                                                      | Player |
 | ------------ | ------------------------------------ | -------------------------------------------------------- | ------ |
 | Elemental Ai |                                      |                                                          |        |
-| Dark Ai      | [Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) | [DPS.Report](https://dps.report/2K0f-20250124-024614_ai)| Hmod (Alacrity)  |
+| Dark Ai      | [Link](https://www.youtube.com/watch?app=desktop&v=Xxu61aEqI34) | [DPS.Report](https://dps.report/VyUX-20250225-202918_ai)  | Giannis (Alacrity)
+||[Link](https://youtu.be/X3OZUTnKfws?si=EYB2ZOMyVYsyHths) |[DPS.Report](https://dps.report/2K0f-20250124-024614_ai)| Hmod (Alacrity)  |
 ||[Link](https://www.youtube.com/watch?v=sA_nIS-NZOE)| [DPS.Report](https://dps.report/FjCa-20250501-022427_ai)  | Hmod (DPS)
-| Kanaxai |     [Link](https://www.youtube.com/watch?v=zBtjag1t8l0&t=3s)                                 |                                          [DPS.Report](https://dps.report/r6oB-20240525-121510_kana)                |     Hmod (Alacrity   |
+| Kanaxai |     [Link](https://www.youtube.com/watch?v=zBtjag1t8l0&t=3s)                                 |                                          [DPS.Report](https://dps.report/r6oB-20240525-121510_kana)                |     Hmod (Alacrity)   |
+|| [Link](https://youtu.be/q9wZWt0T2Uo?si=krFdOTTv3eWnT7Qb&t=57)|[DPS.Report](https://dps.report/oars-20250618-155959_kana) | Hmod (DPS) |
 
 
 </Tab>
