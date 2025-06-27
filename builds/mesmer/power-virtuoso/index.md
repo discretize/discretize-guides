@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-27T18:30:42.085Z "
+date: "2025-06-27T18:34:23.934Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -37,7 +37,8 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 </Warning>
 
 <Card title="test">
-<Tab tile="hello">
+<Tabs>
+<Tab title="hallo">
 | Food       | Util   | Fractal God      | Best Combo | Number |
 |------------|--------|------------------|------------|--------|
 | Cilantro   | Stone  | No       |  Force + Scholar > Accuracy + DH > Force + DH | 
@@ -49,6 +50,9 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 | Cilantro   | Potion | Yes      |
 | Buns       | Potion | Yes      |
 </Tab>
+<Tab title="second">
+<Tab>
+</Tabs>
 </Card>
 
 <Divider text="Equipment"/>   
