@@ -1,6 +1,6 @@
 ---
 title: CC Distribution
-date: "2025-02-24T23:54:42.714Z "
+date: "2025-06-27T22:37:45.074Z "
 image: images/header.jpg
 description: Learn how to contribute your share of CC to break all the bars.
 ---
@@ -57,18 +57,20 @@ In Tier 4 fractals (T4) a break bar usually does not exceed 800 units, neverthel
 </Card>
 <Card title="Fractal Boss Defiance Bar Sizes">
 
-| Condition                  | CC per second                                                          |
-| -------------------------- | ---------------------------------------------------------------------- |
-| **T4 Bosses**              | Standard (May Vary) - 800                                              |
-| **MAMA**                   | MAMA - 1800 <br/> Knights - 800                                        |
-| **Siax**                   | 2000                                                                   |
-| **Ensolyss**               | Phase 1 - 2000 <br/> Phase 2+3 - 2250                                  |
-| **Skorvald**               | 2200                                                                   |
-| **Artsariiv**              | Artsariiv - 2100 <br/> Split 1 Clones - 600 <br/> Split 2 Clones - 340 |
-| **Arkk**                   | 1800                                                                   |
-| **Ai, Keeper of the Peak** | Ai - 3200 <br/> Sorrows - 1500                                         |
+| Boss                       | Defiance Bar Size                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------|
+| **T4 Bosses**              | Standard (May Vary) - 800                                                                               |
+| **Icebrood Goliath**       | 3500                                                                                                    |
+| **Whispering Shadow**      | 3600                                                                                                    |
+| **MAMA**                   | MAMA - 1800 <br/> Knights - 800                                                                         |
+| **Siax**                   | 2000                                                                                                    |
+| **Ensolyss**               | Phase 1 - 2000 <br/> Phase 2+3 - 2250                                                                   |
+| **Skorvald**               | 2200                                                                                                    |
+| **Artsariiv**              | Artsariiv - 2100 <br/> Split 1 Clones - 600 <br/> Split 2 Clones - 340                                  |
+| **Arkk**                   | 1800                                                                                                    |
+| **Ai, Keeper of the Peak** | Ai - 3200 <br/> Sorrows - 1500                                                                          |
 | **Kanaxai**                | 1200 (increases by 20.5% multiplicatively per stack of <Effect name="Dread Defiance"/> up to 10 stacks) |
-| **Eparch**                 | 3000                                                                   |
+| **Eparch**                 | 3000                                                                                                    |
 
 </Card>
 </GridItem>
