@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-27T18:41:59.663Z "
+date: "2025-06-27T18:46:13.760Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -28,35 +28,36 @@ As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset
 <Warning>
 Below  you can find three different tabs with gear suggestions. 
 </Warning>
+
 <Warning>
 The Flex Set allows you maximum flexibilty for optimal sigil swapping in all fractals and open world/convergences and is best without the fractal god buff. 
-
 </Warning>
+
 <Warning>
 The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god when scholar runes are used.
 </Warning>
 
-<Grid>  
+
+test 
 <Card>
 <Tabs>
 <Tab title="hallo">
-| Food       | Util   | Fractal God      | Best Combo | Number |
-|------------|--------|------------------|------------|--------|
-| Cilantro   | Stone  | No       |  Force + Scholar > Accuracy + DH > Force + DH | 
-| Buns       | Stone  | No       |
-| Cilantro   | Potion | No       |
-| Buns       | Potion | No       |
-| Cilantro   | Stone  | Yes      |
-| Buns       | Stone  | Yes      |
-| Cilantro   | Potion | Yes      |
-| Buns       | Potion | Yes      | 
+<!--| Food       | Util   | Fractal God      | Best Combo | Number |-->
+<!--|------------|--------|------------------|------------|--------|-->
+<!--| Cilantro   | Stone  | No       |  Force + Scholar > Accuracy + DH > Force + DH | -->
+<!--| Buns       | Stone  | No       |-->
+<!--| Cilantro   | Potion | No       |-->
+<!--| Buns       | Potion | No       |-->
+<!--| Cilantro   | Stone  | Yes      |-->
+<!--| Buns       | Stone  | Yes      |-->
+<!--| Cilantro   | Potion | Yes      |-->
+<!--| Buns       | Potion | Yes      | -->
 </Tab>
 <Tab title="second">
 text
 </Tab>
 </Tabs>
 </Card>
-</Grid>
 
 <Divider text="Equipment"/>   
 <CharacterWithAr> 
