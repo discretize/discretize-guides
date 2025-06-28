@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-28T00:14:53.144Z "
+date: "2025-06-28T23:15:02.257Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-    
+     
  <Specialization text="Power Virtuoso" name="Virtuoso"/>is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>, <Item name="Powerful Potion of Demon Slaying"/>, or <Item name="Powerful Potion of Ice Brood Slaying"/>.
@@ -34,31 +34,35 @@ The Flex Set allows you maximum flexibilty for optimal sigil swapping in all fra
 </Warning>
 
 <Warning>
-The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god when scholar runes are used.
+The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI, shares gear with raid gear, and can be theoretically optimal with fractal god.
 </Warning>
 
 
 <Card title="This is a card">
 <Tabs>
-<Tab title="this is a tab">
+<Tab   title="Without Fractal God">
 
-| Food       | Util   | Fractal God      | Best Combo | Number |
-|------------|--------|------------------|------------|--------|
-| Cilantro   | Stone  | No       |  Force + Scholar > Accuracy + DH > Force + DH | 
-| Buns       | Stone  | No       |
-| Cilantro   | Potion | No       |
-| Buns       | Potion | No       |
+| Food       | Utility   | Fractal God      | Best Combo | 
+|------------|--------|------------------|------------|
+| Cilantro   | Sharpening Stone  | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="24836"/> | 
+| Buns       | Sharpening Stone  | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="74978"/> 
+| Cilantro   | Slaying Potion | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="82791"/>   
+| Buns       | Slaying Potion | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="82791"/> 
+| Cilantro   | Power Writ | No       |   
+| Buns       | Power Writ | No       | 
 
 
 </Tab>
-<Tab title="this is another tab">
+<Tab title="With Fractal God">
 
 | Food       | Util   | Fractal God      | Best Combo | Number |
 |------------|--------|------------------|------------|--------|
-| Cilantro   | Stone  | Yes      |
-| Buns       | Stone  | Yes      |
-| Cilantro   | Potion | Yes      |
-| Buns       | Potion | Yes      | 
+| Cilantro   | Sharpening Stone  | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="74978"/> 
+| Buns       | Sharpening Stone  | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="74978"/> 
+| Cilantro   | Slaying Potion | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="24836"/>
+| Buns       | Slaying Potion | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="24836"/>
+| Cilantro   | Power Writ | Yes     
+| Buns       | Power Writ | Yes    
 
 </Tab>
 </Tabs>
