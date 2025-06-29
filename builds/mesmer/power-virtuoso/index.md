@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-29T21:54:10.701Z "
+date: "2025-06-29T22:03:02.369Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -48,8 +48,8 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 | Buns       | Sharpening Stone  | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="74978"/> 
 | Cilantro   | Slaying Potion | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="82791"/>   
 | Buns       | Slaying Potion | No       | <Item id="24868"/>, <Item id="24615"/> with <Item id="82791"/> 
-| Cilantro   | Power Writ | No       |   
-| Buns       | Power Writ | No       | 
+| Cilantro   | Power Writ | No       |   <Item id="24868"/>, <Item id="24615"/> with <Item id="82791"/> 
+| Buns       | Power Writ | No       |   <Item id="24868"/>, <Item id="24615"/> with <Item id="24836"/>
 
 
 </Tab>
@@ -57,12 +57,12 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 
 | Food       | Util   | Fractal God      | Best Combo | Number |
 |------------|--------|------------------|------------|--------|
-| Cilantro   | Sharpening Stone  | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="74978"/> 
-| Buns       | Sharpening Stone  | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="74978"/> 
-| Cilantro   | Slaying Potion | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="24836"/>
-| Buns       | Slaying Potion | Yes      | <Item id="24868"/> with <Item id="24618"/> with <Item id="24836"/>
-| Cilantro   | Power Writ | Yes     
-| Buns       | Power Writ | Yes    
+| Cilantro   | Sharpening Stone  | Yes      | <Item id="24868"/>,  <Item id="24618"/> with <Item id="74978"/> 
+| Buns       | Sharpening Stone  | Yes      | <Item id="24868"/>, <Item id="24618"/> with <Item id="74978"/> 
+| Cilantro   | Slaying Potion | Yes      | <Item id="24868"/>, <Item id="24618"/> with <Item id="24836"/>
+| Buns       | Slaying Potion | Yes      | <Item id="24868"/>,<Item id="24618"/> with <Item id="24836"/>
+| Cilantro   | Power Writ | Yes    |  <Item id="24868"/>, <Item id="24618"/> with <Item id="24836"/>
+| Buns       | Power Writ | Yes    | <Item id="24868"/>, <Item id="24618"/> with <Item id="24836"/>
 
 </Tab>
 </Tabs>
