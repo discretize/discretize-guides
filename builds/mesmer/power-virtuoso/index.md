@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-29T22:25:24.943Z "
+date: "2025-06-29T22:27:16.674Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -53,7 +53,7 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 
 
  <Specialization text="Power Virtuoso" name="Virtuoso"/> is at a weird breaking point such that changes in food or utilities can impact the theoretically optimal gear set. \
- However, the dps differences between these different gear sets on pvirt is very minor and often essentially non-existant. Any of these sets work. \
+ However, the dps differences between these different gear sets on pvirt is very minor and often essentially non-existent. Any of these sets work. \
  The [gear optimizer](https://optimizer.discretize.eu/) can estimate concrete numbers.
 </Tab>
 
@@ -70,7 +70,7 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 | Buns       | Power Writ | Yes    | <Item id="24868"/>, <Item id="24618"/> with <Item id="24836"/>
 
  <Specialization text="Power Virtuoso" name="Virtuoso"/> is at a weird breaking point such that changes in food or utilities can impact the theoretically optimal gear set. \
- However, the dps differences between these different gear sets on pvirt is very minor and often essentially non-existant. Any of these sets work. \
+ However, the dps differences between these different gear sets on pvirt is very minor and often essentially non-existent. Any of these sets work. \
 The [gear optimizer](https://optimizer.discretize.eu/) can estimate concrete numbers.
 
 </Tab>
