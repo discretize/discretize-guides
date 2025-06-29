@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-29T22:27:16.674Z "
+date: "2025-06-29T22:37:28.152Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -87,7 +87,7 @@ The [gear optimizer](https://optimizer.discretize.eu/) can estimate concrete num
 
 For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is worth adjusting your build to make use of <Item id="24868"/>. On certain bosses, other sigils like <Item id="36053"/> (Dark AI), <Item id="24658"/> (Siax and Ensolyss), <Item id="	24664"/> (Eparch), or  <Item id="24651"/> and <Item id="24575"/> (Kinfall) can be used as further damage increase instead of - or sometimes on top of - <Item id="24868"/>. Check the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for the best consumables and sigils in each fractal or ask on discord if you are unsure.  
 
-For <Specialization text="Power Virtuoso" name="Virtuoso"/>, there are two main ways to go about setting up your fractal gear. On the one hand, one can pair <Item id="24868"/> with <Item id="24615"/>. This retains the ability to swap out all sigils at once for maximum flexibility. Among others, this can be advantageous for tripple stun Siax kills, fast Enso kills or bloodlust-stacking Kinfall kills, as well as in open world. On the other hand, you can pair <Item id="24868"/> with <Item id="24618"/>. This only allows you to swap one sigil on each set, but keeps the gear close to the most common raid set. It is also the optimal set on Dark AI because higher ferocity stats increase your reflect damage there. In terms of damage, the sets are close enough to decide based on personal convenience. The exact difference also depends on your level of <Augmentation name="Mist Attunement 4"/> because phantasms do not benefit from such modifiers, but are often not even 100 dps. Naturally, two (or more) sets are ideal. 
+For <Specialization text="Power Virtuoso" name="Virtuoso"/>, there are two main ways to go about setting up your fractal gear. On the one hand, one can pair <Item id="24868"/> with <Item id="24615"/>. This retains the ability to swap out all sigils at once for maximum flexibility. Among others, this can be advantageous for tripple stun Siax kills, fast Enso kills or bloodlust-stacking Kinfall kills, as well as in open world. On the other hand, you can pair <Item id="24868"/> with <Item id="24618"/>. This only allows you to swap one sigil on each set, but keeps the gear close to the most common raid set. It is also the optimal set on Dark AI because higher ferocity stats increase your reflect damage there. In terms of damage, unless multiple sigil swaps are used, the sets are close enough to decide based on personal convenience. The exact difference also depends on your level of <Augmentation name="Mist Attunement 4"/> because phantasms do not benefit from such modifiers, but are often not even 100 dps. Naturally, two (or more) sets are ideal. 
 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!\
