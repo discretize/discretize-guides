@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-29T22:22:51.396Z "
+date: "2025-06-29T22:25:24.943Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -38,7 +38,7 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 </Warning>
 
 
-<Card title="This is a card">
+<Card title="Optimizer-based Sets">
 <Tabs>
 <Tab   title="Without Fractal God">
 
