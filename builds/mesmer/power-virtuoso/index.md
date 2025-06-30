@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-06-29T22:43:10.384Z "
+date: "2025-06-30T15:28:15.053Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-    
+     
  <Specialization text="Power Virtuoso" name="Virtuoso"/>is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>, <Item name="Powerful Potion of Demon Slaying"/>, or <Item name="Powerful Potion of Ice Brood Slaying"/>.
@@ -69,7 +69,7 @@ The Dark AI or Accuracy + Impact set gives you maximum reflect damage on Dark AI
 | Cilantro   | Power Writ | Yes    |  <Item id="24868"/>, <Item id="24618"/> with <Item id="24836"/>
 | Buns       | Power Writ | Yes    | <Item id="24868"/>, <Item id="24618"/> with <Item id="24836"/>
 
- <Specialization text="Power Virtuoso" name="Virtuoso"/> is at a weird breaking point such that changes in food or utilities can impact the theoretically optimal gear set. \
+ <Specialization text="Power Virtuoso" name="Virtuoso"/> is at a breaking point such that changes in food or utilities can impact the theoretically optimal gear set. \
  However, the dps differences between these different gear sets on pvirt is very minor and often essentially non-existent. Any of these sets work. \
 The [gear optimizer](https://optimizer.discretize.eu/) can estimate concrete numbers.
 
