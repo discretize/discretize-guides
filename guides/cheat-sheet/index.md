@@ -1,6 +1,6 @@
 ---
 title: Cheat sheet
-date: "2025-02-24T23:56:22.641Z "
+date: "2025-06-30T16:26:47.926Z "
 image: images/header.jpg
 description: Learn how to use various potions and sigils to increase damage output.
 ---
@@ -9,14 +9,15 @@ This sheet is used to give quick access to the most optimal sigils and potions f
 <Warning>
 Condition classes should use the sigils and utilities that are mentioned in the build pages.
 </Warning> 
-
+ 
 | Fractal                                                  | Day/Night                 | Sigil & Potion                                                                                                                      | Description                                                                                                                                                                   |
 |----------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Lonely Tower](/fractals/lonely-tower)                     | Day | <Item id="24664" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="8886" size="large" disableText/>  | Both <Item id="24664"/> and <Item id="8886"/> will only work on Eparch and Kryptis adds. For Deimos and Cerus use  <Item id="9443"/>.     
 | [Silent Surf](/fractals/silent-surf)                     | Day | <Item id="24868" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | None                                      |
 | [Sunqua Peak](/fractals/sunqua-peak)                     | Day (T4) / Night (CM) | <Item id="36053" size="large" disableText/> <Item id="24615" size="large" disableText/> <Item id="9443" size="large" disableText/>  | On normal mode swap <Item id="36053"/> for <Item id="24868"/>                                        |
 | [Shattered Observatory](/fractals/shattered-observatory) | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="9443" size="large" disableText/>  | When at Arkk swap to <Item id="50082"/>. Although the fractal switches to night after Skorvald, <Item id="36053"/> **does not work!**                                          |
-| [Nightmare](/fractals/nightmare)                         | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="50082" size="large" disableText/> | Right after MAMA swap to <Item id="24658"/>                                                                                                                                    |
+| [Nightmare](/fractals/nightmare)                         | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="50082" size="large" disableText/> | Right after MAMA swap to <Item id="24658"/>.   <Item id="24868"/> breaks even with <Item id="24615"/> at 20% uptime.                                                                                                                                    |
+| [Kinfall](/fractals/kinfall)                     | Day | <Item id="24615" size="large" disableText/>  <Item id="24651" size="large" disableText/> <Item name="Powerful Potion of Ice Brood Slaying" size="large" disableText />|  <Item id="24575" /> can be stacked during  the pre-event. 
 | [Chaos Isles](/fractals/chaos-isles)                     | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="9443" size="large" disableText/>  | None                                                                                                                                                                           |
 | [Aetherblade](/fractals/aetherblade)                     | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="50082" size="large" disableText/> | Swap to <Item id="24672"/> and <Item id="8887"/> for the endboss.                                                                                                              |
 | [Captain Mai Trin](/fractals/captain-mai-trin-boss)      | Day                       | <Item id="24615" size="large" disableText/> <Item id="24868" size="large" disableText/> <Item id="50082" size="large" disableText/> | Use a <Item id="78978"/> to prestack at the mistlock and port right to the boss                                                                                                |
