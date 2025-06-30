@@ -1,11 +1,11 @@
 ---
 title: Cheat sheet
-date: "2025-06-30T16:26:47.926Z "
+date: "2025-06-30T16:28:37.857Z "
 image: images/header.jpg
 description: Learn how to use various potions and sigils to increase damage output.
 ---
 This sheet is used to give quick access to the most optimal sigils and potions for each fractal in an average group for power builds. However some fractals have small variations where different parts of the fractal benefit from different potions or specific sigils such as <Item id="84505"/> or <Item id="72872"/>. For further information consult the individual [Fractal guides](/fractals) and [class specific CM guides](/guides/cm-profession-guides). 
-
+ 
 <Warning>
 Condition classes should use the sigils and utilities that are mentioned in the build pages.
 </Warning> 
