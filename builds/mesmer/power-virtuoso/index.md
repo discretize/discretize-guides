@@ -11,7 +11,7 @@ classification:
   - 3
   - 3
   - 4
-date: "2025-07-01T18:51:01.712Z "
+date: "2025-07-02T15:32:57.179Z "
 title: Power Virtuoso
 rating: Good
 role: Power Damage
@@ -20,7 +20,7 @@ conditions:
   - name: Vulnerability
     uptime: 25 stacks
 ---
-        
+         
  <Specialization text="Power Virtuoso" name="Virtuoso"/>is currently the strongest power build for <Specialization name="Mesmer"/> in fractals. It can bring a decent amount of CC while offering good burst damage and great sustained DPS while being able to adapt to different groups and situations by bringing tons of extra utility such as <Boon name="Stability"/>, <Effect name="Stealth"/>, reflects, pulls or portals from the <Specialization name="Mesmer"/> toolkit. You will also naturally provide boon removal through <Skill name="Phantasmal Disenchanter"/> and <Trait name="Vicious Expression"/> as well as potentially <Trait name="Shattered Concentration"/>, which makes the specialization particularly useful in unorganized pug compositions. At an organized level, it falls behind soulbeast and dragonhunter particulaly because <Specialization text="Power Virtuoso" name="Virtuoso"/> has no ability to precast traps before starting a boss. 
 
 As a class, <Specialization name="Mesmer"/> provides an optimal skipping toolset for T4 fractals which should be utilized. This build profits from sigils like <Item name="Impact" type="Sigil"/> as well as slaying potions such as <Item name="Powerful Potion of Slaying Scarlets Armies"/>, <Item name="Powerful Potion of Demon Slaying"/>, or <Item name="Powerful Potion of Ice Brood Slaying"/>.
@@ -105,7 +105,7 @@ If you already have a set with <Item id="24615"/> and <Item id="24618"/> from ra
 
 On certain bosses, other sigils like <Item id="36053"/> (Dark AI), <Item id="24658"/> (Siax and Ensolyss), <Item id="	24664"/> (Eparch), or  <Item id="24651"/> and <Item id="24575"/> (Kinfall) can be used as further damage increase instead of - or sometimes on top of - <Item id="24868"/>. Check the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for the best consumables and sigils in each fractal or ask on discord if you are unsure.  
 
-This gear set uses <Item id="74978"/> to obtain high ferocity stats for maximum reflect damage on Dark AI. It also shares gear with sets that might be run in raids. 
+This gear set uses <Item id="74978"/> to obtain high ferocity stats for maximum reflect damage on Dark AI. 
 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants! 
