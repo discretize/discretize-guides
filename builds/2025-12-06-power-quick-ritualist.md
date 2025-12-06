@@ -1,5 +1,6 @@
 ---
 rating: Good
+profession: "Necromancer "
 specialization: Ritualist
 skills: []
 boons:
@@ -19,10 +20,12 @@ boons:
     uptime: 30%
     variant: party
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-06T22:32:26.807Z "
+date: "2025-12-06T22:35:52.437Z "
 title: Power (Quick) Ritualist
 role: Power Damage
-profession: "Necromancer "
+conditions:
+  - 'Map { "name": "Fear"'
+  - name:"Slow" }
 ---
 text
 
