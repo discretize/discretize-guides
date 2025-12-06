@@ -1,10 +1,26 @@
 ---
+rating: Good
 specialization: Ritualist
 skills: []
+boons:
+  - name: Quickness
+    uptime: 100%
+    variant: party
+  - name: Might
+    uptime: "19"
+    variant: party
+  - name: Protection
+    uptime: 30%
+    variant: party
+  - name: Vigor
+    uptime: 30%
+    variant: party
+  - name: Resolution
+    uptime: 30%
+    variant: party
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-06T22:26:30.546Z "
+date: "2025-12-06T22:32:26.807Z "
 title: Power (Quick) Ritualist
-rating: Good
 role: Power Damage
 profession: "Necromancer "
 ---
