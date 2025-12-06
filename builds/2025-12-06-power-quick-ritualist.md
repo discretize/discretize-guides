@@ -20,14 +20,14 @@ boons:
     uptime: 30%
     variant: party
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-06T22:37:46.240Z "
+date: "2025-12-06T23:49:39.613Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
   - 'Map {"name": "Fear"}'
   - Map {"name":"Slow" }
 ---
-text
+<Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. It also provides low amounts of <Condition name="Fear"/> and <Condition name="Slow"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Danger Time" />  and <Trait name="Superiority Complex" />.    
 
 <Divider text="Equipment"/>   
 <CharacterWithAr>  
@@ -54,4 +54,61 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </CharacterWithAr>
 
 
+<Divider text="Build"/>
+
+<Grid>
+<GridItem sm="7">
+### Traits
+
+
+<Traits traits1Id="53" traits1="Spite" traits1SelectedIds="914,829,853" traits2Id="50" traits2="Soul Reaping" traits2SelectedIds="875,894,893" traits3Id="76" traits3="Ritualist" traits3SelectedIds="2339, ,2333"/>
+|                                                            |                                                                           |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <Trait id="2405" size="big" disableText/> | Take "Empowering Spirits" if you want to give quickness. |
+| <Trait id="2421" size="big" disableText/> | Take "Spirit's Strength" if you are pure dps. |
+
+
+
+### Defiance Bar Damage
+
+| Skill                                | Damage                |
+| ------------------------------------ | --------------------- |
+| <Skill name="Bladesong Dissonance"/> | 50 damage (per Blade) |
+| <Skill name="Counter Blade"/>        | 200 damage            |
+| <Skill name="Into the Void"/>        | 150 damage            |
+| <Skill name="Signet of Humility"/>   | 600 damage            |
+| <Skill name="Illusionary Wave"/>     | 150 damage            |
+| <Skill name="Magic Bullet"/>         | 250 damage            |
+| <Skill name="Phantasmal Mage"/>      | 100 damage            |
+| <Condition name="Slow"/>             | 50 damage per second  |
+| <Condition name="Fear"/>             | 100 damage per second  |
+
+</GridItem>
+
+<GridItem sm="5">
+### Situational Skills
+
+<Warning>
+ ...
+</Warning>
+
+|                                                               |                                                                                                                                                                                                                                                      |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<!--
+| <Skill name="Well of Darkness" size="big" disableText/>       | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                           |
+| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />. If you are the one responsible to strip all boons on MAMA and Arkk, take <Skill name="Corrupt Boon"/> instead.                                                                                                                                                     |
+| <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
+| <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
+| <Skill name="Spectral Grasp" size="big" disableText/>         | A useful 1200 range 5 target pull to help stack up golems at the Chaos Anomaly fight or the adds in the Arkk fight. It also provides an extra 150 defiance bar damage. Hits up to five times if you cast it inside a mob with other enemies outside. |
+| <Skill name="Suffer" size="big" disableText/>                 | A defensive utility to help mitigate conditions on you, as well as apply extra Chill for usage with <Trait name="Cold Shoulder"/>                                                                                                                    |
+| <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                           |
+| <Skill name="Nothing Can Save You" size="big" disableText/>   | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too.                     |
+| <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals).                                                                                                |
+| <Skill name="Chilled to the Bone!" size="big" disableText/>   | Depending on the amount of foes hit, this elite skill can grant yourself up to 12 stacks of <Boon name="Stability"/> and <Boon name="Might"/>, as well as a long lasting <Boon name="Quickness"/> and <Boon name="Fury"/> duration.                  |
+| <Skill name="Your Soul is mine!" size="big" disableText/>   | Best heal skill option outside of single target encounters.                  |
+-->
+
+</GridItem>
+
+</Grid>
 
