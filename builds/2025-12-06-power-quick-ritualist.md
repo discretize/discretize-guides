@@ -20,12 +20,12 @@ boons:
     uptime: 30%
     variant: party
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-06T22:36:27.868Z "
+date: "2025-12-06T22:37:46.240Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
-  - 'Map { "name": "Fear"'
-  - '"name":"Slow" }'
+  - 'Map {"name": "Fear"}'
+  - Map {"name":"Slow" }
 ---
 text
 
