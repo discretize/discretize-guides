@@ -20,7 +20,7 @@ boons:
     uptime: 30%
     variant: party
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T00:00:11.881Z "
+date: "2025-12-07T00:13:26.041Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -28,7 +28,7 @@ conditions:
   - 'Map {"name": "Fear"}'
   - Map {"name":"Slow" }
 ---
-<Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. It also provides low amounts of <Condition name="Fear"/> and <Condition name="Slow"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Danger Time" />  and <Trait name="Superiority Complex" />.    
+<Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. It also provides low amounts of <Condition name="Fear"/> and <Condition name="Slow"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Danger Time" />  and <Trait name="Superiority Complex" />. While it does have great crowd control with <Skill name="Spectral Grasp">
 
 <Divider text="Equipment"/>   
 <CharacterWithAr>  
@@ -90,21 +90,12 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 ### Situational Skills
 
 <Warning>
- ...
+  If you are going to replace a skill, <Skill name="Well of Darkness" /> is your
+  least damaging skill.
 </Warning>
 
 |                                                               |                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <Skill name="Signet of Spite" size="big" disableText/>       | Best Dps Option                                           |
-| <Skill name="Spectral Grasp" size="big" disableText/>       | Best Dps Option                                           |
-| <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). 
-
-
-</GridItem>
-
-</Grid>
-
-<!--
 | <Skill name="Well of Darkness" size="big" disableText/>       | Your most damaging option for a third utility. Deals some AoE damage as well as applying <Condition name="Blinded" text="Blind"/> and <Condition name="Chilled" text="Chill"/> to targets inside the well.                                           |
 | <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />. If you are the one responsible to strip all boons on MAMA and Arkk, take <Skill name="Corrupt Boon"/> instead.                                                                                                                                                     |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
@@ -116,4 +107,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Rise!" size="big" disableText/>                  | Swap with <Skill name="Well of Darkness"/> if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals).                                                                                                |
 | <Skill name="Chilled to the Bone!" size="big" disableText/>   | Depending on the amount of foes hit, this elite skill can grant yourself up to 12 stacks of <Boon name="Stability"/> and <Boon name="Might"/>, as well as a long lasting <Boon name="Quickness"/> and <Boon name="Fury"/> duration.                  |
 | <Skill name="Your Soul is mine!" size="big" disableText/>   | Best heal skill option outside of single target encounters.                  |
--->
+
+</GridItem>
+</Grid>
