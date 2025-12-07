@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T00:53:41.144Z "
+date: "2025-12-07T01:02:02.216Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -90,8 +90,13 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | e    | 150 damage            |
 | f        | 250 damage            |
 | g      | 100 damage            |
-| <Condition name="Slow"/>             | 50 damage per second  |
 | <Condition name="Fear"/>             | 100 damage per second  |
+| <Condition name="Slow"/>             | 50 damage per second  |
+| <Condition name="Chill"/>             | 33damage per second  |
+| <Condition name="Blind"/>             | 20 damage per second  |
+| <Condition name="Weakness"/>             | 20 damage per second  |
+| <Condition name="Cripple"/>             | 15 damage per second  |
+
 
 </GridItem>
 
