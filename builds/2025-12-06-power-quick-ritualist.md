@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T18:02:19.931Z "
+date: "2025-12-07T18:16:59.592Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -121,10 +121,6 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill id="77022" size="big" disableText/>         | Additional cleanse. |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                           |
-| <Skill name="Nothing Can Save You" size="big" disableText/>   | Makes your attacks unblockable, great to break the Ooze in [Thaumanova Reactor Fractal](/fractals/thaumanova-reactor). It is great to have at Volcanic Boss in Volcanic fractal and Champion Dredge in Underground Facility too.                     |
-| <Skill name="Rise!" size="big" disableText/>                  | Potentially useful if you need a meat shield at the cost of personal DPS (best use in Siren's Reef and Molten Boss fractals).                                                                                                |
-| <Skill name="Chilled to the Bone!" size="big" disableText/>   | Depending on the amount of foes hit, this elite skill can grant yourself up to 12 stacks of <Boon name="Stability"/> and <Boon name="Might"/>, as well as a long lasting <Boon name="Quickness"/> and <Boon name="Fury"/> duration.                  |
-| <Skill name="Your Soul is mine!" size="big" disableText/>   | Best heal skill option outside of single target encounters.                  |
 
 </GridItem>
 </Grid>
