@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T18:16:59.592Z "
+date: "2025-12-07T18:25:08.099Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -133,8 +133,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 - Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
 - If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on encounters that are too far away from the _Mistlock Singularity_ to make use of your Lich precast.
 - Alternativly <Skill name="Spectral Walk"/> can be used before taking a portal to precast your <Skill id="10636"/> and still being able to take the _Mistlock Singularity_.
-- Optional: Precast <Skill name="Rise" /> (Utility) and swap back to your combat skills.
-- 
+ 
 
  <Divider text="Rotation / Skill usage"/>
 
@@ -202,7 +201,7 @@ Swapping equipment templates or skill templates with the same traits will not ap
 5. _Weapon Swap_
 6. e
 7. f
-8.g
+8. g
 9. h
 10. i
 
