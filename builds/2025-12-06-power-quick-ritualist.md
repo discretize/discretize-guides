@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T18:38:57.130Z "
+date: "2025-12-07T18:53:39.075Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -116,7 +116,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill id="76752" size="big" disableText/>         | Provides a block and additional defense. |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | Amazing 1200 range pull and cc. It provides an 150 defiance bar damage per hit and hits up to five times if you cast it inside an enemy with other enemies around. |
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
-| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />. If you are the one responsible to strip all boons on MAMA and Arkk, take <Skill name="Corrupt Boon"/> instead.                                                                                                                                                     |
+| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />.                                                                                                                                                   |
 | <Skill name="Signet of Spite" size="big" disableText/>       | Standard dps option.                                          |
 | <Skill id="77022" size="big" disableText/>         | Additional cleanse. |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
