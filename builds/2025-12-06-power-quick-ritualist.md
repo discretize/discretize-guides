@@ -29,13 +29,17 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T01:02:02.216Z "
+date: "2025-12-07T01:09:42.126Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
   - 'Map {"name": "Vulnerability"}'
   - 'Map {"name": "Fear"}'
   - Map {"name":"Slow" }
+  - Map {"name":"Chilled" }
+  - Map {"name":"Blinded"}
+  - Map {"name":"Weakness" }
+  - Map {"name":"Crippled" }
 ---
 <Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. It also provides low amounts of <Condition name="Fear"/> and <Condition name="Slow"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Danger Time" />  and <Trait name="Superiority Complex" />. While it does have great crowd control with <Skill name="Spectral Grasp"/> and <Skill name="Summon Flesh Golem"/>. However, it lacks the same <Effect name="Stealth"/>, <Effect name="Superspeed"/> and boonstrip capabilities as <Specialization text="Power (Quick) Scrapper" name="Scrapper"/>.
 
@@ -84,18 +88,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | Skill                                | Damage                |
 | ------------------------------------ | --------------------- |
 | <Skill name="Summon Flesh Golem"/> and <Skill name="Charge"/> | Multiples of 200 depending on hitbox size. |
-| b        | 200 damage            |
-| c       | 150 damage            |
-| d  | 600 damage            |
-| e    | 150 damage            |
-| f        | 250 damage            |
-| g      | 100 damage            |
+| <Skill name="Spectral Grasp"/>        | Up to 5 time 150.             |
+|<Skill name="Grasping Darkness"/>           | 150
+| <Skill id="73013"/>   | 150             |
 | <Condition name="Fear"/>             | 100 damage per second  |
 | <Condition name="Slow"/>             | 50 damage per second  |
-| <Condition name="Chill"/>             | 33damage per second  |
-| <Condition name="Blind"/>             | 20 damage per second  |
+| <Condition name="Chilled"/>             | 33 damage per second  |
+| <Condition name="Blinded"/>             | 20 damage per second  |
 | <Condition name="Weakness"/>             | 20 damage per second  |
-| <Condition name="Cripple"/>             | 15 damage per second  |
+| <Condition name="Crippled"/>             | 15 damage per second  |
 
 
 </GridItem>
