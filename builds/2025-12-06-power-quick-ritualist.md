@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T17:39:43.056Z "
+date: "2025-12-07T17:56:24.116Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -138,3 +138,132 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 - If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on encounters that are too far away from the _Mistlock Singularity_ to make use of your Lich precast.
 - Alternativly <Skill name="Spectral Walk"/> can be used before taking a portal to precast your <Skill id="10636"/> and still being able to take the _Mistlock Singularity_.
 - Optional: Precast <Skill name="Rise" /> (Utility) and swap back to your combat skills.
+- 
+
+ <Divider text="Rotation / Skill usage"/>
+
+<Warning>
+
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+
+It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
+
+They do however benefit from <Effect name="Exposed"/>.
+</Warning>
+
+<Grid>
+<GridItem xs="12" sm="7">
+
+### Skill Priority
+
+To play <Specialization text="Power Virtuoso" name="Virtuoso"/> in fractals, you need to adapt your gameplay on the fly as phantasms do not deal damage instantly, which results in delayed burst compared to other builds and can lead to missed hits. There are no fixed opening rules for every single boss and group. Starting from the raid benchmark rotation, you will need to experiment what works best for different encounters and phase times. 
+
+The guiding principle is to get as many skill casts as possible into each phase, ideally casting your phantasm skills as early as possible. In that regard, on many fights where the boss spawns invisible or delayed, you can get an advantage by precasting AoE skills which do not require a target such as 
+<Skill name="Rain of Swords"/>, <Skill id="62597"/> or <Skill id="62607"/>. <Skill id="10174"/> gives you the buff <Trait name="Fencers Finesse"/> and hence should be used as soon as possible when playing with offhand sword. If you think the phase will end before your phantasms can finish their attacks, skip casting them and prioritise casting skills that instantly deal direct damage. If there is only time to cast one of two phantasm skills, skills which spawn multiple phantasms are better due to <Trait name="Phantasmal Blades"/>.
+
+If you lose yourself in the rotation, follow this priority list:
+1.  Cast your phantasms whenever ready.
+    - <Skill id="10174"/>
+    - <Skill id="10267"/>
+    - <Skill id="10221"/>
+    - <Skill id="72946"/>
+2.  Use <Skill id="21750"/> to recharge them all.
+3.  Use <Skill name="Bladesong Harmony"/> with 5 Blades as much as possible. Only delay it for <Effect name="Exposed"/> but remember that it also grants you a 5% damage buff through <Trait name="Deadly Blades"/>.
+4.  Use <Skill name="Bladesong Sorrow"/> and <Skill id="62597"/> for damage and to keep up the buff from <Trait name="Deadly Blades"/>. Make sure to prioritize having 5 Blades for <Skill name="Bladesong Harmony"/> though. Situationally you can use this with 5 Blades such as in your burst rotation or when a phase is about to end and <Skill name="Bladesong Harmony"/> is on cooldown.
+5.  <Skill id="62553"/> deals damage over time so make sure to cast it at the start of phases. If a boss is close to phasing, save it for the start of the next phase.
+6.  Use <Skill id="62560"/> and <Skill id="62607"/>, or <Skill id="10333"/> and <Skill id="10218"/> off cooldown (depending on your choice of weapons).
+
+- <Skill name="Illusionary Riposte"/> is a DPS increase if you time it well, and don't interrupt other casts.
+
+Remember that your personal damage skills are faster than phantasms. This means that direct damaging skills such as <Skill id="62560"/> or <Skill name="Mirror Blade"/> and auto-attacks get higher priority if the boss is close to phasing.
+
+Utilize <Skill name="Bladesong Dissonance"/> for CC, but also remember to not use too much CC on the break bar and space out your big CC cooldowns like <Skill name="Signet of Humility"/> so they don't overlap with other powerful CC skills.
+
+Apart from doing DPS, you'll also have access to a wide range of utilities which can all be used for skips, blocks, and damage mitigation. Make sure to read what they do and don't be afraid to swap to them situationally, especially in T4s.
+
+### Dark AI Reflect
+Dark AI is <Specialization text="Power Virtuoso's" name="Virtuoso"/> best boss as <Skill name="Feedback"/>
+can be used to reflect her <Skill id="61499"/> attack, which spawns laser beams. Furthermore, if phased to 66% or 33% during her dash animation, the boss will send out additional laser beams which - if reflected - lead to a massive damage increase. 
+
+The Focused Wrath laser beams spawn in segments. A long dash contains 10 beams in a 4-2-4 sequence. With multiple reflect sources in the party, one person wants to reflect at the start of the dash and another person at the end. For example, in a composition containing a <Specialization name="Scrapper"/> using <Skill id="30088"/> for reflects, the scrapper player should reflect the first beams, and a <Specialization name="Mesmer"/> player should use <Skill name="Feedback"/> at the end of her dashes. 
+
+For most kill times, <Skill name="Feedback"/> should be up for each dash. However, in speed kills, you will only have <Skill name="Feedback"/> available at either 66% or 33%, not both. The highest possible reflect occurs at 33%, but it is a gamble if the attack pattern lines up correctly. On the other hand, with the correct group dps, it is possible to consistently obtain the big reflect at 66%.
+
+You should make some adjustments to your build before starting the encounter. Most importantly, Sunqua Peak Challenge Mode is a night time fractal, meaning <Item id="36053"/> works and should be taken instead of <Item id="24868"/>. <Skill name="Rain of Swords"/> should be replaced with <Skill name="Feedback"/>. 
+
+<Skill name="Phantasmal Defender"/> is also an optional utility skill that can be chosen, especially with multiple mesmer players, as it triggers <Trait name="Superiority Complex"/>, which will increase your reflect damage early on if you plan on phasing her before she completes the second dash. Reflect damage uses your ferocity and modifiers, but your enemies' power. To maximise your reflect damage you can use <Skill name="Mimic"/> at the Mistlock Singularity to reset your first <Skill name="Feedback"/> cast at the start of the fight.
+
+As far as the general rotation is concerned, this fight is long enough to resemble a raid rotation. Make sure to help cc the adds if your groups is not prepared to skip them with sufficient dps and break the boss as late as possible. One add explosion can be tanked with <Effect name="Rigorous Certainty"/>. Support players should take the tether at 33% in order to prevent damage reduction from <Effect name="Cacophonous Mind"/>, but if no-one is willing to take it, it is still a group damage increase for you to grab it. 
+
+### Dark AI Reflect Placement PoV 
+<Video caption="by Ceisay." youtube="qcEN1W_Re4c"/>
+
+ 
+</GridItem>
+<GridItem xs="12" sm="5">
+
+<Card title="Precasting">
+
+At the Mistlock Singularity for better boons:
+
+- Make sure to start a fight with 5 Blades by using <Skill name="Blade Renewal"/>.
+- Use a 100% <Attribute name="Boon Duration"/> equipment template to
+
+1. Blast existing fire fields with <Skill name="The Prestige"/> using a torch.
+2. Give might with <Skill name="Tides of Time"/> using a shield.
+2. Use <Skill name="Inspiring Imagery"/> for more might from your rifle. \
+   (Careful, it creates an Ethereal Combo Field)
+3.  Precast a <Skill name="Time Warp"/> for quickness.
+4. Extend your own boons with <Skill name="Signet of Inspiration"/> if you have time.
+5. Precast <Skill name="Mimic"/> and take the singularity when your group is done pre-buffing.
+
+
+At the boss (spawnable bosses) for damage:
+
+1. Cast <Skill name="Rain of Swords"/>. Skip this step if you did not use <Skill name="Mimic"/> at the singularity.
+2. You can precast <Skill name="The Prestige"/> and <Skill name="Chaos Storm"/> to squeeze out a little more burst, if your group coordinates.
+3. Cast <Skill name="Rain of Swords"/> (again).
+4. Start casting <Skill name="Signet of Humility"/> if the boss starts with a break bar.
+
+At the boss (pre-spawned bosses) 
+
+- You can also precast phantasms like <Skill name="Phantasmal Warlock"/>.
+
+<Warning>
+Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
+</Warning>
+
+</Card> 
+
+<Card title="Example Opener">
+1. a
+2. b 
+
+
+1. a
+2. b
+3. c
+4. d
+5. _Weapon Swap_
+6. e
+7. f
+8.g
+9. h
+10. i
+
+
+
+<Warning>
+Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.  
+</Warning>
+
+### Video
+place video here
+</Card>
+
+
+</GridItem>
+</Grid>
+
+
+
