@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-07T18:53:39.075Z "
+date: "2025-12-08T01:38:43.575Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -151,7 +151,8 @@ They do however benefit from <Effect name="Exposed"/>.
 
 ### Skill Priority
 
-
+i summon blood fiend if i don't have life force, shroud 3 4, wait for them to do their attack, shroud 5, f4, weapons, mistlock, weapons again
+with the ritualist grandmaster upper trait and trait swap
 
  
 </GridItem>
