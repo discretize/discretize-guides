@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-08T23:46:04.766Z "
+date: "2025-12-08T23:55:56.972Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -125,14 +125,6 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 </GridItem>
 </Grid>
 
-<Divider text="Skill Usage" />
-
-### Precasting
-
-- Staff marks if possible
-- Use <Skill name="Lich Form"/> (Elite) to precast <Skill id="10636"/> (Skill 4).
-- If you have <Skill name="Mistfire Wolf" /> (Deluxe Upgrade) precast it on encounters that are too far away from the _Mistlock Singularity_ to make use of your Lich precast.
-- Alternativly <Skill name="Spectral Walk"/> can be used before taking a portal to precast your <Skill id="10636"/> and still being able to take the _Mistlock Singularity_.
  
 
  <Divider text="Rotation / Skill usage"/>
@@ -173,14 +165,18 @@ At the Mistlock Singularity for better boons:
 5.  Take Mistlock Singularity.
 6.  <Skill id="76975"/> and <Skill id="76739"/> again.
 
-
 With trait swap items, you can use <Trait id="2376"/> to precast.
-
-
 
 <Warning>
 Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
 </Warning>
+
+
+At spawnable bosses, you can precast staff marks:  
+
+- <Skill name="Mark of Blood"/>, <Skill name="Chillblains"/>, <Skill name="Putrid Mark"/>, <Skill name="Reaper's Mark"/>
+
+Optionally, also use the  <Skill name="Lich Form"/> Elite to precast <Skill id="10636"/>. <Skill name="Mistfire Wolf" /> can be used with the deluxe upgrade. <Skill name="Artillery Barrage"/> can be used as charr with portals.  
 
 </Card> 
 
