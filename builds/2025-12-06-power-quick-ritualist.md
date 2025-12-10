@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-10T23:11:00.928Z "
+date: "2025-12-10T23:32:25.478Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -167,16 +167,22 @@ At the Mistlock Singularity for better boons:
 
 With trait swap items, you can use <Trait id="2376"/> to precast.
 
+Potentially, precast <Item id="103872"/> by casting <Skill name="Summon Flesh Golem"/> before the start of the fight.
 <Warning>
 Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
 </Warning>
 
 
-At spawnable bosses, you can precast staff marks:  
+At spawnable bosses, you can also precast staff marks:  
 
 - <Skill name="Mark of Blood"/>, <Skill name="Chillblains"/>, <Skill name="Putrid Mark"/>, <Skill name="Reaper's Mark"/>
 
+
 Optionally, also use the  <Skill name="Lich Form"/> elite to precast <Skill id="10636"/>. <Skill name="Mistfire Wolf" /> can be used with the deluxe upgrade. <Skill name="Artillery Barrage"/> can be used as charr with portals.  
+
+Optionally, precast <Item id="103574"/> with <Item id="49943"/>. 
+
+Optionally, precast <Item id="100527"/> by giving yourself <Boon name="protection"/>, for example with  <Skill id="76752"/>. 
 
 </Card> 
 
