@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-10T23:32:25.478Z "
+date: "2025-12-10T23:44:31.448Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -41,7 +41,7 @@ conditions:
   - Map {"name":"Weakness" }
   - Map {"name":"Crippled" }
 ---
-<Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. With <Skill id="76647"/>, ritualist has access to on-demand <Boon name="Aegis"/>, <Boon name="Stability"/>, <Boon name="Resistance"/>. Offensively, it helps the team by providing <Condition name="Vulnerability"/>, which can be especially lacking in condition comps or fast phasing fights. On top of that, it also provides low amounts of <Condition name="Fear"/> and <Condition name="Slow"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Danger Time" />  and <Trait name="Superiority Complex" />. While it does have great crowd control with <Skill name="Spectral Grasp"/> and <Skill name="Summon Flesh Golem"/>, it lacks the same <Effect name="Stealth"/>, <Effect name="Superspeed"/>, reflect capabilities as <Specialization text="Power (Quick) Scrapper" name="Scrapper"/> - the .
+<Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. With <Skill id="76647"/>, ritualist has access to on-demand <Boon name="Aegis"/>, <Boon name="Stability"/>, <Boon name="Resistance"/>. Offensively, it helps the team by providing <Condition name="Vulnerability"/>, which can be especially lacking in condition comps or fast phasing fights. On top of that, it also provides low amounts of <Condition name="Fear"/> and <Condition name="Slow"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Danger Time" />  and <Trait name="Superiority Complex" />. While it does have great crowd control with <Skill name="Spectral Grasp"/> and <Skill name="Summon Flesh Golem"/>, it lacks the same <Effect name="Stealth"/>, <Effect name="Superspeed"/> and reflect capabilities as <Specialization text="Power (Quick) Scrapper" name="Scrapper"/>.
    
 <Divider text="Equipment"/>   
 <CharacterWithAr>  
@@ -167,7 +167,8 @@ At the Mistlock Singularity for better boons:
 
 With trait swap items, you can use <Trait id="2376"/> to precast.
 
-Potentially, precast <Item id="103872"/> by casting <Skill name="Summon Flesh Golem"/> before the start of the fight.
+Potentially, precast <Item id="103872"/> by casting <Skill name="Summon Flesh Golem"/> before the start of the fight. Then swap to your fight template that uses <Item id="103574"/> in time. 
+
 <Warning>
 Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
 </Warning>
