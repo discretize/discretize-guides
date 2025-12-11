@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-11T13:08:40.537Z "
+date: "2025-12-11T23:05:13.330Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -120,7 +120,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill id="76752" size="big" disableText/>         | Provides a block and additional defense. |
 | <Skill name="Spectral Grasp" size="big" disableText/>         | Amazing 1200 range pull and cc. It provides an 150 defiance bar damage per hit and hits up to five times if you cast it inside an enemy with other enemies around. |
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade).                   |
-| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with<Instability name="No Pain, No Gain" />.                                                                                                                                                   |
+| <Skill name="Well of Corruption" size="big" disableText/>     | A strong AoE boon corrupt which can be used on days with <Instability name="No Pain, No Gain" />.                                                                                                                                                   |
 | <Skill name="Signet of Spite" size="big" disableText/>       | Standard dps option.                                          |
 | <Skill id="77022" size="big" disableText/>         | Additional cleanse. |
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
@@ -130,7 +130,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 </Grid>
  
 <Divider text="Class Concept"/> 
-
+Ritualists use skills to generate life force which allows them to enter  <Skill id="77238"/> and summon spirits, namely <Skill id="76864"/>, <Skill id="76741"/> and <Skill id="76684"/>. One can then use <Skill id="76607"/> for additional spirit attacks. The auto attack in shroud, <Skill id="77061"/>, scales with the number of spirits present. <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> are instant cast skills that can be used around the summoned spirits. 
 
 
 <Divider text="Rotation / Skill usage"/>
@@ -186,13 +186,28 @@ Optionally, precast <Item id="100527"/> by giving yourself <Boon name="protectio
 
 
 
-<Card title="Example Opener">
-1. a
-2. b 
+<Card title="Example Opener Ideas">
 
+<Warning>
+Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.  
+</Warning>
 
-1. a
-2. b
+<Skill name="Summon Flesh Golem" /> before the fight and <Skill name="Charge" /> it into the breakbar. 
+
+<Skill name="Nightfall" /> (Greatsword 4) before the boss spawns. 
+
+0. <Skill name="Death Spiral" /> (GS 3)  for instant 12 stacks of <Condition name="vulnerability"/>. \
+Activate the boss during the cast.
+1. <Skill name="Grasping Darkness" /> (GS 5) for <Item id="103574"/> \
+  Cancel its aftercast with weapon swap or shroud. 
+2. <Skill id="77238"/> Skills
+3. <Skill name="Gravedigger" /> (GS 2)  and _Weapon Swap_
+4. Spear Skills
+
+or 
+1. <Skill id="73007" /> (Spear5) to strip <Instability name="No Pain, No Gain"/> \
+  Activate the boss during the cast.
+2. <Skill id="73013"/> (Spear3) to help with the breakbar. 
 3. c
 4. d
 5. _Weapon Swap_
@@ -203,10 +218,10 @@ Optionally, precast <Item id="100527"/> by giving yourself <Boon name="protectio
 10. i
 
 
-
 <Warning>
-Invisible bosses usually still take damage although the first second might not be logged properly in the arcdps addon. Use aoe skills which do not require a target during that time.  
+What is actually optimal depends on the phase time. Try to get as many high damage skills as possible into a phase while quckly ramping vuln, stripping boons and stunning the boss. .
 </Warning>
+
 
 ### Video
 Your awesome ritualist pov could be placed here if you tell us on discord. 
