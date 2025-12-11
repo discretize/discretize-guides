@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-11T09:54:29.126Z "
+date: "2025-12-11T13:08:40.537Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -109,6 +109,10 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 
 <Item id="43360"/> can be used on fights with adds or in T4.
 
+### Relic Variations
+<Item id="100947"/> can be used instead of <Item id="103574"/>.
+
+
 ### Situational Skills
 
 |                                                               |                                                                                                                                                                                                                                                      |
@@ -124,28 +128,23 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 
 </GridItem>
 </Grid>
-
  
+<Divider text="Class Concept"/> 
 
- <Divider text="Rotation / Skill usage"/>
+
+
+<Divider text="Rotation / Skill usage"/>
 
 <Warning>
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-
+The newer fractals with long phases like Kinfall, Sunqua Peak and Silent Surf play much more similar to raids though such that essentially raid benchmark rotations can be used there. 
 </Warning>
 
+
 <Grid>
-<GridItem xs="12" sm="7">
+<GridItem xs="12" sm="6">
 
-### Skill Priority
-
-i summon blood fiend if i don't have life force, shroud 3 4, wait for them to do their attack, shroud 5, f4, weapons, mistlock, weapons again
-with the ritualist grandmaster upper trait and trait swap
-
- 
-</GridItem>
-<GridItem xs="12" sm="5">
 
 <Card title="Precasting">
 
@@ -164,7 +163,7 @@ At the Mistlock Singularity for better boons:
 
 With trait swap items, you can use <Trait id="2376"/> to precast.
 
-Potentially, precast <Item id="103872"/> by casting <Skill name="Summon Flesh Golem"/> before the start of the fight. Then swap to your fight template that uses <Item id="103574"/> in time. 
+Potentially, precast <Item id="103872"/> by casting <Skill name="Summon Flesh Golem"/> before the start of the fight. Then swap in time to your fight template that uses <Item id="103574"/>. 
 
 <Warning>
 Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
@@ -181,6 +180,11 @@ Optionally, also use the  <Skill name="Lich Form"/> elite to precast <Skill id="
 Optionally, precast <Item id="100527"/> by giving yourself <Boon name="protection"/>, for example with  <Skill id="76752"/>. 
 
 </Card> 
+ 
+</GridItem>
+<GridItem xs="12" sm="6">
+
+
 
 <Card title="Example Opener">
 1. a
@@ -205,7 +209,7 @@ Invisible bosses usually still take damage although the first second might not b
 </Warning>
 
 ### Video
-place video here
+Your awesome ritualist pov could be placed here if you tell us on discord. 
 </Card>
 
 
