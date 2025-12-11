@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-11T23:05:13.330Z "
+date: "2025-12-11T23:54:52.173Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -207,15 +207,15 @@ Activate the boss during the cast.
 or 
 1. <Skill id="73007" /> (Spear5) to strip <Instability name="No Pain, No Gain"/> \
   Activate the boss during the cast.
-2. <Skill id="73013"/> (Spear3) to help with the breakbar. 
-3. c
-4. d
-5. _Weapon Swap_
-6. e
-7. f
-8. g
-9. h
-10. i
+2. <Skill id="73013"/> (Spear3) to help with the breakbar and trigger <Item id="103574"/>. Careful not to cancel <Skill id="73007" /> by spamming.
+3. <Skill id="77238"/> Skills
+4. <Skill id="73068"/>
+5. <Skill id="73107"/> and <Skill id="73116"/>
+6. <Skill id="73068"/> again
+7. <Skill id="73013"/> (Spear3) if available
+8. _Weapon Swap_
+9. <Skill name="Grasping Darkness" /> (GS 5)
+10. <Skill name="Nightfall" /> (GS4) to cancel the aftercast of GS 5.
 
 
 <Warning>
