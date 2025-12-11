@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-11T09:53:48.010Z "
+date: "2025-12-11T09:54:29.126Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -133,9 +133,6 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 
 Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
 
-It's important to note that phantasms do not benefit from most modifiers unless it is stated to be the case.
-
-They do however benefit from <Effect name="Exposed"/>.
 </Warning>
 
 <Grid>
