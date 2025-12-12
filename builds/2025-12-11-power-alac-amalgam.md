@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-12T22:02:03.573Z "
+date: "2025-12-12T23:34:52.068Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -62,7 +62,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 </GridItem>
 <GridItem sm="5">
 ### Additional Skills
-
+ 
 |                                           |                                                                                                                                                                                                                   |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Morphs                                 | <Skill id="76613" size="big" disableText/><Skill id="76806" size="big" disableText/><Skill id="76927" size="big" disableText/><Skill id="77163" size="big" disableText/><Skill id="76642" size="big" disableText/> |
