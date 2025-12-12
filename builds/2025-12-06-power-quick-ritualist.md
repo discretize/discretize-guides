@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-11T23:54:52.173Z "
+date: "2025-12-12T00:15:27.862Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -131,6 +131,19 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
  
 <Divider text="Class Concept"/> 
 Ritualists use skills to generate life force which allows them to enter  <Skill id="77238"/> and summon spirits, namely <Skill id="76864"/>, <Skill id="76741"/> and <Skill id="76684"/>. One can then use <Skill id="76607"/> for additional spirit attacks. The auto attack in shroud, <Skill id="77061"/>, scales with the number of spirits present. <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> are instant cast skills that can be used around the summoned spirits. 
+
+<Boon name="Quickness"/> is provided by summoning spirits due to <Trait id="2405" />. 
+
+#### Spirit Attacks
+<Skill id="76864"/>: Anguish fires a barrage of projectiles that deal increased damage against crowd-controlled enemies and for each condition on those enemies.
+
+<Skill id="76741"/>: Wanderlust knocks down enemies and creates a lingering area that deals damage and inflicts conditions. 
+
+<Skill id="76684"/>: Preservation will unleash a burst of energy, healing and removing conditions from nearby allies. 
+
+Due to <Trait id="2333"/>, spirits remain alive outside of shroud, continuing their attacks. 
+
+#### Skill Priority
 
 
 <Divider text="Rotation / Skill usage"/>
