@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-12T00:15:27.862Z "
+date: "2025-12-12T00:41:18.561Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -143,7 +143,7 @@ Ritualists use skills to generate life force which allows them to enter  <Skill 
 
 Due to <Trait id="2333"/>, spirits remain alive outside of shroud, continuing their attacks. 
 
-#### Skill Priority
+
 
 
 <Divider text="Rotation / Skill usage"/>
@@ -227,14 +227,14 @@ or
 6. <Skill id="73068"/> again
 7. <Skill id="73013"/> (Spear3) if available
 8. _Weapon Swap_
-9. <Skill name="Grasping Darkness" /> (GS 5)
-10. <Skill name="Nightfall" /> (GS4) to cancel the aftercast of GS 5.
+9. <Skill name="Gravedigger" /> (GS 2), <Skill name="Nightfall" /> (GS4), <Skill name="Death Spiral" /> (GS 3) 
+10. <Skill name="Grasping Darkness" /> (GS 5) and <Skill id="77238"/> Skills
 
 
 <Warning>
 What is actually optimal depends on the phase time. Try to get as many high damage skills as possible into a phase while quckly ramping vuln, stripping boons and stunning the boss. .
 </Warning>
-
+<Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> can be used anytime. 
 
 ### Video
 Your awesome ritualist pov could be placed here if you tell us on discord. 
