@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-12T00:41:18.561Z "
+date: "2025-12-12T00:42:26.243Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -232,7 +232,7 @@ or
 
 
 <Warning>
-What is actually optimal depends on the phase time. Try to get as many high damage skills as possible into a phase while quckly ramping vuln, stripping boons and stunning the boss. .
+What is actually optimal depends on the phase time and boss. Try to get as many high damage skills as possible into a phase while quckly ramping vuln, stripping boons and stunning the boss. .
 </Warning>
 <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> can be used anytime. 
 
