@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-12T23:34:52.068Z "
+date: "2025-12-12T23:45:00.226Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -61,6 +61,15 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </GridItem>
 <GridItem sm="5">
+### Utility, Food and Relic Options
+<Item id="9443"/> is the standard utility. 
+
+Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item name="Powerful Potion of Ice Brood Slaying"/> according to the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for a damage increase.
+
+<Item id="43360"/> can be used on fights with adds or in T4.
+
+<Item name="Relic of Fireworks"/> or <Item id="103574"/> can be used. 
+
 ### Additional Skills
  
 |                                           |                                                                                                                                                                                                                   |
@@ -73,8 +82,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="Blast Gyro" size="big" disableText/>       | An alternative to <Skill name="Shredder Gyro"/> for to allow yourself to quickly stack group <Boon name="Might"/> after split phases depending on the party composition or encounter. |
-| <Skill name="Healing Turret" size="big" disableText/>        | Taken as a heal skill to provide an extra blast finisher to help maintain <Boon name="Quickness"/> with the flip skill <Skill id="5961"/>. The blast finisher triggers at the Engineer's position, *not* where the Turret is. |
 | <Skill name="AED" size="big" disableText/>        | Your best in slot heal skill providing you can maintain <Boon name="Quickness"/> without needing an extra blast. Brings CC and a <Item name="Relic of Fireworks"/> proc with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
 | <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill in scenarios with high damage pressure. Grants access to a blast finisher with <Skill name="Infusion Bomb"/>, and condi cleanse with <Skill name="Cleansing Field"/>. |
 | <Skill name="Medic Gyro" size="big" disableText/>        | Useful for applying <Effect name="Superspeed"/> when running around in T4 fractals. |
