@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-12-13T00:47:56.477Z "
+date: "2025-12-13T00:48:22.570Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
@@ -88,7 +88,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="29665" size="big" disableText/><Skill id="56921" size="big" disableText/> |
 | <Skill id="6020" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/>     |
 
-### Situational SKills
+### Situational Skills
 
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
