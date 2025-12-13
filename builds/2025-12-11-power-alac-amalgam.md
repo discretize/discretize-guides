@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-13T00:37:48.875Z "
+date: "2025-12-13T00:57:23.198Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -40,24 +40,22 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 
 ### Traits
-<Traits traits1Id="6" traits1="Explosives" traits1SelectedIds="1882,1892,1947" traits2Id="38" traits2="Firearms" traits2SelectedIds="1914,1923,526" traits3Id="75" traits3="Amalgam" traits3SelectedIds="	2395,2383,2387"/>
+<Traits traits1Id="6" traits1="Explosives" traits1SelectedIds="1882,1892,1947" traits2Id="38" traits2="Firearms" traits2SelectedIds="1914,1923,526" traits3Id="75" traits3="Amalgam" traits3SelectedIds="	2395,2383,"/>
 
 ### Situational Traits
 
 |                                                              |                                                                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| <Trait name="Pinpoint Distribution" size="big" disableText/> | Taken to provide extra <Boon name="Might"/> to the party if no one else can.                                   |
-| <Trait name="Aim Assisted Rocket" size="big" disableText/>   | Taken over <Trait name="Explosive Temper"/> on long fights without phases, such as Dark Ai. Is also a source of an extra blast finisher to maintain <Boon name="Quickness"/> |
-| <Trait name="Applied Force" size="big" disableText/>         | Taken if you are DPS and don't need to provide <Boon name="Quickness"/>.                   |
-| <Trait name="Mass Momentum" size="big" disableText/>         | Situationally taken to provide <Boon name="Stability"/>. In fast groups it is played as a DPS increase to increase uptime on <Trait name="Object in Motion"/>. |
+| <Trait id="2387" size="big" disableText/> | Taken to provide alacrity.                                  |
+| <Trait id="2406" size="big" disableText/> | Taken when playing pure dps.                                 |
+
 
 ### Defiance Bar Damage
 
 | Skills                                                                 | Damage                                                        |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | <Skill name="thunderclap" profession="engineer"/>   | 100 damage                                                         |
-| <Skill name="Static Shock"/>                      | 200 damage                                                         |
-| <Skill name="sparecapacitor"/>                      | 200 damage                                                         |
+| <Skill name="Static Shock"/>                      | 200 damage                                                         |                                                |
 | <Skill name="supplycrate"/>                         | 400 damage                                                         |                                                      |
 | <Skill name="throwmine" profession="engineer"/>     | 200 damage                                                         |
 | <Skill id="76993" profession="engineer"/> | 150 damage |
