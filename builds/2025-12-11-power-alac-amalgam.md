@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-12T23:45:00.226Z "
+date: "2025-12-13T00:37:48.875Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -20,10 +20,14 @@ The build benefits from slaying potions such as <Item name="Powerful Potion of s
 <CharacterWithAr>  
 <Character title="Alac Amalgam" gear='{"attributes":{"profession":"Engineer","specialization":"Scrapper","data":{"Health":21232,"Armor":2343,"Power":3608,"Precision":1924,"Toughness":1225,"Vitality":1608,"Ferocity":1631,"Condition Damage":750,"Expertise":0,"Concentration":579,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.386,"Critical Chance":1.04,"Critical Damage":2.5873333333333335,"Power Coefficient":3397,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":7.98,"Poison Coefficient":3.3,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":28849.267713533845,"NonCrit Effective Power":11150.193653774999,"Power DPS":37736.21964685193,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":10.6134,"Bleeding DPS":1022.2030875,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":3.3,"Poison DPS":372.384375,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":39270.55710935193,"Effective Health":98998161.19402987,"Survivability":50329.517638042635,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Dragon","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":104800},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":30337,"utility3Id":5812,"eliteId":"76993"},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[1917,1860,2052]],"lines":[38,6,43]}}'>
 
+For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is worth adjusting your build to make use of <Item id="24868"/>. On certain bosses, other sigils like <Item id="36053"/> (Dark AI), <Item id="24658"/> (Siax and Ensolyss), <Item id="	24664"/> (Eparch), or  <Item id="24651"/> and <Item id="24575"/> (Kinfall) can be used as further damage increase instead of - or sometimes on top of - <Item id="24868"/>. Check the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for the best consumables and sigils in each fractal or ask on discord if you are unsure. 
+
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
 </Character>
 <Character title="DPS Amalgam" gear='{"attributes":{"profession":"Engineer","specialization":"Scrapper","data":{"Health":23342,"Armor":2399,"Power":4238,"Precision":1852,"Toughness":1225,"Vitality":1742,"Ferocity":1759,"Condition Damage":750,"Expertise":0,"Concentration":225,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Condition Duration Uncapped":0,"Boon Duration":0.15,"Critical Chance":1.0057142857142858,"Critical Damage":2.6726666666666667,"Power Coefficient":3603,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":7.619999999999999,"Poison Coefficient":4.05,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":35449.82834185339,"NonCrit Effective Power":13263.841983731623,"Power DPS":49182.02984817011,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage Tick":96.3125,"Bleeding Stacks":10.134599999999999,"Bleeding DPS":976.0886624999999,"Burning Damage Tick":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage Tick":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage Tick":112.84375,"Poison Stacks":4.05,"Poison DPS":457.0171875,"Torment Damage Tick":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":50754.88569817011,"Effective Health":111437727.3631841,"Survivability":56653.64888824814,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":74978,"helmRune":"Dragonhunter","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":74978,"shouldersRune":"Dragonhunter","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":74978,"coatRune":"Dragonhunter","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":74978,"glovesRune":"Dragonhunter","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":74978,"leggingsRune":"Dragonhunter","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":74978,"bootsRune":"Dragonhunter","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Dragon","ring1Affix":"Dragon","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Dragon","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":104800},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":6161,"utility3Id":5812,"eliteId":76993},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"reinforced-armor","type":"Text"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[1917,1860,1849]],"lines":[38,6,43]}}'>
+
+For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is worth adjusting your build to make use of <Item id="24868"/>. On certain bosses, other sigils like <Item id="36053"/> (Dark AI), <Item id="24658"/> (Siax and Ensolyss), <Item id="	24664"/> (Eparch), or  <Item id="24651"/> and <Item id="24575"/> (Kinfall) can be used as further damage increase instead of - or sometimes on top of - <Item id="24868"/>. Check the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for the best consumables and sigils in each fractal or ask on discord if you are unsure. 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
 
@@ -54,10 +58,9 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="thunderclap" profession="engineer"/>   | 100 damage                                                         |
 | <Skill name="Static Shock"/>                      | 200 damage                                                         |
 | <Skill name="sparecapacitor"/>                      | 200 damage                                                         |
-| <Skill name="supplycrate"/>                         | 400 damage                                                         |
-| <Skill name="blastgyro"/>                           | 300 damage                                                         |
+| <Skill name="supplycrate"/>                         | 400 damage                                                         |                                                      |
 | <Skill name="throwmine" profession="engineer"/>     | 200 damage                                                         |
-| <Skill name="Rocket Charge" profession="engineer"/> | 100 damage <br/> (Leap Finisher in the Lightning Field from <Skill name="Function Gyro"/> or <Skill name="sparecapacitor"/>) |
+| <Skill id="76993" profession="engineer"/> | 150 damage |
 
 </GridItem>
 <GridItem sm="5">
@@ -68,7 +71,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 
 <Item id="43360"/> can be used on fights with adds or in T4.
 
-<Item name="Relic of Fireworks"/> or <Item id="103574"/> can be used. 
+<Item name="Relic of Fireworks"/> or <Item id="103574"/> can be used if <Item id="104800"/> is not unlocked yet. 
 
 ### Additional Skills
  
@@ -82,20 +85,31 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill name="AED" size="big" disableText/>        | Your best in slot heal skill providing you can maintain <Boon name="Quickness"/> without needing an extra blast. Brings CC and a <Item name="Relic of Fireworks"/> proc with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
+| <Skill id="77209" size="big" disableText/>     | Burst skill option that can also function as precast.      
+| <Skill name="AED" size="big" disableText/>        | Your best in slot heal skill. Brings CC and a <Item name="Relic of Fireworks"/> proc with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
 | <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill in scenarios with high damage pressure. Grants access to a blast finisher with <Skill name="Infusion Bomb"/>, and condi cleanse with <Skill name="Cleansing Field"/>. |
-| <Skill name="Medic Gyro" size="big" disableText/>        | Useful for applying <Effect name="Superspeed"/> when running around in T4 fractals. |
-| <Skill name="Sneak Gyro" size="big" disableText/>       | Used to provide <Effect name="Stealth"/>, especially useful in T4s for skipping large groups of mobs.                                                                                                                             |
-| <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
-| <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put conditions on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
-| <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                                                                                          |
-| <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage.                                                                                                                                                                         |
-| <Skill name="Bulwark Gyro" size="big" disableText/>     | Used to precast <Skill name="Defense Field"/> to profit from <Trait name="Object in Motion"/>                                                                                                                                         |
+| <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                     |
 | <Skill name="Rocket Boots" size="big" disableText/>     | Used for skips in some T4 fractals.                                                                                                                                                                                                   |
 | <Skill name="Shift Signet" size="big" disableText/>     | <Specialization name="Mechanist"/> skill used as a Shadowstep for some T4 skips.                                                                                                                                                      |
+| <Skill id="77018" size="big" disableText/>     | Stunbreak that can be used for skips.                                                                                                                               |
 
 </GridItem>
 </Grid>
+
+<Divider text="Class Concept"/> 
+Ritualists use skills to generate life force which allows them to enter  <Skill id="77238"/> and summon spirits, namely <Skill id="76864"/>, <Skill id="76741"/> and <Skill id="76684"/>. One can then use <Skill id="76607"/> for additional spirit attacks. The auto attack in shroud, <Skill id="77061"/>, scales with the number of spirits present. <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> are instant cast skills that can be used around the summoned spirits. 
+
+<Boon name="Quickness"/> is provided by summoning spirits due to <Trait id="2405" />. 
+
+#### Spirit Attacks
+<Skill id="76864"/>: Anguish fires a barrage of projectiles that deal increased damage against crowd-controlled enemies and for each condition on those enemies.
+
+<Skill id="76741"/>: Wanderlust knocks down enemies and creates a lingering area that deals damage and inflicts conditions. 
+
+<Skill id="76684"/>: Preservation will unleash a burst of energy, healing and removing conditions from nearby allies. 
+
+Due to <Trait id="2333"/>, spirits remain alive outside of shroud, continuing their attacks. 
+
 
 <Divider text="Gameplay"/>
 
