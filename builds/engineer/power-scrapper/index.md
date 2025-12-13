@@ -22,12 +22,12 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-05-02T10:41:58.433Z "
+date: "2025-12-13T00:47:56.477Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
 It offers:
-
+ 
 - High initial burst and strong sustained damage
 - A large amount of crowd control
 - Group support with high <Condition name="Vulnerability"/> uptime, around 13 stacks of <Boon name="Might"/> and some <Boon name="Protection"/>.
@@ -63,7 +63,6 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                              |                                                                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| <Trait name="Pinpoint Distribution" size="big" disableText/> | Taken to provide extra <Boon name="Might"/> to the party if no one else can.                                   |
 | <Trait name="Aim Assisted Rocket" size="big" disableText/>   | Taken over <Trait name="Explosive Temper"/> on long fights without phases, such as Dark Ai. Is also a source of an extra blast finisher to maintain <Boon name="Quickness"/> |
 | <Trait name="Applied Force" size="big" disableText/>         | Taken if you are DPS and don't need to provide <Boon name="Quickness"/>.                   |
 | <Trait name="Mass Momentum" size="big" disableText/>         | Situationally taken to provide <Boon name="Stability"/>. In fast groups it is played as a DPS increase to increase uptime on <Trait name="Object in Motion"/>. |
