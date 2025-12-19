@@ -22,12 +22,12 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-12-13T00:48:22.570Z "
+date: "2025-12-19T13:16:04.910Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
 It offers:
- 
+  
 - High initial burst and strong sustained damage
 - A large amount of crowd control
 - Group support with high <Condition name="Vulnerability"/> uptime, around 13 stacks of <Boon name="Might"/> and some <Boon name="Protection"/>.
@@ -81,6 +81,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </GridItem>
 <GridItem sm="5">
+
+### Relic Variations
+<Item id="104800"/> can be used instead of <Item id="100947"/>. \
+Used properly, it can be a damage increase at the cost of flexibility.
+
 ### Additional Skills
 
 |                                           |                                                                                                                                                                                                                   |
