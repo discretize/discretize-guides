@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-12-19T22:35:05.208Z "
+date: "2025-12-19T22:36:30.047Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -37,7 +37,7 @@ cmGuide: ""
 <Warning> 
 <Specialization text="Condi Specter" name="Specter"/> is a very strong build in long-phased fights like Kinfall, Silent Surf and Sunqua Peak, especially as a <Boon name="Alacrity"/> provider. Outside of these fractals it falls massively behind other builds and is not recommended to be played. If you are gearing <Specialization text="Condi Alacrity Specter" name="Specter"/>, we recommend gearing <BuildLink build="Power Renegade" specialization="Renegade"/> to play on the other CM encounters and T4s. With the introduction of Visions of Eternity, Antiquary is also a great thief specialization, which relies on <Trait id="2393"/> to provide alacrity at a shorter (240) radius. If you and your group know what they are doing, antiquary can also be a great pick, but spectre is the all-time classic.
 </Warning>
- 
+  
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great CC, decent party support and a strong precast. 
 
 The value of this build comes from the pure damage that it will bring and the massive amount of CC offered by <Skill name="basiliskvenom"/>. Venom Skills can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target, this is required for this build to perform well. 
@@ -121,7 +121,7 @@ with <Trait id="2289"/>, each shroud skill gains a unique benefit. <Skill name="
 
 |                                                       |                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="56898" size="big" disableText/>            | An higher damage option to <Skill name="Skale Venom"/> providing the boss doesnt walk out of the trap.                                             |
+| <Skill id="56898" size="big" disableText/>            | A higher damage option compared to <Skill name="Skale Venom"/> provided that the boss does not walk out of the trap.                                             |
 | <Skill id="13093" size="big" disableText/>            | Precast on allies at the Mistlock for extra damage.                                             |
 | <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
 | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
