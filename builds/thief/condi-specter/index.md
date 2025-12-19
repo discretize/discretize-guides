@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-12-19T22:36:30.047Z "
+date: "2025-12-19T22:39:09.393Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -35,7 +35,9 @@ conditions:
 cmGuide: ""
 ---
 <Warning> 
-<Specialization text="Condi Specter" name="Specter"/> is a very strong build in long-phased fights like Kinfall, Silent Surf and Sunqua Peak, especially as a <Boon name="Alacrity"/> provider. Outside of these fractals it falls massively behind other builds and is not recommended to be played. If you are gearing <Specialization text="Condi Alacrity Specter" name="Specter"/>, we recommend gearing <BuildLink build="Power Renegade" specialization="Renegade"/> to play on the other CM encounters and T4s. With the introduction of Visions of Eternity, Antiquary is also a great thief specialization, which relies on <Trait id="2393"/> to provide alacrity at a shorter (240) radius. If you and your group know what they are doing, antiquary can also be a great pick, but spectre is the all-time classic.
+<Specialization text="Condi Specter" name="Specter"/> is a very strong build in long-phased fights like Kinfall, Silent Surf and Sunqua Peak, especially as a <Boon name="Alacrity"/> provider. Outside of these fractals it falls massively behind other builds and is not recommended to be played. If you are gearing <Specialization text="Condi Alacrity Specter" name="Specter"/>, we recommend gearing <BuildLink build="Power Renegade" specialization="Renegade"/> to play on the other CM encounters and T4s. 
+
+With the introduction of Visions of Eternity, antiquary is also a great thief specialization, which relies on <Trait id="2393"/> to provide alacrity at a shorter (240) radius. If you and your group know what they are doing, antiquary can also be a great pick, but spectre is the all-time classic. If you are a thief enjoyer and want to play a healer, ask on discord about cele heal spectre. 
 </Warning>
   
 The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great CC, decent party support and a strong precast. 
