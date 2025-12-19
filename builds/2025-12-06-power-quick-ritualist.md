@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-19T13:16:51.641Z "
+date: "2025-12-19T13:21:47.956Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -236,8 +236,8 @@ What is actually optimal depends on the phase time and boss. Try to get as many 
 </Warning>
 <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> can be used anytime. 
 
-### Video
-Your awesome ritualist pov could be placed here if you tell us on discord. 
+### Example Video
+<Video caption="by Ryan." youtube="Lz1pfgN0MPY"/>   v=Lz1pfgN0MPY
 </Card>
 
 
