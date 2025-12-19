@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-12-19T23:07:22.970Z "
+date: "2025-12-19T23:09:02.265Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -117,7 +117,9 @@ An off-hand pistol with <Item id="24639"/> to use <Skill name="Headshot"/> if yo
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill name="Enter Shadow Shroud" size="big" disableText/> | <Skill name="Haunt Shot" size="big" disableText/><Skill name="Grasping Shadows" size="big" disableText/><Skill name="Dawn's Response" size="big" disableText/><Skill name="Eternal Night" size="big" disableText/><Skill name="Mind Shock" size="big" disableText/>     |
 
-with <Trait id="2289"/>, each shroud skill gains a unique benefit. <Skill name="Grasping Shadows"/> is the alacrity source. <Skill name="Grasping Shadows"/> and <Skill name="Eternal Night"/> are the main damage skills. <Skill name="Dawn's Response"/> is good cc due to <Condition name="Fear"/> and provides mobility. <Skill name="Mind Shock"/> can be used to buff your <Specialization name="Scrapper"/> allies due to <Trait id="1860"/> and also to provice cc.  Careful, <Skill name="Enter Shadow Shroud"/> and <Skill name="Exit Shadow Shroud"/> can interrupt skills.
+with <Trait id="2289"/>, each shroud skill gains a unique benefit. 
+
+<Skill name="Grasping Shadows"/> is the alacrity source. <Skill name="Grasping Shadows"/> and <Skill name="Eternal Night"/> are the main damage skills. <Skill name="Dawn's Response"/> is good cc due to <Condition name="Fear"/> and provides mobility. <Skill name="Mind Shock"/> can be used to buff your <Specialization name="Scrapper"/> allies due to <Trait id="1860"/> and also to provice cc.  Careful, <Skill name="Enter Shadow Shroud"/> and <Skill name="Exit Shadow Shroud"/> can interrupt skills.
 
 ### Situational Skills
 
