@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-12-19T22:39:09.393Z "
+date: "2025-12-19T23:07:22.970Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -193,6 +193,7 @@ All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill n
 - On Sunqua Peak, make sure to precast venoms on your <Skill id="13082"/> minions and if possible any other minions you or your allies can summon up to the Venom target cap, as every boon and special ability effect currently on you will be stripped upon starting the encounter. You should also do this on Silent Surf, so you can then precast a second set of venoms on your allies as the fight starts.
 - Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts in _Fire Fields_ on the _Mistlock Singularity_ or before T4 bosses.
 
+Using a shortbow with <Item id="24865"/> as well as <Item id="24609"/> and a chest tonic that puts your character into combat can be used to precast <Trait id="1157"/> by using <Skill name="Infiltrator's Arrow"/> twice in quick succession.
 </Card>
 
 ### Example Alac Spectre Kinfall Video
