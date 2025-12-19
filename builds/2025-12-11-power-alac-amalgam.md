@@ -5,12 +5,12 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-13T10:50:36.430Z "
+date: "2025-12-19T13:55:43.765Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
 
-- a
+- a 
 - b
 
 The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
@@ -47,8 +47,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 |                                                              |                                                                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 | <Trait id="2387" size="big" disableText/> | Taken to provide alacrity.                                  |
-| <Trait id="2406" size="big" disableText/> | Taken when playing pure dps.                                 |
-
+| <Trait id="2406" size="big" disableText/> | Standard DPS trait for uninterrupted fights.                    
+| <Trait id="2334" size="big" disableText/> | Can perform better than  <Trait id="2406" size="small"/> in phased fights.                                 |
 
 ### Defiance Bar Damage
 
