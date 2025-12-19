@@ -22,12 +22,12 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-12-19T13:16:04.910Z "
+date: "2025-12-19T23:21:47.964Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
 It offers:
-  
+   
 - High initial burst and strong sustained damage
 - A large amount of crowd control
 - Group support with high <Condition name="Vulnerability"/> uptime, around 13 stacks of <Boon name="Might"/> and some <Boon name="Protection"/>.
