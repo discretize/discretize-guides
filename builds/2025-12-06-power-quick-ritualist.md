@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-19T13:21:47.956Z "
+date: "2025-12-19T13:48:07.870Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -237,7 +237,7 @@ What is actually optimal depends on the phase time and boss. Try to get as many 
 <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> can be used anytime. 
 
 ### Example Video
-<Video caption="by Ryan." youtube="Lz1pfgN0MPY"/>   v=Lz1pfgN0MPY
+<Video caption="by Ryan." youtube="Lz1pfgN0MPY"/> 
 </Card>
 
 
