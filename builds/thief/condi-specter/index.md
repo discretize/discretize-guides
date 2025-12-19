@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-12-19T23:09:02.265Z "
+date: "2025-12-19T23:11:38.980Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -88,7 +88,7 @@ Depending on the group and composition you may need to replace the Geomancy Dagg
 
 This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute name="Boon Duration" /> required is **34%**, but might make it hard to maintain alacrity uptime depending on how long you spend in <Skill name="Enter Shadow Shroud"/>, which is why the general build suggests **40% uptime** You might need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/?s=TVPLpTL3v1) with your <Attribute name="Agony Resistance" /> and desired <Attribute name="Boon Duration" />.
 
-<Boon name="Alacrity" /> is applied in a 360 radius and to your _Tethered Ally_ via your shroud skill <Skill name="Grasping Shadows"/>. <Skill name="Mind Shock"/> applies aegis with <Trait id="2289"/>. <Skill name="Dawn's Response"/> provides <Boon name="Protection"/> on alacrity spectre. <Skill name="Eternal Night"/> heals.
+<Boon name="Alacrity" /> is applied in a 360 radius and to your _Tethered Ally_ via your shroud skill <Skill name="Grasping Shadows"/>. <Skill name="Mind Shock"/> applies aegis with <Trait id="2289"/>. <Skill name="Dawn's Response"/> provides <Boon name="Protection"/> on alacrity spectre. 
 
 <Traits traits1Id="71" traits1="Specter" traits1SelectedIds="2284,2290,2289" unembossed/>
 
