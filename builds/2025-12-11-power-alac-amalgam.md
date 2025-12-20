@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T23:09:29.071Z "
+date: "2025-12-20T23:14:43.275Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -246,14 +246,14 @@ This precast is only an option in organized groups. To be effective, you need to
 <Card title="Prestacking Boons">
 
 <Warning>
-Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
+Swapping equipment templates or skill templates with the same traits will not apply a status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
 </Warning>
 <Warning>
 You want to precast <Boon name="Alacrity"/> and <Boon name="Might"/> for your group. 
 </Warning>
-0. Swap to a 100% bd precast tempalte with shortbow
+0. Swap to a 100% bd precast template with shortbow
 1. Create a firefield with <Skill name="Essence of Liquid Wrath"/> (Shortbow 4)
-2. Blast it for <Boon name="Might"/> with <Skill name="Essence of Animated Sand"/> and <Skill name="Essence of Borrowed Time"/>.
+2. Blast the firefield for <Boon name="Might"/> with <Skill name="Essence of Animated Sand"/> and <Skill name="Essence of Borrowed Time"/>.
 
 If you have a _Mistlock Singularity_ present you can:
 
