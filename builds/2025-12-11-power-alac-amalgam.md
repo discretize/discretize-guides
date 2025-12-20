@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T02:31:32.197Z "
+date: "2025-12-20T02:33:48.995Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -176,6 +176,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 ### Unique Effects
 - <Skill id="76806"/> breaks barrier.
 - <Skill id="76815"/> is unblockable.
+- <Skill id="77103"/> is pierces.
 
 </GridItem>
 </Grid>
