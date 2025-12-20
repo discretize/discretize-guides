@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-19T13:55:43.765Z "
+date: "2025-12-20T02:31:32.197Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -49,6 +49,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Trait id="2387" size="big" disableText/> | Taken to provide alacrity.                                  |
 | <Trait id="2406" size="big" disableText/> | Standard DPS trait for uninterrupted fights.                    
 | <Trait id="2334" size="big" disableText/> | Can perform better than  <Trait id="2406" size="small"/> in phased fights.                                 |
+| <Trait id="2420" size="big" disableText/> | Reduces the cooldown of <Skill id="76642"/> which might be beneficial.                                 |
 
 ### Defiance Bar Damage
 
@@ -75,16 +76,20 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
  
 |                                           |                                                                                                                                                                                                                   |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Morphs                                 | <Skill id="76613" size="big" disableText/><Skill id="76806" size="big" disableText/><Skill id="76927" size="big" disableText/><Skill id="77163" size="big" disableText/><Skill id="76642" size="big" disableText/> |
+| Morphs                                 | <Skill name="Static Shock" size="big" disableText/><Skill id="76806" size="big" disableText/><Skill id="76927" size="big" disableText/><Skill id="77163" size="big" disableText/><Skill id="76642" size="big" disableText/> |
 | <Skill name="Grenade Kit" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/>     |
 | <Skill id="5812" size="big" disableText/> | <Skill id="5842" size="big" disableText/><Skill id="5823" size="big" disableText/><Skill id="5822" size="big" disableText/><Skill id="76530" size="big" disableText/><Skill id="5813" size="big" disableText/>     |
 
+Replace <Skill name="Grenade Kit"/> if you need other utility skills.
 ### Situational Skills
 
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="77209" size="big" disableText/>     | Burst skill option that can also function as precast.      
+| <Skill id="77103" size="big" disableText/>     | Good damage morph that pierces and grants <Effect name="Superspeed"/> when evolved.  
+| <Skill id="76815" size="big" disableText/>     | Unblockable morph that provides additional <Condition name="Vulnerability"/> and CC.   
 | <Skill name="AED" size="big" disableText/>        | Your best in slot heal skill. Brings CC and a <Item name="Relic of Fireworks"/> proc with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
+| <Skill id="76738" size="big" disableText/>        | Gives access to <Skill id="76613"/>, which provides a reflect. |
 | <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill in scenarios with high damage pressure. Grants access to a blast finisher with <Skill name="Infusion Bomb"/>, and condi cleanse with <Skill name="Cleansing Field"/>. |
 | <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                     |
 | <Skill name="Rocket Boots" size="big" disableText/>     | Used for skips in some T4 fractals.                                                                                                                                                                                                   |
@@ -125,57 +130,52 @@ When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon 
 <GridItem>
 
 ### High Priority Damage Skills
+Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQATzBNRc--BGPNbfGwz-ZJULtEMFr8kZ_l0g2LLzIMI7UkOytV02fs-0BzJY9trFA0roz4O6BtcyKs/pubhtml#gid=1325540984).
+
 | Skill | Efficiency |
 | --- | ---: |
+| <Skill id="76642"/> (Class Mechanic)  | Buff |
+| <Skill id="77163"/> (Morph)   | instant |
+| <Skill id="76993"/> (Elite) with 12 pulses | 543% |
 | <Skill id="30713"/> (Hammer 5) | 359% |
-| <Skill name="Shredder Gyro"/> (Utility Skill) | 292% |
-| <Skill name="Blast Gyro"/> (Utility Skill) | 276% |
-| <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt Skill) | 266% |
+| <Skill id="76993"/> (Elite) with 6 pulses | 321% |
 | <Skill name="Throw Mine"/> (Utility Skill) | 263% |
-| <Skill name="Electro Whirl"/> (Hammer 2) | 222% |
-| <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt Skill) | 211% |
-| <Skill name="Big Ol' Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt Skill) | 208% |
-| <Skill name="Function Gyro"/> (Toolbelt Skill) | 179% |
-| <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill) | 117% |
-| <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt Skill) | 101% |
+| <Skill name="Big Ol' Bomb"/> (<Skill name="Bomb Kit"/> Skill 5) | 252% |
+| <Skill id="76806"/> (Morph) with <Trait id="2406" size="small" disableText/>| 241% |
+| <Skill id="76927"/> (Morph) with <Trait id="2406" size="small" disableText/>  | 212% |
+| <Skill id="5822"/> (<Skill name="Bomb Kit"/> Skill 3) | 185% |
+| <Skill id="76806"/> (Morph) without <Trait id="2406" size="small" disableText/>| 181% |
+| <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> Skill 4) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> Skill 5) | 147% |
+| <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> Skill 2) | 123% |
+| <Skill id="76530"/> (<Skill name="Bomb Kit"/> Skill 4) | 111% |
+| <Skill name="Equalizing Blow"/> (Hammer 1 Chain) | 100% |
 | <Skill name="Rocket Charge"/> (Hammer 3) | 94% |
-| <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4, Utility Skill) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5, Utility Skill) | 93% |
-| <Skill name="Poison Gas Shell"/> (<Skill name="Elite Mortar Kit"/>, Elite SKill) <br/> <Skill name="Endothermic Shell"/> (<Skill name="Elite Mortar Kit"/>, Elite SKill) <br/> <Skill name="Flash Shell"/> (<Skill name="Elite Mortar Kit"/>, Elite SKill) | 75% |
+| <Skill id="76927"/> (Morph) without <Trait id="2406" size="small" disableText/>  | 160% |
+
 
 </GridItem>
 <GridItem>
 
 #### Combo Fields
-- <Skill name="Function Gyro"/> (Toolbelt)
-- <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt Skill)
-- <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt Skill)
-- <Skill name="Regenerating Mist"/> (<Skill name="Healing Turret"/> Toolbelt Skill)
 - <Skill id="30713"/> (Hammer 5)
-- <Skill name="Medic Gyro"/> (Heal Skill)
-- <Skill name="Blast Gyro"/> (Utility Skill)
-- <Skill name="Sneak Gyro"/> (Elite Skill)
-- <Skill name="Poison Gas Shell"/> (<Skill name="Elite Mortar Kit"/>) 
-- <Skill name="Endothermic Shell"/> (<Skill name="Elite Mortar Kit"/>)
-- <Skill name="Flash Shell"/> (<Skill name="Elite Mortar Kit"/>)
 
 #### Blast, Leap, and Whirl Finishers
 - <Skill name="Detonate Healing Turret"/> (Heal Skill)
 - <Skill name="Infusion Bomb"/> (<Skill name="Med Kit"/> 5, Heal Skill)
-- <Skill name="Blast Gyro"/> (Utility Skill)
 - <Skill name="Throw Mine"/> (Utility Skill)
 - <Skill name="Rocket Charge"/> (Hammer 3)
 - <Skill name="Essence of Animated Sand"/> (Shortbow 2)
 - <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
 - <Trait name="Aim Assisted Rocket"/> (Trait)
 - <Skill name="Electro Whirl"/> (Hammer 2)
-- <Skill name="Shredder Gyro"/> (Utility Skill)
 
 #### Relic of Fireworks Skills
 - <Skill id="30713"/> (Hammer 5)
-- <Skill name="Function Gyro"/> (Toolbelt Skill)
-- <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt Skill)
-- <Skill name="Spare Capacitor"/> (<Skill name="Shredder Gyro"/> Toolbelt Skill)
 - <Skill name="Static Shock"/> (<Skill name="AED"/> Toolbelt Skill)
+
+### Unique Effects
+- <Skill id="76806"/> breaks barrier.
+- <Skill id="76815"/> is unblockable.
 
 </GridItem>
 </Grid>
