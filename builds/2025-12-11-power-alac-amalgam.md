@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T22:01:29.917Z "
+date: "2025-12-20T23:01:23.048Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -188,6 +188,13 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 - <Skill id="76806"/> breaks barrier and improves might.
 - <Skill id="76815"/> is unblockable.
 - <Skill id="77103"/> pierces.
+
+#### Shortbow Precast Skills
+ 
+|                                           |                                                                                                                                                                                                                   |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Weapons weapon1MainId="30686"  weapon1MainType="ShortBow" weapon1MainAffix="Berserker" weapon1MainSigil1Id="24865" weapon1MainSigil2Id="72339" unembossed />                               | <Skill name="Static Shock" size="big" disableText/><Skill name="Essence of Animated Sand" size="big" disableText/><Skill name="Essence of Living Shadows" size="big" disableText/><Skill name="Essence of Liquid Wrath" size="big" disableText/><Skill name="Essence of Borrowed time" size="big" disableText/> |
+
 
 
 </GridItem>
