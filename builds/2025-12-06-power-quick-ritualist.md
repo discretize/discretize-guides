@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-20T19:44:08.861Z "
+date: "2025-12-20T19:50:05.479Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -150,8 +150,8 @@ Due to <Trait id="2333"/>, spirits remain alive outside of shroud, continuing th
 
 <Warning>
 
-Golem rotations out of the raid builds are generally suboptimal in fractals due to <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
-The newer fractals with long phases like Kinfall, Sunqua Peak and Silent Surf play much more similar to raids though such that essentially raid benchmark rotations can be used there. 
+Golem rotations out of the raid builds are generally suboptimal in fractals due to <Control name="Stun" />,  <Effect name="Exposed"/> and phases being much shorter compared to raids. The raid rotations are optimized for sustained DPS while in fractals a player needs the ability to adapt a rotation to the amount of time a group needs to finish a phase.
+The newer fractals with long phases like Kinfall, Sunqua Peak and Silent Surf play much more similar to raids though such that essentially raid benchmark rotations can be used there with little tweaking. 
 </Warning>
 
 
