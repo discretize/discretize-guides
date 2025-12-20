@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T02:33:48.995Z "
+date: "2025-12-20T03:05:31.554Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -173,10 +173,18 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 - <Skill id="30713"/> (Hammer 5)
 - <Skill name="Static Shock"/> (<Skill name="AED"/> Toolbelt Skill)
 
-### Unique Effects
-- <Skill id="76806"/> breaks barrier.
+#### Vulnerability Skills
+- <Skill id="76815"/> gives 8 Stacks
+- <Skill name="Shock Shield"/> gives 10 Stacks
+- <Trait name="Steel-Packed Powder"/>
+#### Reflect Skills
+- <Skill name="Electro Whirl"/> (Hammer 2)
+- <Skill id="76613"/> when playing <Skill id="76738"/>
+
+#### Unique Effects
+- <Skill id="76806"/> breaks barrier and improves might.
 - <Skill id="76815"/> is unblockable.
-- <Skill id="77103"/> is pierces.
+- <Skill id="77103"/> pierces.
 
 </GridItem>
 </Grid>
