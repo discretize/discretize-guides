@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T03:09:23.581Z "
+date: "2025-12-20T03:16:35.807Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -145,12 +145,13 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 | <Skill id="76927"/> (Morph) with <Trait id="2406" size="small" disableText/>  | 212% |
 | <Skill id="5822"/> (<Skill name="Bomb Kit"/> Skill 3) | 185% |
 | <Skill id="76806"/> (Morph) without <Trait id="2406" size="small" disableText/>| 181% |
+| <Skill id="76927"/> (Morph) without <Trait id="2406" size="small" disableText/>  | 160% |
 | <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> Skill 4) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> Skill 5) | 147% |
 | <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> Skill 2) | 123% |
 | <Skill id="76530"/> (<Skill name="Bomb Kit"/> Skill 4) | 111% |
 | <Skill name="Equalizing Blow"/> (Hammer 1 Chain) | 100% |
 | <Skill name="Rocket Charge"/> (Hammer 3) | 94% |
-| <Skill id="76927"/> (Morph) without <Trait id="2406" size="small" disableText/>  | 160% |
+
 
 
 </GridItem>
