@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-20T20:01:13.241Z "
+date: "2025-12-20T23:14:51.047Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -179,7 +179,7 @@ With trait swap items, you can use <Trait id="2376"/> to precast.
 Potentially, precast <Item id="103872"/> by casting <Skill name="Summon Flesh Golem"/> before the start of the fight. Then swap in time to your fight template that uses <Item id="103574"/>. 
 
 <Warning>
-Swapping equipment templates or skill templates with the same traits will not apply status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
+Swapping equipment templates or skill templates with the same traits will not apply a status reset. Due to this, using a precast skill template and a precast equipment template with 100% <Attribute name="Boon Duration"/> is advised.
 </Warning>
 
 
