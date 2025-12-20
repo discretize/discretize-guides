@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T03:05:31.554Z "
+date: "2025-12-20T03:09:23.581Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -172,6 +172,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 #### Relic of Fireworks Skills
 - <Skill id="30713"/> (Hammer 5)
 - <Skill name="Static Shock"/> (<Skill name="AED"/> Toolbelt Skill)
+- Morphs
 
 #### Vulnerability Skills
 - <Skill id="76815"/> gives 8 Stacks
