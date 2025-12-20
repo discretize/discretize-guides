@@ -29,7 +29,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-20T19:50:22.036Z "
+date: "2025-12-20T20:01:13.241Z "
 title: Power (Quick) Ritualist
 role: Power Damage
 conditions:
@@ -143,7 +143,7 @@ Ritualists use skills to generate life force which allows them to enter  <Skill 
 
 Due to <Trait id="2333"/>, spirits remain alive outside of shroud, continuing their attacks. 
 
-
+On spear, <Skill id="73007" /> (Spear5), <Skill id="73013"/> (Spear3), <Skill id="73107"/> (Spear 4.2) create soul shards which can be consumed by <Skill id="73068"/> (Spear 2) for extra damage.  <Skill id="73107"/> resets <Skill id="73068"/>. <Skill id="73068"/> and <Skill name="Gravedigger" /> (GS 2 have improved effects against low-hp targets.
 
 
 <Divider text="Rotation / Skill usage"/>
@@ -222,9 +222,9 @@ or
   Activate the boss during the cast.
 2. <Skill id="73013"/> (Spear3) to help with the breakbar and trigger <Item id="103574"/>. Careful not to cancel <Skill id="73007" /> by spamming.
 3. <Skill id="77238"/> Skills
-4. <Skill id="73068"/>
-5. <Skill id="73107"/> and <Skill id="73116"/>
-6. <Skill id="73068"/> again
+4. <Skill id="73068"/> (Spear 2)
+5. <Skill id="73107"/> and <Skill id="73116"/> (Spear 4.1 and 4.2)
+6. <Skill id="73068"/> again (Spear 2)
 7. <Skill id="73013"/> (Spear3) if available
 8. _Weapon Swap_
 9. <Skill name="Gravedigger" /> (GS 2), <Skill name="Nightfall" /> (GS4), <Skill name="Death Spiral" /> (GS 3) 
@@ -232,7 +232,7 @@ or
 
 
 <Warning>
-What is actually optimal depends on the phase time and boss. Try to get as many high damage skills as possible into a phase while quckly ramping vuln, stripping boons and stunning the boss. 
+What is actually optimal depends on the phase time and boss. Try to get as many high damage skills as possible into a phase while quckily ramping vuln, stripping boons and stunning the boss. 
 </Warning>
 <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> can be used anytime. 
 
