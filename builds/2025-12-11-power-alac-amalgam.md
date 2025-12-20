@@ -5,13 +5,13 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T03:16:35.807Z "
+date: "2025-12-20T22:01:29.917Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
 
 - a 
-- b
+- b 
 
 The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
 
@@ -142,6 +142,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 | <Skill name="Throw Mine"/> (Utility Skill) | 263% |
 | <Skill name="Big Ol' Bomb"/> (<Skill name="Bomb Kit"/> Skill 5) | 252% |
 | <Skill id="76806"/> (Morph) with <Trait id="2406" size="small" disableText/>| 241% |
+| <Skill name="Electroßwhirl"/> (Hammer 2) | 222% |
 | <Skill id="76927"/> (Morph) with <Trait id="2406" size="small" disableText/>  | 212% |
 | <Skill id="5822"/> (<Skill name="Bomb Kit"/> Skill 3) | 185% |
 | <Skill id="76806"/> (Morph) without <Trait id="2406" size="small" disableText/>| 181% |
@@ -187,6 +188,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 - <Skill id="76806"/> breaks barrier and improves might.
 - <Skill id="76815"/> is unblockable.
 - <Skill id="77103"/> pierces.
+
 
 </GridItem>
 </Grid>
