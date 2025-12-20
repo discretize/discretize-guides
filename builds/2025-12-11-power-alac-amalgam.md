@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-20T23:14:43.275Z "
+date: "2025-12-20T23:36:04.967Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -159,7 +159,8 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 <GridItem>
 
 #### Combo Fields
-- <Skill id="30713"/> (Hammer 5)
+- <Skill id="30713"/> (Hammer 5) for a lightning field.
+- <Skill name="Essence of Liquid Wrath"/> (Shortbow 4) for a fire field.
 
 #### Blast, Leap, and Whirl Finishers
 - <Skill name="Detonate Healing Turret"/> (Heal Skill)
@@ -203,7 +204,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 <Divider text="Rotation / Skill Usage"/>
 <Warning>
 
-Golem rotations from Raids are generally suboptimal in Fractals due to being optimized for sustained DPS. In Fractals players need to adapt their rotation to the amount of time a group needs to finish a phase or specific burst windows like <Effect name="Exposed"/>.
+Golem rotations from Raids are generally suboptimal in Fractals due to being optimized for sustained DPS. In Fractals players need to adapt their rotation to the amount of time a group needs to finish a phase or specific burst windows like <Control name="Stun"/> and <Effect name="Exposed"/>.
 </Warning>
 <Grid>
 <GridItem sm="6">
@@ -251,26 +252,16 @@ Swapping equipment templates or skill templates with the same traits will not ap
 <Warning>
 You want to precast <Boon name="Alacrity"/> and <Boon name="Might"/> for your group. 
 </Warning>
-0. Swap to a 100% bd precast template with shortbow
+0. Swap to a 100% boon duration precast template with shortbow
 1. Create a firefield with <Skill name="Essence of Liquid Wrath"/> (Shortbow 4)
 2. Blast the firefield for <Boon name="Might"/> with <Skill name="Essence of Animated Sand"/> and <Skill name="Essence of Borrowed Time"/>.
+3. <Skill id="76642"/> and  all Morph Skills for <Boon name="Alacrity"/> with <Trait id="2387"/>. 
+4. Refresh Skills with _Mistlock Singularity_
+5. Repeat
+6. Swap to your fight template with hammer.
 
-If you have a _Mistlock Singularity_ present you can:
 
-1.  <Skill name="Blast Gyro"/> (Utility), for a fire field for <Boon name="Might"/> and <Boon name="Quickness"/>
-2.  <Skill name="Function Gyro"/> (Toolbelt Skill)
-3.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
-4.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
-5.  _Mistlock Singularity_
-6.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
-7.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
-8.  _Swap to precast or in fight templates_
  
-If you do not have _Mistlock Singularity_ present:
-
-1.  <Skill name="Essence of Liquid Wrath"/> if no fire field is present
-2.  <Skill name="Essence of Animated Sand"/> (Shortbow 2)
-3.  <Skill name="Essence of Borrowed Time"/> (Shortbow 5)
 
 </Card>
 </GridItem>
