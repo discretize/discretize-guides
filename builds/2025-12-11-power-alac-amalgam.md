@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-21T00:05:03.401Z "
+date: "2025-12-21T01:21:05.908Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -189,6 +189,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 - <Skill id="76806"/> breaks barrier and improves might.
 - <Skill id="76815"/> is unblockable.
 - <Skill id="77103"/> pierces.
+- <Skill id="77209"/> for a 7 second damage buff. 
 
 #### Shortbow Precast Skills
  
@@ -211,7 +212,9 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 
 ### Burst Rotation
 
-1.  <Skill name="Blast Gyro"/> (Utility)
+<Skill id="77209" />  
+
+1.  
 2.  <Skill id="30713"/> (Hammer 5)
 3.  <Skill name="Throw Mine"/> (Utility)
 4.  <Skill name="Electro Whirl"/> (Hammer 2)
@@ -230,16 +233,7 @@ This precast requires two build templates. A build template with precast skills,
 2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
 3.   _Swap to in-fight template_
 
-#### Advanced Precast
-This precast is only an option in organized groups. To be effective, you need to be able to cast these skills and pull the boss quickly to benefit, having someone count down in voice when triggering the boss is a good idea to make this consistent. It requires two equipment templates and two build templates! You will need an equipment template with <Item name="Relic of the Brawler"/> for your two Relic precasts, and finally your in fight template, as well as a build template with precast skills, and one with your in fight skills. A simpler version if this precast is to skip <Item name="Relic of the Brawler"/> and just precast <Item id="103872"/> (if you don't have this unlocked <Item name="Relic of Cerus"/> is a core relic alternative).
 
-1.  <Skill name="Blast Gyro"/> (Utility)
-2.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
-3.  <Skill name="Reconstruction Field"/> (<Skill name="Medic Gyro"/> Toolbelt) to proc <Item name="Relic of the Brawler"/>
-4.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-5.  _Inventory swap to <Item id="103872"/>_
-6.  <Skill name="Elite Mortar Kit"/> (Elite) to proc <Item id="103872"/>
-7.  _Swap to in-fight template_
 
 </GridItem>
 
@@ -263,6 +257,13 @@ You want to precast <Boon name="Alacrity"/> and <Boon name="Might"/> for your gr
 
  
 
+</Card>
+<Card title="Relic Precasts">
+You can precast <Item id="103872"/> by using <Skill name="Elite Mortar Kit"/> or <Skill id="76993"/> before getting into combat on the way to the boss. You can also precast <Item name="Relic of the Brawler"/> by giving yourself protection, for example with <Skill name="Elixir H"/>. Don't foget to swap back to your actual fight relic template in time.
+
+<Warning>
+How many  relics and damage skills you can or want to precast depends on your group. If you are not in a static, you can ask the group to let you trigger the boss, but don't overdo it. 
+</Warning>
 </Card>
 </GridItem>
 </Grid>
