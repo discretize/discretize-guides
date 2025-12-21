@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-21T17:20:40.202Z "
+date: "2025-12-21T17:42:24.681Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -102,19 +102,14 @@ Replace <Skill name="Grenade Kit"/> if you need other utility skills.
 </Grid>
 
 <Divider text="Class Concept"/> 
-....
 
 
-<Divider text="Gameplay"/>
+<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/>, those skills also provide alacrity and special party support. For the pure dps version, different trait options exists. Ask on discord if you are unsure what to play.
 
-<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. 
 
-- <Item name="Relic of the Bloodstone"/> is gained for 6 seconds after hitting a weapon skill with 20+ seconds cooldown. See the list below.
-- <Trait name="Object in Motion"/> is active while you have <Boon name="Swiftness"/>, <Boon name="Stability"/>, and <Effect name="Superspeed"/>. For each boon you have you will get a 5% multiplicative damage modifier.
-- <Trait name="Modified Ammunition"/> Grants a 2% multiplicative damage modifier per condition on your foe. <Skill name="Grenade Kit"/> and <Skill name="Elite Mortar Kit"/> can be used to help with this, especially when precasting <Skill name="Elite Mortar Kit"/> in to a burst phase.
-- <Trait name="Explosive Temper"/> gives a stacking <Attribute name="Ferocity"/> bonus up to 10 stacks when explosions hit your foe. 
 
-Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritize above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the prioirty list below for filler skills. Additionally, make sure to try to maintain the uptime of the Traits and Relic listed above to increase your damage as much as possible.
+
+Like <Specialization name="Scrapper" text="Scrapper"/>,  <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2) are often good skills to prioritize because of their low cooldown. At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the priority list below for filler skills. Additionally, make sure to try to maintain the uptime of your traits such as <Trait name="Glass Cannon"/>, <Trait name="Explosive Temper"/> <Trait id="2356"/> to increase your damage as much as possible. Similar to <Specialization name="Scrapper" text="Scrapper"/>, <Trait name="Modified Ammunition"/> makes it a good build on fights with mixed damage dealers.
 
 
 <Grid>
@@ -206,7 +201,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <Grid>
 <GridItem sm="6">
 
-<Card title="Pre-fight">
+<Card title="Pre-Fight">
 Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs.
 
 <Trait id="2406" /> recharges your morph skills, hence if you play it, you want to go Morphs -> Evolve -> Morphs again.
