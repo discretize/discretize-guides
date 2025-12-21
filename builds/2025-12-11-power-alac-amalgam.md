@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-21T10:52:28.061Z "
+date: "2025-12-21T14:12:46.135Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -161,7 +161,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 #### Combo Fields
 - <Skill id="30713"/> (Hammer 5) for a lightning field.
 - <Skill name="Essence of Liquid Wrath"/> (Shortbow 4) for a fire field.
-- <Skill name="Fire Bomb"/> in <Skill name="Bombkit"/> for a fire field.
+- <Skill name="Fire Bomb"/> in <Skill name="Bombkit"/> for a fire field in combat.
 
 #### Blast, Leap, and Whirl Finishers
 - <Skill name="Detonate Healing Turret"/> (Heal Skill)
@@ -212,11 +212,29 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <Grid>
 <GridItem sm="6">
 
+<Card title="Pre-fight">
+Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs.
+
+</Card>
+
+<Card title="Burst Rotation">
+
+
+<Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. \
+Place <Skill name="Bombkit"/> Skills 54321 before the boss spawns. \
+Your bomb blasts will proc <Item id="104800"/>.
+>
+1.  <Skill id="76642"/> and <Skill id="76993"/>, potentially also just before the fight starts. 
+2.  <Skill id="30713"/> (Hammer 5) and <Skill name="Detonate"/> your mine. \
+    The mine will strip <Instability name="No Pain, No Gain"/>.
+4.  <Skill name="Electro Whirl"/> (Hammer 2)
+</Card>
+
 ### Burst Rotation
 
-<Skill id="77209" />  
+On a spawnable boss or with <Skill id="77209" />  
 
-1.  
+1.  <Skill id="76993"/> 
 2.  <Skill id="30713"/> (Hammer 5)
 3.  <Skill name="Throw Mine"/> (Utility)
 4.  <Skill name="Electro Whirl"/> (Hammer 2)
@@ -225,15 +243,6 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 7.  <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt)
 8.  <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5)
 9.  <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4)
-
-### Skill Precasts
-Skill precasts can be done on fights that you start out of combat. They are optional to do, however by successfully hitting precast skills, you can massively increase your burst damage at the start of the fight. When <Specialization name="Engineer"/> casts a toolbelt skill, it can be swapped out without the new skill being on cooldown. Additionally, <Skill name="Throw Mine"/> and <Skill name="Minefield"/> can both be precasted before starting a fight, similar to trap skills on <Specialization name="Soulbeast"/> or <Specialization name="Dragonhunter"/>.
-#### Basic Precast
-This precast requires two build templates. A build template with precast skills, and one with your in fight skills. Having a countdown in voice when triggering bosses, or triggering them yourself will make this easier to do.
-
-1.  <Skill name="Big Ol Bomb"/> (<Skill name="Bomb Kit"/> Toolbelt)
-2.  <Skill name="Defense Field"/> (<Skill name="Bulwark Gyro"/> Toolbelt)
-3.   _Swap to in-fight template_
 
 
 
@@ -248,16 +257,14 @@ Swapping equipment templates or skill templates with the same traits will not ap
 <Warning>
 You want to precast <Boon name="Alacrity"/> and <Boon name="Might"/> for your group. 
 </Warning>
-0. Swap to a 100% boon duration precast template with shortbow
-1. Create a fire field with <Skill name="Essence of Liquid Wrath"/> (Shortbow 4)
+0. Swap to a 100% boon duration precast template with shortbow.
+1. Create a fire field with <Skill name="Essence of Liquid Wrath"/> (Shortbow 4).
 2. Blast the firefield for <Boon name="Might"/> with <Skill name="Essence of Animated Sand"/> and <Skill name="Essence of Borrowed Time"/>.
 3. <Skill id="76642"/> and  all Morph Skills for <Boon name="Alacrity"/> with <Trait id="2387"/>. 
-4. Refresh Skills with _Mistlock Singularity_
-5. Blast, evolve and morph again.
+4. Refresh Skills with _Mistlock Singularity_.
+5. Blast <Boon name="Might"/> again.
 6. Swap to your fight template with hammer.
 
-
- 
 
 </Card>
 <Card title="Relic Precasts">
@@ -270,5 +277,7 @@ How many  relics and damage skills you can or want to precast depends on your gr
 </GridItem>
 </Grid>
 
+### Example Video (Skorvald)
+<Video caption="by Feint." youtube="CNP0TghUBIs" timestamp={140}/> 
 
 
