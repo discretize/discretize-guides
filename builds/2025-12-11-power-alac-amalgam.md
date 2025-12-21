@@ -4,8 +4,8 @@ rating: Good
 role: Power Damage
 profession: Engineer
 specialization: Amalgam
-code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-21T15:56:20.482Z "
+code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
+date: "2025-12-21T16:02:45.007Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -226,7 +226,7 @@ Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (lon
 
 
 <Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. \
-Place <Skill name="Bombkit"/> Skills 54321 before the boss spawns. \
+Place <Skill name="Bombkit"/> Skills 5423 before the boss spawns. \
 Your bomb blasts will proc <Item id="104800"/>.
 >
 1.  <Skill id="76642"/> and <Skill id="76993"/>, potentially also just before the fight starts. 
@@ -258,6 +258,7 @@ You want to precast <Boon name="Alacrity"/> and <Boon name="Might"/> for your gr
 3. <Skill id="76642"/> and  all Morph Skills for <Boon name="Alacrity"/> with <Trait id="2387"/>. 
 4. Refresh Skills with _Mistlock Singularity_.
 5. Blast <Boon name="Might"/> again.
+6. <Skill name="Essence of Borrowed Time"/> for <Effect name="Superspeed"/>.
 6. Swap to your fight template with hammer.
 
 
