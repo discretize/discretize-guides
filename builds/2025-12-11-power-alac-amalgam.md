@@ -5,12 +5,12 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-21T01:21:05.908Z "
+date: "2025-12-21T10:52:28.061Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
 
-- a 
+- a  
 - b 
 
 The build benefits from slaying potions such as <Item name="Powerful Potion of slaying scarlets armies"/> and <Item name="Impact" type="Sigil"/>.
@@ -161,6 +161,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 #### Combo Fields
 - <Skill id="30713"/> (Hammer 5) for a lightning field.
 - <Skill name="Essence of Liquid Wrath"/> (Shortbow 4) for a fire field.
+- <Skill name="Fire Bomb"/> in <Skill name="Bombkit"/> for a fire field.
 
 #### Blast, Leap, and Whirl Finishers
 - <Skill name="Detonate Healing Turret"/> (Heal Skill)
@@ -180,7 +181,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 #### Vulnerability Skills
 - <Skill id="76815"/> gives 8 Stacks
 - <Skill name="Shock Shield"/> gives 10 Stacks
-- <Trait name="Steel-Packed Powder"/>
+- <Trait name="Steel-Packed Powder"/> and <Skill name="Bombkit"/> or <Skill name="Grenadekit"/>
 #### Reflect Skills
 - <Skill name="Electro Whirl"/> (Hammer 2)
 - <Skill id="76613"/> when playing <Skill id="76738"/>
@@ -190,6 +191,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 - <Skill id="76815"/> is unblockable.
 - <Skill id="77103"/> pierces.
 - <Skill id="77209"/> for a 7 second damage buff. 
+- <Skill name="Essence of Borrowed Time"/> (Shortbow 5) for group-wide superspeed.
 
 #### Shortbow Precast Skills
  
