@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-21T16:02:45.007Z "
+date: "2025-12-21T17:20:40.202Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -40,16 +40,18 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 <GridItem sm="7">
 
 ### Traits
-<Traits traits1Id="6" traits1="Explosives" traits1SelectedIds="1882,1892,1947" traits2Id="38" traits2="Firearms" traits2SelectedIds="1914,1923,526" traits3Id="75" traits3="Amalgam" traits3SelectedIds="	2395,2383,"/>
+<Traits traits1Id="6" traits1="Explosives" traits1SelectedIds="1882,1892,1947" traits2Id="38" traits2="Firearms" traits2SelectedIds="1914,1923,526" traits3Id="75" traits3="Amalgam" traits3SelectedIds="	2395,,"/>
 
 ### Situational Traits
 
 |                                                              |                                                                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 | <Trait id="2387" size="big" disableText/> | Taken to provide alacrity.                                  |
-| <Trait id="2406" size="big" disableText/> | Standard DPS trait for uninterrupted fights.                    
-| <Trait id="2334" size="big" disableText/> | Can perform better than  <Trait id="2406" size="small"/> in phased fights.                                 |
+| <Trait id="2406" size="big" disableText/> | Standard DPS trait for uninterrupted fights.   |                 
+| <Trait id="2334" size="big" disableText/> | Performs better than  <Trait id="2406" size="small"/> in phased fights.|
 | <Trait id="2420" size="big" disableText/> | Reduces the cooldown of <Skill id="76642"/> which might be beneficial.                                 |
+| <Trait id="2383"  size="big" disableText/>| Gives a little more dps and applies poison. |
+| <Trait id="2349"  size="big" disableText/>| Gives more control over strain application. |
 
 ### Defiance Bar Damage
 
@@ -100,31 +102,20 @@ Replace <Skill name="Grenade Kit"/> if you need other utility skills.
 </Grid>
 
 <Divider text="Class Concept"/> 
-Ritualists use skills to generate life force which allows them to enter  <Skill id="77238"/> and summon spirits, namely <Skill id="76864"/>, <Skill id="76741"/> and <Skill id="76684"/>. One can then use <Skill id="76607"/> for additional spirit attacks. The auto attack in shroud, <Skill id="77061"/>, scales with the number of spirits present. <Skill id="77003"/>, <Skill id="76732"/> and <Skill id="76647"/> are instant cast skills that can be used around the summoned spirits. 
-
-<Boon name="Quickness"/> is provided by summoning spirits due to <Trait id="2405" />. 
-
-#### Spirit Attacks
-<Skill id="76864"/>: Anguish fires a barrage of projectiles that deal increased damage against crowd-controlled enemies and for each condition on those enemies.
-
-<Skill id="76741"/>: Wanderlust knocks down enemies and creates a lingering area that deals damage and inflicts conditions. 
-
-<Skill id="76684"/>: Preservation will unleash a burst of energy, healing and removing conditions from nearby allies. 
-
-Due to <Trait id="2333"/>, spirits remain alive outside of shroud, continuing their attacks. 
+....
 
 
 <Divider text="Gameplay"/>
 
-<Specialization name="Scrapper" text="Power Scrapper"/> Has a priority based rotation, that is fairly fast paced. It also tries to ensure high uptime on several modifiers to increase its damage:
-- <Item name="Relic of Fireworks"/> is gained for 6 seconds after hitting a weapon skill with 20+ seconds cooldown. See the list below.
+<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. 
+
+- <Item name="Relic of the Bloodstone"/> is gained for 6 seconds after hitting a weapon skill with 20+ seconds cooldown. See the list below.
 - <Trait name="Object in Motion"/> is active while you have <Boon name="Swiftness"/>, <Boon name="Stability"/>, and <Effect name="Superspeed"/>. For each boon you have you will get a 5% multiplicative damage modifier.
 - <Trait name="Modified Ammunition"/> Grants a 2% multiplicative damage modifier per condition on your foe. <Skill name="Grenade Kit"/> and <Skill name="Elite Mortar Kit"/> can be used to help with this, especially when precasting <Skill name="Elite Mortar Kit"/> in to a burst phase.
 - <Trait name="Explosive Temper"/> gives a stacking <Attribute name="Ferocity"/> bonus up to 10 stacks when explosions hit your foe. 
 
 Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritize above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the prioirty list below for filler skills. Additionally, make sure to try to maintain the uptime of the Traits and Relic listed above to increase your damage as much as possible.
 
-When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon name="Quickness"/> is generated through the trait <Trait name="Kinetic Accelerators"/>. Every time you perform a blast, leap, or whirl finisher, you will share <Boon name="Quickness"/> to allies. Using the build at the top of the page, each finisher will share 4 seconds of <Boon name="Quickness"/>. Depending on the group and phase lengths, you may have to adjust your skills and rotation, to focus more on sharing <Boon name="Quickness"/>, and other times it may be enough to do a proper prestack, and just do the burst rotation. Also make sure you are ready to share quickness shortly before boss phases starts on CM fights, especially after periods of downtime, where other builds may want to precast some skills into the start of the phase.
 
 <Grid>
 <GridItem>
@@ -236,8 +227,16 @@ Your bomb blasts will proc <Item id="104800"/>.
 5.  Morph Skills
 6.  <Skill name="Grenade Kit"/> (<Skill name="Shrapnel Grenade"/> , <Skill name="Freeze Grenade"/>, <Skill name="Poison Grenade"/>  )
 7.  <Skill name="Electro Whirl"/> (Hammer 2)
+8.  <Skill name="Throw Mine"/> again if available and not needed to boonstrip later.
+9.  <Skill name="Shrapnel Grenade"/>  again if available.
+
+Potentially delay morph skills for earlier grenade kit 2.
 </Card>
 
+<Card title="Rotation with Symbotic Synergy">
+Use <Skill id="76642"/> to recharge your morph skills. 
+
+</Card>
 
 
 
@@ -274,6 +273,6 @@ How many  relics and damage skills you can or want to precast depends on your gr
 </Grid>
 
 ### Example Video (Skorvald)
-<Video caption="by Feint. Skorvald Example without Grenade Kit. Don't take it too literally. What is best depends on your group. Discord might have more POVs. Note how the elite was saved for good p2 burst. " youtube="CNP0TghUBIs" timestamp={140}/> 
+<Video caption="by Feint. Skorvald Example without Grenade Kit. What is the best depends on your group and the exact fight. Discord might have more POVs. Note how the elite was saved for good p2 burst. " youtube="CNP0TghUBIs" timestamp={140}/> 
 
 
