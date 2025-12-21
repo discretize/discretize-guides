@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGNyYvSyYqDyoPhgBfAQcBBwEmAY0Bex2JAQAAAAAAAAAAAAAAAAAAAAADWgA2ADMAAA==]"
-date: "2025-12-21T14:12:46.135Z "
+date: "2025-12-21T15:56:20.482Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.
 It offers:
@@ -150,10 +150,10 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 | <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> Skill 4) <br/> <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> Skill 5) | 147% |
 | <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> Skill 2) | 123% |
 | <Skill id="76530"/> (<Skill name="Bomb Kit"/> Skill 4) | 111% |
-| <Skill name="Equalizing Blow"/> (Hammer 1 Chain) | 100% |
+| <Skill name="Equalizing Blow"/> (Hammer 1 Complete Chain) | 100% |
 | <Skill name="Rocket Charge"/> (Hammer 3) | 94% |
-
-
+| <Skill name="Bomb"/> (<Skill name="Bomb Kit"/> 1) | 89% |
+| <Skill name="Fire Bomb"/> (<Skill name="Bomb Kit"/> 2) | 18% |
 
 </GridItem>
 <GridItem>
@@ -182,6 +182,9 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 - <Skill id="76815"/> gives 8 Stacks
 - <Skill name="Shock Shield"/> gives 10 Stacks
 - <Trait name="Steel-Packed Powder"/> and <Skill name="Bombkit"/> or <Skill name="Grenadekit"/>
+- <Skill id="30713"/> gives 1 Stack with each pulse.
+
+
 #### Reflect Skills
 - <Skill name="Electro Whirl"/> (Hammer 2)
 - <Skill id="76613"/> when playing <Skill id="76738"/>
@@ -207,7 +210,7 @@ Damage values according to [Zerthox sheet](https://docs.google.com/spreadsheets/
 <Divider text="Rotation / Skill Usage"/>
 <Warning>
 
-Golem rotations from Raids are generally suboptimal in Fractals due to being optimized for sustained DPS. In Fractals players need to adapt their rotation to the amount of time a group needs to finish a phase or specific burst windows like <Control name="Stun"/> and <Effect name="Exposed"/>.
+Golem rotations from Raids are generally suboptimal in Fractals due to being optimized for sustained DPS. In Fractals players need to adapt their rotation to the amount of time a group needs to finish a phase or specific burst windows like <Control name="Stun"/> and <Effect name="Exposed"/>.  Try to get as many high damage skills as possible into a phase while quickly ramping vuln, stripping boons and stunning the boss.
 </Warning>
 <Grid>
 <GridItem sm="6">
@@ -215,9 +218,11 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <Card title="Pre-fight">
 Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs.
 
+<Trait id="2406" /> recharges your morph skills, hence if you play it, you want to go Morphs -> Evolve -> Morphs again.
+
 </Card>
 
-<Card title="Burst Rotation">
+<Card title="Burst Rotation without Symbotic Synergy">
 
 
 <Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. \
@@ -228,21 +233,11 @@ Your bomb blasts will proc <Item id="104800"/>.
 2.  <Skill id="30713"/> (Hammer 5) and <Skill name="Detonate"/> your mine. \
     The mine will strip <Instability name="No Pain, No Gain"/>.
 4.  <Skill name="Electro Whirl"/> (Hammer 2)
+5.  Morph Skills
+6.  <Skill name="Grenade Kit"/> (<Skill name="Shrapnel Grenade"/> , <Skill name="Freeze Grenade"/>, <Skill name="Poison Grenade"/>  )
+7.  <Skill name="Electro Whirl"/> (Hammer 2)
 </Card>
 
-### Burst Rotation
-
-On a spawnable boss or with <Skill id="77209" />  
-
-1.  <Skill id="76993"/> 
-2.  <Skill id="30713"/> (Hammer 5)
-3.  <Skill name="Throw Mine"/> (Utility)
-4.  <Skill name="Electro Whirl"/> (Hammer 2)
-5.  <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2)
-6.  <Skill name="Grenade Barrage"/> (<Skill name="Grenade Kit"/> Toolbelt)
-7.  <Skill name="Minefield"/> (<Skill name="Throw Mine"/> Toolbelt)
-8.  <Skill name="Poison Grenade"/> (<Skill name="Grenade Kit"/> 5)
-9.  <Skill name="Freeze Grenade"/> (<Skill name="Grenade Kit"/> 4)
 
 
 
@@ -278,6 +273,6 @@ How many  relics and damage skills you can or want to precast depends on your gr
 </Grid>
 
 ### Example Video (Skorvald)
-<Video caption="by Feint." youtube="CNP0TghUBIs" timestamp={140}/> 
+<Video caption="by Feint. Skorvald Example without Grenade Kit. Don't take it too literally. What is best depends on your group. Discord might have more POVs. Note how the elite was saved for good p2 burst. " youtube="CNP0TghUBIs" timestamp={140}/> 
 
 
