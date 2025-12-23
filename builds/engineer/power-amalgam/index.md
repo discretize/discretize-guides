@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-23T09:00:23.020Z "
+date: "2025-12-23T09:02:19.982Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
 
@@ -48,8 +48,8 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Trait id="2406" size="big" disableText/> | Standard DPS trait for raid-like fights.   |                 
 | <Trait id="2334" size="big" disableText/> | Likely performs better than  <Trait id="2406" size="small"/> in phased fights.|
 | <Trait id="2420" size="big" disableText/> | Reduces the cooldown of <Skill id="76642"/> which might be beneficial.                                 |
-| <Trait id="2383"  size="big" disableText/>| Gives a little more dps and applies poison. |
-| <Trait id="2349"  size="big" disableText/>| Might be good on a specific fights with  <Trait id="2406"/>.
+| <Trait id="2383"  size="big" disableText/>| Adds a little dps and applies poison when <Skill id="76642"/> cd-reduction is not needed. |
+| <Trait id="2349"  size="big" disableText/>| Might be good on specific fights together with  <Trait id="2406"/>.
 
 ### Defiance Bar Damage
 
