@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-23T10:00:40.341Z "
+date: "2025-12-23T10:01:15.649Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
 
@@ -227,7 +227,7 @@ Potentially delay morph skills for earlier grenade kit 2.
 </Card>
 
 <Card title="Rotation with Symbotic Synergy">
-Use <Skill id="76642"/> to recharge your morph skills. <Trait id="2349"/> is an option. 
+Use <Skill id="76642"/> to recharge your morph skills.  
 
 </Card>
 
