@@ -5,16 +5,16 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-23T09:02:19.982Z "
+date: "2025-12-23T09:54:12.768Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
 
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
- 
+  
 
 <Divider text="Equipment"/> 
-
+ 
 <CharacterWithAr>  
 <Character title="Alac Amalgam" gear='{"attributes":{"profession":"Engineer","specialization":"Scrapper","data":{"Health":21232,"Armor":2343,"Power":3608,"Precision":1924,"Toughness":1225,"Vitality":1608,"Ferocity":1631,"Condition Damage":750,"Expertise":0,"Concentration":579,"Healing Power":0,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":0.386,"Critical Chance":1.04,"Critical Damage":2.5873333333333335,"Power Coefficient":3397,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":7.98,"Poison Coefficient":3.3,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Bleeding Duration":0.33,"Siphon Base Coefficient":139.75,"Effective Power":28849.267713533845,"NonCrit Effective Power":11150.193653774999,"Power DPS":37736.21964685193,"Power2 DPS":0,"Siphon DPS":139.75,"Bleeding Damage":96.3125,"Bleeding Stacks":10.6134,"Bleeding DPS":1022.2030875,"Burning Damage":355.421875,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":103.55175,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":112.84375,"Poison Stacks":3.3,"Poison DPS":372.384375,"Torment Damage":142.74375,"Torment Stacks":0,"Torment DPS":0,"Damage":39270.55710935193,"Effective Health":98998161.19402987,"Survivability":50329.517638042635,"Effective Healing":390,"Healing":390}},"armor":{"weight":"Medium","helmAffix":"Berserker","helmRuneId":24836,"helmRune":"Scholar","helmRuneCount":6,"helmInfusionId":37131,"shouldersAffix":"Berserker","shouldersRuneId":24836,"shouldersRune":"Scholar","shouldersRuneCount":6,"shouldersInfusionId":37131,"coatAffix":"Berserker","coatRuneId":24836,"coatRune":"Scholar","coatRuneCount":6,"coatInfusionId":37131,"glovesAffix":"Berserker","glovesRuneId":24836,"glovesRune":"Scholar","glovesRuneCount":6,"glovesInfusionId":37131,"leggingsAffix":"Berserker","leggingsRuneId":24836,"leggingsRune":"Scholar","leggingsRuneCount":6,"leggingsInfusionId":37131,"bootsAffix":"Berserker","bootsRuneId":24836,"bootsRune":"Scholar","bootsRuneCount":6,"bootsInfusionId":37131},"weapon":{"weapon1MainId":30690,"weapon1MainType":"Hammer","weapon1MainSigil1Id":24615,"weapon1MainAffix":"Berserker","weapon1MainInfusion1Id":37131,"weapon1MainInfusion2Id":37131,"weapon1MainSigil2Id":24868,"weapon2MainInfusion2Id":37131,"weapon2MainSigil2Id":24868},"backAndTrinket":{"backItemAffix":"Dragon","backItemInfusion1Id":37131,"backItemInfusion2Id":37131,"amuletAffix":"Berserker","ring1Affix":"Berserker","ring1Infusion1Id":37131,"ring1Infusion2Id":37131,"ring1Infusion3Id":37131,"ring2Affix":"Berserker","ring2Infusion1Id":37131,"ring2Infusion2Id":37131,"ring2Infusion3Id":37131,"accessory1Affix":"Berserker","accessory1InfusionId":37131,"accessory2Affix":"Berserker","accessory2InfusionId":37131},"consumables":{"foodId":91805,"utilityId":77569,"relicId":104800},"skills":{"healId":21659,"utility1Id":5805,"utility2Id":30337,"utility3Id":5812,"eliteId":"76993"},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[1914,1923,526],[1882,1892,1947],[1917,1860,2052]],"lines":[38,6,43]}}'>
 
@@ -250,7 +250,6 @@ You want to precast <Boon name="Alacrity"/> and <Boon name="Might"/> for your gr
 3. <Skill id="76642"/> and  all Morph Skills for <Boon name="Alacrity"/> with <Trait id="2387"/>. 
 4. Refresh Skills with _Mistlock Singularity_.
 5. Blast <Boon name="Might"/> again.
-6. <Skill name="Essence of Borrowed Time"/> for <Effect name="Superspeed"/>.
 6. Swap to your fight template with hammer.
 
 
