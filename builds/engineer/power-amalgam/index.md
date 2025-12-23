@@ -5,13 +5,13 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-22T23:33:13.837Z "
+date: "2025-12-23T09:00:23.020Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
 
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
-
+ 
 
 <Divider text="Equipment"/> 
 
@@ -49,7 +49,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Trait id="2334" size="big" disableText/> | Likely performs better than  <Trait id="2406" size="small"/> in phased fights.|
 | <Trait id="2420" size="big" disableText/> | Reduces the cooldown of <Skill id="76642"/> which might be beneficial.                                 |
 | <Trait id="2383"  size="big" disableText/>| Gives a little more dps and applies poison. |
-| <Trait id="2349"  size="big" disableText/>| Might be good on a few specific fights with  <Trait id="2406"/>.
+| <Trait id="2349"  size="big" disableText/>| Might be good on a specific fights with  <Trait id="2406"/>.
 
 ### Defiance Bar Damage
 
