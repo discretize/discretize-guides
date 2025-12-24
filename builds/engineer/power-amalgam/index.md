@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-24T00:55:15.571Z "
+date: "2025-12-24T00:56:14.972Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
  
@@ -81,7 +81,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill id="5812" size="big" disableText/> | <Skill id="5842" size="big" disableText/><Skill id="5823" size="big" disableText/><Skill id="5822" size="big" disableText/><Skill id="76530" size="big" disableText/><Skill id="5813" size="big" disableText/>     |
 
 Replace <Skill name="Grenade Kit"/> if you need other utility skills. \
-Replace <Skill id="76927"/> for Shred or Pierce. 
+Replace <Skill id="76927"/> for other Morphs. 
 
 ### Situational Skills
 
