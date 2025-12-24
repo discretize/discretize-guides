@@ -5,14 +5,14 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-24T01:19:47.993Z "
+date: "2025-12-24T09:08:28.635Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
  
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
   
-
+ 
 <Divider text="Equipment"/> 
  
 <CharacterWithAr>  
@@ -204,15 +204,16 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <Card title="Pre-Fight">
 Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs.
 
-<Trait id="2406" /> recharges your morph skills, hence if you play it, you want to go Morphs -> Evolve -> Morphs again.
+
 
 </Card>
 
 <Card title="Burst Rotation without Symbotic Synergy">
 
 
-<Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. \
-Place <Skill name="Bombkit"/> Skills 5423 before the boss spawns. \
+Use <Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. <Item id="49940"/> can be used to access tooolbelt skills like <Skill name="Minefield"/>, as well, for additional precast options on spawnable bosses.
+
+Place <Skill name="Bombkit"/> Skills 5423 ideally shortly before the boss spawns. \
 Your bomb blasts will proc <Item id="104800"/>.
 >
 1.  <Skill id="76642"/> and <Skill id="76993"/>, potentially also just before the fight starts. 
