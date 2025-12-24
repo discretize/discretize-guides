@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-24T01:16:12.390Z "
+date: "2025-12-24T01:19:47.993Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
  
@@ -104,7 +104,7 @@ Replace <Skill id="76927"/> or <Skill id="77163"/> for other Morphs as needed.
 <Divider text="Class Concept"/> 
 
 
-<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/> those skills also provide alacrity and special party support. For the pure dps version, different grandmaster trait options exists. The major traits can be selected flexibly, as well. Ask on discord if you are unsure what to play.
+<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/> those skills also provide alacrity and special party support. For the pure dps version, different grandmaster trait options exists. The master and even adept traits can be selected flexibly, as well. Ask on discord if you are unsure what to play.
 
 
 
