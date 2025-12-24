@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-24T00:25:20.149Z "
+date: "2025-12-24T00:35:20.316Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
 
@@ -209,7 +209,8 @@ Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (lon
 <Card title="Burst Rotation without Symbotic Synergy">
 
 
-<Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. \
+<Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss.  <Item id="49940"/> can be used to access toolbet skills, too.
+
 Place <Skill name="Bombkit"/> Skills 5423 before the boss spawns. \
 Your bomb blasts will proc <Item id="104800"/>.
 >
