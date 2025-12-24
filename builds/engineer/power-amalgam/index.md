@@ -5,7 +5,7 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-24T00:56:14.972Z "
+date: "2025-12-24T01:15:34.405Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
  
@@ -81,7 +81,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill id="5812" size="big" disableText/> | <Skill id="5842" size="big" disableText/><Skill id="5823" size="big" disableText/><Skill id="5822" size="big" disableText/><Skill id="76530" size="big" disableText/><Skill id="5813" size="big" disableText/>     |
 
 Replace <Skill name="Grenade Kit"/> if you need other utility skills. \
-Replace <Skill id="76927"/> for other Morphs. 
+Replace <Skill id="76927"/> or <Skill id="77163"/> for other Morphs as needed. 
 
 ### Situational Skills
 
@@ -104,7 +104,7 @@ Replace <Skill id="76927"/> for other Morphs.
 <Divider text="Class Concept"/> 
 
 
-<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/>, those skills also provide alacrity and special party support. For the pure dps version, different trait options exists. Ask on discord if you are unsure what to play.
+<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/> those skills also provide alacrity and special party support. For the pure dps version, different trait options exists. Ask on discord if you are unsure what to play.
 
 
 
