@@ -5,13 +5,13 @@ role: Power Damage
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-24T00:35:20.316Z "
+date: "2025-12-24T00:47:00.690Z "
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class. 
-
+ 
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
-   
+  
 
 <Divider text="Equipment"/> 
  
@@ -80,14 +80,16 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill name="Grenade Kit" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/>     |
 | <Skill id="5812" size="big" disableText/> | <Skill id="5842" size="big" disableText/><Skill id="5823" size="big" disableText/><Skill id="5822" size="big" disableText/><Skill id="76530" size="big" disableText/><Skill id="5813" size="big" disableText/>     |
 
-Replace <Skill name="Grenade Kit"/> if you need other utility skills.
+Replace <Skill name="Grenade Kit"/> if you need other utility skills. \
+Replace <Skill id="76927"/> and <Skill id="77163"/> potentially for 
+
 ### Situational Skills
 
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <Skill id="77209" size="big" disableText/>     | Burst skill option that can also function as precast.      
-| <Skill id="77103" size="big" disableText/>     | Good damage morph that pierces and grants <Effect name="Superspeed"/> when evolved.  
-| <Skill id="76815" size="big" disableText/>     | Unblockable morph that provides additional <Condition name="Vulnerability"/> and CC.   
+| <Skill id="77103" size="big" disableText/>     | Great damage morph that pierces and grants <Effect name="Superspeed"/> when evolved.  
+| <Skill id="76815" size="big" disableText/>     | Unblockable morph that provides additional <Condition name="Vulnerability"/> and a lot of CC.   
 | <Skill name="AED" size="big" disableText/>        | Your best in slot heal skill. Brings CC and a <Item name="Relic of Fireworks"/> proc with <Skill name="Static Shock"/>, and a heal that allows you to survive an instance of lethal damage.  |
 | <Skill id="76738" size="big" disableText/>        | Gives access to <Skill id="76613"/>, which provides a reflect. |
 | <Skill name="Med Kit" size="big" disableText/>        | Can be taken as a heal skill in scenarios with high damage pressure. Grants access to a blast finisher with <Skill name="Infusion Bomb"/>, and condi cleanse with <Skill name="Cleansing Field"/>. |
@@ -209,8 +211,7 @@ Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (lon
 <Card title="Burst Rotation without Symbotic Synergy">
 
 
-<Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss.  <Item id="49940"/> can be used to access toolbet skills, too.
-
+<Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. \
 Place <Skill name="Bombkit"/> Skills 5423 before the boss spawns. \
 Your bomb blasts will proc <Item id="104800"/>.
 >
