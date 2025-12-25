@@ -11,7 +11,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-04-27T10:45:59.895Z "
+date: "2025-12-25T23:28:25.962Z "
 title: Power Dragonhunter
 rating: Meta
 role: Power Damage
@@ -21,6 +21,9 @@ conditions:
     uptime: 25 stacks
 cmGuide: ""
 ---
+<Warning> 
+This page has an beginner and an advanced tab. The advanced tab showcases the more recent spear build. The beginner tab features the oldschool longbow build. The advanced tab also shows the gear for both radiance and virtues setups.
+</Warning>
 
 <Specialization name="Dragonhunter" text="Power Dragonhunter"/> is a high-burst DPS class for fractals. It provides medium defiance bar damage (CC), high amounts of vulnerability through <Trait name="symbolicexposure"/>, and good defensive capabilities through <Skill name="shieldofcourage"/> and <Skill name="litanyofwrath"/>. At the cost of personal DPS, it can access <Specialization name="Guardian" text="Guardian"/>'s strong supportive utilities, such as <Skill name="standyourground" />, <Skill name="wallofreflection" />, and <Skill name="advance" />.
 
