@@ -22,11 +22,11 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-12-21T17:29:50.547Z "
+date: "2025-12-28T22:23:44.955Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
-It offers:
+It offers: 
    
 - High initial burst and strong sustained damage
 - A large amount of crowd control
@@ -84,7 +84,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 ### Relic Variations
 <Item id="104800"/> can be used instead of <Item id="100947"/>. \
-Used properly, it can be a damage increase at the cost of flexibility.
+Used properly, it can be a damage increase at the cost of flexibility. It be advantageous to run <Skill name="Bombkit"/> with <Item id="104800"/>.
 
 ### Additional Skills
 
@@ -106,7 +106,7 @@ Used properly, it can be a damage increase at the cost of flexibility.
 | <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
 | <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put conditions on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
 | <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                                                                                          |
-| <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage.                                                                                                                                                                         |
+| <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage. It can also be used to trigger <Item id="104800"/>.                                                                                                                                                                         |
 | <Skill name="Bulwark Gyro" size="big" disableText/>     | Used to precast <Skill name="Defense Field"/> to profit from <Trait name="Object in Motion"/>                                                                                                                                         |
 | <Skill name="Rocket Boots" size="big" disableText/>     | Used for skips in some T4 fractals.                                                                                                                                                                                                   |
 | <Skill name="Shift Signet" size="big" disableText/>     | <Specialization name="Mechanist"/> skill used as a Shadowstep for some T4 skips.                                                                                                                                                      |
