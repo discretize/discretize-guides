@@ -22,7 +22,7 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-12-28T22:23:44.955Z "
+date: "2025-12-28T22:26:49.128Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
@@ -84,7 +84,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 ### Relic Variations
 <Item id="104800"/> can be used instead of <Item id="100947"/>. \
-Used properly, it can be a damage increase at the cost of flexibility. It be advantageous to run <Skill name="Bombkit"/> with <Item id="104800"/>.
+Used properly, it can be a damage increase at the cost of flexibility. It might be advantageous to run <Skill name="Bombkit"/> with <Item id="104800"/>. <Skill name="Blast Gyro"/> and <Skill name="Healing Turret"/> can also provide additional blasts.
 
 ### Additional Skills
 
