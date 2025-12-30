@@ -21,7 +21,7 @@ hidden: false
 hasBeginner: false
 specialization: Specter
 code: "[&DQUcGyw/RxUVGwAACwEAAC8BAAAGGwAADgEAAAAAAAAAAAAAAAAAAAAAAAABLwAA]"
-date: "2025-05-04T21:54:57.207Z "
+date: "2025-12-19T23:11:38.980Z "
 title: Condi (Alac) Specter
 rating: Good
 role: Condi Damage
@@ -35,10 +35,12 @@ conditions:
 cmGuide: ""
 ---
 <Warning> 
-<Specialization text="Condi Specter" name="Specter"/> is a very strong build in Silent Surf and Sunqua Peak especially as a <Boon name="Alacrity"/> provider. Outside of these fractals it falls massively behind other builds and is not recommended to be played. If you are gearing <Specialization text="Condi Alacrity Specter" name="Specter"/>, we recommend gearing <BuildLink build="Power Renegade" specialization="Renegade"/> to play on the other CM encounters and T4s.
-</Warning>
+<Specialization text="Condi Specter" name="Specter"/> is a very strong build in long-phased fights like Kinfall, Silent Surf and Sunqua Peak, especially as a <Boon name="Alacrity"/> provider. Outside of these fractals it falls massively behind other builds and is not recommended to be played. If you are gearing <Specialization text="Condi Alacrity Specter" name="Specter"/>, we recommend gearing <BuildLink build="Power Renegade" specialization="Renegade"/> to play on the other CM encounters and T4s. 
 
-The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great CC and some party support. 
+With the introduction of Visions of Eternity, antiquary is also a great thief specialization, which relies on <Trait id="2393"/> to provide alacrity at a shorter (240) radius. If you and your group know what they are doing, antiquary can also be a great pick, but spectre is the all-time classic. If you are a thief enjoyer and want to play a healer, ask on discord about cele heal spectre. 
+</Warning>
+  
+The **<Specialization text="Condi Specter" name="Specter"/>** is a high DPS condition build with great CC, decent party support and a strong precast. 
 
 The value of this build comes from the pure damage that it will bring and the massive amount of CC offered by <Skill name="basiliskvenom"/>. Venom Skills can be precast on the _Mistlock Singularity_, and cast again as soon as your allies have consumed them by attacking the target, this is required for this build to perform well. 
 
@@ -75,17 +77,18 @@ Depending on the group and composition you may need to replace the Geomancy Dagg
 <Grid>
 <GridItem sm="7">
 ### Traits
-<Traits traits1Id="44" traits1="Trickery" traits1SelectedIds="1163,1190,1706" traits2Id="28" traits2="Deadly Arts" traits2SelectedIds="1164,1292,1291" traits3Id="71" traits3="Specter" traits3SelectedIds="2284,2290,2264"/>
+<Traits traits1Id="44" traits1="Trickery" traits1SelectedIds="1163,1277,1706" traits2Id="28" traits2="Deadly Arts" traits2SelectedIds="1164,1292,1291" traits3Id="71" traits3="Specter" traits3SelectedIds="2284,2290,2264"/>
 
 ### Situational Trait
-<Trait id="1277"/> over <Trait id="1190"/> on <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed.
-<Trait id="1187"/> over <Trait id="1706"/> when running off-hand Pistol to quickly grant initiative for CC with <Skill id="13012"/>.
+<Trait id="1277"/> is a great way to deal with <Instability name="No Pain, No Gain"/> days, or when boonstrip is needed in general. <Trait id="1190"/> can be used in conjuction with <Skill name="Mind Shock"/> and <Skill name="Dawn's Response"/> for some minor dps. 
+
+<Trait id="1187"/> over <Trait id="1706"/> when running off-hand pistol to quickly grant initiative for CC with <Skill id="13012"/>. Read the notes at the bottom of the page on how to proc <Item id="100153"/> in that case as you lose a source of <Condition name="Bleeding"/>.
 
 ### Alacrity Specter
 
 This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute name="Boon Duration" /> required is **34%**, but might make it hard to maintain alacrity uptime depending on how long you spend in <Skill name="Enter Shadow Shroud"/>, which is why the general build suggests **40% uptime** You might need to adjust your gear using the [gear optimizer](https://optimizer.discretize.eu/?s=TVPLpTL3v1) with your <Attribute name="Agony Resistance" /> and desired <Attribute name="Boon Duration" />.
 
-<Boon name="Alacrity" /> is applied to allies around your _Tethered Ally_ via your _Shroud Skills_.
+<Boon name="Alacrity" /> is applied in a 360 radius and to your _Tethered Ally_ via your shroud skill <Skill name="Grasping Shadows"/>. <Skill name="Mind Shock"/> applies aegis with <Trait id="2289"/>. <Skill name="Dawn's Response"/> provides <Boon name="Protection"/> on alacrity spectre. 
 
 <Traits traits1Id="71" traits1="Specter" traits1SelectedIds="2284,2290,2289" unembossed/>
 
@@ -104,13 +107,25 @@ This build can maintain <Boon name="Alacrity"/> solo. The minimum <Attribute nam
 </GridItem>
 <GridItem sm="5">
 ### Situational Weapons
-An off-hand pistol with <Item id="24639"/> to use <Skill name="Headshot"/>.
+An off-hand pistol with <Item id="24639"/> to use <Skill name="Headshot"/> if you want to hard-carry the breakbars in your pug groups on alac spectre instead of the geomancy sigil dagger. 
+
+### Situational Sigils
+<Item id="24578"/> can be used wherever you do not plan to /gg, specificially in Kinfall fractal. Replace <Item id="24560"/> on dps spectre gear and <Item id="24583"/> on one weapon set on alac spectre.
+
+### Shroud Skills
+|                                           |                                                                                                                                                                                                                   |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <Skill name="Enter Shadow Shroud" size="big" disableText/> | <Skill name="Haunt Shot" size="big" disableText/><Skill name="Grasping Shadows" size="big" disableText/><Skill name="Dawn's Response" size="big" disableText/><Skill name="Eternal Night" size="big" disableText/><Skill name="Mind Shock" size="big" disableText/>     |
+
+with <Trait id="2289"/>, each shroud skill gains a unique benefit. 
+
+<Skill name="Grasping Shadows"/> is the alacrity source. <Skill name="Grasping Shadows"/> and <Skill name="Eternal Night"/> are the main damage skills. <Skill name="Dawn's Response"/> is good cc due to <Condition name="Fear"/> and provides mobility. <Skill name="Mind Shock"/> can be used to buff your <Specialization name="Scrapper"/> allies due to <Trait id="1860"/> and also to provice cc.  Careful, <Skill name="Enter Shadow Shroud"/> and <Skill name="Exit Shadow Shroud"/> can interrupt skills.
 
 ### Situational Skills
 
 |                                                       |                                                                                                                                              |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <Skill id="56898" size="big" disableText/>            | An higher damage option to <Skill name="Skale Venom"/> providing the boss doesnt walk out of the trap.                                             |
+| <Skill id="56898" size="big" disableText/>            | A higher damage option compared to <Skill name="Skale Venom"/> provided that the boss does not walk out of the trap.                                             |
 | <Skill id="13093" size="big" disableText/>            | Precast on allies at the Mistlock for extra damage.                                             |
 | <Skill name="signetofmalice" size="big" disableText/> | Highest sustained healing.                                                                                                                   |
 | <Skill name="skelkvenom" size="big" disableText/>     | Best party healing.                                                                                                                          |
@@ -180,6 +195,11 @@ All Damaging Venom Skills should be cast at the _Mistlock Singularity_: <Skill n
 - On Sunqua Peak, make sure to precast venoms on your <Skill id="13082"/> minions and if possible any other minions you or your allies can summon up to the Venom target cap, as every boon and special ability effect currently on you will be stripped upon starting the encounter. You should also do this on Silent Surf, so you can then precast a second set of venoms on your allies as the fight starts.
 - Spam <Skill name="clusterbomb"/> for <Boon name="might"/> blasts in _Fire Fields_ on the _Mistlock Singularity_ or before T4 bosses.
 
+Using a shortbow with <Item id="24865"/> as well as <Item id="24609"/> and a chest tonic that puts your character into combat can be used to precast <Trait id="1157"/> by using <Skill name="Infiltrator's Arrow"/> twice in quick succession.
 </Card>
+
+### Example Alac Spectre Kinfall Video
+<Video caption="by Ceisay. Here, Alac Spectre is played in full dps gear due to the ability to precast alacrity. On boon-overload days, you can always customize your gear, as well. Furthermore, here Corruption Sigil is used for additional damage boost. Shroud3 is used for additional cc and Shroud5 to provide stability and buff scrappers. Every fight and group is different."  youtube="BiVYzDG7p-o"/> 
+
 </GridItem>
 </Grid>
