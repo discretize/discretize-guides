@@ -22,12 +22,12 @@ classification:
   - 3
   - 2
   - 4
-date: "2025-05-02T10:41:58.433Z "
+date: "2025-12-28T22:26:49.128Z "
 cmGuide: ""
 ---
  The <Specialization text="Power Quick Scrapper" name="Scrapper"/> is a strong offensive <Boon name="Quickness"/> class.
-It offers:
-
+It offers: 
+   
 - High initial burst and strong sustained damage
 - A large amount of crowd control
 - Group support with high <Condition name="Vulnerability"/> uptime, around 13 stacks of <Boon name="Might"/> and some <Boon name="Protection"/>.
@@ -63,11 +63,10 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 |                                                              |                                                                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| <Trait name="Pinpoint Distribution" size="big" disableText/> | Taken to provide extra <Boon name="Might"/> to the party if no one else can.                                   |
 | <Trait name="Aim Assisted Rocket" size="big" disableText/>   | Taken over <Trait name="Explosive Temper"/> on long fights without phases, such as Dark Ai. Is also a source of an extra blast finisher to maintain <Boon name="Quickness"/> |
 | <Trait name="Applied Force" size="big" disableText/>         | Taken if you are DPS and don't need to provide <Boon name="Quickness"/>.                   |
 | <Trait name="Mass Momentum" size="big" disableText/>         | Situationally taken to provide <Boon name="Stability"/>. In fast groups it is played as a DPS increase to increase uptime on <Trait name="Object in Motion"/>. |
-
+ 
 ### Defiance Bar Damage
 
 | Skills                                                                 | Damage                                                        |
@@ -82,6 +81,11 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 
 </GridItem>
 <GridItem sm="5">
+
+### Relic Variations
+<Item id="104800"/> can be used instead of <Item id="100947"/>. \
+Used properly, it can be a damage increase at the cost of flexibility. It might be advantageous to run <Skill name="Bombkit"/> with <Item id="104800"/>. <Skill name="Blast Gyro"/> and <Skill name="Healing Turret"/> can also provide additional blasts.
+
 ### Additional Skills
 
 |                                           |                                                                                                                                                                                                                   |
@@ -89,7 +93,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | Toolbelt                                  | <Skill id="21661" size="big" disableText/><Skill id="6172" size="big" disableText/><Skill id="6164" size="big" disableText/><Skill id="29665" size="big" disableText/><Skill id="56921" size="big" disableText/> |
 | <Skill id="6020" size="big" disableText/> | <Skill id="5882" size="big" disableText/><Skill id="5807" size="big" disableText/><Skill id="5808" size="big" disableText/><Skill id="5809" size="big" disableText/><Skill id="5806" size="big" disableText/>     |
 
-### Situational SKills
+### Situational Skills
 
 |                                                         |                                                                                                                                                                                                                                       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -102,7 +106,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Skill name="Purge Gyro" size="big" disableText/>       | Can be swapped with <Skill name="Shredder Gyro"/> in condition heavy fights to help support your party.                                                                                                                               |
 | <Skill name="Elite Mortar Kit" size="big" disableText/> | Used to put conditions on bosses to benefit from <Trait name="Modified Ammunition"/>. Also provides some slow CC,                                                                                                                       |
 | <Skill name="Supply Crate" size="big" disableText/>     | Used for CC.                                                                                                                                                                                                                          |
-| <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage.                                                                                                                                                                         |
+| <Skill name="Bomb Kit" size="big" disableText/>         | Used to precast <Skill name="Big ol Bomb"/> for extra damage. It can also be used to trigger <Item id="104800"/>.                                                                                                                                                                         |
 | <Skill name="Bulwark Gyro" size="big" disableText/>     | Used to precast <Skill name="Defense Field"/> to profit from <Trait name="Object in Motion"/>                                                                                                                                         |
 | <Skill name="Rocket Boots" size="big" disableText/>     | Used for skips in some T4 fractals.                                                                                                                                                                                                   |
 | <Skill name="Shift Signet" size="big" disableText/>     | <Specialization name="Mechanist"/> skill used as a Shadowstep for some T4 skips.                                                                                                                                                      |
@@ -118,7 +122,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 - <Trait name="Modified Ammunition"/> Grants a 2% multiplicative damage modifier per condition on your foe. <Skill name="Grenade Kit"/> and <Skill name="Elite Mortar Kit"/> can be used to help with this, especially when precasting <Skill name="Elite Mortar Kit"/> in to a burst phase.
 - <Trait name="Explosive Temper"/> gives a stacking <Attribute name="Ferocity"/> bonus up to 10 stacks when explosions hit your foe. 
 
-Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritize above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the prioirty list below for filler skills. Additionally, make sure to try to maintain the uptime of the Traits and Relic listed above to increase your damage as much as possible.
+Although <Specialization name="Scrapper" text="Scrapper"/> has a priority based rotation, there is one main skill combination you want to prioritize above all others and do almost off cooldown where possible, this is <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2, Utility Skill). At the start of phases try to follow the burst rotation below, where cooldowns are availible, and outside of this use the priority list below for filler skills. Additionally, make sure to try to maintain the uptime of the Traits and Relic listed above to increase your damage as much as possible.
 
 When playing <Specialization name="Scrapper" text="Quickness Scrapper"/>, <Boon name="Quickness"/> is generated through the trait <Trait name="Kinetic Accelerators"/>. Every time you perform a blast, leap, or whirl finisher, you will share <Boon name="Quickness"/> to allies. Using the build at the top of the page, each finisher will share 4 seconds of <Boon name="Quickness"/>. Depending on the group and phase lengths, you may have to adjust your skills and rotation, to focus more on sharing <Boon name="Quickness"/>, and other times it may be enough to do a proper prestack, and just do the burst rotation. Also make sure you are ready to share quickness shortly before boss phases starts on CM fights, especially after periods of downtime, where other builds may want to precast some skills into the start of the phase.
 
