@@ -5,62 +5,65 @@ image: images/header.jpg
 description: A beginners guide to being successful in fractals.
 author: Princeps.6481
 ---
-## Introduction to fractals
+## Introduction to Fractals
 
 <Grid>
 
 <GridItem xs="12" sm="7">
 
-Fractals of The Mists, frequently called _"fractals"_, or simply _"fracs"_, are 5-man repeatable endgame dungeon-like instances with a large scale of difficulty and rewards. 100 levels are structured into 4 different tiers, each consisting of 25 levels.
+Fractals of the Mists, often called _"fractals,"_ or simply _"fracs,"_ are 5-player, repeatable, dungeon-like instances with a wide range of difficulty and rewards. 
+The 100 levels are divided into four tiers, each consisting of 25 levels.
 
-As you move up in fractal level, the content becomes more difficult – but also more rewarding.
+As the fractal level increases, the content becomes more difficult, but you also earn more rewards.
 
-You can find the portal entrance to fractals in Fort Marriner in Lion's Arch. There are no gear requirements for tier 1 fractals, allowing anybody to try fractals out.
+You can find the portal entrance to the Fractals in Fort Marriner in Lion's Arch. There are no mandatory gear requirements for Tier 1 fractals, allowing anyone to try them out.
 
-Starting at level 20, players need to deal with <Effect name="Agony"/> which requires increasing amounts of <Attribute name="Agony Resistance"/> to counter effectively as you move up in fractal level. Without enough <Attribute name="Agony Resistance"/> you lose a percentage of your HP every second while under the effect of <Effect name="Agony"/>. Click on the <Effect name="Agony"/> icon to learn more about the scaling of the damage by <Effect name="Agony"/>.
+Starting at level 20, players must deal with <Effect name="Agony"/>. Without sufficient <Attribute name="Agony Resistance"/> you will lose a large percentage of your health every second, potentially killing you instantly. Click on the <Effect name="Agony"/> icon to learn more. The maximum required agony resistance for each tier and ways of obtaining it can be found later on in this guide.
 
 </GridItem>
 
 <GridItem xs="12" sm="5">
-![Portal to the fractals in Lions Arch (Fort Marriner)](images/portal.jpg)
+![Portal to the Fractals in Fort Marriner in Lion's Arch](images/portal.jpg)
 </GridItem>
 
 </Grid>
 
 <Warning>
 
-Be aware of <Effect name="Agony"/>; it reduces your healing and barriers by 70% per stack. Try to avoid using your heal skill while you are under the effect of <Effect name="Agony"/>.
+Be aware of <Effect name="Agony"/> . It reduces incoming healing and barrier application by 70% per stack **(Bug: Barrier application is not reduced).** Try to avoid using your healing skill while you are under the effect of <Effect name="Agony"/>.
 
 </Warning>
 
-Starting with tier 2, the players begin encountering _Mistlock instabilities_ which add another mechanic to play around, and therefore another layer of difficulty. By tier 4, each fractal will apply multiple _Mistlock instabilities_. A complete list of _Mistlock instabilities_ and countermeasures can be found at the bottom of this page.
+Each fractal from Tier 2 to 4 is affected by _Mistlock Instabilities._ These are additional mechanics or effects that are chosen randomly every day. Tier 2 fractals have one instability, Tier 3 fractals have two, and Tier 4 fractals have three. A complete list of _Mistlock Instabilities_ and countermeasures can be found at the bottom of this page.
 
 ---
 
-## Defiance bars
+## Defiance Bars
 
 ![The CC bar is underneath the health bar](images/ccbar.png)
 
 <Grid>
 <GridItem sm="9">
-Have you noticed the blue bar under the boss' HP bar? Whenever you use a Crowd Control skill (a skill that throws the enemy around, stuns, or applies movement impairing conditions) a chunk of the bar gets removed. The bar is called a *defiance bar* or more commonly in pugs a *break bar*. When the entire bar is broken the boss gets the <Effect name="Exposed"/> debuff which increases the incoming damage to the boss for power damage by 10% and 20% for condition damage. **This is one of the most important mechanics across all fractals as this allows you to deal huge amounts of damage in a short time.** The idea is to always break the defiance bar and then burst. Ideally, everyone in the team contributes to breaking the bar as it appears.
+Have you noticed the blue bar under an enemy's health bar? Whenever you use a crowd control (CC) skill (one that stuns, knocks back, or applies movement-impairing conditions) a chunk of the bar gets removed. The bar is called a *Defiance bar* or more commonly in pugs, a *break bar*. 
 
-Skills that damage the defiance bar are highlighted turquoise in the tooltip. Bosses have varying sizes of CC bars. Commonly, champions have a bar of the size `600`, while bosses in CM-fractals range around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest instead consulting the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) for finding out the exact values.
+When the entire bar is depleted, the enemy gets the <Effect name="Exposed"/> debuff, which increases incoming power damage by 10% and condition damage by 20%. **This is one of the most important mechanics across all fractals, as this allows you to deal huge amounts of damage in a short time.** The idea is to always break the Defiance bar and then burst. Ideally, everyone in the team contributes to breaking the bar as it appears. 
+
+Skills that damage the Defiance bar are highlighted in turquoise in the tooltip. Defiance bars have different values depending on the enemy; for example, champions commonly have a `600`-value bar, while bosses in challenge mode fractals can have bars with values around `2000`. However, it is important to note that the tooltips are incorrect for many skills ([list of all missing or dead](https://wiki.guildwars2.com/wiki/Defiance_Break)). Often, the displayed numbers are off by a large margin and therefore do not even serve as a rough estimate. We suggest instead consulting the [wiki](https://wiki.guildwars2.com/wiki/Defiance_bar) to find out the exact values.
 </GridItem>
 
 <GridItem sm="3">
-![The amount of CC a skill deals (roughly) is highlighted in cyan](images/cchighlight.png)
+![The amount of CC a skill deals (roughly) is highlighted in turquoise.](images/cchighlight.png)
 </GridItem>
 </Grid>
 
 <Warning>
-**Using Crowd Control effectively is the key to success in almost all fractals! A fast break will decrease kill times by a large margin even if your party underperforms in every other aspect!**  
+**Using crowd control effectively is the key to success in almost all fractals! A fast break will decrease kill times significantly even if your party underperforms in other aspects!**  
 Read more about breaking Defiance bars here: [CC-distribution examples](/guides/cc-distribution)!
 </Warning>
 
 ---
 
-## Differences between fractals and raids/strikes
+## Differences between Fractals and Raids/Strikes
 
 There are quite a few differences that set fractals apart from other PvE content in Guild Wars 2. Most prominently is the length of a single level: One level is usually completed in 5-10 minutes. The levels do not only contain bosses but also other encounters such as small puzzles or fighting mobs. These puzzles give insight into different mechanics that usually come to play during the boss fight. Many levels can be sped up by thinking outside the box and using smart tricks.
 
@@ -76,11 +79,11 @@ These potions are invaluable and later on starting at T3 or T4 highly recommende
 
 ---
 
-## Navigating the Discretize website
+## Navigating the Discretize Website
 
-The Discretize website has three main categories of guides: General builds and fractals. For new players, all categories should be equally relevant.
+The Discretize website has three main categories of content: Guides, Builds and Fractals. For new players, all categories should be equally relevant.
 
-- [General](/guides/): Learn more about the mechanics you encounter in fractals and how to deal with them.
+- [Guides](/guides/): Learn more about the mechanics you encounter in fractals and how to deal with them.
 - [Builds](/builds/): A collection of builds, which work reasonably well. Please note that the builds are incomplete due to missing contributors. The quality of the build pages is of utmost importance to us; we'd rather have fewer builds but higher quality ones, than listing only rudimentary information about all possible builds. Most build pages also contain variations. For example, there is no dedicated page for DPS Condi Specter, as it is played almost the same as the <Boon name="Alacrity"/> version.
 - [Fractals](/fractals/): An overview of each fractal including possible skips and shortcuts. Also mentions what kind of utility should be brought to mitigate damage at specific encounters.
 
@@ -116,7 +119,7 @@ While there are no hard-set rules or things you "must" bring to clear an encount
 
 ---
 
-## Trouble finding groups? Looking for training runs?
+## Finding Groups or Training Runs
 
 <Grid>
 <GridItem sm="1" md="1">
@@ -146,7 +149,7 @@ For more information, check out their [Discord](https://discord.gg/kzQdtpSxq6)
 
 ---
 
-## External tools
+## External Tools
 
 Players use several tools/add-ons to analyze gameplay more efficiently. Here is a list of common tools:
 
@@ -158,7 +161,7 @@ Players use several tools/add-ons to analyze gameplay more efficiently. Here is 
 
 ---
 
-## Acquiring gear to counter <Effect name="Agony"/>
+## Acquiring Gear and Agony Resistance
 
 Gearing your first character can be expensive, especially for fractals, which will eventually require a full set of ascended gear to gain enough <Attribute name="Agony Resistance"/> for most people. This is partly why it is recommended to start gearing a build with usable stats from the beginning, as it will serve you on your entire fractal journey.
 
@@ -225,7 +228,7 @@ Congratulations! Now you should have exactly 162 <Attribute name="Agony Resistan
 
 ---
 
-## Abbreviations for navigating the LFG
+## Common LFG Abbreviations
 ### General
 These are common abbrevations, used when a group only needs a general idea of a player (e.g., we are missing a quickness healer) or when they have specific experience expectations.
 
@@ -264,7 +267,7 @@ Note that resource bars such as <Specialization name="Warrior"/>'s Adrenaline ba
 
 ---
 
-## Pre-stacking at Mistlock Singularity
+## Pre-stacking at Mistlock Singularities
 
 <Grid>
 <GridItem sm="12" md="2">
@@ -344,7 +347,7 @@ Be careful not to aggro mobs with blasts or you will get <Effect name="Revealed"
 
 ---
 
-## Line of Sight (LoS) and stacking
+## Line of Sight (LoS) and Stacking
 
 <Grid>
 <GridItem sm="12" md="6">
@@ -398,7 +401,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 ---
 
-## Key findings
+## Key Findings
 
 - Don't use your heal skill while under the effect of <Effect name="Agony"/>.
 - CC the boss first, then use your burst skills. **Everyone has to contribute!**
@@ -408,7 +411,7 @@ Below is a list of all current instabilities and their possible countermeasures.
 
 ---
 
-## Trouble finding groups?
+## Trouble Finding Groups?
 
 <Grid>
 <GridItem sm="1" md="1">
