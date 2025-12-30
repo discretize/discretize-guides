@@ -29,17 +29,10 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-23T00:41:42.192Z "
+date: "2025-12-30T17:08:13.025Z "
 title: Power (Quick) Ritualist
 role: Power Damage
-conditions:
-  - 'Map {"name": "Vulnerability"}'
-  - 'Map {"name": "Fear"}'
-  - Map {"name":"Slow" }
-  - Map {"name":"Chilled" }
-  - Map {"name":"Blinded"}
-  - Map {"name":"Weakness" }
-  - Map {"name":"Crippled" }
+conditions: []
 ---
 <Specialization text="Power (Quick) Ritualist" name="Necromancer"/> is currently the strongest power build for <Specialization name="Necromancer"/> in fractals. It provides <Boon name="Quickness"/>, great <Boon name="Might"/> uptime and some <Boon name="Protection"/> as well as <Boon name="Resolution"/>. With <Skill id="76647"/>, ritualist has access to on-demand <Boon name="Aegis"/>, <Boon name="Stability"/>, <Boon name="Resistance"/>. Offensively, it helps the team by providing <Condition name="Vulnerability"/>, which can be especially lacking in condition comps or fast phasing fights. On top of that, it also provides low amounts of <Condition name="Fear"/>, which can help out <Specialization text="Mesmer" name="Mesmer"/>  players with <Trait name="Superiority Complex" />. While it does have great crowd control with <Skill name="Spectral Grasp"/> and <Skill name="Summon Flesh Golem"/>, it lacks the same <Effect name="Stealth"/>, <Effect name="Superspeed"/> and reflect capabilities as <Specialization text="Power (Quick) Scrapper" name="Scrapper"/>. 
          
