@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-31T17:04:13.950Z "
+date: "2025-12-31T17:05:59.583Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -205,7 +205,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <GridItem sm="6">
 
 <Card title="Pre-Fight">
-Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs.
+Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs. If in doubt about master traits, run <Trait id="2420"/>.
 
 
 
