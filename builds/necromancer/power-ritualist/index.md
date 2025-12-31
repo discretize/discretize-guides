@@ -30,7 +30,7 @@ boons:
     variant: party
     uptime: "1"
 code: "[&DQg1KTIlTCuHHaIAdQEAAI4dAABVHQAAlQAAAAAAAAAAAAAAAAAAAAAAAAA=]"
-date: "2025-12-31T13:23:22.553Z "
+date: "2025-12-31T13:25:57.876Z "
 title: Power (Quick) Ritualist
 rating: Good
 role: Power Damage
@@ -122,6 +122,7 @@ Use slaying potions such as <Item id="8886"/>, <Item id="50082"/> and  <Item nam
 | <Skill name="Corrosive Poison Cloud" size="big" disableText/> | A useful skill for mitigating projectiles.                                                                                                                                                                                                           |
 | <Skill name="Spectral Walk " size="big" disableText/>         | A secondary teleport skill that allows one to solo the turret room in the [Thaumanova Fractal](/fractals/thaumanova-reactor). Also great for consuming conditions on consoles in the [Aetherblade Fractal](/fractals/aetherblade). 
 | <Skill name="Summon flesh Wurm" size="big" disableText/>      | A 1200 range teleport skill that can double as a projectile blocker for fights like Old Tom in the [Uncategorized Fractal](/fractals/uncategorized).                                                                                                 |
+| <Skill name="Lich Form" size="big" disableText/>      | Can be used as a greedy dps option when CC is not needed or to precast <Skill id="10636"/>.                                                                                                 |
 
 </GridItem>
 </Grid>
