@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-31T12:50:20.087Z "
+date: "2025-12-31T16:47:39.834Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -14,7 +14,7 @@ role: Power Damage
  
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
-   
+    
  
 <Divider text="Equipment"/> 
  
@@ -214,7 +214,7 @@ Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (lon
 <Card title="Burst Rotation without Symbotic Synergy">
 
 
-Use <Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. <Item id="49940"/> can be used to access tooolbelt skills like <Skill name="Minefield"/>, as well, for additional precast options on spawnable bosses.
+Use <Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. <Item id="49940"/> can be used to access toolbelt skills like <Skill name="Minefield"/>, as well, for additional precast options on spawnable bosses.
 
 Place <Skill name="Bombkit"/> Skills 5423 ideally shortly before the boss spawns. \
 Your bomb blasts will proc <Item id="104800"/>.
