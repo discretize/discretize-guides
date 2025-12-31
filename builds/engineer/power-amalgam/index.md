@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-31T17:03:17.726Z "
+date: "2025-12-31T17:03:40.635Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -52,7 +52,7 @@ Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear varia
 | <Trait id="2334" size="big" disableText/> | Likely performs better than  <Trait id="2406" size="small"/> in phased fights.|
 | <Trait id="2420" size="big" disableText/> | Reduces the cooldown of <Skill id="76642"/> which might be beneficial.                                 |
 | <Trait id="2383"  size="big" disableText/>| Adds a little dps and applies poison when <Skill id="76642"/> cd-reduction is not needed. |
-| <Trait id="2349"  size="big" disableText/>| Might be good on specific fights especially together with  <Trait id="2406"/>.
+| <Trait id="2349"  size="big" disableText/>| Might be good on specific fights, especially together with  <Trait id="2406"/>.
 
 ### Defiance Bar Damage
 
