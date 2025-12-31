@@ -1,12 +1,12 @@
 ---
-hidden: false
-archive: false
-hasBeginner: false
+hidden: true
+archive: true
+hasBeginner: true
 rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-31T12:46:01.510Z "
+date: "2025-12-31T12:49:54.125Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -14,7 +14,7 @@ role: Power Damage
   
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
-  
+   
  
 <Divider text="Equipment"/> 
  
