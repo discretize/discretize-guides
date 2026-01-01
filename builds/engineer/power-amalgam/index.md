@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2025-12-31T17:05:59.583Z "
+date: "2026-01-01T00:36:12.707Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -15,7 +15,7 @@ role: Power Damage
 It offers straightforward access to might and alacrity access, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
     
- 
+  
 <Divider text="Equipment"/> 
  
 <CharacterWithAr>  
@@ -218,7 +218,7 @@ Use <Skill id="77209" /> and <Skill name="Throw Mine"/> on the way to the boss. 
 
 Place <Skill name="Bombkit"/> Skills 5423 ideally shortly before the boss spawns. \
 Your bomb blasts will proc <Item id="104800"/>.
->
+
 1.  <Skill id="76642"/> and <Skill id="76993"/>, potentially also just before the fight starts. 
 2.  <Skill id="30713"/> (Hammer 5) and <Skill name="Detonate"/> your mine. \
     The mine will strip <Instability name="No Pain, No Gain"/>.
