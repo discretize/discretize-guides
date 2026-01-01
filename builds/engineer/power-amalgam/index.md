@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-01T23:29:06.540Z "
+date: "2026-01-01T23:31:52.280Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -32,7 +32,8 @@ Food and utility variations as well as modifier uptime can potentially alter the
 
 For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is worth adjusting your build to make use of <Item id="24868"/>. On certain bosses, other sigils like <Item id="36053"/> (Dark AI), <Item id="24658"/> (Siax and Ensolyss), <Item id="	24664"/> (Eparch), or  <Item id="24651"/> and <Item id="24575"/> (Kinfall) can be used as further damage increase instead of - or sometimes on top of - <Item id="24868"/>. Check the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for the best consumables and sigils in each fractal or ask on discord if you are unsure. 
 
-Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!
+Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!  \
+Food and utility variations as well as modifier uptime can potentially alter the optimal boss-specific build slightly. 
 
 </Character>
 </CharacterWithAr>
@@ -207,7 +208,7 @@ Golem rotations from Raids are generally suboptimal in Fractals due to being opt
 <GridItem sm="6">
 
 <Card title="Pre-Fight">
-Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs. If in doubt about master traits, run <Trait id="2420"/>.
+Decide whether you want <Trait id="2387" /> (alacrity), <Trait id="2406" /> (long phases) or <Trait id="2334" /> (short phases) and whether to run <Skill name="Grenadekit"/> or <Skill id="77209" /> (quick burst) or some other fight specific skill. Ask on[dT Discord](https://discord.com/invite/Kscq6qda) about the latest fight-specific suggestions and POVs. If in doubt about master traits, run <Trait id="2420"/>. As DPS player, you most likely want <Trait id="2334" />.
 
 
 
