@@ -6,12 +6,12 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-04T14:45:27.229Z "
+date: "2026-01-04T14:46:31.593Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.  
- 
+  
 It offers straightforward access to might and alacrity, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
    
@@ -37,7 +37,8 @@ This build can also be played with <Item id="74978"/>, especially for stronger D
 For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is worth adjusting your build to make use of <Item id="24868"/>. On certain bosses, other sigils like <Item id="36053"/> (Dark AI), <Item id="24658"/> (Siax and Ensolyss), <Item id="	24664"/> (Eparch), or  <Item id="24651"/> and <Item id="24575"/> (Kinfall) can be used as further damage increase instead of - or sometimes on top of - <Item id="24868"/>. Check the [cheat sheet](https://www.discretize.eu/guides/cheat-sheet/) for the best consumables and sigils in each fractal or ask on discord if you are unsure. 
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!  \
-Food and utility variations as well as modifier uptimes can potentially alter the optimal boss-specific build slightly. <Item id="74978"/> gives higher ferocity stats for Dark AI reflects, but <Item id="24836"/> is also great. \
+Food and utility variations as well as modifier uptimes can potentially alter the optimal boss-specific build slightly. #
+<Item id="74978"/> gives higher ferocity stats for Dark AI reflects, but <Item id="24836"/> is also great. \
 Calculated with 50% double helix uptime and 50% titanic strain and selected for ferocity. 
  
 
