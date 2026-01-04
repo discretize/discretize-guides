@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-04T02:30:08.646Z "
+date: "2026-01-04T02:30:09.004Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
