@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-04T01:35:09.159Z "
+date: "2026-01-04T02:04:31.138Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -36,7 +36,7 @@ For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is
 
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants!  \
 Food and utility variations, fractal god titles, as well as modifier uptimes can potentially alter the optimal boss-specific build slightly. <Item id="74978"/> gives higher ferocity stats for Dark AI reflects, but <Item id="24836"/> is also great. \
-Calculated with 50% double helix uptime and 50% titanic strain. 
+Calculated with 50% double helix uptime and 50% titanic strain and selected for ferocity. 
  
 
 </Character>
