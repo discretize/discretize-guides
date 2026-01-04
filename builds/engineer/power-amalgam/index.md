@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-04T10:18:32.586Z "
+date: "2026-01-04T10:19:02.824Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -27,7 +27,7 @@ For fractals, due to <Effect name="Exposed"/> and <Control name="Stun" />, it is
 Check the [gear optimizer](https://optimizer.discretize.eu/) for more gear variants! \
 Food and utility variations as well as modifier uptimes can potentially alter the optimal boss-specific build slightly. \
 <Item id="24836"/> has been selected based on the baseline bench log mainly for gear share with scrapper. \
-This build can also be played with <Item id="74978"/>, especially for Dark AI reflects and when modifier uptime increases. 
+This build can also be played with <Item id="74978"/>, especially for stronger Dark AI reflects and when modifier uptime increases. 
 
  
 </Character>
