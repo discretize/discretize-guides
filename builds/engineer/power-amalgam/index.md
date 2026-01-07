@@ -6,12 +6,12 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-04T14:46:31.593Z "
+date: "2026-01-07T11:23:49.603Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
  The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.  
-  
+   
 It offers straightforward access to might and alacrity, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
 
    
@@ -117,7 +117,7 @@ Replace <Skill id="76927"/> or <Skill id="77163"/> for other Morphs as needed.
 <Divider text="Class Concept"/> 
 
 
-<Specialization name="Engineer" text="Amalgam"/> has straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/> those skills also provide alacrity and special party support. For the pure dps version, different grandmaster trait options exists. The master and even adept traits can be selected flexibly, as well. Ask on discord if you are unsure what to play.
+<Specialization name="Engineer" text="Amalgam"/> has a straightforward, flexible rotation. It uses blasts from <Skill name="Bombkit"/> to proc <Item id="104800"/> and <Skill id="76642"/> to buff itself. Amalgam also has access to special morph skills rather than toolbelt skills. Select the best morph skills flexibly for each encounter, group or instability. With <Trait id="2387"/> those skills also provide alacrity and special party support. For the pure dps version, different grandmaster trait options exists. The master and even adept traits can be selected flexibly, as well. Ask on discord if you are unsure what to play.
 
 
 
