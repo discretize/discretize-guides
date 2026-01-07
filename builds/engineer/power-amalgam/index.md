@@ -6,7 +6,7 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-07T11:25:40.011Z "
+date: "2026-01-07T11:26:16.802Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
@@ -122,7 +122,7 @@ Replace <Skill id="76927"/> or <Skill id="77163"/> for other Morphs as needed.
 
 
 
-Like <Specialization name="Scrapper" text="Scrapper"/>,  <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2) are often good skills to prioritize because of their low cooldown. At the start of phases try to follow the burst rotation below, when cooldowns are availible, and outside of this use the priority list below for filler skills. Additionally, make sure to try to maintain the uptime of your traits such as <Trait name="Glass Cannon"/>, <Trait name="Explosive Temper"/> <Trait id="2356"/> to increase your damage as much as possible, similar to <Specialization name="Scrapper" text="Scrapper"/>, <Trait name="Modified Ammunition"/> also makes it a good build on fights with mixed damage dealers.
+Like <Specialization name="Scrapper" text="Scrapper"/>,  <Skill name="Electro Whirl"/> (Hammer 2) into <Skill name="Shrapnel Grenade"/> (<Skill name="Grenade Kit"/> 2) are often good skills to prioritize because of their low cooldown. At the start of phases try to follow the burst rotation below, when cooldowns are availible, and outside of this use the priority list below for filler skills. Additionally, make sure to try to maintain the uptime of your traits such as <Trait name="Glass Cannon"/>, <Trait name="Explosive Temper"/> <Trait id="2356"/> to increase your damage as much as possible, similar to <Specialization name="Scrapper" text="Scrapper"/>, <Trait name="Modified Ammunition"/> also makes it a good build on fights with mixed damage dealers. However, a condition alacrity version using spear, exists as well. 
 
 
 <Grid>
