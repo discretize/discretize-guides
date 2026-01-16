@@ -6,13 +6,13 @@ rating: Good
 profession: Engineer
 specialization: Amalgam
 code: "[&DQMGLSY+SyUqDwAABwEAAIYAAABaHQAAex0AAAAAAAAAAAAAAAAAAAAAAAACMwBrAAA=]"
-date: "2026-01-07T11:29:05.867Z "
+date: "2026-01-16T16:51:13.984Z "
 title: Power (Alac) Amalgam
 role: Power Damage
 ---
- The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.  
-   
-It offers straightforward access to might and alacrity, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait name="Modified Ammunition"/>. Several trait and skill choices exist to adapt the build to specific encounters.   
+ The <Specialization text="Power Alac Amalgam" name="Engineer"/> is a strong offensive <Boon name="Alacrity"/> class.   
+
+It offers straightforward access to might and alacrity, good cc, vulnerability and boonstrip as well as reflect. It is also good in condition compositions due to <Trait id="526"/>. Several trait and skill choices exist to adapt the build to specific encounters.     
 
    
   
@@ -110,7 +110,7 @@ Replace <Skill id="76927"/> or <Skill id="77163"/> for other Morphs as needed.
 | <Skill name="Rocket Boots" size="big" disableText/>     | Used for skips in some T4 fractals.                                                                                                                                                                                                   |
 | <Skill name="Shift Signet" size="big" disableText/>     | <Specialization name="Mechanist"/> skill used as a Shadowstep for some T4 skips.                                                                                                                                                      |
 | <Skill id="77018" size="big" disableText/>     | Stunbreak that can be used for skips.                                                                                                                               |
-
+ 
 </GridItem>
 </Grid>
 
